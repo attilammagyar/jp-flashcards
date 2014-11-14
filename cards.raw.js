@@ -74,7 +74,7 @@
 ["(I) get up at 6 o'clock.",                        "rokuji ni okimasu."],
 ["Of course I'm going!",                            "mochiron ikimasu."],
 ["(I) like dogs but (I) hate that dog so much!",    "inu wa suki desu kedo, ano inu a daikirai desu."],
-["Tonight (it's) quiet and warm.",                  "konya wa shizuka de atatakai desu."],
+["Tonight (it's) quiet and warm.",                  "kon ya wa shizuka de atatakai desu."],
 ["I love spring nights.",                           "haru no yoru wa daisuki desu."],
 
 ["(I) drink coffee at the office every day.",       "mainichi jimusho de |koohii| wo nomimasu."],
@@ -229,7 +229,7 @@
 ["Maybe next time.",                                "mata kondo."],
 [
     "Tonight (I'll) be in Harajuku. (It's) fun, lively and (I) love Harajuku.",
-    "konya wa harajuku ni imasu. tanoshikute, nigiyakade, harajuku wa daisuki desu."
+    "kon ya wa harajuku ni imasu. tanoshikute, nigiyakade, harajuku wa daisuki desu."
 ],
 ["Hello everyone!",                                 "minasan kon ni chi wa."],
 
@@ -239,7 +239,7 @@
 ["Tomorrow (I) have an English exam.",              "ashita eigo no shiken ga arimasu."],
 [
     "I'm very worried. Tonight, shall we study English together?",
-    "totemo shinpai desu. konya isshoni eigo wo benkyou shimasen ka."
+    "totemo shinpai desu. kon ya isshoni eigo wo benkyou shimasen ka."
 ],
 
 [
@@ -252,9 +252,9 @@
 ],
 [
     "(That's) good. (We'll) do that. Tonight what time is OK?",
-    "ii desu ne. sou shimasu. konya nanji ga ii desu ka."
+    "ii desu ne. sou shimasu. kon ya nanji ga ii desu ka."
 ],
-["How about 7 tonight?",                            "konya shichiji wa dou desu ka."],
+["How about 7 tonight?",                            "kon ya shichiji wa dou desu ka."],
 ["Let's go to a concert together.",                 "isshoni |konsaato| ni ikimashou."],
 
 ["Excuse me, do (you) have (any) summer kimonos?",  "sumimasen, yukata ga arimasu ka."],
