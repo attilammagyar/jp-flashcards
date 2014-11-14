@@ -1,0 +1,45 @@
+* {
+    font-family: Verdana, sans-serif;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+html, body {
+    background-color: #ffffff;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    overflow: hidden;
+}
+
+div#card {
+    height: 100%;
+    vertical-align: middle;
+}
+
+div#card p {
+    position: relative;
+    top: 5%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 0.3em;
+    font-size: 250%;
+    text-align: center;
+    opacity: 1.0;
+    transition: opacity 0.3s;
+}
+
+div#card p.hidden {
+    transition: opacity 0s;
+    opacity: 0.0;
+}
+
+div#card p span#index {
+    color: #707070;
+    font-size: 0.75em;
+}
