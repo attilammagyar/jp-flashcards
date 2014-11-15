@@ -266,6 +266,38 @@
 ["May (I) see those chopsticks?",                   "sono ohashi wo misete kudasai."],
 ["May (I) see that doll over there?",               "ano ningyou wo misete kudasai."],
 ["May (I) have this rice wine please?",             "kore osake wo kudasai."],
-["May (I) have this watch and this bag please?",    "kono tokei to kono kaban wo kudasai."]
+["May (I) have this watch and this bag please?",    "kono tokei to kono kaban wo kudasai."],
+
+["I'm not good at waking up early.",                "watashi wa haya oki ga nigate desu."],
+["8 pairs of shoes",                                "kutsu hassoku"],
+["6 apples",                                        "ringo rokko"],
+["5 bottles of rice wine",                          "sake gohon"],
+["4 bottles of beer",                               "|biiru| yonhon"],
+
+["3 summer kimonos",                                "yukata sanmai"],
+["1 television",                                    "|terebi| ichidai"],
+["10 books",                                        "hon jussatsu"],
+[
+    "1 items, 2 items, 3 items, ... 10 items",
+    "hitotsu, futatsu, mittsu, yottsu, itsutsu, muttsu, nanatsu, yattsu, kokonotsu, tou"
+],
+["3 cups of coffee",                                "|koohii| mittsu"],
+
+["2 mobile phones",                                 "keitai denwa futatsu"],
+["1 cake",                                          "|keeki| hitotsu"],
+["10 bags",                                         "kaban tou"],
+["4 watches",                                       "tokei yottsu"],
+["May (I) have 3 bags please?",                     "kaban wo mittsu kudasai."],
+
+["May (I) have 1 bottle of beer please?",           "|biiru| wo ippon kudasai."],
+["May (I) have 2 bags please?",                     "kaban wo futatsu kudasai."],
+["May (I) have 5 watches please?",                  "tokei wo itsutsu kudasai."],
+["May (I) have 4 cups of coffee please?",           "|koohii| wo yottsu kudasai."],
+["May (I) have 2 bottles of rice wine please?",     "sake wo nihon kudasai."],
+
+["May (I) have 6 bottles of beer please?",          "|biiru| wo roppon kudasai."],
+["May (I) have 3 apples please?",                   "ringo wo sanko kudasai."],
+["May (I) have 5 stamps please?",                   "kitte wo gomai kudasai."],
+["May (I) have 3 notebooks please?",                "|nooto| wo sansatsu kudasai."]
 
 ]
