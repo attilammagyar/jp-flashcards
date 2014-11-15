@@ -73,7 +73,7 @@
 
 ["(I) get up at 6 o'clock.",                        "rokuji ni okimasu."],
 ["Of course I'm going!",                            "mochiron ikimasu."],
-["(I) like dogs but (I) hate that dog so much!",    "inu wa suki desu kedo, ano inu a daikirai desu."],
+["(I) like dogs but (I) hate that dog so much!",    "inu wa suki desu kedo, ano inu wa daikirai desu."],
 ["Tonight (it's) quiet and warm.",                  "kon ya wa shizuka de atatakai desu."],
 ["I love spring nights.",                           "haru no yoru wa daisuki desu."],
 
