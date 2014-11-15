@@ -210,7 +210,7 @@
 ["husband [in-group, out-group]",                   "shujin, goshujin"],
 ["wife [in-group, in-group, out-group]",            "tsuma, kanai, okusan"],
 ["older sister [in-group, out-group]",              "ane, oneesan"],
-["younger sister [in-group, out-group]",            "imooto, imootosan"],
+["younger sister [in-group, out-group]",            "imouto, imoutosan"],
 ["older brother [in-group, out-group]",             "ani, oniisan"],
 ["younger brother [in-group, out-group]",           "otouto, otoutosan"],
 ["sibling [in-group, out-group]",                   "kyoudai, gokyoudai"],
