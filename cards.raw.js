@@ -298,6 +298,25 @@
 ["May (I) have 6 bottles of beer please?",          "|biiru| wo roppon kudasai."],
 ["May (I) have 3 apples please?",                   "ringo wo sanko kudasai."],
 ["May (I) have 5 stamps please?",                   "kitte wo gomai kudasai."],
-["May (I) have 3 notebooks please?",                "|nooto| wo sansatsu kudasai."]
+["May (I) have 3 notebooks please?",                "|nooto| wo sansatsu kudasai."],
+["(There) is a tree.",                              "ki ga arimasu."],
+
+[
+    "(There) are some Americans and some Japanese people. (There) aren't (any) English people.",
+    "|amerika| jin to nihonjin ga imasu. igirisujin ga imasen."
+],
+[
+    "(There) are no English people (but others may be).",
+    "igirisujin wa imasen."
+],
+["On the 3rd floor (there) is a supermarket.",      "sankai ni |suupaa| ga arimasu."],
+[
+    "(There) are French and English journalists in that office over there.",
+    "ano jimusho ni |furansu| jin to igirisujin no |jaanarisuto| ga imasu."
+],
+["What is on the 2nd floor?",                       "ni kai ni nani ga arimasu ka."],
+
+["What is on the 6th floor?",                       "rokkai ni nani ga arimasu ka."],
+["Who's in this office?",                           "kono jimusho ni dare ga imasu ka."]
 
 ]
