@@ -156,7 +156,7 @@
 ["(I) don't drink coffee for breakfast.",           "asagohan ni |koohii| wo nomimasen."],
 
 ["(I) don't clean the house.",                      "uchi wo souji wo shimasen."],
-["(I) don't go to work early.",                     "hajaku shigoto ni ikimasen."],
+["(I) don't go to work early.",                     "hayaku shigoto ni ikimasen."],
 ["What time do (you) go home?",                     "nanji ni uchi ni kaerimasu ka."],
 ["What time do (you) work until?",                  "nanji made hatarakimasu ka."],
 ["What do (you) eat for breakfast?",                "asagohan ni nani wo tabemasu ka."],
