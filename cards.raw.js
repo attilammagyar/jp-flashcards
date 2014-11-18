@@ -317,6 +317,24 @@
 ["What is on the 2nd floor?",                       "ni kai ni nani ga arimasu ka."],
 
 ["What is on the 6th floor?",                       "rokkai ni nani ga arimasu ka."],
-["Who's in this office?",                           "kono jimusho ni dare ga imasu ka."]
+["Who's in this office?",                           "kono jimusho ni dare ga imasu ka."],
+["Is there anything on the second floor?",          "ni kai ni nani ka arimasu ka."],
+["Is anyone at home? Yes, there is somebody.",      "uchi ni dare ka imasu ka. hai, dare ka imasu."],
+["There's nobody at home.",                         "uchi ni dare mo imasen."],
+
+["There's nothing on the second floor.",            "ni kai ni nani mo arimasen."],
+["There's nothing on the first floor.",             "ikkai ni nani mo arimasen."],
+["The doll is 6800 yen.",                           "ningyou wa rokusen happyaku en desu."],
+["This camera is 9999 yen.",                        "kono |kamera| wa kyuusen kyuuhyaku kyuujuu kyuu en desu."],
+[
+    "Why were (you) late today? Because (I) overslept.",
+    "doushite kyou osoku narimashita ka. asanebou shita kara."
+],
+
+[
+    "Because on Fridays you're not here, (I) love fridays",
+    "kinyoubi ni wa anata ga imasen kara, kinyoubi ga daisuki desu."
+],
+["Monday, Tuesday, ... Sunday",                     "getsuyoubi, kayoubi, suiyoubi, mokuyoubi, kinyoubi, doyoubi, nichiyoubi"]
 
 ]
