@@ -136,7 +136,7 @@
 ],
 [
     "(I) get up every day at 6 o'clock. Then (I) make breakfast.",
-    "mainichi rokuji ni okimasu. sorekara asagohan wo tsukimasu."
+    "mainichi rokuji ni okimasu. sorekara asagohan wo tsukurimasu."
 ],
 [
     "Tomorrow (I) will play golf with (my) neighbour.",
