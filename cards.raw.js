@@ -342,7 +342,7 @@
     "ni kai ni |terebi| ya |konpyuutaa| nado ga arimasu."
 ],
 
-["There's both beer and rice-wine.",                "|terebi| mo osake mo arimasu."],
+["There's both beer and rice-wine.",                "|biiru| mo osake mo arimasu."],
 ["Both (my) mom and dad work in this company.",     "haha mo chichi mo kono kaisha de hatarakimasu."],
 [
     "Excuse me, how much is 1 kg from that apple over there?",
