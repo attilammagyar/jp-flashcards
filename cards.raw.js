@@ -335,6 +335,32 @@
     "Because on Fridays you're not here, (I) love fridays",
     "kin youbi ni wa anata ga imasen kara, kin youbi ga daisuki desu."
 ],
-["Monday, Tuesday, ... Sunday",                     "getsuyoubi, kayoubi, suiyoubi, mokuyoubi, kin youbi, doyoubi, nichiyoubi"]
+["Monday, Tuesday, ... Sunday",                     "getsuyoubi, kayoubi, suiyoubi, mokuyoubi, kin youbi, doyoubi, nichiyoubi"],
+["356600 yen",                                      "sanjuugoman rokusen roppyaku en"],
+[
+    "There are TVs, computers and so on on the second floor.",
+    "ni kai ni |terebi| ya |konpyuutaa| nado ga arimasu."
+],
+
+["There's both beer and rice-wine.",                "|terebi| mo osake mo arimasu."],
+["Both (my) mom and dad work in this company.",     "haha mo chichi mo kono kaisha de hatarakimasu."],
+[
+    "Excuse me, how much is 1 kg from that apple over there?",
+    "sumimasen, ano ringo wa ichi |kiro| ikura desu ka."
+],
+[
+    "May (I) have 2 kg please? Yes, that's 1600 yen in total.",
+    "ni |kiro| kudasai. hai, zenbu de sen roppyaku en desu."
+],
+["May (I) have that sony camera please?",           "sono |soonii| no |kamera| wo kudasai."],
+
+[
+    "May (I) have 3 of this postcard and 3 of the 75 yen stamps as well please?",
+    "kono hagaki wo san mai to nanajuugo en no kitte mo san mai kudasai."
+],
+[
+    "May (I) have 4 stamps please? Where to? To America.",
+    "kitte wo yon mai kudasai. doko made desu ka. |amerika| made desu."
+]
 
 ]
