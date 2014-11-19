@@ -333,8 +333,8 @@
 
 [
     "Because on Fridays you're not here, (I) love fridays",
-    "kinyoubi ni wa anata ga imasen kara, kinyoubi ga daisuki desu."
+    "kin youbi ni wa anata ga imasen kara, kin youbi ga daisuki desu."
 ],
-["Monday, Tuesday, ... Sunday",                     "getsuyoubi, kayoubi, suiyoubi, mokuyoubi, kinyoubi, doyoubi, nichiyoubi"]
+["Monday, Tuesday, ... Sunday",                     "getsuyoubi, kayoubi, suiyoubi, mokuyoubi, kin youbi, doyoubi, nichiyoubi"]
 
 ]
