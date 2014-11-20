@@ -361,6 +361,12 @@
 [
     "May (I) have 4 stamps please? Where to? To America.",
     "kitte wo yon mai kudasai. doko made desu ka. |amerika| made desu."
-]
+],
+[
+    "Mother, from when is the piano lesson? (It's) from 4 o'clock. Hurry!",
+    "okaasan, |piano| no |ressun| wa nanji kara desu ka. yoji kara desu yo. hayaku."
+],
+["31000",                                           "san man issen"],
+["In which month is (your) birthday?",              "otanjoubi wa nangatsu desu ka."]
 
 ]
