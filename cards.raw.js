@@ -367,6 +367,11 @@
     "okaasan, |piano| no |ressun| wa nanji kara desu ka. yoji kara desu yo. hayaku."
 ],
 ["31000",                                           "san man issen"],
-["In which month is (your) birthday?",              "otanjoubi wa nangatsu desu ka."]
+["In which month is (your) birthday?",              "otanjoubi wa nangatsu desu ka."],
+
+["There's someone in the house.",                   "uchi ni dare ka imasu."],
+["There's no one in the house.",                    "uchi ni dare mo imasen."],
+["Is there anything on the 3rd floor?",             "san kai ni nani ka arimasu ka."],
+["No, there isn't anything.",                       "iie, nani mo arimasen."]
 
 ]
