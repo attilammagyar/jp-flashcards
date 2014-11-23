@@ -4,7 +4,7 @@ import unittest
 
 def to_kana(text):
     formatted = ""
-    text = text.strip().replace(",", "、").replace(".", "。")
+    text = text.strip()
     conversions = [romkan.to_hiragana, romkan.to_katakana]
     kana_type = 0
 
@@ -21,12 +21,12 @@ def to_kana(text):
                     .replace(" ", "・")
             )
         else:
-            part = part.replace(" wa ", " ha ")
+            part = part.replace(" wa ", " ha ").replace(" wa,", " ha,")
 
         formatted += conversion(part).replace(" ", "")
         kana_type = kana_type ^ 1
 
-    return formatted
+    return formatted.replace(",", "、").replace(".", "。")
 
 
 class _TestToKana(unittest.TestCase):
@@ -46,6 +46,12 @@ class _TestToKana(unittest.TestCase):
                 "watashi wa |koohii| wo nomimasu, "
                 "sorekara watashitachi wa isshoni |romanchikku| na "
                 "eiga wo mimasu."
+            )
+        )
+        self.assertEqual(
+            "じつは、わたしはスポーツをみませんし、しません。",
+            to_kana(
+                "jitsu wa, watashi wa |supootsu| wo mimasen shi, shimasen."
             )
         )
 

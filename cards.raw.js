@@ -372,6 +372,30 @@
 ["There's someone in the house.",                   "uchi ni dare ka imasu."],
 ["There's no one in the house.",                    "uchi ni dare mo imasen."],
 ["Is there anything on the 3rd floor?",             "san kai ni nani ka arimasu ka."],
-["No, there isn't anything.",                       "iie, nani mo arimasen."]
+["No, there isn't anything.",                       "iie, nani mo arimasen."],
+[
+    "Are (you) free tomorrow? Umm, tomorrow also, (I) have a little business to attend to.",
+    "ashita wa hima desu ka. sou desu ne. ashita mo chotto youji ga arimasu."
+],
+
+["(I'm) a little busy on Thursday.",                "moku youbi chotto isogashii desu."],
+["Do (you) have time on Friday?",                   "kin youbi wa jikan ga arimasu ka."],
+["Where is the cinema?",                            "eigakan wa doko ni arimasu ka."],
+["The school is near here.",                        "gakkou wa kono chikaku ni arimasu."],
+["The post office is over there.",                  "yuubinkyoku wa asoko ni arimasu."],
+
+[
+    "The truth is, I don't watch sports, nor play sports.",
+    "jitsu wa, watashi wa |supootsu| wo mimasen shi, shimasen."
+],
+["But because (I) like you, I'm here.",             "demo, anata ga suki desu kara, watashi wa koko ni imasu."],
+["I'll teach you.",                                 "watashi ga anata ni oshiemasu."],
+["(This) is (my) first time at a sports game.",     "|supootsu| no shiai wa hajimete desu."],
+["(You're) a little bit wrong.",                    "chotto chigaimasu."],
+
+[
+    "Do (you) understand Japanese? Yes, (I) understand.",
+    "nihongo ga wakarimasu ka. hai, wakarimasu."
+]
 
 ]
