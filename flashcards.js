@@ -10,17 +10,19 @@
     Flashcards = {
         cards: [],
         state: function () {},
+        min: 0,
+        max: 0,
+
+        random: function (min, max)
+        {
+            return min + Math.floor(Math.random() * (max - min));
+        },
 
         states: {
             showQuestion: function ()
             {
                 var l = Flashcards.cards.length,
-                    i = Math.min(
-                            l - 1,
-                            Math.floor(
-                                Math.sin(Math.random() * Math.PI / 2) * l
-                            )
-                        ),
+                    i = Flashcards.random(Flashcards.min, Flashcards.max),
                     question = Flashcards.cards[i][0],
                     answer = Flashcards.cards[i][1],
                     index = String(i + 1) + ".",
@@ -49,9 +51,17 @@
 
         initialize: function (cards)
         {
-            var body = document.getElementsByTagName("body")[0];
+            var body = document.getElementsByTagName("body")[0],
+                limit = String(window.location.href).match(/#([0-9]+)$/),
+                count = cards.length;
 
             Flashcards.cards = cards;
+            Flashcards.max = count;
+
+            if (limit) {
+                Flashcards.min = count - Math.min(count, Number(limit[1]));
+            }
+
             Flashcards.setState(Flashcards.states.showQuestion);
 
             $("card").onclick = Flashcards.applyState;
