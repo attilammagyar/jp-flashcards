@@ -402,6 +402,21 @@
 [
     "Turn right at those traffic lights and go straight ahead please.",
     "ano shingou wo migi ni magatte, massugu itte kudasai."
-]
+],
+[
+    "If (you) turn left at the crossroads, the bank will be on the right side.",
+    "kousaten wo hidari ni magaru to ginkou wa migi gawa ni arimasu."
+],
+
+["The art gallery is next to the hotel.",           "bijutsukan wa |hoteru| no tonari ni arimasu."],
+["Is there a post office near here?",               "kono chikaku ni yuubinkyoku ga arimasu ka."],
+[
+    "The bus stop is at the front of the department store.",
+    "|depaato| no mae ni |basu| tei ga arimasu."
+],
+["(I) want to drink a beer.",                       "|biiru| wo nomitai desu."],
+["Last night (I) didn't drink (any) beer at all.",  "yuube |biiru| wo zenzen nomimasen deshita."],
+
+["Last week (I) watched a movie with Ms. Natsuko.", "senshuu natsuko san to eiga wo mimashita."]
 
 ]
