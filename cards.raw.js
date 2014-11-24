@@ -396,6 +396,12 @@
 [
     "Do (you) understand Japanese? Yes, (I) understand.",
     "nihongo ga wakarimasu ka. hai, wakarimasu."
+],
+["Where's the hotel? Do (you) know?",               "|hoteru| wa doko ni arimasu ka. gozonji desu ka."],
+["The hotel is behind the art gallery.",            "|hoteru| wa bijutsukan no ushiro ni arimasu."],
+[
+    "Turn right at those traffic lights and go straight ahead please.",
+    "ano shingou wo migi ni magatte, massugu itte kudasai."
 ]
 
 ]
