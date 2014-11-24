@@ -417,6 +417,14 @@
 ["(I) want to drink a beer.",                       "|biiru| wo nomitai desu."],
 ["Last night (I) didn't drink (any) beer at all.",  "yuube |biiru| wo zenzen nomimasen deshita."],
 
-["Last week (I) watched a movie with Ms. Natsuko.", "senshuu natsuko san to eiga wo mimashita."]
+["Last week (I) watched a movie with Ms. Natsuko.", "senshuu natsuko san to eiga wo mimashita."],
+["The bank is next door to the restaurant.",        "ginkou wa |resutoran| no tonari ni arimasu."],
+["The bus stop is to the side of the bank.",        "|basu| tei wa ginkou no yoko ni arimasu."],
+["Ms. Natsuko is inside the theatre.",              "natsuko san wa gekijou no naka ni imasu."],
+["The hotel is opposite to the post office.",       "|hoteru| wa yuubinkyoku no mukaigawa ni arimasu."],
+
+["The restaurant is above the museum.",             "|resutoran| wa hakubutsukan no ue ni arimasu."],
+["My camera is in that bag.",                       "watashi no |kamera| wa sono kaban no naka ni arimasu."],
+["Ms. Natsuko is by me.",                           "natsuko san wa watashi no soba ni imasu."]
 
 ]
