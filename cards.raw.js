@@ -408,7 +408,7 @@
     "kousaten wo hidari ni magaru to ginkou wa migi gawa ni arimasu."
 ],
 
-["The art gallery is next to the hotel.",           "bijutsukan wa |hoteru| no tonari ni arimasu."],
+["The art gallery is next door to the hotel.",      "bijutsukan wa |hoteru| no tonari ni arimasu."],
 ["Is there a post office near here?",               "kono chikaku ni yuubinkyoku ga arimasu ka."],
 [
     "The bus stop is at the front of the department store.",
@@ -420,11 +420,20 @@
 ["Last week (I) watched a movie with Ms. Natsuko.", "senshuu natsuko san to eiga wo mimashita."],
 ["The bank is next door to the restaurant.",        "ginkou wa |resutoran| no tonari ni arimasu."],
 ["The bus stop is to the side of the bank.",        "|basu| tei wa ginkou no yoko ni arimasu."],
-["Ms. Natsuko is inside the theatre.",              "natsuko san wa gekijou no naka ni imasu."],
+[
+    "Ms. Natsuko is inside the theatre. Ms. Natsuko is in the theatre",
+    "natsuko san wa gekijou no naka ni imasu. natsuko san wa gekijou ni imasu."
+],
 ["The hotel is opposite to the post office.",       "|hoteru| wa yuubinkyoku no mukaigawa ni arimasu."],
 
 ["The restaurant is above the museum.",             "|resutoran| wa hakubutsukan no ue ni arimasu."],
 ["My camera is in that bag.",                       "watashi no |kamera| wa sono kaban no naka ni arimasu."],
-["Ms. Natsuko is by me.",                           "natsuko san wa watashi no soba ni imasu."]
+["Ms. Natsuko is by me.",                           "natsuko san wa watashi no soba ni imasu."],
+[
+    "The school is near the museum. The teacher is in the school.",
+    "gakkou wa hakubutsukan no chikaku ni arimasu. sensei wa gakkou ni imasu."
+],
+["My business card is in (my) bag.",                "watasni no meishi wa kaban no naka ni arimasu."]
+
 
 ]
