@@ -433,7 +433,22 @@
     "The school is near the museum. The teacher is in the school.",
     "gakkou wa hakubutsukan no chikaku ni arimasu. sensei wa gakkou ni imasu."
 ],
-["My business card is in (my) bag.",                "watasni no meishi wa kaban no naka ni arimasu."]
+["My business card is in (my) bag.",                "watashi no meishi wa kaban no naka ni arimasu."],
+
+[
+    "Who is (there) on the second floor? (It's) Ms. Natsuko (there).",
+    "ni kai ni dare ga imasu ka. natsuko san ga imasu."
+],
+[
+    "Where is the supermarket? Where is the supermarket located?",
+    "|suupaa| wa doko desu ka. |suupaa| wa doko ni arimasu ka."
+],
+["What is opposite the post office?",               "yuubinkyoku no mukaigawa ni nani ga arimasu ka."],
+["Who is (there) in front of the bank?",            "ginkou no mae ni dare ga imasu ka."],
+[
+    "Where is the post office located? (It's located) next door to the bank.",
+    "yuubinkyoku wa doko ni arimasu ka. ginkou no tonari ni arimasu."
+]
 
 
 ]
