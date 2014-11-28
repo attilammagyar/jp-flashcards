@@ -21,7 +21,7 @@
 ],
 
 ["Where are we?",                                   "koko wa doko desu ka."],
-["There's a gas station over there.",               "asoko ni |gasorinsutando| ga arimasu."],
+["Over there, there's a gas station.",              "asoko ni |gasorinsutando| ga arimasu."],
 ["I don't eat meat very often.",                    "watashi wa niku wo amari tabemasen."],
 ["(I) don't like this picture very much.",          "kono e wa amari suki dewa arimasen."],
 ["Grilled chicken, how about it?",                  "yakitori, ikaga desu ka."],
@@ -171,7 +171,7 @@
 ["The last train is at 11:59.",                     "shuuden wa juuichiji gojuukyuufun desu yo. "],
 ["Really?!",                                        "hontou desu ka."],
 ["It's OK. There is no problem.",                   "daijoubu desu. mondai arimasen."],
-["There's a capsule hotel next door.",              "tonari ni |kapuseruhoteru| ga arimasu."],
+["Next door there is a capsule hotel.",             "tonari ni |kapuseruhoteru| ga arimasu."],
 
 ["Oh, what was that sound (just) now?",             "are, ima no oto wa nan desu ka."],
 ["Welcome. [Shopkeeper to customer.]",              "irasshaimase."],
@@ -411,7 +411,7 @@
 ["The art gallery is next door to the hotel.",      "bijutsukan wa |hoteru| no tonari ni arimasu."],
 ["Is there a post office near here?",               "kono chikaku ni yuubinkyoku ga arimasu ka."],
 [
-    "The bus stop is at the front of the department store.",
+    "At the front of the department store there is a bus stop.",
     "|depaato| no mae ni |basu| tei ga arimasu."
 ],
 ["(I) want to drink a beer.",                       "|biiru| wo nomitai desu."],
