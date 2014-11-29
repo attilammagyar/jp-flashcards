@@ -448,7 +448,28 @@
 [
     "Where is the post office located? (It's located) next door to the bank.",
     "yuubinkyoku wa doko ni arimasu ka. ginkou no tonari ni arimasu."
-]
+],
 
+["Go straight ahead please.",                       "massugu itte kudasai."],
+["Please turn to the right.",                       "migi ni magatte kudasai."],
+["Please turn to the left.",                        "hidari ni magatte kudasai."],
+["Please turn right at the traffic lights.",        "shingou wo migi ni magatte kudasai."],
+["Please cross the bridge.",                        "hashi wo watatte kudasai."],
+
+["Please cross the footbridge.",                    "hodou kyou wo watatte kudasai."],
+["Please cross the road.",                          "michi wo watatte kudasai."],
+["Please turn left at the first traffic lights.",   "hitotsu me no shingou wo hidari ni magatte kudasai."],
+["Please turn left at the next traffic lights.",    "tsugi no shingou wo hidari ni magatte kudasai."],
+[
+    "Go straight ahead, (then) turn right at the second traffic lights.",
+    "massugu itte, futatsu me no shingou wo migi ni magatte kudasai."
+],
+
+["Please cross at the pedestrian crossing.",        "oudan hodou wo watatte kudasai."],
+["Turn right at the second traffic lights please.", "futatsu me no shingou wo migi ni magatte kudasai."],
+[
+    "Cross the footbridge, (then) turn left at the corner please.",
+    "hodou kyou wo watatte, kado wo hidari ni magatte kudasai."
+]
 
 ]
