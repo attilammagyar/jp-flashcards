@@ -470,6 +470,25 @@
 [
     "Cross the footbridge, (then) turn left at the corner please.",
     "hodou kyou wo watatte, kado wo hidari ni magatte kudasai."
+],
+[
+    "The post office is (located) opposite the bank. The post office is opposite the bank. There is a post office opposite the bank.",
+    "yuubinkyoku wa ginkou no mukaigawa ni arimasu. yuubinkyoku wa ginkou no mukaigawa desu. ginkou no mukaigawa ni yuubinkyoku ga arimasu."
+],
+[
+    "How about the cinema? Won't (we) go to the cinema? Shall (we) go to the cinema together? Let's go to the cinema!",
+    "eigakan wa dou desu ka. eigakan ni ikimasen ka. isshoni eigakan ni ikimashou ka. eigakan ni ikimashou."
+],
+
+[
+    "Where shall (we) go (to)? Where shall (we) meet (at)?",
+    "doko ni ikimashou ka. doko de aimashou ka."
+],
+["(At) what time shall (we) meet?",                 "nan ji ni aimashou ka."],
+["What shall (we) do?",                             "nani wo shimashou ka."],
+[
+    "Tomorrow, won't (we) go somewhere together? Yes, where shall (we) go?",
+    "ashita doko ka isshoni ikimasen ka. hai, doko ni ikimashou ka."
 ]
 
 ]
