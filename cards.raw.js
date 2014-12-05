@@ -489,6 +489,12 @@
 [
     "Tomorrow, won't (we) go somewhere together? Yes, where shall (we) go?",
     "ashita doko ka isshoni ikimasen ka. hai, doko ni ikimashou ka."
-]
+],
+["(I) ate breakfast.", "asagohan wo tabemashita."],
+
+["(I) didn't drink coffee.", "|koohii| wo nomimasen deshita."],
+["(We) met at 7 o'clock at the restaurant.", "shichi ji ni |resutoran| de aimashita."],
+["(I) want to eat rice with chopsticks.", "ohashi de gohan wo tabetai desu."],
+["(I) want to buy a Japanese camera.", "nihon no |kamera| wo kaitai desu."]
 
 ]
