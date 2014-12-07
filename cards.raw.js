@@ -68,11 +68,14 @@
 ["(I) will go to the office tomorrow",              "ashita jimusho ni ikimasu."],
 ["(I) will go to the supermarket with (my) son.",   "musuko to |suupaa| ni ikimasu."],
 ["Sometimes (I) go home early.",                    "tokidoki hayaku uchi ni kaerimasu."],
-["(My) dad will come to the college tomorrow.",     "chichi wa asa |koreji| ni kimasu."],
+[
+    "(My) dad will come to the college (tomorrow) morning.",
+    "chichi wa asa |koreji| ni kimasu."
+],
 ["(I) will return to Japan tomorrow.",              "ashita nihon ni kaerimasu."],
 
 ["(I) get up at 6 o'clock.",                        "rokuji ni okimasu."],
-["Of course I'm going!",                            "mochiron ikimasu."],
+["Of course (I'm) going!",                          "mochiron ikimasu."],
 ["(I) like dogs but (I) hate that dog so much!",    "inu wa suki desu kedo, ano inu wa daikirai desu."],
 ["Tonight (it's) quiet and warm.",                  "kon ya wa shizuka de atatakai desu."],
 ["I love spring nights.",                           "haru no yoru wa daisuki desu."],
@@ -424,7 +427,7 @@
     "Ms. Natsuko is inside the theatre. Ms. Natsuko is in the theatre",
     "natsuko san wa gekijou no naka ni imasu. natsuko san wa gekijou ni imasu."
 ],
-["The hotel is opposite to the post office.",       "|hoteru| wa yuubinkyoku no mukaigawa ni arimasu."],
+["The hotel is opposite the post office.",          "|hoteru| wa yuubinkyoku no mukaigawa ni arimasu."],
 
 ["The restaurant is above the museum.",             "|resutoran| wa hakubutsukan no ue ni arimasu."],
 ["My camera is in that bag.",                       "watashi no |kamera| wa sono kaban no naka ni arimasu."],
