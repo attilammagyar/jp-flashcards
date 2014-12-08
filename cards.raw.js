@@ -493,11 +493,40 @@
     "Tomorrow, won't (we) go somewhere together? Yes, where shall (we) go?",
     "ashita doko ka isshoni ikimasen ka. hai, doko ni ikimashou ka."
 ],
-["(I) ate breakfast.", "asagohan wo tabemashita."],
+["(I) ate breakfast.",                              "asagohan wo tabemashita."],
 
-["(I) didn't drink coffee.", "|koohii| wo nomimasen deshita."],
-["(We) met at 7 o'clock at the restaurant.", "shichi ji ni |resutoran| de aimashita."],
-["(I) want to eat rice with chopsticks.", "ohashi de gohan wo tabetai desu."],
-["(I) want to buy a Japanese camera.", "nihon no |kamera| wo kaitai desu."]
+["(I) didn't drink coffee.",                        "|koohii| wo nomimasen deshita."],
+["(We) met at 7 o'clock at the restaurant.",        "shichi ji ni |resutoran| de aimashita."],
+["(I) want to eat rice with chopsticks.",           "ohashi de gohan wo tabetai desu."],
+["(I) want to buy a Japanese camera.",              "nihon no |kamera| wo kaitai desu."],
+[
+    "What is (your) hobby? (My) hobby is paper folding.",
+    "shumi wa nan desu ka. shumi wa origami desu."
+],
+
+["25 past 1 o'clock",                               "ichi ji ni juu go fun"],
+["30 past 1 o'clock, half past 1 o'clock",          "ichi ji san juppun, ichi ji han"],
+["45 past 1 o'clock, quarter to 2 o'clock",         "ichi ji yon juu go fun, ni ji juu go fun mae"],
+["50 past 1 o'clock, 10 to 2 o'clock",              "ichi ji go juppun, ni ji juppun mae"],
+["Let's meat in front of the museum!",              "hakubutsukan no mae de aimashou."],
+
+["What day is it today?",                           "kyou wa nan no hi desu ka."],
+["Is it only that?",                                "sore dake desu ka."],
+["(I) will ask one more time.",                     "mou ichi do kikimasu."],
+["Do you understand Chinese?",                      "chuugokugo wa wakarimasu ka."],
+["What's the opposite of divorce?",                 "rikon no hantai wa nan desu ka."],
+
+[
+    "Excuse me, where is the supermarket? Do you know? [polite] Yes, (I) know.",
+    "sumimasen, |suupaa| wa doko ni arimasu ka. gozonji desu ka. hai, shitteimasu."
+],
+[
+    "Go straight ahead (then) cross the pedestrian crossing please.",
+    "massugu itte, oudan hodou wo watatte kudasai."
+],
+[
+    "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
+    "futatsu me no shingou wo hidari ni magatte kudasai. |depaato| wa hidarigawa ni arimasu. gekijou no tonari desu."
+]
 
 ]
