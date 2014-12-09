@@ -508,7 +508,7 @@
 ["30 past 1 o'clock, half past 1 o'clock",          "ichi ji san juppun, ichi ji han"],
 ["45 past 1 o'clock, quarter to 2 o'clock",         "ichi ji yon juu go fun, ni ji juu go fun mae"],
 ["50 past 1 o'clock, 10 to 2 o'clock",              "ichi ji go juppun, ni ji juppun mae"],
-["Let's meat in front of the museum!",              "hakubutsukan no mae de aimashou."],
+["Let's meet in front of the museum!",              "hakubutsukan no mae de aimashou."],
 
 ["What day is it today?",                           "kyou wa nan no hi desu ka."],
 ["Is it only that?",                                "sore dake desu ka."],
@@ -527,6 +527,10 @@
 [
     "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
     "futatsu me no shingou wo hidari ni magatte kudasai. |depaato| wa hidarigawa ni arimasu. gekijou no tonari desu."
+],
+[
+    "Cross (over) the footbridge (and) turn left at the corner please.",
+    "hodou kyou wo watatte, kado wo hidari ni magatte kudasai."
 ]
 
 ]
