@@ -531,6 +531,15 @@
 [
     "Cross (over) the footbridge (and) turn left at the corner please.",
     "hodou kyou wo watatte, kado wo hidari ni magatte kudasai."
-]
+],
+["That person is famous you know!",                 "ano hito wa yuumei desu yo."],
+
+["That person is beautiful.",                       "ano hito wa utsukushii desu."],
+["That person is cheerful.",                        "ano hito wa akarui desu."],
+["That person is kind.",                            "ano hito wa yasashii desu."],
+["That person is quiet.",                           "ano hito wa otonashii desu."],
+["That person is embarrassed.",                     "ano hito wa hazukashii desu."],
+
+["That person is nice.",                            "ano hito wa ii desu."]
 
 ]
