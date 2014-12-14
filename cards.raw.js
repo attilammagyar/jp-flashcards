@@ -540,6 +540,27 @@
 ["That person is quiet.",                           "ano hito wa otonashii desu."],
 ["That person is embarrassed.",                     "ano hito wa hazukashii desu."],
 
-["That person is nice.",                            "ano hito wa ii desu."]
+["That person is nice.",                            "ano hito wa ii desu."],
+["How was it?",                                     "dou deshita ka."],
+["How was (your) date with Ms. Natsuko?",           "natsuko san to |deeto| wa dou deshita ka."],
+["I think (she's) not especially shy, you know.",   "sonna ni hazukashigari ja nai to omoimasu yo."],
+["Do (you) want to meet again?",                    "mata aitai desu ka."],
+
+["I hope to play tennis together next week.",       "raishuu isshoni |tenisu| wo shitai to omoimasu."],
+["She is very kind but a bit serious.",             "kanojo wa totemo yasashii desu ga sukoshi majime desu."],
+["Tokyo is a big and busy place.",                  "toukyou wa hirokute nigiyaka na tokoro desu."],
+["My room is not very clean.",                      "watashi no heya wa amari kieri dewa arimasen."],
+[
+    "I think that Ms. Natsuko is not especially shy. [Informal]",
+    "natsuko san wa sonna ni hazukashigari ja nai to omoimasu."
+],
+
+[
+    "I think that he is a cheerful person. [Informal]",
+    "kare wa akarui hito da to omoimasu."
+],
+["Next year I hope to go to Japan again.",          "rainen mata nihon ni ikitai to omoimasu."],
+["I have a headache.",                              "watashi wa atama ga itai desu."],
+["(My) mother is tall (and) has big eyes.",         "haha wa se ga takakute me ga ookii desu."]
 
 ]
