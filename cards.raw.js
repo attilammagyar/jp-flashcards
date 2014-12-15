@@ -561,6 +561,16 @@
 ],
 ["Next year I hope to go to Japan again.",          "rainen mata nihon ni ikitai to omoimasu."],
 ["I have a headache.",                              "watashi wa atama ga itai desu."],
-["(My) mother is tall (and) has big eyes.",         "haha wa se ga takakute me ga ookii desu."]
+["(My) mother is tall (and) has big eyes.",         "haha wa se ga takakute me ga ookii desu."],
+["That person is famous. That is a famous person.", "ano hito wa yuumei desu. are wa yuumei na hito desu."],
+
+["Mr. Roger is good at bowling, isn't he?",         "|rojaa| san wa |booringu| ga jouzu desu ne."],
+["This is a lively place, isn't it?",               "koko wa nigiyaka na tokoro desu ne."],
+["I think Mr. Yamada is a serious person.",         "yamada san wa majime na hito da to omoimasu."],
+["This is a clean room, isn't it?",                 "kore wa kirei na heya desu ne."],
+[
+    "That person is beautiful. That is a beautiful person.",
+    "ano hito wa utsukushii desu. are wa utsukushii hito desu."
+]
 
 ]
