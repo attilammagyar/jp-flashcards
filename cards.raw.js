@@ -549,7 +549,7 @@
 ["I hope to play tennis together next week.",       "raishuu isshoni |tenisu| wo shitai to omoimasu."],
 ["She is very kind but a bit serious.",             "kanojo wa totemo yasashii desu ga sukoshi majime desu."],
 ["Tokyo is a big and busy place.",                  "toukyou wa hirokute nigiyaka na tokoro desu."],
-["My room is not very clean.",                      "watashi no heya wa amari kieri dewa arimasen."],
+["My room is not very clean.",                      "watashi no heya wa amari kirei dewa arimasen."],
 [
     "I think that Ms. Natsuko is not especially shy. [Informal]",
     "natsuko san wa sonna ni hazukashigari ja nai to omoimasu."
@@ -566,11 +566,16 @@
 
 ["Mr. Roger is good at bowling, isn't he?",         "|rojaa| san wa |booringu| ga jouzu desu ne."],
 ["This is a lively place, isn't it?",               "koko wa nigiyaka na tokoro desu ne."],
-["I think Mr. Yamada is a serious person.",         "yamada san wa majime na hito da to omoimasu."],
+[
+    "I think Mr. Yamada is a serious person. [informal]",
+    "yamada san wa majime na hito da to omoimasu."
+],
 ["This is a clean room, isn't it?",                 "kore wa kirei na heya desu ne."],
 [
     "That person is beautiful. That is a beautiful person.",
     "ano hito wa utsukushii desu. are wa utsukushii hito desu."
-]
+],
+
+["Ms. Natsuko is bad at bowling.",                  "natsuko san wa |booringu| ga heta desu."]
 
 ]
