@@ -543,7 +543,7 @@
 ["That person is nice.",                            "ano hito wa ii desu."],
 ["How was it?",                                     "dou deshita ka."],
 ["How was (your) date with Ms. Natsuko?",           "natsuko san to |deeto| wa dou deshita ka."],
-["I think (she's) not especially shy, you know.",   "sonna ni hazukashigari ja nai to omoimasu yo."],
+["I think (she's) not especially shy, you know.",   "son na ni hazukashigari ja nai to omoimasu yo."],
 ["Do (you) want to meet again?",                    "mata aitai desu ka."],
 
 ["I hope to play tennis together next week.",       "raishuu isshoni |tenisu| wo shitai to omoimasu."],
@@ -552,7 +552,7 @@
 ["My room is not very clean.",                      "watashi no heya wa amari kirei dewa arimasen."],
 [
     "I think that Ms. Natsuko is not especially shy. [Informal]",
-    "natsuko san wa sonna ni hazukashigari ja nai to omoimasu."
+    "natsuko san wa son na ni hazukashigari ja nai to omoimasu."
 ],
 
 [
