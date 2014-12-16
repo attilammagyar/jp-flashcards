@@ -576,6 +576,19 @@
     "ano hito wa utsukushii desu. are wa utsukushii hito desu."
 ],
 
-["Ms. Natsuko is bad at bowling.",                  "natsuko san wa |booringu| ga heta desu."]
+["Ms. Natsuko is bad at bowling.",                  "natsuko san wa |booringu| ga heta desu."],
+["eyes, big, small, round",                         "me, ookii, chiisai, marui"],
+["back/height, high/tall, low/short, average",      "se, takai, hikui, futsuu (na)"],
+["nose, tall/big, small, wide",                     "hana, takai, chiisai, ookii"],
+["hair, long, short, shoulder-length",              "kami, nagai, mijikai, kata gurai"],
+
+["face, long/narrow, square, round",                "kao, nagai, shikakui, marui"],
+["blue, black/dark, brown, blonde",                 "aoi, kuroi, chairo, kinpatsu"],
+["I am tall (with) blue eyes and blonde hair.",     "watashi wa se ga takakute, me ga aokute, kami ga kinpatsu desu."],
+[
+    "(My) mother has round face, a high nose and brown eyes.",
+    "haha wa kao ga marukute, hana ga takakute, me ga chairo desu."
+],
+["(She) has long, black hair.",                     "kami ga nagakute, kuroi desu."]
 
 ]
