@@ -550,15 +550,9 @@
 ["She is very kind but a bit serious.",             "kanojo wa totemo yasashii desu ga sukoshi majime desu."],
 ["Tokyo is a big and busy place.",                  "toukyou wa hirokute nigiyaka na tokoro desu."],
 ["My room is not very clean.",                      "watashi no heya wa amari kirei dewa arimasen."],
-[
-    "I think that Ms. Natsuko is not especially shy. [Informal]",
-    "natsuko san wa son na ni hazukashigari ja nai to omoimasu."
-],
+["I think that Ms. Natsuko is not especially shy.", "natsuko san wa son na ni hazukashigari ja nai to omoimasu."],
 
-[
-    "I think that he is a cheerful person. [Informal]",
-    "kare wa akarui hito da to omoimasu."
-],
+["I think that he is a cheerful person.",           "kare wa akarui hito da to omoimasu."],
 ["Next year I hope to go to Japan again.",          "rainen mata nihon ni ikitai to omoimasu."],
 ["I have a headache.",                              "watashi wa atama ga itai desu."],
 ["(My) mother is tall (and) has big eyes.",         "haha wa se ga takakute me ga ookii desu."],
@@ -566,10 +560,7 @@
 
 ["Mr. Roger is good at bowling, isn't he?",         "|rojaa| san wa |booringu| ga jouzu desu ne."],
 ["This is a lively place, isn't it?",               "koko wa nigiyaka na tokoro desu ne."],
-[
-    "I think Mr. Yamada is a serious person. [informal]",
-    "yamada san wa majime na hito da to omoimasu."
-],
+["I think Mr. Yamada is a serious person.",         "yamada san wa majime na hito da to omoimasu."],
 ["This is a clean room, isn't it?",                 "kore wa kirei na heya desu ne."],
 [
     "That person is beautiful. That is a beautiful person.",
@@ -589,6 +580,21 @@
     "(My) mother has round face, a high nose and brown eyes.",
     "haha wa kao ga marukute, hana ga takakute, me ga chairo desu."
 ],
-["(She) has long, black hair.",                     "kami ga nagakute, kuroi desu."]
+["(She) has long, black hair.",                     "kami ga nagakute, kuroi desu."],
+
+["He is a serious and quiet person.",               "kare wa majime de otonashii hido desu."],
+["Tokyo is lively and big (spacious).",             "toukyou wa nigiyaka de hiroi desu."],
+["He is serious but kind.",                         "kare wa majime desu ga yasashii desu."],
+[
+    "(I'm) poor at sports, but (I'm) goot at origami.",
+    "|supootsu| ga heta desu ga origami wa jouzu desu."
+],
+["I think he's famous.",                            "kare wa yuumei da to omoimasu."],
+
+[
+    "I hope to eat sushi in Japan and I hope to see Mount Fuji.",
+    "nihon de sushi wo tabetai to omoimasu. soshite fuji san wo mitai to omoimasu."
+],
+["(It) isn't good.",                                "yokunai desu."]
 
 ]
