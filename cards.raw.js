@@ -595,6 +595,19 @@
     "I hope to eat sushi in Japan and I hope to see Mount Fuji.",
     "nihon de sushi wo tabetai to omoimasu. soshite fuji san wo mitai to omoimasu."
 ],
-["(It) isn't good.",                                "yokunai desu."]
+["(It) isn't good.",                                "yokunai desu."],
+["What's wrong with him? What's wrong?",            "kare wa dou shita no desu ka. dou shita n desu ka."],
+["(My) throat is sore.",                            "nodo ga itai desu."],
+["(My) back hurts.",                                "senaka ga itai desu."],
+
+["(My) stomach hurts.",                             "onaka ga itai desu."],
+["(I) feel sick.",                                  "kibun ga warui desu."],
+["(I've) caught a cold.",                           "kaze wo hiiteshimaimashita."],
+["(My) shoulders ache.",                            "kata ga itai desu."],
+["Have (you) caught a cold?",                       "kaze wo hiiteshimaimashita ka."],
+
+["(I) have a headache. (My) stomach also hurts.",   "atama ga itai desu. onaka mo itai desu."],
+["Does (your) throat hurt? A little bit hurts.",    "nodo ga itai desu ka. chotto itai desu."],
+["It's not cold. It's a hangover!",                 "kaze dewa arimasen. futsuka yoi desu yo."]
 
 ]
