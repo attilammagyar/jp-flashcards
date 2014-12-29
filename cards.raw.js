@@ -607,7 +607,20 @@
 ["Have (you) caught a cold?",                       "kaze wo hiiteshimaimashita ka."],
 
 ["(I) have a headache. (My) stomach also hurts.",   "atama ga itai desu. onaka mo itai desu."],
-["Does (your) throat hurt? A little bit hurts.",    "nodo ga itai desu ka. chotto itai desu."],
-["It's not cold. It's a hangover!",                 "kaze dewa arimasen. futsuka yoi desu yo."]
+["Does (your) throat hurt? Hurts a little bit.",    "nodo ga itai desu ka. chotto itai desu."],
+["It's not cold. It's a hangover!",                 "kaze dewa arimasen. futsuka yoi desu yo."],
+[
+    "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
+    "se ga futsuu de, kami ga nakakute chairo desu. me mo chairo desu. kao ga marukute, hana ga ookii desu."
+],
+[
+    "I'm a little quiet but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
+    "watashi wa sukoshi otonashii desu ga yasashikute akarui to omoimasu. |rokku| to |metaru| ga suki desu ga |supootsu| ga amari suki dewa arimasen."
+],
+
+["I don't think (she) is especially shy.",          "son na ni hazukashigari ja nai to omoimasu."],
+["This department store is very busy, isn't it!",   "kono |depaato| wa totemo nigiyaka desu ne."],
+["That person is serious but kind.",                "ano hito wa majime desu ga yasashii desu."],
+["(I) am poor at sports but good at origami.",      "watashi wa |supootsu| ga heta desu ga origami wa jouzu desu."]
 
 ]
