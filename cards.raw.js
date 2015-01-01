@@ -111,7 +111,7 @@
 ["(I) always arrive at 8 o'clock.",                 "itsumo hachiji ni tsukimasu."],
 ["(I) work until late.",                            "osoku made hatarakimasu."],
 [
-    "And then (I) often eat dinner with (my) colleagues at a restaurant.",
+    "And then (I) frequently eat dinner with (my) colleagues at a restaurant.",
     "soshite tabitabi jimusho no hito to |resutoran| de bangohan wo tabemasu."
 ],
 [
@@ -624,6 +624,27 @@
 ["(I) am poor at sports but good at origami.",      "watashi wa |supootsu| ga heta desu ga origami wa jouzu desu."],
 ["(It) was wonderful and interesting.",             "subarashikute omoshirokatta desu."],
 
-["(It) was nice and enjoyable.",                    "yokute tanoshikatta desu."]
+["(It) was nice and enjoyable.",                    "yokute tanoshikatta desu."],
+["The trip was interesting and enjoyable.",         "ryokou wa omoshirokute tanoshikatta desu."],
+["The film was interesting but a bit long.",        "eiga wa omoshirokatta desu ga chotto nagakatta desu."],
+["This book was boring and disagreeable.",          "kono hon wa tsumaranakute fuyukai deshita."],
+[
+    "Last week (I) did a business trip to Osaka. It wasn't interesting.",
+    "senshuu ousaka ni shucchou shimashita. omoshirokunakatta desu."
+],
+
+["arrival, departure",                              "touchaku, shuppatsu"],
+["First, (we'll) eat.",                             "saisho wa tabemasu."],
+["(I) gained 3 kilos over Christmas.",              "|kurisumasu| ni san |kiro| futorimashita."],
+["I took a bus.",                                   "watashi wa |basu| ni norimashita."],
+["What time is the departure?",                     "shuppatsu wa nan ji desu ka."],
+
+["(I) will go on rides the whole time.",            "zutto norimono ni norimasu."],
+["(I) don't like rude people.",                     "shitsurei na hito wa suki dewa arimasen."],
+["Let's watch a movie the four of us!",             "yonin de eiga wo mimashou."],
+["(I) don't know numbers above 1000.",              "issen ijou no suuji wakarimasen."],
+["By the way, Mr. Yamada is late, isn't he?",       "tokorode, yamada san wa osoi desu ne."],
+
+["I often go to the gym.",                          "watashi wa yoku |jimu| ni ikimasu."]
 
 ]
