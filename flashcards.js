@@ -24,6 +24,10 @@
             var fc = Flashcards,
                 s = Flashcards.selection;
 
+            if (Math.random() < 0.25) {
+                return fc.random(0, fc.cards.length);
+            }
+
             return s ? s[fc.random(0, s.length)] : fc.random(fc.min, fc.max);
         },
 
