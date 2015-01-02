@@ -645,6 +645,23 @@
 ["(I) don't know numbers above 1000.",              "issen ijou no suuji wakarimasen."],
 ["By the way, Mr. Yamada is late, isn't he?",       "tokorode, yamada san wa osoi desu ne."],
 
-["I often go to the gym.",                          "watashi wa yoku |jimu| ni ikimasu."]
+["I often go to the gym.",                          "watashi wa yoku |jimu| ni ikimasu."],
+["Mr. Yamada went to Osaka by bullet train.",       "yamada san wa shinkansen de ousaka ni ikimashita."],
+[
+    "Soon it will be Summer. It will gradually get hotter.",
+    "mousugu natsu ni narimasu. dandan atsuku narimasu."
+],
+[
+    "Tomorrow's weather will probably be cloudy, later (it will) rain.",
+    "ashita no tenki wa kumori, nochi ame deshou."
+],
+["May (I) have 2 tickets for Osaka please?",        "ousaka yuki no kippu wo ni mai kudasai."],
+
+[
+    "Because today's game is cancelled, what shall we do?",
+    "kyou no shiai wa chuushi desu kara, dou shimashou ka."
+],
+["On rainy days, (I) watch movies.",                "ame no hi wa eiga wo mimasu."],
+["(I can) hear thunder.",                           "kaminari ga kikoemasu."]
 
 ]
