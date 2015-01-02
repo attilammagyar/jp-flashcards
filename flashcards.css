@@ -44,6 +44,20 @@ div#card p span#index {
     font-size: 0.75em;
 }
 
+ruby {
+    border: solid 0.075em;
+    border-radius: 0.2em;
+    transition: background-color 0.3s, border-color 0.3s;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+ruby.visible {
+    transition: background-color 0.0s, border-color 0.0s;
+    background-color: #e8f4ff;
+    border-color: #80a0b0;
+}
+
 ruby rt {
     opacity: 0.0;
     transition: opacity 0.3s;
@@ -51,7 +65,7 @@ ruby rt {
     font-size: 70%;
 }
 
-ruby rt.visible {
+ruby.visible rt {
     opacity: 1.0;
     transition: opacity 0.0s;
 }

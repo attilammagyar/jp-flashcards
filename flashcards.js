@@ -174,7 +174,7 @@
 
         findFurigana: function ()
         {
-            return document.getElementsByTagName("rt");
+            return document.getElementsByTagName("ruby");
         },
 
         hasFurigana: function ()
