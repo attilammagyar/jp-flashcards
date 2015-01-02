@@ -662,6 +662,26 @@
     "{今日|kyou} no shiai wa chuushi desu kara, dou shimashou ka."
 ],
 ["On rainy days, (I) watch movies.",                "{雨|ame} no {日|hi} wa eiga wo mimasu."],
-["(I can) hear thunder.",                           "kaminari ga kikoemasu."]
+["(I can) hear thunder.",                           "kaminari ga kikoemasu."],
+["Miki writes kanji skillfully.",                   "{三木|miki}　san wa jouzu ni kanji wo kakimasu."],
+["Robert speaks Japanese well.",                    "_robaato_ san wa yoku {日本語|nihongo} wo hanashimasu."],
+
+["Hondo does his work seriously.",                  "hondou san wa majime ni shigoto wo shimasu."],
+["Naoe cleans neatly.",                             "naoe san wa kirei ni souji wo shimasu."],
+["Natsuko speaks English softly/kindly.",           "natsuko san wa yasashiku eigo wo hanashimasu."],
+["6 o'clock has come.",                             "{六時|rokuji} ni narimashita."],
+["(It) gradually gets hotter.",                     "dandan atsuku narimasu."],
+
+["Miki has got good at bowling.",                   "{三木|miki} san wa _booringu_ ga jouzu ni narimashita."],
+["Happy New Year!",                                 "{明|a}kemashite omedetou."],
+["The weather got cold.",                           "{天気|tenki} ga samuku narimashita."],
+[
+    "If (you) study every day, (your) Japanese will get skilled.",
+    "{毎日|mai nichi} benkyou suru to {日本語|nihongo} ga jouzu ni narimasu."
+],
+[
+    "Since (I) saw photos of Japan, (I) got wanting to go.",
+    "{日本|ni hon} no shasshin wo mimashita no de, ikitaku narimashita."
+]
 
 ]
