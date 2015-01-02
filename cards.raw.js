@@ -277,18 +277,18 @@
 ["5 bottles of rice wine",                          "{酒五本|sake go hon}"],
 ["4 bottles of beer",                               "_biiru_ {四本|yon hon}"],
 
-["3 summer kimonos",                                "yukata sanmai"],
-["1 television",                                    "_terebi_ ichidai"],
+["3 summer kimonos",                                "yukata {三|san} mai"],
+["1 television",                                    "_terebi_ {一|ichi} dai"],
 ["10 books",                                        "{本|hon} jussatsu"],
 [
     "1 items, 2 items, 3 items, ... 10 items",
-    "{一つ|hitotsu}, {二つ|futatsu}, {三つ|mittsu}, {四つ|yottsu}, {五つ|itsutsu}, {六つ|muttsu}, {七つ|nanatsu}, {八つ|yattsu}, {九つ|kokonotsu}, {十|tou}"
+    "{一つ|hitotsu}, {二つ|futatsu}, {三つ|mittsu}, {四つ|yottsu}, {五つ|itsutsu}, {六つ|muttsu}, {七つ|nanatsu}, {八つ|yattsu}, {九つ|kokonotsu}, {十|too}"
 ],
 ["3 cups of coffee",                                "_koohii_ {三つ|mittsu}"],
 
 ["2 mobile phones",                                 "keitai denwa {二つ|futatsu}"],
 ["1 cake",                                          "_keeki_ {一つ|hitotsu}"],
-["10 bags",                                         "kaban {十|tou}"],
+["10 bags",                                         "kaban {十|too}"],
 ["4 watches",                                       "tokei {四つ|yottsu}"],
 ["May (I) have 3 bags please?",                     "kaban wo {三つ|mittsu} kudasai."],
 
@@ -559,7 +559,7 @@
 ["That person is famous. That is a famous person.", "ano {人|hito} wa yuumei desu. are wa yuumei na {人|hito} desu."],
 
 ["Mr. Roger is good at bowling, isn't he?",         "_rojaa_ san wa _booringu_ ga jouzu desu ne."],
-["This is a lively place, isn't it?",               "koko wa nigiyaka na tokoro desu ne."],
+["This is a lively place, isn't it?",               "koko wa nigiyaka na {所|tokoro} desu ne."],
 ["I think Mr. Yamada is a serious person.",         "{山田|yamada} san wa majime na {人|hito} da to omoimasu."],
 ["This is a clean room, isn't it?",                 "kore wa kirei na heya desu ne."],
 [
