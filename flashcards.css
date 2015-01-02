@@ -23,12 +23,12 @@ div#card {
 
 div#card p {
     position: relative;
-    top: 5%;
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
+    top: 2%;
+    width: 94%;
+    margin-left: 3%;
+    margin-right: 3%;
     padding-top: 0.3em;
-    font-size: 225%;
+    font-size: 250%;
     text-align: center;
     opacity: 1.0;
     transition: opacity 0.3s;
@@ -42,4 +42,16 @@ div#card p.hidden {
 div#card p span#index {
     color: #707070;
     font-size: 0.75em;
+}
+
+ruby rt {
+    opacity: 0.0;
+    transition: opacity 0.3s;
+    color: #405070;
+    font-size: 70%;
+}
+
+ruby rt.visible {
+    opacity: 1.0;
+    transition: opacity 0.0s;
 }

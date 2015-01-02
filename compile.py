@@ -1,8 +1,23 @@
 #!/usr/bin/python3
 
+import re
 import json
 
 from tokana import to_kana
+
+
+def compile_card(card):
+    english, japanese = card
+
+    return (english, compile_furigana(to_kana(japanese)))
+
+
+def compile_furigana(text):
+    return re.sub(
+        r"\{([^|}]*)\|([^}]*)\}",
+        "<ruby>\\1<rt>\\2</rt></ruby>",
+        text
+    )
 
 
 if __name__ == "__main__":
@@ -11,7 +26,7 @@ if __name__ == "__main__":
             o.write(
                 "Flashcards.initialize({})".format(
                     json.dumps(
-                        [[question, to_kana(answer)] for question, answer in json.loads(f.read())]
+                        [compile_card(card) for card in json.loads(f.read())]
                     )
                 )
             )

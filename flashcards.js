@@ -19,38 +19,77 @@
             return min + Math.floor(Math.random() * (max - min));
         },
 
+        randomCardIndex: function ()
+        {
+            var fc = Flashcards,
+                s = Flashcards.selection;
+
+            return s ? s[fc.random(0, s.length)] : fc.random(fc.min, fc.max);
+        },
+
         states: {
-            showQuestion: function ()
+            question: function ()
             {
-                var l = Flashcards.cards.length,
-                    i = Flashcards.selection
-                        ? Flashcards.selection[
-                            Flashcards.random(0, Flashcards.selection.length)
-                        ]
-                        : Flashcards.random(Flashcards.min, Flashcards.max),
-                    question = Flashcards.cards[i][0],
-                    answer = Flashcards.cards[i][1],
-                    index = String(i + 1) + ".",
-                    tmp;
-
                 if (Math.random() > 0.5) {
-                    tmp = answer;
-                    answer = question;
-                    question = tmp;
+                    Flashcards.states.japaneseQuestion();
+                } else {
+                    Flashcards.states.englishQuestion();
                 }
-
-                $("index").innerHTML = index;
-                $("question").innerHTML = question;
-                $("answer").innerHTML = answer;
-                $("answer").className = "hidden";
-
-                Flashcards.setState(Flashcards.states.showAnswer);
             },
 
-            showAnswer: function ()
+            japaneseQuestion: function ()
             {
-                $("answer").className = "";
-                Flashcards.setState(Flashcards.states.showQuestion);
+                var i = Flashcards.randomCardIndex(),
+                    question = Flashcards.cards[i][1],
+                    answer = Flashcards.cards[i][0];
+
+                Flashcards.hideAnswer();
+                Flashcards.showQuestion(i, question, answer);
+
+                Flashcards.nextState(
+                    Flashcards.hasFurigana()
+                        ? Flashcards.states.japaneseQuestionFurigana
+                        : Flashcards.states.englishAnswer
+                );
+            },
+
+            japaneseQuestionFurigana: function ()
+            {
+                Flashcards.showFurigana();
+                Flashcards.nextState(Flashcards.states.englishAnswer);
+            },
+
+            englishAnswer: function ()
+            {
+                Flashcards.showAnswer();
+                Flashcards.nextState(Flashcards.states.question);
+            },
+
+            englishQuestion: function ()
+            {
+                var i = Flashcards.randomCardIndex(),
+                    question = Flashcards.cards[i][0],
+                    answer = Flashcards.cards[i][1];
+
+                Flashcards.hideAnswer();
+                Flashcards.showQuestion(i, question, answer);
+                Flashcards.nextState(Flashcards.states.japaneseAnswer);
+            },
+
+            japaneseAnswer: function()
+            {
+                Flashcards.showAnswer();
+                Flashcards.nextState(
+                    Flashcards.hasFurigana()
+                        ? Flashcards.states.japaneseAnswerFurigana
+                        : Flashcards.states.question
+                );
+            },
+
+            japaneseAnswerFurigana: function()
+            {
+                Flashcards.showFurigana();
+                Flashcards.nextState(Flashcards.states.question);
             }
         },
 
@@ -68,11 +107,11 @@
                 Flashcards.parseLimits(limits[1]);
             }
 
-            Flashcards.setState(Flashcards.states.showQuestion);
+            Flashcards.nextState(Flashcards.states.question);
 
-            $("card").onclick = Flashcards.applyState;
-            body.onkeypress = Flashcards.applyState;
-            Flashcards.applyState();
+            $("card").onclick = Flashcards.moveToNextState;
+            body.onkeypress = Flashcards.moveToNextState;
+            Flashcards.moveToNextState();
         },
 
         parseLimits: function (limits)
@@ -106,14 +145,51 @@
             }
         },
 
-        setState: function (nextState)
+        nextState: function (nextState)
         {
             Flashcards.state = nextState;
         },
 
-        applyState: function ()
+        moveToNextState: function ()
         {
             Flashcards.state();
+        },
+
+        showQuestion: function (index, question, answer)
+        {
+            $("index").innerHTML = String(index + 1) + ".";
+            $("question").innerHTML = question;
+            $("answer").innerHTML = answer;
+        },
+
+        showFurigana: function ()
+        {
+            var furigana = Flashcards.findFurigana(),
+                i, l;
+
+            for (i = 0, l = furigana.length; i < l; ++i) {
+                furigana[i].className = "visible";
+            }
+        },
+
+        findFurigana: function ()
+        {
+            return document.getElementsByTagName("rt");
+        },
+
+        hasFurigana: function ()
+        {
+            return Flashcards.findFurigana().length > 0;
+        },
+
+        showAnswer: function ()
+        {
+            $("answer").className = "";
+        },
+
+        hideAnswer: function ()
+        {
+            $("answer").className = "hidden";
         }
     };
 
