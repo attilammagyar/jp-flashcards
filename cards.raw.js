@@ -604,11 +604,11 @@
 ["(I) feel sick.",                                  "気分kibun ga warui desu."],
 ["(I've) caught a cold.",                           "kaze wo hiiteshimaimashita."],
 ["(My) shoulders ache.",                            "kata ga itai desu."],
-["Have (you) caught a cold?",                       "kaze wo {hiiteshimaim明日|ashita} ka."],
+["Have (you) caught a cold?",                       "kaze wo hiiteshimaimashita ka."],
 
 ["(I) have a headache. (My) stomach also hurts.",   "atama ga itai desu. onaka mo itai desu."],
 ["Does (your) throat hurt? Hurts a little bit.",    "nodo ga itai desu ka. chotto itai desu."],
-["It's not cold. It's a hangover!",                 "kaze dewa arimasen. futsuka yoi desu yo."],
+["It's not cold. It's a hangover!",                 "kaze dewa arimasen. {二日|futsuka} yoi desu yo."],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
     "se ga futsuu de, kami ga nagakute chairo desu. me mo chairo desu. kao ga marukute, hana ga {大きい|ookii} desu."
@@ -627,7 +627,7 @@
 ["(It) was nice and enjoyable.",                    "yokute tanoshikatta desu."],
 ["The trip was interesting and enjoyable.",         "ryokou wa omoshirokute tanoshikatta desu."],
 ["The film was interesting but a bit long.",        "eiga wa omoshirokatta desu ga chotto nagakatta desu."],
-["This book was boring and disagreeable.",          "kono hon wa tsumaranakute fuyukai deshita."],
+["This book was boring and disagreeable.",          "kono {本|hon} wa tsumaranakute fuyukai deshita."],
 [
     "Last week (I) did a business trip to Osaka. It wasn't interesting.",
     "senshuu ousaka ni shucchou shimashita. omoshirokunakatta desu."
@@ -663,7 +663,7 @@
 ],
 ["On rainy days, (I) watch movies.",                "{雨|ame} no {日|hi} wa eiga wo mimasu."],
 ["(I can) hear thunder.",                           "kaminari ga kikoemasu."],
-["Miki writes kanji skillfully.",                   "{三木|miki}　san wa jouzu ni kanji wo kakimasu."],
+["Miki writes kanji skillfully.",                   "{三木|miki} san wa jouzu ni kanji wo kakimasu."],
 ["Robert speaks Japanese well.",                    "_robaato_ san wa yoku {日本語|nihongo} wo hanashimasu."],
 
 ["Hondo does his work seriously.",                  "hondou san wa majime ni shigoto wo shimasu."],
@@ -681,7 +681,7 @@
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
-    "{日本|ni hon} no shasshin wo mimashita no de, ikitaku narimashita."
+    "{日本|ni hon} no shashin wo mimashita no de, ikitaku narimashita."
 ]
 
 ]
