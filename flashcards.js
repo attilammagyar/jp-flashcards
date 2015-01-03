@@ -9,31 +9,64 @@
 
     Flashcards = {
         cards: [],
-        selection: null,
+        focus: [],
         state: function () {},
-        min: 0,
-        max: 0,
+        current_card_index: 0,
+        all: 0,
+        wrong: 0,
+        digits: "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@/",
 
         random: function (min, max)
         {
             return min + Math.floor(Math.random() * (max - min));
         },
 
-        randomCardIndex: function ()
+        generateNextCardIndex: function ()
         {
             var fc = Flashcards,
-                s = Flashcards.selection;
+                current_card, next_card, i;
 
-            if (Math.random() < 0.25) {
-                return fc.random(0, fc.cards.length);
+            next_card = current_card = fc.current_card_index;
+
+            for (i = 0; (i < 10) && (next_card === current_card); ++i) {
+                if (fc.shouldChooseFromAll()) {
+                    next_card = fc.random(0, fc.cards.length);
+                } else {
+                    next_card = fc.focus[fc.random(0, fc.focus.length)];
+                }
             }
 
-            return s ? s[fc.random(0, s.length)] : fc.random(fc.min, fc.max);
+            return next_card;
+        },
+
+        shouldChooseFromAll: function ()
+        {
+            var fl = Flashcards.focus.length;
+
+            return (
+                (fl === 0)
+                || (Math.random() > Math.min(0.75, 1.0 - (1.0 / (1.0 + fl))))
+            )
         },
 
         states: {
+            firstQuestion: function ()
+            {
+                Flashcards.states.question();
+            },
+
+            subsequentialQuestion: function()
+            {
+                Flashcards.all++;
+                Flashcards.states.question();
+            },
+
             question: function ()
             {
+                Flashcards.hideAnswer();
+                Flashcards.hideRateForm();
+                Flashcards.current_card_index = Flashcards.generateNextCardIndex();
+
                 if (Math.random() > 0.5) {
                     Flashcards.states.japaneseQuestion();
                 } else {
@@ -43,12 +76,11 @@
 
             japaneseQuestion: function ()
             {
-                var i = Flashcards.randomCardIndex(),
+                var i = Flashcards.current_card_index,
                     question = Flashcards.cards[i][1],
                     answer = Flashcards.cards[i][0];
 
-                Flashcards.hideAnswer();
-                Flashcards.showQuestion(i, question, answer);
+                Flashcards.showQuestion(question, answer);
 
                 Flashcards.nextState(
                     Flashcards.hasFurigana()
@@ -66,17 +98,16 @@
             englishAnswer: function ()
             {
                 Flashcards.showAnswer();
-                Flashcards.nextState(Flashcards.states.question);
+                Flashcards.nextState(Flashcards.states.rate);
             },
 
             englishQuestion: function ()
             {
-                var i = Flashcards.randomCardIndex(),
+                var i = Flashcards.current_card_index,
                     question = Flashcards.cards[i][0],
                     answer = Flashcards.cards[i][1];
 
-                Flashcards.hideAnswer();
-                Flashcards.showQuestion(i, question, answer);
+                Flashcards.showQuestion(question, answer);
                 Flashcards.nextState(Flashcards.states.japaneseAnswer);
             },
 
@@ -86,67 +117,109 @@
                 Flashcards.nextState(
                     Flashcards.hasFurigana()
                         ? Flashcards.states.japaneseAnswerFurigana
-                        : Flashcards.states.question
+                        : Flashcards.states.rate
                 );
             },
 
             japaneseAnswerFurigana: function()
             {
                 Flashcards.showFurigana();
-                Flashcards.nextState(Flashcards.states.question);
+                Flashcards.nextState(Flashcards.states.rate);
+            },
+
+            rate: function ()
+            {
+                Flashcards.showRateForm();
+                Flashcards.nextState(Flashcards.states.subsequentialQuestion);
             }
         },
 
         initialize: function (cards)
         {
             var body = document.getElementsByTagName("body")[0],
-                limits = String(window.location.href).match(/#(.*)$/),
-                selected_cards,
+                focus = String(window.location.href).match(/#(.*)$/),
                 matches;
 
-            Flashcards.cards = cards;
-            Flashcards.max = Flashcards.cards.length;
+            Flashcards.cards = Flashcards.formatFurigana(cards);
+            Flashcards.nextState(Flashcards.states.firstQuestion);
 
-            if (limits) {
-                Flashcards.parseLimits(limits[1]);
+            if (focus) {
+                Flashcards.parseFocus(focus[1]);
             }
 
-            Flashcards.nextState(Flashcards.states.question);
-
             $("card").onclick = Flashcards.moveToNextState;
-            body.onkeypress = Flashcards.moveToNextState;
+            $("rate-add-to-focus").onclick = Flashcards.rateAddToFocus;
+            $("rate-skip").onclick = Flashcards.rateSkip;
+            $("rate-remove-from-focus").onclick = Flashcards.rateRemoveFromFocus;
+            $("cont-input").onclick = function () { $("cont-input").select(); };
+            $("rate").onsubmit = function () { return false; };
+
             Flashcards.moveToNextState();
         },
 
-        parseLimits: function (limits)
+        formatFurigana: function (cards)
+        {
+            var formatted = [],
+                i, l, en, jp;
+
+            for (i = 0, l = cards.length; i < l; ++i) {
+                en = cards[i][0];
+                jp = cards[i][1].replace(
+                    /\{([^|}]*)\|([^}]*)\}/g,
+                    "<ruby>$1<rt>$2</rt></ruby>"
+                );
+                formatted.push([en, jp]);
+            }
+
+            return formatted;
+        },
+
+        parseFocus: function (focus_str)
         {
             var count = Flashcards.cards.length,
-                selected_indices,
-                selected_index,
-                selection = [],
+                focus_indices,
+                focus_index,
+                focus = [],
                 matches,
+                min, max,
                 i;
 
-            if (matches = limits.match(/^([0-9]+)$/)) {
-                Flashcards.min = count - Math.min(count, Number(matches[1]));
-            } else if (matches = limits.match(/^([0-9]+)-([0-9]+)$/)) {
-                Flashcards.min = Math.max(0, Number(matches[1]) - 1);
-                Flashcards.max = Math.min(count, Number(matches[2]));
-            } else if (matches = limits.match(/^([0-9]+(,[0-9]+)+)$/)) {
-                selected_indices = matches[1].split(",");
+            if (matches = focus_str.match(/!([^,]+),([^,]+),([^,]*)$/)) {
+                Flashcards.all = Flashcards.decodeInteger(matches[1]);
+                Flashcards.wrong = Flashcards.decodeInteger(matches[2]);
+                focus = Flashcards.decodeArrayOfIntegers(matches[3]);
+            } else if (matches = focus_str.match(/^([0-9]+)$/)) {
+                min = count - Math.min(count, Number(matches[1]));
+                focus = Flashcards.range(min, count - 1);
+            } else if (matches = focus_str.match(/^([0-9]+)-([0-9]+)$/)) {
+                min = Math.max(1, Number(matches[1]));
+                max = Math.min(count, Number(matches[2]));
+                focus = Flashcards.range(min - 1, max - 1);
+            } else if (matches = focus_str.match(/^([0-9]+(,[0-9]+)+)$/)) {
+                focus_indices = matches[1].split(",");
 
-                for (i = 0; i < selected_indices.length; ++i) {
-                    selected_index = Number(selected_indices[i]) - 1;
+                for (i = 0; i < focus_indices.length; ++i) {
+                    focus_index = Number(focus_indices[i]) - 1;
 
-                    if (0 <= selected_index && selected_index < count) {
-                        selection[selection.length] = selected_index;
+                    if (0 <= focus_index && focus_index < count) {
+                        focus.push(focus_index);
                     }
                 }
-
-                if (selection.length > 0) {
-                    Flashcards.selection = selection;
-                }
             }
+
+            Flashcards.focus = focus;
+        },
+
+        range: function (min, max)
+        {
+            var r = [],
+                i;
+
+            for (i = min; i <= max; ++i) {
+                r.push(i);
+            }
+
+            return r;
         },
 
         nextState: function (nextState)
@@ -157,11 +230,122 @@
         moveToNextState: function ()
         {
             Flashcards.state();
+            Flashcards.updateInfo();
         },
 
-        showQuestion: function (index, question, answer)
+        encodeSortableArrayOfIntegers: function (raw_ints)
         {
-            $("index").innerHTML = String(index + 1) + ".";
+            var ints = raw_ints.slice(0),
+                encoded = "",
+                last_int = 0,
+                i, l;
+
+            ints.sort(function (a, b) { return a - b; });
+
+            for (i = 0, l = ints.length; i < l; ++i) {
+                encoded += Flashcards.encodeInteger(ints[i] - last_int);
+                last_int = ints[i];
+            }
+
+            return encoded;
+        },
+
+        encodeInteger: function (n)
+        {
+            var encoded = "",
+                base = Flashcards.digits.length,
+                remainder, digit;
+
+            while ((encoded === "") || (n > 0)) {
+                remainder = n % base;
+                digit = Flashcards.digits.substr(remainder, 1);
+                encoded = digit + encoded;
+                n = (n - remainder) / base;
+            }
+
+            switch (encoded.length) {
+                case 1: return encoded;
+                case 2: return "." + encoded;
+                case 3: return ":" + encoded;
+                case 4: return "-" + encoded;
+                case 5: return "=" + encoded;
+            }
+
+            throw "Number too large for encoding";
+        },
+
+        decodeArrayOfIntegers: function (encoded)
+        {
+            var ints = [],
+                last_int = 0,
+                i, l, tmp;
+
+            for (i = 0, l = encoded.length; i < l;) {
+                tmp = Flashcards.decodeFirstIncrement(encoded.substr(i));
+                last_int += tmp[0];
+                ints.push(last_int);
+                i += tmp[1];
+            }
+
+            return ints;
+        },
+
+        decodeInteger: function (encoded)
+        {
+            return Flashcards.decodeFirstIncrement(encoded)[0];
+        },
+
+        decodeFirstIncrement: function (encoded)
+        {
+            var lengths = ".:-=",
+                length = 1,
+                step = 1,
+                first_char,
+                i;
+
+            if (encoded === "") {
+                throw "Invalid encoding: expected at least 1 more characters";
+            }
+
+            first_char = encoded.substr(0, 1);
+            i = lengths.indexOf(first_char);
+
+            if (i > -1) {
+                length = i + 2;
+                step = length + 1;
+                encoded = encoded.substr(1);
+            }
+
+            if (encoded.length < length) {
+                throw "Invalid encoding: encoded stream too short";
+            }
+
+            return [Flashcards.decodeIncrement(encoded.substr(0, length)), step];
+        },
+
+        decodeIncrement: function (encoded)
+        {
+            var decoded = 0,
+                base = Flashcards.digits.length,
+                i, l, digit, next_char;
+
+            for (i = 0, l = encoded.length; i < l; ++i) {
+                next_char = encoded.substr(i, 1);
+                digit = Flashcards.digits.indexOf(next_char);
+
+                if (digit < 0) {
+                    throw "Invalid encoding: invalid character: " + next_char;
+                }
+
+                decoded = decoded * base + digit;
+            }
+
+            return decoded;
+        },
+
+        showQuestion: function (question, answer)
+        {
+            $("index").innerHTML = String(Flashcards.current_card_index + 1) + ".";
             $("question").innerHTML = question;
             $("answer").innerHTML = answer;
         },
@@ -194,7 +378,71 @@
         hideAnswer: function ()
         {
             $("answer").className = "hidden";
-        }
+        },
+
+        showRateForm: function ()
+        {
+            if (Flashcards.focus.indexOf(Flashcards.current_card_index) > -1) {
+                $("rate-remove-from-focus").className = "";
+            } else {
+                $("rate-remove-from-focus").className = "hidden";
+            }
+
+            $("rate").className = "";
+        },
+
+        hideRateForm: function ()
+        {
+            $("rate").className = "hidden";
+        },
+
+        updateInfo: function ()
+        {
+            var correct = Flashcards.all - Flashcards.wrong,
+                rate = (Flashcards.all > 0) ? Math.round((correct * 100) / Flashcards.all) : 0,
+                hash, link;
+
+            hash = (
+                "#!" + Flashcards.encodeInteger(Flashcards.all)
+                + "," + Flashcards.encodeInteger(Flashcards.wrong)
+                + "," + Flashcards.encodeSortableArrayOfIntegers(Flashcards.focus)
+            );
+            link = window.location.href.replace(/^([^#]*)(#.*)?$/, "$1") + hash;
+
+            $("stats-correct").innerHTML = correct;
+            $("stats-wrong").innerHTML = Flashcards.wrong;
+            $("stats-rate").innerHTML = String(rate) + "%";
+            $("stats-due").innerHTML = Flashcards.focus.length;
+            $("cont-input").value = hash;
+            $("cont-link").href = link;
+        },
+
+        rateAddToFocus: function ()
+        {
+            Flashcards.wrong++;
+
+            if (Flashcards.focus.indexOf(Flashcards.current_card_index) == -1) {
+                Flashcards.focus.push(Flashcards.current_card_index);
+            }
+
+            Flashcards.moveToNextState();
+        },
+
+        rateSkip: function ()
+        {
+            Flashcards.moveToNextState();
+        },
+
+        rateRemoveFromFocus: function ()
+        {
+            Flashcards.focus = Flashcards.focus.filter(
+                function (i)
+                {
+                    return i !== Flashcards.current_card_index;
+                }
+            );
+            Flashcards.moveToNextState();
+        },
     };
 
     window.Flashcards = Flashcards

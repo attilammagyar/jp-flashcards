@@ -2,6 +2,7 @@
 
 import re
 import json
+import sys
 
 from tokana import to_kana
 
@@ -9,24 +10,39 @@ from tokana import to_kana
 def compile_card(card):
     english, japanese = card
 
-    return (english, compile_furigana(to_kana(japanese)))
+    return (english, to_kana(japanese))
 
 
-def compile_furigana(text):
-    return re.sub(
-        r"\{([^|}]*)\|([^}]*)\}",
-        "<ruby>\\1<rt>\\2</rt></ruby>",
-        text
-    )
+def main(argv):
+    if len(argv) != 3:
+        print("Usage: {} input_json_file output_json_file".format(argv[0]))
 
+        return 1
 
-if __name__ == "__main__":
-    with open("cards.raw.js", "r") as f:
-        with open("cards.js", "w") as o:
+    input_json_file = argv[1]
+    output_json_file = argv[2]
+
+    with open(input_json_file, "r") as i:
+        with open(output_json_file, "w") as o:
+            cards_json = i.read().strip()
+
+            if cards_json.startswith("Flashcards.initialize("):
+                cards_json = cards_json[22:]
+
+            if cards_json.endswith(")"):
+                cards_json = cards_json[:-1]
+
             o.write(
                 "Flashcards.initialize({})".format(
                     json.dumps(
-                        [compile_card(card) for card in json.loads(f.read())]
+                        [compile_card(card) for card in json.loads(cards_json)],
+                        indent=4
                     )
                 )
             )
+
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv))

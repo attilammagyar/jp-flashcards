@@ -11,6 +11,22 @@
         <p><span id="index"></span> <span id="question"></span></p>
         <p id="answer" class="hidden"></p>
     </div>
+    <div id="stats">
+        <span id="stats-correct">?</span>/<span id="stats-wrong">?</span>,
+        <span id="stats-due">?</span>
+        (<span id="stats-rate">?%</span>)
+    </div>
+    <form id="rate" class="hidden">
+        <div>
+            <button id="rate-add-to-focus">Wrong!</button>
+            <button id="rate-skip">Okay!</button>
+            <button id="rate-remove-from-focus">Easy!</button>
+        </div>
+        <div>
+            <a id="cont-link" href="#">Continue from here:</a>
+            <input id="cont-input" type="text" readonly="readonly" value="adsasd" />
+        </div>
+    </form>
     <script type="text/javascript" src="flashcards.js"></script>
     <script type="text/javascript" src="cards.js"></script>
 </body>

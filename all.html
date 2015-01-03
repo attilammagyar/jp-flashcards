@@ -19,22 +19,21 @@
 </head>
 <body>
     <div id="cards"></div>
+    <script type="text/javascript" src="flashcards.js"></script>
     <script type="text/javascript">
     <!--
-var Flashcards = {
-    initialize: function (cards)
+    Flashcards.initialize = function (cards)
     {
-        var i,
-            l = cards.length,
-            html = "";
+        var html = "",
+            c = Flashcards.formatFurigana(cards),
+            i, l;
 
-        for (i = 0; i < l; ++i) {
-            html += "<li><dt>" + cards[i][0] + "</dt><dd>" + cards[i][1] + "</dd></li>";
+        for (i = 0, l = c.length; i < l; ++i) {
+            html += "<li><dt>" + c[i][0] + "</dt><dd>" + c[i][1] + "</dd></li>";
         }
 
         document.getElementById("cards").innerHTML = "<ol>" + html + "</ol>";
-    }
-}
+    };
     //-->
     </script>
     <script type="text/javascript" src="cards.js"></script>

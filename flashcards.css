@@ -17,16 +17,16 @@ body {
 }
 
 div#card {
-    height: 100%;
-    vertical-align: middle;
-}
-
-div#card p {
-    position: relative;
-    top: 2%;
+    position: absolute;
+    z-index: 50;
+    top: 5%;
     width: 94%;
     margin-left: 3%;
     margin-right: 3%;
+    height: 95%;
+}
+
+div#card p {
     padding-top: 0.3em;
     font-size: 250%;
     text-align: center;
@@ -68,4 +68,95 @@ ruby rt {
 ruby.visible rt {
     opacity: 1.0;
     transition: opacity 0.0s;
+}
+
+div#stats {
+    position: absolute;
+    z-index: 1;
+    top: 0.1em;
+    right: 0.1em;
+    font-size: 1.4em;
+}
+
+div#stats, div#stats span {
+    color: #585858;
+}
+
+div#stats span#stats-correct {
+    color: #007020;
+}
+
+div#stats span#stats-wrong {
+    color: #702030;
+}
+
+form#rate {
+    display: block;
+    position: absolute;
+    z-index: 100;
+    bottom: 2%;
+    left: 25%;
+    width: 50%;
+    text-align: center;
+    background-color: #fff8d0;
+    border: solid 0.3em #f0e8b0;
+    padding: 0.7em;
+    border-radius: 1em;
+    opacity: 1.0;
+    transition: opacity 0.15s;
+}
+
+form#rate.hidden {
+    opacity: 0.0;
+    transition: opacity 0.0s;
+    height: 0;
+    padding: 0;
+    border-style: none;
+    overflow: hidden;
+}
+
+form#rate a {
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+form#rate input {
+    font-size: 1.4em;
+    line-height: 1.4em;
+    height: 1.7em;
+    width: 50%;
+    border: inset 0.07em #808080;
+    border-radius: 0.3em;
+}
+
+form#rate button.hidden {
+    visibility: hidden;
+}
+
+form#rate button {
+    font-size: 1.8em;
+    font-weight: bold;
+    padding: 0.2em 0.5em;
+    border-style: outset;
+    border-width: 0.10em;
+    border-radius: 0.3em;
+    margin: 0.2em;
+}
+
+button#rate-add-to-focus {
+    background-color: #b00000;
+    color: #ffffff;
+    border-color: #a00000;
+}
+
+button#rate-skip {
+    background-color: #207870;
+    color: #ffffff;
+    border-color: #207070;
+}
+
+button#rate-remove-from-focus {
+    background-color: #007800;
+    color: #ffffff;
+    border-color: #007000;
 }

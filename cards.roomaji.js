@@ -1,4 +1,5 @@
-[
+Flashcards.initialize([
+
 ["This is very delicious.",                         "kore wa totemo oishii desu."],
 ["I like you very much.",                           "{私|watashi} wa anata ga totemo suki desu."],
 ["What flowers do you like?",                       "sukina {花|hana} wa {何|nan} desu ka."],
@@ -684,4 +685,4 @@
     "{日本|ni hon} no shashin wo mimashita no de, ikitaku narimashita."
 ]
 
-]
+])

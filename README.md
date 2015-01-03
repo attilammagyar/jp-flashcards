@@ -1,7 +1,7 @@
 Flashcards
 ==========
 
-My quick and dirty flashcards for learning Japanese.
+My quick and dirty flashcards app for learning Japanese.
 
 Usage
 -----
@@ -10,49 +10,120 @@ Usage
  * Focus on the last few cards (e.g. last 15): [index.html#15][f]
  * Focus on a range of cards (e.g. 10-20): [index.html#10-20][r]
  * Focus on a selection of cards (e.g. 1st, 2nd and 4th): [index.html#1,2,4][s]
+ * Continue from where you have left last time, using the hash code that the
+   app generated (e.g. `#!.3a,9,z2.149/A2`): [index.html#!.3a,9,z2.149/A2][h]
  * List all cards: [all.html][l]
 
   [a]: http://attilammagyar.github.io/jp-flashcards/index.html
   [f]: http://attilammagyar.github.io/jp-flashcards/index.html#15
   [r]: http://attilammagyar.github.io/jp-flashcards/index.html#10-20
   [s]: http://attilammagyar.github.io/jp-flashcards/index.html#1,2,4
+  [h]: http://attilammagyar.github.io/jp-flashcards/index.html#!.3a,9,z2.149/A2
   [l]: http://attilammagyar.github.io/jp-flashcards/all.html
 
-Press a key or click anywhere to reveal the correct answer, the furigana or to
-jump to the next card.
+Click anywhere to reveal the correct answer, the furigana, to rate your answer
+to the current card, or to jump to the next card. If you rate your answer
+*Wrong!* then the card will be added to the focus group of cards. To remove a
+card from the focus group, rate your answer *Easy!*. The more cards in the
+focus group, the better the chance to get one from them.
+
+You may use the app with my cards online from GitHub using the above links, or
+download it to your phone, tablet, or any device that can run a modern browser,
+and then customize the cards or use it offline.
+
+You can start learning on one of your device, and continue on another using the
+hash codes that are displayed after each card.
 
 **Note**: even when some cards are selected to be focused on, a random card
-from the whole deck will be shown.
+from the whole deck will be shown from time to time.
 
 Editing cards
 -------------
 
-### Bootstrap python3 environment
+### Obtain the source code
 
-For easier editing, cards can be specified in *roomaji* which then is converted
-according to a simple syntax into kana using a small Python3 program which
-requires a little bit of setup:
+Download it as a ZIP file from
+[https://github.com/attilammagyar/jp-flashcards][g] or use the following
+command on a typical Linux/Unix system:
+
+  [g]: https://github.com/attilammagyar/jp-flashcards
+
+    $ git clone https://github.com/attilammagyar/jp-flashcards.git
+
+### Edit `cards.roomaji.js` or `cards.js`
+
+For easier editing, cards can be specified in *roomaji* which then can be
+converted according to a simple syntax into kana using a small Python3 program
+which unfortunately requires a little bit of setup. This is not so complicated
+on a typical Linux/Unix system, but anyways, if you don't feel like it, you may
+simply edit `cards.js` directly.
+
+#### Editing `cards.js`
+
+The cards must be specified in the following format:
+
+    Flashcards.initialize([
+        ["english text #1",     "japanese translation #1"],
+        ["english text #2",     "japanese translation #2"],
+        ["meaning",             "{kanji|readings}"],
+        ...
+        ["english text #..." ,  "japanese translation #..."]
+    ])
+
+To create kanji with furigana, use the following format anywhere inside the
+japanese translation, maybe multiple times:
+
+    {kanji characters|furigana}
+
+Example `cards.js`:
+
+    Flashcards.initialize([
+     [
+      "I'm going to the supermarket with my son.",
+      "むすことスーパーにいきます。"
+     ],
+     [
+      "If you study every day, your Japanese will get skilled.",
+      "{毎日|まいにち}べんきょうすると{日本語|にほんご}がじょうずになります。"
+     ]
+    ])
+
+#### Editing `cards.roomaji.js`
+
+##### Bootstrap python3 environment
+
+Bootstrap using `virtualenv` on a typical Linux/Unix system:
 
     $ virtualenv -p python3 py3
     $ source py3/bin/activate
     $ pip install romkan
 
-### Editing the cards:
+##### Editing `cards.roomaji.js` and generating `cards.js`:
 
-    $ vim cards.raw.js      # Edit the English-Japanese pairs in the JSON
-    $ ./compile.sh          # Generate cards.js from cards.raw.js
+    $ vim cards.roomaji.js  # Edit the English-Japanese pairs in the JSON
+    $ ./compile.sh          # Generate cards.js from cards.roomaji.js
 
-### Syntax:
+##### Syntax:
 
-The following conversions are applied to the Japanese parts of `cards.raw.js`:
+The following conversions are applied to the Japanese parts of the cards:
 
-    roomaji         --> hiragana
-    _roomaji_       --> katakana
-    {kanji|roomaji} --> kanji with furigana
+    roomaji         --> hiragana            # done by compile.sh
+    _roomaji_       --> katakana            # done by compile.sh
+    {kanji|roomaji} --> kanji + furigana    # done by flashcards.js
 
-Example `cards.raw.js`:
+The cards must be specified in the following format in `cards.roomaji.js`:
 
-    [
+    Flashcards.initialize([
+        ["english text #1",     "japanese translation in roomaji #1"],
+        ["english text #2",     "japanese translation in roomaji #2"],
+        ["meaning",             "{kanji|readings in roomaji}"],
+        ...
+        ["english text #..." ,  "japanese translation in roomaji #..."]
+    ])
+
+Example `cards.roomaji.js`:
+
+    Flashcards.initialize([
      [
       "I'm going to the supermarket with my son.",
       "musuko to _suupaa_ ni ikimasu."
@@ -61,4 +132,4 @@ Example `cards.raw.js`:
       "If you study every day, your Japanese will get skilled.",
       "{毎日|mai nichi} benkyou suru to {日本語|nihongo} ga jouzu ni narimasu."
      ]
-    ]
+    ])
