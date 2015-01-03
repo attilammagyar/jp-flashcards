@@ -602,7 +602,7 @@ Flashcards.initialize([
 ["(My) back hurts.",                                "senaka ga itai desu."],
 
 ["(My) stomach hurts.",                             "onaka ga itai desu."],
-["(I) feel sick.",                                  "気分kibun ga warui desu."],
+["(I) feel sick.",                                  "{気分|kibun} ga warui desu."],
 ["(I've) caught a cold.",                           "kaze wo hiiteshimaimashita."],
 ["(My) shoulders ache.",                            "kata ga itai desu."],
 ["Have (you) caught a cold?",                       "kaze wo hiiteshimaimashita ka."],
@@ -622,7 +622,7 @@ Flashcards.initialize([
 ["I don't think (she) is especially shy.",          "son na ni hazukashigari ja nai to omoimasu."],
 ["This department store is very busy, isn't it!",   "kono _depaato_ wa totemo nigiyaka desu ne."],
 ["That person is serious but kind.",                "ano {人|hito} wa majime desu ga yasashii desu."],
-["(I) am poor at sports but good at origami.",      "{私|watashi} wa _supootsu_ ga heta desu ga origami wa jouzu desu."],
+["I am poor at sports but good at origami.",      "{私|watashi} wa _supootsu_ ga heta desu ga origami wa jouzu desu."],
 ["(It) was wonderful and interesting.",             "subarashikute omoshirokatta desu."],
 
 ["(It) was nice and enjoyable.",                    "yokute tanoshikatta desu."],

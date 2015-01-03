@@ -1337,7 +1337,7 @@ Flashcards.initialize([
     ],
     [
         "(I) feel sick.",
-        "\u6c17\u5206\u304d\u3076\u3093\u304c\u308f\u308b\u3044\u3067\u3059\u3002"
+        "{\u6c17\u5206|\u304d\u3076\u3093}\u304c\u308f\u308b\u3044\u3067\u3059\u3002"
     ],
     [
         "(I've) caught a cold.",
@@ -1384,7 +1384,7 @@ Flashcards.initialize([
         "\u3042\u306e{\u4eba|\u3072\u3068}\u306f\u307e\u3058\u3081\u3067\u3059\u304c\u3084\u3055\u3057\u3044\u3067\u3059\u3002"
     ],
     [
-        "(I) am poor at sports but good at origami.",
+        "I am poor at sports but good at origami.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u30b9\u30dd\u30fc\u30c4\u304c\u3078\u305f\u3067\u3059\u304c\u304a\u308a\u304c\u307f\u306f\u3058\u3087\u3046\u305a\u3067\u3059\u3002"
     ],
     [
