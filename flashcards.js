@@ -67,7 +67,7 @@
                 Flashcards.hideRateForm();
                 Flashcards.current_card_index = Flashcards.generateNextCardIndex();
 
-                if (Math.random() > 0.5) {
+                if (Math.random() > 0.75) {
                     Flashcards.states.japaneseQuestion();
                 } else {
                     Flashcards.states.englishQuestion();
