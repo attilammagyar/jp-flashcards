@@ -41,12 +41,17 @@
 
         shouldChooseFromAll: function ()
         {
-            var fl = Flashcards.focus.length;
+            var x = Flashcards.focus.length,
+                tolerance, focus_probability;
 
-            return (
-                (fl === 0)
-                || (Math.random() > Math.min(0.75, 1.0 - (1.0 / (1.0 + fl))))
-            )
+            if (x === 0) {
+                return true;
+            }
+
+            tolerance = (Flashcards.cards.length / 50) + 1;
+            focus_probability = 0.15 + 0.85 * (x / (x + tolerance));
+
+            return Math.random() > focus_probability;
         },
 
         states: {
