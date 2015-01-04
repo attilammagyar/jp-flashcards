@@ -10,7 +10,27 @@ from tokana import to_kana
 def compile_card(card):
     english, japanese, notes = card
 
-    return (english, to_kana(japanese), notes)
+    return (english, to_kana(japanese), format_notes(notes))
+
+
+def format_notes(notes):
+    formatted = []
+
+    for part in notes.split("{"):
+        formatted_part = ""
+        matches = re.match(r"^([^|}]*)\|([^}]*)\}", part)
+
+        if matches is not None:
+            kanji = to_kana(matches.group(1))
+            reading = to_kana(matches.group(2))
+            formatted_part += kanji + "|" + reading + "}" + part[part.find("}") + 1:]
+        else:
+            formatted_part += part
+
+        formatted.append(formatted_part)
+
+    return "{".join(formatted)
+
 
 
 def main(argv):

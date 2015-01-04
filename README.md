@@ -67,15 +67,15 @@ simply edit `cards.js` directly.
 The cards must be specified in the following format:
 
     Flashcards.initialize([
-        ["english text #1",     "Japanese translation #1",      "notes #1"],
-        ["english text #2",     "Japanese translation #2",      "notes #2"],
+        ["English text #1",     "Japanese translation #1",      "notes #1"],
+        ["English text #2",     "Japanese translation #2",      "notes #2"],
         ["meaning",             "{kanji|readings}",             "notes #3"],
         ...
-        ["english text #..." ,  "Japanese translation #...",    "notes #..."]
+        ["English text #..." ,  "Japanese translation #...",    "notes #..."]
     ])
 
 To create kanji with furigana, use the following format anywhere inside the
-Japanese translation, maybe multiple times:
+Japanese translation or the notes, once or more:
 
     {kanji characters|furigana}
 
@@ -117,14 +117,17 @@ The following conversions are applied to the Japanese parts of the cards:
     _roomaji_       --> katakana            # done by compile.sh
     {kanji|roomaji} --> kanji + furigana    # done by flashcards.js
 
+Additionally, `{roomaji kanji roomaji|roomaji}` is also converted if appears
+inside the notes.
+
 The cards must be specified in the following format in `cards.roomaji.js`:
 
     Flashcards.initialize([
-      ["english text #1",    "Japanese in roomaji #1",      "notes #1"],
-      ["english text #2",    "Japanese in roomaji #2",      "notes #2"],
+      ["English text #1",    "Japanese in roomaji #1",      "notes #1"],
+      ["English text #2",    "Japanese in roomaji #2",      "notes #2"],
       ["meaning",            "{kanji|readings in roomaji}", "notes #3"],
       ...
-      ["english text #..." , "Japanese in roomaji #...",    "notes #..."]
+      ["English text #..." , "Japanese in roomaji #...",    "notes #..."]
     ])
 
 Example `cards.roomaji.js`:

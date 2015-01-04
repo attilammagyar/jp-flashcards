@@ -157,7 +157,7 @@
                 focus = String(window.location.href).match(/#(.*)$/),
                 matches;
 
-            Flashcards.cards = Flashcards.formatFurigana(cards);
+            Flashcards.cards = Flashcards.formatFuriganaInCards(cards);
             Flashcards.shuffleCards();
             Flashcards.nextState(Flashcards.states.firstQuestion);
 
@@ -209,22 +209,27 @@
             return shuffled;
         },
 
-        formatFurigana: function (cards)
+        formatFuriganaInCards: function (cards)
         {
             var formatted = [],
                 i, l, en, jp, notes;
 
             for (i = 0, l = cards.length; i < l; ++i) {
                 en = cards[i][0];
-                jp = cards[i][1].replace(
-                    /\{([^|}]*)\|([^}]*)\}/g,
-                    "<ruby>$1<rt>$2</rt></ruby>"
-                );
-                notes = cards[i][2];
+                jp = Flashcards.formatFurigana(cards[i][1]);
+                notes = Flashcards.formatFurigana(cards[i][2]);
                 formatted.push([en, jp, notes]);
             }
 
             return formatted;
+        },
+
+        formatFurigana: function (text)
+        {
+            return text.replace(
+                /\{([^|}]*)\|([^}]*)\}/g,
+                "<ruby>$1<rt>$2</rt></ruby>"
+            );
         },
 
         parseFocus: function (focus_str)
