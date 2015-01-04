@@ -683,6 +683,8 @@ Flashcards.initialize([
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
     "{日本|ni hon} no shashin wo mimashita no de, ikitaku narimashita."
-]
+],
+
+["(I'm) full.",                                     "onaka ga ippai desu."]
 
 ])

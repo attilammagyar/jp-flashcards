@@ -1530,5 +1530,9 @@ Flashcards.initialize([
     [
         "Since (I) saw photos of Japan, (I) got wanting to go.",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u306e\u3057\u3083\u3057\u3093\u3092\u307f\u307e\u3057\u305f\u306e\u3067\u3001\u3044\u304d\u305f\u304f\u306a\u308a\u307e\u3057\u305f\u3002"
+    ],
+    [
+        "(I'm) full.",
+        "\u304a\u306a\u304b\u304c\u3044\u3063\u3071\u3044\u3067\u3059\u3002"
     ]
 ])
