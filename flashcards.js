@@ -1,5 +1,7 @@
 (function() {
 
+    // Sorry for the ugly code, most of it was just hacked together in a weekend.
+
     var Flashcards, $;
 
     $ = function (id)

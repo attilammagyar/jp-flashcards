@@ -3,6 +3,8 @@ Flashcards
 
 My quick and dirty flashcards app for learning Japanese.
 
+(Sorry for the ugly code, most of it was just hacked together in a weekend.)
+
 Usage
 -----
 
