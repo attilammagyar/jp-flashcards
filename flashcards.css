@@ -94,9 +94,9 @@ form#rate {
     display: block;
     position: absolute;
     z-index: 100;
-    bottom: 2%;
+    bottom: 7%;
     left: 25%;
-    width: 50%;
+    width: 55%;
     text-align: center;
     background-color: #fff8d0;
     border: solid 0.3em #f0e8b0;
@@ -120,7 +120,7 @@ form#rate a {
     font-weight: bold;
 }
 
-form#rate input {
+form#rate input#cont-input {
     font-size: 1.4em;
     line-height: 1.4em;
     height: 1.7em;
@@ -159,4 +159,27 @@ button#rate-remove-from-focus {
     background-color: #007800;
     color: #ffffff;
     border-color: #007000;
+}
+
+form#rate label {
+    font-size: 1.4em;
+}
+
+input#extend-focus-amount {
+    width: 12%;
+    font-size: 1.4em;
+    line-height: 1.4em;
+    height: 1.7em;
+    border: inset 0.07em #808080;
+    border-radius: 0.3em;
+}
+
+form#rate button#extend-focus {
+    font-size: 1.4em;
+    font-weight: bold;
+    padding: 0.3em 0.5em;
+    border-style: outset;
+    border-width: 0.1em;
+    border-radius: 0.3em;
+    margin: 0.2em;
 }

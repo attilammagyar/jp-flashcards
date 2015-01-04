@@ -151,6 +151,7 @@
             $("rate-add-to-focus").onclick = Flashcards.rateAddToFocus;
             $("rate-skip").onclick = Flashcards.rateSkip;
             $("rate-remove-from-focus").onclick = Flashcards.rateRemoveFromFocus;
+            $("extend-focus").onclick = Flashcards.extendFocus;
             $("cont-input").onclick = function () { $("cont-input").select(); };
             $("rate").onsubmit = function () { return false; };
 
@@ -442,6 +443,23 @@
                 }
             );
             Flashcards.moveToNextState();
+        },
+
+        extendFocus: function()
+        {
+            var c = Flashcards.cards.length,
+                amount = Number($("extend-focus-amount").value),
+                range, i, l;
+
+            range = Flashcards.range(c - Math.min(c, amount), c - 1);
+
+            for (i = 0, l = range.length; i < l; ++i) {
+                if (Flashcards.focus.indexOf(range[i]) === -1) {
+                    Flashcards.focus.push(range[i]);
+                }
+            }
+
+            Flashcards.updateInfo();
         },
     };
 
