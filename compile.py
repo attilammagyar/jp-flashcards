@@ -8,9 +8,9 @@ from tokana import to_kana
 
 
 def compile_card(card):
-    english, japanese = card
+    english, japanese, notes = card
 
-    return (english, to_kana(japanese))
+    return (english, to_kana(japanese), notes)
 
 
 def main(argv):

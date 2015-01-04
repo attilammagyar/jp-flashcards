@@ -65,15 +65,15 @@ simply edit `cards.js` directly.
 The cards must be specified in the following format:
 
     Flashcards.initialize([
-        ["english text #1",     "japanese translation #1"],
-        ["english text #2",     "japanese translation #2"],
-        ["meaning",             "{kanji|readings}"],
+        ["english text #1",     "Japanese translation #1",      "notes #1"],
+        ["english text #2",     "Japanese translation #2",      "notes #2"],
+        ["meaning",             "{kanji|readings}",             "notes #3"],
         ...
-        ["english text #..." ,  "japanese translation #..."]
+        ["english text #..." ,  "Japanese translation #...",    "notes #..."]
     ])
 
 To create kanji with furigana, use the following format anywhere inside the
-japanese translation, maybe multiple times:
+Japanese translation, maybe multiple times:
 
     {kanji characters|furigana}
 
@@ -82,11 +82,13 @@ Example `cards.js`:
     Flashcards.initialize([
      [
       "I'm going to the supermarket with my son.",
-      "むすことスーパーにいきます。"
+      "むすことスーパーにいきます。",
+      ""
      ],
      [
       "If you study every day, your Japanese will get skilled.",
-      "{毎日|まいにち}べんきょうすると{日本語|にほんご}がじょうずになります。"
+      "{毎日|まいにち}べんきょうすると{日本語|にほんご}がじょうずになります。",
+      "A-dictionary-form とB = if A then B"
      ]
     ])
 
@@ -116,11 +118,11 @@ The following conversions are applied to the Japanese parts of the cards:
 The cards must be specified in the following format in `cards.roomaji.js`:
 
     Flashcards.initialize([
-        ["english text #1",     "japanese translation in roomaji #1"],
-        ["english text #2",     "japanese translation in roomaji #2"],
-        ["meaning",             "{kanji|readings in roomaji}"],
-        ...
-        ["english text #..." ,  "japanese translation in roomaji #..."]
+      ["english text #1",    "Japanese in roomaji #1",      "notes #1"],
+      ["english text #2",    "Japanese in roomaji #2",      "notes #2"],
+      ["meaning",            "{kanji|readings in roomaji}", "notes #3"],
+      ...
+      ["english text #..." , "Japanese in roomaji #...",    "notes #..."]
     ])
 
 Example `cards.roomaji.js`:
@@ -128,10 +130,12 @@ Example `cards.roomaji.js`:
     Flashcards.initialize([
      [
       "I'm going to the supermarket with my son.",
-      "musuko to _suupaa_ ni ikimasu."
+      "musuko to _suupaa_ ni ikimasu.",
+      ""
      ],
      [
       "If you study every day, your Japanese will get skilled.",
-      "{毎日|mai nichi} benkyou suru to {日本語|nihongo} ga jouzu ni narimasu."
+      "{毎日|mai nichi} benkyou suru to {日本語|nihongo} ga jouzuni narimasu.",
+      "A-dictionary-form とB = if A then B"
      ]
     ])

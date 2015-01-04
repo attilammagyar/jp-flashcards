@@ -15,6 +15,17 @@
         color: #405070;
         font-size: 90%;
     }
+
+    dt {
+        margin-top: 0.2em;
+        margin-bottom: 0.2em;
+    }
+
+    p {
+        padding: 0;
+        margin-top: 0.1em;
+        margin-bottom: 0.1em;
+    }
     </style>
 </head>
 <body>
@@ -29,7 +40,11 @@
             i, l;
 
         for (i = 0, l = c.length; i < l; ++i) {
-            html += "<li><dt>" + c[i][0] + "</dt><dd>" + c[i][1] + "</dd></li>";
+            html += (
+                "<li><dt>" + c[i][0] + "</dt>"
+                + "<dd><p>" + c[i][1] + "</p>"
+                + "<p><small>" + c[i][2] + "</small></p></dd></li>"
+            );
         }
 
         document.getElementById("cards").innerHTML = "<ol>" + html + "</ol>";

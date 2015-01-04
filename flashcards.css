@@ -34,6 +34,14 @@ div#card p {
     transition: opacity 0.3s;
 }
 
+div#card p#notes {
+    font-size: 1.7em;
+    color: #204050;
+    background-color: #e0f0ff;
+    margin: 0.2em;
+    padding: 0;
+}
+
 div#card p.hidden {
     transition: opacity 0s;
     opacity: 0.0;

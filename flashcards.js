@@ -83,9 +83,10 @@
             {
                 var i = Flashcards.current_card_index,
                     question = Flashcards.cards[i][1],
-                    answer = Flashcards.cards[i][0];
+                    answer = Flashcards.cards[i][0],
+                    notes = Flashcards.cards[i][2];
 
-                Flashcards.showQuestion(question, answer);
+                Flashcards.showQuestion(question, answer, notes);
 
                 Flashcards.nextState(
                     Flashcards.hasFurigana()
@@ -110,9 +111,10 @@
             {
                 var i = Flashcards.current_card_index,
                     question = Flashcards.cards[i][0],
-                    answer = Flashcards.cards[i][1];
+                    answer = Flashcards.cards[i][1],
+                    notes = Flashcards.cards[i][2];
 
-                Flashcards.showQuestion(question, answer);
+                Flashcards.showQuestion(question, answer, notes);
                 Flashcards.nextState(Flashcards.states.japaneseAnswer);
             },
 
@@ -166,7 +168,7 @@
         formatFurigana: function (cards)
         {
             var formatted = [],
-                i, l, en, jp;
+                i, l, en, jp, notes;
 
             for (i = 0, l = cards.length; i < l; ++i) {
                 en = cards[i][0];
@@ -174,7 +176,8 @@
                     /\{([^|}]*)\|([^}]*)\}/g,
                     "<ruby>$1<rt>$2</rt></ruby>"
                 );
-                formatted.push([en, jp]);
+                notes = cards[i][2];
+                formatted.push([en, jp, notes]);
             }
 
             return formatted;
@@ -349,11 +352,12 @@
             return decoded;
         },
 
-        showQuestion: function (question, answer)
+        showQuestion: function (question, answer, notes)
         {
             $("index").innerHTML = String(Flashcards.current_card_index + 1) + ".";
             $("question").innerHTML = question;
             $("answer").innerHTML = answer;
+            $("notes").innerHTML = notes;
         },
 
         showFurigana: function ()
@@ -379,11 +383,13 @@
         showAnswer: function ()
         {
             $("answer").className = "";
+            $("notes").className = "";
         },
 
         hideAnswer: function ()
         {
             $("answer").className = "hidden";
+            $("notes").className = "hidden";
         },
 
         showRateForm: function ()
