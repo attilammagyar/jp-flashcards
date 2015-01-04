@@ -13,7 +13,7 @@
         state: function () {},
         current_card_index: 0,
         all: 0,
-        wrong: 0,
+        bad: 0,
         digits: "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@/",
 
         random: function (min, max)
@@ -187,7 +187,7 @@
 
             if (matches = focus_str.match(/!([^,]+),([^,]+),([^,]*)$/)) {
                 Flashcards.all = Flashcards.decodeInteger(matches[1]);
-                Flashcards.wrong = Flashcards.decodeInteger(matches[2]);
+                Flashcards.bad = Flashcards.decodeInteger(matches[2]);
                 focus = Flashcards.decodeArrayOfIntegers(matches[3]);
             } else if (matches = focus_str.match(/^([0-9]+)$/)) {
                 min = count - Math.min(count, Number(matches[1]));
@@ -384,8 +384,10 @@
         showRateForm: function ()
         {
             if (Flashcards.focus.indexOf(Flashcards.current_card_index) > -1) {
+                $("rate-skip").innerHTML = "Better!";
                 $("rate-remove-from-focus").className = "";
             } else {
+                $("rate-skip").innerHTML = "Good!";
                 $("rate-remove-from-focus").className = "hidden";
             }
 
@@ -399,19 +401,19 @@
 
         updateInfo: function ()
         {
-            var correct = Flashcards.all - Flashcards.wrong,
-                rate = (Flashcards.all > 0) ? Math.round((correct * 100) / Flashcards.all) : 0,
+            var good = Flashcards.all - Flashcards.bad,
+                rate = (Flashcards.all > 0) ? Math.round((good * 100) / Flashcards.all) : 0,
                 hash, link;
 
             hash = (
                 "#!" + Flashcards.encodeInteger(Flashcards.all)
-                + "," + Flashcards.encodeInteger(Flashcards.wrong)
+                + "," + Flashcards.encodeInteger(Flashcards.bad)
                 + "," + Flashcards.encodeSortableArrayOfIntegers(Flashcards.focus)
             );
             link = window.location.href.replace(/^([^#]*)(#.*)?$/, "$1") + hash;
 
-            $("stats-correct").innerHTML = correct;
-            $("stats-wrong").innerHTML = Flashcards.wrong;
+            $("stats-good").innerHTML = good;
+            $("stats-bad").innerHTML = Flashcards.bad;
             $("stats-rate").innerHTML = String(rate) + "%";
             $("stats-due").innerHTML = Flashcards.focus.length;
             $("cont-input").value = hash;
@@ -420,7 +422,7 @@
 
         rateAddToFocus: function ()
         {
-            Flashcards.wrong++;
+            Flashcards.bad++;
 
             if (Flashcards.focus.indexOf(Flashcards.current_card_index) == -1) {
                 Flashcards.focus.push(Flashcards.current_card_index);

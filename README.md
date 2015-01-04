@@ -23,9 +23,11 @@ Usage
 
 Click anywhere to reveal the correct answer, the furigana, to rate your answer
 to the current card, or to jump to the next card. If you rate your answer
-*Wrong!* then the card will be added to the focus group of cards. To remove a
-card from the focus group, rate your answer *Easy!*. The more cards in the
-focus group, the better the chance to get one from them.
+*Bad!* then the card will be added to the focus group of cards. To remove a
+card from the focus group, rate your answer *Good!*. If the answer to a focused
+card is rated *Better!*, then it is counted as a good answer, but the card is
+kept in the focus group. The more cards in the focus group, the better the
+chance to get one from them.
 
 You may use the app with my cards online from GitHub using the above links, or
 download it to your phone, tablet, or any device that can run a modern browser,
