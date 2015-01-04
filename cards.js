@@ -1293,7 +1293,7 @@ Flashcards.initialize([
     ],
     [
         "He is a serious and quiet person.",
-        "{\u5f7c|\u304b\u308c}\u306f\u307e\u3058\u3081\u3067\u304a\u3068\u306a\u3057\u3044\u3072\u3069\u3067\u3059\u3002"
+        "{\u5f7c|\u304b\u308c}\u306f\u307e\u3058\u3081\u3067\u304a\u3068\u306a\u3057\u3044{\u4eba|\u3072\u3068}\u3067\u3059\u3002"
     ],
     [
         "Tokyo is lively and big (spacious).",
@@ -1361,7 +1361,7 @@ Flashcards.initialize([
     ],
     [
         "It's not cold. It's a hangover!",
-        "\u304b\u305c\u3067\u308f\u3042\u308a\u307e\u305b\u3093\u3002{\u4e8c\u65e5|\u3075\u3064\u304b}\u3088\u3044\u3067\u3059\u3088\u3002"
+        "\u304b\u305c\u3067\u308f\u3042\u308a\u307e\u305b\u3093\u3002{\u4e8c\u65e5\u3088\u3044|\u3075\u3064\u304b\u3088\u3044}\u3067\u3059\u3088\u3002"
     ],
     [
         "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",

@@ -583,7 +583,7 @@ Flashcards.initialize([
 ],
 ["(She) has long, black hair.",                     "kami ga nagakute, kuroi desu."],
 
-["He is a serious and quiet person.",               "{彼|kare} wa majime de otonashii hido desu."],
+["He is a serious and quiet person.",               "{彼|kare} wa majime de otonashii {人|hito} desu."],
 ["Tokyo is lively and big (spacious).",             "{東京|toukyou} wa nigiyaka de hiroi desu."],
 ["He is serious but kind.",                         "{彼|kare} wa majime desu ga yasashii desu."],
 [
@@ -609,7 +609,7 @@ Flashcards.initialize([
 
 ["(I) have a headache. (My) stomach also hurts.",   "atama ga itai desu. onaka mo itai desu."],
 ["Does (your) throat hurt? Hurts a little bit.",    "nodo ga itai desu ka. chotto itai desu."],
-["It's not cold. It's a hangover!",                 "kaze dewa arimasen. {二日|futsuka} yoi desu yo."],
+["It's not cold. It's a hangover!",                 "kaze dewa arimasen. {二日yoi|futsukayoi} desu yo."],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
     "se ga futsuu de, kami ga nagakute chairo desu. me mo chairo desu. kao ga marukute, hana ga {大きい|ookii} desu."
