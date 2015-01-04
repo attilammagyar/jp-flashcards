@@ -332,7 +332,7 @@ Flashcards.initialize([
 ["This camera is 9999 yen.",                        "kono _kamera_ wa {九千九百九十九円|kyuusen kyuuhyaku kyuujuu kyuu en} desu."],
 [
     "Why were (you) late today? Because (I) overslept.",
-    "doushite {今日|kyou} osoku narimashita ka. asanebou shita kara."
+    "doushite {今日|kyou} osoku narimashita ka. asanebou shimashita kara."
 ],
 
 [
