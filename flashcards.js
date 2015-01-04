@@ -9,7 +9,9 @@
 
     Flashcards = {
         cards: [],
+        shuffled_card_indices: [],
         focus: [],
+        shuffled_focus: [],
         state: function () {},
         current_card_index: 0,
         all: 0,
@@ -24,15 +26,21 @@
         generateNextCardIndex: function ()
         {
             var fc = Flashcards,
-                current_card, next_card, i;
+                current_card, next_card;
 
             next_card = current_card = fc.current_card_index;
 
-            for (i = 0; (i < 10) && (next_card === current_card); ++i) {
-                if (fc.shouldChooseFromAll()) {
-                    next_card = fc.random(0, fc.cards.length);
-                } else {
-                    next_card = fc.focus[fc.random(0, fc.focus.length)];
+            if (fc.shouldChooseFromAll()) {
+                next_card = fc.shuffled_card_indices.shift();
+
+                if (fc.shuffled_card_indices.length == 0) {
+                    Flashcards.shuffleCards();
+                }
+            } else {
+                next_card = fc.shuffled_focus.shift();
+
+                if (fc.shuffled_focus.length == 0) {
+                    Flashcards.shuffleFocus();
                 }
             }
 
@@ -148,10 +156,12 @@
                 matches;
 
             Flashcards.cards = Flashcards.formatFurigana(cards);
+            Flashcards.shuffleCards();
             Flashcards.nextState(Flashcards.states.firstQuestion);
 
             if (focus) {
                 Flashcards.parseFocus(focus[1]);
+                Flashcards.shuffleFocus();
             }
 
             $("card").onclick = Flashcards.moveToNextState;
@@ -163,6 +173,38 @@
             $("rate").onsubmit = function () { return false; };
 
             Flashcards.moveToNextState();
+        },
+
+        shuffleCards: function ()
+        {
+            Flashcards.shuffled_card_indices = Flashcards.shuffleArray(
+                Flashcards.closedRange(0, Flashcards.cards.length - 1)
+            );
+        },
+
+        shuffleFocus: function ()
+        {
+            Flashcards.shuffled_focus = Flashcards.shuffleArray(Flashcards.focus);
+        },
+
+        shuffleArray: function (original_array)
+        {
+            var shuffled = [],
+                i, j, l;
+
+            // Fisher–Yates shuffle, inside-out
+
+            for (i = 0, l = original_array.length; i < l; ++i) {
+                j = Flashcards.random(0, i + 1);
+
+                if (i !== j) {
+                    shuffled[i] = shuffled[j];
+                }
+
+                shuffled[j] = original_array[i];
+            }
+
+            return shuffled;
         },
 
         formatFurigana: function (cards)
@@ -199,11 +241,11 @@
                 focus = Flashcards.decodeArrayOfIntegers(matches[3]);
             } else if (matches = focus_str.match(/^([0-9]+)$/)) {
                 min = count - Math.min(count, Number(matches[1]));
-                focus = Flashcards.range(min, count - 1);
+                focus = Flashcards.closedRange(min, count - 1);
             } else if (matches = focus_str.match(/^([0-9]+)-([0-9]+)$/)) {
                 min = Math.max(1, Number(matches[1]));
                 max = Math.min(count, Number(matches[2]));
-                focus = Flashcards.range(min - 1, max - 1);
+                focus = Flashcards.closedRange(min - 1, max - 1);
             } else if (matches = focus_str.match(/^([0-9]+(,[0-9]+)+)$/)) {
                 focus_indices = matches[1].split(",");
 
@@ -219,7 +261,7 @@
             Flashcards.focus = focus;
         },
 
-        range: function (min, max)
+        closedRange: function (min, max)
         {
             var r = [],
                 i;
@@ -437,6 +479,7 @@
 
             if (Flashcards.focus.indexOf(Flashcards.current_card_index) == -1) {
                 Flashcards.focus.push(Flashcards.current_card_index);
+                Flashcards.shuffleFocus();
             }
 
             Flashcards.moveToNextState();
@@ -455,6 +498,7 @@
                     return i !== Flashcards.current_card_index;
                 }
             );
+            Flashcards.shuffleFocus();
             Flashcards.moveToNextState();
         },
 
@@ -464,7 +508,7 @@
                 amount = Number($("extend-focus-amount").value),
                 range, i, l;
 
-            range = Flashcards.range(c - Math.min(c, amount), c - 1);
+            range = Flashcards.closedRange(c - Math.min(c, amount), c - 1);
 
             for (i = 0, l = range.length; i < l; ++i) {
                 if (Flashcards.focus.indexOf(range[i]) === -1) {
@@ -472,6 +516,7 @@
                 }
             }
 
+            Flashcards.shuffleFocus();
             Flashcards.updateInfo();
         },
     };
