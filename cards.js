@@ -1918,5 +1918,70 @@ Flashcards.initialize([
         "(I'm) full.",
         "\u304a\u306a\u304b\u304c\u3044\u3063\u3071\u3044\u3067\u3059\u3002",
         ""
+    ],
+    [
+        "(It will) probably be cloudy, later rain.",
+        "\u304f\u3082\u308a\u306e\u3061{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
+        ""
+    ],
+    [
+        "(It will) probably be cloudy, sometimes rain.",
+        "\u304f\u3082\u308a{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
+        ""
+    ],
+    [
+        "(It will) probably rain all day.",
+        "{\u4e00\u65e5|\u3044\u3061\u306b\u3061}{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
+        ""
+    ],
+    [
+        "spring, summer, autumn, winter",
+        "\u306f\u308b\u3001\u306a\u3064\u3001\u3042\u304d\u3001\u3075\u3086",
+        ""
+    ],
+    [
+        "(It will) probably rain, later (it will be) fine.",
+        "{\u96e8|\u3042\u3081}\u306e\u3061\u306f\u308c\u3067\u3057\u3087\u3046\u3002",
+        ""
+    ],
+    [
+        "(It will) probably be cloudy, sometimes snow.",
+        "\u304f\u3082\u308a{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u96ea|\u3086\u304d}\u3067\u3057\u3087\u3046\u3002",
+        ""
+    ],
+    [
+        "(It will) probably be clear all day.",
+        "{\u4e00\u65e5|\u3044\u3061\u306b\u3061}\u306f\u308c\u3067\u3057\u3087\u3046\u3002",
+        ""
+    ],
+    [
+        "(It will) probably be cloudy, sometimes foggy.",
+        "\u304f\u3082\u308a{\u6642\u3005|\u3068\u304d\u3069\u304d}\u304d\u308a\u3067\u3057\u3087\u3046\u3002",
+        ""
+    ],
+    [
+        "hot, cold, warm, cool/refreshing",
+        "\u3042\u3064\u3044\u3001\u3055\u3080\u3044\u3001\u3042\u305f\u305f\u304b\u3044\u3001\u3059\u305a\u3057\u3044",
+        ""
+    ],
+    [
+        "Soon it will be spring. It will gradually get warm.",
+        "\u3082\u3046\u3059\u3050\u306f\u308b\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u305f\u305f\u304f\u306a\u308a\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Soon it will be summer. It will gradually get hot.",
+        "\u3082\u3046\u3059\u3050\u306a\u3064\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Soon it will be winter. It will gradually get cold.",
+        "\u3082\u3046\u3059\u3050\u3075\u3086\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Soon it will be autumn. It will gradually get cool.",
+        "\u3082\u3046\u3059\u3050\u3042\u304d\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3059\u305a\u3057\u304f\u306a\u308a\u307e\u3059\u3002",
+        ""
     ]
 ])

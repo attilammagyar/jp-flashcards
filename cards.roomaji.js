@@ -720,7 +720,7 @@ Flashcards.initialize([
 ["Mr. Yamada went to Osaka by bullet train.",       "{山田|yamada} san wa shinkansen de ousaka ni ikimashita.", ""],
 [
     "Soon it will be Summer. It will gradually get hotter.",
-    "mousugu natsu ni narimasu. dandan atsuku narimasu.",
+    "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
     ""
 ],
 [
@@ -760,6 +760,42 @@ Flashcards.initialize([
     ""
 ],
 
-["(I'm) full.",                                     "onaka ga ippai desu.", ""]
+["(I'm) full.",                                     "onaka ga ippai desu.", ""],
+["(It will) probably be cloudy, later rain.",       "kumori nochi {雨|ame} deshou.", ""],
+["(It will) probably be cloudy, sometimes rain.",   "kumori {時々|tokidoki} {雨|ame} deshou.", ""],
+["(It will) probably rain all day.",                "{一日|ichinichi} {雨|ame} deshou.", ""],
+["spring, summer, autumn, winter",                  "haru, natsu, aki, fuyu", ""],
+
+[
+    "(It will) probably rain, later (it will be) fine.",
+    "{雨|ame} nochi hare deshou.",
+    ""
+],
+["(It will) probably be cloudy, sometimes snow.",   "kumori {時々|tokidoki} {雪|yuki} deshou.", ""],
+["(It will) probably be clear all day.",            "{一日|ichinichi} hare deshou.", ""],
+["(It will) probably be cloudy, sometimes foggy.",  "kumori {時々|tokidoki} kiri deshou.", ""],
+["hot, cold, warm, cool/refreshing",                "atsui, samui, atatakai, suzushii", ""],
+
+[
+    "Soon it will be spring. It will gradually get warm.",
+    "mou sugu haru ni narimasu. dandan atataku narimasu.",
+    ""
+],
+[
+    "Soon it will be summer. It will gradually get hot.",
+    "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
+    ""
+],
+[
+    "Soon it will be winter. It will gradually get cold.",
+    "mou sugu fuyu ni narimasu. dandan samuku narimasu.",
+    ""
+],
+[
+    "Soon it will be autumn. It will gradually get cool.",
+    "mou sugu aki ni narimasu. dandan suzushiku narimasu.",
+    ""
+]
+
 
 ])
