@@ -41,6 +41,13 @@ hash codes that are displayed after each card.
 **Note**: even when some cards are selected to be focused on, a random card
 from the whole deck will be shown from time to time.
 
+Browser compatibility
+---------------------
+
+The app seems to work with Opera 26+ (not OperaMobile or Mini) or Chrome 26+ on
+Android or Chrome/Chromium 39+ on desktop. Also usable in Firefox (34.0 on
+Android or desktop), however, the furigana is displayed ugly.
+
 Editing cards
 -------------
 
