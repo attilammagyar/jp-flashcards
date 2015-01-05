@@ -8,8 +8,8 @@
 
 html, body {
     background-color: #ffffff;
-    height: 100%;
-    width: 100%;
+    height: 100vh;
+    width: 100vw;
 }
 
 body {
@@ -19,26 +19,27 @@ body {
 div#card {
     position: absolute;
     z-index: 50;
-    top: 5%;
-    width: 94%;
-    margin-left: 3%;
-    margin-right: 3%;
-    height: 95%;
+    top: 5vh;
+    width: 94vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    height: 90vw;
 }
 
 div#card p {
-    padding-top: 0.3em;
-    font-size: 250%;
+    padding-top: 3vh;
+    font-size: 7.7vmin;
+    line-height: 9vmin;
     text-align: center;
     opacity: 1.0;
     transition: opacity 0.3s;
 }
 
 div#card p#notes {
-    font-size: 1.7em;
+    font-size: 5vmin;
     color: #102030;
     background-color: #e8fff4;
-    margin: 0.2em;
+    margin: 2vmin;
     padding: 0;
 }
 
@@ -49,12 +50,12 @@ div#card p.hidden {
 
 div#card p span#index {
     color: #707070;
-    font-size: 0.75em;
+    font-size: 5vmin;
 }
 
 ruby {
-    border: solid 0.075em;
-    border-radius: 0.2em;
+    border: solid 0.7vmin;
+    border-radius: 2vmin;
     transition: background-color 0.3s, border-color 0.3s;
     background-color: transparent;
     border-color: transparent;
@@ -70,7 +71,7 @@ ruby rt {
     opacity: 0.0;
     transition: opacity 0.3s;
     color: #405070;
-    font-size: 70%;
+    font-size: 5vmin;
 }
 
 ruby.visible rt {
@@ -81,9 +82,9 @@ ruby.visible rt {
 div#stats {
     position: absolute;
     z-index: 1;
-    top: 0.1em;
-    right: 0.1em;
-    font-size: 1.4em;
+    top: 1vh;
+    right: 1vw;
+    font-size: 5vmin;
 }
 
 div#stats, div#stats span {
@@ -102,14 +103,14 @@ form#rate {
     display: block;
     position: absolute;
     z-index: 100;
-    bottom: 7%;
-    left: 25%;
-    width: 55%;
+    bottom: 25vh;
+    left: 10vw;
+    width: 80vw;
     text-align: center;
     background-color: #fff8d0;
-    border: solid 0.3em #f0e8b0;
-    padding: 0.7em;
-    border-radius: 1em;
+    border: solid 1vmin #f0e8b0;
+    padding: 0.7vmin;
+    border-radius: 3vmin;
     opacity: 1.0;
     transition: opacity 0.15s;
 }
@@ -124,17 +125,17 @@ form#rate.hidden {
 }
 
 form#rate a {
-    font-size: 1.4em;
+    font-size: 5vmin;
     font-weight: bold;
 }
 
 form#rate input#cont-input {
-    font-size: 1.4em;
-    line-height: 1.4em;
-    height: 1.7em;
-    width: 50%;
-    border: inset 0.07em #808080;
-    border-radius: 0.3em;
+    font-size: 5vmin;
+    line-height: 7vmin;
+    height: 7vmin;
+    width: 25vw;
+    border: inset 0.3vmin #808080;
+    border-radius: 2vmin;
 }
 
 form#rate button.hidden {
@@ -142,19 +143,19 @@ form#rate button.hidden {
 }
 
 form#rate button {
-    font-size: 1.8em;
+    font-size: 5vmin;
     font-weight: bold;
-    padding: 0.2em 0.5em;
+    padding: 1vmin;
     border-style: outset;
-    border-width: 0.10em;
-    border-radius: 0.3em;
-    margin: 0.2em;
+    border-width: 0.7vmin;
+    border-radius: 3vmin;
+    margin: 0.5vmin;
 }
 
 button#rate-add-to-focus,
 button#rate-skip,
 button#rate-remove-from-focus {
-    width: 28%;
+    width: 21vw;
 }
 
 
@@ -177,24 +178,24 @@ button#rate-remove-from-focus {
 }
 
 form#rate label {
-    font-size: 1.4em;
+    font-size: 3.5vmin;
 }
 
 input#extend-focus-amount {
-    width: 12%;
-    font-size: 1.4em;
-    line-height: 1.4em;
-    height: 1.7em;
-    border: inset 0.07em #808080;
-    border-radius: 0.3em;
+    width: 10vw;
+    font-size: 5vmin;
+    line-height: 7vmin;
+    height: 7vmin;
+    border: inset 0.3vmin #808080;
+    border-radius: 2vmin;
 }
 
 form#rate button#extend-focus {
-    font-size: 1.4em;
+    font-size: 5vmin;
     font-weight: bold;
-    padding: 0.3em 0.5em;
+    padding: 0.7vmin;
     border-style: outset;
-    border-width: 0.1em;
-    border-radius: 0.3em;
-    margin: 0.2em;
+    border-width: 0.7vmin;
+    border-radius: 2vmin;
+    margin: 0.7vmin;
 }
