@@ -1851,7 +1851,7 @@ Flashcards.initialize([
     ],
     [
         "(I can) hear thunder.",
-        "\u304b\u307f\u306a\u308a\u304c\u304d\u3053\u3048\u307e\u3059\u3002",
+        "{\u96f7|\u304b\u307f\u306a\u308a}\u304c\u304d\u3053\u3048\u307e\u3059\u3002",
         ""
     ],
     [

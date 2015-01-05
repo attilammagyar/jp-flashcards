@@ -736,7 +736,7 @@ Flashcards.initialize([
     ""
 ],
 ["On rainy days, (I) watch movies.",                "{雨|ame} no {日|hi} wa eiga wo mimasu.", ""],
-["(I can) hear thunder.",                           "kaminari ga kikoemasu.", ""],
+["(I can) hear thunder.",                           "{雷|kaminari} ga kikoemasu.", ""],
 ["Miki writes kanji skillfully.",                   "{三木|miki} san wa jouzu ni kanji wo kakimasu.", ""],
 ["Robert speaks Japanese well.",                    "_robaato_ san wa yoku {日本語|nihongo} wo hanashimasu.", ""],
 
