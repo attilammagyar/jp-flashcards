@@ -330,9 +330,9 @@ Flashcards.initialize([
 ["May (I) have 2 bottles of rice wine please?",     "{酒|sake} wo {二本|nihon} kudasai.", ""],
 
 ["May (I) have 6 bottles of beer please?",          "_biiru_ wo {六本|roppon} kudasai.", ""],
-["May (I) have 3 apples please?",                   "ringo wo sanko kudasai.", ""],
-["May (I) have 5 stamps please?",                   "kitte wo gomai kudasai.", ""],
-["May (I) have 3 notebooks please?",                "_nooto_ wo sansatsu kudasai.", ""],
+["May (I) have 3 apples please?",                   "ringo wo {三|san}ko kudasai.", ""],
+["May (I) have 5 stamps please?",                   "kitte wo {五|go}mai kudasai.", ""],
+["May (I) have 3 notebooks please?",                "_nooto_ wo {三|san}satsu kudasai.", ""],
 ["(There) is a tree.",                              "{木|ki} ga arimasu.", ""],
 
 [
