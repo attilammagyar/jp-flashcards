@@ -25,7 +25,7 @@ Flashcards.initialize([
 ["Where are we?",                                   "koko wa doko desu ka.", ""],
 ["Over there, there's a gas station.",              "asoko ni _gasorinsutando_ ga arimasu.", ""],
 ["I don't eat meat very often.",                    "{私|watashi} wa {肉|niku} wo amari tabemasen.", ""],
-["(I) don't like this picture very much.",          "kono e wa amari suki dewa arimasen.", ""],
+["(I) don't like this picture very much.",          "kono e wa amari suki deha arimasen.", ""],
 ["Grilled chicken, how about it?",                  "yakitori, ikaga desu ka.", ""],
 
 ["One from each please.",                           "{一本|ippon} zutsu onegaishimasu.", ""],
@@ -46,7 +46,7 @@ Flashcards.initialize([
 ["(I) eat lunch at the company.",                   "kaisha de hirugohan wo tabemasu.", ""],
 ["Let's eat dinner at that restaurant over there!", "ano _resutoran_ de bangohan wo tabemashou.", ""],
 
-["Tomorrow (I'm) goingo to France.",                "{明日|ashita} _furansu_ ni ikimasu.", ""],
+["Tomorrow (I'm) going to France.",                 "{明日|ashita} _furansu_ ni ikimasu.", ""],
 ["We always eat dinner together.",                  "watashitachi wa itsumo issho ni bangohan wo tabemasu.", ""],
 ["(I'm) studying Japanese.",                        "{日本語|nihongo} wo benkyou wo shimasu.", ""],
 ["(That's) impossible for me.",                     "{私|watashi} ni wa muri desu.", ""],
@@ -613,7 +613,7 @@ Flashcards.initialize([
 ["I hope to play tennis together next week.",       "raishuu isshoni _tenisu_ wo shitai to omoimasu.", ""],
 ["She is very kind but a bit serious.",             "{彼女|kanojo} wa totemo yasashii desu ga sukoshi majime desu.", ""],
 ["Tokyo is a big and busy place.",                  "{東京|toukyou} wa hirokute nigiyaka na {所|tokoro} desu.", ""],
-["My room is not very clean.",                      "{私|watashi} no heya wa amari kirei dewa arimasen.", ""],
+["My room is not very clean.",                      "{私|watashi} no heya wa amari kirei deha arimasen.", ""],
 ["I think that Ms. Natsuko is not especially shy.", "natsuko san wa son na ni hazukashigari ja nai to omoimasu.", ""],
 
 ["I think that he is a cheerful person.",           "{彼|kare} wa {明るい|akarui} {人|hito} da to omoimasu.", ""],
@@ -676,7 +676,7 @@ Flashcards.initialize([
 
 ["(I) have a headache. (My) stomach also hurts.",   "atama ga itai desu. onaka mo itai desu.", ""],
 ["Does (your) throat hurt? Hurts a little bit.",    "nodo ga itai desu ka. chotto itai desu.", ""],
-["It's not cold. It's a hangover!",                 "kaze dewa arimasen. {二日yoi|futsukayoi} desu yo.", ""],
+["It's not cold. It's a hangover!",                 "kaze deha arimasen. {二日yoi|futsukayoi} desu yo.", ""],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
     "se ga futsuu de, kami ga nagakute chairo desu. me mo chairo desu. kao ga marukute, hana ga {大きい|ookii} desu.",
@@ -684,7 +684,7 @@ Flashcards.initialize([
 ],
 [
     "I'm a little quiet but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
-    "{私|watashi} wa sukoshi otonashii desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga suki desu ga _supootsu_ ga amari suki dewa arimasen.",
+    "{私|watashi} wa sukoshi otonashii desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga suki desu ga _supootsu_ ga amari suki deha arimasen.",
     ""
 ],
 
@@ -711,7 +711,7 @@ Flashcards.initialize([
 ["What time is the departure?",                     "shuppatsu wa {何時|nan ji} desu ka.", ""],
 
 ["(I) will go on rides the whole time.",            "zutto norimono ni norimasu.", ""],
-["(I) don't like rude people.",                     "shitsurei na {人|hito} wa suki dewa arimasen.", ""],
+["(I) don't like rude people.",                     "shitsurei na {人|hito} wa suki deha arimasen.", ""],
 ["Let's watch a movie the four of us!",             "{四人|yonin} de eiga wo mimashou.", ""],
 ["(I) don't know numbers above 1000.",              "{一千|issen} ijou no suuji {分かりません|wakarimasen}.", ""],
 ["By the way, Mr. Yamada is late, isn't he?",       "tokorode, {山田|yamada} san wa osoi desu ne.", ""],
@@ -796,6 +796,5 @@ Flashcards.initialize([
     "mou sugu aki ni narimasu. dandan suzushiku narimasu.",
     ""
 ]
-
 
 ])
