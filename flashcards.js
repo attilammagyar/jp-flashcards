@@ -80,6 +80,7 @@
             {
                 Flashcards.hideAnswer();
                 Flashcards.hideRateForm();
+                Flashcards.updateInfo();
                 Flashcards.current_card_index = Flashcards.generateNextCardIndex();
 
                 if (Math.random() > 0.75) {
@@ -288,7 +289,6 @@
         moveToNextState: function ()
         {
             Flashcards.state();
-            Flashcards.updateInfo();
         },
 
         encodeSortableArrayOfIntegers: function (raw_ints)
@@ -463,21 +463,30 @@
         {
             var good = Flashcards.all - Flashcards.bad,
                 rate = (Flashcards.all > 0) ? Math.round((good * 100) / Flashcards.all) : 0,
-                hash, link;
+                hash, url, title;
 
             hash = (
                 "#!" + Flashcards.encodeInteger(Flashcards.all)
                 + "," + Flashcards.encodeInteger(Flashcards.bad)
                 + "," + Flashcards.encodeSortableArrayOfIntegers(Flashcards.focus)
             );
-            link = window.location.href.replace(/^([^#]*)(#.*)?$/, "$1") + hash;
+            url = window.location.href.replace(/^([^#]*)(#.*)?$/, "$1") + hash;
+            title = (
+                "Flashcards "
+                + String(Flashcards.focus.length) + ", "
+                + String(good) + "|" + String(Flashcards.bad)
+                + " (" + String(rate) + "%)"
+            );
 
             $("stats-good").innerHTML = good;
             $("stats-bad").innerHTML = Flashcards.bad;
             $("stats-rate").innerHTML = String(rate) + "%";
-            $("stats-due").innerHTML = Flashcards.focus.length;
+            $("stats-focus-size").innerHTML = Flashcards.focus.length;
             $("cont-input").value = hash;
-            $("cont-link").href = link;
+            $("cont-link").href = url;
+
+            document.title = title;
+            window.history.replaceState({}, title, url);
         },
 
         rateAddToFocus: function ()
