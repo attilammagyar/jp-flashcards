@@ -168,7 +168,8 @@
             }
 
             $("card").onclick = Flashcards.moveToNextState;
-            $("rate-add-to-focus").onclick = Flashcards.rateAddToFocus;
+            $("rate-bad-add-to-focus").onclick = Flashcards.rateBadAddToFocus;
+            $("rate-good-add-to-focus").onclick = Flashcards.rateGoodAddToFocus;
             $("rate-skip").onclick = Flashcards.rateSkip;
             $("rate-remove-from-focus").onclick = Flashcards.rateRemoveFromFocus;
             $("extend-focus").onclick = Flashcards.extendFocus;
@@ -445,9 +446,11 @@
         {
             if (Flashcards.focus.indexOf(Flashcards.current_card_index) > -1) {
                 $("rate-skip").innerHTML = "Better!";
+                $("rate-good-add-to-focus").className = "hidden";
                 $("rate-remove-from-focus").className = "";
             } else {
                 $("rate-skip").innerHTML = "Good!";
+                $("rate-good-add-to-focus").className = "";
                 $("rate-remove-from-focus").className = "hidden";
             }
 
@@ -489,16 +492,25 @@
             window.history.replaceState({}, title, url);
         },
 
-        rateAddToFocus: function ()
+        rateBadAddToFocus: function ()
         {
             Flashcards.bad++;
+            Flashcards.addCurrentCardToFocus();
+            Flashcards.moveToNextState();
+        },
 
+        rateGoodAddToFocus: function ()
+        {
+            Flashcards.addCurrentCardToFocus();
+            Flashcards.moveToNextState();
+        },
+
+        addCurrentCardToFocus: function ()
+        {
             if (Flashcards.focus.indexOf(Flashcards.current_card_index) == -1) {
                 Flashcards.focus.push(Flashcards.current_card_index);
                 Flashcards.shuffleFocus();
             }
-
-            Flashcards.moveToNextState();
         },
 
         rateSkip: function ()

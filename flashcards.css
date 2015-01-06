@@ -139,7 +139,7 @@ form#rate input#cont-input {
 }
 
 form#rate button.hidden {
-    visibility: hidden;
+    display: none;
 }
 
 form#rate button {
@@ -152,14 +152,20 @@ form#rate button {
     margin: 0.5vmin;
 }
 
-button#rate-add-to-focus,
+button#rate-bad-add-to-focus,
+button#rate-good-add-to-focus,
 button#rate-skip,
 button#rate-remove-from-focus {
     width: 21vw;
 }
 
+button#rate-good-add-to-focus {
+    background-color: #b0b030;
+    color: #ffffff;
+    border-color: #a0a000;
+}
 
-button#rate-add-to-focus {
+button#rate-bad-add-to-focus {
     background-color: #b00000;
     color: #ffffff;
     border-color: #a00000;
