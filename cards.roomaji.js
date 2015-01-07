@@ -31,7 +31,11 @@ Flashcards.initialize([
 ["One from each please.",                           "{一本|ippon} zutsu onegaishimasu.", ""],
 ["What is the food (you) hate the most?",           "ichiban kirai na tabemono wa {何|nan} desu ka.", ""],
 ["Is this cold-medicine the strongest?",            "kono kazegusuri wa ichiban tsuyoi desu ka.", ""],
-["There are a dog and a cat over there.",           "asoko ni {犬|inu} to {猫|neko} ga imasu.", ""],
+[
+    "There are a dog and a cat over there.",
+    "asoko ni {犬|inu} to {猫|neko} ga imasu.",
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+],
 ["Shall (we) eat sushi together?",                  "issho ni sushi wo tabemasen ka.", ""],
 
 ["Sometimes (I) watch television.",                 "{時々|tokidoki} _terebi_ wo mimasu.", ""],
@@ -42,9 +46,17 @@ Flashcards.initialize([
 
 ["What (will we) eat?",                             "{何|nani} wo tabemasu ka.", ""],
 ["(I) speak Japanese with (my) neighbour.",         "kinjo no {人|hito} to {日本語|nihongo} wo hanashimasu.", ""],
-["(I) eat toast with eggs for breakfast.",          "asagohan ni _toosuto_ to tamago wo tabemasu.", ""],
+[
+    "(I) eat toast with eggs for breakfast.",
+    "asagohan ni _toosuto_ to tamago wo tabemasu.",
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+],
 ["(I) eat lunch at the company.",                   "kaisha de hirugohan wo tabemasu.", ""],
-["Let's eat dinner at that restaurant over there!", "ano _resutoran_ de bangohan wo tabemashou.", ""],
+[
+    "Let's eat dinner at that restaurant over there!",
+    "ano _resutoran_ de bangohan wo tabemashou.",
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+],
 
 ["Tomorrow (I'm) going to France.",                 "{明日|ashita} _furansu_ ni ikimasu.", ""],
 ["We always eat dinner together.",                  "watashitachi wa itsumo issho ni bangohan wo tabemasu.", ""],
@@ -57,7 +69,7 @@ Flashcards.initialize([
 [
     "In the mornings (I) always buy a newspaper and a coffee.",
     "asa itsumo shinbun to _koohii_ wo kaimasu.",
-    ""
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
     "Sometimes (I) watch television with (my) siblings.",
@@ -67,7 +79,7 @@ Flashcards.initialize([
 [
     "(I) always make dinner with (my) mom and (my) husband.",
     "itsumo {母|haha} to shujin to bangohan wo tsukurimasu.",
-    ""
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 
 ["(I) will go to the office tomorrow",              "{明日|ashita} jimusho ni ikimasu.", ""],
@@ -100,7 +112,7 @@ Flashcards.initialize([
 [
     "Tomorrow (I) will eat with (my) family at the restaurant.",
     "{明日|ashita} kazoku to _resutoran_ de tabemasu.",
-    ""
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 ["I eat lunch at the company every day.",           "{私|watashi} wa {毎日|mainichi} kaisha de hirugohan wo tabemasu.", ""],
 
@@ -124,7 +136,7 @@ Flashcards.initialize([
 [
     "And then (I) frequently eat dinner with (my) colleagues at a restaurant.",
     "soshite tabitabi jimusho no {人|hito} to _resutoran_ de bangohan wo tabemasu.",
-    ""
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
     "Sometimes (I) play golf with (my) colleagues, but usually (I) chill out with (my) family at home.",
@@ -151,7 +163,7 @@ Flashcards.initialize([
 [
     "For lunch (I) eat egg and toast. And (I) drink coffee.",
     "hirugohan ni tamago to _toosuto_ wo tabemasu. soshite _koohii_ wo nomimasu.",
-    ""
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
     "(I) get up every day at 6 o'clock. Then (I) make breakfast.",
@@ -211,7 +223,7 @@ Flashcards.initialize([
 [
     "On the second floor, there are televisions, computers, etc.",
     "{二|ni} kai ni _terebi_ ya _konpyuutaa_ ga arimasu.",
-    ""
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 ["On the second floor there is nothing.",           "{二|ni} kai ni {何|nani} mo arimasen.", ""],
 ["There is no one at home.",                        "uchi ni dare mo imasen.", ""],
@@ -299,7 +311,11 @@ Flashcards.initialize([
 ["May (I) see those chopsticks?",                   "sono ohashi wo misete kudasai.", ""],
 ["May (I) see that doll over there?",               "ano ningyou wo misete kudasai.", ""],
 ["May (I) have this rice wine please?",             "kore {お酒|osake} wo kudasai.", ""],
-["May (I) have this watch and this bag please?",    "kono tokei to kono kaban wo kudasai.", ""],
+[
+    "May (I) have this watch and this bag please?",
+    "kono tokei to kono kaban wo kudasai.",
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+],
 
 ["I'm not good at waking up early.",                "{私|watashi} wa haya oki ga nigate desu.", ""],
 ["8 pairs of shoes",                                "kutsu hassoku", ""],
@@ -338,7 +354,7 @@ Flashcards.initialize([
 [
     "(There) are some Americans and some Japanese people. (There) aren't (any) English people.",
     "_amerika_ {人|jin} to {日本人|nihonjin} ga imasu. igirisu {人|jin} ga imasen.",
-    ""
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
     "(There) are no English people (but others may be).",
@@ -349,7 +365,7 @@ Flashcards.initialize([
 [
     "(There) are French and English journalists in that office over there.",
     "ano jimusho ni _furansu_ {人|jin} to igirisu {人|jin} no _jaanarisuto_ ga imasu.",
-    ""
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 ["What is on the 2nd floor?",                       "{二|ni} kai ni {何|nani} ga arimasu ka.", ""],
 
@@ -379,7 +395,7 @@ Flashcards.initialize([
 [
     "There are TVs, computers and so on on the second floor.",
     "{二|ni} kai ni _terebi_ ya _konpyuutaa_ nado ga arimasu.",
-    ""
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 
 ["There's both beer and rice-wine.",                "_biiru_ mo {お酒|osake} mo arimasu.", ""],
@@ -399,7 +415,7 @@ Flashcards.initialize([
 [
     "May (I) have 3 of this postcard and 3 of the 75 yen stamps as well please?",
     "kono hagaki wo {三|san} mai to {七十五円|nanajuugo en} no kitte mo {三|san} mai kudasai.",
-    ""
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
     "May (I) have 4 stamps please? Where to? To America.",
@@ -555,8 +571,16 @@ Flashcards.initialize([
 ["(I) ate breakfast.",                              "asagohan wo tabemashita.", ""],
 
 ["(I) didn't drink coffee.",                        "_koohii_ wo nomimasen deshita.", ""],
-["(We) met at 7 o'clock at the restaurant.",        "{七時|shichi ji} ni _resutoran_ de aimashita.", ""],
-["(I) want to eat rice with chopsticks.",           "ohashi de gohan wo tabetai desu.", ""],
+[
+    "(We) met at 7 o'clock at the restaurant.",
+    "{七時|shichi ji} ni _resutoran_ de aimashita.",
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+],
+[
+    "(I) want to eat rice with chopsticks.",
+    "ohashi de gohan wo tabetai desu.",
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+],
 ["(I) want to buy a Japanese camera.",              "{日本|nihon} no _kamera_ wo kaitai desu.", ""],
 [
     "What is (your) hobby? (My) hobby is paper folding.",
@@ -685,7 +709,7 @@ Flashcards.initialize([
 [
     "I'm a little quiet but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
     "{私|watashi} wa sukoshi otonashii desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga suki desu ga _supootsu_ ga amari suki deha arimasen.",
-    ""
+    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 
 ["I don't think (she) is especially shy.",          "son na ni hazukashigari ja nai to omoimasu.", ""],
@@ -717,11 +741,15 @@ Flashcards.initialize([
 ["By the way, Mr. Yamada is late, isn't he?",       "tokorode, {山田|yamada} san wa osoi desu ne.", ""],
 
 ["I often go to the gym.",                          "{私|watashi} wa yoku _jimu_ ni ikimasu.", "い adj. - い + く = adverb"],
-["Mr. Yamada went to Osaka by bullet train.",       "{山田|yamada} san wa shinkansen de ousaka ni ikimashita.", ""],
+[
+    "Mr. Yamada went to Osaka by bullet train.",
+    "{山田|yamada} san wa shinkansen de ousaka ni ikimashita.",
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
+],
 [
     "Soon it will be Summer. It will gradually get hotter.",
     "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
-    "Noun/な adj + に + なる, い adj - い + く + なる"
+    "Noun/な adj + に + なる; い adj - い + く + なる"
 ],
 [
     "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -752,7 +780,7 @@ Flashcards.initialize([
 [
     "If (you) study every day, (your) Japanese will get skilled.",
     "{毎日|mai nichi} benkyou suru to {日本語|nihongo} ga jouzu ni narimasu.",
-    "A-dictionary-form とB = if A then B, Noun/な adj + に + なる"
+    "A-dictionary-form とB = if A then B; Noun/な adj + に + なる"
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -779,22 +807,53 @@ Flashcards.initialize([
 [
     "Soon it will be spring. It will gradually get warm.",
     "mou sugu haru ni narimasu. dandan atataku narimasu.",
-    "Noun/な adj + に + なる, い adj - い + く + なる"
+    "Noun/な adj + に + なる; い adj - い + く + なる"
 ],
 [
     "Soon it will be summer. It will gradually get hot.",
     "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
-    "Noun/な adj + に + なる, い adj - い + く + なる"
+    "Noun/な adj + に + なる; い adj - い + く + なる"
 ],
 [
     "Soon it will be winter. It will gradually get cold.",
     "mou sugu fuyu ni narimasu. dandan samuku narimasu.",
-    "Noun/な adj + に + なる, い adj - い + く + なる"
+    "Noun/な adj + に + なる; い adj - い + く + なる"
 ],
 [
     "Soon it will be autumn. It will gradually get cool.",
     "mou sugu aki ni narimasu. dandan suzushiku narimasu.",
-    "Noun/な adj + に + なる, い adj - い + く + なる"
+    "Noun/な adj + に + なる; い adj - い + く + なる"
+],
+[
+    "How did (you) go (there)? (I) went by train.",
+    "dou yatte ikimashita ka. densha de ikimashita.",
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+],
+
+[
+    "(I) went to the town by bus.",
+    "machi ni _basu_ de ikimashita.",
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
+],
+[
+    "(I) went to my mom's house by car.",
+    "{母|haha} no uchi ni kuruma de ikimashita.",
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
+],
+[
+    "(I) went to New York by train.",
+    "densha de _nyuu yooku_ ni ikimashita.",
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
+],
+[
+    "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
+    "ousaka yuki no kippu wo {ニ|ni} mai kudasai. katamichi desu ka. oufuku desu ka. katamichi desu.",
+    ""
+],
+[
+    "(I) wrote the letter in Japanese.",
+    "{日本語|nihongo} de tegami wo kakimashita.",
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ]
 
 ])

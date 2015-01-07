@@ -117,7 +117,7 @@ Flashcards.initialize([
     [
         "There are a dog and a cat over there.",
         "\u3042\u305d\u3053\u306b{\u72ac|\u3044\u306c}\u3068{\u732b|\u306d\u3053}\u304c\u3044\u307e\u3059\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "Shall (we) eat sushi together?",
@@ -162,7 +162,7 @@ Flashcards.initialize([
     [
         "(I) eat toast with eggs for breakfast.",
         "\u3042\u3055\u3054\u306f\u3093\u306b\u30c8\u30fc\u30b9\u30c8\u3068\u305f\u307e\u3054\u3092\u305f\u3079\u307e\u3059\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "(I) eat lunch at the company.",
@@ -172,7 +172,7 @@ Flashcards.initialize([
     [
         "Let's eat dinner at that restaurant over there!",
         "\u3042\u306e\u30ec\u30b9\u30c8\u30e9\u30f3\u3067\u3070\u3093\u3054\u306f\u3093\u3092\u305f\u3079\u307e\u3057\u3087\u3046\u3002",
-        ""
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
     ],
     [
         "Tomorrow (I'm) going to France.",
@@ -212,7 +212,7 @@ Flashcards.initialize([
     [
         "In the mornings (I) always buy a newspaper and a coffee.",
         "\u3042\u3055\u3044\u3064\u3082\u3057\u3093\u3076\u3093\u3068\u30b3\u30fc\u30d2\u30fc\u3092\u304b\u3044\u307e\u3059\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "Sometimes (I) watch television with (my) siblings.",
@@ -222,7 +222,7 @@ Flashcards.initialize([
     [
         "(I) always make dinner with (my) mom and (my) husband.",
         "\u3044\u3064\u3082{\u6bcd|\u306f\u306f}\u3068\u3057\u3085\u3058\u3093\u3068\u3070\u3093\u3054\u306f\u3093\u3092\u3064\u304f\u308a\u307e\u3059\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "(I) will go to the office tomorrow",
@@ -292,7 +292,7 @@ Flashcards.initialize([
     [
         "Tomorrow (I) will eat with (my) family at the restaurant.",
         "{\u660e\u65e5|\u3042\u3057\u305f}\u304b\u305e\u304f\u3068\u30ec\u30b9\u30c8\u30e9\u30f3\u3067\u305f\u3079\u307e\u3059\u3002",
-        ""
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
     ],
     [
         "I eat lunch at the company every day.",
@@ -342,7 +342,7 @@ Flashcards.initialize([
     [
         "And then (I) frequently eat dinner with (my) colleagues at a restaurant.",
         "\u305d\u3057\u3066\u305f\u3073\u305f\u3073\u3058\u3080\u3057\u3087\u306e{\u4eba|\u3072\u3068}\u3068\u30ec\u30b9\u30c8\u30e9\u30f3\u3067\u3070\u3093\u3054\u306f\u3093\u3092\u305f\u3079\u307e\u3059\u3002",
-        ""
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
     ],
     [
         "Sometimes (I) play golf with (my) colleagues, but usually (I) chill out with (my) family at home.",
@@ -387,7 +387,7 @@ Flashcards.initialize([
     [
         "For lunch (I) eat egg and toast. And (I) drink coffee.",
         "\u3072\u308b\u3054\u306f\u3093\u306b\u305f\u307e\u3054\u3068\u30c8\u30fc\u30b9\u30c8\u3092\u305f\u3079\u307e\u3059\u3002\u305d\u3057\u3066\u30b3\u30fc\u30d2\u30fc\u3092\u306e\u307f\u307e\u3059\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "(I) get up every day at 6 o'clock. Then (I) make breakfast.",
@@ -537,7 +537,7 @@ Flashcards.initialize([
     [
         "On the second floor, there are televisions, computers, etc.",
         "{\u4e8c|\u306b}\u304b\u3044\u306b\u30c6\u30ec\u30d3\u3084\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u304c\u3042\u308a\u307e\u3059\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "On the second floor there is nothing.",
@@ -767,7 +767,7 @@ Flashcards.initialize([
     [
         "May (I) have this watch and this bag please?",
         "\u3053\u306e\u3068\u3051\u3044\u3068\u3053\u306e\u304b\u3070\u3093\u3092\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "I'm not good at waking up early.",
@@ -897,7 +897,7 @@ Flashcards.initialize([
     [
         "(There) are some Americans and some Japanese people. (There) aren't (any) English people.",
         "\u30a2\u30e1\u30ea\u30ab{\u4eba|\u3058\u3093}\u3068{\u65e5\u672c\u4eba|\u306b\u307b\u3093\u3058\u3093}\u304c\u3044\u307e\u3059\u3002\u3044\u304e\u308a\u3059{\u4eba|\u3058\u3093}\u304c\u3044\u307e\u305b\u3093\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "(There) are no English people (but others may be).",
@@ -912,7 +912,7 @@ Flashcards.initialize([
     [
         "(There) are French and English journalists in that office over there.",
         "\u3042\u306e\u3058\u3080\u3057\u3087\u306b\u30d5\u30e9\u30f3\u30b9{\u4eba|\u3058\u3093}\u3068\u3044\u304e\u308a\u3059{\u4eba|\u3058\u3093}\u306e\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u304c\u3044\u307e\u3059\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "What is on the 2nd floor?",
@@ -987,7 +987,7 @@ Flashcards.initialize([
     [
         "There are TVs, computers and so on on the second floor.",
         "{\u4e8c|\u306b}\u304b\u3044\u306b\u30c6\u30ec\u30d3\u3084\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u306a\u3069\u304c\u3042\u308a\u307e\u3059\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "There's both beer and rice-wine.",
@@ -1017,7 +1017,7 @@ Flashcards.initialize([
     [
         "May (I) have 3 of this postcard and 3 of the 75 yen stamps as well please?",
         "\u3053\u306e\u306f\u304c\u304d\u3092{\u4e09|\u3055\u3093}\u307e\u3044\u3068{\u4e03\u5341\u4e94\u5186|\u306a\u306a\u3058\u3085\u3046\u3054\u3048\u3093}\u306e\u304d\u3063\u3066\u3082{\u4e09|\u3055\u3093}\u307e\u3044\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "May (I) have 4 stamps please? Where to? To America.",
@@ -1347,12 +1347,12 @@ Flashcards.initialize([
     [
         "(We) met at 7 o'clock at the restaurant.",
         "{\u4e03\u6642|\u3057\u3061\u3058}\u306b\u30ec\u30b9\u30c8\u30e9\u30f3\u3067\u3042\u3044\u307e\u3057\u305f\u3002",
-        ""
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
     ],
     [
         "(I) want to eat rice with chopsticks.",
         "\u304a\u306f\u3057\u3067\u3054\u306f\u3093\u3092\u305f\u3079\u305f\u3044\u3067\u3059\u3002",
-        ""
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
     ],
     [
         "(I) want to buy a Japanese camera.",
@@ -1712,7 +1712,7 @@ Flashcards.initialize([
     [
         "I'm a little quiet but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u3059\u3053\u3057\u304a\u3068\u306a\u3057\u3044\u3067\u3059\u304c\u3084\u3055\u3057\u304f\u3066{\u660e\u308b\u3044|\u3042\u304b\u308b\u3044}\u3068\u304a\u3082\u3044\u307e\u3059\u3002\u30ed\u30c3\u30af\u3068\u30e1\u30bf\u30eb\u304c\u3059\u304d\u3067\u3059\u304c\u30b9\u30dd\u30fc\u30c4\u304c\u3042\u307e\u308a\u3059\u304d\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
-        ""
+        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "I don't think (she) is especially shy.",
@@ -1822,12 +1822,12 @@ Flashcards.initialize([
     [
         "Mr. Yamada went to Osaka by bullet train.",
         "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3057\u3093\u304b\u3093\u305b\u3093\u3067\u304a\u3046\u3055\u304b\u306b\u3044\u304d\u307e\u3057\u305f\u3002",
-        ""
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); A \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
         "Soon it will be Summer. It will gradually get hotter.",
         "\u3082\u3046\u3059\u3050\u306a\u3064\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b, \u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
     ],
     [
         "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -1907,7 +1907,7 @@ Flashcards.initialize([
     [
         "If (you) study every day, (your) Japanese will get skilled.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3079\u3093\u304d\u3087\u3046\u3059\u308b\u3068{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u304c\u3058\u3087\u3046\u305a\u306b\u306a\u308a\u307e\u3059\u3002",
-        "A-dictionary-form \u3068B = if A then B, Noun/\u306a adj + \u306b + \u306a\u308b"
+        "A-dictionary-form \u3068B = if A then B; Noun/\u306a adj + \u306b + \u306a\u308b"
     ],
     [
         "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -1967,21 +1967,51 @@ Flashcards.initialize([
     [
         "Soon it will be spring. It will gradually get warm.",
         "\u3082\u3046\u3059\u3050\u306f\u308b\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u305f\u305f\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b, \u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
     ],
     [
         "Soon it will be summer. It will gradually get hot.",
         "\u3082\u3046\u3059\u3050\u306a\u3064\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b, \u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
     ],
     [
         "Soon it will be winter. It will gradually get cold.",
         "\u3082\u3046\u3059\u3050\u3075\u3086\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b, \u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
     ],
     [
         "Soon it will be autumn. It will gradually get cool.",
         "\u3082\u3046\u3059\u3050\u3042\u304d\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3059\u305a\u3057\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b, \u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
+    ],
+    [
+        "How did (you) go (there)? (I) went by train.",
+        "\u3069\u3046\u3084\u3063\u3066\u3044\u304d\u307e\u3057\u305f\u304b\u3002\u3067\u3093\u3057\u3083\u3067\u3044\u304d\u307e\u3057\u305f\u3002",
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+    ],
+    [
+        "(I) went to the town by bus.",
+        "\u307e\u3061\u306b\u30d0\u30b9\u3067\u3044\u304d\u307e\u3057\u305f\u3002",
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); A \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+    ],
+    [
+        "(I) went to my mom's house by car.",
+        "{\u6bcd|\u306f\u306f}\u306e\u3046\u3061\u306b\u304f\u308b\u307e\u3067\u3044\u304d\u307e\u3057\u305f\u3002",
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); A \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+    ],
+    [
+        "(I) went to New York by train.",
+        "\u3067\u3093\u3057\u3083\u3067\u30cb\u30e5\u30fc\u30fb\u30e8\u30fc\u30af\u306b\u3044\u304d\u307e\u3057\u305f\u3002",
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); A \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+    ],
+    [
+        "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
+        "\u304a\u3046\u3055\u304b\u3086\u304d\u306e\u304d\u3063\u3077\u3092{\u30cb|\u306b}\u307e\u3044\u304f\u3060\u3055\u3044\u3002\u304b\u305f\u307f\u3061\u3067\u3059\u304b\u3002\u304a\u3046\u3075\u304f\u3067\u3059\u304b\u3002\u304b\u305f\u307f\u3061\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "(I) wrote the letter in Japanese.",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3067\u3066\u304c\u307f\u3092\u304b\u304d\u307e\u3057\u305f\u3002",
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
     ]
 ])
