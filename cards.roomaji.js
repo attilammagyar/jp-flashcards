@@ -455,7 +455,7 @@ Flashcards.initialize([
 [
     "If (you) turn left at the crossroads, the bank will be on the right side.",
     "kousaten wo hidari ni magaru to ginkou wa migi gawa ni arimasu.",
-    ""
+    "A-dictionary-form とB = if A then B"
 ],
 
 ["The art gallery is next door to the hotel.",      "bijutsukan wa _hoteru_ no tonari ni arimasu.", ""],
@@ -716,12 +716,12 @@ Flashcards.initialize([
 ["(I) don't know numbers above 1000.",              "{一千|issen} ijou no suuji {分かりません|wakarimasen}.", ""],
 ["By the way, Mr. Yamada is late, isn't he?",       "tokorode, {山田|yamada} san wa osoi desu ne.", ""],
 
-["I often go to the gym.",                          "{私|watashi} wa yoku _jimu_ ni ikimasu.", ""],
+["I often go to the gym.",                          "{私|watashi} wa yoku _jimu_ ni ikimasu.", "い adj. - い + く = adverb"],
 ["Mr. Yamada went to Osaka by bullet train.",       "{山田|yamada} san wa shinkansen de ousaka ni ikimashita.", ""],
 [
     "Soon it will be Summer. It will gradually get hotter.",
     "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
-    ""
+    "Noun/な adj + に + なる, い adj - い + く + なる"
 ],
 [
     "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -737,22 +737,22 @@ Flashcards.initialize([
 ],
 ["On rainy days, (I) watch movies.",                "{雨|ame} no {日|hi} wa eiga wo mimasu.", ""],
 ["(I can) hear thunder.",                           "{雷|kaminari} ga kikoemasu.", ""],
-["Miki writes kanji skillfully.",                   "{三木|miki} san wa jouzu ni kanji wo kakimasu.", ""],
-["Robert speaks Japanese well.",                    "_robaato_ san wa yoku {日本語|nihongo} wo hanashimasu.", ""],
+["Miki writes kanji skillfully.",                   "{三木|miki} san wa jouzu ni kanji wo kakimasu.", "な adj + に = adverb"],
+["Robert speaks Japanese well.",                    "_robaato_ san wa yoku {日本語|nihongo} wo hanashimasu.", "い adj. - い + く = adverb"],
 
-["Hondo does his work seriously.",                  "hondou san wa majime ni shigoto wo shimasu.", ""],
-["Naoe cleans neatly.",                             "naoe san wa kirei ni souji wo shimasu.", ""],
-["Natsuko speaks English softly/kindly.",           "natsuko san wa yasashiku eigo wo hanashimasu.", ""],
-["6 o'clock has come.",                             "{六時|rokuji} ni narimashita.", ""],
-["(It) gradually gets hotter.",                     "dandan atsuku narimasu.", ""],
+["Hondo does his work seriously.",                  "hondou san wa majime ni shigoto wo shimasu.", "な adj + に = adverb"],
+["Naoe cleans neatly.",                             "naoe san wa kirei ni souji wo shimasu.", "な adj + に = adverb"],
+["Natsuko speaks English softly/kindly.",           "natsuko san wa yasashiku eigo wo hanashimasu.", "い adj. - い + く = adverb"],
+["6 o'clock has come.",                             "{六時|rokuji} ni narimashita.", "Noun/な adj + に + なる"],
+["(It) gradually gets hotter.",                     "dandan atsuku narimasu.", "い adj - い + く + なる"],
 
-["Miki has got good at bowling.",                   "{三木|miki} san wa _booringu_ ga jouzu ni narimashita.", ""],
+["Miki has got good at bowling.",                   "{三木|miki} san wa _booringu_ ga jouzu ni narimashita.", "Noun/な adj + に + なる"],
 ["Happy New Year!",                                 "{明|a}kemashite omedetou.", ""],
-["The weather got cold.",                           "{天気|tenki} ga samuku narimashita.", ""],
+["The weather got cold.",                           "{天気|tenki} ga samuku narimashita.", "い adj - い + く + なる"],
 [
     "If (you) study every day, (your) Japanese will get skilled.",
     "{毎日|mai nichi} benkyou suru to {日本語|nihongo} ga jouzu ni narimasu.",
-    "A-dictionary-form とB = if A then B"
+    "A-dictionary-form とB = if A then B, Noun/な adj + に + なる"
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -779,22 +779,22 @@ Flashcards.initialize([
 [
     "Soon it will be spring. It will gradually get warm.",
     "mou sugu haru ni narimasu. dandan atataku narimasu.",
-    ""
+    "Noun/な adj + に + なる, い adj - い + く + なる"
 ],
 [
     "Soon it will be summer. It will gradually get hot.",
     "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
-    ""
+    "Noun/な adj + に + なる, い adj - い + く + なる"
 ],
 [
     "Soon it will be winter. It will gradually get cold.",
     "mou sugu fuyu ni narimasu. dandan samuku narimasu.",
-    ""
+    "Noun/な adj + に + なる, い adj - い + く + なる"
 ],
 [
     "Soon it will be autumn. It will gradually get cool.",
     "mou sugu aki ni narimasu. dandan suzushiku narimasu.",
-    ""
+    "Noun/な adj + に + なる, い adj - い + く + なる"
 ]
 
 ])
