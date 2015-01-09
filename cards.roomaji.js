@@ -1966,7 +1966,7 @@ Flashcards.initialize([
 ],
 [
     "Soon (it) will be spring. (It) will gradually get warm.",
-    "mou sugu haru ni narimasu. dandan atataku narimasu.",
+    "mou sugu haru ni narimasu. dandan atatakaku narimasu.",
     "Noun/な adj + に + なる; い adj - い + く + なる"
 ],
 [
@@ -1995,7 +1995,7 @@ Flashcards.initialize([
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
 ],
 [
-    "(I) went to my mom's house by car.",
+    "(I) went to (my) mom's house by car.",
     "{母|haha} no uchi ni kuruma de ikimashita.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
 ],
@@ -2015,7 +2015,7 @@ Flashcards.initialize([
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
-    "(I) want to go to Osaka. Isn't it an interesting place? Osaka is a wonderful place, but the work was boring.",
+    "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
     "ousaka ni ikitai desu. omoshirokunai {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga shigoto wa tsumaranakatta desu.",
     "くない = negative of い adj; かった = past tense of い adj; くなかった = past negative of い adj."
 ],
@@ -2030,8 +2030,8 @@ Flashcards.initialize([
     "おおく = long way; stem of adj or continuative base of verb + ~すぎる = too much ~, over~"
 ],
 [
-    "How was the weather? Soon it will be spring, but it was not especially warm.",
-    "{天気|tenki} wa dou deshita ka. mou sugu haru ni narimasu ga son na ni atatakunakatta desu.",
+    "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
+    "{お天気|otenki} wa dou deshita ka. mou sugu haru ni narimasu ga son na ni atatakunakatta desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2046,7 +2046,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
-    "{明日|ashita} samuku narimasu. {雨|ame} nochi {雪|yuki} deshou. iya desu ne.",
+    "{明日|ashita} wa samuku narimasu. {雨|ame} nochi {雪|yuki} deshou. iya desu ne.",
     "い adj - い + く + なる"
 ]
 ])
