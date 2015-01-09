@@ -1965,22 +1965,22 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Soon it will be spring. It will gradually get warm.",
+        "Soon (it) will be spring. (It) will gradually get warm.",
         "\u3082\u3046\u3059\u3050\u306f\u308b\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u305f\u305f\u304f\u306a\u308a\u307e\u3059\u3002",
         "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
     ],
     [
-        "Soon it will be summer. It will gradually get hot.",
+        "Soon (it) will be summer. (It) will gradually get hot.",
         "\u3082\u3046\u3059\u3050\u306a\u3064\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
         "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
     ],
     [
-        "Soon it will be winter. It will gradually get cold.",
+        "Soon (it) will be winter. (It) will gradually get cold.",
         "\u3082\u3046\u3059\u3050\u3075\u3086\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002",
         "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
     ],
     [
-        "Soon it will be autumn. It will gradually get cool.",
+        "Soon (it) will be autumn. (It) will gradually get cool.",
         "\u3082\u3046\u3059\u3050\u3042\u304d\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3059\u305a\u3057\u304f\u306a\u308a\u307e\u3059\u3002",
         "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
     ],
@@ -2013,5 +2013,40 @@ Flashcards.initialize([
         "(I) wrote the letter in Japanese.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3067\u3066\u304c\u307f\u3092\u304b\u304d\u307e\u3057\u305f\u3002",
         "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+    ],
+    [
+        "(I) want to go to Osaka. Isn't it an interesting place? Osaka is a wonderful place, but the work was boring.",
+        "\u304a\u3046\u3055\u304b\u306b\u3044\u304d\u305f\u3044\u3067\u3059\u3002\u304a\u3082\u3057\u308d\u304f\u306a\u3044{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304b\u3002\u304a\u3046\u3055\u304b\u306f\u3059\u3070\u3089\u3057\u3044{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304c\u3057\u3054\u3068\u306f\u3064\u307e\u3089\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
+        "\u304f\u306a\u3044 = negative of \u3044 adj; \u304b\u3063\u305f = past tense of \u3044 adj; \u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj."
+    ],
+    [
+        "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
+        "\u304a\u3046\u3055\u304b\u307e\u3067\u3057\u3093\u304b\u3093\u305b\u3093\u3067\u3044\u304d\u307e\u3057\u305f\u3002\u304b\u305f\u307f\u3061\u306e\u304d\u3063\u3077\u3092\u304b\u3044\u307e\u3057\u305f\u3002\u3069\u3046\u308a\u3087\u3046\u306e\u304f\u308b\u307e\u3067\u304b\u3048\u308a\u307e\u3057\u305f\u3002\u305d\u308c\u3082\u305f\u306e\u3057\u304f\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
+        "\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj."
+    ],
+    [
+        "(It) was too far.",
+        "\u3068\u304a\u3059\u304e\u307e\u3057\u305f\u3002",
+        "\u304a\u304a\u304f = long way; stem of adj or continuative base of verb + ~\u3059\u304e\u308b = too much ~, over~"
+    ],
+    [
+        "How was the weather? Soon it will be spring, but it was not especially warm.",
+        "{\u5929\u6c17|\u3066\u3093\u304d}\u306f\u3069\u3046\u3067\u3057\u305f\u304b\u3002\u3082\u3046\u3059\u3050\u306f\u308b\u306b\u306a\u308a\u307e\u3059\u304c\u305d\u3093\u306a\u306b\u3042\u305f\u305f\u304f\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
+        "\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj."
+    ],
+    [
+        "On Thursday, (it) snowed all day. (It) was unpleasant.",
+        "{\u6728\u66dc\u65e5|\u3082\u304f\u3088\u3046\u3073}\u306f{\u4e00\u65e5|\u3044\u3061\u306b\u3061}{\u96ea|\u3086\u304d}\u3067\u3057\u305f\u3002\u3075\u3086\u304b\u3044\u3067\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Did (you) hear the weather forecast for Tokyo? Not yet.",
+        "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306e{\u5929\u6c17|\u3066\u3093\u304d}\u3088\u307b\u3046\u3092\u304d\u304d\u307e\u3057\u305f\u304b\u3002\u3044\u3044\u3048\u3001\u307e\u3060\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
+        "{\u660e\u65e5|\u3042\u3057\u305f}\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002{\u96e8|\u3042\u3081}\u306e\u3061{\u96ea|\u3086\u304d}\u3067\u3057\u3087\u3046\u3002\u3044\u3084\u3067\u3059\u306d\u3002",
+        ""
     ]
 ])

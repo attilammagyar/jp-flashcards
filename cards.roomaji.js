@@ -805,22 +805,22 @@ Flashcards.initialize([
 ["hot, cold, warm, cool/refreshing",                "atsui, samui, atatakai, suzushii", ""],
 
 [
-    "Soon it will be spring. It will gradually get warm.",
+    "Soon (it) will be spring. (It) will gradually get warm.",
     "mou sugu haru ni narimasu. dandan atataku narimasu.",
     "Noun/な adj + に + なる; い adj - い + く + なる"
 ],
 [
-    "Soon it will be summer. It will gradually get hot.",
+    "Soon (it) will be summer. (It) will gradually get hot.",
     "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
     "Noun/な adj + に + なる; い adj - い + く + なる"
 ],
 [
-    "Soon it will be winter. It will gradually get cold.",
+    "Soon (it) will be winter. (It) will gradually get cold.",
     "mou sugu fuyu ni narimasu. dandan samuku narimasu.",
     "Noun/な adj + に + なる; い adj - い + く + なる"
 ],
 [
-    "Soon it will be autumn. It will gradually get cool.",
+    "Soon (it) will be autumn. (It) will gradually get cool.",
     "mou sugu aki ni narimasu. dandan suzushiku narimasu.",
     "Noun/な adj + に + なる; い adj - い + く + なる"
 ],
@@ -854,6 +854,43 @@ Flashcards.initialize([
     "(I) wrote the letter in Japanese.",
     "{日本語|nihongo} de tegami wo kakimashita.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+],
+
+[
+    "(I) want to go to Osaka. Isn't it an interesting place? Osaka is a wonderful place, but the work was boring.",
+    "ousaka ni ikitai desu. omoshirokunai {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga shigoto wa tsumaranakatta desu.",
+    "くない = negative of い adj; かった = past tense of い adj; くなかった = past negative of い adj."
+],
+[
+    "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
+    "ousaka made shinkansen de ikimashita. katamichi no kippu wo kaimashita. douryou no kuruma de kaerimashita. sore mo tanoshikunakatta desu.",
+    "くなかった = past negative of い adj."
+],
+[
+    "(It) was too far.",
+    "toosugimashita.",
+    "おおく = long way; stem of adj or continuative base of verb + ~すぎる = too much ~, over~"
+],
+[
+    "How was the weather? Soon it will be spring, but it was not especially warm.",
+    "{天気|tenki} wa dou deshita ka. mou sugu haru ni narimasu ga son na ni atatakunakatta desu.",
+    "くなかった = past negative of い adj."
+],
+[
+    "On Thursday, (it) snowed all day. (It) was unpleasant.",
+    "{木曜日|mokuyoubi} wa {一日|ichinichi} {雪|yuki} deshita. fuyukai deshita.",
+    ""
+],
+
+[
+    "Did (you) hear the weather forecast for Tokyo? Not yet.",
+    "{東京|toukyou} no {天気|tenki} yohou wo kikimashita ka. iie, mada desu.",
+    ""
+],
+[
+    "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
+    "{明日|ashita} samuku narimasu. {雨|ame} nochi {雪|yuki} deshou. iya desu ne.",
+    ""
 ]
 
 ])
