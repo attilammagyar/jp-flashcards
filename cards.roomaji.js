@@ -41,7 +41,7 @@ Flashcards.initialize([
 ],
 [
     "It's now 9 PM.",
-    "{今|ima} gogo {九時|kuji} desu.",
+    "{今|ima} {午後|gogo} {九時|kuji} desu.",
     ""
 ],
 [
@@ -401,7 +401,7 @@ Flashcards.initialize([
 ],
 [
     "In the afternoon (I) usually read the newspaper. Sometimes (I) watch the news.",
-    "gogo taitei shinbun wo yomimasu. {時々|tokidoki} _nyuusu_ wo mimasu.",
+    "{午後|gogo} taitei shinbun wo yomimasu. {時々|tokidoki} _nyuusu_ wo mimasu.",
     ""
 ],
 [

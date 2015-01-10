@@ -41,7 +41,7 @@ Flashcards.initialize([
     ],
     [
         "It's now 9 PM.",
-        "{\u4eca|\u3044\u307e}\u3054\u3054{\u4e5d\u6642|\u304f\u3058}\u3067\u3059\u3002",
+        "{\u4eca|\u3044\u307e}{\u5348\u5f8c|\u3054\u3054}{\u4e5d\u6642|\u304f\u3058}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -401,7 +401,7 @@ Flashcards.initialize([
     ],
     [
         "In the afternoon (I) usually read the newspaper. Sometimes (I) watch the news.",
-        "\u3054\u3054\u305f\u3044\u3066\u3044\u3057\u3093\u3076\u3093\u3092\u3088\u307f\u307e\u3059\u3002{\u6642\u3005|\u3068\u304d\u3069\u304d}\u30cb\u30e5\u30fc\u30b9\u3092\u307f\u307e\u3059\u3002",
+        "{\u5348\u5f8c|\u3054\u3054}\u305f\u3044\u3066\u3044\u3057\u3093\u3076\u3093\u3092\u3088\u307f\u307e\u3059\u3002{\u6642\u3005|\u3068\u304d\u3069\u304d}\u30cb\u30e5\u30fc\u30b9\u3092\u307f\u307e\u3059\u3002",
         ""
     ],
     [
