@@ -676,12 +676,12 @@ Flashcards.initialize([
 ],
 [
     "Do (you) understand English?",
-    "eigo ga {分かります|wakarimasu} ka.",
+    "{英語|eigo} ga {分かります|wakarimasu} ka.",
     ""
 ],
 [
     "Peter, (you) are very good at English.",
-    "_piitaa_ wa eigo ga tokui desu ne.",
+    "_piitaa_ wa {英語|eigo} ga tokui desu ne.",
     ""
 ],
 [
@@ -691,12 +691,12 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (I) have an English exam.",
-    "{明日|ashita} eigo no shiken ga arimasu.",
+    "{明日|ashita} {英語|eigo} no shiken ga arimasu.",
     ""
 ],
 [
     "I'm very worried. Tonight, shall we study English together?",
-    "totemo shinpai desu. kon ya isshoni eigo wo benkyou shimasen ka.",
+    "totemo shinpai desu. kon ya isshoni {英語|eigo} wo benkyou shimasen ka.",
     ""
 ],
 [
@@ -1827,7 +1827,7 @@ Flashcards.initialize([
 [
     "Soon it will be Summer. It will gradually get hotter.",
     "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
-    "Noun/な adj + に + なる; い adj - い + く + なる"
+    "Noun/な adj + に + なる = become ~; い adj - い + く + なる = become ~"
 ],
 [
     "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -1876,23 +1876,23 @@ Flashcards.initialize([
 ],
 [
     "Natsuko speaks English softly/kindly.",
-    "natsuko san wa yasashiku eigo wo hanashimasu.",
+    "natsuko san wa yasashiku {英語|eigo} wo hanashimasu.",
     "い adj. - い + く = adverb"
 ],
 [
     "6 o'clock has come.",
     "{六時|rokuji} ni narimashita.",
-    "Noun/な adj + に + なる"
+    "Noun/な adj + に + なる = become ~"
 ],
 [
     "(It) gradually gets hotter.",
     "dandan atsuku narimasu.",
-    "い adj - い + く + なる"
+    "い adj - い + く + なる = become ~"
 ],
 [
     "Miki has got good at bowling.",
     "{三木|miki} san wa _booringu_ ga jouzu ni narimashita.",
-    "Noun/な adj + に + なる"
+    "Noun/な adj + に + なる = become ~"
 ],
 [
     "Happy New Year!",
@@ -1902,12 +1902,12 @@ Flashcards.initialize([
 [
     "The weather got cold.",
     "{天気|tenki} ga samuku narimashita.",
-    "い adj - い + く + なる"
+    "い adj - い + く + なる = become ~"
 ],
 [
     "If (you) study every day, (your) Japanese will get skilled.",
     "{毎日|mai nichi} benkyou suru to {日本語|nihongo} ga jouzu ni narimasu.",
-    "A-dictionary-form とB = if A then B; Noun/な adj + に + なる"
+    "A-dictionary-form とB = if A then B; Noun/な adj + に + なる = become ~"
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -1967,22 +1967,22 @@ Flashcards.initialize([
 [
     "Soon (it) will be spring. (It) will gradually get warm.",
     "mou sugu haru ni narimasu. dandan atatakaku narimasu.",
-    "Noun/な adj + に + なる; い adj - い + く + なる"
+    "Noun/な adj + に + なる = become ~; い adj - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be summer. (It) will gradually get hot.",
     "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
-    "Noun/な adj + に + なる; い adj - い + く + なる"
+    "Noun/な adj + に + なる = become ~; い adj - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be winter. (It) will gradually get cold.",
     "mou sugu fuyu ni narimasu. dandan samuku narimasu.",
-    "Noun/な adj + に + なる; い adj - い + く + なる"
+    "Noun/な adj + に + なる = become ~; い adj - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be autumn. (It) will gradually get cool.",
     "mou sugu aki ni narimasu. dandan suzushiku narimasu.",
-    "Noun/な adj + に + なる; い adj - い + く + なる"
+    "Noun/な adj + に + なる = become ~; い adj - い + く + なる = become ~"
 ],
 [
     "How did (you) go (there)? (I) went by train.",
@@ -2047,6 +2047,31 @@ Flashcards.initialize([
 [
     "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
     "{明日|ashita} wa samuku narimasu. {雨|ame} nochi {雪|yuki} deshou. iya desu ne.",
-    "い adj - い + く + なる"
+    "い adj - い + く + なる = become ~"
+],
+[
+    "New Zealand has four seasons.",
+    "_nyuu jiirando_ wa kisetsu ga {四つ|yottsu} arimasu.",
+    ""
+],
+[
+    "Spring is from September to November. The weather is clear, sometimes rainy.",
+    "haru wa {九月|kugatsu} kara {十一月|juuichigatsu} made desu. {天気|tenki} wa hare, {時々|tokidoki} {雨|ame} desu.",
+    "(New Zealand)"
+],
+[
+    "The Summer is from December to February. (It) gradually gets hot.",
+    "natsu wa {十二月|juunigatsu} kara {二月|nigatsu} made desu. dandan natsuku narimasu.",
+    "(New Zealand); い adj - い + く + なる = become ~"
+],
+[
+    "Autumn is from March. The weather is clear, windy, rainy...",
+    "aki wa {三月|sangatsu} kara desu. {天気|tenki} wa hare, {風|kaze}, {雨|ame}...",
+    "(New Zealand)"
+],
+[
+    "Winter is from June. (It) is very cold. (It) snows a lot.",
+    "fuyu wa {六月|rokugatsu} kara desu. totemo samui desu. {雪|yuki} ga ippai furimasu.",
+    "(New Zealand)"
 ]
 ])

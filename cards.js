@@ -676,12 +676,12 @@ Flashcards.initialize([
     ],
     [
         "Do (you) understand English?",
-        "\u3048\u3044\u3054\u304c{\u5206\u304b\u308a\u307e\u3059|\u308f\u304b\u308a\u307e\u3059}\u304b\u3002",
+        "{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c{\u5206\u304b\u308a\u307e\u3059|\u308f\u304b\u308a\u307e\u3059}\u304b\u3002",
         ""
     ],
     [
         "Peter, (you) are very good at English.",
-        "\u30d4\u30fc\u30bf\u30fc\u306f\u3048\u3044\u3054\u304c\u3068\u304f\u3044\u3067\u3059\u306d\u3002",
+        "\u30d4\u30fc\u30bf\u30fc\u306f{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u3068\u304f\u3044\u3067\u3059\u306d\u3002",
         ""
     ],
     [
@@ -691,12 +691,12 @@ Flashcards.initialize([
     ],
     [
         "Tomorrow (I) have an English exam.",
-        "{\u660e\u65e5|\u3042\u3057\u305f}\u3048\u3044\u3054\u306e\u3057\u3051\u3093\u304c\u3042\u308a\u307e\u3059\u3002",
+        "{\u660e\u65e5|\u3042\u3057\u305f}{\u82f1\u8a9e|\u3048\u3044\u3054}\u306e\u3057\u3051\u3093\u304c\u3042\u308a\u307e\u3059\u3002",
         ""
     ],
     [
         "I'm very worried. Tonight, shall we study English together?",
-        "\u3068\u3066\u3082\u3057\u3093\u3071\u3044\u3067\u3059\u3002\u3053\u3093\u3084\u3044\u3063\u3057\u3087\u306b\u3048\u3044\u3054\u3092\u3079\u3093\u304d\u3087\u3046\u3057\u307e\u305b\u3093\u304b\u3002",
+        "\u3068\u3066\u3082\u3057\u3093\u3071\u3044\u3067\u3059\u3002\u3053\u3093\u3084\u3044\u3063\u3057\u3087\u306b{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092\u3079\u3093\u304d\u3087\u3046\u3057\u307e\u305b\u3093\u304b\u3002",
         ""
     ],
     [
@@ -1827,7 +1827,7 @@ Flashcards.initialize([
     [
         "Soon it will be Summer. It will gradually get hotter.",
         "\u3082\u3046\u3059\u3050\u306a\u3064\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -1876,23 +1876,23 @@ Flashcards.initialize([
     ],
     [
         "Natsuko speaks English softly/kindly.",
-        "\u306a\u3064\u3053\u3055\u3093\u306f\u3084\u3055\u3057\u304f\u3048\u3044\u3054\u3092\u306f\u306a\u3057\u307e\u3059\u3002",
+        "\u306a\u3064\u3053\u3055\u3093\u306f\u3084\u3055\u3057\u304f{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092\u306f\u306a\u3057\u307e\u3059\u3002",
         "\u3044 adj. - \u3044 + \u304f = adverb"
     ],
     [
         "6 o'clock has come.",
         "{\u516d\u6642|\u308d\u304f\u3058}\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~"
     ],
     [
         "(It) gradually gets hotter.",
         "\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
-        "\u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "\u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Miki has got good at bowling.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3058\u3087\u3046\u305a\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~"
     ],
     [
         "Happy New Year!",
@@ -1902,12 +1902,12 @@ Flashcards.initialize([
     [
         "The weather got cold.",
         "{\u5929\u6c17|\u3066\u3093\u304d}\u304c\u3055\u3080\u304f\u306a\u308a\u307e\u3057\u305f\u3002",
-        "\u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "\u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "If (you) study every day, (your) Japanese will get skilled.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3079\u3093\u304d\u3087\u3046\u3059\u308b\u3068{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u304c\u3058\u3087\u3046\u305a\u306b\u306a\u308a\u307e\u3059\u3002",
-        "A-dictionary-form \u3068B = if A then B; Noun/\u306a adj + \u306b + \u306a\u308b"
+        "A-dictionary-form \u3068B = if A then B; Noun/\u306a adj + \u306b + \u306a\u308b = become ~"
     ],
     [
         "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -1967,22 +1967,22 @@ Flashcards.initialize([
     [
         "Soon (it) will be spring. (It) will gradually get warm.",
         "\u3082\u3046\u3059\u3050\u306f\u308b\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u305f\u305f\u304b\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Soon (it) will be summer. (It) will gradually get hot.",
         "\u3082\u3046\u3059\u3050\u306a\u3064\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Soon (it) will be winter. (It) will gradually get cold.",
         "\u3082\u3046\u3059\u3050\u3075\u3086\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Soon (it) will be autumn. (It) will gradually get cool.",
         "\u3082\u3046\u3059\u3050\u3042\u304d\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3059\u305a\u3057\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b; \u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "How did (you) go (there)? (I) went by train.",
@@ -2047,6 +2047,31 @@ Flashcards.initialize([
     [
         "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
         "{\u660e\u65e5|\u3042\u3057\u305f}\u306f\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002{\u96e8|\u3042\u3081}\u306e\u3061{\u96ea|\u3086\u304d}\u3067\u3057\u3087\u3046\u3002\u3044\u3084\u3067\u3059\u306d\u3002",
-        "\u3044 adj - \u3044 + \u304f + \u306a\u308b"
+        "\u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
+    ],
+    [
+        "New Zealand has four seasons.",
+        "\u30cb\u30e5\u30fc\u30fb\u30b8\u30fc\u30e9\u30f3\u30c9\u306f\u304d\u305b\u3064\u304c{\u56db\u3064|\u3088\u3063\u3064}\u3042\u308a\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Spring is from September to November. The weather is clear, sometimes rainy.",
+        "\u306f\u308b\u306f{\u4e5d\u6708|\u304f\u304c\u3064}\u304b\u3089{\u5341\u4e00\u6708|\u3058\u3085\u3046\u3044\u3061\u304c\u3064}\u307e\u3067\u3067\u3059\u3002{\u5929\u6c17|\u3066\u3093\u304d}\u306f\u306f\u308c\u3001{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u96e8|\u3042\u3081}\u3067\u3059\u3002",
+        "(New Zealand)"
+    ],
+    [
+        "The Summer is from December to February. (It) gradually gets hot.",
+        "\u306a\u3064\u306f{\u5341\u4e8c\u6708|\u3058\u3085\u3046\u306b\u304c\u3064}\u304b\u3089{\u4e8c\u6708|\u306b\u304c\u3064}\u307e\u3067\u3067\u3059\u3002\u3060\u3093\u3060\u3093\u306a\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
+        "(New Zealand); \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
+    ],
+    [
+        "Autumn is from March. The weather is clear, windy, rainy...",
+        "\u3042\u304d\u306f{\u4e09\u6708|\u3055\u3093\u304c\u3064}\u304b\u3089\u3067\u3059\u3002{\u5929\u6c17|\u3066\u3093\u304d}\u306f\u306f\u308c\u3001{\u98a8|\u304b\u305c}\u3001{\u96e8|\u3042\u3081}\u2026",
+        "(New Zealand)"
+    ],
+    [
+        "Winter is from June. (It) is very cold. (It) snows a lot.",
+        "\u3075\u3086\u306f{\u516d\u6708|\u308d\u304f\u304c\u3064}\u304b\u3089\u3067\u3059\u3002\u3068\u3066\u3082\u3055\u3080\u3044\u3067\u3059\u3002{\u96ea|\u3086\u304d}\u304c\u3044\u3063\u3071\u3044\u3075\u308a\u307e\u3059\u3002",
+        "(New Zealand)"
     ]
 ])
