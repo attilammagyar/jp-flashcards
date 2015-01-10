@@ -26,7 +26,7 @@ def to_kana(text):
         formatted += conversion(part).replace(" ", "")
         kana_type = kana_type ^ 1
 
-    return formatted.replace(",", "、").replace(".", "。")
+    return formatted.replace(",", "、").replace("...", "…").replace(".", "。")
 
 
 class _TestToKana(unittest.TestCase):
@@ -49,10 +49,14 @@ class _TestToKana(unittest.TestCase):
             )
         )
         self.assertEqual(
-            "じつは、わたしはスポーツをみませんし、しません。",
+            "じつは、わたしはスポーツをみませんし、しません…",
             to_kana(
-                "jitsu wa, watashi wa _supootsu_ wo mimasen shi, shimasen."
+                "jitsu wa, watashi wa _supootsu_ wo mimasen shi, shimasen..."
             )
+        )
+        self.assertEqual(
+            "ニュー・ジーランド",
+            to_kana("_nyuu jiirando_")
         )
 
 
