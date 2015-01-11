@@ -21,7 +21,7 @@ Flashcards.initialize([
 ],
 [
     "Piece of cake",
-    "asa meshi mae",
+    "asa meshi {前|mae}",
     ""
 ],
 [
@@ -36,7 +36,7 @@ Flashcards.initialize([
 ],
 [
     "8:17 AM",
-    "gozen {八時|hachiji} {十七分|juu nana hun}.",
+    "{午前|gozen} {八時|hachiji} {十七分|juu nana hun}.",
     ""
 ],
 [
@@ -1126,7 +1126,7 @@ Flashcards.initialize([
 ],
 [
     "The hotel is behind the art gallery.",
-    "_hoteru_ wa bijutsukan no ushiro ni arimasu.",
+    "_hoteru_ wa bijutsukan no {後ろ|ushiro} ni arimasu.",
     ""
 ],
 [
@@ -1151,7 +1151,7 @@ Flashcards.initialize([
 ],
 [
     "At the front of the department store there is a bus stop.",
-    "_depaato_ no mae ni _basu_ tei ga arimasu.",
+    "_depaato_ no {前|mae} ni _basu_ tei ga arimasu.",
     ""
 ],
 [
@@ -1231,7 +1231,7 @@ Flashcards.initialize([
 ],
 [
     "Who is (there) in front of the bank?",
-    "ginkou no mae ni dare ga imasu ka.",
+    "ginkou no {前|mae} ni dare ga imasu ka.",
     ""
 ],
 [
@@ -1376,17 +1376,17 @@ Flashcards.initialize([
 ],
 [
     "45 past 1 o'clock, quarter to 2 o'clock",
-    "{一時四十五分|ichi ji yon juu go fun}, {二時十五分|ni ji juu go fun} mae",
+    "{一時四十五分|ichi ji yon juu go fun}, {二時十五分|ni ji juu go fun} {前|mae}",
     ""
 ],
 [
     "50 past 1 o'clock, 10 to 2 o'clock",
-    "{一時五十分|ichi ji go juppun}, {二時十分|ni ji juppun} mae",
+    "{一時五十分|ichi ji go juppun}, {二時十分|ni ji juppun} {前|mae}",
     ""
 ],
 [
     "Let's meet in front of the museum!",
-    "hakubutsukan no mae de aimashou.",
+    "hakubutsukan no {前|mae} de aimashou.",
     ""
 ],
 [
@@ -1531,7 +1531,7 @@ Flashcards.initialize([
 ],
 [
     "(My) mother is tall (and) has big eyes.",
-    "{母|haha} wa se ga takakute me ga {大きい|ookii} desu.",
+    "{母|haha} wa se ga {高くて|takakute} me ga {大きい|ookii} desu.",
     ""
 ],
 [
@@ -1576,12 +1576,12 @@ Flashcards.initialize([
 ],
 [
     "back/height, high/tall, low/short, average",
-    "se, takai, hikui, futsuu (na)",
+    "se, {高い|takai}, hikui, futsuu (na)",
     ""
 ],
 [
     "nose, tall/big, small, wide",
-    "hana, takai, {小さい|chiisai}, {大きい|ookii}",
+    "hana, {高い|takai}, {小さい|chiisai}, {大きい|ookii}",
     ""
 ],
 [
@@ -1601,12 +1601,12 @@ Flashcards.initialize([
 ],
 [
     "I am tall (with) blue eyes and blonde hair.",
-    "{私|watashi} wa se ga takakute, me ga aokute, kami ga kinpatsu desu.",
+    "{私|watashi} wa se ga {高くて|takakute}, me ga aokute, kami ga kinpatsu desu.",
     ""
 ],
 [
     "(My) mother has round face, a high nose and brown eyes.",
-    "{母|haha} wa kao ga marukute, hana ga takakute, me ga chairo desu.",
+    "{母|haha} wa kao ga marukute, hana ga {高くて|takakute}, me ga chairo desu.",
     ""
 ],
 [
@@ -2031,7 +2031,7 @@ Flashcards.initialize([
 ],
 [
     "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
-    "{お天気|otenki} wa dou deshita ka. mou sugu haru ni narimasu ga son na ni atatakunakatta desu.",
+    "{お天気|otenki} wa dou deshita ka. mou sugu haru ni narimasu ga son na ni atatakakunakatta desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2061,7 +2061,7 @@ Flashcards.initialize([
 ],
 [
     "The Summer is from December to February. (It) gradually gets hot.",
-    "natsu wa {十二月|juunigatsu} kara {二月|nigatsu} made desu. dandan natsuku narimasu.",
+    "natsu wa {十二月|juunigatsu} kara {二月|nigatsu} made desu. dandan atsuku narimasu.",
     "(New Zealand); い adj - い + く + なる = become ~"
 ],
 [
