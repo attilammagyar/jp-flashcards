@@ -2108,5 +2108,25 @@ Flashcards.initialize([
         "(I) had a headache last night. (I) didn't eat anything.",
         "\u3086\u3046\u3079\u3042\u305f\u307e\u304c\u3044\u305f\u304b\u3063\u305f\u3067\u3059\u3002{\u4f55|\u306a\u306b}\u3082\u305f\u3079\u307e\u305b\u3093\u3067\u3057\u305f\u3002",
         ""
+    ],
+    [
+        "Miki went to the cinema with Natsuko.",
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u306a\u3064\u3053\u3055\u3093\u3068\u3048\u3044\u304c\u304b\u3093\u306b\u3044\u304d\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Mr. Yamada works from early morning to late night every day.",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3042\u3055\u306f\u3084\u304f\u304b\u3089\u3088\u308b\u304a\u305d\u304f\u307e\u3067\u3057\u3054\u3068\u3092\u3057\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Miki is bad at both bowling and tennis.",
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u3082\u30c6\u30cb\u30b9\u3082\u3078\u305f\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
+        "\u3067\u3082\u307e\u3060{\u4e8c\u5206|\u306b\u3075\u3093}\u3042\u308a\u307e\u3059\u3002\u3088\u3086\u3046\u3067\u3059\u3002\u306a\u3064\u3053\u3055\u3093\u306f\u304d\u3063\u3068\u304d\u307e\u3059\u3002",
+        ""
     ]
 ])

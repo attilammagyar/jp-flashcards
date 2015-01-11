@@ -2108,5 +2108,25 @@ Flashcards.initialize([
     "(I) had a headache last night. (I) didn't eat anything.",
     "yuube atama ga itakatta desu. {何|nani} mo tabemasen deshita.",
     ""
+],
+[
+    "Miki went to the cinema with Natsuko.",
+    "{三木|miki} san wa natsuko san to eigakan ni ikimashita.",
+    ""
+],
+[
+    "Mr. Yamada works from early morning to late night every day.",
+    "{山田|yamada} san wa {毎日|mainichi} asa hayaku kara yoru osoku made shigoto wo shimasu.",
+    ""
+],
+[
+    "Miki is bad at both bowling and tennis.",
+    "{三木|miki} san wa _booringu_ mo _tenisu_ mo heta desu.",
+    ""
+],
+[
+    "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
+    "Demo mada {二分|nihun} arimasu. yoyuu desu. natsuko san wa kitto kimasu.",
+    ""
 ]
 ])
