@@ -2073,5 +2073,40 @@ Flashcards.initialize([
         "Winter is from June. (It) is very cold. (It) snows a lot.",
         "\u3075\u3086\u306f{\u516d\u6708|\u308d\u304f\u304c\u3064}\u304b\u3089\u3067\u3059\u3002\u3068\u3066\u3082\u3055\u3080\u3044\u3067\u3059\u3002{\u96ea|\u3086\u304d}\u304c\u3044\u3063\u3071\u3044\u3075\u308a\u307e\u3059\u3002",
         "(New Zealand)"
+    ],
+    [
+        "(In) Sapporo, the wind will probably be strong and sometimes (it) will snow. (It) will probably be 0\u00b0C.",
+        "\u3055\u3063\u307d\u308d\u306f{\u98a8|\u304b\u305c}\u304c\u3064\u3088\u304f\u3066{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u96ea|\u3086\u304d}\u3067\u3057\u3087\u3046\u3002\u308c\u3044\u3069\u3067\u3057\u3087\u3046\u3002",
+        ""
+    ],
+    [
+        "Temperature will probably be 12\u00b0C.",
+        "\u304d\u304a\u3093\u306f{\u5341\u4e8c|\u3058\u3085\u3046\u306b}\u3069\u3067\u3057\u3087\u3046\u3002",
+        ""
+    ],
+    [
+        "Tomorrow (I'll) be 32 years old.",
+        "{\u660e\u65e5|\u3042\u3057\u305f}{\u4e09\u5341\u4e8c\u6b73|\u3055\u3093\u3058\u3085\u3046\u306b\u3055\u3044}\u306b\u306a\u308a\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "I don't read newspaper very much.",
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u3042\u307e\u308a\u3057\u3093\u3076\u3093\u3092\u3088\u307f\u307e\u305b\u3093\u3002",
+        ""
+    ],
+    [
+        "(My) neighbour has big eyes and (he's) not tall.",
+        "\u304d\u3093\u3058\u3087\u306e{\u4eba|\u3072\u3068}\u306f\u3081\u304c{\u5927\u304d\u304f\u3066|\u304a\u304a\u304d\u304f\u3066}\u305b\u304c{\u9ad8\u304f\u306a\u3044|\u305f\u304b\u304f\u306a\u3044}\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "The trip wasn't fun at all.",
+        "\u308a\u3087\u3053\u3046\u306f\u305c\u3093\u305c\u3093\u305f\u306e\u3057\u304f\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "(I) had a headache last night. (I) didn't eat anything.",
+        "\u3086\u3046\u3079\u3042\u305f\u307e\u304c\u3044\u305f\u304b\u3063\u305f\u3067\u3059\u3002{\u4f55|\u306a\u306b}\u3082\u305f\u3079\u307e\u305b\u3093\u3067\u3057\u305f\u3002",
+        ""
     ]
 ])

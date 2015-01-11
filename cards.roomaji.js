@@ -2073,5 +2073,40 @@ Flashcards.initialize([
     "Winter is from June. (It) is very cold. (It) snows a lot.",
     "fuyu wa {六月|rokugatsu} kara desu. totemo samui desu. {雪|yuki} ga ippai furimasu.",
     "(New Zealand)"
+],
+[
+    "(In) Sapporo, the wind will probably be strong and sometimes (it) will snow. (It) will probably be 0°C.",
+    "Sapporo wa {風|kaze} ga tsuyokute {時々|tokidoki} {雪|yuki} deshou. rei do deshou.",
+    ""
+],
+[
+    "Temperature will probably be 12°C.",
+    "kion wa {十二|juuni} do deshou.",
+    ""
+],
+[
+    "Tomorrow (I'll) be 32 years old.",
+    "{明日|ashita} {三十二歳|sanjuunisai} ni narimasu.",
+    ""
+],
+[
+    "I don't read newspaper very much.",
+    "{私|watashi} wa amari shinbun wo yomimasen.",
+    ""
+],
+[
+    "(My) neighbour has big eyes and (he's) not tall.",
+    "kinjo no {人|hito} wa me ga {大きくて|ookikute} se ga {高くない|takakunai} desu.",
+    ""
+],
+[
+    "The trip wasn't fun at all.",
+    "ryokou wa zenzen tanoshikunakatta desu.",
+    ""
+],
+[
+    "(I) had a headache last night. (I) didn't eat anything.",
+    "yuube atama ga itakatta desu. {何|nani} mo tabemasen deshita.",
+    ""
 ]
 ])
