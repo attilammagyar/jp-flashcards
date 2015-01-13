@@ -2128,5 +2128,45 @@ Flashcards.initialize([
         "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.", 
         "\u3067\u3082\u307e\u3060{\u4e8c\u5206|\u306b\u3075\u3093}{\u6709\u308a\u307e\u3059|\u3042\u308a\u307e\u3059}\u3002\u3088\u3086\u3046\u3067\u3059\u3002\u306a\u3064\u3053\u3055\u3093\u306f\u304d\u3063\u3068\u304d\u307e\u3059\u3002", 
         ""
+    ], 
+    [
+        "(I) want to be a doctor.", 
+        "\u3044\u3057\u3083\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002", 
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+    ], 
+    [
+        "(I) want to be a writer.", 
+        "\u3055\u3063\u304b\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002", 
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+    ], 
+    [
+        "(I) want to be a policeman.", 
+        "\u3051\u3044\u3055\u3064\u304b\u3093\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002", 
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+    ], 
+    [
+        "(I) want to be a lawyer.", 
+        "\u3079\u3093\u3054\u3057\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002", 
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+    ], 
+    [
+        "(I) want to be an astronaut.", 
+        "\u3046\u3061\u3085\u3046\u3072\u3053\u3046\u3057\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002", 
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+    ], 
+    [
+        "(I) want to be a bank-worker.", 
+        "\u304e\u3093\u3053\u3046\u3044\u3093\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002", 
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+    ], 
+    [
+        "When (I) was a child, (I) wanted to be a film star.", 
+        "\u3053\u3069\u3082\u306e\u3053\u308d\u3001\u3048\u3044\u304c\u30b9\u30bf\u30fc\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002", 
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~ (verb --&gt; \u3044 adj.); \u304b\u3063\u305f = past tense of \u3044 adj;"
+    ], 
+    [
+        "When (I) was a child, (I) wanted to be a firefighter.", 
+        "\u3053\u3069\u3082\u306e\u3053\u308d\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002", 
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~ (verb --&gt; \u3044 adj.); \u304b\u3063\u305f = past tense of \u3044 adj;"
     ]
 ])

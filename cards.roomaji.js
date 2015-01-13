@@ -2128,5 +2128,45 @@ Flashcards.initialize([
     "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
     "Demo mada {二分|nihun} {有ります|arimasu}. yoyuu desu. natsuko san wa kitto kimasu.",
     ""
+],
+[
+    "(I) want to be a doctor.",
+    "isha ni naritai desu.",
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+],
+[
+    "(I) want to be a writer.",
+    "sakka ni naritai desu.",
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+],
+[
+    "(I) want to be a policeman.",
+    "keisatsukan ni naritai desu.",
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+],
+[
+    "(I) want to be a lawyer.",
+    "bengoshi ni naritai desu.",
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+],
+[
+    "(I) want to be an astronaut.",
+    "uchuu hikoushi ni naritai desu.",
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+],
+[
+    "(I) want to be a bank-worker.",
+    "ginkou in ni naritai desu.",
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+],
+[
+    "When (I) was a child, (I) wanted to be a film star.",
+    "kodomo no koro, eiga _sutaa_ ni naritakatta desu.",
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj;"
+],
+[
+    "When (I) was a child, (I) wanted to be a firefighter.",
+    "kodomo no koro, shouboushi ni naritakatta desu.",
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj;"
 ]
 ])
