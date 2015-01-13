@@ -81,7 +81,7 @@ Flashcards.initialize([
 ],
 [
     "Over there, there's a gas station.",
-    "asoko ni _gasorinsutando_ ga {有ります|arimasu}.",
+    "asoko ni _gasorinsutando_ ga arimasu.",
     ""
 ],
 [
@@ -91,7 +91,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't like this picture very much.",
-    "kono e wa amari suki deha {有りません|arimasen}.",
+    "kono e wa amari suki deha arimasen.",
     ""
 ],
 [
@@ -116,7 +116,7 @@ Flashcards.initialize([
 ],
 [
     "There are a dog and a cat over there.",
-    "asoko ni {犬|inu} to {猫|neko} ga {居ます|imasu}.",
+    "asoko ni {犬|inu} to {猫|neko} ga imasu.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
@@ -371,7 +371,7 @@ Flashcards.initialize([
 ],
 [
     "Today is Claude Monet's exhibition. There are many famous works. [less formal]",
-    "kyou wa _kuroodo mone_ no tenrankai desu. yumei na sakuhin ga ippai {有ります|arimasu}.",
+    "kyou wa _kuroodo mone_ no tenrankai desu. yumei na sakuhin ga ippai arimasu.",
     ""
 ],
 [
@@ -491,12 +491,12 @@ Flashcards.initialize([
 ],
 [
     "It's OK. There is no problem.",
-    "daijoubu desu. mondai {有りません|arimasen}.",
+    "daijoubu desu. mondai arimasen.",
     ""
 ],
 [
     "Next door there is a capsule hotel.",
-    "tonari ni _kapuseruhoteru_ ga {有ります|arimasu}.",
+    "tonari ni _kapuseruhoteru_ ga arimasu.",
     ""
 ],
 [
@@ -531,27 +531,27 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, (do you) have (any) French newspapers?",
-    "sumimasen, _furansu_ no shinbun ga {有ります|arimasu} ka.",
+    "sumimasen, _furansu_ no shinbun ga arimasu ka.",
     ""
 ],
 [
     "On the second floor, there are televisions, computers, etc.",
-    "{二|ni} kai ni _terebi_ ya _konpyuutaa_ ga {有ります|arimasu}.",
+    "{二|ni} kai ni _terebi_ ya _konpyuutaa_ ga arimasu.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
     "On the second floor there is nothing.",
-    "{二|ni} kai ni {何|nani} mo {有りません|arimasen}.",
+    "{二|ni} kai ni {何|nani} mo arimasen.",
     ""
 ],
 [
     "There is no one at home.",
-    "uchi ni dare mo {居ません|imasen}.",
+    "uchi ni dare mo imasen.",
     ""
 ],
 [
     "Is (your) father in that office over there?",
-    "ano jimusho ni {お父さん|otousan} ga {居ます|imasu} ka.",
+    "ano jimusho ni {お父さん|otousan} ga imasu ka.",
     ""
 ],
 [
@@ -646,7 +646,7 @@ Flashcards.initialize([
 ],
 [
     "Today is Claude Monet's exhibition. There are many famous works. [more formal]",
-    "{今日|kyou} wa _kuroodo mone_ no tenrankai desu. yumei na sakuhin ga takusan {有ります|arimasu}.",
+    "{今日|kyou} wa _kuroodo mone_ no tenrankai desu. yumei na sakuhin ga takusan arimasu.",
     ""
 ],
 [
@@ -666,7 +666,7 @@ Flashcards.initialize([
 ],
 [
     "Tonight (I'll) be in Harajuku. (It's) fun, lively and (I) love Harajuku.",
-    "kon ya wa harajuku ni {居ます|imasu}. tanoshikute, nigiyakade, harajuku wa daisuki desu.",
+    "kon ya wa harajuku ni imasu. tanoshikute, nigiyakade, harajuku wa daisuki desu.",
     ""
 ],
 [
@@ -691,7 +691,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (I) have an English exam.",
-    "{明日|ashita} {英語|eigo} no shiken ga {有ります|arimasu}.",
+    "{明日|ashita} {英語|eigo} no shiken ga arimasu.",
     ""
 ],
 [
@@ -701,7 +701,7 @@ Flashcards.initialize([
 ],
 [
     "(I) have a Japanese language exam the day after tomorrow. I'm also very worried.",
-    "asatte {日本語|nihongo} no shiken ga {有ります|arimasu}. {私|watashi} mo totemo shinpai desu.",
+    "asatte {日本語|nihongo} no shiken ga arimasu. {私|watashi} mo totemo shinpai desu.",
     ""
 ],
 [
@@ -726,12 +726,12 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, do (you) have (any) summer kimonos?",
-    "sumimasen, yukata ga {有ります|arimasu} ka.",
+    "sumimasen, yukata ga arimasu ka.",
     ""
 ],
 [
     "Do (you) have (any) postcards?",
-    "hagaki ga {有ります|arimasu} ka.",
+    "hagaki ga arimasu ka.",
     ""
 ],
 [
@@ -891,67 +891,67 @@ Flashcards.initialize([
 ],
 [
     "(There) is a tree.",
-    "{木|ki} ga {有ります|arimasu}.",
+    "{木|ki} ga arimasu.",
     ""
 ],
 [
     "(There) are some Americans and some Japanese people. (There) aren't (any) English people.",
-    "_amerika_ {人|jin} to {日本人|nihonjin} ga {居ます|imasu}. igirisu {人|jin} ga {居ません|imasen}.",
+    "_amerika_ {人|jin} to {日本人|nihonjin} ga imasu. igirisu {人|jin} ga imasen.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
     "(There) are no English people (but others may be).",
-    "igirisu {人|jin} wa {居ません|imasen}.",
+    "igirisu {人|jin} wa imasen.",
     ""
 ],
 [
     "On the 3rd floor (there) is a supermarket.",
-    "{三|san} kai ni _suupaa_ ga {有ります|arimasu}.",
+    "{三|san} kai ni _suupaa_ ga arimasu.",
     ""
 ],
 [
     "(There) are French and English journalists in that office over there.",
-    "ano jimusho ni _furansu_ {人|jin} to igirisu {人|jin} no _jaanarisuto_ ga {居ます|imasu}.",
+    "ano jimusho ni _furansu_ {人|jin} to igirisu {人|jin} no _jaanarisuto_ ga imasu.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
     "What is on the 2nd floor?",
-    "{二|ni} kai ni {何|nani} ga {有ります|arimasu} ka.",
+    "{二|ni} kai ni {何|nani} ga arimasu ka.",
     ""
 ],
 [
     "What is on the 6th floor?",
-    "rokkai ni {何|nani} ga {有ります|arimasu} ka.",
+    "rokkai ni {何|nani} ga arimasu ka.",
     ""
 ],
 [
     "Who's in this office?",
-    "kono jimusho ni dare ga {居ます|imasu} ka.",
+    "kono jimusho ni dare ga imasu ka.",
     ""
 ],
 [
     "Is there anything on the second floor?",
-    "{二|ni} kai ni {何|nani} ka {有ります|arimasu} ka.",
+    "{二|ni} kai ni {何|nani} ka arimasu ka.",
     ""
 ],
 [
     "Is anyone at home? Yes, there is somebody.",
-    "uchi ni dare ka {居ます|imasu} ka. hai, dare ka {居ます|imasu}.",
+    "uchi ni dare ka imasu ka. hai, dare ka imasu.",
     ""
 ],
 [
     "There's nobody at home.",
-    "uchi ni dare mo {居ません|imasen}.",
+    "uchi ni dare mo imasen.",
     ""
 ],
 [
     "There's nothing on the second floor.",
-    "{二|ni} kai ni {何|nani} mo {有りません|arimasen}.",
+    "{二|ni} kai ni {何|nani} mo arimasen.",
     ""
 ],
 [
     "There's nothing on the first floor.",
-    "ikkai ni {何|nani} mo {有りません|arimasen}.",
+    "ikkai ni {何|nani} mo arimasen.",
     ""
 ],
 [
@@ -971,7 +971,7 @@ Flashcards.initialize([
 ],
 [
     "Because on Fridays you're not here, (I) love fridays",
-    "{金曜日|kin youbi} ni wa anata ga {居ません|imasen} kara, {金曜日|kin youbi} ga daisuki desu.",
+    "{金曜日|kin youbi} ni wa anata ga imasen kara, {金曜日|kin youbi} ga daisuki desu.",
     ""
 ],
 [
@@ -986,12 +986,12 @@ Flashcards.initialize([
 ],
 [
     "There are TVs, computers and so on on the second floor.",
-    "{二|ni} kai ni _terebi_ ya _konpyuutaa_ nado ga {有ります|arimasu}.",
+    "{二|ni} kai ni _terebi_ ya _konpyuutaa_ nado ga arimasu.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
     "There's both beer and rice-wine.",
-    "_biiru_ mo {お酒|osake} mo {有ります|arimasu}.",
+    "_biiru_ mo {お酒|osake} mo arimasu.",
     ""
 ],
 [
@@ -1041,27 +1041,27 @@ Flashcards.initialize([
 ],
 [
     "There's someone in the house.",
-    "uchi ni dare ka {居ます|imasu}.",
+    "uchi ni dare ka imasu.",
     ""
 ],
 [
     "There's no one in the house.",
-    "uchi ni dare mo {居ません|imasen}.",
+    "uchi ni dare mo imasen.",
     ""
 ],
 [
     "Is there anything on the 3rd floor?",
-    "{三|san} kai ni {何|nani} ka {有ります|arimasu} ka.",
+    "{三|san} kai ni {何|nani} ka arimasu ka.",
     ""
 ],
 [
     "No, there isn't anything.",
-    "iie, {何|nani} mo {有りません|arimasen}.",
+    "iie, {何|nani} mo arimasen.",
     ""
 ],
 [
     "Are (you) free tomorrow? Umm, tomorrow also, (I) have a little business to attend to.",
-    "{明日|ashita} wa hima desu ka. sou desu ne. {明日|ashita} mo chotto youji ga {有ります|arimasu}.",
+    "{明日|ashita} wa hima desu ka. sou desu ne. {明日|ashita} mo chotto youji ga arimasu.",
     ""
 ],
 [
@@ -1071,22 +1071,22 @@ Flashcards.initialize([
 ],
 [
     "Do (you) have time on Friday?",
-    "{金曜日|kin youbi} wa {時間|jikan} ga {有ります|arimasu} ka.",
+    "{金曜日|kin youbi} wa {時間|jikan} ga arimasu ka.",
     ""
 ],
 [
     "Where is the cinema?",
-    "eigakan wa doko ni {有ります|arimasu} ka.",
+    "eigakan wa doko ni arimasu ka.",
     ""
 ],
 [
     "The school is near here.",
-    "{学校|gakkou} wa kono chikaku ni {有ります|arimasu}.",
+    "{学校|gakkou} wa kono chikaku ni arimasu.",
     ""
 ],
 [
     "The post office is over there.",
-    "yuubinkyoku wa asoko ni {有ります|arimasu}.",
+    "yuubinkyoku wa asoko ni arimasu.",
     ""
 ],
 [
@@ -1096,7 +1096,7 @@ Flashcards.initialize([
 ],
 [
     "But because (I) like you, I'm here.",
-    "demo, anata ga suki desu kara, {私|watashi} wa koko ni {居ます|imasu}.",
+    "demo, anata ga suki desu kara, {私|watashi} wa koko ni imasu.",
     ""
 ],
 [
@@ -1121,12 +1121,12 @@ Flashcards.initialize([
 ],
 [
     "Where's the hotel? Do (you) know?",
-    "_hoteru_ wa doko ni {有ります|arimasu} ka. gozonji desu ka.",
+    "_hoteru_ wa doko ni arimasu ka. gozonji desu ka.",
     ""
 ],
 [
     "The hotel is behind the art gallery.",
-    "_hoteru_ wa bijutsukan no {後ろ|ushiro} ni {有ります|arimasu}.",
+    "_hoteru_ wa bijutsukan no {後ろ|ushiro} ni arimasu.",
     ""
 ],
 [
@@ -1136,22 +1136,22 @@ Flashcards.initialize([
 ],
 [
     "If (you) turn left at the crossroads, the bank will be on the right side.",
-    "kousaten wo hidari ni magaru to ginkou wa migi gawa ni {有ります|arimasu}.",
+    "kousaten wo hidari ni magaru to ginkou wa migi gawa ni arimasu.",
     "A-dictionary-form とB = if A then B"
 ],
 [
     "The art gallery is next door to the hotel.",
-    "bijutsukan wa _hoteru_ no tonari ni {有ります|arimasu}.",
+    "bijutsukan wa _hoteru_ no tonari ni arimasu.",
     ""
 ],
 [
     "Is there a post office near here?",
-    "kono chikaku ni yuubinkyoku ga {有ります|arimasu} ka.",
+    "kono chikaku ni yuubinkyoku ga arimasu ka.",
     ""
 ],
 [
     "At the front of the department store there is a bus stop.",
-    "_depaato_ no {前|mae} ni _basu_ tei ga {有ります|arimasu}.",
+    "_depaato_ no {前|mae} ni _basu_ tei ga arimasu.",
     ""
 ],
 [
@@ -1171,72 +1171,72 @@ Flashcards.initialize([
 ],
 [
     "The bank is next door to the restaurant.",
-    "ginkou wa _resutoran_ no tonari ni {有ります|arimasu}.",
+    "ginkou wa _resutoran_ no tonari ni arimasu.",
     ""
 ],
 [
     "The bus stop is to the side of the bank.",
-    "_basu_ tei wa ginkou no yoko ni {有ります|arimasu}.",
+    "_basu_ tei wa ginkou no yoko ni arimasu.",
     ""
 ],
 [
     "Ms. Natsuko is inside the theatre. Ms. Natsuko is in the theatre",
-    "natsuko san wa gekijou no {中|naka} ni {居ます|imasu}. natsuko san wa gekijou ni {居ます|imasu}.",
+    "natsuko san wa gekijou no {中|naka} ni imasu. natsuko san wa gekijou ni imasu.",
     ""
 ],
 [
     "The hotel is opposite the post office.",
-    "_hoteru_ wa yuubinkyoku no mukaigawa ni {有ります|arimasu}.",
+    "_hoteru_ wa yuubinkyoku no mukaigawa ni arimasu.",
     ""
 ],
 [
     "The restaurant is above the museum.",
-    "_resutoran_ wa hakubutsukan no {上|ue} ni {有ります|arimasu}.",
+    "_resutoran_ wa hakubutsukan no {上|ue} ni arimasu.",
     ""
 ],
 [
     "My camera is in that bag.",
-    "{私|watashi} no _kamera_ wa sono kaban no {中|naka} ni {有ります|arimasu}.",
+    "{私|watashi} no _kamera_ wa sono kaban no {中|naka} ni arimasu.",
     ""
 ],
 [
     "Ms. Natsuko is by me.",
-    "natsuko san wa {私|watashi} no soba ni {居ます|imasu}.",
+    "natsuko san wa {私|watashi} no soba ni imasu.",
     ""
 ],
 [
     "The school is near the museum. The teacher is in the school.",
-    "{学校|gakkou} wa hakubutsukan no chikaku ni {有ります|arimasu}. {先生|sensei} wa {学校|gakkou} ni {居ます|imasu}.",
+    "{学校|gakkou} wa hakubutsukan no chikaku ni arimasu. {先生|sensei} wa {学校|gakkou} ni imasu.",
     ""
 ],
 [
     "My business card is in (my) bag.",
-    "{私|watashi} no meishi wa kaban no {中|naka} ni {有ります|arimasu}.",
+    "{私|watashi} no meishi wa kaban no {中|naka} ni arimasu.",
     ""
 ],
 [
     "Who is (there) on the second floor? (It's) Ms. Natsuko (there).",
-    "{二|ni} kai ni dare ga {居ます|imasu} ka. natsuko san ga {居ます|imasu}.",
+    "{二|ni} kai ni dare ga imasu ka. natsuko san ga imasu.",
     ""
 ],
 [
     "Where is the supermarket? Where is the supermarket located?",
-    "_suupaa_ wa doko desu ka. _suupaa_ wa doko ni {有ります|arimasu} ka.",
+    "_suupaa_ wa doko desu ka. _suupaa_ wa doko ni arimasu ka.",
     ""
 ],
 [
     "What is opposite the post office?",
-    "yuubinkyoku no mukaigawa ni {何|nani} ga {有ります|arimasu} ka.",
+    "yuubinkyoku no mukaigawa ni {何|nani} ga arimasu ka.",
     ""
 ],
 [
     "Who is (there) in front of the bank?",
-    "ginkou no {前|mae} ni dare ga {居ます|imasu} ka.",
+    "ginkou no {前|mae} ni dare ga imasu ka.",
     ""
 ],
 [
     "Where is the post office located? (It's located) next door to the bank.",
-    "yuubinkyoku wa doko ni {有ります|arimasu} ka. ginkou no tonari ni {有ります|arimasu}.",
+    "yuubinkyoku wa doko ni arimasu ka. ginkou no tonari ni arimasu.",
     ""
 ],
 [
@@ -1306,7 +1306,7 @@ Flashcards.initialize([
 ],
 [
     "The post office is (located) opposite the bank. The post office is opposite the bank. There is a post office opposite the bank.",
-    "yuubinkyoku wa ginkou no mukaigawa ni {有ります|arimasu}. yuubinkyoku wa ginkou no mukaigawa desu. ginkou no mukaigawa ni yuubinkyoku ga {有ります|arimasu}.",
+    "yuubinkyoku wa ginkou no mukaigawa ni arimasu. yuubinkyoku wa ginkou no mukaigawa desu. ginkou no mukaigawa ni yuubinkyoku ga arimasu.",
     ""
 ],
 [
@@ -1416,7 +1416,7 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, where is the supermarket? Do you know? [polite] Yes, (I) know.",
-    "sumimasen, _suupaa_ wa doko ni {有ります|arimasu} ka. gozonji desu ka. hai, shitteimasu.",
+    "sumimasen, _suupaa_ wa doko ni arimasu ka. gozonji desu ka. hai, shitteimasu.",
     ""
 ],
 [
@@ -1426,7 +1426,7 @@ Flashcards.initialize([
 ],
 [
     "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
-    "{二つ|futatsu} me no shingou wo hidari ni magatte kudasai. _depaato_ wa hidarigawa ni {有ります|arimasu}. gekijou no tonari desu.",
+    "{二つ|futatsu} me no shingou wo hidari ni magatte kudasai. _depaato_ wa hidarigawa ni arimasu. gekijou no tonari desu.",
     ""
 ],
 [
@@ -1506,7 +1506,7 @@ Flashcards.initialize([
 ],
 [
     "My room is not very clean.",
-    "{私|watashi} no heya wa amari kirei deha {有りません|arimasen}.",
+    "{私|watashi} no heya wa amari kirei deha arimasen.",
     ""
 ],
 [
@@ -1701,7 +1701,7 @@ Flashcards.initialize([
 ],
 [
     "It's not cold. It's a hangover!",
-    "kaze deha {有りません|arimasen}. {二日yoi|futsukayoi} desu yo.",
+    "kaze deha arimasen. {二日yoi|futsukayoi} desu yo.",
     ""
 ],
 [
@@ -1711,7 +1711,7 @@ Flashcards.initialize([
 ],
 [
     "I'm a little quiet but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
-    "{私|watashi} wa sukoshi otonashii desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga suki desu ga _supootsu_ ga amari suki deha {有りません|arimasen}.",
+    "{私|watashi} wa sukoshi otonashii desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga suki desu ga _supootsu_ ga amari suki deha arimasen.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
@@ -1796,7 +1796,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't like rude people.",
-    "shitsurei na {人|hito} wa suki deha {有りません|arimasen}.",
+    "shitsurei na {人|hito} wa suki deha arimasen.",
     ""
 ],
 [
@@ -2051,7 +2051,7 @@ Flashcards.initialize([
 ],
 [
     "New Zealand has four seasons.",
-    "_nyuu jiirando_ wa kisetsu ga {四つ|yottsu} {有ります|arimasu}.",
+    "_nyuu jiirando_ wa kisetsu ga {四つ|yottsu} arimasu.",
     ""
 ],
 [
@@ -2126,7 +2126,7 @@ Flashcards.initialize([
 ],
 [
     "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
-    "Demo mada {二分|nihun} {有ります|arimasu}. yoyuu desu. natsuko san wa kitto kimasu.",
+    "Demo mada {二分|nihun} arimasu. yoyuu desu. natsuko san wa kitto kimasu.",
     ""
 ],
 [
