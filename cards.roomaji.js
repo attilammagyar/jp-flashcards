@@ -1091,7 +1091,7 @@ Flashcards.initialize([
 ],
 [
     "The truth is, I don't watch sports, nor play sports.",
-    "jitsu wa, {私|watashi} wa _supootsu_ wo mimasen shi, shimasen.",
+    "{実は|jitsu wa}, {私|watashi} wa _supootsu_ wo mimasen shi, shimasen.",
     ""
 ],
 [
@@ -2168,5 +2168,50 @@ Flashcards.initialize([
     "When (I) was a child, (I) wanted to be a firefighter.",
     "kodomo no koro, shouboushi ni naritakatta desu.",
     "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj;"
+],
+[
+    "Mr. Yamada didn't want to drink alcohol.",
+    "{山田|yamada} san wa {お酒|osake} wo nomitakunakatta desu.",
+    "のむ - のみたい - のみたく - のみたくない - のみたくなかった"
+],
+[
+    "Miki doesn't like beer very much.",
+    "{三木|miki} san wa _biiru_ ga amari suki deha arimasen.",
+    ""
+],
+[
+    "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
+    "maiasa natsuko san wa _koohii_ wo nominagara shinbun wo yomimasu.",
+    "Verb stem + ながら = while doing ~"
+],
+[
+    "Roger taught Miki how to do bowling.",
+    "_rojaa_ san wa {三木|miki} san ni _booringu_ no shikata wo oshiemashita.",
+    ""
+],
+[
+    "Ms. Natsuko went to the town to meet Miki.",
+    "natsuko san wa machi he {三木|miki} san ni ai ni ikimashita.",
+    "へ = to, towards, pronounced as え"
+],
+[
+    "This film looks interesting, doesn't it?",
+    "kono eiga wa omoshirosou desu ne.",
+    ""
+],
+[
+    "Roger likes sports the best/most.",
+    "_rojaa_ san wa _supootsu_ ga ichiban suki desu.",
+    ""
+],
+[
+    "Mr. Yamada wants to be a doctor in the future.",
+    "{山田|yamada} san wa shourai isha ni naritai desu.",
+    "Verb stem + たい = want to ~"
+],
+[
+    "Mr. Yamada works every day until late.",
+    "{山田|yamada} san wa {毎日|mainichi} osoku made shigoto wo shimasu.",
+    ""
 ]
 ])

@@ -1091,7 +1091,7 @@ Flashcards.initialize([
     ],
     [
         "The truth is, I don't watch sports, nor play sports.",
-        "\u3058\u3064\u306f\u3001{\u79c1|\u308f\u305f\u3057}\u306f\u30b9\u30dd\u30fc\u30c4\u3092\u307f\u307e\u305b\u3093\u3057\u3001\u3057\u307e\u305b\u3093\u3002",
+        "{\u5b9f\u306f|\u3058\u3064\u308f}\u3001{\u79c1|\u308f\u305f\u3057}\u306f\u30b9\u30dd\u30fc\u30c4\u3092\u307f\u307e\u305b\u3093\u3057\u3001\u3057\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -2168,5 +2168,50 @@ Flashcards.initialize([
         "When (I) was a child, (I) wanted to be a firefighter.",
         "\u3053\u3069\u3082\u306e\u3053\u308d\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
         "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~ (verb --&gt; \u3044 adj.); \u304b\u3063\u305f = past tense of \u3044 adj;"
+    ],
+    [
+        "Mr. Yamada didn't want to drink alcohol.",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u304a\u9152|\u304a\u3055\u3051}\u3092\u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
+        "\u306e\u3080 - \u306e\u307f\u305f\u3044 - \u306e\u307f\u305f\u304f - \u306e\u307f\u305f\u304f\u306a\u3044 - \u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f"
+    ],
+    [
+        "Miki doesn't like beer very much.",
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30d3\u30fc\u30eb\u304c\u3042\u307e\u308a\u3059\u304d\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+        ""
+    ],
+    [
+        "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
+        "\u307e\u3044\u3042\u3055\u306a\u3064\u3053\u3055\u3093\u306f\u30b3\u30fc\u30d2\u30fc\u3092\u306e\u307f\u306a\u304c\u3089\u3057\u3093\u3076\u3093\u3092\u3088\u307f\u307e\u3059\u3002",
+        "Verb stem + \u306a\u304c\u3089 = while doing ~"
+    ],
+    [
+        "Roger taught Miki how to do bowling.",
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b\u30dc\u30fc\u30ea\u30f3\u30b0\u306e\u3057\u304b\u305f\u3092\u304a\u3057\u3048\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Ms. Natsuko went to the town to meet Miki.",
+        "\u306a\u3064\u3053\u3055\u3093\u306f\u307e\u3061\u3078{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b\u3042\u3044\u306b\u3044\u304d\u307e\u3057\u305f\u3002",
+        "\u3078 = to, towards, pronounced as \u3048"
+    ],
+    [
+        "This film looks interesting, doesn't it?",
+        "\u3053\u306e\u3048\u3044\u304c\u306f\u304a\u3082\u3057\u308d\u305d\u3046\u3067\u3059\u306d\u3002",
+        ""
+    ],
+    [
+        "Roger likes sports the best/most.",
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f\u30b9\u30dd\u30fc\u30c4\u304c\u3044\u3061\u3070\u3093\u3059\u304d\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "Mr. Yamada wants to be a doctor in the future.",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3057\u3087\u3046\u3089\u3044\u3044\u3057\u3083\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
+        "Verb stem + \u305f\u3044 = want to ~"
+    ],
+    [
+        "Mr. Yamada works every day until late.",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u304a\u305d\u304f\u307e\u3067\u3057\u3054\u3068\u3092\u3057\u307e\u3059\u3002",
+        ""
     ]
 ])
