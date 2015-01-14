@@ -1157,7 +1157,7 @@ Flashcards.initialize([
 [
     "(I) want to drink a beer.",
     "_biiru_ wo nomitai desu.",
-    ""
+    "~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Last night (I) didn't drink (any) beer at all.",
@@ -1352,12 +1352,12 @@ Flashcards.initialize([
 [
     "(I) want to eat rice with chopsticks.",
     "ohashi de gohan wo tabetai desu.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to buy a Japanese camera.",
     "{日本|nihon} no _kamera_ wo kaitai desu.",
-    ""
+    "~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "What is (your) hobby? (My) hobby is paper folding.",
@@ -1487,12 +1487,12 @@ Flashcards.initialize([
 [
     "Do (you) want to meet again?",
     "mata aitai desu ka.",
-    ""
+    "~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "I hope to play tennis together next week.",
     "raishuu isshoni _tenisu_ wo shitai to omoimasu.",
-    ""
+    "~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "She is very kind but a bit serious.",
@@ -1522,7 +1522,7 @@ Flashcards.initialize([
 [
     "Next year I hope to go to Japan again.",
     "{来年|rainen} mata {日本|nihon} ni ikitai to omoimasu.",
-    ""
+    "~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "I have a headache.",
@@ -1640,9 +1640,9 @@ Flashcards.initialize([
     ""
 ],
 [
-    "I hope to eat sushi in Japan and I hope to see Mount Fuji.",
+    "(I) hope to eat sushi in Japan and I hope to see Mount Fuji.",
     "{日本|nihon} de sushi wo tabetai to omoimasu. soshite fuji san wo mitai to omoimasu.",
-    ""
+    "~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(It) isn't good.",
@@ -1912,7 +1912,7 @@ Flashcards.initialize([
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
     "{日本|ni hon} no shashin wo mimashita no de, ikitaku narimashita.",
-    ""
+    "~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I'm) full.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
     "ousaka ni ikitai desu. omoshirokunai {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga shigoto wa tsumaranakatta desu.",
-    "くない = negative of い adj; かった = past tense of い adj; くなかった = past negative of い adj."
+    "くない = negative of い adj; かった = past tense of い adj; くなかった = past negative of い adj; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -2132,47 +2132,47 @@ Flashcards.initialize([
 [
     "(I) want to be a doctor.",
     "isha ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a writer.",
     "sakka ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a policeman.",
     "keisatsukan ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a lawyer.",
     "bengoshi ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be an astronaut.",
     "uchuu hikoushi ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a bank-worker.",
     "ginkou in ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~"
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "When (I) was a child, (I) wanted to be a film star.",
     "kodomo no koro, eiga _sutaa_ ni naritakatta desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj;"
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "When (I) was a child, (I) wanted to be a firefighter.",
     "kodomo no koro, shouboushi ni naritakatta desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj;"
+    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
-    "Mr. Yamada didn't want to drink alcohol.",
-    "{山田|yamada} san wa {お酒|osake} wo nomitakunakatta desu.",
-    "のむ - のみたい - のみたく - のみたくない - のみたくなかった"
+    "(I) didn't want to drink alcohol.",
+    "{お酒|osake} wo nomitakunakatta desu.",
+    "のむ - のみたい - のみたく - のみたくない - のみたくなかった; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Miki doesn't like beer very much.",
@@ -2205,13 +2205,28 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Mr. Yamada wants to be a doctor in the future.",
-    "{山田|yamada} san wa shourai isha ni naritai desu.",
-    "Verb stem + たい = want to ~"
+    "(I) want to be a doctor in the future.",
+    "shourai isha ni naritai desu.",
+    "Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Mr. Yamada works every day until late.",
     "{山田|yamada} san wa {毎日|mainichi} osoku made shigoto wo shimasu.",
     ""
+],
+[
+    "I don't want to eat sushi. (I) don't want to eat sushi.",
+    "{私|watashi} wa sushi wo tabetakunai desu. sushi wa tabetakunai desu.",
+    "~たい: may use が instead of を; ~たい + negative: if topic is not mentioned then は can be used instead of が; ~たい is usually used only in first person or in questions for the second person"
+],
+[
+    "Last night (I) didn't want to drink beer.",
+    "yuube _biiru_ wa nomitakunakatta desu.",
+    "~たい: may use が instead of を; ~たい + negative: if topic is not mentioned then は can be used instead of が; ~たい is usually used only in first person or in questions for the second person"
+],
+[
+    "(I) want to eat a banana. (I) want to eat a banana.",
+    "_banana_ wo tabetai desu. _banana_ ga tabetai desu.",
+    "~たい: may use が instead of を; ~たい + negative: if topic is not mentioned then は can be used instead of が; ~たい is usually used only in first person or in questions for the second person"
 ]
 ])

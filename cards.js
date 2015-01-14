@@ -1157,7 +1157,7 @@ Flashcards.initialize([
     [
         "(I) want to drink a beer.",
         "\u30d3\u30fc\u30eb\u3092\u306e\u307f\u305f\u3044\u3067\u3059\u3002",
-        ""
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "Last night (I) didn't drink (any) beer at all.",
@@ -1352,12 +1352,12 @@ Flashcards.initialize([
     [
         "(I) want to eat rice with chopsticks.",
         "\u304a\u306f\u3057\u3067\u3054\u306f\u3093\u3092\u305f\u3079\u305f\u3044\u3067\u3059\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to buy a Japanese camera.",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u306e\u30ab\u30e1\u30e9\u3092\u304b\u3044\u305f\u3044\u3067\u3059\u3002",
-        ""
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "What is (your) hobby? (My) hobby is paper folding.",
@@ -1487,12 +1487,12 @@ Flashcards.initialize([
     [
         "Do (you) want to meet again?",
         "\u307e\u305f\u3042\u3044\u305f\u3044\u3067\u3059\u304b\u3002",
-        ""
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "I hope to play tennis together next week.",
         "\u3089\u3044\u3057\u3085\u3046\u3044\u3063\u3057\u3087\u306b\u30c6\u30cb\u30b9\u3092\u3057\u305f\u3044\u3068\u304a\u3082\u3044\u307e\u3059\u3002",
-        ""
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "She is very kind but a bit serious.",
@@ -1522,7 +1522,7 @@ Flashcards.initialize([
     [
         "Next year I hope to go to Japan again.",
         "{\u6765\u5e74|\u3089\u3044\u306d\u3093}\u307e\u305f{\u65e5\u672c|\u306b\u307b\u3093}\u306b\u3044\u304d\u305f\u3044\u3068\u304a\u3082\u3044\u307e\u3059\u3002",
-        ""
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "I have a headache.",
@@ -1640,9 +1640,9 @@ Flashcards.initialize([
         ""
     ],
     [
-        "I hope to eat sushi in Japan and I hope to see Mount Fuji.",
+        "(I) hope to eat sushi in Japan and I hope to see Mount Fuji.",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u3067\u3059\u3057\u3092\u305f\u3079\u305f\u3044\u3068\u304a\u3082\u3044\u307e\u3059\u3002\u305d\u3057\u3066\u3075\u3058\u3055\u3093\u3092\u307f\u305f\u3044\u3068\u304a\u3082\u3044\u307e\u3059\u3002",
-        ""
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(It) isn't good.",
@@ -1912,7 +1912,7 @@ Flashcards.initialize([
     [
         "Since (I) saw photos of Japan, (I) got wanting to go.",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u306e\u3057\u3083\u3057\u3093\u3092\u307f\u307e\u3057\u305f\u306e\u3067\u3001\u3044\u304d\u305f\u304f\u306a\u308a\u307e\u3057\u305f\u3002",
-        ""
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I'm) full.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
     [
         "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
         "\u304a\u3046\u3055\u304b\u306b\u3044\u304d\u305f\u3044\u3067\u3059\u3002\u304a\u3082\u3057\u308d\u304f\u306a\u3044{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304b\u3002\u304a\u3046\u3055\u304b\u306f\u3059\u3070\u3089\u3057\u3044{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304c\u3057\u3054\u3068\u306f\u3064\u307e\u3089\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
-        "\u304f\u306a\u3044 = negative of \u3044 adj; \u304b\u3063\u305f = past tense of \u3044 adj; \u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj."
+        "\u304f\u306a\u3044 = negative of \u3044 adj; \u304b\u3063\u305f = past tense of \u3044 adj; \u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -2132,47 +2132,47 @@ Flashcards.initialize([
     [
         "(I) want to be a doctor.",
         "\u3044\u3057\u3083\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a writer.",
         "\u3055\u3063\u304b\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a policeman.",
         "\u3051\u3044\u3055\u3064\u304b\u3093\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a lawyer.",
         "\u3079\u3093\u3054\u3057\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be an astronaut.",
         "\u3046\u3061\u3085\u3046\u3072\u3053\u3046\u3057\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a bank-worker.",
         "\u304e\u3093\u3053\u3046\u3044\u3093\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "When (I) was a child, (I) wanted to be a film star.",
         "\u3053\u3069\u3082\u306e\u3053\u308d\u3001\u3048\u3044\u304c\u30b9\u30bf\u30fc\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~ (verb --&gt; \u3044 adj.); \u304b\u3063\u305f = past tense of \u3044 adj;"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~ (verb --&gt; \u3044 adj.); \u304b\u3063\u305f = past tense of \u3044 adj; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "When (I) was a child, (I) wanted to be a firefighter.",
         "\u3053\u3069\u3082\u306e\u3053\u308d\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~ (verb --&gt; \u3044 adj.); \u304b\u3063\u305f = past tense of \u3044 adj;"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~ (verb --&gt; \u3044 adj.); \u304b\u3063\u305f = past tense of \u3044 adj; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
-        "Mr. Yamada didn't want to drink alcohol.",
-        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u304a\u9152|\u304a\u3055\u3051}\u3092\u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
-        "\u306e\u3080 - \u306e\u307f\u305f\u3044 - \u306e\u307f\u305f\u304f - \u306e\u307f\u305f\u304f\u306a\u3044 - \u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f"
+        "(I) didn't want to drink alcohol.",
+        "{\u304a\u9152|\u304a\u3055\u3051}\u3092\u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
+        "\u306e\u3080 - \u306e\u307f\u305f\u3044 - \u306e\u307f\u305f\u304f - \u306e\u307f\u305f\u304f\u306a\u3044 - \u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "Miki doesn't like beer very much.",
@@ -2205,13 +2205,28 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Mr. Yamada wants to be a doctor in the future.",
-        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3057\u3087\u3046\u3089\u3044\u3044\u3057\u3083\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Verb stem + \u305f\u3044 = want to ~"
+        "(I) want to be a doctor in the future.",
+        "\u3057\u3087\u3046\u3089\u3044\u3044\u3057\u3083\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
+        "Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "Mr. Yamada works every day until late.",
         "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u304a\u305d\u304f\u307e\u3067\u3057\u3054\u3068\u3092\u3057\u307e\u3059\u3002",
         ""
+    ],
+    [
+        "I don't want to eat sushi. (I) don't want to eat sushi.",
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u3059\u3057\u3092\u305f\u3079\u305f\u304f\u306a\u3044\u3067\u3059\u3002\u3059\u3057\u306f\u305f\u3079\u305f\u304f\u306a\u3044\u3067\u3059\u3002",
+        "~\u305f\u3044: may use \u304c instead of \u3092; ~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+    ],
+    [
+        "Last night (I) didn't want to drink beer.",
+        "\u3086\u3046\u3079\u30d3\u30fc\u30eb\u306f\u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
+        "~\u305f\u3044: may use \u304c instead of \u3092; ~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+    ],
+    [
+        "(I) want to eat a banana. (I) want to eat a banana.",
+        "\u30d0\u30ca\u30ca\u3092\u305f\u3079\u305f\u3044\u3067\u3059\u3002\u30d0\u30ca\u30ca\u304c\u305f\u3079\u305f\u3044\u3067\u3059\u3002",
+        "~\u305f\u3044: may use \u304c instead of \u3092; ~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ]
 ])
