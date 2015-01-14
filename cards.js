@@ -26,12 +26,12 @@ Flashcards.initialize([
     ],
     [
         "This newspaper is Ichirou's.",
-        "\u3053\u306e\u3057\u3093\u3076\u3093\u306f\u3044\u3061\u308d\u3046\u306e\u3067\u3059\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u3057\u3093\u3076\u3093\u306f\u3044\u3061\u308d\u3046\u306e\u3067\u3059\u3002",
         ""
     ],
     [
         "How much is this bicycle?",
-        "\u3053\u306e\u3058\u3066\u3093\u3057\u3083\u306f\u3044\u304f\u3089\u3067\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u3058\u3066\u3093\u3057\u3083\u306f\u3044\u304f\u3089\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -91,7 +91,7 @@ Flashcards.initialize([
     ],
     [
         "(I) don't like this picture very much.",
-        "\u3053\u306e\u3048\u306f\u3042\u307e\u308a\u3059\u304d\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u3048\u306f\u3042\u307e\u308a\u3059\u304d\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -111,7 +111,7 @@ Flashcards.initialize([
     ],
     [
         "Is this cold-medicine the strongest?",
-        "\u3053\u306e\u304b\u305c\u3050\u3059\u308a\u306f\u3044\u3061\u3070\u3093\u3064\u3088\u3044\u3067\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u304b\u305c\u3050\u3059\u308a\u306f\u3044\u3061\u3070\u3093\u3064\u3088\u3044\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -236,7 +236,7 @@ Flashcards.initialize([
     ],
     [
         "Sometimes (I) go home early.",
-        "{\u6642\u3005|\u3068\u304d\u3069\u304d}\u306f\u3084\u304f\u3046\u3061\u306b\u304b\u3048\u308a\u307e\u3059\u3002",
+        "{\u6642\u3005|\u3068\u304d\u3069\u304d}\u306f\u3084\u304f{\u5bb6|\u3046\u3061}\u306b\u304b\u3048\u308a\u307e\u3059\u3002",
         ""
     ],
     [
@@ -301,7 +301,7 @@ Flashcards.initialize([
     ],
     [
         "(My) wife does not clean the house.",
-        "\u3064\u307e\u306f\u3046\u3061\u3092\u305d\u3046\u3058\u3092\u3057\u307e\u305b\u3093\u3002",
+        "\u3064\u307e\u306f{\u5bb6|\u3046\u3061}\u3092\u305d\u3046\u3058\u3092\u3057\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -346,7 +346,7 @@ Flashcards.initialize([
     ],
     [
         "Sometimes (I) play golf with (my) colleagues, but usually (I) chill out with (my) family at home.",
-        "{\u6642\u3005|\u3068\u304d\u3069\u304d}\u3058\u3080\u3057\u3087\u306e{\u4eba|\u3072\u3068}\u3068\u30b4\u30eb\u30d5\u3092\u3057\u307e\u3059\u304c\u305f\u3044\u3066\u3044\u304b\u305e\u3053\u304f\u3068\u3046\u3061\u3067\u3054\u308d\u3054\u308d\u3057\u307e\u3059\u3002",
+        "{\u6642\u3005|\u3068\u304d\u3069\u304d}\u3058\u3080\u3057\u3087\u306e{\u4eba|\u3072\u3068}\u3068\u30b4\u30eb\u30d5\u3092\u3057\u307e\u3059\u304c\u305f\u3044\u3066\u3044\u304b\u305e\u3053\u304f\u3068{\u5bb6|\u3046\u3061}\u3067\u3054\u308d\u3054\u308d\u3057\u307e\u3059\u3002",
         ""
     ],
     [
@@ -356,12 +356,12 @@ Flashcards.initialize([
     ],
     [
         "Are these red shoes nice?",
-        "\u3053\u306e\u3042\u304b\u3044\u304f\u3064\u306f\u3059\u3066\u304d\u3067\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u3042\u304b\u3044\u304f\u3064\u306f\u3059\u3066\u304d\u3067\u3059\u304b\u3002",
         ""
     ],
     [
         "Is this blue dress beautiful?",
-        "\u3053\u306e\u3042\u304a\u3044\u30c9\u30ec\u30b9\u306f\u304d\u308c\u3044\u3067\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u3042\u304a\u3044\u30c9\u30ec\u30b9\u306f\u304d\u308c\u3044\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -406,7 +406,7 @@ Flashcards.initialize([
     ],
     [
         "(I) always return home late. Occasionally (I) eat dinner with (my) family.",
-        "\u3044\u3064\u3082\u304a\u305d\u304f\u3046\u3061\u306b\u304b\u3048\u308a\u307e\u3059\u3002\u305f\u307e\u306b\u304b\u305e\u304f\u3068\u3070\u3093\u3054\u306f\u3093\u3092\u305f\u3079\u307e\u3059\u3002",
+        "\u3044\u3064\u3082\u304a\u305d\u304f{\u5bb6|\u3046\u3061}\u306b\u304b\u3048\u308a\u307e\u3059\u3002\u305f\u307e\u306b\u304b\u305e\u304f\u3068\u3070\u3093\u3054\u306f\u3093\u3092\u305f\u3079\u307e\u3059\u3002",
         ""
     ],
     [
@@ -426,7 +426,7 @@ Flashcards.initialize([
     ],
     [
         "(I) don't clean the house.",
-        "\u3046\u3061\u3092\u305d\u3046\u3058\u3092\u3057\u307e\u305b\u3093\u3002",
+        "{\u5bb6|\u3046\u3061}\u3092\u305d\u3046\u3058\u3092\u3057\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -436,7 +436,7 @@ Flashcards.initialize([
     ],
     [
         "What time do (you) go home?",
-        "{\u4f55\u6642|\u306a\u3093\u3058}\u306b\u3046\u3061\u306b\u304b\u3048\u308a\u307e\u3059\u304b\u3002",
+        "{\u4f55\u6642|\u306a\u3093\u3058}\u306b{\u5bb6|\u3046\u3061}\u306b\u304b\u3048\u308a\u307e\u3059\u304b\u3002",
         ""
     ],
     [
@@ -511,7 +511,7 @@ Flashcards.initialize([
     ],
     [
         "(I'll have) 2 of these Christmas cards please.",
-        "\u3053\u306e\u30af\u30ea\u30b9\u30de\u30b9\u30fb\u30ab\u30fc\u30c9\u3092{\u4e8c|\u306b}\u307e\u3044\u304f\u3060\u3055\u3044\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u30af\u30ea\u30b9\u30de\u30b9\u30fb\u30ab\u30fc\u30c9\u3092{\u4e8c|\u306b}\u307e\u3044\u304f\u3060\u3055\u3044\u3002",
         ""
     ],
     [
@@ -546,7 +546,7 @@ Flashcards.initialize([
     ],
     [
         "There is no one at home.",
-        "\u3046\u3061\u306b\u3060\u308c\u3082\u3044\u307e\u305b\u3093\u3002",
+        "{\u5bb6|\u3046\u3061}\u306b\u3060\u308c\u3082\u3044\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -711,7 +711,7 @@ Flashcards.initialize([
     ],
     [
         "(That's) good. (We'll) do that. Tonight what time is OK?",
-        "\u3044\u3044\u3067\u3059\u306d\u3002\u305d\u3046\u3057\u307e\u3059\u3002\u3053\u3093\u3084{\u4f55\u6642|\u306a\u3093\u3058}\u304c\u3044\u3044\u3067\u3059\u304b\u3002",
+        "{\u826f\u3044|\u3044\u3044}\u3067\u3059\u306d\u3002\u305d\u3046\u3057\u307e\u3059\u3002\u3053\u3093\u3084{\u4f55\u6642|\u306a\u3093\u3058}\u304c{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -746,7 +746,7 @@ Flashcards.initialize([
     ],
     [
         "How much is this folding fan?",
-        "\u3053\u306e\u305b\u3093\u3059\u306f\u3044\u304f\u3089\u3067\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u305b\u3093\u3059\u306f\u3044\u304f\u3089\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -766,7 +766,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) have this watch and this bag please?",
-        "\u3053\u306e\u3068\u3051\u3044\u3068\u3053\u306e\u304b\u3070\u3093\u3092\u304f\u3060\u3055\u3044\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u3068\u3051\u3044\u3068{\u6b64\u306e|\u3053\u306e}\u304b\u3070\u3093\u3092\u304f\u3060\u3055\u3044\u3002",
         "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
@@ -926,7 +926,7 @@ Flashcards.initialize([
     ],
     [
         "Who's in this office?",
-        "\u3053\u306e\u3058\u3080\u3057\u3087\u306b\u3060\u308c\u304c\u3044\u307e\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u3058\u3080\u3057\u3087\u306b\u3060\u308c\u304c\u3044\u307e\u3059\u304b\u3002",
         ""
     ],
     [
@@ -936,12 +936,12 @@ Flashcards.initialize([
     ],
     [
         "Is anyone at home? Yes, there is somebody.",
-        "\u3046\u3061\u306b\u3060\u308c\u304b\u3044\u307e\u3059\u304b\u3002\u306f\u3044\u3001\u3060\u308c\u304b\u3044\u307e\u3059\u3002",
+        "{\u5bb6|\u3046\u3061}\u306b\u3060\u308c\u304b\u3044\u307e\u3059\u304b\u3002\u306f\u3044\u3001\u3060\u308c\u304b\u3044\u307e\u3059\u3002",
         ""
     ],
     [
         "There's nobody at home.",
-        "\u3046\u3061\u306b\u3060\u308c\u3082\u3044\u307e\u305b\u3093\u3002",
+        "{\u5bb6|\u3046\u3061}\u306b\u3060\u308c\u3082\u3044\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -961,7 +961,7 @@ Flashcards.initialize([
     ],
     [
         "This camera is 9999 yen.",
-        "\u3053\u306e\u30ab\u30e1\u30e9\u306f{\u4e5d\u5343\u4e5d\u767e\u4e5d\u5341\u4e5d\u5186|\u304d\u3085\u3046\u305b\u3093\u304d\u3085\u3046\u3072\u3083\u304f\u304d\u3085\u3046\u3058\u3085\u3046\u304d\u3085\u3046\u3048\u3093}\u3067\u3059\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u30ab\u30e1\u30e9\u306f{\u4e5d\u5343\u4e5d\u767e\u4e5d\u5341\u4e5d\u5186|\u304d\u3085\u3046\u305b\u3093\u304d\u3085\u3046\u3072\u3083\u304f\u304d\u3085\u3046\u3058\u3085\u3046\u304d\u3085\u3046\u3048\u3093}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -996,7 +996,7 @@ Flashcards.initialize([
     ],
     [
         "Both (my) mom and dad work in this company.",
-        "{\u6bcd|\u306f\u306f}\u3082{\u7236|\u3061\u3061}\u3082\u3053\u306e\u304b\u3044\u3057\u3083\u3067\u306f\u305f\u3089\u304d\u307e\u3059\u3002",
+        "{\u6bcd|\u306f\u306f}\u3082{\u7236|\u3061\u3061}\u3082{\u6b64\u306e|\u3053\u306e}\u304b\u3044\u3057\u3083\u3067\u306f\u305f\u3089\u304d\u307e\u3059\u3002",
         ""
     ],
     [
@@ -1016,7 +1016,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) have 3 of this postcard and 3 of the 75 yen stamps as well please?",
-        "\u3053\u306e\u306f\u304c\u304d\u3092{\u4e09|\u3055\u3093}\u307e\u3044\u3068{\u4e03\u5341\u4e94\u5186|\u306a\u306a\u3058\u3085\u3046\u3054\u3048\u3093}\u306e\u304d\u3063\u3066\u3082{\u4e09|\u3055\u3093}\u307e\u3044\u304f\u3060\u3055\u3044\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u306f\u304c\u304d\u3092{\u4e09|\u3055\u3093}\u307e\u3044\u3068{\u4e03\u5341\u4e94\u5186|\u306a\u306a\u3058\u3085\u3046\u3054\u3048\u3093}\u306e\u304d\u3063\u3066\u3082{\u4e09|\u3055\u3093}\u307e\u3044\u304f\u3060\u3055\u3044\u3002",
         "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
@@ -1041,12 +1041,12 @@ Flashcards.initialize([
     ],
     [
         "There's someone in the house.",
-        "\u3046\u3061\u306b\u3060\u308c\u304b\u3044\u307e\u3059\u3002",
+        "{\u5bb6|\u3046\u3061}\u306b\u3060\u308c\u304b\u3044\u307e\u3059\u3002",
         ""
     ],
     [
         "There's no one in the house.",
-        "\u3046\u3061\u306b\u3060\u308c\u3082\u3044\u307e\u305b\u3093\u3002",
+        "{\u5bb6|\u3046\u3061}\u306b\u3060\u308c\u3082\u3044\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -1081,7 +1081,7 @@ Flashcards.initialize([
     ],
     [
         "The school is near here.",
-        "{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306f\u3053\u306e\u3061\u304b\u304f\u306b\u3042\u308a\u307e\u3059\u3002",
+        "{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306f{\u6b64\u306e|\u3053\u306e}\u3061\u304b\u304f\u306b\u3042\u308a\u307e\u3059\u3002",
         ""
     ],
     [
@@ -1146,7 +1146,7 @@ Flashcards.initialize([
     ],
     [
         "Is there a post office near here?",
-        "\u3053\u306e\u3061\u304b\u304f\u306b\u3086\u3046\u3073\u3093\u304d\u3087\u304f\u304c\u3042\u308a\u307e\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u3061\u304b\u304f\u306b\u3086\u3046\u3073\u3093\u304d\u3087\u304f\u304c\u3042\u308a\u307e\u3059\u304b\u3002",
         ""
     ],
     [
@@ -1466,7 +1466,7 @@ Flashcards.initialize([
     ],
     [
         "That person is nice.",
-        "\u3042\u306e{\u4eba|\u3072\u3068}\u306f\u3044\u3044\u3067\u3059\u3002",
+        "\u3042\u306e{\u4eba|\u3072\u3068}\u306f{\u826f\u3044|\u3044\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -1646,7 +1646,7 @@ Flashcards.initialize([
     ],
     [
         "(It) isn't good.",
-        "\u3088\u304f\u306a\u3044\u3067\u3059\u3002",
+        "{\u826f\u304f\u306a\u3044|\u3088\u304f\u306a\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -1721,7 +1721,7 @@ Flashcards.initialize([
     ],
     [
         "This department store is very busy, isn't it!",
-        "\u3053\u306e\u30c7\u30d1\u30fc\u30c8\u306f\u3068\u3066\u3082\u306b\u304e\u3084\u304b\u3067\u3059\u306d\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u30c7\u30d1\u30fc\u30c8\u306f\u3068\u3066\u3082\u306b\u304e\u3084\u304b\u3067\u3059\u306d\u3002",
         ""
     ],
     [
@@ -1741,7 +1741,7 @@ Flashcards.initialize([
     ],
     [
         "(It) was nice and enjoyable.",
-        "\u3088\u304f\u3066\u305f\u306e\u3057\u304b\u3063\u305f\u3067\u3059\u3002",
+        "{\u826f\u304f\u3066|\u3088\u304f\u3066}\u305f\u306e\u3057\u304b\u3063\u305f\u3067\u3059\u3002",
         ""
     ],
     [
@@ -1756,7 +1756,7 @@ Flashcards.initialize([
     ],
     [
         "This book was boring and disagreeable.",
-        "\u3053\u306e{\u672c|\u307b\u3093}\u306f\u3064\u307e\u3089\u306a\u304f\u3066\u3075\u3086\u304b\u3044\u3067\u3057\u305f\u3002",
+        "{\u6b64\u306e|\u3053\u306e}{\u672c|\u307b\u3093}\u306f\u3064\u307e\u3089\u306a\u304f\u3066\u3075\u3086\u304b\u3044\u3067\u3057\u305f\u3002",
         ""
     ],
     [
@@ -1831,7 +1831,7 @@ Flashcards.initialize([
     ],
     [
         "Tomorrow's weather will probably be cloudy, later (it will) rain.",
-        "{\u660e\u65e5|\u3042\u3057\u305f}\u306e{\u5929\u6c17|\u3066\u3093\u304d}\u306f\u304f\u3082\u308a\u3001\u306e\u3061{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
+        "{\u660e\u65e5|\u3042\u3057\u305f}\u306e{\u5929\u6c17|\u3066\u3093\u304d}\u306f\u304f\u3082\u308a\u3001{\u5f8c|\u306e\u3061}{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
         ""
     ],
     [
@@ -1921,7 +1921,7 @@ Flashcards.initialize([
     ],
     [
         "(It will) probably be cloudy, later rain.",
-        "\u304f\u3082\u308a\u306e\u3061{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
+        "\u304f\u3082\u308a{\u5f8c|\u306e\u3061}{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
         ""
     ],
     [
@@ -1941,7 +1941,7 @@ Flashcards.initialize([
     ],
     [
         "(It will) probably rain, later (it will be) fine.",
-        "{\u96e8|\u3042\u3081}\u306e\u3061\u306f\u308c\u3067\u3057\u3087\u3046\u3002",
+        "{\u96e8|\u3042\u3081}{\u5f8c|\u306e\u3061}\u306f\u308c\u3067\u3057\u3087\u3046\u3002",
         ""
     ],
     [
@@ -1996,7 +1996,7 @@ Flashcards.initialize([
     ],
     [
         "(I) went to (my) mom's house by car.",
-        "{\u6bcd|\u306f\u306f}\u306e\u3046\u3061\u306b\u304f\u308b\u307e\u3067\u3044\u304d\u307e\u3057\u305f\u3002",
+        "{\u6bcd|\u306f\u306f}\u306e{\u5bb6|\u3046\u3061}\u306b\u304f\u308b\u307e\u3067\u3044\u304d\u307e\u3057\u305f\u3002",
         "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); A \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
@@ -2046,7 +2046,7 @@ Flashcards.initialize([
     ],
     [
         "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
-        "{\u660e\u65e5|\u3042\u3057\u305f}\u306f\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002{\u96e8|\u3042\u3081}\u306e\u3061{\u96ea|\u3086\u304d}\u3067\u3057\u3087\u3046\u3002\u3044\u3084\u3067\u3059\u306d\u3002",
+        "{\u660e\u65e5|\u3042\u3057\u305f}\u306f\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002{\u96e8|\u3042\u3081}{\u5f8c|\u306e\u3061}{\u96ea|\u3086\u304d}\u3067\u3057\u3087\u3046\u3002\u3044\u3084\u3067\u3059\u306d\u3002",
         "\u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
@@ -2196,7 +2196,7 @@ Flashcards.initialize([
     ],
     [
         "This film looks interesting, doesn't it?",
-        "\u3053\u306e\u3048\u3044\u304c\u306f\u304a\u3082\u3057\u308d\u305d\u3046\u3067\u3059\u306d\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u3048\u3044\u304c\u306f\u304a\u3082\u3057\u308d\u305d\u3046\u3067\u3059\u306d\u3002",
         ""
     ],
     [

@@ -26,12 +26,12 @@ Flashcards.initialize([
 ],
 [
     "This newspaper is Ichirou's.",
-    "kono shinbun wa ichirou no desu.",
+    "{此の|kono} shinbun wa ichirou no desu.",
     ""
 ],
 [
     "How much is this bicycle?",
-    "kono jitensha wa ikura desu ka.",
+    "{此の|kono} jitensha wa ikura desu ka.",
     ""
 ],
 [
@@ -91,7 +91,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't like this picture very much.",
-    "kono e wa amari suki deha arimasen.",
+    "{此の|kono} e wa amari suki deha arimasen.",
     ""
 ],
 [
@@ -111,7 +111,7 @@ Flashcards.initialize([
 ],
 [
     "Is this cold-medicine the strongest?",
-    "kono kazegusuri wa ichiban tsuyoi desu ka.",
+    "{此の|kono} kazegusuri wa ichiban tsuyoi desu ka.",
     ""
 ],
 [
@@ -236,7 +236,7 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) go home early.",
-    "{時々|tokidoki} hayaku uchi ni kaerimasu.",
+    "{時々|tokidoki} hayaku {家|uchi} ni kaerimasu.",
     ""
 ],
 [
@@ -301,7 +301,7 @@ Flashcards.initialize([
 ],
 [
     "(My) wife does not clean the house.",
-    "tsuma wa uchi wo souji wo shimasen.",
+    "tsuma wa {家|uchi} wo souji wo shimasen.",
     ""
 ],
 [
@@ -346,7 +346,7 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) play golf with (my) colleagues, but usually (I) chill out with (my) family at home.",
-    "{時々|tokidoki} jimusho no {人|hito} to _gorufu_ wo shimasu ga taitei kazokoku to uchi de gorogoro shimasu.",
+    "{時々|tokidoki} jimusho no {人|hito} to _gorufu_ wo shimasu ga taitei kazokoku to {家|uchi} de gorogoro shimasu.",
     ""
 ],
 [
@@ -356,12 +356,12 @@ Flashcards.initialize([
 ],
 [
     "Are these red shoes nice?",
-    "kono akai kutsu wa suteki desu ka.",
+    "{此の|kono} akai kutsu wa suteki desu ka.",
     ""
 ],
 [
     "Is this blue dress beautiful?",
-    "kono aoi _doresu_ wa kirei desu ka.",
+    "{此の|kono} aoi _doresu_ wa kirei desu ka.",
     ""
 ],
 [
@@ -406,7 +406,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always return home late. Occasionally (I) eat dinner with (my) family.",
-    "itsumo osoku uchi ni kaerimasu. tamani kazoku to bangohan wo tabemasu.",
+    "itsumo osoku {家|uchi} ni kaerimasu. tamani kazoku to bangohan wo tabemasu.",
     ""
 ],
 [
@@ -426,7 +426,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't clean the house.",
-    "uchi wo souji wo shimasen.",
+    "{家|uchi} wo souji wo shimasen.",
     ""
 ],
 [
@@ -436,7 +436,7 @@ Flashcards.initialize([
 ],
 [
     "What time do (you) go home?",
-    "{何時|nanji} ni uchi ni kaerimasu ka.",
+    "{何時|nanji} ni {家|uchi} ni kaerimasu ka.",
     ""
 ],
 [
@@ -511,7 +511,7 @@ Flashcards.initialize([
 ],
 [
     "(I'll have) 2 of these Christmas cards please.",
-    "kono _kurisumasu kaado_ wo {二|ni} mai kudasai.",
+    "{此の|kono} _kurisumasu kaado_ wo {二|ni} mai kudasai.",
     ""
 ],
 [
@@ -546,7 +546,7 @@ Flashcards.initialize([
 ],
 [
     "There is no one at home.",
-    "uchi ni dare mo imasen.",
+    "{家|uchi} ni dare mo imasen.",
     ""
 ],
 [
@@ -711,7 +711,7 @@ Flashcards.initialize([
 ],
 [
     "(That's) good. (We'll) do that. Tonight what time is OK?",
-    "ii desu ne. sou shimasu. kon ya {何時|nanji} ga ii desu ka.",
+    "{良い|ii} desu ne. sou shimasu. kon ya {何時|nanji} ga {良い|ii} desu ka.",
     ""
 ],
 [
@@ -746,7 +746,7 @@ Flashcards.initialize([
 ],
 [
     "How much is this folding fan?",
-    "kono sensu wa ikura desu ka.",
+    "{此の|kono} sensu wa ikura desu ka.",
     ""
 ],
 [
@@ -766,7 +766,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have this watch and this bag please?",
-    "kono tokei to kono kaban wo kudasai.",
+    "{此の|kono} tokei to {此の|kono} kaban wo kudasai.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
@@ -926,7 +926,7 @@ Flashcards.initialize([
 ],
 [
     "Who's in this office?",
-    "kono jimusho ni dare ga imasu ka.",
+    "{此の|kono} jimusho ni dare ga imasu ka.",
     ""
 ],
 [
@@ -936,12 +936,12 @@ Flashcards.initialize([
 ],
 [
     "Is anyone at home? Yes, there is somebody.",
-    "uchi ni dare ka imasu ka. hai, dare ka imasu.",
+    "{家|uchi} ni dare ka imasu ka. hai, dare ka imasu.",
     ""
 ],
 [
     "There's nobody at home.",
-    "uchi ni dare mo imasen.",
+    "{家|uchi} ni dare mo imasen.",
     ""
 ],
 [
@@ -961,7 +961,7 @@ Flashcards.initialize([
 ],
 [
     "This camera is 9999 yen.",
-    "kono _kamera_ wa {九千九百九十九円|kyuusen kyuuhyaku kyuujuu kyuu en} desu.",
+    "{此の|kono} _kamera_ wa {九千九百九十九円|kyuusen kyuuhyaku kyuujuu kyuu en} desu.",
     ""
 ],
 [
@@ -996,7 +996,7 @@ Flashcards.initialize([
 ],
 [
     "Both (my) mom and dad work in this company.",
-    "{母|haha} mo {父|chichi} mo kono kaisha de hatarakimasu.",
+    "{母|haha} mo {父|chichi} mo {此の|kono} kaisha de hatarakimasu.",
     ""
 ],
 [
@@ -1016,7 +1016,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 3 of this postcard and 3 of the 75 yen stamps as well please?",
-    "kono hagaki wo {三|san} mai to {七十五円|nanajuugo en} no kitte mo {三|san} mai kudasai.",
+    "{此の|kono} hagaki wo {三|san} mai to {七十五円|nanajuugo en} no kitte mo {三|san} mai kudasai.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
@@ -1041,12 +1041,12 @@ Flashcards.initialize([
 ],
 [
     "There's someone in the house.",
-    "uchi ni dare ka imasu.",
+    "{家|uchi} ni dare ka imasu.",
     ""
 ],
 [
     "There's no one in the house.",
-    "uchi ni dare mo imasen.",
+    "{家|uchi} ni dare mo imasen.",
     ""
 ],
 [
@@ -1081,7 +1081,7 @@ Flashcards.initialize([
 ],
 [
     "The school is near here.",
-    "{学校|gakkou} wa kono chikaku ni arimasu.",
+    "{学校|gakkou} wa {此の|kono} chikaku ni arimasu.",
     ""
 ],
 [
@@ -1146,7 +1146,7 @@ Flashcards.initialize([
 ],
 [
     "Is there a post office near here?",
-    "kono chikaku ni yuubinkyoku ga arimasu ka.",
+    "{此の|kono} chikaku ni yuubinkyoku ga arimasu ka.",
     ""
 ],
 [
@@ -1466,7 +1466,7 @@ Flashcards.initialize([
 ],
 [
     "That person is nice.",
-    "ano {人|hito} wa ii desu.",
+    "ano {人|hito} wa {良い|ii} desu.",
     ""
 ],
 [
@@ -1646,7 +1646,7 @@ Flashcards.initialize([
 ],
 [
     "(It) isn't good.",
-    "yokunai desu.",
+    "{良くない|yokunai} desu.",
     ""
 ],
 [
@@ -1721,7 +1721,7 @@ Flashcards.initialize([
 ],
 [
     "This department store is very busy, isn't it!",
-    "kono _depaato_ wa totemo nigiyaka desu ne.",
+    "{此の|kono} _depaato_ wa totemo nigiyaka desu ne.",
     ""
 ],
 [
@@ -1741,7 +1741,7 @@ Flashcards.initialize([
 ],
 [
     "(It) was nice and enjoyable.",
-    "yokute tanoshikatta desu.",
+    "{良くて|yokute} tanoshikatta desu.",
     ""
 ],
 [
@@ -1756,7 +1756,7 @@ Flashcards.initialize([
 ],
 [
     "This book was boring and disagreeable.",
-    "kono {本|hon} wa tsumaranakute fuyukai deshita.",
+    "{此の|kono} {本|hon} wa tsumaranakute fuyukai deshita.",
     ""
 ],
 [
@@ -1831,7 +1831,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow's weather will probably be cloudy, later (it will) rain.",
-    "{明日|ashita} no {天気|tenki} wa kumori, nochi {雨|ame} deshou.",
+    "{明日|ashita} no {天気|tenki} wa kumori, {後|nochi} {雨|ame} deshou.",
     ""
 ],
 [
@@ -1921,7 +1921,7 @@ Flashcards.initialize([
 ],
 [
     "(It will) probably be cloudy, later rain.",
-    "kumori nochi {雨|ame} deshou.",
+    "kumori {後|nochi} {雨|ame} deshou.",
     ""
 ],
 [
@@ -1941,7 +1941,7 @@ Flashcards.initialize([
 ],
 [
     "(It will) probably rain, later (it will be) fine.",
-    "{雨|ame} nochi hare deshou.",
+    "{雨|ame} {後|nochi} hare deshou.",
     ""
 ],
 [
@@ -1996,7 +1996,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went to (my) mom's house by car.",
-    "{母|haha} no uchi ni kuruma de ikimashita.",
+    "{母|haha} no {家|uchi} ni kuruma de ikimashita.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
 ],
 [
@@ -2046,7 +2046,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
-    "{明日|ashita} wa samuku narimasu. {雨|ame} nochi {雪|yuki} deshou. iya desu ne.",
+    "{明日|ashita} wa samuku narimasu. {雨|ame} {後|nochi} {雪|yuki} deshou. iya desu ne.",
     "い adj - い + く + なる = become ~"
 ],
 [
@@ -2196,7 +2196,7 @@ Flashcards.initialize([
 ],
 [
     "This film looks interesting, doesn't it?",
-    "kono eiga wa omoshirosou desu ne.",
+    "{此の|kono} eiga wa omoshirosou desu ne.",
     ""
 ],
 [
