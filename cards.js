@@ -21,7 +21,7 @@ Flashcards.initialize([
     ],
     [
         "Piece of cake",
-        "\u3042\u3055\u3081\u3057{\u524d|\u307e\u3048}",
+        "{\u671d|\u3042\u3055}\u3081\u3057{\u524d|\u307e\u3048}",
         ""
     ],
     [
@@ -136,7 +136,7 @@ Flashcards.initialize([
     ],
     [
         "(I) do the cleaning in the morning.",
-        "\u3042\u3055\u305d\u3046\u3058\u3092\u3057\u307e\u3059\u3002",
+        "{\u671d|\u3042\u3055}\u305d\u3046\u3058\u3092\u3057\u307e\u3059\u3002",
         ""
     ],
     [
@@ -211,7 +211,7 @@ Flashcards.initialize([
     ],
     [
         "In the mornings (I) always buy a newspaper and a coffee.",
-        "\u3042\u3055\u3044\u3064\u3082\u3057\u3093\u3076\u3093\u3068\u30b3\u30fc\u30d2\u30fc\u3092\u304b\u3044\u307e\u3059\u3002",
+        "{\u671d|\u3042\u3055}\u3044\u3064\u3082\u3057\u3093\u3076\u3093\u3068\u30b3\u30fc\u30d2\u30fc\u3092\u304b\u3044\u307e\u3059\u3002",
         "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
@@ -241,7 +241,7 @@ Flashcards.initialize([
     ],
     [
         "(My) dad will come to the college (tomorrow) morning.",
-        "{\u7236|\u3061\u3061}\u306f\u3042\u3055\u30b3\u30ec\u30b8\u306b\u304d\u307e\u3059\u3002",
+        "{\u7236|\u3061\u3061}\u306f{\u671d|\u3042\u3055}\u30b3\u30ec\u30b8\u306b\u304d\u307e\u3059\u3002",
         ""
     ],
     [
@@ -2116,7 +2116,7 @@ Flashcards.initialize([
     ],
     [
         "Mr. Yamada works from early morning to late night every day.",
-        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3042\u3055\u306f\u3084\u304f\u304b\u3089\u3088\u308b\u304a\u305d\u304f\u307e\u3067\u3057\u3054\u3068\u3092\u3057\u307e\u3059\u3002",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u671d|\u3042\u3055}\u306f\u3084\u304f\u304b\u3089\u3088\u308b\u304a\u305d\u304f\u307e\u3067\u3057\u3054\u3068\u3092\u3057\u307e\u3059\u3002",
         ""
     ],
     [
@@ -2181,7 +2181,7 @@ Flashcards.initialize([
     ],
     [
         "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
-        "\u307e\u3044\u3042\u3055\u306a\u3064\u3053\u3055\u3093\u306f\u30b3\u30fc\u30d2\u30fc\u3092\u306e\u307f\u306a\u304c\u3089\u3057\u3093\u3076\u3093\u3092\u3088\u307f\u307e\u3059\u3002",
+        "{\u6bce\u671d|\u307e\u3044\u3042\u3055}\u306a\u3064\u3053\u3055\u3093\u306f\u30b3\u30fc\u30d2\u30fc\u3092\u306e\u307f\u306a\u304c\u3089\u3057\u3093\u3076\u3093\u3092\u3088\u307f\u307e\u3059\u3002",
         "Verb stem + \u306a\u304c\u3089 = while doing ~"
     ],
     [

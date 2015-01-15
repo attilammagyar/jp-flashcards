@@ -21,7 +21,7 @@ Flashcards.initialize([
 ],
 [
     "Piece of cake",
-    "asa meshi {前|mae}",
+    "{朝|asa} meshi {前|mae}",
     ""
 ],
 [
@@ -136,7 +136,7 @@ Flashcards.initialize([
 ],
 [
     "(I) do the cleaning in the morning.",
-    "asa souji wo shimasu.",
+    "{朝|asa} souji wo shimasu.",
     ""
 ],
 [
@@ -211,7 +211,7 @@ Flashcards.initialize([
 ],
 [
     "In the mornings (I) always buy a newspaper and a coffee.",
-    "asa itsumo shinbun to _koohii_ wo kaimasu.",
+    "{朝|asa} itsumo shinbun to _koohii_ wo kaimasu.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
@@ -241,7 +241,7 @@ Flashcards.initialize([
 ],
 [
     "(My) dad will come to the college (tomorrow) morning.",
-    "{父|chichi} wa asa _koreji_ ni kimasu.",
+    "{父|chichi} wa {朝|asa} _koreji_ ni kimasu.",
     ""
 ],
 [
@@ -2116,7 +2116,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada works from early morning to late night every day.",
-    "{山田|yamada} san wa {毎日|mainichi} asa hayaku kara yoru osoku made shigoto wo shimasu.",
+    "{山田|yamada} san wa {毎日|mainichi} {朝|asa} hayaku kara yoru osoku made shigoto wo shimasu.",
     ""
 ],
 [
@@ -2181,7 +2181,7 @@ Flashcards.initialize([
 ],
 [
     "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
-    "maiasa natsuko san wa _koohii_ wo nominagara shinbun wo yomimasu.",
+    "{毎朝|maiasa} natsuko san wa _koohii_ wo nominagara shinbun wo yomimasu.",
     "Verb stem + ながら = while doing ~"
 ],
 [
