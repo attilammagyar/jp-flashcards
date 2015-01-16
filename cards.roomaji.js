@@ -126,7 +126,7 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) watch television.",
-    "{時々|tokidoki} _terebi_ wo mimasu.",
+    "{時々|tokidoki} _terebi_ wo {見ます|mimasu}.",
     ""
 ],
 [
@@ -156,7 +156,7 @@ Flashcards.initialize([
 ],
 [
     "(I) speak Japanese with (my) neighbour.",
-    "kinjo no {人|hito} to {日本語|nihongo} wo hanashimasu.",
+    "kinjo no {人|hito} to {日本語|nihongo} wo {話します|hanashimasu}.",
     ""
 ],
 [
@@ -176,7 +176,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (I'm) going to France.",
-    "{明日|ashita} _furansu_ ni ikimasu.",
+    "{明日|ashita} _furansu_ ni {行きます|ikimasu}.",
     ""
 ],
 [
@@ -216,7 +216,7 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) watch television with (my) siblings.",
-    "{時々|tokidoki} kyoudai to _terebi_ wo mimasu.",
+    "{時々|tokidoki} kyoudai to _terebi_ wo {見ます|mimasu}.",
     ""
 ],
 [
@@ -226,12 +226,12 @@ Flashcards.initialize([
 ],
 [
     "(I) will go to the office tomorrow",
-    "{明日|ashita} jimusho ni ikimasu.",
+    "{明日|ashita} jimusho ni {行きます|ikimasu}.",
     ""
 ],
 [
     "(I) will go to the supermarket with (my) son.",
-    "musuko to _suupaa_ ni ikimasu.",
+    "musuko to _suupaa_ ni {行きます|ikimasu}.",
     ""
 ],
 [
@@ -256,7 +256,7 @@ Flashcards.initialize([
 ],
 [
     "Of course (I'm) going!",
-    "mochiron ikimasu.",
+    "mochiron {行きます|ikimasu}.",
     ""
 ],
 [
@@ -311,12 +311,12 @@ Flashcards.initialize([
 ],
 [
     "(I) always watch television, then (I) make dinner.",
-    "itsumo _terebi_ wo mimasu. sorekara bangohan wo tsukurimasu.",
+    "itsumo _terebi_ wo {見ます|mimasu}. {其れ|sore} kara bangohan wo tsukurimasu.",
     ""
 ],
 [
     "(I) don't watch television in the evenings.",
-    "yoru _terebi_ wo mimasen.",
+    "yoru _terebi_ wo {見ません|mimasen}.",
     ""
 ],
 [
@@ -326,7 +326,7 @@ Flashcards.initialize([
 ],
 [
     "(I) go to the office by train.",
-    "densha de jimusho ni ikimasu.",
+    "densha de jimusho ni {行きます|ikimasu}.",
     ""
 ],
 [
@@ -391,7 +391,7 @@ Flashcards.initialize([
 ],
 [
     "(I) get up every day at 6 o'clock. Then (I) make breakfast.",
-    "{毎日|mainichi} {六時|rokuji} ni okimasu. sorekara asagohan wo tsukurimasu.",
+    "{毎日|mainichi} {六時|rokuji} ni okimasu. {其れ|sore} kara asagohan wo tsukurimasu.",
     ""
 ],
 [
@@ -401,7 +401,7 @@ Flashcards.initialize([
 ],
 [
     "In the afternoon (I) usually read the newspaper. Sometimes (I) watch the news.",
-    "{午後|gogo} taitei shinbun wo yomimasu. {時々|tokidoki} _nyuusu_ wo mimasu.",
+    "{午後|gogo} taitei shinbun wo yomimasu. {時々|tokidoki} _nyuusu_ wo {見ます|mimasu}.",
     ""
 ],
 [
@@ -416,7 +416,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't talk to my neighbour.",
-    "kinjo no {人|hito} to hanashimasen.",
+    "kinjo no {人|hito} to  {話しません|hanashimasen}.",
     ""
 ],
 [
@@ -431,7 +431,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't go to work early.",
-    "hayaku shigoto ni ikimasen.",
+    "hayaku shigoto ni {行きません|ikimasen}.",
     ""
 ],
 [
@@ -456,7 +456,7 @@ Flashcards.initialize([
 ],
 [
     "make a phone call, don't ~",
-    "denwa wo shimasu, denwa wo shimasen",
+    "{電話|denwa} wo shimasu, {電話|denwa} wo shimasen",
     ""
 ],
 [
@@ -526,7 +526,7 @@ Flashcards.initialize([
 ],
 [
     "Is that an English newspaper?",
-    "sore wa igirisu no shinbun desu ka.",
+    "{其れ|sore} wa igirisu no shinbun desu ka.",
     ""
 ],
 [
@@ -721,7 +721,7 @@ Flashcards.initialize([
 ],
 [
     "Let's go to a concert together.",
-    "issho ni _konsaato_ ni ikimashou.",
+    "issho ni _konsaato_ ni {行きましょう|ikimashou}.",
     ""
 ],
 [
@@ -751,7 +751,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) see those chopsticks?",
-    "sono ohashi wo misete kudasai.",
+    "{其の|sono} ohashi wo misete kudasai.",
     ""
 ],
 [
@@ -821,7 +821,7 @@ Flashcards.initialize([
 ],
 [
     "2 mobile phones",
-    "keitai denwa {二つ|futatsu}",
+    "keitai {電話|denwa} {二つ|futatsu}",
     ""
 ],
 [
@@ -1011,7 +1011,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have that Sony camera please?",
-    "sono _soonii_ no _kamera_ wo kudasai.",
+    "{其の|sono} _soonii_ no _kamera_ wo kudasai.",
     ""
 ],
 [
@@ -1091,7 +1091,7 @@ Flashcards.initialize([
 ],
 [
     "The truth is, I don't watch sports, nor play sports.",
-    "{実は|jitsu wa}, {私|watashi} wa _supootsu_ wo mimasen shi, shimasen.",
+    "{実は|jitsu wa}, {私|watashi} wa _supootsu_ wo {見ません|mimasen} shi, shimasen.",
     ""
 ],
 [
@@ -1166,7 +1166,7 @@ Flashcards.initialize([
 ],
 [
     "Last week (I) watched a movie with Ms. Natsuko.",
-    "senshuu natsuko san to eiga wo mimashita.",
+    "senshuu natsuko san to eiga wo {見ました|mimashita}.",
     ""
 ],
 [
@@ -1196,7 +1196,7 @@ Flashcards.initialize([
 ],
 [
     "My camera is in that bag.",
-    "{私|watashi} no _kamera_ wa sono kaban no {中|naka} ni arimasu.",
+    "{私|watashi} no _kamera_ wa {其の|sono} kaban no {中|naka} ni arimasu.",
     ""
 ],
 [
@@ -1311,12 +1311,12 @@ Flashcards.initialize([
 ],
 [
     "How about the cinema? Won't (we) go to the cinema? Shall (we) go to the cinema together? Let's go to the cinema!",
-    "eigakan wa dou desu ka. eigakan ni ikimasen ka. isshoni eigakan ni ikimashou ka. eigakan ni ikimashou.",
+    "eigakan wa dou desu ka. eigakan ni {行きません|ikimasen} ka. isshoni eigakan ni {行きましょう|ikimashou} ka. eigakan ni {行きましょう|ikimashou}.",
     ""
 ],
 [
     "Where shall (we) go (to)? Where shall (we) meet (at)?",
-    "doko ni ikimashou ka. doko de aimashou ka.",
+    "doko ni {行きましょう|ikimashou} ka. doko de aimashou ka.",
     ""
 ],
 [
@@ -1331,7 +1331,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow, won't (we) go somewhere together? Yes, where shall (we) go?",
-    "{明日|ashita} doko ka isshoni ikimasen ka. hai, doko ni ikimashou ka.",
+    "{明日|ashita} doko ka isshoni {行きません|ikimasen} ka. hai, doko ni {行きましょう|ikimashou} ka.",
     ""
 ],
 [
@@ -1396,7 +1396,7 @@ Flashcards.initialize([
 ],
 [
     "Is it only that?",
-    "sore dake desu ka.",
+    "{其れ|sore} dake desu ka.",
     ""
 ],
 [
@@ -1521,7 +1521,7 @@ Flashcards.initialize([
 ],
 [
     "Next year I hope to go to Japan again.",
-    "{来年|rainen} mata {日本|nihon} ni ikitai to omoimasu.",
+    "{来年|rainen} mata {日本|nihon} ni {行きたい|ikitai} to omoimasu.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -1816,12 +1816,12 @@ Flashcards.initialize([
 ],
 [
     "I often go to the gym.",
-    "{私|watashi} wa yoku _jimu_ ni ikimasu.",
+    "{私|watashi} wa yoku _jimu_ ni {行きます|ikimasu}.",
     "い adj. - い + く = adverb"
 ],
 [
     "Mr. Yamada went to Osaka by bullet train.",
-    "{山田|yamada} san wa shinkansen de ousaka ni ikimashita.",
+    "{山田|yamada} san wa shinkansen de ousaka ni {行きました|ikimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
 ],
 [
@@ -1846,7 +1846,7 @@ Flashcards.initialize([
 ],
 [
     "On rainy days, (I) watch movies.",
-    "{雨|ame} no {日|hi} wa eiga wo mimasu.",
+    "{雨|ame} no {日|hi} wa eiga wo {見ます|mimasu}.",
     ""
 ],
 [
@@ -1861,7 +1861,7 @@ Flashcards.initialize([
 ],
 [
     "Robert speaks Japanese well.",
-    "_robaato_ san wa yoku {日本語|nihongo} wo hanashimasu.",
+    "_robaato_ san wa yoku {日本語|nihongo} wo  {話します|hanashimasu}.",
     "い adj. - い + く = adverb"
 ],
 [
@@ -1876,7 +1876,7 @@ Flashcards.initialize([
 ],
 [
     "Natsuko speaks English softly/kindly.",
-    "natsuko san wa yasashiku {英語|eigo} wo hanashimasu.",
+    "natsuko san wa yasashiku {英語|eigo} wo  {話します|hanashimasu}.",
     "い adj. - い + く = adverb"
 ],
 [
@@ -1911,7 +1911,7 @@ Flashcards.initialize([
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
-    "{日本|ni hon} no shashin wo mimashita no de, ikitaku narimashita.",
+    "{日本|ni hon} no shashin wo {見ました|mimashita} no de, {行きたく|ikitaku} narimashita.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -1986,22 +1986,22 @@ Flashcards.initialize([
 ],
 [
     "How did (you) go (there)? (I) went by train.",
-    "dou yatte ikimashita ka. densha de ikimashita.",
+    "dou yatte {行きました|ikimashita} ka. densha de {行きました|ikimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
     "(I) went to the town by bus.",
-    "machi ni _basu_ de ikimashita.",
+    "machi ni _basu_ de {行きました|ikimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
 ],
 [
     "(I) went to (my) mom's house by car.",
-    "{母|haha} no {家|uchi} ni kuruma de ikimashita.",
+    "{母|haha} no {家|uchi} ni kuruma de {行きました|ikimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
 ],
 [
     "(I) went to New York by train.",
-    "densha de _nyuu yooku_ ni ikimashita.",
+    "densha de _nyuu yooku_ ni {行きました|ikimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
 ],
 [
@@ -2016,12 +2016,12 @@ Flashcards.initialize([
 ],
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
-    "ousaka ni ikitai desu. omoshirokunai {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga shigoto wa tsumaranakatta desu.",
+    "ousaka ni {行きたい|ikitai} desu. omoshirokunai {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga shigoto wa tsumaranakatta desu.",
     "くない = negative of い adj; かった = past tense of い adj; くなかった = past negative of い adj; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-    "ousaka made shinkansen de ikimashita. katamichi no kippu wo kaimashita. douryou no kuruma de kaerimashita. sore mo tanoshikunakatta desu.",
+    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no kippu wo kaimashita. douryou no kuruma de kaerimashita. {其れ|sore} mo tanoshikunakatta desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2111,7 +2111,7 @@ Flashcards.initialize([
 ],
 [
     "Miki went to the cinema with Natsuko.",
-    "{三木|miki} san wa natsuko san to eigakan ni ikimashita.",
+    "{三木|miki} san wa natsuko san to eigakan ni {行きました|ikimashita}.",
     ""
 ],
 [
@@ -2191,7 +2191,7 @@ Flashcards.initialize([
 ],
 [
     "Ms. Natsuko went to the town to meet Miki.",
-    "natsuko san wa machi he {三木|miki} san ni ai ni ikimashita.",
+    "natsuko san wa machi he {三木|miki} san ni ai ni {行きました|ikimashita}.",
     "へ = to, towards, pronounced as え"
 ],
 [
