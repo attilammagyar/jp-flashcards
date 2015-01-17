@@ -501,7 +501,7 @@ Flashcards.initialize([
 ],
 [
     "Oh, what was that sound (just) now?",
-    "are, {今|ima} no oto wa {何|nan} desu ka.",
+    "are, {今|ima} no {音|oto} wa {何|nan} desu ka.",
     ""
 ],
 [
@@ -666,7 +666,7 @@ Flashcards.initialize([
 ],
 [
     "Tonight (I'll) be in Harajuku. (It's) fun, lively and (I) love Harajuku.",
-    "kon ya wa harajuku ni imasu. tanoshikute, nigiyakade, harajuku wa daisuki desu.",
+    "kon ya wa harajuku ni imasu. {楽しくて|tanoshikute}, nigiyakade, harajuku wa daisuki desu.",
     ""
 ],
 [
@@ -1455,8 +1455,8 @@ Flashcards.initialize([
     ""
 ],
 [
-    "That person is quiet.",
-    "ano {人|hito} wa otonashii desu.",
+    "That person is quiet/gentle.",
+    "ano {人|hito} wa {大人しい|otonashii} desu.",
     ""
 ],
 [
@@ -1615,8 +1615,8 @@ Flashcards.initialize([
     ""
 ],
 [
-    "He is a serious and quiet person.",
-    "{彼|kare} wa majime de otonashii {人|hito} desu.",
+    "He is a serious and quiet/gentle person.",
+    "{彼|kare} wa majime de {大人しい|otonashii} {人|hito} desu.",
     ""
 ],
 [
@@ -1710,8 +1710,8 @@ Flashcards.initialize([
     ""
 ],
 [
-    "I'm a little quiet but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
-    "{私|watashi} wa sukoshi otonashii desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga suki desu ga _supootsu_ ga amari suki deha arimasen.",
+    "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
+    "{私|watashi} wa sukoshi {大人しい|otonashii} desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga suki desu ga _supootsu_ ga amari suki deha arimasen.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
@@ -1741,12 +1741,12 @@ Flashcards.initialize([
 ],
 [
     "(It) was nice and enjoyable.",
-    "{良くて|yokute} tanoshikatta desu.",
+    "{良くて|yokute} {楽しかった|tanoshikatta} desu.",
     ""
 ],
 [
     "The trip was interesting and enjoyable.",
-    "ryokou wa omoshirokute tanoshikatta desu.",
+    "ryokou wa omoshirokute {楽しかった|tanoshikatta} desu.",
     ""
 ],
 [
@@ -2021,7 +2021,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no kippu wo kaimashita. douryou no kuruma de kaerimashita. {其れ|sore} mo tanoshikunakatta desu.",
+    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no kippu wo kaimashita. douryou no kuruma de kaerimashita. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2101,7 +2101,7 @@ Flashcards.initialize([
 ],
 [
     "The trip wasn't fun at all.",
-    "ryokou wa zenzen tanoshikunakatta desu.",
+    "ryokou wa zenzen {楽しくなかった|tanoshikunakatta} desu.",
     ""
 ],
 [
@@ -2228,5 +2228,25 @@ Flashcards.initialize([
     "(I) want to eat a banana. (I) want to eat a banana.",
     "_banana_ wo tabetai desu. _banana_ ga tabetai desu.",
     "~たい: may use が instead of を; ~たい + negative: if topic is not mentioned then は can be used instead of が; ~たい is usually used only in first person or in questions for the second person"
+],
+[
+    "(My) mom's cooking is the most delicious in the world.",
+    "{母|haha} no ryouri wa sekai {一|ichi} oishii desu.",
+    ""
+],
+[
+    "What's the difference between a dog and a cat?",
+    "{犬|inu} to {猫|neko} wa dou chigaimasu ka.",
+    ""
+],
+[
+    "Let's go the two of us!",
+    "{二人|futari} de {行きましょう|ikimashou}.",
+    ""
+],
+[
+    "(There) are (more than) 600 channels. I like the weather forecast. Let's look at the world weather. Are (you) serious?",
+    "{六百|roppyaku} _chan__neru_ mo arimasu. {私|watashi} wa {天気|tenki} yohou ga suki desu. sekai no {天気|tenki} wo {見ましょう|mimashou}. {本気|honki} desu ka.",
+    ""
 ]
 ])
