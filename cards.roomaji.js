@@ -1401,7 +1401,7 @@ Flashcards.initialize([
 ],
 [
     "(I) will ask one more time.",
-    "mou ichi do kikimasu.",
+    "mou ichi do {聞きます|kikimasu}.",
     ""
 ],
 [
@@ -2041,7 +2041,7 @@ Flashcards.initialize([
 ],
 [
     "Did (you) hear the weather forecast for Tokyo? Not yet.",
-    "{東京|toukyou} no {天気|tenki} yohou wo kikimashita ka. iie, mada desu.",
+    "{東京|toukyou} no {天気|tenki} yohou wo {聞きました|kikimashita} ka. iie, mada desu.",
     ""
 ],
 [
