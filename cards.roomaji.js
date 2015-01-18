@@ -196,12 +196,12 @@ Flashcards.initialize([
 ],
 [
     "Romantic movies are not useless.",
-    "_romanchikku_ na eiga wa kudaranakunai desu.",
+    "_romanchikku_ na {映画|eiga} wa kudaranakunai desu.",
     ""
 ],
 [
     "Action movies are not boring.",
-    "_akushon_ eiga wa tsumaranakunai desu.",
+    "_akushon_ {映画|eiga} wa tsumaranakunai desu.",
     ""
 ],
 [
@@ -431,7 +431,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't go to work early.",
-    "hayaku shigoto ni {行きません|ikimasen}.",
+    "hayaku {仕事|shigoto} ni {行きません|ikimasen}.",
     ""
 ],
 [
@@ -521,7 +521,7 @@ Flashcards.initialize([
 ],
 [
     "In the evenings, I work from 7 o'clock.",
-    "yoru {七時|shichiji} kara shigoto wo shimasu.",
+    "yoru {七時|shichiji} kara {仕事|shigoto} wo shimasu.",
     ""
 ],
 [
@@ -1166,7 +1166,7 @@ Flashcards.initialize([
 ],
 [
     "Last week (I) watched a movie with Ms. Natsuko.",
-    "senshuu natsuko san to eiga wo {見ました|mimashita}.",
+    "senshuu natsuko san to {映画|eiga} wo {見ました|mimashita}.",
     ""
 ],
 [
@@ -1751,7 +1751,7 @@ Flashcards.initialize([
 ],
 [
     "The film was interesting but a bit long.",
-    "eiga wa omoshirokatta desu ga chotto nagakatta desu.",
+    "{映画|eiga} wa omoshirokatta desu ga chotto nagakatta desu.",
     ""
 ],
 [
@@ -1801,7 +1801,7 @@ Flashcards.initialize([
 ],
 [
     "Let's watch a movie the four of us!",
-    "{四人|yonin} de eiga wo mimashou.",
+    "{四人|yonin} de {映画|eiga} wo mimashou.",
     ""
 ],
 [
@@ -1846,7 +1846,7 @@ Flashcards.initialize([
 ],
 [
     "On rainy days, (I) watch movies.",
-    "{雨|ame} no {日|hi} wa eiga wo {見ます|mimasu}.",
+    "{雨|ame} no {日|hi} wa {映画|eiga} wo {見ます|mimasu}.",
     ""
 ],
 [
@@ -1856,17 +1856,17 @@ Flashcards.initialize([
 ],
 [
     "Miki writes kanji skillfully.",
-    "{三木|miki} san wa jouzu ni kanji wo kakimasu.",
+    "{三木|miki} san wa jouzu ni kanji wo {書きます|kakimasu}.",
     "な adj + に = adverb"
 ],
 [
     "Robert speaks Japanese well.",
-    "_robaato_ san wa yoku {日本語|nihongo} wo  {話します|hanashimasu}.",
+    "_robaato_ san wa {良く|yoku} {日本語|nihongo} wo  {話します|hanashimasu}.",
     "い adj. - い + く = adverb"
 ],
 [
     "Hondo does his work seriously.",
-    "hondou san wa majime ni shigoto wo shimasu.",
+    "hondou san wa majime ni {仕事|shigoto} wo shimasu.",
     "な adj + に = adverb"
 ],
 [
@@ -2011,12 +2011,12 @@ Flashcards.initialize([
 ],
 [
     "(I) wrote the letter in Japanese.",
-    "{日本語|nihongo} de tegami wo kakimashita.",
+    "{日本語|nihongo} de tegami wo {書きました|kakimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
-    "ousaka ni {行きたい|ikitai} desu. omoshirokunai {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga shigoto wa tsumaranakatta desu.",
+    "ousaka ni {行きたい|ikitai} desu. omoshirokunai {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa tsumaranakatta desu.",
     "くない = negative of い adj; かった = past tense of い adj; くなかった = past negative of い adj; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2116,7 +2116,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada works from early morning to late night every day.",
-    "{山田|yamada} san wa {毎日|mainichi} {朝|asa} hayaku kara yoru osoku made shigoto wo shimasu.",
+    "{山田|yamada} san wa {毎日|mainichi} {朝|asa} hayaku kara yoru osoku made {仕事|shigoto} wo shimasu.",
     ""
 ],
 [
@@ -2161,7 +2161,7 @@ Flashcards.initialize([
 ],
 [
     "When (I) was a child, (I) wanted to be a film star.",
-    "kodomo no koro, eiga _sutaa_ ni naritakatta desu.",
+    "kodomo no koro, {映画|eiga} _sutaa_ ni naritakatta desu.",
     "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2196,7 +2196,7 @@ Flashcards.initialize([
 ],
 [
     "This film looks interesting, doesn't it?",
-    "{此の|kono} eiga wa omoshirosou desu ne.",
+    "{此の|kono} {映画|eiga} wa omoshirosou desu ne.",
     ""
 ],
 [
@@ -2211,7 +2211,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada works every day until late.",
-    "{山田|yamada} san wa {毎日|mainichi} osoku made shigoto wo shimasu.",
+    "{山田|yamada} san wa {毎日|mainichi} osoku made {仕事|shigoto} wo shimasu.",
     ""
 ],
 [
