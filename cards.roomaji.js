@@ -682,12 +682,12 @@ Flashcards.initialize([
 [
     "Peter, (you) are very good at English.",
     "_piitaa_ wa {英語|eigo} ga tokui desu ne.",
-    ""
+    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ],
 [
     "She is good at cooking.",
     "{彼女|kanojo} wa ryouri ga tokui desu.",
-    ""
+    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ],
 [
     "Tomorrow (I) have an English exam.",
@@ -772,7 +772,7 @@ Flashcards.initialize([
 [
     "I'm not good at waking up early.",
     "{私|watashi} wa haya oki ga nigate desu.",
-    ""
+    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ],
 [
     "8 pairs of shoes",
@@ -1542,7 +1542,7 @@ Flashcards.initialize([
 [
     "Mr. Roger is good at bowling, isn't he?",
     "_rojaa_ san wa _booringu_ ga jouzu desu ne.",
-    ""
+    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ],
 [
     "This is a lively place, isn't it?",
@@ -1567,7 +1567,7 @@ Flashcards.initialize([
 [
     "Ms. Miki is bad at bowling.",
     "{三木|miki} san wa _booringu_ ga heta desu.",
-    ""
+    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ],
 [
     "eyes, big, small, round",
@@ -1632,7 +1632,7 @@ Flashcards.initialize([
 [
     "(I'm) poor at sports, but (I'm) goot at origami.",
     "_supootsu_ ga heta desu ga origami wa jouzu desu.",
-    ""
+    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ],
 [
     "I think he's famous.",
@@ -1732,7 +1732,7 @@ Flashcards.initialize([
 [
     "I am poor at sports but good at origami.",
     "{私|watashi} wa _supootsu_ ga heta desu ga origami wa jouzu desu.",
-    ""
+    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ],
 [
     "(It) was wonderful and interesting.",
@@ -1857,7 +1857,7 @@ Flashcards.initialize([
 [
     "Miki writes kanji skillfully.",
     "{三木|miki} san wa jouzu ni kanji wo {書きます|kakimasu}.",
-    "な adj + に = adverb"
+    "な adj + に = adverb; じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ],
 [
     "Robert speaks Japanese well.",
@@ -1892,7 +1892,7 @@ Flashcards.initialize([
 [
     "Miki has got good at bowling.",
     "{三木|miki} san wa _booringu_ ga jouzu ni narimashita.",
-    "Noun/な adj + に + なる = become ~"
+    "Noun/な adj + に + なる = become ~; じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ],
 [
     "Happy New Year!",
@@ -1907,7 +1907,7 @@ Flashcards.initialize([
 [
     "If (you) study every day, (your) Japanese will get skilled.",
     "{毎日|mai nichi} benkyou suru to {日本語|nihongo} ga jouzu ni narimasu.",
-    "A-dictionary-form とB = if A then B; Noun/な adj + に + なる = become ~"
+    "A-dictionary-form とB = if A then B; Noun/な adj + に + なる = become ~; じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -2122,7 +2122,7 @@ Flashcards.initialize([
 [
     "Miki is bad at both bowling and tennis.",
     "{三木|miki} san wa _booringu_ mo _tenisu_ mo heta desu.",
-    ""
+    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ],
 [
     "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
@@ -2182,7 +2182,7 @@ Flashcards.initialize([
 [
     "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
     "{毎朝|maiasa} natsuko san wa _koohii_ wo nominagara shinbun wo yomimasu.",
-    "Verb stem + ながら = while doing ~"
+    "Verb stem + ながら + Main Verb = do Main Verb while doing Verb, subject must be the same"
 ],
 [
     "Roger taught Miki how to do bowling.",
@@ -2283,5 +2283,15 @@ Flashcards.initialize([
     "(I) will study Japanese in order to read manga.",
     "manga wo yomu tame ni {日本語|nihongo} wo benkyou shimasu.",
     "Verb A (dictionary form) + ため + に + Verb B = do Verb B in order to Verb A"
+],
+[
+    "I'm bad at bowling. He's good at bowling. I'm poor at English. He's good at Japanese.",
+    "{私|watashi} wa _booringu_ ga heta desu. {彼|kare} wa _booringu_ ga jouzu desu. {私|watashi} wa {英語|eigo} ga nigate desu. {彼|kare} wa {日本語|nihongo} ga tokui desu.",
+    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+],
+[
+    "I'm good at Mathematics.",
+    "{私|watashi} wa suugaku ga tokui desu.",
+    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
 ]
 ])

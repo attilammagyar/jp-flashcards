@@ -682,12 +682,12 @@ Flashcards.initialize([
     [
         "Peter, (you) are very good at English.",
         "\u30d4\u30fc\u30bf\u30fc\u306f{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u3068\u304f\u3044\u3067\u3059\u306d\u3002",
-        ""
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "She is good at cooking.",
         "{\u5f7c\u5973|\u304b\u306e\u3058\u3087}\u306f\u308a\u3087\u3046\u308a\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
-        ""
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "Tomorrow (I) have an English exam.",
@@ -772,7 +772,7 @@ Flashcards.initialize([
     [
         "I'm not good at waking up early.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u306f\u3084\u304a\u304d\u304c\u306b\u304c\u3066\u3067\u3059\u3002",
-        ""
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "8 pairs of shoes",
@@ -1542,7 +1542,7 @@ Flashcards.initialize([
     [
         "Mr. Roger is good at bowling, isn't he?",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3058\u3087\u3046\u305a\u3067\u3059\u306d\u3002",
-        ""
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "This is a lively place, isn't it?",
@@ -1567,7 +1567,7 @@ Flashcards.initialize([
     [
         "Ms. Miki is bad at bowling.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3078\u305f\u3067\u3059\u3002",
-        ""
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "eyes, big, small, round",
@@ -1632,7 +1632,7 @@ Flashcards.initialize([
     [
         "(I'm) poor at sports, but (I'm) goot at origami.",
         "\u30b9\u30dd\u30fc\u30c4\u304c\u3078\u305f\u3067\u3059\u304c\u304a\u308a\u304c\u307f\u306f\u3058\u3087\u3046\u305a\u3067\u3059\u3002",
-        ""
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "I think he's famous.",
@@ -1732,7 +1732,7 @@ Flashcards.initialize([
     [
         "I am poor at sports but good at origami.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u30b9\u30dd\u30fc\u30c4\u304c\u3078\u305f\u3067\u3059\u304c\u304a\u308a\u304c\u307f\u306f\u3058\u3087\u3046\u305a\u3067\u3059\u3002",
-        ""
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "(It) was wonderful and interesting.",
@@ -1857,7 +1857,7 @@ Flashcards.initialize([
     [
         "Miki writes kanji skillfully.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u3058\u3087\u3046\u305a\u306b\u304b\u3093\u3058\u3092{\u66f8\u304d\u307e\u3059|\u304b\u304d\u307e\u3059}\u3002",
-        "\u306a adj + \u306b = adverb"
+        "\u306a adj + \u306b = adverb; \u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "Robert speaks Japanese well.",
@@ -1892,7 +1892,7 @@ Flashcards.initialize([
     [
         "Miki has got good at bowling.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3058\u3087\u3046\u305a\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "Happy New Year!",
@@ -1907,7 +1907,7 @@ Flashcards.initialize([
     [
         "If (you) study every day, (your) Japanese will get skilled.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3079\u3093\u304d\u3087\u3046\u3059\u308b\u3068{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u304c\u3058\u3087\u3046\u305a\u306b\u306a\u308a\u307e\u3059\u3002",
-        "A-dictionary-form \u3068B = if A then B; Noun/\u306a adj + \u306b + \u306a\u308b = become ~"
+        "A-dictionary-form \u3068B = if A then B; Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -2122,7 +2122,7 @@ Flashcards.initialize([
     [
         "Miki is bad at both bowling and tennis.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u3082\u30c6\u30cb\u30b9\u3082\u3078\u305f\u3067\u3059\u3002",
-        ""
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
@@ -2182,7 +2182,7 @@ Flashcards.initialize([
     [
         "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
         "{\u6bce\u671d|\u307e\u3044\u3042\u3055}\u306a\u3064\u3053\u3055\u3093\u306f\u30b3\u30fc\u30d2\u30fc\u3092\u306e\u307f\u306a\u304c\u3089\u3057\u3093\u3076\u3093\u3092\u3088\u307f\u307e\u3059\u3002",
-        "Verb stem + \u306a\u304c\u3089 = while doing ~"
+        "Verb stem + \u306a\u304c\u3089 + Main Verb = do Main Verb while doing Verb, subject must be the same"
     ],
     [
         "Roger taught Miki how to do bowling.",
@@ -2283,5 +2283,15 @@ Flashcards.initialize([
         "(I) will study Japanese in order to read manga.",
         "\u307e\u3093\u304c\u3092\u3088\u3080\u305f\u3081\u306b{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092\u3079\u3093\u304d\u3087\u3046\u3057\u307e\u3059\u3002",
         "Verb A (dictionary form) + \u305f\u3081 + \u306b + Verb B = do Verb B in order to Verb A"
+    ],
+    [
+        "I'm bad at bowling. He's good at bowling. I'm poor at English. He's good at Japanese.",
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3078\u305f\u3067\u3059\u3002{\u5f7c|\u304b\u308c}\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3058\u3087\u3046\u305a\u3067\u3059\u3002{\u79c1|\u308f\u305f\u3057}\u306f{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u306b\u304c\u3066\u3067\u3059\u3002{\u5f7c|\u304b\u308c}\u306f{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+    ],
+    [
+        "I'm good at Mathematics.",
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u3059\u3046\u304c\u304f\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ]
 ])
