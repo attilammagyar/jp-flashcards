@@ -2248,5 +2248,40 @@ Flashcards.initialize([
     "(There) are (more than) 600 channels. I like the weather forecast. Let's look at the world weather. Are (you) serious?",
     "{六百|roppyaku} _chan__neru_ mo arimasu. {私|watashi} wa {天気|tenki} yohou ga suki desu. sekai no {天気|tenki} wo {見ましょう|mimashou}. {本気|honki} desu ka.",
     ""
+],
+[
+    "1 minute is 60 seconds.",
+    "{一分|ippun} wa {六十|rokujuu} byou desu.",
+    ""
+],
+[
+    "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. [polite]",
+    "{私|watashi} wa {毎日|mainichi} yakiniku wo tabemasu. demo, itsumo yasai wo yakiniku to isshoni tabemasu kara, mondai gozaimasen.",
+    ""
+],
+[
+    "Hiking is good for the body, isn't it?",
+    "_haikingu_ wa karada ni {良い|ii} desu ne.",
+    ""
+],
+[
+    "(I) bought the ticket for Ms. Natsuko as well.",
+    "natsuko san no tame ni mo kippu wo kaimashita.",
+    "Noun + の + ため + に + Verb = do Verb for the benefit of / in order to Noun"
+],
+[
+    "I studied for the test.",
+    "{私|watashi} wa shiken no tame ni benkyou shimashita.",
+    "Noun + の + ため + に + Verb = do Verb for the benefit of / in order to Noun"
+],
+[
+    "This is a book for children.",
+    "{此れ|kore} wa kodomo no tame no {本|hon} desu.",
+    "Noun A + の + ため + の + Noun B = Noun B (is) for the benefit of Noun A"
+],
+[
+    "(I) will study Japanese in order to read manga.",
+    "manga wo yomu tame ni {日本語|nihongo} wo benkyou shimasu.",
+    "Verb A (dictionary form) + ため + に + Verb B = do Verb B in order to Verb A"
 ]
 ])

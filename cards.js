@@ -2248,5 +2248,40 @@ Flashcards.initialize([
         "(There) are (more than) 600 channels. I like the weather forecast. Let's look at the world weather. Are (you) serious?",
         "{\u516d\u767e|\u308d\u3063\u3074\u3083\u304f}\u30c1\u30e3\u30f3\u30cd\u30eb\u3082\u3042\u308a\u307e\u3059\u3002{\u79c1|\u308f\u305f\u3057}\u306f{\u5929\u6c17|\u3066\u3093\u304d}\u3088\u307b\u3046\u304c\u3059\u304d\u3067\u3059\u3002\u305b\u304b\u3044\u306e{\u5929\u6c17|\u3066\u3093\u304d}\u3092{\u898b\u307e\u3057\u3087\u3046|\u307f\u307e\u3057\u3087\u3046}\u3002{\u672c\u6c17|\u307b\u3093\u304d}\u3067\u3059\u304b\u3002",
         ""
+    ],
+    [
+        "1 minute is 60 seconds.",
+        "{\u4e00\u5206|\u3044\u3063\u3077\u3093}\u306f{\u516d\u5341|\u308d\u304f\u3058\u3085\u3046}\u3073\u3087\u3046\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. [polite]",
+        "{\u79c1|\u308f\u305f\u3057}\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3084\u304d\u306b\u304f\u3092\u305f\u3079\u307e\u3059\u3002\u3067\u3082\u3001\u3044\u3064\u3082\u3084\u3055\u3044\u3092\u3084\u304d\u306b\u304f\u3068\u3044\u3063\u3057\u3087\u306b\u305f\u3079\u307e\u3059\u304b\u3089\u3001\u3082\u3093\u3060\u3044\u3054\u3056\u3044\u307e\u305b\u3093\u3002",
+        ""
+    ],
+    [
+        "Hiking is good for the body, isn't it?",
+        "\u30cf\u30a4\u30ad\u30f3\u30b0\u306f\u304b\u3089\u3060\u306b{\u826f\u3044|\u3044\u3044}\u3067\u3059\u306d\u3002",
+        ""
+    ],
+    [
+        "(I) bought the ticket for Ms. Natsuko as well.",
+        "\u306a\u3064\u3053\u3055\u3093\u306e\u305f\u3081\u306b\u3082\u304d\u3063\u3077\u3092\u304b\u3044\u307e\u3057\u305f\u3002",
+        "Noun + \u306e + \u305f\u3081 + \u306b + Verb = do Verb for the benefit of / in order to Noun"
+    ],
+    [
+        "I studied for the test.",
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u3057\u3051\u3093\u306e\u305f\u3081\u306b\u3079\u3093\u304d\u3087\u3046\u3057\u307e\u3057\u305f\u3002",
+        "Noun + \u306e + \u305f\u3081 + \u306b + Verb = do Verb for the benefit of / in order to Noun"
+    ],
+    [
+        "This is a book for children.",
+        "{\u6b64\u308c|\u3053\u308c}\u306f\u3053\u3069\u3082\u306e\u305f\u3081\u306e{\u672c|\u307b\u3093}\u3067\u3059\u3002",
+        "Noun A + \u306e + \u305f\u3081 + \u306e + Noun B = Noun B (is) for the benefit of Noun A"
+    ],
+    [
+        "(I) will study Japanese in order to read manga.",
+        "\u307e\u3093\u304c\u3092\u3088\u3080\u305f\u3081\u306b{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092\u3079\u3093\u304d\u3087\u3046\u3057\u307e\u3059\u3002",
+        "Verb A (dictionary form) + \u305f\u3081 + \u306b + Verb B = do Verb B in order to Verb A"
     ]
 ])
