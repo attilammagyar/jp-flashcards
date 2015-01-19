@@ -59,7 +59,7 @@
             }
 
             tolerance = (Flashcards.cards.length / 50) + 1;
-            focus_probability = 0.15 + 0.85 * (x / (x + tolerance));
+            focus_probability = 0.15 + 0.75 * (x / (x + tolerance));
 
             return Math.random() > focus_probability;
         },
