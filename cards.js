@@ -2027,7 +2027,7 @@ Flashcards.initialize([
     [
         "(It) was too far.",
         "\u3068\u304a\u3059\u304e\u307e\u3057\u305f\u3002",
-        "\u304a\u304a\u304f = long way; stem of adj or continuative base of verb + ~\u3059\u304e\u308b = too much ~, over~"
+        "\u3068\u304a\u304f = long way; stem of adj or continuative base of verb + ~\u3059\u304e\u308b = too much ~, over~"
     ],
     [
         "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",

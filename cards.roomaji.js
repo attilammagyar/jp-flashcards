@@ -2027,7 +2027,7 @@ Flashcards.initialize([
 [
     "(It) was too far.",
     "toosugimashita.",
-    "おおく = long way; stem of adj or continuative base of verb + ~すぎる = too much ~, over~"
+    "とおく = long way; stem of adj or continuative base of verb + ~すぎる = too much ~, over~"
 ],
 [
     "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
