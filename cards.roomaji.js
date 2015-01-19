@@ -2161,12 +2161,12 @@ Flashcards.initialize([
 ],
 [
     "When (I) was a child, (I) wanted to be a film star.",
-    "kodomo no koro, {映画|eiga} _sutaa_ ni naritakatta desu.",
+    "{子供|kodomo} no koro, {映画|eiga} _sutaa_ ni naritakatta desu.",
     "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "When (I) was a child, (I) wanted to be a firefighter.",
-    "kodomo no koro, shouboushi ni naritakatta desu.",
+    "{子供|kodomo} no koro, shouboushi ni naritakatta desu.",
     "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2276,7 +2276,7 @@ Flashcards.initialize([
 ],
 [
     "This is a book for children.",
-    "{此れ|kore} wa kodomo no tame no {本|hon} desu.",
+    "{此れ|kore} wa {子供|kodomo} no tame no {本|hon} desu.",
     "Noun A + の + ため + の + Noun B = Noun B (is) for the benefit of Noun A"
 ],
 [

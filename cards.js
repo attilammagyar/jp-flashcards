@@ -2161,12 +2161,12 @@ Flashcards.initialize([
     ],
     [
         "When (I) was a child, (I) wanted to be a film star.",
-        "\u3053\u3069\u3082\u306e\u3053\u308d\u3001{\u6620\u753b|\u3048\u3044\u304c}\u30b9\u30bf\u30fc\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
+        "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u3053\u308d\u3001{\u6620\u753b|\u3048\u3044\u304c}\u30b9\u30bf\u30fc\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
         "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~ (verb --&gt; \u3044 adj.); \u304b\u3063\u305f = past tense of \u3044 adj; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "When (I) was a child, (I) wanted to be a firefighter.",
-        "\u3053\u3069\u3082\u306e\u3053\u308d\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
+        "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u3053\u308d\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
         "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~ (verb --&gt; \u3044 adj.); \u304b\u3063\u305f = past tense of \u3044 adj; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
@@ -2276,7 +2276,7 @@ Flashcards.initialize([
     ],
     [
         "This is a book for children.",
-        "{\u6b64\u308c|\u3053\u308c}\u306f\u3053\u3069\u3082\u306e\u305f\u3081\u306e{\u672c|\u307b\u3093}\u3067\u3059\u3002",
+        "{\u6b64\u308c|\u3053\u308c}\u306f{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u305f\u3081\u306e{\u672c|\u307b\u3093}\u3067\u3059\u3002",
         "Noun A + \u306e + \u305f\u3081 + \u306e + Noun B = Noun B (is) for the benefit of Noun A"
     ],
     [
