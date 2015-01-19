@@ -1861,7 +1861,7 @@ Flashcards.initialize([
 ],
 [
     "Robert speaks Japanese well.",
-    "_robaato_ san wa {良く|yoku} {日本語|nihongo} wo  {話します|hanashimasu}.",
+    "_robaato_ san wa {良く|yoku} {日本語|nihongo} wo {話します|hanashimasu}.",
     "い adj. - い + く = adverb"
 ],
 [
@@ -1876,7 +1876,7 @@ Flashcards.initialize([
 ],
 [
     "Natsuko speaks English softly/kindly.",
-    "natsuko san wa yasashiku {英語|eigo} wo  {話します|hanashimasu}.",
+    "natsuko san wa yasashiku {英語|eigo} wo {話します|hanashimasu}.",
     "い adj. - い + く = adverb"
 ],
 [
@@ -2182,7 +2182,7 @@ Flashcards.initialize([
 [
     "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
     "{毎朝|maiasa} natsuko san wa _koohii_ wo nominagara shinbun wo yomimasu.",
-    "Verb stem + ながら + Main Verb = do Main Verb while doing Verb, subject must be the same"
+    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
     "Roger taught Miki how to do bowling.",
@@ -2293,5 +2293,25 @@ Flashcards.initialize([
     "I'm good at Mathematics.",
     "{私|watashi} wa suugaku ga tokui desu.",
     "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+],
+[
+    "Ms. Natsuko drank green tea while listening to the news.",
+    "natsuko san wa _nyuusu_ wo {聞きながら|kikinagara} {お茶|ocha} wo nomimashita.",
+    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+],
+[
+    "Naoe talked to Yuki while making a meal.",
+    "naoe san wa shokuji wo tsukurinagara yuki san to {話しました|hanashimashita}.",
+    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+],
+[
+    "Robert wrote kanji while listening to music.",
+    "_robaato_ san wa {音楽|ongaku} wo {聞きながら|kikinagara} kanji wo {書きました|kakimashita}.",
+    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+],
+[
+    "Mr. Hondo eats (his) lunch while working.",
+    "hondou san wa hatarakinagara hirugohan wo tabemasu.",
+    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ]
 ])

@@ -2182,7 +2182,7 @@ Flashcards.initialize([
     [
         "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
         "{\u6bce\u671d|\u307e\u3044\u3042\u3055}\u306a\u3064\u3053\u3055\u3093\u306f\u30b3\u30fc\u30d2\u30fc\u3092\u306e\u307f\u306a\u304c\u3089\u3057\u3093\u3076\u3093\u3092\u3088\u307f\u307e\u3059\u3002",
-        "Verb stem + \u306a\u304c\u3089 + Main Verb = do Main Verb while doing Verb, subject must be the same"
+        "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
     ],
     [
         "Roger taught Miki how to do bowling.",
@@ -2293,5 +2293,25 @@ Flashcards.initialize([
         "I'm good at Mathematics.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u3059\u3046\u304c\u304f\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
         "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+    ],
+    [
+        "Ms. Natsuko drank green tea while listening to the news.",
+        "\u306a\u3064\u3053\u3055\u3093\u306f\u30cb\u30e5\u30fc\u30b9\u3092{\u805e\u304d\u306a\u304c\u3089|\u304d\u304d\u306a\u304c\u3089}{\u304a\u8336|\u304a\u3061\u3083}\u3092\u306e\u307f\u307e\u3057\u305f\u3002",
+        "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+    ],
+    [
+        "Naoe talked to Yuki while making a meal.",
+        "\u306a\u304a\u3048\u3055\u3093\u306f\u3057\u3087\u304f\u3058\u3092\u3064\u304f\u308a\u306a\u304c\u3089\u3086\u304d\u3055\u3093\u3068{\u8a71\u3057\u307e\u3057\u305f|\u306f\u306a\u3057\u307e\u3057\u305f}\u3002",
+        "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+    ],
+    [
+        "Robert wrote kanji while listening to music.",
+        "\u30ed\u30d0\u30fc\u30c8\u3055\u3093\u306f{\u97f3\u697d|\u304a\u3093\u304c\u304f}\u3092{\u805e\u304d\u306a\u304c\u3089|\u304d\u304d\u306a\u304c\u3089}\u304b\u3093\u3058\u3092{\u66f8\u304d\u307e\u3057\u305f|\u304b\u304d\u307e\u3057\u305f}\u3002",
+        "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+    ],
+    [
+        "Mr. Hondo eats (his) lunch while working.",
+        "\u307b\u3093\u3069\u3046\u3055\u3093\u306f\u306f\u305f\u3089\u304d\u306a\u304c\u3089\u3072\u308b\u3054\u306f\u3093\u3092\u305f\u3079\u307e\u3059\u3002",
+        "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
     ]
 ])
