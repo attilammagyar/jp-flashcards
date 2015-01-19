@@ -2187,7 +2187,7 @@ Flashcards.initialize([
     [
         "Roger taught Miki how to do bowling.",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b\u30dc\u30fc\u30ea\u30f3\u30b0\u306e\u3057\u304b\u305f\u3092\u304a\u3057\u3048\u307e\u3057\u305f\u3002",
-        ""
+        "Verb stem + \u304b\u305f = how to do Verb (Verb --&gt; Noun); Noun \u3092 Verb --&gt; Noun \u306e Verb stem + \u304b\u305f"
     ],
     [
         "Ms. Natsuko went to the town to meet Miki.",
@@ -2313,5 +2313,10 @@ Flashcards.initialize([
         "Mr. Hondo eats (his) lunch while working.",
         "\u307b\u3093\u3069\u3046\u3055\u3093\u306f\u306f\u305f\u3089\u304d\u306a\u304c\u3089\u3072\u308b\u3054\u306f\u3093\u3092\u305f\u3079\u307e\u3059\u3002",
         "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+    ],
+    [
+        "Rie taught Roger how to make sushi.",
+        "\u308a\u3048\u3055\u3093\u306f\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306b\u3059\u3057\u306e\u3064\u304f\u308a\u304b\u305f\u3092\u304a\u3057\u3048\u307e\u3057\u305f\u3002",
+        "Verb stem + \u304b\u305f = how to do Verb (Verb --&gt; Noun); Noun \u3092 Verb --&gt; Noun \u306e Verb stem + \u304b\u305f"
     ]
 ])

@@ -2187,7 +2187,7 @@ Flashcards.initialize([
 [
     "Roger taught Miki how to do bowling.",
     "_rojaa_ san wa {三木|miki} san ni _booringu_ no shikata wo oshiemashita.",
-    ""
+    "Verb stem + かた = how to do Verb (Verb --&gt; Noun); Noun を Verb --&gt; Noun の Verb stem + かた"
 ],
 [
     "Ms. Natsuko went to the town to meet Miki.",
@@ -2313,5 +2313,10 @@ Flashcards.initialize([
     "Mr. Hondo eats (his) lunch while working.",
     "hondou san wa hatarakinagara hirugohan wo tabemasu.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+],
+[
+    "Rie taught Roger how to make sushi.",
+    "rie san wa _rojaa_ san ni sushi no tsukurikata wo oshiemashita.",
+    "Verb stem + かた = how to do Verb (Verb --&gt; Noun); Noun を Verb --&gt; Noun の Verb stem + かた"
 ]
 ])
