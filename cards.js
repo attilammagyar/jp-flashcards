@@ -2192,12 +2192,12 @@ Flashcards.initialize([
     [
         "Ms. Natsuko went to the town to meet Miki.",
         "\u306a\u3064\u3053\u3055\u3093\u306f\u307e\u3061\u3078{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b\u3042\u3044\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "\u3078 = to, towards, pronounced as \u3048"
+        "\u3078 = to, towards, pronounced as \u3048; (Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
     ],
     [
         "This film looks interesting, doesn't it?",
         "{\u6b64\u306e|\u3053\u306e}{\u6620\u753b|\u3048\u3044\u304c}\u306f\u304a\u3082\u3057\u308d\u305d\u3046\u3067\u3059\u306d\u3002",
-        ""
+        "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
     ],
     [
         "Roger likes sports the best/most.",
@@ -2318,5 +2318,25 @@ Flashcards.initialize([
         "Rie taught Roger how to make sushi.",
         "\u308a\u3048\u3055\u3093\u306f\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306b\u3059\u3057\u306e\u3064\u304f\u308a\u304b\u305f\u3092\u304a\u3057\u3048\u307e\u3057\u305f\u3002",
         "Verb stem + \u304b\u305f = how to do Verb (Verb --&gt; Noun); Noun \u3092 Verb --&gt; Noun \u306e Verb stem + \u304b\u305f"
+    ],
+    [
+        "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u306a\u3064\u3053\u3055\u3093\u3068\u30ec\u30b9\u30c8\u30e9\u30f3\u3078\u308f\u3057\u3087\u304f\u3092\u305f\u3079\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "\u3078 = to, towards, pronounced as \u3048; (Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
+    ],
+    [
+        "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
+        "\u3086\u3046\u3081\u3044\u305d\u3046\u3067\u3059\u3002{\u6b64\u306e|\u3053\u306e}{\u6620\u753b|\u3048\u3044\u304c}\u306f\u3064\u307e\u3089\u306a\u305d\u3046\u3067\u3059\u3002\u3042\u305f\u307e\u304c\u3044\u305f\u305d\u3046\u3067\u3059\u3002{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u8a71\u3057\u305d\u3046|\u306f\u306a\u3057\u305d\u3046}\u3067\u3059\u3002",
+        "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+    ],
+    [
+        "(She) looks very beautiful, doesn't she?",
+        "\u3068\u3066\u3082\u3046\u3064\u304f\u3057\u305d\u3046\u3067\u3059\u306d\u3002",
+        "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+    ],
+    [
+        "(It) looks like (it) will rain.",
+        "{\u96e8|\u3042\u3081}\u304c\u3075\u308a\u305d\u3046\u3067\u3059\u3002",
+        "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
     ]
 ])

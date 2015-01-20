@@ -2192,12 +2192,12 @@ Flashcards.initialize([
 [
     "Ms. Natsuko went to the town to meet Miki.",
     "natsuko san wa machi he {三木|miki} san ni ai ni {行きました|ikimashita}.",
-    "へ = to, towards, pronounced as え"
+    "へ = to, towards, pronounced as え; (Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
     "This film looks interesting, doesn't it?",
     "{此の|kono} {映画|eiga} wa omoshirosou desu ne.",
-    ""
+    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
     "Roger likes sports the best/most.",
@@ -2318,5 +2318,25 @@ Flashcards.initialize([
     "Rie taught Roger how to make sushi.",
     "rie san wa _rojaa_ san ni sushi no tsukurikata wo oshiemashita.",
     "Verb stem + かた = how to do Verb (Verb --&gt; Noun); Noun を Verb --&gt; Noun の Verb stem + かた"
+],
+[
+    "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
+    "{私|watashi} wa natsuko san to _resutoran_ he washoku wo tabe ni {行きました|ikimashita}.",
+    "へ = to, towards, pronounced as え; (Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
+],
+[
+    "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
+    "yuumeisou desu. {此の|kono} {映画|eiga} wa tsumaranasou desu. atama ga itasou desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
+    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+],
+[
+    "(She) looks very beautiful, doesn't she?",
+    "totemo utsukushisou desu ne.",
+    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+],
+[
+    "(It) looks like (it) will rain.",
+    "{雨|ame} ga furisou desu.",
+    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ]
 ])
