@@ -111,7 +111,7 @@ Flashcards.initialize([
 ],
 [
     "Is this cold-medicine the strongest?",
-    "{此の|kono} kazegusuri wa ichiban tsuyoi desu ka.",
+    "{此の|kono} kazegusuri wa ichiban {強い|tsuyoi} desu ka.",
     ""
 ],
 [
@@ -1586,12 +1586,12 @@ Flashcards.initialize([
 ],
 [
     "hair, long, short, shoulder-length",
-    "kami, nagai, mijikai, kata gurai",
+    "kami, {長い|nagai}, mijikai, kata gurai",
     ""
 ],
 [
     "face, long/narrow, square, round",
-    "kao, nagai, shikakui, marui",
+    "kao, {長い|nagai}, shikakui, marui",
     ""
 ],
 [
@@ -1611,7 +1611,7 @@ Flashcards.initialize([
 ],
 [
     "(She) has long, black hair.",
-    "kami ga nagakute, kuroi desu.",
+    "kami ga {長くて|nagakute}, kuroi desu.",
     ""
 ],
 [
@@ -1706,7 +1706,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
-    "se ga futsuu de, kami ga nagakute chairo desu. me mo chairo desu. kao ga marukute, hana ga {大きい|ookii} desu.",
+    "se ga futsuu de, kami ga {長くて|nagakute} chairo desu. me mo chairo desu. kao ga marukute, hana ga {大きい|ookii} desu.",
     ""
 ],
 [
@@ -1751,7 +1751,7 @@ Flashcards.initialize([
 ],
 [
     "The film was interesting but a bit long.",
-    "{映画|eiga} wa omoshirokatta desu ga chotto nagakatta desu.",
+    "{映画|eiga} wa omoshirokatta desu ga chotto {長かった|nagakatta} desu.",
     ""
 ],
 [
@@ -2076,7 +2076,7 @@ Flashcards.initialize([
 ],
 [
     "(In) Sapporo, the wind will probably be strong and sometimes (it) will snow. (It) will probably be 0°C.",
-    "Sapporo wa {風|kaze} ga tsuyokute {時々|tokidoki} {雪|yuki} deshou. rei do deshou.",
+    "Sapporo wa {風|kaze} ga {強くて|tsuyokute} {時々|tokidoki} {雪|yuki} deshou. rei do deshou.",
     ""
 ],
 [
