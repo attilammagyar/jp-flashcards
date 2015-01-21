@@ -2338,5 +2338,40 @@ Flashcards.initialize([
     "(It) looks like (it) will rain.",
     "{雨|ame} ga furisou desu.",
     "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+],
+[
+    "What do (you) do in (your) free time? For example, what are (your) hobbies?",
+    "hima na {時|toki} ni wa {何|nani} wo shimasu ka. tatoeba, goshumi wa {何|nan} desu ka.",
+    ""
+],
+[
+    "(I) don't know anything about you at all.",
+    "anata no koto wo zenzen {知りません|shirimasen}.",
+    ""
+],
+[
+    "\"You can call me Natsuko, you know.\" (Natsuko is OK.)",
+    "natsuko de {良い|ii} desu yo.",
+    ""
+],
+[
+    "(I) always drive in (my) free time. Almost every day, (I) go for a drive after work.",
+    "hima na {時|toki} ni wa itsumo _doraibu_ shimasu. hotondo {毎日|mainichi}, {仕事|shigoto} no {後|ato} ni _doraibu_ ni {行きます|ikimasu}.",
+    ""
+],
+[
+    "(I) often go till Mt. Fuji, but occasionally (I) also go to Izu, you know.",
+    "yoku fujisan made {行きます|ikimasu} kedo, tamani wa izu ni mo {行きます|ikimasu} yo.",
+    ""
+],
+[
+    "I love Izu, and (I'm) also interested in cars.",
+    "{私|watashi} wa izu ga dai suki de, kuruma ni mo kyoumi ga arimasu.",
+    "な-adj. + で = adj. and ..."
+],
+[
+    "Won't we go for a drive together this weekend?",
+    "konshuumatsu isshoni _doraibu_ he {行きません|ikimasen} ka.",
+    ""
 ]
 ])

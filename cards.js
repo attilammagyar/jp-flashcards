@@ -2338,5 +2338,40 @@ Flashcards.initialize([
         "(It) looks like (it) will rain.",
         "{\u96e8|\u3042\u3081}\u304c\u3075\u308a\u305d\u3046\u3067\u3059\u3002",
         "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+    ],
+    [
+        "What do (you) do in (your) free time? For example, what are (your) hobbies?",
+        "\u3072\u307e\u306a{\u6642|\u3068\u304d}\u306b\u306f{\u4f55|\u306a\u306b}\u3092\u3057\u307e\u3059\u304b\u3002\u305f\u3068\u3048\u3070\u3001\u3054\u3057\u3085\u307f\u306f{\u4f55|\u306a\u3093}\u3067\u3059\u304b\u3002",
+        ""
+    ],
+    [
+        "(I) don't know anything about you at all.",
+        "\u3042\u306a\u305f\u306e\u3053\u3068\u3092\u305c\u3093\u305c\u3093{\u77e5\u308a\u307e\u305b\u3093|\u3057\u308a\u307e\u305b\u3093}\u3002",
+        ""
+    ],
+    [
+        "\"You can call me Natsuko, you know.\" (Natsuko is OK.)",
+        "\u306a\u3064\u3053\u3067{\u826f\u3044|\u3044\u3044}\u3067\u3059\u3088\u3002",
+        ""
+    ],
+    [
+        "(I) always drive in (my) free time. Almost every day, (I) go for a drive after work.",
+        "\u3072\u307e\u306a{\u6642|\u3068\u304d}\u306b\u306f\u3044\u3064\u3082\u30c9\u30e9\u30a4\u30d6\u3057\u307e\u3059\u3002\u307b\u3068\u3093\u3069{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3001{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306e{\u5f8c|\u3042\u3068}\u306b\u30c9\u30e9\u30a4\u30d6\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
+        ""
+    ],
+    [
+        "(I) often go till Mt. Fuji, but occasionally (I) also go to Izu, you know.",
+        "\u3088\u304f\u3075\u3058\u3055\u3093\u307e\u3067{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3051\u3069\u3001\u305f\u307e\u306b\u306f\u3044\u305a\u306b\u3082{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3088\u3002",
+        ""
+    ],
+    [
+        "I love Izu, and (I'm) also interested in cars.",
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u3044\u305a\u304c\u3060\u3044\u3059\u304d\u3067\u3001\u304f\u308b\u307e\u306b\u3082\u304d\u3087\u3046\u307f\u304c\u3042\u308a\u307e\u3059\u3002",
+        "\u306a-adj. + \u3067 = adj. and ..."
+    ],
+    [
+        "Won't we go for a drive together this weekend?",
+        "\u3053\u3093\u3057\u3085\u3046\u307e\u3064\u3044\u3063\u3057\u3087\u306b\u30c9\u30e9\u30a4\u30d6\u3078{\u884c\u304d\u307e\u305b\u3093|\u3044\u304d\u307e\u305b\u3093}\u304b\u3002",
+        ""
     ]
 ])
