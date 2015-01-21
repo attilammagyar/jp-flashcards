@@ -236,7 +236,7 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) go home early.",
-    "{時々|tokidoki} hayaku {家|uchi} ni kaerimasu.",
+    "{時々|tokidoki} hayaku {家|uchi} ni {帰ります|kaerimasu}.",
     ""
 ],
 [
@@ -246,7 +246,7 @@ Flashcards.initialize([
 ],
 [
     "(I) will return to Japan tomorrow.",
-    "{明日|ashita} {日本|nihon} ni kaerimasu.",
+    "{明日|ashita} {日本|nihon} ni {帰ります|kaerimasu}.",
     ""
 ],
 [
@@ -406,7 +406,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always return home late. Occasionally (I) eat dinner with (my) family.",
-    "itsumo osoku {家|uchi} ni kaerimasu. tamani kazoku to bangohan wo tabemasu.",
+    "itsumo osoku {家|uchi} ni {帰ります|kaerimasu}. tamani kazoku to bangohan wo tabemasu.",
     ""
 ],
 [
@@ -436,7 +436,7 @@ Flashcards.initialize([
 ],
 [
     "What time do (you) go home?",
-    "{何時|nanji} ni {家|uchi} ni kaerimasu ka.",
+    "{何時|nanji} ni {家|uchi} ni {帰ります|kaerimasu} ka.",
     ""
 ],
 [
@@ -451,7 +451,7 @@ Flashcards.initialize([
 ],
 [
     "(I) go home around 10-11 o'clock.",
-    "{十時|juuji}, {十一時|juuichi ji} goro kaerimasu.",
+    "{十時|juuji}, {十一時|juuichi ji} goro {帰ります|kaerimasu}.",
     ""
 ],
 [
@@ -1531,7 +1531,7 @@ Flashcards.initialize([
 ],
 [
     "(My) mother is tall (and) has big eyes.",
-    "{母|haha} wa se ga {高くて|takakute} me ga {大きい|ookii} desu.",
+    "{母|haha} wa se ga {高くて|takakute} {目|me} ga {大きい|ookii} desu.",
     ""
 ],
 [
@@ -1601,12 +1601,12 @@ Flashcards.initialize([
 ],
 [
     "I am tall (with) blue eyes and blonde hair.",
-    "{私|watashi} wa se ga {高くて|takakute}, me ga aokute, kami ga kinpatsu desu.",
+    "{私|watashi} wa se ga {高くて|takakute}, {目|me} ga aokute, kami ga kinpatsu desu.",
     ""
 ],
 [
     "(My) mother has round face, a high nose and brown eyes.",
-    "{母|haha} wa kao ga marukute, hana ga {高くて|takakute}, me ga chairo desu.",
+    "{母|haha} wa kao ga marukute, hana ga {高くて|takakute}, {目|me} ga chairo desu.",
     ""
 ],
 [
@@ -1706,7 +1706,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
-    "se ga futsuu de, kami ga {長くて|nagakute} chairo desu. me mo chairo desu. kao ga marukute, hana ga {大きい|ookii} desu.",
+    "se ga futsuu de, kami ga {長くて|nagakute} chairo desu. {目|me} mo chairo desu. kao ga marukute, hana ga {大きい|ookii} desu.",
     ""
 ],
 [
@@ -2021,7 +2021,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no kippu wo kaimashita. douryou no kuruma de kaerimashita. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
+    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no kippu wo kaimashita. douryou no kuruma de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2096,7 +2096,7 @@ Flashcards.initialize([
 ],
 [
     "(My) neighbour has big eyes and (he's) not tall.",
-    "kinjo no {人|hito} wa me ga {大きくて|ookikute} se ga {高くない|takakunai} desu.",
+    "kinjo no {人|hito} wa {目|me} ga {大きくて|ookikute} se ga {高くない|takakunai} desu.",
     ""
 ],
 [
