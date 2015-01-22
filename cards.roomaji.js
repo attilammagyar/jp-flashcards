@@ -26,7 +26,7 @@ Flashcards.initialize([
 ],
 [
     "This newspaper is Ichirou's.",
-    "{此の|kono} shinbun wa ichirou no desu.",
+    "{此の|kono} {新聞|shinbun} wa ichirou no desu.",
     ""
 ],
 [
@@ -56,7 +56,7 @@ Flashcards.initialize([
 ],
 [
     "Ichirou eats a meal every day.",
-    "ichirou wa {毎日|mainichi} gohan wo tabemasu.",
+    "ichirou wa {毎日|mainichi} gohan wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -86,7 +86,7 @@ Flashcards.initialize([
 ],
 [
     "I don't eat meat very often.",
-    "{私|watashi} wa {肉|niku} wo amari tabemasen.",
+    "{私|watashi} wa {肉|niku} wo amari {食べません|tabemasen}.",
     ""
 ],
 [
@@ -121,7 +121,7 @@ Flashcards.initialize([
 ],
 [
     "Shall (we) eat sushi together?",
-    "issho ni sushi wo tabemasen ka.",
+    "issho ni sushi wo {食べません|tabemasen} ka.",
     ""
 ],
 [
@@ -141,17 +141,17 @@ Flashcards.initialize([
 ],
 [
     "(I) eat breakfast with my family.",
-    "kazoku to asagohan wo tabemasu.",
+    "kazoku to asagohan wo {食べます|tabemasu}.",
     ""
 ],
 [
     "When will (we) eat lunch?",
-    "ohirugohan wo {何時|nanji} ni tabemasu ka.",
+    "ohirugohan wo {何時|nanji} ni {食べます|tabemasu} ka.",
     ""
 ],
 [
     "What (will we) eat?",
-    "{何|nani} wo tabemasu ka.",
+    "{何|nani} wo {食べます|tabemasu} ka.",
     ""
 ],
 [
@@ -161,17 +161,17 @@ Flashcards.initialize([
 ],
 [
     "(I) eat toast with eggs for breakfast.",
-    "asagohan ni _toosuto_ to tamago wo tabemasu.",
+    "asagohan ni _toosuto_ to tamago wo {食べます|tabemasu}.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
     "(I) eat lunch at the company.",
-    "kaisha de hirugohan wo tabemasu.",
+    "kaisha de hirugohan wo {食べます|tabemasu}.",
     ""
 ],
 [
     "Let's eat dinner at that restaurant over there!",
-    "ano _resutoran_ de bangohan wo tabemashou.",
+    "ano _resutoran_ de bangohan wo {食べましょう|tabemashou}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
@@ -181,7 +181,7 @@ Flashcards.initialize([
 ],
 [
     "We always eat dinner together.",
-    "watashitachi wa itsumo issho ni bangohan wo tabemasu.",
+    "watashitachi wa itsumo issho ni bangohan wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -211,7 +211,7 @@ Flashcards.initialize([
 ],
 [
     "In the mornings (I) always buy a newspaper and a coffee.",
-    "{朝|asa} itsumo shinbun to _koohii_ wo kaimasu.",
+    "{朝|asa} itsumo {新聞|shinbun} to _koohii_ wo kaimasu.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
@@ -281,7 +281,7 @@ Flashcards.initialize([
 ],
 [
     "(I) occasionally buy a newspaper at the supermarket",
-    "tamani _suupaa_ de shinbun wo kaimasu.",
+    "tamani _suupaa_ de {新聞|shinbun} wo kaimasu.",
     ""
 ],
 [
@@ -291,12 +291,12 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (I) will eat with (my) family at the restaurant.",
-    "{明日|ashita} kazoku to _resutoran_ de tabemasu.",
+    "{明日|ashita} kazoku to _resutoran_ de {食べます|tabemasu}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
     "I eat lunch at the company every day.",
-    "{私|watashi} wa {毎日|mainichi} kaisha de hirugohan wo tabemasu.",
+    "{私|watashi} wa {毎日|mainichi} kaisha de hirugohan wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -321,7 +321,7 @@ Flashcards.initialize([
 ],
 [
     "For breakfast (I) usually eat toast, and then (I) drink coffee.",
-    "asagohan ni taitei _toosuto_ wo tabemasu. soshite _koohii_ wo nomimasu.",
+    "asagohan ni taitei _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo nomimasu.",
     ""
 ],
 [
@@ -341,7 +341,7 @@ Flashcards.initialize([
 ],
 [
     "And then (I) frequently eat dinner with (my) colleagues at a restaurant.",
-    "soshite tabitabi jimusho no {人|hito} to _resutoran_ de bangohan wo tabemasu.",
+    "soshite tabitabi jimusho no {人|hito} to _resutoran_ de bangohan wo {食べます|tabemasu}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
@@ -386,7 +386,7 @@ Flashcards.initialize([
 ],
 [
     "For lunch (I) eat egg and toast. And (I) drink coffee.",
-    "hirugohan ni tamago to _toosuto_ wo tabemasu. soshite _koohii_ wo nomimasu.",
+    "hirugohan ni tamago to _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo nomimasu.",
     "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
 ],
 [
@@ -401,12 +401,12 @@ Flashcards.initialize([
 ],
 [
     "In the afternoon (I) usually read the newspaper. Sometimes (I) watch the news.",
-    "{午後|gogo} taitei shinbun wo yomimasu. {時々|tokidoki} _nyuusu_ wo {見ます|mimasu}.",
+    "{午後|gogo} taitei {新聞|shinbun} wo yomimasu. {時々|tokidoki} _nyuusu_ wo {見ます|mimasu}.",
     ""
 ],
 [
     "(I) always return home late. Occasionally (I) eat dinner with (my) family.",
-    "itsumo osoku {家|uchi} ni {帰ります|kaerimasu}. tamani kazoku to bangohan wo tabemasu.",
+    "itsumo osoku {家|uchi} ni {帰ります|kaerimasu}. tamani kazoku to bangohan wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -446,7 +446,7 @@ Flashcards.initialize([
 ],
 [
     "What do (you) eat for breakfast?",
-    "asagohan ni {何|nani} wo tabemasu ka.",
+    "asagohan ni {何|nani} wo {食べます|tabemasu} ka.",
     ""
 ],
 [
@@ -526,12 +526,12 @@ Flashcards.initialize([
 ],
 [
     "Is that an English newspaper?",
-    "{其れ|sore} wa igirisu no shinbun desu ka.",
+    "{其れ|sore} wa igirisu no {新聞|shinbun} desu ka.",
     ""
 ],
 [
     "Excuse me, (do you) have (any) French newspapers?",
-    "sumimasen, _furansu_ no shinbun ga arimasu ka.",
+    "sumimasen, _furansu_ no {新聞|shinbun} ga arimasu ka.",
     ""
 ],
 [
@@ -1336,7 +1336,7 @@ Flashcards.initialize([
 ],
 [
     "(I) ate breakfast.",
-    "asagohan wo tabemashita.",
+    "asagohan wo {食べました|tabemashita}.",
     ""
 ],
 [
@@ -1351,7 +1351,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to eat rice with chopsticks.",
-    "ohashi de gohan wo tabetai desu.",
+    "ohashi de gohan wo {食べたい|tabetai} desu.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); ~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -1641,7 +1641,7 @@ Flashcards.initialize([
 ],
 [
     "(I) hope to eat sushi in Japan and I hope to see Mount Fuji.",
-    "{日本|nihon} de sushi wo tabetai to omoimasu. soshite fuji san wo mitai to omoimasu.",
+    "{日本|nihon} de sushi wo {食べたい|tabetai} to omoimasu. soshite fuji san wo {見たい|mitai} to omoimasu.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -1771,7 +1771,7 @@ Flashcards.initialize([
 ],
 [
     "First, (we'll) eat.",
-    "saisho wa tabemasu.",
+    "saisho wa {食べます|tabemasu}.",
     ""
 ],
 [
@@ -2091,7 +2091,7 @@ Flashcards.initialize([
 ],
 [
     "I don't read newspaper very much.",
-    "{私|watashi} wa amari shinbun wo yomimasen.",
+    "{私|watashi} wa amari {新聞|shinbun} wo yomimasen.",
     ""
 ],
 [
@@ -2106,7 +2106,7 @@ Flashcards.initialize([
 ],
 [
     "(I) had a headache last night. (I) didn't eat anything.",
-    "yuube atama ga itakatta desu. {何|nani} mo tabemasen deshita.",
+    "yuube atama ga itakatta desu. {何|nani} mo {食べません|tabemasen} deshita.",
     ""
 ],
 [
@@ -2181,7 +2181,7 @@ Flashcards.initialize([
 ],
 [
     "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
-    "{毎朝|maiasa} natsuko san wa _koohii_ wo nominagara shinbun wo yomimasu.",
+    "{毎朝|maiasa} natsuko san wa _koohii_ wo nominagara {新聞|shinbun} wo yomimasu.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2216,7 +2216,7 @@ Flashcards.initialize([
 ],
 [
     "I don't want to eat sushi. (I) don't want to eat sushi.",
-    "{私|watashi} wa sushi wo tabetakunai desu. sushi wa tabetakunai desu.",
+    "{私|watashi} wa sushi wo {食べたくない|tabetakunai} desu. sushi wa {食べたくない|tabetakunai} desu.",
     "~たい: may use が instead of を; ~たい + negative: if topic is not mentioned then は can be used instead of が; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2226,7 +2226,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to eat a banana. (I) want to eat a banana.",
-    "_banana_ wo tabetai desu. _banana_ ga tabetai desu.",
+    "_banana_ wo {食べたい|tabetai} desu. _banana_ ga {食べたい|tabetai} desu.",
     "~たい: may use が instead of を; ~たい + negative: if topic is not mentioned then は can be used instead of が; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2256,7 +2256,7 @@ Flashcards.initialize([
 ],
 [
     "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. [polite]",
-    "{私|watashi} wa {毎日|mainichi} yakiniku wo tabemasu. demo, itsumo yasai wo yakiniku to isshoni tabemasu kara, mondai gozaimasen.",
+    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, itsumo yasai wo yakiniku to isshoni {食べます|tabemasu} kara, mondai gozaimasen.",
     ""
 ],
 [
@@ -2311,7 +2311,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Hondo eats (his) lunch while working.",
-    "hondou san wa hatarakinagara hirugohan wo tabemasu.",
+    "hondou san wa hatarakinagara hirugohan wo {食べます|tabemasu}.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2321,7 +2321,7 @@ Flashcards.initialize([
 ],
 [
     "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
-    "{私|watashi} wa natsuko san to _resutoran_ he washoku wo tabe ni {行きました|ikimashita}.",
+    "{私|watashi} wa natsuko san to _resutoran_ he washoku wo {食べ|tabe} ni {行きました|ikimashita}.",
     "へ = to, towards, pronounced as え; (Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
