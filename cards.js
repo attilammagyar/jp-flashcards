@@ -2345,8 +2345,8 @@ Flashcards.initialize([
         ""
     ],
     [
-        "(I) don't know anything about you at all.",
-        "\u3042\u306a\u305f\u306e\u3053\u3068\u3092\u305c\u3093\u305c\u3093{\u77e5\u308a\u307e\u305b\u3093|\u3057\u308a\u307e\u305b\u3093}\u3002",
+        "Because (I) don't know anything about you at all.",
+        "\u3042\u306a\u305f\u306e\u3053\u3068\u3092\u305c\u3093\u305c\u3093{\u77e5\u308a\u307e\u305b\u3093|\u3057\u308a\u307e\u305b\u3093}\u304b\u3089\u3002",
         ""
     ],
     [
@@ -2372,6 +2372,26 @@ Flashcards.initialize([
     [
         "Won't (we) go for a drive together this weekend?",
         "\u3053\u3093\u3057\u3085\u3046\u307e\u3064\u3044\u3063\u3057\u3087\u306b\u30c9\u30e9\u30a4\u30d6\u3078{\u884c\u304d\u307e\u305b\u3093|\u3044\u304d\u307e\u305b\u3093}\u304b\u3002",
+        ""
+    ],
+    [
+        "I go to the gym on weeknights.",
+        "\u3078\u3044\u3058\u3064\u306e\u3088\u308b\u3001{\u79c1|\u308f\u305f\u3057}\u306f\u30b8\u30e0\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
+        ""
+    ],
+    [
+        "I hated dogs at first.",
+        "\u3055\u3044\u3057\u3087\u3001{\u79c1|\u308f\u305f\u3057}\u306f{\u72ac|\u3044\u306c}\u304c\u304d\u3089\u3044\u3067\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Roger is most skilful at bowling.",
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3044\u3061\u3070\u3093\u3058\u3087\u3046\u305a\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "(I) hate tennis the most, but baseball is the most boring.",
+        "\u30c6\u30cb\u30b9\u304c\u3044\u3061\u3070\u3093\u304d\u3089\u3044\u3067\u3059\u304c\u3084\u304d\u3085\u3046\u306f\u3044\u3061\u3070\u3093\u3064\u307e\u3089\u306a\u3044\u3067\u3059\u3002",
         ""
     ]
 ])

@@ -2345,8 +2345,8 @@ Flashcards.initialize([
     ""
 ],
 [
-    "(I) don't know anything about you at all.",
-    "anata no koto wo zenzen {知りません|shirimasen}.",
+    "Because (I) don't know anything about you at all.",
+    "anata no koto wo zenzen {知りません|shirimasen} kara.",
     ""
 ],
 [
@@ -2372,6 +2372,26 @@ Flashcards.initialize([
 [
     "Won't (we) go for a drive together this weekend?",
     "konshuumatsu isshoni _doraibu_ he {行きません|ikimasen} ka.",
+    ""
+],
+[
+    "I go to the gym on weeknights.",
+    "hei jitsu no yoru, {私|watashi} wa _jimu_ ni {行きます|ikimasu}.",
+    ""
+],
+[
+    "I hated dogs at first.",
+    "saisho, {私|watashi} wa {犬|inu} ga kirai deshita.",
+    ""
+],
+[
+    "Roger is most skilful at bowling.",
+    "_rojaa_ san wa _booringu_ ga ichiban jouzu desu.",
+    ""
+],
+[
+    "(I) hate tennis the most, but baseball is the most boring.",
+    "_tenisu_ ga ichiban kirai desu ga yakyuu wa ichiban tsumaranai desu.",
     ""
 ]
 ])
