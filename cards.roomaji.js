@@ -1136,7 +1136,7 @@ Flashcards.initialize([
 ],
 [
     "If (you) turn left at the crossroads, the bank will be on the right side.",
-    "kousaten wo hidari ni magaru to ginkou wa migi gawa ni arimasu.",
+    "kousaten wo hidari ni magaru to {銀行|ginkou} wa migi gawa ni arimasu.",
     "A-dictionary-form とB = if A then B"
 ],
 [
@@ -1171,12 +1171,12 @@ Flashcards.initialize([
 ],
 [
     "The bank is next door to the restaurant.",
-    "ginkou wa _resutoran_ no tonari ni arimasu.",
+    "{銀行|ginkou} wa _resutoran_ no tonari ni arimasu.",
     ""
 ],
 [
     "The bus stop is to the side of the bank.",
-    "_basu_ tei wa ginkou no yoko ni arimasu.",
+    "_basu_ tei wa {銀行|ginkou} no yoko ni arimasu.",
     ""
 ],
 [
@@ -1231,12 +1231,12 @@ Flashcards.initialize([
 ],
 [
     "Who is (there) in front of the bank?",
-    "ginkou no {前|mae} ni dare ga imasu ka.",
+    "{銀行|ginkou} no {前|mae} ni dare ga imasu ka.",
     ""
 ],
 [
     "Where is the post office located? (It's located) next door to the bank.",
-    "yuubinkyoku wa doko ni arimasu ka. ginkou no tonari ni arimasu.",
+    "yuubinkyoku wa doko ni arimasu ka. {銀行|ginkou} no tonari ni arimasu.",
     ""
 ],
 [
@@ -1306,7 +1306,7 @@ Flashcards.initialize([
 ],
 [
     "The post office is (located) opposite the bank. The post office is opposite the bank. There is a post office opposite the bank.",
-    "yuubinkyoku wa ginkou no mukaigawa ni arimasu. yuubinkyoku wa ginkou no mukaigawa desu. ginkou no mukaigawa ni yuubinkyoku ga arimasu.",
+    "yuubinkyoku wa {銀行|ginkou} no mukaigawa ni arimasu. yuubinkyoku wa {銀行|ginkou} no mukaigawa desu. {銀行|ginkou} no mukaigawa ni yuubinkyoku ga arimasu.",
     ""
 ],
 [
@@ -1911,7 +1911,7 @@ Flashcards.initialize([
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
-    "{日本|ni hon} no shashin wo {見ました|mimashita} no de, {行きたく|ikitaku} narimashita.",
+    "{日本|ni hon} no {写真|shashin} wo {見ました|mimashita} no de, {行きたく|ikitaku} narimashita.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2156,7 +2156,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to be a bank-worker.",
-    "ginkou in ni naritai desu.",
+    "ginkouin ni naritai desu.",
     "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2261,7 +2261,7 @@ Flashcards.initialize([
 ],
 [
     "Hiking is good for the body, isn't it?",
-    "_haikingu_ wa karada ni {良い|ii} desu ne.",
+    "_haikingu_ wa {体|karada} ni {良い|ii} desu ne.",
     ""
 ],
 [
