@@ -2370,7 +2370,7 @@ Flashcards.initialize([
     "な-adj. + で = adj. and ..."
 ],
 [
-    "Won't we go for a drive together this weekend?",
+    "Won't (we) go for a drive together this weekend?",
     "konshuumatsu isshoni _doraibu_ he {行きません|ikimasen} ka.",
     ""
 ]

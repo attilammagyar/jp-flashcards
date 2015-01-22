@@ -2370,7 +2370,7 @@ Flashcards.initialize([
         "\u306a-adj. + \u3067 = adj. and ..."
     ],
     [
-        "Won't we go for a drive together this weekend?",
+        "Won't (we) go for a drive together this weekend?",
         "\u3053\u3093\u3057\u3085\u3046\u307e\u3064\u3044\u3063\u3057\u3087\u306b\u30c9\u30e9\u30a4\u30d6\u3078{\u884c\u304d\u307e\u305b\u3093|\u3044\u304d\u307e\u305b\u3093}\u304b\u3002",
         ""
     ]
