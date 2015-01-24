@@ -3,7 +3,6 @@
     color: #000000;
     margin: 0;
     padding: 0;
-    text-align: center;
 }
 
 html, body {
@@ -14,6 +13,10 @@ html, body {
 
 body {
     overflow: hidden;
+}
+
+div#card {
+    text-align: center;
 }
 
 div#card {
@@ -35,15 +38,17 @@ div#card p {
     transition: opacity 0.3s;
 }
 
-div#card p#notes {
+div#card div#notes {
     font-size: 5vmin;
     color: #102030;
     background-color: #e8fff4;
     margin: 2vmin;
     padding: 0;
+    text-align: left;
 }
 
-div#card p.hidden {
+div#card p.hidden,
+div#card div.hidden {
     transition: opacity 0s;
     opacity: 0.0;
 }

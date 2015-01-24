@@ -117,7 +117,7 @@ Flashcards.initialize([
     [
         "There are a dog and a cat over there.",
         "\u3042\u305d\u3053\u306b{\u72ac|\u3044\u306c}\u3068{\u732b|\u306d\u3053}\u304c\u3044\u307e\u3059\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "Shall (we) eat sushi together?",
@@ -162,7 +162,7 @@ Flashcards.initialize([
     [
         "(I) eat toast with eggs for breakfast.",
         "\u3042\u3055\u3054\u306f\u3093\u306b\u30c8\u30fc\u30b9\u30c8\u3068\u305f\u307e\u3054\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "(I) eat lunch at the company.",
@@ -212,7 +212,7 @@ Flashcards.initialize([
     [
         "In the mornings (I) always buy a newspaper and a coffee.",
         "{\u671d|\u3042\u3055}\u3044\u3064\u3082{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3068\u30b3\u30fc\u30d2\u30fc\u3092\u304b\u3044\u307e\u3059\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "Sometimes (I) watch television with (my) siblings.",
@@ -222,7 +222,7 @@ Flashcards.initialize([
     [
         "(I) always make dinner with (my) mom and (my) husband.",
         "\u3044\u3064\u3082{\u6bcd|\u306f\u306f}\u3068\u3057\u3085\u3058\u3093\u3068\u3070\u3093\u3054\u306f\u3093\u3092\u3064\u304f\u308a\u307e\u3059\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "(I) will go to the office tomorrow",
@@ -370,7 +370,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Today is Claude Monet's exhibition. There are many famous works. [less formal]",
+        "Today is Claude Monet's exhibition. There are many famous works. {Less formal.}",
         "\u304d\u3087\u3046\u306f\u30af\u30ed\u30fc\u30c9\u30fb\u30e2\u30cd\u306e\u3066\u3093\u3089\u3093\u304b\u3044\u3067\u3059\u3002\u3086\u3081\u3044\u306a\u3055\u304f\u3072\u3093\u304c\u3044\u3063\u3071\u3044\u3042\u308a\u307e\u3059\u3002",
         ""
     ],
@@ -387,7 +387,7 @@ Flashcards.initialize([
     [
         "For lunch (I) eat egg and toast. And (I) drink coffee.",
         "\u3072\u308b\u3054\u306f\u3093\u306b\u305f\u307e\u3054\u3068\u30c8\u30fc\u30b9\u30c8\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002\u305d\u3057\u3066\u30b3\u30fc\u30d2\u30fc\u3092\u306e\u307f\u307e\u3059\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "(I) get up every day at 6 o'clock. Then (I) make breakfast.",
@@ -505,7 +505,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Welcome. [Shopkeeper to customer.]",
+        "Welcome. {Shopkeeper to customer.}",
         "\u3044\u3089\u3063\u3057\u3083\u3044\u307e\u305b\u3002",
         ""
     ],
@@ -537,7 +537,7 @@ Flashcards.initialize([
     [
         "On the second floor, there are televisions, computers, etc.",
         "{\u4e8c|\u306b}\u304b\u3044\u306b\u30c6\u30ec\u30d3\u3084\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u304c\u3042\u308a\u307e\u3059\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "On the second floor there is nothing.",
@@ -555,7 +555,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "I'm called Natsuko. [formal]",
+        "I'm called Natsuko. {Formal.}",
         "\u306a\u3064\u3053\u3068\u3082\u3046\u3057\u307e\u3059\u3002",
         ""
     ],
@@ -585,77 +585,77 @@ Flashcards.initialize([
         ""
     ],
     [
-        "father [in-group, out-group]",
+        "father {In-group, out-group.}",
         "{\u7236|\u3061\u3061}\u3001{\u304a\u7236\u3055\u3093|\u304a\u3068\u3046\u3055\u3093}",
         ""
     ],
     [
-        "mother [in-group, out-group]",
+        "mother {In-group, out-group.}",
         "{\u6bcd|\u306f\u306f}\u3001{\u304a\u6bcd\u3055\u3093|\u304a\u304b\u3042\u3055\u3093}",
         ""
     ],
     [
-        "son [in-group, out-group]",
+        "son {In-group, out-group.}",
         "\u3080\u3059\u3053\u3001\u3080\u3059\u3053\u3055\u3093",
         ""
     ],
     [
-        "daughter [in-group, out-group]",
+        "daughter {In-group, out-group.}",
         "\u3080\u3059\u3081\u3001\u3080\u3059\u3081\u3055\u3093",
         ""
     ],
     [
-        "husband [in-group, out-group]",
+        "husband {In-group, out-group.}",
         "\u3057\u3085\u3058\u3093\u3001\u3054\u3057\u3085\u3058\u3093",
         ""
     ],
     [
-        "wife [in-group, in-group, out-group]",
+        "wife {In-group, in-group, out-group.}",
         "\u3064\u307e\u3001\u304b\u306a\u3044\u3001\u304a\u304f\u3055\u3093",
         ""
     ],
     [
-        "older sister [in-group, out-group]",
+        "older sister {In-group, out-group.}",
         "{\u59c9|\u3042\u306d}\u3001{\u304a\u59c9\u3055\u3093|\u304a\u306d\u3048\u3055\u3093}",
         ""
     ],
     [
-        "younger sister [in-group, out-group]",
+        "younger sister {In-group, out-group.}",
         "{\u59b9|\u3044\u3082\u3046\u3068}\u3001{\u59b9\u3055\u3093|\u3044\u3082\u3046\u3068\u3055\u3093}",
         ""
     ],
     [
-        "older brother [in-group, out-group]",
+        "older brother {In-group, out-group.}",
         "{\u5144|\u3042\u306b}\u3001{\u304a\u5144\u3055\u3093|\u304a\u306b\u3044\u3055\u3093}",
         ""
     ],
     [
-        "younger brother [in-group, out-group]",
+        "younger brother {In-group, out-group.}",
         "{\u5f1f|\u304a\u3068\u3046\u3068}\u3001{\u5f1f\u3055\u3093|\u304a\u3068\u3046\u3068\u3055\u3093}",
         ""
     ],
     [
-        "sibling [in-group, out-group]",
+        "sibling {In-group, out-group.}",
         "{\u5144\u5f1f|\u304d\u3087\u3046\u3060\u3044}\u3001{\u3054\u5144\u5f1f|\u3054\u304d\u3087\u3046\u3060\u3044}",
         ""
     ],
     [
-        "boy, Mr/Mrs/Ms, child, teacher, Mr/Mrs/Ms [formal]",
+        "boy, Mr/Mrs/Ms, child, teacher, Mr/Mrs/Ms {Formal.}",
         "\u304f\u3093\u3001\u3055\u3093\u3001\u3061\u3083\u3093\u3001{\u5148\u751f|\u305b\u3093\u305b\u3044}\u3001{\u69d8|\u3055\u307e}",
         ""
     ],
     [
-        "Today is Claude Monet's exhibition. There are many famous works. [more formal]",
+        "Today is Claude Monet's exhibition. There are many famous works. {More formal.}",
         "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f\u30af\u30ed\u30fc\u30c9\u30fb\u30e2\u30cd\u306e\u3066\u3093\u3089\u3093\u304b\u3044\u3067\u3059\u3002\u3086\u3081\u3044\u306a\u3055\u304f\u3072\u3093\u304c\u305f\u304f\u3055\u3093\u3042\u308a\u307e\u3059\u3002",
         ""
     ],
     [
-        "(I) need money. [Money is a necessity.]",
+        "(I) need money. {Money is a necessity.}",
         "{\u304a\u91d1|\u304a\u304b\u306d}\u304c\u3072\u3064\u3088\u3046\u3067\u3059\u3002",
         ""
     ],
     [
-        "(I) need time. [Time is a necessity.]",
+        "(I) need time. {Time is a necessity.}",
         "{\u6642\u9593|\u3058\u304b\u3093}\u304c\u3072\u3064\u3088\u3046\u3067\u3059\u3002",
         ""
     ],
@@ -682,12 +682,12 @@ Flashcards.initialize([
     [
         "Peter, (you) are very good at English.",
         "\u30d4\u30fc\u30bf\u30fc\u306f{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u3068\u304f\u3044\u3067\u3059\u306d\u3002",
-        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "She is good at cooking.",
         "{\u5f7c\u5973|\u304b\u306e\u3058\u3087}\u306f\u308a\u3087\u3046\u308a\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
-        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "Tomorrow (I) have an English exam.",
@@ -767,12 +767,12 @@ Flashcards.initialize([
     [
         "May (I) have this watch and this bag please?",
         "{\u6b64\u306e|\u3053\u306e}\u3068\u3051\u3044\u3068{\u6b64\u306e|\u3053\u306e}\u304b\u3070\u3093\u3092\u304f\u3060\u3055\u3044\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "I'm not good at waking up early.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u306f\u3084\u304a\u304d\u304c\u306b\u304c\u3066\u3067\u3059\u3002",
-        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "8 pairs of shoes",
@@ -897,7 +897,7 @@ Flashcards.initialize([
     [
         "(There) are some Americans and some Japanese people. (There) aren't (any) English people.",
         "\u30a2\u30e1\u30ea\u30ab{\u4eba|\u3058\u3093}\u3068{\u65e5\u672c\u4eba|\u306b\u307b\u3093\u3058\u3093}\u304c\u3044\u307e\u3059\u3002\u3044\u304e\u308a\u3059{\u4eba|\u3058\u3093}\u304c\u3044\u307e\u305b\u3093\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "(There) are no English people (but others may be).",
@@ -912,7 +912,7 @@ Flashcards.initialize([
     [
         "(There) are French and English journalists in that office over there.",
         "\u3042\u306e\u3058\u3080\u3057\u3087\u306b\u30d5\u30e9\u30f3\u30b9{\u4eba|\u3058\u3093}\u3068\u3044\u304e\u308a\u3059{\u4eba|\u3058\u3093}\u306e\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u304c\u3044\u307e\u3059\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "What is on the 2nd floor?",
@@ -987,7 +987,7 @@ Flashcards.initialize([
     [
         "There are TVs, computers and so on on the second floor.",
         "{\u4e8c|\u306b}\u304b\u3044\u306b\u30c6\u30ec\u30d3\u3084\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u306a\u3069\u304c\u3042\u308a\u307e\u3059\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "There's both beer and rice-wine.",
@@ -1017,7 +1017,7 @@ Flashcards.initialize([
     [
         "May (I) have 3 of this postcard and 3 of the 75 yen stamps as well please?",
         "{\u6b64\u306e|\u3053\u306e}\u306f\u304c\u304d\u3092{\u4e09|\u3055\u3093}\u307e\u3044\u3068{\u4e03\u5341\u4e94\u5186|\u306a\u306a\u3058\u3085\u3046\u3054\u3048\u3093}\u306e\u304d\u3063\u3066\u3082{\u4e09|\u3055\u3093}\u307e\u3044\u304f\u3060\u3055\u3044\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "May (I) have 4 stamps please? Where to? To America.",
@@ -1352,7 +1352,7 @@ Flashcards.initialize([
     [
         "(I) want to eat rice with chopsticks.",
         "\u304a\u306f\u3057\u3067\u3054\u306f\u3093\u3092{\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}\u3067\u3059\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to buy a Japanese camera.",
@@ -1415,7 +1415,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Excuse me, where is the supermarket? Do you know? [polite] Yes, (I) know.",
+        "Excuse me, where is the supermarket? Do you know? {Polite.} Yes, (I) know.",
         "\u3059\u307f\u307e\u305b\u3093\u3001\u30b9\u30fc\u30d1\u30fc\u306f\u3069\u3053\u306b\u3042\u308a\u307e\u3059\u304b\u3002\u3054\u305e\u3093\u3058\u3067\u3059\u304b\u3002\u306f\u3044\u3001\u3057\u3063\u3066\u3044\u307e\u3059\u3002",
         ""
     ],
@@ -1542,7 +1542,7 @@ Flashcards.initialize([
     [
         "Mr. Roger is good at bowling, isn't he?",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3058\u3087\u3046\u305a\u3067\u3059\u306d\u3002",
-        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "This is a lively place, isn't it?",
@@ -1567,7 +1567,7 @@ Flashcards.initialize([
     [
         "Ms. Miki is bad at bowling.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3078\u305f\u3067\u3059\u3002",
-        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "eyes, big, small, round",
@@ -1632,7 +1632,7 @@ Flashcards.initialize([
     [
         "(I'm) poor at sports, but (I'm) goot at origami.",
         "\u30b9\u30dd\u30fc\u30c4\u304c\u3078\u305f\u3067\u3059\u304c\u304a\u308a\u304c\u307f\u306f\u3058\u3087\u3046\u305a\u3067\u3059\u3002",
-        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "I think he's famous.",
@@ -1712,7 +1712,7 @@ Flashcards.initialize([
     [
         "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u3059\u3053\u3057{\u5927\u4eba\u3057\u3044|\u304a\u3068\u306a\u3057\u3044}\u3067\u3059\u304c\u3084\u3055\u3057\u304f\u3066{\u660e\u308b\u3044|\u3042\u304b\u308b\u3044}\u3068\u304a\u3082\u3044\u307e\u3059\u3002\u30ed\u30c3\u30af\u3068\u30e1\u30bf\u30eb\u304c\u3059\u304d\u3067\u3059\u304c\u30b9\u30dd\u30fc\u30c4\u304c\u3042\u307e\u308a\u3059\u304d\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
-        "\u3068: complete list; \u3084: incomplete list; A \u3068 B \u3068 C = A, B and C (and nothing else);  A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
+        "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "I don't think (she) is especially shy.",
@@ -1732,7 +1732,7 @@ Flashcards.initialize([
     [
         "I am poor at sports but good at origami.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u30b9\u30dd\u30fc\u30c4\u304c\u3078\u305f\u3067\u3059\u304c\u304a\u308a\u304c\u307f\u306f\u3058\u3087\u3046\u305a\u3067\u3059\u3002",
-        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "(It) was wonderful and interesting.",
@@ -1822,12 +1822,12 @@ Flashcards.initialize([
     [
         "Mr. Yamada went to Osaka by bullet train.",
         "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3057\u3093\u304b\u3093\u305b\u3093\u3067\u304a\u3046\u3055\u304b\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); A \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
         "Soon it will be Summer. It will gradually get hotter.",
         "\u3082\u3046\u3059\u3050\u306a\u3064\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\n\u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -1857,7 +1857,7 @@ Flashcards.initialize([
     [
         "Miki writes kanji skillfully.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u3058\u3087\u3046\u305a\u306b\u304b\u3093\u3058\u3092{\u66f8\u304d\u307e\u3059|\u304b\u304d\u307e\u3059}\u3002",
-        "\u306a adj + \u306b = adverb; \u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "\u306a adj + \u306b = adverb\n\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "Robert speaks Japanese well.",
@@ -1892,7 +1892,7 @@ Flashcards.initialize([
     [
         "Miki has got good at bowling.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3058\u3087\u3046\u305a\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\n\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "Happy New Year!",
@@ -1907,7 +1907,7 @@ Flashcards.initialize([
     [
         "If (you) study every day, (your) Japanese will get skilled.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3079\u3093\u304d\u3087\u3046\u3059\u308b\u3068{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u304c\u3058\u3087\u3046\u305a\u306b\u306a\u308a\u307e\u3059\u3002",
-        "A-dictionary-form \u3068B = if A then B; Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "A-dictionary-form \u3068B = if A then B\nNoun/\u306a adj + \u306b + \u306a\u308b = become ~\n\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -1967,22 +1967,22 @@ Flashcards.initialize([
     [
         "Soon (it) will be spring. (It) will gradually get warm.",
         "\u3082\u3046\u3059\u3050\u306f\u308b\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u305f\u305f\u304b\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\n\u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Soon (it) will be summer. (It) will gradually get hot.",
         "\u3082\u3046\u3059\u3050\u306a\u3064\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\n\u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Soon (it) will be winter. (It) will gradually get cold.",
         "\u3082\u3046\u3059\u3050\u3075\u3086\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\n\u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Soon (it) will be autumn. (It) will gradually get cool.",
         "\u3082\u3046\u3059\u3050\u3042\u304d\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3059\u305a\u3057\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\n\u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "How did (you) go (there)? (I) went by train.",
@@ -1992,17 +1992,17 @@ Flashcards.initialize([
     [
         "(I) went to the town by bus.",
         "\u307e\u3061\u306b\u30d0\u30b9\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); A \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
         "(I) went to (my) mom's house by car.",
         "{\u6bcd|\u306f\u306f}\u306e{\u5bb6|\u3046\u3061}\u306b{\u8eca|\u304f\u308b\u307e}\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); A \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
         "(I) went to New York by train.",
         "{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u3067\u30cb\u30e5\u30fc\u30fb\u30e8\u30fc\u30af\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); A \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
         "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
     [
         "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
         "\u304a\u3046\u3055\u304b\u306b{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u3067\u3059\u3002\u304a\u3082\u3057\u308d\u304f\u306a\u3044{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304b\u3002\u304a\u3046\u3055\u304b\u306f\u3059\u3070\u3089\u3057\u3044{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304c{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306f\u3064\u307e\u3089\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
-        "\u304f\u306a\u3044 = negative of \u3044 adj; \u304b\u3063\u305f = past tense of \u3044 adj; \u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "\u304f\u306a\u3044 = negative of \u3044 adj\n\u304b\u3063\u305f = past tense of \u3044 adj\n\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -2027,7 +2027,7 @@ Flashcards.initialize([
     [
         "(It) was too far.",
         "\u3068\u304a\u3059\u304e\u307e\u3057\u305f\u3002",
-        "\u3068\u304a\u304f = long way; stem of adj or continuative base of verb + ~\u3059\u304e\u308b = too much ~, over~"
+        "\u3068\u304a\u304f = long way\nstem of adj or continuative base of verb + ~\u3059\u304e\u308b = too much ~, over~"
     ],
     [
         "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
@@ -2062,7 +2062,7 @@ Flashcards.initialize([
     [
         "The Summer is from December to February. (It) gradually gets hot.",
         "\u306a\u3064\u306f{\u5341\u4e8c\u6708|\u3058\u3085\u3046\u306b\u304c\u3064}\u304b\u3089{\u4e8c\u6708|\u306b\u304c\u3064}\u307e\u3067\u3067\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
-        "(New Zealand); \u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
+        "(New Zealand)\n\u3044 adj - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Autumn is from March. The weather is clear, windy, rainy...",
@@ -2122,7 +2122,7 @@ Flashcards.initialize([
     [
         "Miki is bad at both bowling and tennis.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u3082\u30c6\u30cb\u30b9\u3082\u3078\u305f\u3067\u3059\u3002",
-        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
@@ -2132,47 +2132,47 @@ Flashcards.initialize([
     [
         "(I) want to be a doctor.",
         "\u3044\u3057\u3083\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a writer.",
         "\u3055\u3063\u304b\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a policeman.",
         "\u3051\u3044\u3055\u3064\u304b\u3093\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a lawyer.",
         "\u3079\u3093\u3054\u3057\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be an astronaut.",
         "\u3046\u3061\u3085\u3046\u3072\u3053\u3046\u3057\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a bank-worker.",
         "\u304e\u3093\u3053\u3046\u3044\u3093\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "When (I) was a child, (I) wanted to be a film star.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u3053\u308d\u3001{\u6620\u753b|\u3048\u3044\u304c}\u30b9\u30bf\u30fc\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~ (verb --&gt; \u3044 adj.); \u304b\u3063\u305f = past tense of \u3044 adj; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "When (I) was a child, (I) wanted to be a firefighter.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u3053\u308d\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
-        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~; Verb stem + \u305f\u3044 = want to ~ (verb --&gt; \u3044 adj.); \u304b\u3063\u305f = past tense of \u3044 adj; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "Noun/\u306a adj + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) didn't want to drink alcohol.",
         "{\u304a\u9152|\u304a\u3055\u3051}\u3092\u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
-        "\u306e\u3080 - \u306e\u307f\u305f\u3044 - \u306e\u307f\u305f\u304f - \u306e\u307f\u305f\u304f\u306a\u3044 - \u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "\u306e\u3080 -> \u306e\u307f\u305f\u3044 -> \u306e\u307f\u305f\u304f -> \u306e\u307f\u305f\u304f\u306a\u3044 -> \u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "Miki doesn't like beer very much.",
@@ -2187,12 +2187,12 @@ Flashcards.initialize([
     [
         "Roger taught Miki how to do bowling.",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b\u30dc\u30fc\u30ea\u30f3\u30b0\u306e\u3057\u304b\u305f\u3092\u304a\u3057\u3048\u307e\u3057\u305f\u3002",
-        "Verb stem + \u304b\u305f = how to do Verb (Verb --&gt; Noun); Noun \u3092 Verb --&gt; Noun \u306e Verb stem + \u304b\u305f"
+        "Verb stem + \u304b\u305f = how to do Verb (Verb --> Noun)\nNoun \u3092 Verb --> Noun \u306e Verb stem + \u304b\u305f"
     ],
     [
         "Ms. Natsuko went to the town to meet Miki.",
         "\u306a\u3064\u3053\u3055\u3093\u306f\u307e\u3061\u3078{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b\u3042\u3044\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "\u3078 = to, towards, pronounced as \u3048; (Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
+        "\u3078 = to, towards, pronounced as \u3048\n(Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
     ],
     [
         "This film looks interesting, doesn't it?",
@@ -2207,7 +2207,7 @@ Flashcards.initialize([
     [
         "(I) want to be a doctor in the future.",
         "\u3057\u3087\u3046\u3089\u3044\u3044\u3057\u3083\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Verb stem + \u305f\u3044 = want to ~; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "Verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "Mr. Yamada works every day until late.",
@@ -2217,17 +2217,17 @@ Flashcards.initialize([
     [
         "I don't want to eat sushi. (I) don't want to eat sushi.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u3059\u3057\u3092{\u98df\u3079\u305f\u304f\u306a\u3044|\u305f\u3079\u305f\u304f\u306a\u3044}\u3067\u3059\u3002\u3059\u3057\u306f{\u98df\u3079\u305f\u304f\u306a\u3044|\u305f\u3079\u305f\u304f\u306a\u3044}\u3067\u3059\u3002",
-        "~\u305f\u3044: may use \u304c instead of \u3092; ~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "Last night (I) didn't want to drink beer.",
         "\u3086\u3046\u3079\u30d3\u30fc\u30eb\u306f\u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
-        "~\u305f\u3044: may use \u304c instead of \u3092; ~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to eat a banana. (I) want to eat a banana.",
         "\u30d0\u30ca\u30ca\u3092{\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}\u3067\u3059\u3002\u30d0\u30ca\u30ca\u304c{\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}\u3067\u3059\u3002",
-        "~\u305f\u3044: may use \u304c instead of \u3092; ~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c; ~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(My) mom's cooking is the most delicious in the world.",
@@ -2255,7 +2255,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. [polite]",
+        "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {Polite.}",
         "{\u79c1|\u308f\u305f\u3057}\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3084\u304d\u306b\u304f\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002\u3067\u3082\u3001\u3044\u3064\u3082\u3084\u3055\u3044\u3092\u3084\u304d\u306b\u304f\u3068\u3044\u3063\u3057\u3087\u306b{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u304b\u3089\u3001\u3082\u3093\u3060\u3044\u3054\u3056\u3044\u307e\u305b\u3093\u3002",
         ""
     ],
@@ -2287,12 +2287,12 @@ Flashcards.initialize([
     [
         "I'm bad at bowling. He's good at bowling. I'm poor at English. He's good at Japanese.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3078\u305f\u3067\u3059\u3002{\u5f7c|\u304b\u308c}\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c\u3058\u3087\u3046\u305a\u3067\u3059\u3002{\u79c1|\u308f\u305f\u3057}\u306f{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u306b\u304c\u3066\u3067\u3059\u3002{\u5f7c|\u304b\u308c}\u306f{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
-        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "I'm good at Mathematics.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u3059\u3046\u304c\u304f\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
-        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc. \u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points; \u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
+        "\u3058\u3087\u3046\u305a/\u3078\u305f: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than \u3058\u3087\u3046\u305a"
     ],
     [
         "Ms. Natsuko drank green tea while listening to the news.",
@@ -2317,12 +2317,12 @@ Flashcards.initialize([
     [
         "Rie taught Roger how to make sushi.",
         "\u308a\u3048\u3055\u3093\u306f\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306b\u3059\u3057\u306e\u3064\u304f\u308a\u304b\u305f\u3092\u304a\u3057\u3048\u307e\u3057\u305f\u3002",
-        "Verb stem + \u304b\u305f = how to do Verb (Verb --&gt; Noun); Noun \u3092 Verb --&gt; Noun \u306e Verb stem + \u304b\u305f"
+        "Verb stem + \u304b\u305f = how to do Verb (Verb --> Noun)\nNoun \u3092 Verb --> Noun \u306e Verb stem + \u304b\u305f"
     ],
     [
         "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u306a\u3064\u3053\u3055\u3093\u3068\u30ec\u30b9\u30c8\u30e9\u30f3\u3078\u308f\u3057\u3087\u304f\u3092{\u98df\u3079|\u305f\u3079}\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "\u3078 = to, towards, pronounced as \u3048; (Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
+        "\u3078 = to, towards, pronounced as \u3048\n(Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
     ],
     [
         "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
@@ -2395,12 +2395,12 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Hello. [Phone.] Excuse me for interrupting. [Entering workroom, end of phone call.] Excuse me for interrupting. [Leaving room.]",
+        "Hello. {Phone.} Excuse me for interrupting. {Entering workroom, end of phone call.} Excuse me for interrupting. {Leaving room.}",
         "\u3082\u3057\u3082\u3057\u3002\u3057\u3064\u308c\u3044\u3057\u307e\u3059\u3002\u3057\u3064\u308c\u3044\u3057\u307e\u3057\u305f\u3002",
         ""
     ],
     [
-        "I'm leaving from work before you. [And others are still hard at work.] Thanks for your hard work. [Response to ~. Not used to superiors. Also used to thank someone for their work.] Thanks for your work. [Between equals and to people 'below'.]",
+        "I'm leaving from work before you. {And others are still hard at work.} Thanks for your hard work. {Response to ~. Not used to superiors. Also used to thank someone for their work.} Thanks for your work. {Between equals and to people 'below'.}",
         "\u304a\u3055\u304d\u306b\u3002\u3054\u304f\u308d\u3046\u3055\u307e\u3067\u3059\u3002\u3054\u304f\u308d\u3046\u3055\u307e\u3067\u3057\u305f\u3002\u304a\u3064\u304b\u308c\u3055\u307e\u3067\u3059\u3002\u304a\u3064\u304b\u308c\u3055\u307e\u3067\u3057\u305f\u3002",
         ""
     ],
@@ -2410,12 +2410,12 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Thank you very much. Thank you very much. [For something that has been done.]",
+        "Thank you very much. Thank you very much. {For something that has been done.}",
         "\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\u3002",
         ""
     ],
     [
-        "Please wait a moment. [Polite.] Sorry to have kept you waiting. [Polite.] Sorry to have kept you waiting. [Informal.]",
+        "Please wait a moment. {Polite.} Sorry to have kept you waiting. {Polite.} Sorry to have kept you waiting. {Informal.}",
         "\u3057\u3087\u3046\u3057\u3087\u3046\u304a\u307e\u3061\u304f\u3060\u3055\u3044\u3002\u304a\u307e\u305f\u305b\u3057\u307e\u3057\u305f\u3002\u304a\u307e\u3061\u3069\u3046\u3055\u307e\u3002",
         ""
     ]

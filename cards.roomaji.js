@@ -117,7 +117,7 @@ Flashcards.initialize([
 [
     "There are a dog and a cat over there.",
     "asoko ni {犬|inu} to {猫|neko} ga imasu.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "Shall (we) eat sushi together?",
@@ -162,7 +162,7 @@ Flashcards.initialize([
 [
     "(I) eat toast with eggs for breakfast.",
     "asagohan ni _toosuto_ to tamago wo {食べます|tabemasu}.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "(I) eat lunch at the company.",
@@ -212,7 +212,7 @@ Flashcards.initialize([
 [
     "In the mornings (I) always buy a newspaper and a coffee.",
     "{朝|asa} itsumo {新聞|shinbun} to _koohii_ wo kaimasu.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "Sometimes (I) watch television with (my) siblings.",
@@ -222,7 +222,7 @@ Flashcards.initialize([
 [
     "(I) always make dinner with (my) mom and (my) husband.",
     "itsumo {母|haha} to shujin to bangohan wo tsukurimasu.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "(I) will go to the office tomorrow",
@@ -370,7 +370,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Today is Claude Monet's exhibition. There are many famous works. [less formal]",
+    "Today is Claude Monet's exhibition. There are many famous works. {Less formal.}",
     "kyou wa _kuroodo mone_ no tenrankai desu. yumei na sakuhin ga ippai arimasu.",
     ""
 ],
@@ -387,7 +387,7 @@ Flashcards.initialize([
 [
     "For lunch (I) eat egg and toast. And (I) drink coffee.",
     "hirugohan ni tamago to _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo nomimasu.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "(I) get up every day at 6 o'clock. Then (I) make breakfast.",
@@ -505,7 +505,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Welcome. [Shopkeeper to customer.]",
+    "Welcome. {Shopkeeper to customer.}",
     "irasshaimase.",
     ""
 ],
@@ -537,7 +537,7 @@ Flashcards.initialize([
 [
     "On the second floor, there are televisions, computers, etc.",
     "{二|ni} kai ni _terebi_ ya _konpyuutaa_ ga arimasu.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "On the second floor there is nothing.",
@@ -555,7 +555,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "I'm called Natsuko. [formal]",
+    "I'm called Natsuko. {Formal.}",
     "natsuko to moushimasu.",
     ""
 ],
@@ -585,77 +585,77 @@ Flashcards.initialize([
     ""
 ],
 [
-    "father [in-group, out-group]",
+    "father {In-group, out-group.}",
     "{父|chichi}, {お父さん|otousan}",
     ""
 ],
 [
-    "mother [in-group, out-group]",
+    "mother {In-group, out-group.}",
     "{母|haha}, {お母さん|okaasan}",
     ""
 ],
 [
-    "son [in-group, out-group]",
+    "son {In-group, out-group.}",
     "musuko, musukosan",
     ""
 ],
 [
-    "daughter [in-group, out-group]",
+    "daughter {In-group, out-group.}",
     "musume, musumesan",
     ""
 ],
 [
-    "husband [in-group, out-group]",
+    "husband {In-group, out-group.}",
     "shujin, goshujin",
     ""
 ],
 [
-    "wife [in-group, in-group, out-group]",
+    "wife {In-group, in-group, out-group.}",
     "tsuma, kanai, okusan",
     ""
 ],
 [
-    "older sister [in-group, out-group]",
+    "older sister {In-group, out-group.}",
     "{姉|ane}, {お姉さん|oneesan}",
     ""
 ],
 [
-    "younger sister [in-group, out-group]",
+    "younger sister {In-group, out-group.}",
     "{妹|imouto}, {妹さん|imoutosan}",
     ""
 ],
 [
-    "older brother [in-group, out-group]",
+    "older brother {In-group, out-group.}",
     "{兄|ani}, {お兄さん|oniisan}",
     ""
 ],
 [
-    "younger brother [in-group, out-group]",
+    "younger brother {In-group, out-group.}",
     "{弟|otouto}, {弟さん|otoutosan}",
     ""
 ],
 [
-    "sibling [in-group, out-group]",
+    "sibling {In-group, out-group.}",
     "{兄弟|kyoudai}, {ご兄弟|gokyoudai}",
     ""
 ],
 [
-    "boy, Mr/Mrs/Ms, child, teacher, Mr/Mrs/Ms [formal]",
+    "boy, Mr/Mrs/Ms, child, teacher, Mr/Mrs/Ms {Formal.}",
     "kun, san, chan, {先生|sensei}, {様|sama}",
     ""
 ],
 [
-    "Today is Claude Monet's exhibition. There are many famous works. [more formal]",
+    "Today is Claude Monet's exhibition. There are many famous works. {More formal.}",
     "{今日|kyou} wa _kuroodo mone_ no tenrankai desu. yumei na sakuhin ga takusan arimasu.",
     ""
 ],
 [
-    "(I) need money. [Money is a necessity.]",
+    "(I) need money. {Money is a necessity.}",
     "{お金|okane} ga hitsuyou desu.",
     ""
 ],
 [
-    "(I) need time. [Time is a necessity.]",
+    "(I) need time. {Time is a necessity.}",
     "{時間|jikan} ga hitsuyou desu.",
     ""
 ],
@@ -682,12 +682,12 @@ Flashcards.initialize([
 [
     "Peter, (you) are very good at English.",
     "_piitaa_ wa {英語|eigo} ga tokui desu ne.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "She is good at cooking.",
     "{彼女|kanojo} wa ryouri ga tokui desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "Tomorrow (I) have an English exam.",
@@ -767,12 +767,12 @@ Flashcards.initialize([
 [
     "May (I) have this watch and this bag please?",
     "{此の|kono} tokei to {此の|kono} kaban wo kudasai.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "I'm not good at waking up early.",
     "{私|watashi} wa haya oki ga nigate desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "8 pairs of shoes",
@@ -897,7 +897,7 @@ Flashcards.initialize([
 [
     "(There) are some Americans and some Japanese people. (There) aren't (any) English people.",
     "_amerika_ {人|jin} to {日本人|nihonjin} ga imasu. igirisu {人|jin} ga imasen.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "(There) are no English people (but others may be).",
@@ -912,7 +912,7 @@ Flashcards.initialize([
 [
     "(There) are French and English journalists in that office over there.",
     "ano jimusho ni _furansu_ {人|jin} to igirisu {人|jin} no _jaanarisuto_ ga imasu.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "What is on the 2nd floor?",
@@ -987,7 +987,7 @@ Flashcards.initialize([
 [
     "There are TVs, computers and so on on the second floor.",
     "{二|ni} kai ni _terebi_ ya _konpyuutaa_ nado ga arimasu.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "There's both beer and rice-wine.",
@@ -1017,7 +1017,7 @@ Flashcards.initialize([
 [
     "May (I) have 3 of this postcard and 3 of the 75 yen stamps as well please?",
     "{此の|kono} hagaki wo {三|san} mai to {七十五円|nanajuugo en} no kitte mo {三|san} mai kudasai.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "May (I) have 4 stamps please? Where to? To America.",
@@ -1352,7 +1352,7 @@ Flashcards.initialize([
 [
     "(I) want to eat rice with chopsticks.",
     "ohashi de gohan wo {食べたい|tabetai} desu.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); ~たい is usually used only in first person or in questions for the second person"
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to buy a Japanese camera.",
@@ -1415,7 +1415,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Excuse me, where is the supermarket? Do you know? [polite] Yes, (I) know.",
+    "Excuse me, where is the supermarket? Do you know? {Polite.} Yes, (I) know.",
     "sumimasen, _suupaa_ wa doko ni arimasu ka. gozonji desu ka. hai, shitteimasu.",
     ""
 ],
@@ -1542,7 +1542,7 @@ Flashcards.initialize([
 [
     "Mr. Roger is good at bowling, isn't he?",
     "_rojaa_ san wa _booringu_ ga jouzu desu ne.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "This is a lively place, isn't it?",
@@ -1567,7 +1567,7 @@ Flashcards.initialize([
 [
     "Ms. Miki is bad at bowling.",
     "{三木|miki} san wa _booringu_ ga heta desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "eyes, big, small, round",
@@ -1632,7 +1632,7 @@ Flashcards.initialize([
 [
     "(I'm) poor at sports, but (I'm) goot at origami.",
     "_supootsu_ ga heta desu ga origami wa jouzu desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "I think he's famous.",
@@ -1712,7 +1712,7 @@ Flashcards.initialize([
 [
     "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
     "{私|watashi} wa sukoshi {大人しい|otonashii} desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga suki desu ga _supootsu_ ga amari suki deha arimasen.",
-    "と: complete list; や: incomplete list; A と B と C = A, B and C (and nothing else);  A や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "I don't think (she) is especially shy.",
@@ -1732,7 +1732,7 @@ Flashcards.initialize([
 [
     "I am poor at sports but good at origami.",
     "{私|watashi} wa _supootsu_ ga heta desu ga origami wa jouzu desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "(It) was wonderful and interesting.",
@@ -1822,12 +1822,12 @@ Flashcards.initialize([
 [
     "Mr. Yamada went to Osaka by bullet train.",
     "{山田|yamada} san wa shinkansen de ousaka ni {行きました|ikimashita}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
 ],
 [
     "Soon it will be Summer. It will gradually get hotter.",
     "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
-    "Noun/な adj + に + なる = become ~; い adj - い + く + なる = become ~"
+    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~"
 ],
 [
     "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -1857,7 +1857,7 @@ Flashcards.initialize([
 [
     "Miki writes kanji skillfully.",
     "{三木|miki} san wa jouzu ni kanji wo {書きます|kakimasu}.",
-    "な adj + に = adverb; じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "な adj + に = adverb\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "Robert speaks Japanese well.",
@@ -1892,7 +1892,7 @@ Flashcards.initialize([
 [
     "Miki has got good at bowling.",
     "{三木|miki} san wa _booringu_ ga jouzu ni narimashita.",
-    "Noun/な adj + に + なる = become ~; じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "Noun/な adj + に + なる = become ~\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "Happy New Year!",
@@ -1907,7 +1907,7 @@ Flashcards.initialize([
 [
     "If (you) study every day, (your) Japanese will get skilled.",
     "{毎日|mai nichi} benkyou suru to {日本語|nihongo} ga jouzu ni narimasu.",
-    "A-dictionary-form とB = if A then B; Noun/な adj + に + なる = become ~; じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "A-dictionary-form とB = if A then B\nNoun/な adj + に + なる = become ~\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -1967,22 +1967,22 @@ Flashcards.initialize([
 [
     "Soon (it) will be spring. (It) will gradually get warm.",
     "mou sugu haru ni narimasu. dandan atatakaku narimasu.",
-    "Noun/な adj + に + なる = become ~; い adj - い + く + なる = become ~"
+    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be summer. (It) will gradually get hot.",
     "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
-    "Noun/な adj + に + なる = become ~; い adj - い + く + なる = become ~"
+    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be winter. (It) will gradually get cold.",
     "mou sugu fuyu ni narimasu. dandan samuku narimasu.",
-    "Noun/な adj + に + なる = become ~; い adj - い + く + なる = become ~"
+    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be autumn. (It) will gradually get cool.",
     "mou sugu aki ni narimasu. dandan suzushiku narimasu.",
-    "Noun/な adj + に + なる = become ~; い adj - い + く + なる = become ~"
+    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~"
 ],
 [
     "How did (you) go (there)? (I) went by train.",
@@ -1992,17 +1992,17 @@ Flashcards.initialize([
 [
     "(I) went to the town by bus.",
     "machi ni _basu_ de {行きました|ikimashita}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
 ],
 [
     "(I) went to (my) mom's house by car.",
     "{母|haha} no {家|uchi} ni {車|kuruma} de {行きました|ikimashita}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
 ],
 [
     "(I) went to New York by train.",
     "{電車|densha} de _nyuu yooku_ ni {行きました|ikimashita}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
 ],
 [
     "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
     "ousaka ni {行きたい|ikitai} desu. omoshirokunai {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa tsumaranakatta desu.",
-    "くない = negative of い adj; かった = past tense of い adj; くなかった = past negative of い adj; ~たい is usually used only in first person or in questions for the second person"
+    "くない = negative of い adj\nかった = past tense of い adj\nくなかった = past negative of い adj\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -2027,7 +2027,7 @@ Flashcards.initialize([
 [
     "(It) was too far.",
     "toosugimashita.",
-    "とおく = long way; stem of adj or continuative base of verb + ~すぎる = too much ~, over~"
+    "とおく = long way\nstem of adj or continuative base of verb + ~すぎる = too much ~, over~"
 ],
 [
     "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
@@ -2062,7 +2062,7 @@ Flashcards.initialize([
 [
     "The Summer is from December to February. (It) gradually gets hot.",
     "natsu wa {十二月|juunigatsu} kara {二月|nigatsu} made desu. dandan atsuku narimasu.",
-    "(New Zealand); い adj - い + く + なる = become ~"
+    "(New Zealand)\nい adj - い + く + なる = become ~"
 ],
 [
     "Autumn is from March. The weather is clear, windy, rainy...",
@@ -2122,7 +2122,7 @@ Flashcards.initialize([
 [
     "Miki is bad at both bowling and tennis.",
     "{三木|miki} san wa _booringu_ mo _tenisu_ mo heta desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
@@ -2132,47 +2132,47 @@ Flashcards.initialize([
 [
     "(I) want to be a doctor.",
     "isha ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a writer.",
     "sakka ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a policeman.",
     "keisatsukan ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a lawyer.",
     "bengoshi ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be an astronaut.",
     "uchuu hikoushi ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a bank-worker.",
     "ginkouin ni naritai desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "When (I) was a child, (I) wanted to be a film star.",
     "{子供|kodomo} no koro, {映画|eiga} _sutaa_ ni naritakatta desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj; ~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "When (I) was a child, (I) wanted to be a firefighter.",
     "{子供|kodomo} no koro, shouboushi ni naritakatta desu.",
-    "Noun/な adj + に + なる = become ~; Verb stem + たい = want to ~ (verb --&gt; い adj.); かった = past tense of い adj; ~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) didn't want to drink alcohol.",
     "{お酒|osake} wo nomitakunakatta desu.",
-    "のむ - のみたい - のみたく - のみたくない - のみたくなかった; ~たい is usually used only in first person or in questions for the second person"
+    "のむ -> のみたい -> のみたく -> のみたくない -> のみたくなかった\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Miki doesn't like beer very much.",
@@ -2187,12 +2187,12 @@ Flashcards.initialize([
 [
     "Roger taught Miki how to do bowling.",
     "_rojaa_ san wa {三木|miki} san ni _booringu_ no shikata wo oshiemashita.",
-    "Verb stem + かた = how to do Verb (Verb --&gt; Noun); Noun を Verb --&gt; Noun の Verb stem + かた"
+    "Verb stem + かた = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + かた"
 ],
 [
     "Ms. Natsuko went to the town to meet Miki.",
     "natsuko san wa machi he {三木|miki} san ni ai ni {行きました|ikimashita}.",
-    "へ = to, towards, pronounced as え; (Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
+    "へ = to, towards, pronounced as え\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
     "This film looks interesting, doesn't it?",
@@ -2207,7 +2207,7 @@ Flashcards.initialize([
 [
     "(I) want to be a doctor in the future.",
     "shourai isha ni naritai desu.",
-    "Verb stem + たい = want to ~; ~たい is usually used only in first person or in questions for the second person"
+    "Verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Mr. Yamada works every day until late.",
@@ -2217,17 +2217,17 @@ Flashcards.initialize([
 [
     "I don't want to eat sushi. (I) don't want to eat sushi.",
     "{私|watashi} wa sushi wo {食べたくない|tabetakunai} desu. sushi wa {食べたくない|tabetakunai} desu.",
-    "~たい: may use が instead of を; ~たい + negative: if topic is not mentioned then は can be used instead of が; ~たい is usually used only in first person or in questions for the second person"
+    "~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Last night (I) didn't want to drink beer.",
     "yuube _biiru_ wa nomitakunakatta desu.",
-    "~たい: may use が instead of を; ~たい + negative: if topic is not mentioned then は can be used instead of が; ~たい is usually used only in first person or in questions for the second person"
+    "~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to eat a banana. (I) want to eat a banana.",
     "_banana_ wo {食べたい|tabetai} desu. _banana_ ga {食べたい|tabetai} desu.",
-    "~たい: may use が instead of を; ~たい + negative: if topic is not mentioned then は can be used instead of が; ~たい is usually used only in first person or in questions for the second person"
+    "~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(My) mom's cooking is the most delicious in the world.",
@@ -2255,7 +2255,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. [polite]",
+    "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {Polite.}",
     "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, itsumo yasai wo yakiniku to isshoni {食べます|tabemasu} kara, mondai gozaimasen.",
     ""
 ],
@@ -2287,12 +2287,12 @@ Flashcards.initialize([
 [
     "I'm bad at bowling. He's good at bowling. I'm poor at English. He's good at Japanese.",
     "{私|watashi} wa _booringu_ ga heta desu. {彼|kare} wa _booringu_ ga jouzu desu. {私|watashi} wa {英語|eigo} ga nigate desu. {彼|kare} wa {日本語|nihongo} ga tokui desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "I'm good at Mathematics.",
     "{私|watashi} wa suugaku ga tokui desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc. とくい/にがて: talents, academic/professional skills, strong/weak points; とくい is more modest than じょうず"
+    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "Ms. Natsuko drank green tea while listening to the news.",
@@ -2317,12 +2317,12 @@ Flashcards.initialize([
 [
     "Rie taught Roger how to make sushi.",
     "rie san wa _rojaa_ san ni sushi no tsukurikata wo oshiemashita.",
-    "Verb stem + かた = how to do Verb (Verb --&gt; Noun); Noun を Verb --&gt; Noun の Verb stem + かた"
+    "Verb stem + かた = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + かた"
 ],
 [
     "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
     "{私|watashi} wa natsuko san to _resutoran_ he washoku wo {食べ|tabe} ni {行きました|ikimashita}.",
-    "へ = to, towards, pronounced as え; (Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
+    "へ = to, towards, pronounced as え\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
     "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
@@ -2395,12 +2395,12 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Hello. [Phone.] Excuse me for interrupting. [Entering workroom, end of phone call.] Excuse me for interrupting. [Leaving room.]",
+    "Hello. {Phone.} Excuse me for interrupting. {Entering workroom, end of phone call.} Excuse me for interrupting. {Leaving room.}",
     "moshi moshi. shitsurei shimasu. shitsurei shimashita.",
     ""
 ],
 [
-    "I'm leaving from work before you. [And others are still hard at work.] Thanks for your hard work. [Response to ~. Not used to superiors. Also used to thank someone for their work.] Thanks for your work. [Between equals and to people 'below'.]",
+    "I'm leaving from work before you. {And others are still hard at work.} Thanks for your hard work. {Response to ~. Not used to superiors. Also used to thank someone for their work.} Thanks for your work. {Between equals and to people 'below'.}",
     "osaki ni. gokurou sama desu. gokurou sama deshita. otsukare sama desu. otsukare sama deshita.",
     ""
 ],
@@ -2410,12 +2410,12 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Thank you very much. Thank you very much. [For something that has been done.]",
+    "Thank you very much. Thank you very much. {For something that has been done.}",
     "arigatou gozaimasu. arigatou gozaimashita.",
     ""
 ],
 [
-    "Please wait a moment. [Polite.] Sorry to have kept you waiting. [Polite.] Sorry to have kept you waiting. [Informal.]",
+    "Please wait a moment. {Polite.} Sorry to have kept you waiting. {Polite.} Sorry to have kept you waiting. {Informal.}",
     "shoushou omachi kudasai. omatase shimashita. omachidou sama.",
     ""
 ]

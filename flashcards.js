@@ -158,7 +158,7 @@
                 focus = String(window.location.href).match(/#(.*)$/),
                 matches;
 
-            Flashcards.cards = Flashcards.formatFuriganaInCards(cards);
+            Flashcards.cards = Flashcards.formatCards(cards);
             Flashcards.shuffleCards();
             Flashcards.nextState(Flashcards.states.firstQuestion);
 
@@ -211,19 +211,24 @@
             return shuffled;
         },
 
-        formatFuriganaInCards: function (cards)
+        formatCards: function (cards)
         {
             var formatted = [],
                 i, l, en, jp, notes;
 
             for (i = 0, l = cards.length; i < l; ++i) {
-                en = cards[i][0];
+                en = Flashcards.formatEnglish(cards[i][0]);
                 jp = Flashcards.formatFurigana(cards[i][1]);
-                notes = Flashcards.formatFurigana(cards[i][2]);
+                notes = Flashcards.formatNotes(cards[i][2]);
                 formatted.push([en, jp, notes]);
             }
 
             return formatted;
+        },
+
+        formatEnglish: function (text)
+        {
+            return text.replace(/\{([^}]*)\}/g, "<small>($1)</small>");
         },
 
         formatFurigana: function (text)
@@ -231,6 +236,27 @@
             return text.replace(
                 /\{([^|}]*)\|([^}]*)\}/g,
                 "<ruby>$1<rt>$2</rt></ruby>"
+            );
+        },
+
+        formatNotes: function (text)
+        {
+            if (text.replace(/\s/g, "") == "") {
+                return "";
+            }
+
+            return Flashcards.formatFurigana(
+                "<ul><li>"
+                + (
+                    text.replace(/&/g, "&amp;")
+                        .replace(/>/g, "&gt;")
+                        .replace(/</g, "&lt;")
+                        .replace(/"/g, "&quot;")
+                        .replace(/'/g, "&#039;")
+                        .replace(/-+&gt;/g, "&rarr;")
+                        .replace(/\n/g, "</li><li>")
+                )
+                + "</li></ul>"
             );
         },
 

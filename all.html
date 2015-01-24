@@ -26,6 +26,10 @@
         margin-top: 0.1em;
         margin-bottom: 0.1em;
     }
+
+    p.notes {
+        font-size: 80%;
+    }
     </style>
 </head>
 <body>
@@ -36,14 +40,14 @@
     Flashcards.initialize = function (cards)
     {
         var html = "",
-            c = Flashcards.formatFuriganaInCards(cards),
+            c = Flashcards.formatCards(cards),
             i, l;
 
         for (i = 0, l = c.length; i < l; ++i) {
             html += (
                 "<li><dt>" + c[i][0] + "</dt>"
                 + "<dd><p>" + c[i][1] + "</p>"
-                + "<p><small>" + c[i][2] + "</small></p></dd></li>"
+                + "<p class=\"notes\">" + c[i][2] + "</p></dd></li>"
             );
         }
 
