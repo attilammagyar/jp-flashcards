@@ -51,7 +51,7 @@ Flashcards.initialize([
 ],
 [
     "Where did (you) come from?",
-    "doko kara kimashita.",
+    "doko kara {来ました|kimashita}.",
     ""
 ],
 [
@@ -241,7 +241,7 @@ Flashcards.initialize([
 ],
 [
     "(My) dad will come to the college (tomorrow) morning.",
-    "{父|chichi} wa {朝|asa} _koreji_ ni kimasu.",
+    "{父|chichi} wa {朝|asa} _koreji_ ni {来ます|kimasu}.",
     ""
 ],
 [
@@ -326,7 +326,7 @@ Flashcards.initialize([
 ],
 [
     "(I) go to the office by train.",
-    "densha de jimusho ni {行きます|ikimasu}.",
+    "{電車|densha} de jimusho ni {行きます|ikimasu}.",
     ""
 ],
 [
@@ -376,7 +376,7 @@ Flashcards.initialize([
 ],
 [
     "Please come in.",
-    "ohairi kudasai.",
+    "{お入り|ohairi} kudasai.",
     ""
 ],
 [
@@ -476,7 +476,7 @@ Flashcards.initialize([
 ],
 [
     "What time will the next train come?",
-    "tsugi no densha wa {何時|nanji} ni kimasu ka.",
+    "tsugi no {電車|densha} wa {何時|nanji} ni {来ます|kimasu} ka.",
     ""
 ],
 [
@@ -1986,7 +1986,7 @@ Flashcards.initialize([
 ],
 [
     "How did (you) go (there)? (I) went by train.",
-    "dou yatte {行きました|ikimashita} ka. densha de {行きました|ikimashita}.",
+    "dou yatte {行きました|ikimashita} ka. {電車|densha} de {行きました|ikimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
@@ -1996,12 +1996,12 @@ Flashcards.initialize([
 ],
 [
     "(I) went to (my) mom's house by car.",
-    "{母|haha} no {家|uchi} ni kuruma de {行きました|ikimashita}.",
+    "{母|haha} no {家|uchi} ni {車|kuruma} de {行きました|ikimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
 ],
 [
     "(I) went to New York by train.",
-    "densha de _nyuu yooku_ ni {行きました|ikimashita}.",
+    "{電車|densha} de _nyuu yooku_ ni {行きました|ikimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of); A に B で いく = B で A に いく"
 ],
 [
@@ -2021,7 +2021,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no kippu wo kaimashita. douryou no kuruma de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
+    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no kippu wo kaimashita. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2126,7 +2126,7 @@ Flashcards.initialize([
 ],
 [
     "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
-    "Demo mada {二分|nihun} arimasu. yoyuu desu. natsuko san wa kitto kimasu.",
+    "Demo mada {二分|nihun} arimasu. yoyuu desu. natsuko san wa kitto {来ます|kimasu}.",
     ""
 ],
 [
@@ -2366,7 +2366,7 @@ Flashcards.initialize([
 ],
 [
     "I love Izu, and (I'm) also interested in cars.",
-    "{私|watashi} wa izu ga dai suki de, kuruma ni mo kyoumi ga arimasu.",
+    "{私|watashi} wa izu ga dai suki de, {車|kuruma} ni mo kyoumi ga arimasu.",
     "な-adj. + で = adj. and ..."
 ],
 [
@@ -2392,6 +2392,31 @@ Flashcards.initialize([
 [
     "(I) hate tennis the most, but baseball is the most boring.",
     "_tenisu_ ga ichiban kirai desu ga yakyuu wa ichiban tsumaranai desu.",
+    ""
+],
+[
+    "Hello. [Phone.] Excuse me for interrupting. [Entering workroom, end of phone call.] Excuse me for interrupting. [Leaving room.]",
+    "moshi moshi. shitsurei shimasu. shitsurei shimashita.",
+    ""
+],
+[
+    "I'm leaving from work before you. [And others are still hard at work.] Thanks for your hard work. [Response to ~. Not used to superiors. Also used to thank someone for their work.] Thanks for your work. [Between equals and to people 'below'.]",
+    "osaki ni. gokurou sama desu. gokurou sama deshita. otsukare sama desu. otsukare sama deshita.",
+    ""
+],
+[
+    "Please be kind to me./I'm indebted to you.",
+    "yoroshiku {お願い|onegai} shimasu.",
+    ""
+],
+[
+    "Thank you very much. Thank you very much. [For something that has been done.]",
+    "arigatou gozaimasu. arigatou gozaimashita.",
+    ""
+],
+[
+    "Please wait a moment. [Polite.] Sorry to have kept you waiting. [Polite.] Sorry to have kept you waiting. [Informal.]",
+    "shoushou omachi kudasai. omatase shimashita. omachidou sama.",
     ""
 ]
 ])

@@ -51,7 +51,7 @@ Flashcards.initialize([
     ],
     [
         "Where did (you) come from?",
-        "\u3069\u3053\u304b\u3089\u304d\u307e\u3057\u305f\u3002",
+        "\u3069\u3053\u304b\u3089{\u6765\u307e\u3057\u305f|\u304d\u307e\u3057\u305f}\u3002",
         ""
     ],
     [
@@ -241,7 +241,7 @@ Flashcards.initialize([
     ],
     [
         "(My) dad will come to the college (tomorrow) morning.",
-        "{\u7236|\u3061\u3061}\u306f{\u671d|\u3042\u3055}\u30b3\u30ec\u30b8\u306b\u304d\u307e\u3059\u3002",
+        "{\u7236|\u3061\u3061}\u306f{\u671d|\u3042\u3055}\u30b3\u30ec\u30b8\u306b{\u6765\u307e\u3059|\u304d\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -326,7 +326,7 @@ Flashcards.initialize([
     ],
     [
         "(I) go to the office by train.",
-        "\u3067\u3093\u3057\u3083\u3067\u3058\u3080\u3057\u3087\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
+        "{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u3067\u3058\u3080\u3057\u3087\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -376,7 +376,7 @@ Flashcards.initialize([
     ],
     [
         "Please come in.",
-        "\u304a\u306f\u3044\u308a\u304f\u3060\u3055\u3044\u3002",
+        "{\u304a\u5165\u308a|\u304a\u306f\u3044\u308a}\u304f\u3060\u3055\u3044\u3002",
         ""
     ],
     [
@@ -476,7 +476,7 @@ Flashcards.initialize([
     ],
     [
         "What time will the next train come?",
-        "\u3064\u304e\u306e\u3067\u3093\u3057\u3083\u306f{\u4f55\u6642|\u306a\u3093\u3058}\u306b\u304d\u307e\u3059\u304b\u3002",
+        "\u3064\u304e\u306e{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u306f{\u4f55\u6642|\u306a\u3093\u3058}\u306b{\u6765\u307e\u3059|\u304d\u307e\u3059}\u304b\u3002",
         ""
     ],
     [
@@ -1986,7 +1986,7 @@ Flashcards.initialize([
     ],
     [
         "How did (you) go (there)? (I) went by train.",
-        "\u3069\u3046\u3084\u3063\u3066{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u304b\u3002\u3067\u3093\u3057\u3083\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "\u3069\u3046\u3084\u3063\u3066{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u304b\u3002{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
         "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
     ],
     [
@@ -1996,12 +1996,12 @@ Flashcards.initialize([
     ],
     [
         "(I) went to (my) mom's house by car.",
-        "{\u6bcd|\u306f\u306f}\u306e{\u5bb6|\u3046\u3061}\u306b\u304f\u308b\u307e\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "{\u6bcd|\u306f\u306f}\u306e{\u5bb6|\u3046\u3061}\u306b{\u8eca|\u304f\u308b\u307e}\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
         "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); A \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
         "(I) went to New York by train.",
-        "\u3067\u3093\u3057\u3083\u3067\u30cb\u30e5\u30fc\u30fb\u30e8\u30fc\u30af\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u3067\u30cb\u30e5\u30fc\u30fb\u30e8\u30fc\u30af\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
         "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of); A \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
@@ -2021,7 +2021,7 @@ Flashcards.initialize([
     ],
     [
         "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-        "\u304a\u3046\u3055\u304b\u307e\u3067\u3057\u3093\u304b\u3093\u305b\u3093\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002\u304b\u305f\u307f\u3061\u306e\u304d\u3063\u3077\u3092\u304b\u3044\u307e\u3057\u305f\u3002\u3069\u3046\u308a\u3087\u3046\u306e\u304f\u308b\u307e\u3067{\u5e30\u308a\u307e\u3057\u305f|\u304b\u3048\u308a\u307e\u3057\u305f}\u3002{\u5176\u308c|\u305d\u308c}\u3082{\u697d\u3057\u304f\u306a\u304b\u3063\u305f|\u305f\u306e\u3057\u304f\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
+        "\u304a\u3046\u3055\u304b\u307e\u3067\u3057\u3093\u304b\u3093\u305b\u3093\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002\u304b\u305f\u307f\u3061\u306e\u304d\u3063\u3077\u3092\u304b\u3044\u307e\u3057\u305f\u3002\u3069\u3046\u308a\u3087\u3046\u306e{\u8eca|\u304f\u308b\u307e}\u3067{\u5e30\u308a\u307e\u3057\u305f|\u304b\u3048\u308a\u307e\u3057\u305f}\u3002{\u5176\u308c|\u305d\u308c}\u3082{\u697d\u3057\u304f\u306a\u304b\u3063\u305f|\u305f\u306e\u3057\u304f\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
         "\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj."
     ],
     [
@@ -2126,7 +2126,7 @@ Flashcards.initialize([
     ],
     [
         "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
-        "\u3067\u3082\u307e\u3060{\u4e8c\u5206|\u306b\u3075\u3093}\u3042\u308a\u307e\u3059\u3002\u3088\u3086\u3046\u3067\u3059\u3002\u306a\u3064\u3053\u3055\u3093\u306f\u304d\u3063\u3068\u304d\u307e\u3059\u3002",
+        "\u3067\u3082\u307e\u3060{\u4e8c\u5206|\u306b\u3075\u3093}\u3042\u308a\u307e\u3059\u3002\u3088\u3086\u3046\u3067\u3059\u3002\u306a\u3064\u3053\u3055\u3093\u306f\u304d\u3063\u3068{\u6765\u307e\u3059|\u304d\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -2366,7 +2366,7 @@ Flashcards.initialize([
     ],
     [
         "I love Izu, and (I'm) also interested in cars.",
-        "{\u79c1|\u308f\u305f\u3057}\u306f\u3044\u305a\u304c\u3060\u3044\u3059\u304d\u3067\u3001\u304f\u308b\u307e\u306b\u3082\u304d\u3087\u3046\u307f\u304c\u3042\u308a\u307e\u3059\u3002",
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u3044\u305a\u304c\u3060\u3044\u3059\u304d\u3067\u3001{\u8eca|\u304f\u308b\u307e}\u306b\u3082\u304d\u3087\u3046\u307f\u304c\u3042\u308a\u307e\u3059\u3002",
         "\u306a-adj. + \u3067 = adj. and ..."
     ],
     [
@@ -2392,6 +2392,31 @@ Flashcards.initialize([
     [
         "(I) hate tennis the most, but baseball is the most boring.",
         "\u30c6\u30cb\u30b9\u304c\u3044\u3061\u3070\u3093\u304d\u3089\u3044\u3067\u3059\u304c\u3084\u304d\u3085\u3046\u306f\u3044\u3061\u3070\u3093\u3064\u307e\u3089\u306a\u3044\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "Hello. [Phone.] Excuse me for interrupting. [Entering workroom, end of phone call.] Excuse me for interrupting. [Leaving room.]",
+        "\u3082\u3057\u3082\u3057\u3002\u3057\u3064\u308c\u3044\u3057\u307e\u3059\u3002\u3057\u3064\u308c\u3044\u3057\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "I'm leaving from work before you. [And others are still hard at work.] Thanks for your hard work. [Response to ~. Not used to superiors. Also used to thank someone for their work.] Thanks for your work. [Between equals and to people 'below'.]",
+        "\u304a\u3055\u304d\u306b\u3002\u3054\u304f\u308d\u3046\u3055\u307e\u3067\u3059\u3002\u3054\u304f\u308d\u3046\u3055\u307e\u3067\u3057\u305f\u3002\u304a\u3064\u304b\u308c\u3055\u307e\u3067\u3059\u3002\u304a\u3064\u304b\u308c\u3055\u307e\u3067\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Please be kind to me./I'm indebted to you.",
+        "\u3088\u308d\u3057\u304f{\u304a\u9858\u3044|\u304a\u306d\u304c\u3044}\u3057\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Thank you very much. Thank you very much. [For something that has been done.]",
+        "\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Please wait a moment. [Polite.] Sorry to have kept you waiting. [Polite.] Sorry to have kept you waiting. [Informal.]",
+        "\u3057\u3087\u3046\u3057\u3087\u3046\u304a\u307e\u3061\u304f\u3060\u3055\u3044\u3002\u304a\u307e\u305f\u305b\u3057\u307e\u3057\u305f\u3002\u304a\u307e\u3061\u3069\u3046\u3055\u307e\u3002",
         ""
     ]
 ])
