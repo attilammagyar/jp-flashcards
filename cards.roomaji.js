@@ -2425,7 +2425,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Is Mr. Yamada there? [Respectful.]",
+    "Is Mr. Yamada there? {Respectful.}",
     "{山田|yamada} san wa irasshaimasu ka.",
     ""
 ],
@@ -2442,17 +2442,17 @@ Flashcards.initialize([
 [
     "I'm not very good at golf, but I'll give it a try.",
     "boku wa _gorufu_ ga amari jouzu deha arimasen ga yatte mimashou.",
-    ""
+    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
     "boku no {車|kuruma} de {行きましょう|ikimashou}. {十二時|juuniji} ni anata no _apaato_ he mukae ni {行きます|ikimasu}.",
-    ""
+    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
     "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
     "{子供|kodomo} no koro, shouboushi ni naritakatta desu ga, {実|jitsu} wa, _jaanarisuto_ ni narimashita.",
-    ""
+    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Every day (I) work until late in the evening, but the work is very enjoyable.",
@@ -2462,36 +2462,46 @@ Flashcards.initialize([
 [
     "(I) frequently do my work at home while having a meal, but it can't be helped.",
     "tabitabi {家|uchi} de shokuji wo shinagara {仕事|shigoto} wo shimasu ga shikata ga arimasen.",
-    ""
+    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
     "(I) want to work in America in the future.",
     "shourai _amerika_ de hatarakitai desu.",
-    ""
+    "Verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
     "_amerika_ no seikatsu wa omoshirosou desu ga {東京|toukyou} no seikatsu ga ichiban {好き|suki} desu.",
-    ""
+    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
     "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
     "{明日|ashita} natsuko san to isshoni machi he {映画|eiga} wo {見に|mini} {行きます|ikimasu}.",
-    ""
+    "(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
     "A filmstar's lifestyle looks unpleasant, doesn't it?",
     "{映画|eiga} _sutaa_ no seikatsu wa fuyukaisou desu ne.",
-    ""
+    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
     "(I) don't know how to make cakes.",
     "_keeki_ no tsukurikata ga {分かりません|wakarimasen}.",
-    ""
+    "Verb stem + かた = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + かた"
 ],
 [
     "Miki looks like (she) will eat that sushi, doesn't she?",
     "{三木|miki} san wa {其の|sono} sushi wo {食べそう|tabesou} desu ne.",
+    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+],
+[
+    "(I) liked watching movies very much.",
+    "{映画|eiga} wo {見ること|mirukoto} ga totemo {好き|suki} deshita.",
+    ""
+],
+[
+    "Because (I) liked shopping very much, (I) always went to shopping to the town.",
+    "kaimono ga totemo {好き|suki} deshita node, itsumo machi ni kaimono ni {行きました|ikimashita}.",
     ""
 ]
 ])
