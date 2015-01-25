@@ -6,12 +6,12 @@ Flashcards.initialize([
 ],
 [
     "I like you very much.",
-    "{私|watashi} wa anata ga totemo suki desu.",
+    "{私|watashi} wa anata ga totemo {好き|suki} desu.",
     ""
 ],
 [
     "What flowers do you like?",
-    "sukina {花|hana} wa {何|nan} desu ka.",
+    "{好き|suki} na {花|hana} wa {何|nan} desu ka.",
     ""
 ],
 [
@@ -91,7 +91,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't like this picture very much.",
-    "{此の|kono} e wa amari suki deha arimasen.",
+    "{此の|kono} e wa amari {好き|suki} deha arimasen.",
     ""
 ],
 [
@@ -261,7 +261,7 @@ Flashcards.initialize([
 ],
 [
     "(I) like dogs but (I) hate that dog so much!",
-    "{犬|inu} wa suki desu kedo, ano {犬|inu} wa daikirai desu.",
+    "{犬|inu} wa {好き|suki} desu kedo, ano {犬|inu} wa daikirai desu.",
     ""
 ],
 [
@@ -271,7 +271,7 @@ Flashcards.initialize([
 ],
 [
     "I love spring nights.",
-    "haru no yoru wa daisuki desu.",
+    "haru no yoru wa {大好き|daisuki} desu.",
     ""
 ],
 [
@@ -381,7 +381,7 @@ Flashcards.initialize([
 ],
 [
     "This is my favorite artwork!",
-    "{此れ|kore} wa {私|watashi} no ichiban sukina sakuhin desu.",
+    "{此れ|kore} wa {私|watashi} no ichiban {好き|suki} na sakuhin desu.",
     ""
 ],
 [
@@ -666,7 +666,7 @@ Flashcards.initialize([
 ],
 [
     "Tonight (I'll) be in Harajuku. (It's) fun, lively and (I) love Harajuku.",
-    "kon ya wa harajuku ni imasu. {楽しくて|tanoshikute}, nigiyakade, harajuku wa daisuki desu.",
+    "kon ya wa harajuku ni imasu. {楽しくて|tanoshikute}, nigiyakade, harajuku wa {大好き|daisuki} desu.",
     ""
 ],
 [
@@ -971,7 +971,7 @@ Flashcards.initialize([
 ],
 [
     "Because on Fridays you're not here, (I) love fridays",
-    "{金曜日|kin youbi} ni wa anata ga imasen kara, {金曜日|kin youbi} ga daisuki desu.",
+    "{金曜日|kin youbi} ni wa anata ga imasen kara, {金曜日|kin youbi} ga {大好き|daisuki} desu.",
     ""
 ],
 [
@@ -1096,7 +1096,7 @@ Flashcards.initialize([
 ],
 [
     "But because (I) like you, I'm here.",
-    "demo, anata ga suki desu kara, {私|watashi} wa koko ni imasu.",
+    "demo, anata ga {好き|suki} desu kara, {私|watashi} wa koko ni imasu.",
     ""
 ],
 [
@@ -1711,7 +1711,7 @@ Flashcards.initialize([
 ],
 [
     "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
-    "{私|watashi} wa sukoshi {大人しい|otonashii} desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga suki desu ga _supootsu_ ga amari suki deha arimasen.",
+    "{私|watashi} wa sukoshi {大人しい|otonashii} desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga {好き|suki} desu ga _supootsu_ ga amari {好き|suki} deha arimasen.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -1796,7 +1796,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't like rude people.",
-    "shitsurei na {人|hito} wa suki deha arimasen.",
+    "shitsurei na {人|hito} wa {好き|suki} deha arimasen.",
     ""
 ],
 [
@@ -2176,7 +2176,7 @@ Flashcards.initialize([
 ],
 [
     "Miki doesn't like beer very much.",
-    "{三木|miki} san wa _biiru_ ga amari suki deha arimasen.",
+    "{三木|miki} san wa _biiru_ ga amari {好き|suki} deha arimasen.",
     ""
 ],
 [
@@ -2201,7 +2201,7 @@ Flashcards.initialize([
 ],
 [
     "Roger likes sports the best/most.",
-    "_rojaa_ san wa _supootsu_ ga ichiban suki desu.",
+    "_rojaa_ san wa _supootsu_ ga ichiban {好き|suki} desu.",
     ""
 ],
 [
@@ -2246,7 +2246,7 @@ Flashcards.initialize([
 ],
 [
     "(There) are (more than) 600 channels. I like the weather forecast. Let's look at the world weather. Are (you) serious?",
-    "{六百|roppyaku} _chan__neru_ mo arimasu. {私|watashi} wa {天気|tenki} yohou ga suki desu. sekai no {天気|tenki} wo {見ましょう|mimashou}. {本気|honki} desu ka.",
+    "{六百|roppyaku} _chan__neru_ mo arimasu. {私|watashi} wa {天気|tenki} yohou ga {好き|suki} desu. sekai no {天気|tenki} wo {見ましょう|mimashou}. {本気|honki} desu ka.",
     ""
 ],
 [
@@ -2366,7 +2366,7 @@ Flashcards.initialize([
 ],
 [
     "I love Izu, and (I'm) also interested in cars.",
-    "{私|watashi} wa izu ga dai suki de, {車|kuruma} ni mo kyoumi ga arimasu.",
+    "{私|watashi} wa izu ga dai {好き|suki} de, {車|kuruma} ni mo kyoumi ga arimasu.",
     "な-adj. + で = adj. and ..."
 ],
 [
@@ -2417,6 +2417,81 @@ Flashcards.initialize([
 [
     "Please wait a moment. {Polite.} Sorry to have kept you waiting. {Polite.} Sorry to have kept you waiting. {Informal.}",
     "shoushou omachi kudasai. omatase shimashita. omachidou sama.",
+    ""
+],
+[
+    "How are you? I'm fine, thank you.",
+    "ogenki desu ka. okagesamade.",
+    ""
+],
+[
+    "Is Mr. Yamada there? [Respectful.]",
+    "{山田|yamada} san wa irasshaimasu ka.",
+    ""
+],
+[
+    "Let's try. / I'll give it a try.",
+    "yatte {見ましょう|mimashou}.",
+    ""
+],
+[
+    "Won't (we) play golf together on Sunday this week?",
+    "konshuu no {日曜日|nichiyoubi} ni isshoni _gorufu_ wo shimasen ka.",
+    ""
+],
+[
+    "I'm not very good at golf, but I'll give it a try.",
+    "boku wa _gorufu_ ga amari jouzu deha arimasen ga yatte mimashou.",
+    ""
+],
+[
+    "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
+    "boku no {車|kuruma} de {行きましょう|ikimashou}. {十二時|juuniji} ni anata no _apaato_ he mukae ni {行きます|ikimasu}.",
+    ""
+],
+[
+    "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
+    "{子供|kodomo} no koro, shouboushi ni naritakatta desu ga, {実|jitsu} wa, _jaanarisuto_ ni narimashita.",
+    ""
+],
+[
+    "Every day (I) work until late in the evening, but the work is very enjoyable.",
+    "{毎日|mainichi} yoru osoku made hatarakimasu ga {仕事|shigoto} wa totemo {楽しい|tanoshii} desu.",
+    ""
+],
+[
+    "(I) frequently do my work at home while having a meal, but it can't be helped.",
+    "tabitabi {家|uchi} de shokuji wo shinagara {仕事|shigoto} wo shimasu ga shikata ga arimasen.",
+    ""
+],
+[
+    "(I) want to work in America in the future.",
+    "shourai _amerika_ de hatarakitai desu.",
+    ""
+],
+[
+    "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
+    "_amerika_ no seikatsu wa omoshirosou desu ga {東京|toukyou} no seikatsu ga ichiban {好き|suki} desu.",
+    ""
+],
+[
+    "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
+    "{明日|ashita} natsuko san to isshoni machi he {映画|eiga} wo {見に|mini} {行きます|ikimasu}.",
+    ""
+],
+[
+    "A filmstar's lifestyle looks unpleasant, doesn't it?",
+    "{映画|eiga} _sutaa_ no seikatsu wa fuyukaisou desu ne.",
+    ""
+],
+[
+    "(I) don't know how to make cakes.",
+    "_keeki_ no tsukurikata ga {分かりません|wakarimasen}.",
+    ""
+],
+[
+    "Miki looks like (she) will eat that sushi, doesn't she?",
+    "{三木|miki} san wa {其の|sono} sushi wo {食べそう|tabesou} desu ne.",
     ""
 ]
 ])
