@@ -91,7 +91,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't like this picture very much.",
-    "{此の|kono} e wa amari {好き|suki} deha arimasen.",
+    "{此の|kono} {絵|e} wa amari {好き|suki} deha arimasen.",
     ""
 ],
 [
@@ -106,7 +106,7 @@ Flashcards.initialize([
 ],
 [
     "What is the food (you) hate the most?",
-    "ichiban kirai na tabemono wa {何|nan} desu ka.",
+    "ichiban kirai na {食物|tabemono} wa {何|nan} desu ka.",
     ""
 ],
 [
@@ -1101,7 +1101,7 @@ Flashcards.initialize([
 ],
 [
     "I'll teach you.",
-    "{私|watashi} ga anata ni oshiemasu.",
+    "{私|watashi} ga anata ni {教えます|oshiemasu}.",
     ""
 ],
 [
@@ -2186,7 +2186,7 @@ Flashcards.initialize([
 ],
 [
     "Roger taught Miki how to do bowling.",
-    "_rojaa_ san wa {三木|miki} san ni _booringu_ no shikata wo oshiemashita.",
+    "_rojaa_ san wa {三木|miki} san ni _booringu_ no shikata wo {教えました|oshiemashita}.",
     "Verb stem + かた = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + かた"
 ],
 [
@@ -2316,7 +2316,7 @@ Flashcards.initialize([
 ],
 [
     "Rie taught Roger how to make sushi.",
-    "rie san wa _rojaa_ san ni sushi no tsukurikata wo oshiemashita.",
+    "rie san wa _rojaa_ san ni sushi no tsukurikata wo {教えました|oshiemashita}.",
     "Verb stem + かた = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + かた"
 ],
 [
