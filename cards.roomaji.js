@@ -1496,7 +1496,7 @@ Flashcards.initialize([
 ],
 [
     "She is very kind but a bit serious.",
-    "{彼女|kanojo} wa totemo yasashii desu ga sukoshi majime desu.",
+    "{彼女|kanojo} wa totemo yasashii desu ga {少し|sukoshi} majime desu.",
     ""
 ],
 [
@@ -1711,7 +1711,7 @@ Flashcards.initialize([
 ],
 [
     "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
-    "{私|watashi} wa sukoshi {大人しい|otonashii} desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga {好き|suki} desu ga _supootsu_ ga amari {好き|suki} deha arimasen.",
+    "{私|watashi} wa {少し|sukoshi} {大人しい|otonashii} desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga {好き|suki} desu ga _supootsu_ ga amari {好き|suki} deha arimasen.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
