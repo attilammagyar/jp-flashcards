@@ -1371,7 +1371,7 @@ Flashcards.initialize([
 ],
 [
     "30 past 1 o'clock, half past 1 o'clock",
-    "{一持三十分|ichi ji san juppun}, {一時|ichi ji} han",
+    "{一持三十分|ichi ji san juppun}, {一時半|ichi ji han}",
     ""
 ],
 [
@@ -1591,7 +1591,7 @@ Flashcards.initialize([
 ],
 [
     "face, long/narrow, square, round",
-    "kao, {長い|nagai}, shikakui, marui",
+    "{顔|kao}, {長い|nagai}, shikakui, marui",
     ""
 ],
 [
@@ -1606,7 +1606,7 @@ Flashcards.initialize([
 ],
 [
     "(My) mother has round face, a high nose and brown eyes.",
-    "{母|haha} wa kao ga marukute, hana ga {高くて|takakute}, {目|me} ga chairo desu.",
+    "{母|haha} wa {顔|kao} ga marukute, hana ga {高くて|takakute}, {目|me} ga chairo desu.",
     ""
 ],
 [
@@ -1706,7 +1706,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
-    "se ga futsuu de, kami ga {長くて|nagakute} chairo desu. {目|me} mo chairo desu. kao ga marukute, hana ga {大きい|ookii} desu.",
+    "se ga futsuu de, kami ga {長くて|nagakute} chairo desu. {目|me} mo chairo desu. {顔|kao} ga marukute, hana ga {大きい|ookii} desu.",
     ""
 ],
 [
