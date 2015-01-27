@@ -2503,5 +2503,50 @@ Flashcards.initialize([
         "Because (I) liked shopping very much, (I) always went to shopping to the town.",
         "\u304b\u3044\u3082\u306e\u304c\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3057\u305f\u306e\u3067\u3001\u3044\u3064\u3082\u307e\u3061\u306b\u304b\u3044\u3082\u306e\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
         ""
+    ],
+    [
+        "Please eat (your) breakfast.",
+        "\u3042\u3055\u3054\u306f\u3093\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u304f\u3060\u3055\u3044\u3002",
+        ""
+    ],
+    [
+        "Please write an essay.",
+        "\u3055\u304f\u3076\u3093\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u304f\u3060\u3055\u3044\u3002",
+        ""
+    ],
+    [
+        "Please listen to the news.",
+        "\u30cb\u30e5\u30fc\u30b9\u3092{\u805e\u3044\u3066|\u304d\u3044\u3066}\u304f\u3060\u3055\u3044\u3002",
+        ""
+    ],
+    [
+        "Please drink water.",
+        "{\u6c34|\u307f\u305a}\u3092\u306e\u3093\u3067\u304f\u3060\u3055\u3044\u3002",
+        ""
+    ],
+    [
+        "Please look at the teacher.",
+        "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u3092{\u898b\u3066|\u307f\u3066}\u304f\u3060\u3055\u3044\u3002",
+        ""
+    ],
+    [
+        "Please show (me your) essay.",
+        "\u3055\u304f\u3076\u3093\u3092{\u898b\u305b\u3066|\u307f\u305b\u3066}\u304f\u3060\u3055\u3044\u3002",
+        ""
+    ],
+    [
+        "Please buy a digital camera.",
+        "\u30c7\u30b8\u30ab\u30e1\u3092\u304b\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+        ""
+    ],
+    [
+        "Please read the essay.",
+        "\u3055\u304f\u3076\u3093\u3092\u3088\u3093\u3067\u304f\u3060\u3055\u3044\u3002",
+        ""
+    ],
+    [
+        "Please speak Japanese.",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u8a71\u3057\u3066|\u306f\u306a\u3057\u3066}\u304f\u3060\u3055\u3044\u3002",
+        ""
     ]
 ])

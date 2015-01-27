@@ -2503,5 +2503,50 @@ Flashcards.initialize([
     "Because (I) liked shopping very much, (I) always went to shopping to the town.",
     "kaimono ga totemo {好き|suki} deshita node, itsumo machi ni kaimono ni {行きました|ikimashita}.",
     ""
+],
+[
+    "Please eat (your) breakfast.",
+    "asagohan wo {食べて|tabete} kudasai.",
+    ""
+],
+[
+    "Please write an essay.",
+    "sakubun wo {書いて|kaite} kudasai.",
+    ""
+],
+[
+    "Please listen to the news.",
+    "_nyuusu_ wo {聞いて|kiite} kudasai.",
+    ""
+],
+[
+    "Please drink water.",
+    "{水|mizu} wo nonde kudasai.",
+    ""
+],
+[
+    "Please look at the teacher.",
+    "{先生|sensei} wo {見て|mite} kudasai.",
+    ""
+],
+[
+    "Please show (me your) essay.",
+    "sakubun wo {見せて|misete} kudasai.",
+    ""
+],
+[
+    "Please buy a digital camera.",
+    "_dejikame_ wo katte kudasai.",
+    ""
+],
+[
+    "Please read the essay.",
+    "sakubun wo yonde kudasai.",
+    ""
+],
+[
+    "Please speak Japanese.",
+    "{日本語|nihongo} wo {話して|hanashite} kudasai.",
+    ""
 ]
 ])
