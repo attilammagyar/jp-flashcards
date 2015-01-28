@@ -131,7 +131,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always drink coffee.",
-    "itsumo _koohii_ wo nomimasu.",
+    "itsumo _koohii_ wo {飲みます|nomimasu}.",
     ""
 ],
 [
@@ -276,7 +276,7 @@ Flashcards.initialize([
 ],
 [
     "(I) drink coffee at the office every day.",
-    "{毎日|mainichi} jimusho de _koohii_ wo nomimasu.",
+    "{毎日|mainichi} jimusho de _koohii_ wo {飲みます|nomimasu}.",
     ""
 ],
 [
@@ -321,7 +321,7 @@ Flashcards.initialize([
 ],
 [
     "For breakfast (I) usually eat toast, and then (I) drink coffee.",
-    "asagohan ni taitei _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo nomimasu.",
+    "asagohan ni taitei _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo {飲みます|nomimasu}.",
     ""
 ],
 [
@@ -386,7 +386,7 @@ Flashcards.initialize([
 ],
 [
     "For lunch (I) eat egg and toast. And (I) drink coffee.",
-    "hirugohan ni tamago to _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo nomimasu.",
+    "hirugohan ni tamago to _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo {飲みます|nomimasu}.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -421,7 +421,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't drink coffee for breakfast.",
-    "asagohan ni _koohii_ wo nomimasen.",
+    "asagohan ni _koohii_ wo {飲みません|nomimasen}.",
     ""
 ],
 [
@@ -1081,7 +1081,7 @@ Flashcards.initialize([
 ],
 [
     "The school is near here.",
-    "{学校|gakkou} wa {此の|kono} chikaku ni arimasu.",
+    "{学校|gakkou} wa {此の|kono} {近く|chikaku} ni arimasu.",
     ""
 ],
 [
@@ -1146,7 +1146,7 @@ Flashcards.initialize([
 ],
 [
     "Is there a post office near here?",
-    "{此の|kono} chikaku ni yuubinkyoku ga arimasu ka.",
+    "{此の|kono} {近く|chikaku} ni yuubinkyoku ga arimasu ka.",
     ""
 ],
 [
@@ -1156,12 +1156,12 @@ Flashcards.initialize([
 ],
 [
     "(I) want to drink a beer.",
-    "_biiru_ wo nomitai desu.",
+    "_biiru_ wo {飲みたい|nomitai} desu.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Last night (I) didn't drink (any) beer at all.",
-    "yuube _biiru_ wo zenzen nomimasen deshita.",
+    "yuube _biiru_ wo zenzen {飲みません|nomimasen} deshita.",
     ""
 ],
 [
@@ -1206,7 +1206,7 @@ Flashcards.initialize([
 ],
 [
     "The school is near the museum. The teacher is in the school.",
-    "{学校|gakkou} wa hakubutsukan no chikaku ni arimasu. {先生|sensei} wa {学校|gakkou} ni imasu.",
+    "{学校|gakkou} wa hakubutsukan no {近く|chikaku} ni arimasu. {先生|sensei} wa {学校|gakkou} ni imasu.",
     ""
 ],
 [
@@ -1341,7 +1341,7 @@ Flashcards.initialize([
 ],
 [
     "(I) didn't drink coffee.",
-    "_koohii_ wo nomimasen deshita.",
+    "_koohii_ wo {飲みません|nomimasen} deshita.",
     ""
 ],
 [
@@ -2171,7 +2171,7 @@ Flashcards.initialize([
 ],
 [
     "(I) didn't want to drink alcohol.",
-    "{お酒|osake} wo nomitakunakatta desu.",
+    "{お酒|osake} wo {飲みたくなかった|nomitakunakatta} desu.",
     "のむ -> のみたい -> のみたく -> のみたくない -> のみたくなかった\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2181,7 +2181,7 @@ Flashcards.initialize([
 ],
 [
     "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
-    "{毎朝|maiasa} natsuko san wa _koohii_ wo nominagara {新聞|shinbun} wo yomimasu.",
+    "{毎朝|maiasa} natsuko san wa _koohii_ wo {飲みながら|nominagara} {新聞|shinbun} wo yomimasu.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2221,7 +2221,7 @@ Flashcards.initialize([
 ],
 [
     "Last night (I) didn't want to drink beer.",
-    "yuube _biiru_ wa nomitakunakatta desu.",
+    "yuube _biiru_ wa {飲みたくなかった|nomitakunakatta} desu.",
     "~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2296,7 +2296,7 @@ Flashcards.initialize([
 ],
 [
     "Ms. Natsuko drank green tea while listening to the news.",
-    "natsuko san wa _nyuusu_ wo {聞きながら|kikinagara} {お茶|ocha} wo nomimashita.",
+    "natsuko san wa _nyuusu_ wo {聞きながら|kikinagara} {お茶|ocha} wo {飲みました|nomimashita}.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2521,7 +2521,7 @@ Flashcards.initialize([
 ],
 [
     "Please drink water.",
-    "{水|mizu} wo nonde kudasai.",
+    "{水|mizu} wo {飲んで|nonde} kudasai.",
     ""
 ],
 [
