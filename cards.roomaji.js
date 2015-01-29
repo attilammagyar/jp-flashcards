@@ -86,12 +86,12 @@ Flashcards.initialize([
 ],
 [
     "I don't eat meat very often.",
-    "{私|watashi} wa {肉|niku} wo amari {食べません|tabemasen}.",
+    "{私|watashi} wa {肉|niku} wo {余り|amari} {食べません|tabemasen}.",
     ""
 ],
 [
     "(I) don't like this picture very much.",
-    "{此の|kono} {絵|e} wa amari {好き|suki} deha arimasen.",
+    "{此の|kono} {絵|e} wa {余り|amari} {好き|suki} deha arimasen.",
     ""
 ],
 [
@@ -106,12 +106,12 @@ Flashcards.initialize([
 ],
 [
     "What is the food (you) hate the most?",
-    "ichiban kirai na {食物|tabemono} wa {何|nan} desu ka.",
+    "{一番|ichiban} kirai na {食物|tabemono} wa {何|nan} desu ka.",
     ""
 ],
 [
     "Is this cold-medicine the strongest?",
-    "{此の|kono} kazegusuri wa ichiban {強い|tsuyoi} desu ka.",
+    "{此の|kono} kazegusuri wa {一番|ichiban} {強い|tsuyoi} desu ka.",
     ""
 ],
 [
@@ -381,7 +381,7 @@ Flashcards.initialize([
 ],
 [
     "This is my favorite artwork!",
-    "{此れ|kore} wa {私|watashi} no ichiban {好き|suki} na sakuhin desu.",
+    "{此れ|kore} wa {私|watashi} no {一番|ichiban} {好き|suki} na sakuhin desu.",
     ""
 ],
 [
@@ -1506,7 +1506,7 @@ Flashcards.initialize([
 ],
 [
     "My room is not very clean.",
-    "{私|watashi} no heya wa amari kirei deha arimasen.",
+    "{私|watashi} no heya wa {余り|amari} kirei deha arimasen.",
     ""
 ],
 [
@@ -1711,7 +1711,7 @@ Flashcards.initialize([
 ],
 [
     "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
-    "{私|watashi} wa {少し|sukoshi} {大人しい|otonashii} desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga {好き|suki} desu ga _supootsu_ ga amari {好き|suki} deha arimasen.",
+    "{私|watashi} wa {少し|sukoshi} {大人しい|otonashii} desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga {好き|suki} desu ga _supootsu_ ga {余り|amari} {好き|suki} deha arimasen.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -2091,7 +2091,7 @@ Flashcards.initialize([
 ],
 [
     "I don't read newspaper very much.",
-    "{私|watashi} wa amari {新聞|shinbun} wo yomimasen.",
+    "{私|watashi} wa {余り|amari} {新聞|shinbun} wo yomimasen.",
     ""
 ],
 [
@@ -2176,7 +2176,7 @@ Flashcards.initialize([
 ],
 [
     "Miki doesn't like beer very much.",
-    "{三木|miki} san wa _biiru_ ga amari {好き|suki} deha arimasen.",
+    "{三木|miki} san wa _biiru_ ga {余り|amari} {好き|suki} deha arimasen.",
     ""
 ],
 [
@@ -2201,7 +2201,7 @@ Flashcards.initialize([
 ],
 [
     "Roger likes sports the best/most.",
-    "_rojaa_ san wa _supootsu_ ga ichiban {好き|suki} desu.",
+    "_rojaa_ san wa _supootsu_ ga {一番|ichiban} {好き|suki} desu.",
     ""
 ],
 [
@@ -2386,12 +2386,12 @@ Flashcards.initialize([
 ],
 [
     "Roger is most skilful at bowling.",
-    "_rojaa_ san wa _booringu_ ga ichiban jouzu desu.",
+    "_rojaa_ san wa _booringu_ ga {一番|ichiban} jouzu desu.",
     ""
 ],
 [
     "(I) hate tennis the most, but baseball is the most boring.",
-    "_tenisu_ ga ichiban kirai desu ga yakyuu wa ichiban tsumaranai desu.",
+    "_tenisu_ ga {一番|ichiban} kirai desu ga yakyuu wa {一番|ichiban} tsumaranai desu.",
     ""
 ],
 [
@@ -2441,7 +2441,7 @@ Flashcards.initialize([
 ],
 [
     "I'm not very good at golf, but I'll give it a try.",
-    "boku wa _gorufu_ ga amari jouzu deha arimasen ga yatte mimashou.",
+    "boku wa _gorufu_ ga {余り|amari} jouzu deha arimasen ga yatte mimashou.",
     "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
@@ -2471,7 +2471,7 @@ Flashcards.initialize([
 ],
 [
     "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
-    "_amerika_ no seikatsu wa omoshirosou desu ga {東京|toukyou} no seikatsu ga ichiban {好き|suki} desu.",
+    "_amerika_ no seikatsu wa omoshirosou desu ga {東京|toukyou} no seikatsu ga {一番|ichiban} {好き|suki} desu.",
     "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
@@ -2547,6 +2547,11 @@ Flashcards.initialize([
 [
     "Please speak Japanese.",
     "{日本語|nihongo} wo {話して|hanashite} kudasai.",
+    ""
+],
+[
+    "te-form song",
+    "ichiritte, nibiminde, kiite, giide, shishite, shimasu shite, {来ます|kimasu} {来て|kite}, {行きます|ikimasu} {行って|itte}",
     ""
 ]
 ])
