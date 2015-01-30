@@ -1201,7 +1201,7 @@ Flashcards.initialize([
 ],
 [
     "Ms. Natsuko is by me.",
-    "natsuko san wa {私|watashi} no soba ni imasu.",
+    "natsuko san wa {私|watashi} no {側|soba} ni imasu.",
     ""
 ],
 [
@@ -1506,7 +1506,7 @@ Flashcards.initialize([
 ],
 [
     "My room is not very clean.",
-    "{私|watashi} no heya wa {余り|amari} kirei deha arimasen.",
+    "{私|watashi} no {部屋|heya} wa {余り|amari} kirei deha arimasen.",
     ""
 ],
 [
@@ -1556,7 +1556,7 @@ Flashcards.initialize([
 ],
 [
     "This is a clean room, isn't it?",
-    "{此れ|kore} wa kirei na heya desu ne.",
+    "{此れ|kore} wa kirei na {部屋|heya} desu ne.",
     ""
 ],
 [

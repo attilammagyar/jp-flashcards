@@ -1201,7 +1201,7 @@ Flashcards.initialize([
     ],
     [
         "Ms. Natsuko is by me.",
-        "\u306a\u3064\u3053\u3055\u3093\u306f{\u79c1|\u308f\u305f\u3057}\u306e\u305d\u3070\u306b\u3044\u307e\u3059\u3002",
+        "\u306a\u3064\u3053\u3055\u3093\u306f{\u79c1|\u308f\u305f\u3057}\u306e{\u5074|\u305d\u3070}\u306b\u3044\u307e\u3059\u3002",
         ""
     ],
     [
@@ -1506,7 +1506,7 @@ Flashcards.initialize([
     ],
     [
         "My room is not very clean.",
-        "{\u79c1|\u308f\u305f\u3057}\u306e\u3078\u3084\u306f{\u4f59\u308a|\u3042\u307e\u308a}\u304d\u308c\u3044\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+        "{\u79c1|\u308f\u305f\u3057}\u306e{\u90e8\u5c4b|\u3078\u3084}\u306f{\u4f59\u308a|\u3042\u307e\u308a}\u304d\u308c\u3044\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -1556,7 +1556,7 @@ Flashcards.initialize([
     ],
     [
         "This is a clean room, isn't it?",
-        "{\u6b64\u308c|\u3053\u308c}\u306f\u304d\u308c\u3044\u306a\u3078\u3084\u3067\u3059\u306d\u3002",
+        "{\u6b64\u308c|\u3053\u308c}\u306f\u304d\u308c\u3044\u306a{\u90e8\u5c4b|\u3078\u3084}\u3067\u3059\u306d\u3002",
         ""
     ],
     [
