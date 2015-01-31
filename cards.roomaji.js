@@ -236,7 +236,7 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) go home early.",
-    "{時々|tokidoki} hayaku {家|uchi} ni {帰ります|kaerimasu}.",
+    "{時々|tokidoki} {早く|hayaku} {家|uchi} ni {帰ります|kaerimasu}.",
     ""
 ],
 [
@@ -431,7 +431,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't go to work early.",
-    "hayaku {仕事|shigoto} ni {行きません|ikimasen}.",
+    "{早く|hayaku} {仕事|shigoto} ni {行きません|ikimasen}.",
     ""
 ],
 [
@@ -2116,7 +2116,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada works from early morning to late night every day.",
-    "{山田|yamada} san wa {毎日|mainichi} {朝|asa} hayaku kara yoru osoku made {仕事|shigoto} wo shimasu.",
+    "{山田|yamada} san wa {毎日|mainichi} {朝|asa} {早く|hayaku} kara yoru osoku made {仕事|shigoto} wo shimasu.",
     ""
 ],
 [
