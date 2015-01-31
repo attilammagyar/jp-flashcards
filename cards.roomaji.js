@@ -491,7 +491,7 @@ Flashcards.initialize([
 ],
 [
     "It's OK. There is no problem.",
-    "daijoubu desu. mondai arimasen.",
+    "daijoubu desu. {問題|mondai} arimasen.",
     ""
 ],
 [
@@ -1131,12 +1131,12 @@ Flashcards.initialize([
 ],
 [
     "Turn right at those traffic lights and go straight ahead please.",
-    "ano shingou wo migi ni magatte, massugu {行って|itte} kudasai.",
+    "ano shingou wo {右|migi} ni magatte, massugu {行って|itte} kudasai.",
     ""
 ],
 [
     "If (you) turn left at the crossroads, the bank will be on the right side.",
-    "kousaten wo hidari ni magaru to {銀行|ginkou} wa migi gawa ni arimasu.",
+    "kousaten wo hidari ni magaru to {銀行|ginkou} wa {右側|migigawa} ni arimasu.",
     "A-dictionary-form とB = if A then B"
 ],
 [
@@ -1246,7 +1246,7 @@ Flashcards.initialize([
 ],
 [
     "Please turn to the right.",
-    "migi ni magatte kudasai.",
+    "{右|migi} ni magatte kudasai.",
     ""
 ],
 [
@@ -1256,7 +1256,7 @@ Flashcards.initialize([
 ],
 [
     "Please turn right at the traffic lights.",
-    "shingou wo migi ni magatte kudasai.",
+    "shingou wo {右|migi} ni magatte kudasai.",
     ""
 ],
 [
@@ -1286,7 +1286,7 @@ Flashcards.initialize([
 ],
 [
     "Go straight ahead, (then) turn right at the second traffic lights.",
-    "massugu {行って|itte}, {二つ|futatsu} me no shingou wo migi ni magatte kudasai.",
+    "massugu {行って|itte}, {二つ|futatsu} me no shingou wo {右|migi} ni magatte kudasai.",
     ""
 ],
 [
@@ -1296,7 +1296,7 @@ Flashcards.initialize([
 ],
 [
     "Turn right at the second traffic lights please.",
-    "{二つ|futatsu} me no shingou wo migi ni magatte kudasai.",
+    "{二つ|futatsu} me no shingou wo {右|migi} ni magatte kudasai.",
     ""
 ],
 [
@@ -1851,7 +1851,7 @@ Flashcards.initialize([
 ],
 [
     "(I can) hear thunder.",
-    "{雷|kaminari} ga kikoemasu.",
+    "{雷|kaminari} ga {聞こえます|kikoemasu}.",
     ""
 ],
 [
@@ -2256,7 +2256,7 @@ Flashcards.initialize([
 ],
 [
     "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {Polite.}",
-    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, itsumo yasai wo yakiniku to isshoni {食べます|tabemasu} kara, mondai gozaimasen.",
+    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, itsumo yasai wo yakiniku to isshoni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
     ""
 ],
 [
