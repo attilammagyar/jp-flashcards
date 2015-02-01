@@ -61,7 +61,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada opens the door.",
-    "{山田|yamada} san wa _doa_ wo akemasu.",
+    "{山田|yamada} san wa _doa_ wo {開けます|akemasu}.",
     ""
 ],
 [
@@ -185,7 +185,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "(I'm) studying Japanese.",
+    "(I'll) study Japanese.",
     "{日本語|nihongo} wo benkyou wo shimasu.",
     ""
 ],
@@ -216,12 +216,12 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) watch television with (my) siblings.",
-    "{時々|tokidoki} kyoudai to _terebi_ wo {見ます|mimasu}.",
+    "{時々|tokidoki} {兄弟|kyoudai} to _terebi_ wo {見ます|mimasu}.",
     ""
 ],
 [
     "(I) always make dinner with (my) mom and (my) husband.",
-    "itsumo {母|haha} to shujin to bangohan wo tsukurimasu.",
+    "itsumo {母|haha} to shujin to bangohan wo {作ります|tsukurimasu}.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -311,7 +311,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always watch television, then (I) make dinner.",
-    "itsumo _terebi_ wo {見ます|mimasu}. {其れ|sore} kara bangohan wo tsukurimasu.",
+    "itsumo _terebi_ wo {見ます|mimasu}. {其れ|sore} kara bangohan wo {作ります|tsukurimasu}.",
     ""
 ],
 [
@@ -391,7 +391,7 @@ Flashcards.initialize([
 ],
 [
     "(I) get up every day at 6 o'clock. Then (I) make breakfast.",
-    "{毎日|mainichi} {六時|rokuji} ni okimasu. {其れ|sore} kara asagohan wo tsukurimasu.",
+    "{毎日|mainichi} {六時|rokuji} ni okimasu. {其れ|sore} kara asagohan wo {作ります|tsukurimasu}.",
     ""
 ],
 [
@@ -751,12 +751,12 @@ Flashcards.initialize([
 ],
 [
     "May (I) see those chopsticks?",
-    "{其の|sono} ohashi wo misete kudasai.",
+    "{其の|sono} ohashi wo {見せて|misete} kudasai.",
     ""
 ],
 [
     "May (I) see that doll over there?",
-    "ano ningyou wo misete kudasai.",
+    "ano ningyou wo {見せて|misete} kudasai.",
     ""
 ],
 [
@@ -1416,7 +1416,7 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, where is the supermarket? Do you know? {Polite.} Yes, (I) know.",
-    "sumimasen, _suupaa_ wa doko ni arimasu ka. gozonji desu ka. hai, shitteimasu.",
+    "sumimasen, _suupaa_ wa doko ni arimasu ka. gozonji desu ka. hai, {知って|shitte} imasu.",
     ""
 ],
 [
@@ -2301,7 +2301,7 @@ Flashcards.initialize([
 ],
 [
     "Naoe talked to Yuki while making a meal.",
-    "naoe san wa shokuji wo tsukurinagara yuki san to {話しました|hanashimashita}.",
+    "naoe san wa shokuji wo {作りながら|tsukurinagara} yuki san to {話しました|hanashimashita}.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2316,7 +2316,7 @@ Flashcards.initialize([
 ],
 [
     "Rie taught Roger how to make sushi.",
-    "rie san wa _rojaa_ san ni sushi no tsukurikata wo {教えました|oshiemashita}.",
+    "rie san wa _rojaa_ san ni sushi no {作りかた|tsukurikata} wo {教えました|oshiemashita}.",
     "Verb stem + かた = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + かた"
 ],
 [
@@ -2486,7 +2486,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't know how to make cakes.",
-    "_keeki_ no tsukurikata ga {分かりません|wakarimasen}.",
+    "_keeki_ no {作りかた|tsukurikata} ga {分かりません|wakarimasen}.",
     "Verb stem + かた = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + かた"
 ],
 [
@@ -2511,7 +2511,7 @@ Flashcards.initialize([
 ],
 [
     "Please write an essay.",
-    "sakubun wo {書いて|kaite} kudasai.",
+    "{作文|sakubun} wo {書いて|kaite} kudasai.",
     ""
 ],
 [
@@ -2531,7 +2531,7 @@ Flashcards.initialize([
 ],
 [
     "Please show (me your) essay.",
-    "sakubun wo {見せて|misete} kudasai.",
+    "{作文|sakubun} wo {見せて|misete} kudasai.",
     ""
 ],
 [
@@ -2541,7 +2541,7 @@ Flashcards.initialize([
 ],
 [
     "Please read the essay.",
-    "sakubun wo yonde kudasai.",
+    "{作文|sakubun} wo yonde kudasai.",
     ""
 ],
 [
@@ -2552,6 +2552,36 @@ Flashcards.initialize([
 [
     "te-form song",
     "ichiritte, nibiminde, kiite, giide, shishite, shimasu shite, {来ます|kimasu} {来て|kite}, {行きます|ikimasu} {行って|itte}",
+    ""
+],
+[
+    "(I) get up at 6 o'clock, eat breakfast, then set off at 7 o'clock.",
+    "{六時|rokuji} ni okite, asagohan wo {食べて|tabete}, {七時|shichiji} ni dekakemasu.",
+    ""
+],
+[
+    "In the evening, after eating dinner, (I) send emails on (my) computer.",
+    "yoru bangohan wo {食べて|tabete} kara _konpyuutaa_ de *e*_meeru_ wo dashimasu.",
+    ""
+],
+[
+    "May (I) watch the tv?",
+    "_terebi_ wo {見て|mite} mo {良い|ii} desu.",
+    ""
+],
+[
+    "(You) may eat here.",
+    "koko de {食べて|tabete} mo {良い|ii} desu.",
+    ""
+],
+[
+    "(You) are not allowed to eat here.",
+    "koko de {食べて|tabete} wa ikemasen.",
+    ""
+],
+[
+    "The post office is (open) from 9 o'clock until 5 o'clock.",
+    "yuubinkyoku wa {九時|kuji} kara {五時|goji} made desu.",
     ""
 ]
 ])
