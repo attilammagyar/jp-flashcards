@@ -1,3 +1,4 @@
+import re
 import romkan
 import unittest
 
@@ -5,13 +6,25 @@ import unittest
 def to_kana(text):
     formatted = ""
     text = text.strip()
-    conversions = [romkan.to_hiragana, romkan.to_katakana]
-    kana_type = 0
+    is_katakana = False
+    is_roman = False
 
-    for part in text.split("_"):
-        conversion = conversions[kana_type]
+    for part in re.split("([_*])", text):
+        if part == "_":
+            is_katakana = not is_katakana
+            continue
 
-        if conversion == romkan.to_katakana:
+        if part == "*":
+            is_roman = not is_roman
+            continue
+
+        conversion = romkan.to_hiragana
+
+        if is_roman:
+            conversion = lambda s: s
+
+        elif is_katakana:
+            conversion = romkan.to_katakana
             part = (
                 part.replace("aa", "aー")
                     .replace("ii", "iー")
@@ -20,11 +33,11 @@ def to_kana(text):
                     .replace("oo", "oー")
                     .replace(" ", "・")
             )
+
         else:
             part = part.replace(" wa ", " ha ").replace(" wa,", " ha,")
 
         formatted += conversion(part).replace(" ", "")
-        kana_type = kana_type ^ 1
 
     return formatted.replace(",", "、").replace("...", "…").replace(".", "。")
 
@@ -57,6 +70,10 @@ class _TestToKana(unittest.TestCase):
         self.assertEqual(
             "ニュー・ジーランド",
             to_kana("_nyuu jiirando_")
+        )
+        self.assertEqual(
+            "コンピューターでeメールをだします",
+            to_kana("_konpyuutaa_ de *e*_meeru_ wo dashimasu")
         )
 
 

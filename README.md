@@ -123,6 +123,7 @@ The following conversions are applied to the Japanese parts of the cards:
 
     roomaji         --> hiragana            # done by compile.sh
     _roomaji_       --> katakana            # done by compile.sh
+    *roman*         --> roman               # done by compile.sh
     {kanji|roomaji} --> kanji + furigana    # done by flashcards.js
 
 Additionally, `{roomaji kanji roomaji|roomaji}` is also converted if appears
@@ -150,5 +151,10 @@ Example `cards.roomaji.js`:
       "If you study every day, your Japanese will get skilled.",
       "{毎日|mai nichi} benkyou suru to {日本語|nihongo} ga jouzuni narimasu.",
       "A-dictionary-form とB = if A then B"
+     ],
+     [
+      "I send emails on my computer.",
+      "_konpyuutaa_ de *e*_meeru_ wo dashimasu.",
+      ""
      ]
     ])
