@@ -752,12 +752,12 @@ Flashcards.initialize([
     [
         "May (I) see those chopsticks?",
         "{\u5176\u306e|\u305d\u306e}\u304a\u306f\u3057\u3092{\u898b\u305b\u3066|\u307f\u305b\u3066}\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "May (I) see that doll over there?",
         "\u3042\u306e\u306b\u3093\u304e\u3087\u3046\u3092{\u898b\u305b\u3066|\u307f\u305b\u3066}\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "May (I) have this rice wine please?",
@@ -1132,7 +1132,7 @@ Flashcards.initialize([
     [
         "Turn right at those traffic lights and go straight ahead please.",
         "\u3042\u306e\u3057\u3093\u3054\u3046\u3092{\u53f3|\u307f\u304e}\u306b\u307e\u304c\u3063\u3066\u3001\u307e\u3063\u3059\u3050{\u884c\u3063\u3066|\u3044\u3063\u3066}\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "If (you) turn left at the crossroads, the bank will be on the right side.",
@@ -1242,67 +1242,67 @@ Flashcards.initialize([
     [
         "Go straight ahead please.",
         "\u307e\u3063\u3059\u3050{\u884c\u3063\u3066|\u3044\u3063\u3066}\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please turn to the right.",
         "{\u53f3|\u307f\u304e}\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please turn to the left.",
         "\u3072\u3060\u308a\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please turn right at the traffic lights.",
         "\u3057\u3093\u3054\u3046\u3092{\u53f3|\u307f\u304e}\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please cross the bridge.",
         "\u306f\u3057\u3092\u308f\u305f\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please cross the footbridge.",
         "\u307b\u3069\u3046\u304d\u3087\u3046\u3092\u308f\u305f\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please cross the road.",
         "\u307f\u3061\u3092\u308f\u305f\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please turn left at the first traffic lights.",
         "{\u4e00\u3064|\u3072\u3068\u3064}\u3081\u306e\u3057\u3093\u3054\u3046\u3092\u3072\u3060\u308a\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please turn left at the next traffic lights.",
         "\u3064\u304e\u306e\u3057\u3093\u3054\u3046\u3092\u3072\u3060\u308a\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Go straight ahead, (then) turn right at the second traffic lights.",
         "\u307e\u3063\u3059\u3050{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001{\u4e8c\u3064|\u3075\u305f\u3064}\u3081\u306e\u3057\u3093\u3054\u3046\u3092{\u53f3|\u307f\u304e}\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please cross at the pedestrian crossing.",
         "\u304a\u3046\u3060\u3093\u307b\u3069\u3046\u3092\u308f\u305f\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Turn right at the second traffic lights please.",
         "{\u4e8c\u3064|\u3075\u305f\u3064}\u3081\u306e\u3057\u3093\u3054\u3046\u3092{\u53f3|\u307f\u304e}\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Cross the footbridge, (then) turn left at the corner please.",
         "\u307b\u3069\u3046\u304d\u3087\u3046\u3092\u308f\u305f\u3063\u3066\u3001\u304b\u3069\u3092\u3072\u3060\u308a\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "The post office is (located) opposite the bank. The post office is opposite the bank. There is a post office opposite the bank.",
@@ -1422,17 +1422,17 @@ Flashcards.initialize([
     [
         "Go straight ahead (then) cross the pedestrian crossing please.",
         "\u307e\u3063\u3059\u3050{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001\u304a\u3046\u3060\u3093\u307b\u3069\u3046\u3092\u308f\u305f\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
         "{\u4e8c\u3064|\u3075\u305f\u3064}\u3081\u306e\u3057\u3093\u3054\u3046\u3092\u3072\u3060\u308a\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002\u30c7\u30d1\u30fc\u30c8\u306f\u3072\u3060\u308a\u304c\u308f\u306b\u3042\u308a\u307e\u3059\u3002\u3052\u304d\u3058\u3087\u3046\u306e\u3068\u306a\u308a\u3067\u3059\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Cross (over) the footbridge (and) turn left at the corner please.",
         "\u307b\u3069\u3046\u304d\u3087\u3046\u3092\u308f\u305f\u3063\u3066\u3001\u304b\u3069\u3092\u3072\u3060\u308a\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "That person is famous you know!",
@@ -2507,47 +2507,47 @@ Flashcards.initialize([
     [
         "Please eat (your) breakfast.",
         "\u3042\u3055\u3054\u306f\u3093\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please write an essay.",
         "{\u4f5c\u6587|\u3055\u304f\u3076\u3093}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please listen to the news.",
         "\u30cb\u30e5\u30fc\u30b9\u3092{\u805e\u3044\u3066|\u304d\u3044\u3066}\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please drink water.",
         "{\u6c34|\u307f\u305a}\u3092{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please look at the teacher.",
         "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u3092{\u898b\u3066|\u307f\u3066}\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please show (me your) essay.",
         "{\u4f5c\u6587|\u3055\u304f\u3076\u3093}\u3092{\u898b\u305b\u3066|\u307f\u305b\u3066}\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please buy a digital camera.",
         "\u30c7\u30b8\u30ab\u30e1\u3092\u304b\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please read the essay.",
         "{\u4f5c\u6587|\u3055\u304f\u3076\u3093}\u3092\u3088\u3093\u3067\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "Please speak Japanese.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u8a71\u3057\u3066|\u306f\u306a\u3057\u3066}\u304f\u3060\u3055\u3044\u3002",
-        ""
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "te-form song",
@@ -2557,7 +2557,7 @@ Flashcards.initialize([
     [
         "(I) get up at 6 o'clock, eat breakfast, then set off at 7 o'clock.",
         "{\u516d\u6642|\u308d\u304f\u3058}\u306b\u304a\u304d\u3066\u3001\u3042\u3055\u3054\u306f\u3093\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3001{\u4e03\u6642|\u3057\u3061\u3058}\u306b\u3067\u304b\u3051\u307e\u3059\u3002",
-        ""
+        "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
     ],
     [
         "In the evening, after eating dinner, (I) send emails on (my) computer.",
@@ -2583,5 +2583,25 @@ Flashcards.initialize([
         "The post office is (open) from 9 o'clock until 5 o'clock.",
         "\u3086\u3046\u3073\u3093\u304d\u3087\u304f\u306f{\u4e5d\u6642|\u304f\u3058}\u304b\u3089{\u4e94\u6642|\u3054\u3058}\u307e\u3067\u3067\u3059\u3002",
         ""
+    ],
+    [
+        "Every day (I) have lunch at 12 o'clock, then (I) go to work.",
+        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u5341\u4e8c\u6642|\u3058\u3085\u3046\u306b\u3058}\u306b\u3072\u308b\u3054\u306f\u3093\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3001{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
+        "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    ],
+    [
+        "Yesterday (I) got up late, (I) drank some coffee, then (I) went into town.",
+        "\u304d\u306e\u3046\u304a\u305d\u304f\u304a\u304d\u3066\u3001\u30b3\u30fc\u30d2\u30fc\u3092{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u3001\u307e\u3061\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    ],
+    [
+        "Tomorrow (I) will go home at 6 o'clock, have dinner, then watch TV.",
+        "{\u660e\u65e5|\u3042\u3057\u305f}{\u516d\u6642|\u308d\u304f\u3058}\u306b{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066}\u3001\u3070\u3093\u3054\u306f\u3093\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3001\u30c6\u30ec\u30d3\u3092{\u898b\u307e\u3059|\u307f\u307e\u3059}\u3002",
+        "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    ],
+    [
+        "On Mondays, (I) study Japanese, then (I) go to a restaurant to eat lunch.",
+        "{\u6708\u66dc\u65e5|\u3052\u3064\u3088\u3046\u3073}\u306b{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092\u3079\u3093\u304d\u3087\u3046\u3057\u3066\u3001\u30ec\u30b9\u30c8\u30e9\u30f3\u3078\u3072\u308b\u3054\u306f\u3093\u3092{\u98df\u3079|\u305f\u3079}\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
+        "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
     ]
 ])

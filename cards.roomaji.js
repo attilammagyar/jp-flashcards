@@ -736,12 +736,12 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, do (you) sell stamps?",
-    "sumimasen, kitte wo utteimasu ka.",
+    "sumimasen, kitte wo utte imasu ka.",
     ""
 ],
 [
     "Do (you) sell camera batteries?",
-    "_kamera_ no denchi wo utteimasu ka.",
+    "_kamera_ no denchi wo utte imasu ka.",
     ""
 ],
 [
@@ -752,12 +752,12 @@ Flashcards.initialize([
 [
     "May (I) see those chopsticks?",
     "{其の|sono} ohashi wo {見せて|misete} kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "May (I) see that doll over there?",
     "ano ningyou wo {見せて|misete} kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "May (I) have this rice wine please?",
@@ -1132,7 +1132,7 @@ Flashcards.initialize([
 [
     "Turn right at those traffic lights and go straight ahead please.",
     "ano shingou wo {右|migi} ni magatte, massugu {行って|itte} kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "If (you) turn left at the crossroads, the bank will be on the right side.",
@@ -1242,67 +1242,67 @@ Flashcards.initialize([
 [
     "Go straight ahead please.",
     "massugu {行って|itte} kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please turn to the right.",
     "{右|migi} ni magatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please turn to the left.",
     "hidari ni magatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please turn right at the traffic lights.",
     "shingou wo {右|migi} ni magatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please cross the bridge.",
     "hashi wo watatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please cross the footbridge.",
     "hodou kyou wo watatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please cross the road.",
     "michi wo watatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please turn left at the first traffic lights.",
     "{一つ|hitotsu} me no shingou wo hidari ni magatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please turn left at the next traffic lights.",
     "tsugi no shingou wo hidari ni magatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Go straight ahead, (then) turn right at the second traffic lights.",
     "massugu {行って|itte}, {二つ|futatsu} me no shingou wo {右|migi} ni magatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please cross at the pedestrian crossing.",
     "oudan hodou wo watatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Turn right at the second traffic lights please.",
     "{二つ|futatsu} me no shingou wo {右|migi} ni magatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Cross the footbridge, (then) turn left at the corner please.",
     "hodou kyou wo watatte, kado wo hidari ni magatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "The post office is (located) opposite the bank. The post office is opposite the bank. There is a post office opposite the bank.",
@@ -1422,17 +1422,17 @@ Flashcards.initialize([
 [
     "Go straight ahead (then) cross the pedestrian crossing please.",
     "massugu {行って|itte}, oudan hodou wo watatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
     "{二つ|futatsu} me no shingou wo hidari ni magatte kudasai. _depaato_ wa hidarigawa ni arimasu. gekijou no tonari desu.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Cross (over) the footbridge (and) turn left at the corner please.",
     "hodou kyou wo watatte, kado wo hidari ni magatte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "That person is famous you know!",
@@ -2507,47 +2507,47 @@ Flashcards.initialize([
 [
     "Please eat (your) breakfast.",
     "asagohan wo {食べて|tabete} kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please write an essay.",
     "{作文|sakubun} wo {書いて|kaite} kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please listen to the news.",
     "_nyuusu_ wo {聞いて|kiite} kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please drink water.",
     "{水|mizu} wo {飲んで|nonde} kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please look at the teacher.",
     "{先生|sensei} wo {見て|mite} kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please show (me your) essay.",
     "{作文|sakubun} wo {見せて|misete} kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please buy a digital camera.",
     "_dejikame_ wo katte kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please read the essay.",
     "{作文|sakubun} wo yonde kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "Please speak Japanese.",
     "{日本語|nihongo} wo {話して|hanashite} kudasai.",
-    ""
+    "verb-て-form + ください = request"
 ],
 [
     "te-form song",
@@ -2557,7 +2557,7 @@ Flashcards.initialize([
 [
     "(I) get up at 6 o'clock, eat breakfast, then set off at 7 o'clock.",
     "{六時|rokuji} ni okite, asagohan wo {食べて|tabete}, {七時|shichiji} ni dekakemasu.",
-    ""
+    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
     "In the evening, after eating dinner, (I) send emails on (my) computer.",
@@ -2583,5 +2583,25 @@ Flashcards.initialize([
     "The post office is (open) from 9 o'clock until 5 o'clock.",
     "yuubinkyoku wa {九時|kuji} kara {五時|goji} made desu.",
     ""
+],
+[
+    "Every day (I) have lunch at 12 o'clock, then (I) go to work.",
+    "{毎日|mainichi} {十二時|juuniji} ni hirugohan wo {食べて|tabete}, {仕事|shigoto} ni {行きます|ikimasu}.",
+    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "Yesterday (I) got up late, (I) drank some coffee, then (I) went into town.",
+    "kinou osoku okite, _koohii_ wo {飲んで|nonde}, machi ni {行きました|ikimashita}.",
+    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "Tomorrow (I) will go home at 6 o'clock, have dinner, then watch TV.",
+    "{明日|ashita} {六時|rokuji} ni {帰って|kaette}, bangohan wo {食べて|tabete}, _terebi_ wo {見ます|mimasu}.",
+    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "On Mondays, (I) study Japanese, then (I) go to a restaurant to eat lunch.",
+    "{月曜日|getsuyoubi} ni {日本語|nihongo} wo benkyou shite, _resutoran_ he hirugohan wo {食べ|tabe} ni {行きます|ikimasu}.",
+    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ]
 ])
