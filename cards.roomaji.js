@@ -186,7 +186,7 @@ Flashcards.initialize([
 ],
 [
     "(I'll) study Japanese.",
-    "{日本語|nihongo} wo benkyou wo shimasu.",
+    "{日本語|nihongo} wo {勉強|benkyou} wo shimasu.",
     ""
 ],
 [
@@ -696,7 +696,7 @@ Flashcards.initialize([
 ],
 [
     "I'm very worried. Tonight, shall we study English together?",
-    "totemo shinpai desu. kon ya isshoni {英語|eigo} wo benkyou shimasen ka.",
+    "totemo shinpai desu. kon ya issho ni {英語|eigo} wo {勉強|benkyou} shimasen ka.",
     ""
 ],
 [
@@ -706,7 +706,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (we'll) study Japanese together. How about that?",
-    "{明日|ashita} wa isshoni {日本語|nihongo} wo benkyou shimasu. dou desu ka.",
+    "{明日|ashita} wa issho ni {日本語|nihongo} wo {勉強|benkyou} shimasu. dou desu ka.",
     ""
 ],
 [
@@ -1311,7 +1311,7 @@ Flashcards.initialize([
 ],
 [
     "How about the cinema? Won't (we) go to the cinema? Shall (we) go to the cinema together? Let's go to the cinema!",
-    "eigakan wa dou desu ka. eigakan ni {行きません|ikimasen} ka. isshoni eigakan ni {行きましょう|ikimashou} ka. eigakan ni {行きましょう|ikimashou}.",
+    "eigakan wa dou desu ka. eigakan ni {行きません|ikimasen} ka. issho ni eigakan ni {行きましょう|ikimashou} ka. eigakan ni {行きましょう|ikimashou}.",
     ""
 ],
 [
@@ -1331,7 +1331,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow, won't (we) go somewhere together? Yes, where shall (we) go?",
-    "{明日|ashita} doko ka isshoni {行きません|ikimasen} ka. hai, doko ni {行きましょう|ikimashou} ka.",
+    "{明日|ashita} doko ka issho ni {行きません|ikimasen} ka. hai, doko ni {行きましょう|ikimashou} ka.",
     ""
 ],
 [
@@ -1491,7 +1491,7 @@ Flashcards.initialize([
 ],
 [
     "I hope to play tennis together next week.",
-    "raishuu isshoni _tenisu_ wo shitai to omoimasu.",
+    "raishuu issho ni _tenisu_ wo shitai to omoimasu.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -1906,7 +1906,7 @@ Flashcards.initialize([
 ],
 [
     "If (you) study every day, (your) Japanese will get skilled.",
-    "{毎日|mai nichi} benkyou suru to {日本語|nihongo} ga jouzu ni narimasu.",
+    "{毎日|mai nichi} {勉強|benkyou} suru to {日本語|nihongo} ga jouzu ni narimasu.",
     "A-dictionary-form とB = if A then B\nNoun/な adj + に + なる = become ~\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
@@ -1991,7 +1991,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went to the town by bus.",
-    "machi ni _basu_ de {行きました|ikimashita}.",
+    "{町|machi} ni _basu_ de {行きました|ikimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
 ],
 [
@@ -2191,7 +2191,7 @@ Flashcards.initialize([
 ],
 [
     "Ms. Natsuko went to the town to meet Miki.",
-    "natsuko san wa machi he {三木|miki} san ni ai ni {行きました|ikimashita}.",
+    "natsuko san wa {町|machi} he {三木|miki} san ni ai ni {行きました|ikimashita}.",
     "へ = to, towards, pronounced as え\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
@@ -2256,7 +2256,7 @@ Flashcards.initialize([
 ],
 [
     "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {Polite.}",
-    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, itsumo yasai wo yakiniku to isshoni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
+    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, itsumo yasai wo yakiniku to issho ni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
     ""
 ],
 [
@@ -2271,7 +2271,7 @@ Flashcards.initialize([
 ],
 [
     "I studied for the test.",
-    "{私|watashi} wa shiken no tame ni benkyou shimashita.",
+    "{私|watashi} wa shiken no tame ni {勉強|benkyou} shimashita.",
     "Noun + の + ため + に + Verb = do Verb for the benefit of / in order to Noun"
 ],
 [
@@ -2281,7 +2281,7 @@ Flashcards.initialize([
 ],
 [
     "(I) will study Japanese in order to read manga.",
-    "manga wo yomu tame ni {日本語|nihongo} wo benkyou shimasu.",
+    "manga wo yomu tame ni {日本語|nihongo} wo {勉強|benkyou} shimasu.",
     "Verb A (dictionary form) + ため + に + Verb B = do Verb B in order to Verb A"
 ],
 [
@@ -2371,7 +2371,7 @@ Flashcards.initialize([
 ],
 [
     "Won't (we) go for a drive together this weekend?",
-    "konshuumatsu isshoni _doraibu_ he {行きません|ikimasen} ka.",
+    "konshuumatsu issho ni _doraibu_ he {行きません|ikimasen} ka.",
     ""
 ],
 [
@@ -2436,7 +2436,7 @@ Flashcards.initialize([
 ],
 [
     "Won't (we) play golf together on Sunday this week?",
-    "konshuu no {日曜日|nichiyoubi} ni isshoni _gorufu_ wo shimasen ka.",
+    "konshuu no {日曜日|nichiyoubi} ni issho ni _gorufu_ wo shimasen ka.",
     ""
 ],
 [
@@ -2476,7 +2476,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
-    "{明日|ashita} natsuko san to isshoni machi he {映画|eiga} wo {見に|mini} {行きます|ikimasu}.",
+    "{明日|ashita} natsuko san to issho ni {町|machi} he {映画|eiga} wo {見に|mini} {行きます|ikimasu}.",
     "(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
@@ -2501,7 +2501,7 @@ Flashcards.initialize([
 ],
 [
     "Because (I) liked shopping very much, (I) always went to shopping to the town.",
-    "kaimono ga totemo {好き|suki} deshita node, itsumo machi ni kaimono ni {行きました|ikimashita}.",
+    "kaimono ga totemo {好き|suki} deshita node, itsumo {町|machi} ni kaimono ni {行きました|ikimashita}.",
     ""
 ],
 [
@@ -2556,7 +2556,7 @@ Flashcards.initialize([
 ],
 [
     "(I) get up at 6 o'clock, eat breakfast, then set off at 7 o'clock.",
-    "{六時|rokuji} ni okite, asagohan wo {食べて|tabete}, {七時|shichiji} ni dekakemasu.",
+    "{六時|rokuji} ni okite, asagohan wo {食べて|tabete}, {七時|shichiji} ni {出掛けます|dekakemasu}.",
     "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -2591,7 +2591,7 @@ Flashcards.initialize([
 ],
 [
     "Yesterday (I) got up late, (I) drank some coffee, then (I) went into town.",
-    "kinou osoku okite, _koohii_ wo {飲んで|nonde}, machi ni {行きました|ikimashita}.",
+    "kinou osoku okite, _koohii_ wo {飲んで|nonde}, {町|machi} ni {行きました|ikimashita}.",
     "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -2601,7 +2601,7 @@ Flashcards.initialize([
 ],
 [
     "On Mondays, (I) study Japanese, then (I) go to a restaurant to eat lunch.",
-    "{月曜日|getsuyoubi} ni {日本語|nihongo} wo benkyou shite, _resutoran_ he hirugohan wo {食べ|tabe} ni {行きます|ikimasu}.",
+    "{月曜日|getsuyoubi} ni {日本語|nihongo} wo {勉強|benkyou} shite, _resutoran_ he hirugohan wo {食べ|tabe} ni {行きます|ikimasu}.",
     "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ]
 ])
