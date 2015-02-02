@@ -2562,11 +2562,11 @@ Flashcards.initialize([
 [
     "In the evening, after eating dinner, (I) send emails on (my) computer.",
     "yoru bangohan wo {食べて|tabete} kara _konpyuutaa_ de *e*_meeru_ wo dashimasu.",
-    ""
+    "verb-て-form + から = after doing verb, ..."
 ],
 [
     "May (I) watch the tv?",
-    "_terebi_ wo {見て|mite} mo {良い|ii} desu.",
+    "_terebi_ wo {見て|mite} mo {良い|ii} desu ka.",
     ""
 ],
 [
@@ -2603,5 +2603,40 @@ Flashcards.initialize([
     "On Mondays, (I) study Japanese, then (I) go to a restaurant to eat lunch.",
     "{月曜日|getsuyoubi} ni {日本語|nihongo} wo {勉強|benkyou} shite, _resutoran_ he hirugohan wo {食べ|tabe} ni {行きます|ikimasu}.",
     "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
+],
+[
+    "Before long (after short), (we) will get home.",
+    "{後|ato} mou {少し|sukoshi} de {家|ie} ni tsukimasu.",
+    ""
+],
+[
+    "Please wait a little more.",
+    "mou {少し|sukoshi} matte kudasai.",
+    "verb-て-form + ください = request"
+],
+[
+    "Nowadays (I) don't want to drink coffee very much.",
+    "konogoro _koohii_ wo {余り|amari} {飲みたくない|nomitakunai} desu.",
+    "Verb stem + たい = want to ~"
+],
+[
+    "(There are) too many orders, (it) takes time.",
+    "{注文|chuumon} wa anmari {多くて|ookute}, {時間|jikan} ga {掛かります|kakarimasu}.",
+    ""
+],
+[
+    "After (I've) studied Japanese, (I) usually relax.",
+    "{日本語|nihongo} wo {勉強|benkyou} shite kara, taitei gorogoro shimasu.",
+    "verb-て-form + から = after doing verb, ..."
+],
+[
+    "After (I'd) phoned my parents, (I) went to (my) friend's house.",
+    "ryoushin ni {電話|denwa} shite kara, {友達|tomodachi} no {家|uchi} ni {行きました|ikimashita}.",
+    "verb-て-form + から = after doing verb, ..."
+],
+[
+    "After reading the newspaper, (I) cleaned the house.",
+    "{新聞|shinbun} wo yonde kara, {家|uchi} wo souji shimashita.",
+    "verb-て-form + から = after doing verb, ..."
 ]
 ])

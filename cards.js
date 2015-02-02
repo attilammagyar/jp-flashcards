@@ -2562,11 +2562,11 @@ Flashcards.initialize([
     [
         "In the evening, after eating dinner, (I) send emails on (my) computer.",
         "\u3088\u308b\u3070\u3093\u3054\u306f\u3093\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u304b\u3089\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3067e\u30e1\u30fc\u30eb\u3092\u3060\u3057\u307e\u3059\u3002",
-        ""
+        "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
     ],
     [
         "May (I) watch the tv?",
-        "\u30c6\u30ec\u30d3\u3092{\u898b\u3066|\u307f\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u3002",
+        "\u30c6\u30ec\u30d3\u3092{\u898b\u3066|\u307f\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -2603,5 +2603,40 @@ Flashcards.initialize([
         "On Mondays, (I) study Japanese, then (I) go to a restaurant to eat lunch.",
         "{\u6708\u66dc\u65e5|\u3052\u3064\u3088\u3046\u3073}\u306b{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u3066\u3001\u30ec\u30b9\u30c8\u30e9\u30f3\u3078\u3072\u308b\u3054\u306f\u3093\u3092{\u98df\u3079|\u305f\u3079}\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
         "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
+    ],
+    [
+        "Before long (after short), (we) will get home.",
+        "{\u5f8c|\u3042\u3068}\u3082\u3046{\u5c11\u3057|\u3059\u3053\u3057}\u3067{\u5bb6|\u3044\u3048}\u306b\u3064\u304d\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Please wait a little more.",
+        "\u3082\u3046{\u5c11\u3057|\u3059\u3053\u3057}\u307e\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
+    ],
+    [
+        "Nowadays (I) don't want to drink coffee very much.",
+        "\u3053\u306e\u3054\u308d\u30b3\u30fc\u30d2\u30fc\u3092{\u4f59\u308a|\u3042\u307e\u308a}{\u98f2\u307f\u305f\u304f\u306a\u3044|\u306e\u307f\u305f\u304f\u306a\u3044}\u3067\u3059\u3002",
+        "Verb stem + \u305f\u3044 = want to ~"
+    ],
+    [
+        "(There are) too many orders, (it) takes time.",
+        "{\u6ce8\u6587|\u3061\u3085\u3046\u3082\u3093}\u306f\u3042\u3093\u307e\u308a{\u591a\u304f\u3066|\u304a\u304a\u304f\u3066}\u3001{\u6642\u9593|\u3058\u304b\u3093}\u304c{\u639b\u304b\u308a\u307e\u3059|\u304b\u304b\u308a\u307e\u3059}\u3002",
+        ""
+    ],
+    [
+        "After (I've) studied Japanese, (I) usually relax.",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u3066\u304b\u3089\u3001\u305f\u3044\u3066\u3044\u3054\u308d\u3054\u308d\u3057\u307e\u3059\u3002",
+        "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
+    ],
+    [
+        "After (I'd) phoned my parents, (I) went to (my) friend's house.",
+        "\u308a\u3087\u3046\u3057\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3057\u3066\u304b\u3089\u3001{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306e{\u5bb6|\u3046\u3061}\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
+    ],
+    [
+        "After reading the newspaper, (I) cleaned the house.",
+        "{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3092\u3088\u3093\u3067\u304b\u3089\u3001{\u5bb6|\u3046\u3061}\u3092\u305d\u3046\u3058\u3057\u307e\u3057\u305f\u3002",
+        "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
     ]
 ])
