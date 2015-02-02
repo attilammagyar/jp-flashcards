@@ -11,11 +11,11 @@
 
     Flashcards = {
         cards: [],
-        shuffled_card_indices: [],
-        focus: [],
-        shuffled_focus: [],
-        state: function () {},
+        cards_pointer: 0,
         current_card_index: 0,
+        focus: [],
+        focus_pointer: 0,
+        state: function () {},
         all: 0,
         bad: 0,
         digits: "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@/",
@@ -28,40 +28,40 @@
         generateNextCardIndex: function ()
         {
             var fc = Flashcards,
-                current_card, next_card;
+                next_card;
 
-            next_card = current_card = fc.current_card_index;
+            if (fc.shouldChooseFromFocus()) {
+                next_card = fc.focus[fc.focus_pointer];
+                fc.focus_pointer++;
 
-            if (fc.shouldChooseFromAll()) {
-                next_card = fc.shuffled_card_indices.shift();
-
-                if (fc.shuffled_card_indices.length == 0) {
-                    Flashcards.shuffleCards();
+                if (fc.focus_pointer >= fc.focus.length) {
+                    fc.focus_pointer = 0;
                 }
             } else {
-                next_card = fc.shuffled_focus.shift();
+                next_card = fc.cards_pointer;
+                fc.cards_pointer++;
 
-                if (fc.shuffled_focus.length == 0) {
-                    Flashcards.shuffleFocus();
+                if (fc.cards_pointer >= fc.cards.length) {
+                    fc.cards_pointer = 0;
                 }
             }
 
             return next_card;
         },
 
-        shouldChooseFromAll: function ()
+        shouldChooseFromFocus: function ()
         {
             var x = Flashcards.focus.length,
                 tolerance, focus_probability;
 
             if (x === 0) {
-                return true;
+                return false;
             }
 
             tolerance = (Flashcards.cards.length / 50) + 1;
-            focus_probability = 0.15 + 0.75 * (x / (x + tolerance));
+            focus_probability = 0.15 + 0.70 * (x / (x + tolerance));
 
-            return Math.random() > focus_probability;
+            return Math.random() < focus_probability;
         },
 
         states: {
@@ -159,12 +159,10 @@
                 matches;
 
             Flashcards.cards = Flashcards.formatCards(cards);
-            Flashcards.shuffleCards();
             Flashcards.nextState(Flashcards.states.firstQuestion);
 
             if (focus) {
                 Flashcards.parseFocus(focus[1]);
-                Flashcards.shuffleFocus();
             }
 
             $("card").onclick = Flashcards.moveToNextState;
@@ -177,38 +175,6 @@
             $("rate").onsubmit = function () { return false; };
 
             Flashcards.moveToNextState();
-        },
-
-        shuffleCards: function ()
-        {
-            Flashcards.shuffled_card_indices = Flashcards.shuffleArray(
-                Flashcards.closedRange(0, Flashcards.cards.length - 1)
-            );
-        },
-
-        shuffleFocus: function ()
-        {
-            Flashcards.shuffled_focus = Flashcards.shuffleArray(Flashcards.focus);
-        },
-
-        shuffleArray: function (original_array)
-        {
-            var shuffled = [],
-                i, j, l;
-
-            // Fisher–Yates shuffle, inside-out
-
-            for (i = 0, l = original_array.length; i < l; ++i) {
-                j = Flashcards.random(0, i + 1);
-
-                if (i !== j) {
-                    shuffled[i] = shuffled[j];
-                }
-
-                shuffled[j] = original_array[i];
-            }
-
-            return shuffled;
         },
 
         formatCards: function (cards)
@@ -270,10 +236,21 @@
                 min, max,
                 i;
 
-            if (matches = focus_str.match(/!([^,]+),([^,]+),([^,]*)$/)) {
+            if (matches = focus_str.match(/!([^,]+),([^,]+),([^,]*)(,([^,]+),([^,]+))?$/)) {
                 Flashcards.all = Flashcards.decodeInteger(matches[1]);
                 Flashcards.bad = Flashcards.decodeInteger(matches[2]);
                 focus = Flashcards.decodeArrayOfIntegers(matches[3]);
+
+                if (matches.length >= 6 && matches[4] !== undefined) {
+                    Flashcards.cards_pointer = Math.min(
+                        Math.max(0, Flashcards.cards.length - 1),
+                        Number(matches[5])
+                    );
+                    Flashcards.focus_pointer = Math.min(
+                        Math.max(0, focus.length - 1),
+                        Number(matches[6])
+                    );
+                }
             } else if (matches = focus_str.match(/^([0-9]+)$/)) {
                 min = count - Math.min(count, Number(matches[1]));
                 focus = Flashcards.closedRange(min, count - 1);
@@ -498,6 +475,8 @@
                 "#!" + Flashcards.encodeInteger(Flashcards.all)
                 + "," + Flashcards.encodeInteger(Flashcards.bad)
                 + "," + Flashcards.encodeSortableArrayOfIntegers(Flashcards.focus)
+                + "," + String(Flashcards.cards_pointer)
+                + "," + String(Flashcards.focus_pointer)
             );
             url = window.location.href.replace(/^([^#]*)(#.*)?$/, "$1") + hash;
             title = (
@@ -535,8 +514,13 @@
         {
             if (Flashcards.focus.indexOf(Flashcards.current_card_index) == -1) {
                 Flashcards.focus.push(Flashcards.current_card_index);
-                Flashcards.shuffleFocus();
+                Flashcards.sortFocus();
             }
+        },
+
+        sortFocus: function ()
+        {
+            Flashcards.focus.sort(function (a, b) { return a - b; });
         },
 
         rateSkip: function ()
@@ -552,7 +536,11 @@
                     return i !== Flashcards.current_card_index;
                 }
             );
-            Flashcards.shuffleFocus();
+
+            if (Flashcards.focus_pointer >= Flashcards.focus.length) {
+                Flashcards.focus_pointer = 0;
+            }
+
             Flashcards.moveToNextState();
         },
 
@@ -570,7 +558,6 @@
                 }
             }
 
-            Flashcards.shuffleFocus();
             Flashcards.updateInfo();
         },
     };

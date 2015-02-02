@@ -8,19 +8,20 @@ My quick and dirty flashcards app for learning Japanese.
 Usage
 -----
 
- * Practice random cards: [index.html][a]
+ * Practice all cards: [index.html][a]
  * Focus on the last few cards (e.g. last 15): [index.html#15][f]
  * Focus on a range of cards (e.g. 10-20): [index.html#10-20][r]
  * Focus on a selection of cards (e.g. 1st, 2nd and 4th): [index.html#1,2,4][s]
  * Continue from where you have left last time, using the hash code that the
-   app generated (e.g. `#!.3a,9,z2.149/A2`): [index.html#!.3a,9,z2.149/A2][h]
+   app generated (e.g. `#!.3a,9,z2.149/A2,9,3`):
+   [index.html#!.3a,9,z2.149/A2,9,3][h]
  * List all cards: [all.html][l]
 
   [a]: http://attilammagyar.github.io/jp-flashcards/index.html
   [f]: http://attilammagyar.github.io/jp-flashcards/index.html#15
   [r]: http://attilammagyar.github.io/jp-flashcards/index.html#10-20
   [s]: http://attilammagyar.github.io/jp-flashcards/index.html#1,2,4
-  [h]: http://attilammagyar.github.io/jp-flashcards/index.html#!.3a,9,z2.149/A2
+  [h]: http://attilammagyar.github.io/jp-flashcards/index.html#!.3a,9,z2.149/A2,9,3
   [l]: http://attilammagyar.github.io/jp-flashcards/all.html
 
 Click anywhere to reveal the correct answer, the furigana, to rate your answer
@@ -39,8 +40,8 @@ and then customize the cards or use it offline.
 You can start learning on one of your device, and continue on another using the
 hash codes that are displayed after each card.
 
-**Note**: even when some cards are selected to be focused on, a random card
-from the whole deck will be shown from time to time.
+**Note**: even when some cards are selected to be focused on, a card from the
+whole deck will be shown from time to time.
 
 Browser compatibility
 ---------------------
