@@ -16,7 +16,7 @@ Flashcards.initialize([
 ],
 [
     "Today it's 3 degrees probably.",
-    "{今日|kyou} wa {三|san} do deshou.",
+    "{今日|kyou} wa {三度|sando} deshou.",
     ""
 ],
 [
@@ -1136,7 +1136,7 @@ Flashcards.initialize([
 ],
 [
     "If (you) turn left at the crossroads, the bank will be on the right side.",
-    "kousaten wo hidari ni magaru to {銀行|ginkou} wa {右側|migigawa} ni arimasu.",
+    "kousaten wo {左|hidari} ni magaru to {銀行|ginkou} wa {右側|migigawa} ni arimasu.",
     "A-dictionary-form とB = if A then B"
 ],
 [
@@ -1251,7 +1251,7 @@ Flashcards.initialize([
 ],
 [
     "Please turn to the left.",
-    "hidari ni magatte kudasai.",
+    "{左|hidari} ni magatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1276,12 +1276,12 @@ Flashcards.initialize([
 ],
 [
     "Please turn left at the first traffic lights.",
-    "{一つ|hitotsu} me no shingou wo hidari ni magatte kudasai.",
+    "{一つ|hitotsu} me no shingou wo {左|hidari} ni magatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Please turn left at the next traffic lights.",
-    "tsugi no shingou wo hidari ni magatte kudasai.",
+    "tsugi no shingou wo {左|hidari} ni magatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1301,7 +1301,7 @@ Flashcards.initialize([
 ],
 [
     "Cross the footbridge, (then) turn left at the corner please.",
-    "hodou kyou wo watatte, kado wo hidari ni magatte kudasai.",
+    "hodou kyou wo watatte, kado wo {左|hidari} ni magatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1426,12 +1426,12 @@ Flashcards.initialize([
 ],
 [
     "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
-    "{二つ|futatsu} me no shingou wo hidari ni magatte kudasai. _depaato_ wa hidarigawa ni arimasu. gekijou no tonari desu.",
+    "{二つ|futatsu} me no shingou wo {左|hidari} ni magatte kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. gekijou no tonari desu.",
     "verb-て-form + ください = request"
 ],
 [
     "Cross (over) the footbridge (and) turn left at the corner please.",
-    "hodou kyou wo watatte, kado wo hidari ni magatte kudasai.",
+    "hodou kyou wo watatte, kado wo {左|hidari} ni magatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -2076,12 +2076,12 @@ Flashcards.initialize([
 ],
 [
     "(In) Sapporo, the wind will probably be strong and sometimes (it) will snow. (It) will probably be 0°C.",
-    "Sapporo wa {風|kaze} ga {強くて|tsuyokute} {時々|tokidoki} {雪|yuki} deshou. rei do deshou.",
+    "Sapporo wa {風|kaze} ga {強くて|tsuyokute} {時々|tokidoki} {雪|yuki} deshou. rei {度|do} deshou.",
     ""
 ],
 [
     "Temperature will probably be 12°C.",
-    "kion wa {十二|juuni} do deshou.",
+    "kion wa {十二度|juunido} deshou.",
     ""
 ],
 [
