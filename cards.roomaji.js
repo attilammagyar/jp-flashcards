@@ -2638,5 +2638,30 @@ Flashcards.initialize([
     "After reading the newspaper, (I) cleaned the house.",
     "{新聞|shinbun} wo yonde kara, {家|uchi} wo souji shimashita.",
     "verb-て-form + から = after doing verb, ..."
+],
+[
+    "May (I) go to the toilet?",
+    "_toire_ ni {行って|itte} mo {良い|ii} desu ka.",
+    ""
+],
+[
+    "May (I) listen to music here?",
+    "{此処で|koko} de {音楽|ongaku} wo {聞いて|kiite} mo {良い|ii} desu ka.",
+    ""
+],
+[
+    "May (I) open the window? May (I) close the window?",
+    "mado wo {開けて|akete} mo {良い|ii} desu ka. mado wo shimete mo {良い|ii} desu ka.",
+    ""
+],
+[
+    "May (I) enter this room?",
+    "{此の|kono} {部屋|heya} ni {入って|haitte} mo {良い|ii} desu ka.",
+    ""
+],
+[
+    "May (I) take a bath?",
+    "ofuro ni {入って|haitte} mo {良い|ii} desu ka.",
+    ""
 ]
 ])
