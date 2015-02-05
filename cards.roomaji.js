@@ -2646,7 +2646,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) listen to music here?",
-    "{此処で|koko} de {音楽|ongaku} wo {聞いて|kiite} mo {良い|ii} desu ka.",
+    "{此処|koko} de {音楽|ongaku} wo {聞いて|kiite} mo {良い|ii} desu ka.",
     ""
 ],
 [
@@ -2656,12 +2656,37 @@ Flashcards.initialize([
 ],
 [
     "May (I) enter this room?",
-    "{此の|kono} {部屋|heya} ni {入って|haitte} mo {良い|ii} desu ka.",
+    "{此の|kono} {部屋|heya} ni {入った|haitte} mo {良い|ii} desu ka.",
     ""
 ],
 [
     "May (I) take a bath?",
     "ofuro ni {入って|haitte} mo {良い|ii} desu ka.",
+    ""
+],
+[
+    "(You are) not allowed to open that door.",
+    "{其の|sono} _doa_ wo {開けて|akete} wa ikemasen.",
+    ""
+],
+[
+    "(You are) not allowed to enter this room.",
+    "{此の|kono} {部屋|heya} ni {入って|haitte} wa ikemasen.",
+    ""
+],
+[
+    "(You are) not allowed to take a bath.",
+    "ofuro ni {入って|haitte} wa ikemasen.",
+    ""
+],
+[
+    "The film is from 7:30 to 10:30.",
+    "{映画|eiga} wa {七時半|shichijihan} kara {十時半|juujihan} made desu.",
+    ""
+],
+[
+    "(I) went from Tokyo to Kyoto by bullet train.",
+    "{東京|toukyou} kara kyouto made shinkansen de {行きました|ikimashita}.",
     ""
 ]
 ])
