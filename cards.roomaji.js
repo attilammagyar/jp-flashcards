@@ -2186,8 +2186,8 @@ Flashcards.initialize([
 ],
 [
     "Roger taught Miki how to do bowling.",
-    "_rojaa_ san wa {三木|miki} san ni _booringu_ no shikata wo {教えました|oshiemashita}.",
-    "Verb stem + かた = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + かた"
+    "_rojaa_ san wa {三木|miki} san ni _booringu_ no {仕方|shikata} wo {教えました|oshiemashita}.",
+    "Verb stem + {方|kata} = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + {方|kata}"
 ],
 [
     "Ms. Natsuko went to the town to meet Miki.",
@@ -2317,7 +2317,7 @@ Flashcards.initialize([
 [
     "Rie taught Roger how to make sushi.",
     "rie san wa _rojaa_ san ni sushi no {作りかた|tsukurikata} wo {教えました|oshiemashita}.",
-    "Verb stem + かた = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + かた"
+    "Verb stem + {方|kata} = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + {方|kata}"
 ],
 [
     "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
@@ -2461,7 +2461,7 @@ Flashcards.initialize([
 ],
 [
     "(I) frequently do my work at home while having a meal, but it can't be helped.",
-    "tabitabi {家|uchi} de shokuji wo shinagara {仕事|shigoto} wo shimasu ga shikata ga arimasen.",
+    "tabitabi {家|uchi} de shokuji wo shinagara {仕事|shigoto} wo shimasu ga {仕方|shikata} ga arimasen.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2486,8 +2486,8 @@ Flashcards.initialize([
 ],
 [
     "(I) don't know how to make cakes.",
-    "_keeki_ no {作りかた|tsukurikata} ga {分かりません|wakarimasen}.",
-    "Verb stem + かた = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + かた"
+    "_keeki_ no {作り方|tsukurikata} ga {分かりません|wakarimasen}.",
+    "Verb stem + {方|kata} = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + {方|kata}"
 ],
 [
     "Miki looks like (she) will eat that sushi, doesn't she?",
