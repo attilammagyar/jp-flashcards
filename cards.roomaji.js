@@ -106,7 +106,7 @@ Flashcards.initialize([
 ],
 [
     "What is the food (you) hate the most?",
-    "{一番|ichiban} kirai na {食物|tabemono} wa {何|nan} desu ka.",
+    "{一番|ichiban} kirai na {食べ物|tabemono} wa {何|nan} desu ka.",
     ""
 ],
 [
@@ -251,7 +251,7 @@ Flashcards.initialize([
 ],
 [
     "(I) get up at 6 o'clock.",
-    "{六時|rokuji} ni okimasu.",
+    "{六時|rokuji} ni {起きます|okimasu}.",
     ""
 ],
 [
@@ -391,7 +391,7 @@ Flashcards.initialize([
 ],
 [
     "(I) get up every day at 6 o'clock. Then (I) make breakfast.",
-    "{毎日|mainichi} {六時|rokuji} ni okimasu. {其れ|sore} kara {朝ごはん|asagohan} wo {作ります|tsukurimasu}.",
+    "{毎日|mainichi} {六時|rokuji} ni {起きます|okimasu}. {其れ|sore} kara {朝ごはん|asagohan} wo {作ります|tsukurimasu}.",
     ""
 ],
 [
@@ -771,7 +771,7 @@ Flashcards.initialize([
 ],
 [
     "I'm not good at waking up early.",
-    "{私|watashi} wa haya oki ga nigate desu.",
+    "{私|watashi} wa {早起き|hayaoki} ga nigate desu.",
     "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
@@ -956,7 +956,7 @@ Flashcards.initialize([
 ],
 [
     "The doll is 6800 yen.",
-    "ningyou wa rokusen happyaku en desu.",
+    "ningyou wa {六千八百円|rokusen happyaku en} desu.",
     ""
 ],
 [
@@ -2556,7 +2556,7 @@ Flashcards.initialize([
 ],
 [
     "(I) get up at 6 o'clock, eat breakfast, then set off at 7 o'clock.",
-    "{六時|rokuji} ni okite, {朝ごはん|asagohan} wo {食べて|tabete}, {七時|shichiji} ni {出掛けます|dekakemasu}.",
+    "{六時|rokuji} ni {起きて|okite}, {朝ごはん|asagohan} wo {食べて|tabete}, {七時|shichiji} ni {出掛けます|dekakemasu}.",
     "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -2591,7 +2591,7 @@ Flashcards.initialize([
 ],
 [
     "Yesterday (I) got up late, (I) drank some coffee, then (I) went into town.",
-    "kinou osoku okite, _koohii_ wo {飲んで|nonde}, {町|machi} ni {行きました|ikimashita}.",
+    "kinou osoku {起きて|okite}, _koohii_ wo {飲んで|nonde}, {町|machi} ni {行きました|ikimashita}.",
     "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
