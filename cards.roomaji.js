@@ -66,7 +66,7 @@ Flashcards.initialize([
 ],
 [
     "Good night.",
-    "oyasumi nasai.",
+    "{お休み|oyasumi} nasai.",
     ""
 ],
 [
@@ -401,7 +401,7 @@ Flashcards.initialize([
 ],
 [
     "In the afternoon (I) usually read the newspaper. Sometimes (I) watch the news.",
-    "{午後|gogo} taitei {新聞|shinbun} wo yomimasu. {時々|tokidoki} _nyuusu_ wo {見ます|mimasu}.",
+    "{午後|gogo} taitei {新聞|shinbun} wo {読みます|yomimasu}. {時々|tokidoki} _nyuusu_ wo {見ます|mimasu}.",
     ""
 ],
 [
@@ -466,7 +466,7 @@ Flashcards.initialize([
 ],
 [
     "read, don't ~",
-    "yomimasu, yomimasen",
+    "{読みます|yomimasu}, {読みません|yomimasen}",
     ""
 ],
 [
@@ -1316,12 +1316,12 @@ Flashcards.initialize([
 ],
 [
     "Where shall (we) go (to)? Where shall (we) meet (at)?",
-    "doko ni {行きましょう|ikimashou} ka. doko de aimashou ka.",
+    "doko ni {行きましょう|ikimashou} ka. doko de {会いましょう|aimashou} ka.",
     ""
 ],
 [
     "(At) what time shall (we) meet?",
-    "{何時|nan ji} ni aimashou ka.",
+    "{何時|nan ji} ni {会いましょう|aimashou} ka.",
     ""
 ],
 [
@@ -1386,7 +1386,7 @@ Flashcards.initialize([
 ],
 [
     "Let's meet in front of the museum!",
-    "hakubutsukan no {前|mae} de aimashou.",
+    "hakubutsukan no {前|mae} de {会いましょう|aimashou}.",
     ""
 ],
 [
@@ -1486,7 +1486,7 @@ Flashcards.initialize([
 ],
 [
     "Do (you) want to meet again?",
-    "mata aitai desu ka.",
+    "mata {会いたい|aitai} desu ka.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2091,7 +2091,7 @@ Flashcards.initialize([
 ],
 [
     "I don't read newspaper very much.",
-    "{私|watashi} wa {余り|amari} {新聞|shinbun} wo yomimasen.",
+    "{私|watashi} wa {余り|amari} {新聞|shinbun} wo {読みません|yomimasen}.",
     ""
 ],
 [
@@ -2181,7 +2181,7 @@ Flashcards.initialize([
 ],
 [
     "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
-    "{毎朝|maiasa} natsuko san wa _koohii_ wo {飲みながら|nominagara} {新聞|shinbun} wo yomimasu.",
+    "{毎朝|maiasa} natsuko san wa _koohii_ wo {飲みながら|nominagara} {新聞|shinbun} wo {読みます|yomimasu}.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2191,7 +2191,7 @@ Flashcards.initialize([
 ],
 [
     "Ms. Natsuko went to the town to meet Miki.",
-    "natsuko san wa {町|machi} he {三木|miki} san ni ai ni {行きました|ikimashita}.",
+    "natsuko san wa {町|machi} he {三木|miki} san ni {会い|ai} ni {行きました|ikimashita}.",
     "へ = to, towards, pronounced as え\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
@@ -2281,7 +2281,7 @@ Flashcards.initialize([
 ],
 [
     "(I) will study Japanese in order to read manga.",
-    "manga wo yomu tame ni {日本語|nihongo} wo {勉強|benkyou} shimasu.",
+    "manga wo {読む|yomu} tame ni {日本語|nihongo} wo {勉強|benkyou} shimasu.",
     "Verb A (dictionary form) + ため + に + Verb B = do Verb B in order to Verb A"
 ],
 [
@@ -2541,7 +2541,7 @@ Flashcards.initialize([
 ],
 [
     "Please read the essay.",
-    "{作文|sakubun} wo yonde kudasai.",
+    "{作文|sakubun} wo {読んで|yonde} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -2636,7 +2636,7 @@ Flashcards.initialize([
 ],
 [
     "After reading the newspaper, (I) cleaned the house.",
-    "{新聞|shinbun} wo yonde kara, {家|uchi} wo souji shimashita.",
+    "{新聞|shinbun} wo {読んで|yonde} kara, {家|uchi} wo souji shimashita.",
     "verb-て-form + から = after doing verb, ..."
 ],
 [
