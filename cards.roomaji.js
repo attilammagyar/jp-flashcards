@@ -211,7 +211,7 @@ Flashcards.initialize([
 ],
 [
     "In the mornings (I) always buy a newspaper and a coffee.",
-    "{朝|asa} itsumo {新聞|shinbun} to _koohii_ wo kaimasu.",
+    "{朝|asa} itsumo {新聞|shinbun} to _koohii_ wo {買います|kaimasu}.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -281,7 +281,7 @@ Flashcards.initialize([
 ],
 [
     "(I) occasionally buy a newspaper at the supermarket",
-    "tamani _suupaa_ de {新聞|shinbun} wo kaimasu.",
+    "tamani _suupaa_ de {新聞|shinbun} wo {買います|kaimasu}.",
     ""
 ],
 [
@@ -411,7 +411,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't have meals with (my) family.",
-    "kazoku to shokuji wo shimasen.",
+    "kazoku to {食事|shokuji} wo shimasen.",
     ""
 ],
 [
@@ -461,7 +461,7 @@ Flashcards.initialize([
 ],
 [
     "have a meal, don't ~",
-    "shokuji wo shimasu, shokuji wo shimasen",
+    "{食事|shokuji} wo shimasu, {食事|shokuji} wo shimasen",
     ""
 ],
 [
@@ -1356,7 +1356,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to buy a Japanese camera.",
-    "{日本|nihon} no _kamera_ wo kaitai desu.",
+    "{日本|nihon} no _kamera_ wo {買いたい|kaitai} desu.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -1401,7 +1401,7 @@ Flashcards.initialize([
 ],
 [
     "(I) will ask one more time.",
-    "mou ichi do {聞きます|kikimasu}.",
+    "mou {一度|ichido} {聞きます|kikimasu}.",
     ""
 ],
 [
@@ -1501,7 +1501,7 @@ Flashcards.initialize([
 ],
 [
     "Tokyo is a big and busy place.",
-    "{東京|toukyou} wa hirokute nigiyaka na {所|tokoro} desu.",
+    "{東京|toukyou} wa {広くて|hirokute} nigiyaka na {所|tokoro} desu.",
     ""
 ],
 [
@@ -1621,7 +1621,7 @@ Flashcards.initialize([
 ],
 [
     "Tokyo is lively and big (spacious).",
-    "{東京|toukyou} wa nigiyaka de hiroi desu.",
+    "{東京|toukyou} wa nigiyaka de {広い|hiroi} desu.",
     ""
 ],
 [
@@ -2021,7 +2021,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no kippu wo kaimashita. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
+    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no kippu wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2266,7 +2266,7 @@ Flashcards.initialize([
 ],
 [
     "(I) bought the ticket for Ms. Natsuko as well.",
-    "natsuko san no tame ni mo kippu wo kaimashita.",
+    "natsuko san no tame ni mo kippu wo {買いました|kaimashita}.",
     "Noun + の + ため + に + Verb = do Verb for the benefit of / in order to Noun"
 ],
 [
@@ -2301,7 +2301,7 @@ Flashcards.initialize([
 ],
 [
     "Naoe talked to Yuki while making a meal.",
-    "naoe san wa shokuji wo {作りながら|tsukurinagara} yuki san to {話しました|hanashimashita}.",
+    "naoe san wa {食事|shokuji} wo {作りながら|tsukurinagara} yuki san to {話しました|hanashimashita}.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2461,7 +2461,7 @@ Flashcards.initialize([
 ],
 [
     "(I) frequently do my work at home while having a meal, but it can't be helped.",
-    "tabitabi {家|uchi} de shokuji wo shinagara {仕事|shigoto} wo shimasu ga {仕方|shikata} ga arimasen.",
+    "tabitabi {家|uchi} de {食事|shokuji} wo shinagara {仕事|shigoto} wo shimasu ga {仕方|shikata} ga arimasen.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2536,7 +2536,7 @@ Flashcards.initialize([
 ],
 [
     "Please buy a digital camera.",
-    "_dejikame_ wo katte kudasai.",
+    "_dejikame_ wo {買って|katte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -2687,6 +2687,41 @@ Flashcards.initialize([
 [
     "(I) went from Tokyo to Kyoto by bullet train.",
     "{東京|toukyou} kara kyouto made shinkansen de {行きました|ikimashita}.",
+    ""
+],
+[
+    "(We) have a booking for today.",
+    "{今日|kyou} yoyaku wo shimashita.",
+    ""
+],
+[
+    "(I'll) explain the youth hostel's rules shortly.",
+    "{少し|sukoshi} _yuusu hosuteru_ no _ruuru_ wo setsumei shimasu.",
+    ""
+],
+[
+    "This youth hostel is open until 10 AM. Then (it's) open again from 4 PM. Daytime entry is not allowed.",
+    "{此の|kono} _yuusu hosuteru_ wa {午前|gozen} {十時|juuji} made {開いて|aite} imasu. soshite mata {午後|gogo} {四時|yoji} kara {開いて|aite} imasu. {昼間|hiruma} {入って|haitte} wa ikemasen.",
+    ""
+],
+[
+    "Inside the youth hostel, wearing shoes is not allowed.",
+    "_yuusu hosuteru_ no {中|naka} de wa kutsu wo haite wa ikemasen.",
+    ""
+],
+[
+    "Men may take a bath from 5 o'clock until 7 o'clock, women from 7 o'clock until 9 o'clock.",
+    "dansei wa {五時|goji} kara {七時|shichiji} made ohuro ni {入って|haitte} mo {良い|ii} desu. josei wa {七時|shichiji} kara {九時|kuji} made desu.",
+    ""
+],
+[
+    "Don't eat at the rooms. Please eat at the canteen.",
+    "{部屋|heya} de {食べて|tabete} wa dame desu. shokudou de {食べて|tabete} kudasai.",
+    ""
+],
+[
+    "Rooms are separated? I can't believe it!",
+    "{部屋|heya} wa betsubetsu desu ka. shinjirarenai.",
     ""
 ]
 ])
