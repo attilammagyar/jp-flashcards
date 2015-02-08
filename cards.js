@@ -2421,7 +2421,7 @@ Flashcards.initialize([
     ],
     [
         "How are you? I'm fine, thank you.",
-        "\u304a\u3052\u3093\u304d\u3067\u3059\u304b\u3002\u304a\u304b\u3052\u3055\u307e\u3067\u3002",
+        "{\u304a\u5143\u6c17|\u304a\u3052\u3093\u304d}\u3067\u3059\u304b\u3002\u304a\u304b\u3052\u3055\u307e\u3067\u3002",
         ""
     ],
     [

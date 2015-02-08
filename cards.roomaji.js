@@ -2421,7 +2421,7 @@ Flashcards.initialize([
 ],
 [
     "How are you? I'm fine, thank you.",
-    "ogenki desu ka. okagesamade.",
+    "{お元気|ogenki} desu ka. okagesamade.",
     ""
 ],
 [
