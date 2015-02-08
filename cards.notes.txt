@@ -1,0 +1,40 @@
+A に B で いく = B で A に いく
+A と B と C = A, B and C (and nothing else)
+A や B や C など = A, B, C, etc.
+A-dictionary-form とB = if A then B
+な-adj. + で = adj. and ...
+な adj. + に = adverb
+い adj. - い + く = adverb
+い adj. - い + く + なる = become ~
+Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)
+と: complete list
+や: incomplete list
+とくい is more modest than じょうず
+~たい is usually used only in first person or in questions for the second person
+~たい: may use が instead of を
+~たい + negative: if topic is not mentioned then は can be used instead of が
+くない = negative of い adj
+Noun/な adj + に + なる = become ~
+Noun A + の + ため + の + Noun B = Noun B (is) for the benefit of Noun A
+Noun + の + ため + に + Verb = do Verb for the benefit of / in order to Noun
+Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)
+Noun + に + ついて = about Noun
+Noun を Verb --> Noun の Verb stem + {方|kata}
+くなかった = past negative of い adj.
+かった = past tense of い adj.
+(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb
+じょうず/へた: practical skills, crafts, sports, arts, etc.
+stem of adj or continuative base of verb + ~すぎる = too much ~, over~
+とくい/にがて: talents, academic/professional skills, strong/weak points
+へ = to, towards, pronounced as え
+Verb A (dictionary form) + ため + に + Verb B = do Verb B in order to Verb A
+verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence
+verb-て-form + から = after doing verb, ...
+verb-て-form + は + いけません = doing verb is not allowed
+verb-て-form + は + だめ = must not do verb
+verb-て-form + ください = request
+verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb
+Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same
+Verb stem + たい = want to ~
+Verb stem + たい = want to ~ (verb --> い adj.)
+Verb stem + {方|kata} = how to do Verb (Verb --> Noun)
