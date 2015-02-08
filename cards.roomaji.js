@@ -131,7 +131,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always drink coffee.",
-    "itsumo _koohii_ wo {飲みます|nomimasu}.",
+    "{何時も|itsumo} _koohii_ wo {飲みます|nomimasu}.",
     ""
 ],
 [
@@ -181,7 +181,7 @@ Flashcards.initialize([
 ],
 [
     "We always eat dinner together.",
-    "watashitachi wa itsumo issho ni bangohan wo {食べます|tabemasu}.",
+    "watashitachi wa {何時も|itsumo} issho ni bangohan wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -211,7 +211,7 @@ Flashcards.initialize([
 ],
 [
     "In the mornings (I) always buy a newspaper and a coffee.",
-    "{朝|asa} itsumo {新聞|shinbun} to _koohii_ wo {買います|kaimasu}.",
+    "{朝|asa} {何時も|itsumo} {新聞|shinbun} to _koohii_ wo {買います|kaimasu}.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -221,7 +221,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always make dinner with (my) mom and (my) husband.",
-    "itsumo {母|haha} to shujin to bangohan wo {作ります|tsukurimasu}.",
+    "{何時も|itsumo} {母|haha} to shujin to bangohan wo {作ります|tsukurimasu}.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -311,7 +311,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always watch television, then (I) make dinner.",
-    "itsumo _terebi_ wo {見ます|mimasu}. {其れ|sore} kara bangohan wo {作ります|tsukurimasu}.",
+    "{何時も|itsumo} _terebi_ wo {見ます|mimasu}. {其れ|sore} kara bangohan wo {作ります|tsukurimasu}.",
     ""
 ],
 [
@@ -331,7 +331,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always arrive at 8 o'clock.",
-    "itsumo {八時|hachiji} ni tsukimasu.",
+    "{何時も|itsumo} {八時|hachiji} ni tsukimasu.",
     ""
 ],
 [
@@ -341,7 +341,7 @@ Flashcards.initialize([
 ],
 [
     "And then (I) frequently eat dinner with (my) colleagues at a restaurant.",
-    "soshite tabitabi jimusho no {人|hito} to _resutoran_ de bangohan wo {食べます|tabemasu}.",
+    "soshite {度々|tabitabi} jimusho no {人|hito} to _resutoran_ de bangohan wo {食べます|tabemasu}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
@@ -406,7 +406,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always return home late. Occasionally (I) eat dinner with (my) family.",
-    "itsumo osoku {家|uchi} ni {帰ります|kaerimasu}. tamani kazoku to bangohan wo {食べます|tabemasu}.",
+    "{何時も|itsumo} osoku {家|uchi} ni {帰ります|kaerimasu}. tamani kazoku to bangohan wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -561,7 +561,7 @@ Flashcards.initialize([
 ],
 [
     "usually, frequently, occasionally, sometimes, always",
-    "taitei, tabitabi, tamani, tokidoki, itsumo",
+    "taitei, {度々|tabitabi}, tamani, {時々|tokidoki}, {何時も|itsumo}",
     ""
 ],
 [
@@ -1827,7 +1827,7 @@ Flashcards.initialize([
 [
     "Soon it will be Summer. It will gradually get hotter.",
     "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
-    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~"
+    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -1857,7 +1857,7 @@ Flashcards.initialize([
 [
     "Miki writes kanji skillfully.",
     "{三木|miki} san wa jouzu ni kanji wo {書きます|kakimasu}.",
-    "な adj + に = adverb\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "な adj. + に = adverb\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "Robert speaks Japanese well.",
@@ -1867,12 +1867,12 @@ Flashcards.initialize([
 [
     "Hondo does his work seriously.",
     "hondou san wa majime ni {仕事|shigoto} wo shimasu.",
-    "な adj + に = adverb"
+    "な adj. + に = adverb"
 ],
 [
     "Naoe cleans neatly.",
     "naoe san wa kirei ni souji wo shimasu.",
-    "な adj + に = adverb"
+    "な adj. + に = adverb"
 ],
 [
     "Natsuko speaks English softly/kindly.",
@@ -1882,17 +1882,17 @@ Flashcards.initialize([
 [
     "6 o'clock has come.",
     "{六時|rokuji} ni narimashita.",
-    "Noun/な adj + に + なる = become ~"
+    "Noun/な adj. + に + なる = become ~"
 ],
 [
     "(It) gradually gets hotter.",
     "dandan atsuku narimasu.",
-    "い adj - い + く + なる = become ~"
+    "い adj. - い + く + なる = become ~"
 ],
 [
     "Miki has got good at bowling.",
     "{三木|miki} san wa _booringu_ ga jouzu ni narimashita.",
-    "Noun/な adj + に + なる = become ~\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "Noun/な adj. + に + なる = become ~\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "Happy New Year!",
@@ -1902,12 +1902,12 @@ Flashcards.initialize([
 [
     "The weather got cold.",
     "{天気|tenki} ga samuku narimashita.",
-    "い adj - い + く + なる = become ~"
+    "い adj. - い + く + なる = become ~"
 ],
 [
     "If (you) study every day, (your) Japanese will get skilled.",
     "{毎日|mai nichi} {勉強|benkyou} suru to {日本語|nihongo} ga jouzu ni narimasu.",
-    "A-dictionary-form とB = if A then B\nNoun/な adj + に + なる = become ~\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "A-dictionary-form とB = if A then B\nNoun/な adj. + に + なる = become ~\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -1967,22 +1967,22 @@ Flashcards.initialize([
 [
     "Soon (it) will be spring. (It) will gradually get warm.",
     "mou sugu haru ni narimasu. dandan atatakaku narimasu.",
-    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~"
+    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be summer. (It) will gradually get hot.",
     "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
-    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~"
+    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be winter. (It) will gradually get cold.",
     "mou sugu fuyu ni narimasu. dandan samuku narimasu.",
-    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~"
+    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be autumn. (It) will gradually get cool.",
     "mou sugu aki ni narimasu. dandan suzushiku narimasu.",
-    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~"
+    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "How did (you) go (there)? (I) went by train.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
     "ousaka ni {行きたい|ikitai} desu. omoshirokunai {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa tsumaranakatta desu.",
-    "くない = negative of い adj\nかった = past tense of い adj\nくなかった = past negative of い adj\n~たい is usually used only in first person or in questions for the second person"
+    "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -2027,7 +2027,7 @@ Flashcards.initialize([
 [
     "(It) was too far.",
     "toosugimashita.",
-    "とおく = long way\nstem of adj or continuative base of verb + ~すぎる = too much ~, over~"
+    "とおく = long way\nstem of adj. or continuative base of verb + ~すぎる = too much ~, over~"
 ],
 [
     "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
@@ -2047,7 +2047,7 @@ Flashcards.initialize([
 [
     "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
     "{明日|ashita} wa samuku narimasu. {雨|ame} {後|nochi} {雪|yuki} deshou. iya desu ne.",
-    "い adj - い + く + なる = become ~"
+    "い adj. - い + く + なる = become ~"
 ],
 [
     "New Zealand has four seasons.",
@@ -2062,7 +2062,7 @@ Flashcards.initialize([
 [
     "The Summer is from December to February. (It) gradually gets hot.",
     "natsu wa {十二月|juunigatsu} kara {二月|nigatsu} made desu. dandan atsuku narimasu.",
-    "(New Zealand)\nい adj - い + く + なる = become ~"
+    "(New Zealand)\nい adj. - い + く + なる = become ~"
 ],
 [
     "Autumn is from March. The weather is clear, windy, rainy...",
@@ -2132,42 +2132,42 @@ Flashcards.initialize([
 [
     "(I) want to be a doctor.",
     "isha ni naritai desu.",
-    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a writer.",
     "sakka ni naritai desu.",
-    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a policeman.",
     "keisatsukan ni naritai desu.",
-    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a lawyer.",
     "bengoshi ni naritai desu.",
-    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be an astronaut.",
     "uchuu hikoushi ni naritai desu.",
-    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a bank-worker.",
     "ginkouin ni naritai desu.",
-    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "When (I) was a child, (I) wanted to be a film star.",
     "{子供|kodomo} no koro, {映画|eiga} _sutaa_ ni naritakatta desu.",
-    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj\n~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "When (I) was a child, (I) wanted to be a firefighter.",
     "{子供|kodomo} no koro, shouboushi ni naritakatta desu.",
-    "Noun/な adj + に + なる = become ~\nVerb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj\n~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) didn't want to drink alcohol.",
@@ -2256,7 +2256,7 @@ Flashcards.initialize([
 ],
 [
     "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {Polite.}",
-    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, itsumo yasai wo yakiniku to issho ni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
+    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, {何時も|itsumo} yasai wo yakiniku to issho ni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
     ""
 ],
 [
@@ -2356,7 +2356,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always drive in (my) free time. Almost every day, (I) go for a drive after work.",
-    "hima na {時|toki} ni wa itsumo _doraibu_ shimasu. hotondo {毎日|mainichi}, {仕事|shigoto} no {後|ato} ni _doraibu_ ni {行きます|ikimasu}.",
+    "hima na {時|toki} ni wa {何時も|itsumo} _doraibu_ shimasu. hotondo {毎日|mainichi}, {仕事|shigoto} no {後|ato} ni _doraibu_ ni {行きます|ikimasu}.",
     ""
 ],
 [
@@ -2452,7 +2452,7 @@ Flashcards.initialize([
 [
     "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
     "{子供|kodomo} no koro, shouboushi ni naritakatta desu ga, {実|jitsu} wa, _jaanarisuto_ ni narimashita.",
-    "Noun/な adj + に + なる = become ~\nい adj - い + く + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Every day (I) work until late in the evening, but the work is very enjoyable.",
@@ -2461,7 +2461,7 @@ Flashcards.initialize([
 ],
 [
     "(I) frequently do my work at home while having a meal, but it can't be helped.",
-    "tabitabi {家|uchi} de {食事|shokuji} wo shinagara {仕事|shigoto} wo shimasu ga {仕方|shikata} ga arimasen.",
+    "{度々|tabitabi} {家|uchi} de {食事|shokuji} wo shinagara {仕事|shigoto} wo shimasu ga {仕方|shikata} ga arimasen.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2501,7 +2501,7 @@ Flashcards.initialize([
 ],
 [
     "Because (I) liked shopping very much, (I) always went to shopping to the town.",
-    "kaimono ga totemo {好き|suki} deshita node, itsumo {町|machi} ni kaimono ni {行きました|ikimashita}.",
+    "{買い物|kaimono} ga totemo {好き|suki} deshita node, {何時も|itsumo} {町|machi} ni {買い物|kaimono} ni {行きました|ikimashita}.",
     ""
 ],
 [
@@ -2561,23 +2561,23 @@ Flashcards.initialize([
 ],
 [
     "In the evening, after eating dinner, (I) send emails on (my) computer.",
-    "yoru bangohan wo {食べて|tabete} kara _konpyuutaa_ de *e*_meeru_ wo dashimasu.",
+    "yoru bangohan wo {食べて|tabete} kara _konpyuutaa_ de *e*_meeru_ wo {出します|dashimasu}.",
     "verb-て-form + から = after doing verb, ..."
 ],
 [
     "May (I) watch the tv?",
     "_terebi_ wo {見て|mite} mo {良い|ii} desu ka.",
-    ""
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
     "(You) may eat here.",
     "{此処|koko} de {食べて|tabete} mo {良い|ii} desu.",
-    ""
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
     "(You) are not allowed to eat here.",
     "{此処|koko} de {食べて|tabete} wa ikemasen.",
-    ""
+    "verb-て-form + は + いけません = doing verb is not allowed"
 ],
 [
     "The post office is (open) from 9 o'clock until 5 o'clock.",
@@ -2642,42 +2642,42 @@ Flashcards.initialize([
 [
     "May (I) go to the toilet?",
     "_toire_ ni {行って|itte} mo {良い|ii} desu ka.",
-    ""
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) listen to music here?",
     "{此処|koko} de {音楽|ongaku} wo {聞いて|kiite} mo {良い|ii} desu ka.",
-    ""
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) open the window? May (I) close the window?",
     "mado wo {開けて|akete} mo {良い|ii} desu ka. mado wo shimete mo {良い|ii} desu ka.",
-    ""
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) enter this room?",
     "{此の|kono} {部屋|heya} ni {入った|haitte} mo {良い|ii} desu ka.",
-    ""
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) take a bath?",
     "ofuro ni {入って|haitte} mo {良い|ii} desu ka.",
-    ""
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
     "(You are) not allowed to open that door.",
     "{其の|sono} _doa_ wo {開けて|akete} wa ikemasen.",
-    ""
+    "verb-て-form + は + いけません = doing verb is not allowed"
 ],
 [
     "(You are) not allowed to enter this room.",
     "{此の|kono} {部屋|heya} ni {入って|haitte} wa ikemasen.",
-    ""
+    "verb-て-form + は + いけません = doing verb is not allowed"
 ],
 [
     "(You are) not allowed to take a bath.",
     "ofuro ni {入って|haitte} wa ikemasen.",
-    ""
+    "verb-て-form + は + いけません = doing verb is not allowed"
 ],
 [
     "The film is from 7:30 to 10:30.",
@@ -2702,26 +2702,126 @@ Flashcards.initialize([
 [
     "This youth hostel is open until 10 AM. Then (it's) open again from 4 PM. Daytime entry is not allowed.",
     "{此の|kono} _yuusu hosuteru_ wa {午前|gozen} {十時|juuji} made {開いて|aite} imasu. soshite mata {午後|gogo} {四時|yoji} kara {開いて|aite} imasu. {昼間|hiruma} {入って|haitte} wa ikemasen.",
-    ""
+    "verb-て-form + は + いけません = doing verb is not allowed"
 ],
 [
     "Inside the youth hostel, wearing shoes is not allowed.",
     "_yuusu hosuteru_ no {中|naka} de wa kutsu wo haite wa ikemasen.",
-    ""
+    "verb-て-form + は + いけません = doing verb is not allowed"
 ],
 [
     "Men may take a bath from 5 o'clock until 7 o'clock, women from 7 o'clock until 9 o'clock.",
     "dansei wa {五時|goji} kara {七時|shichiji} made ohuro ni {入って|haitte} mo {良い|ii} desu. josei wa {七時|shichiji} kara {九時|kuji} made desu.",
-    ""
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
     "Don't eat at the rooms. Please eat at the canteen.",
     "{部屋|heya} de {食べて|tabete} wa dame desu. shokudou de {食べて|tabete} kudasai.",
-    ""
+    "verb-て-form + は + だめ = must not do verb\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
     "Rooms are separated? I can't believe it!",
     "{部屋|heya} wa betsubetsu desu ka. shinjirarenai.",
     ""
+],
+[
+    "(I) wake up at 7 o'clock and always drink coffee for breakfast.",
+    "{七時|shichiji} ni {起きて|okite}, {朝ごはん|asagohan} ni {何時も|itsumo} _koohii_ wo {飲みます|nomimasu}.",
+    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "In the morning (I) frequently do the shopping with a friend at a department store, and have a meal at a restaurant.",
+    "{朝|asa} {度々|tabitabi} {友達|tomodachi} to _depaato_ de {買い物|kaimono} wo shite, _resutoran_ de {食事|shokuji} wo shimasu.",
+    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "After returning home (I) occasionally clean up the house.",
+    "{家|uchi} ni {帰って|kaette} kara tamani {家|uchi} wo souji shimasu.",
+    "verb-て-form + から = after doing verb, ..."
+],
+[
+    "(I) watch TV, make dinner and do work from 7 o'clock in the evening.",
+    "_terebi_ wo {見て|mite}, bangohan wo {作って|tsukutte}, yoru {七時|shichiji} kara {仕事|shigoto} wo shimasu.",
+    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "Now (I'll) explain the school's rules.",
+    "{此れから|korekara} {学校|gakkou} no kisoku wo setsumei shimasu.",
+    ""
+],
+[
+    "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
+    "{先生|sensei} to {話したい|hanashitai} baai wa, shokuinshitsu ni {入って|haitte} mo {良い|ii} desu.",
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+],
+[
+    "(It's) not allowed to go to the toilet during class.",
+    "jugyou no {間|aida} _toire_ ni {行って|itte} wa ikemasen.",
+    "verb-て-form + は + いけません = doing verb is not allowed"
+],
+[
+    "(You) may eat (your) lunch in the classroom.",
+    "{教室|kyoushitsu} de {昼ごはん|hirugohan} wo {食べて|tabete} mo {良い|ii} desu.",
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+],
+[
+    "Wearing accessories, earrings, etc. is not allowed.",
+    "_akusesarii_ ya _iyaringu_ nado wo shite wa ikemasen.",
+    "A や B や C など = A, B, C, etc.\nや: incomplete list\nverb-て-form + は + いけません = doing verb is not allowed"
+],
+[
+    "Occasionally (I) meet with a university teacher and (we) talk about studies.",
+    "tamani {大学|daigaku} {先生|sensei} to {会って|atte}, {勉強|benkyou} ni tsuite {話します|hanashimasu}.",
+    "Noun + に + ついて = about Noun\nverb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "Every night, together with the band members, (we) do the band's rehearsals.",
+    "{毎ばん|maiban} _bando_ no _menbaa_ to issho ni _bando_ no renshuu shimasu.",
+    ""
+],
+[
+    "Please hold this camera.",
+    "{此の|kono} _kamera_ wo {持って|motte} kudasai.",
+    "verb-て-form + ください = request"
+],
+[
+    "May (I) switch on the lights? Please switch off the lights.",
+    "{電気|denki} wo tsukete mo {良い|ii} desu ka. {電気|denki} wo keshite kudasai.",
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb\nverb-て-form + ください = request"
+],
+[
+    "(You are) not allowed to sing in here.",
+    "{此処|koko} de utatte wa ikemasen.",
+    "verb-て-form + は + いけません = doing verb is not allowed"
+],
+[
+    "Please choose one.",
+    "{一つ|hitotsu} erande kudasai.",
+    "verb-て-form + ください = request"
+],
+[
+    "(You) may play (your) guitar in this room.",
+    "{此の|kono} {部屋|heya} de _gitaa_ wo hiite mo {良い|ii} desu.",
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+],
+[
+    "May (I) take a rest?",
+    "{休んで|yasunde} mo {良い|ii} desu ka.",
+    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+],
+[
+    "Please take off (your) shoes.",
+    "kutsu wo nuide kudasai.",
+    "verb-て-form + ください = request"
+],
+[
+    "Please decide quickly.",
+    "hayaku kimete kudasai.",
+    "verb-て-form + ください = request\nい adj. - い + く = adverb"
+],
+[
+    "(You are) not allowed to go out in the evening.",
+    "yoru {出て|dete} wa ikemasen.",
+    "verb-て-form + は + いけません = doing verb is not allowed"
 ]
 ])
