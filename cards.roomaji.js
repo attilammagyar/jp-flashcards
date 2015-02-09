@@ -682,12 +682,12 @@ Flashcards.initialize([
 [
     "Peter, (you) are very good at English.",
     "_piitaa_ wa {英語|eigo} ga tokui desu ne.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "She is good at cooking.",
     "{彼女|kanojo} wa ryouri ga tokui desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "Tomorrow (I) have an English exam.",
@@ -772,7 +772,7 @@ Flashcards.initialize([
 [
     "I'm not good at waking up early.",
     "{私|watashi} wa {早起き|hayaoki} ga nigate desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "8 pairs of shoes",
@@ -1541,8 +1541,8 @@ Flashcards.initialize([
 ],
 [
     "Mr. Roger is good at bowling, isn't he?",
-    "_rojaa_ san wa _booringu_ ga jouzu desu ne.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "_rojaa_ san wa _booringu_ ga {上手|jouzu} desu ne.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "This is a lively place, isn't it?",
@@ -1566,8 +1566,8 @@ Flashcards.initialize([
 ],
 [
     "Ms. Miki is bad at bowling.",
-    "{三木|miki} san wa _booringu_ ga heta desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "{三木|miki} san wa _booringu_ ga {下手|heta} desu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "eyes, big, small, round",
@@ -1596,7 +1596,7 @@ Flashcards.initialize([
 ],
 [
     "blue, black/dark, brown, blonde",
-    "aoi, kuroi, chairo, kinpatsu",
+    "aoi, {黒い|kuroi}, chairo, kinpatsu",
     ""
 ],
 [
@@ -1611,7 +1611,7 @@ Flashcards.initialize([
 ],
 [
     "(She) has long, black hair.",
-    "kami ga {長くて|nagakute}, kuroi desu.",
+    "kami ga {長くて|nagakute}, {黒い|kuroi} desu.",
     ""
 ],
 [
@@ -1631,8 +1631,8 @@ Flashcards.initialize([
 ],
 [
     "(I'm) poor at sports, but (I'm) goot at origami.",
-    "_supootsu_ ga heta desu ga origami wa jouzu desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "_supootsu_ ga {下手|heta} desu ga origami wa {上手|jouzu} desu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "I think he's famous.",
@@ -1731,8 +1731,8 @@ Flashcards.initialize([
 ],
 [
     "I am poor at sports but good at origami.",
-    "{私|watashi} wa _supootsu_ ga heta desu ga origami wa jouzu desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "{私|watashi} wa _supootsu_ ga {下手|heta} desu ga origami wa {上手|jouzu} desu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "(It) was wonderful and interesting.",
@@ -1856,8 +1856,8 @@ Flashcards.initialize([
 ],
 [
     "Miki writes kanji skillfully.",
-    "{三木|miki} san wa jouzu ni kanji wo {書きます|kakimasu}.",
-    "な adj. + に = adverb\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "{三木|miki} san wa {上手|jouzu} ni kanji wo {書きます|kakimasu}.",
+    "な adj. + に = adverb\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "Robert speaks Japanese well.",
@@ -1891,8 +1891,8 @@ Flashcards.initialize([
 ],
 [
     "Miki has got good at bowling.",
-    "{三木|miki} san wa _booringu_ ga jouzu ni narimashita.",
-    "Noun/な adj. + に + なる = become ~\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "{三木|miki} san wa _booringu_ ga {上手|jouzu} ni narimashita.",
+    "Noun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "Happy New Year!",
@@ -1906,8 +1906,8 @@ Flashcards.initialize([
 ],
 [
     "If (you) study every day, (your) Japanese will get skilled.",
-    "{毎日|mai nichi} {勉強|benkyou} suru to {日本語|nihongo} ga jouzu ni narimasu.",
-    "A-dictionary-form とB = if A then B\nNoun/な adj. + に + なる = become ~\nじょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "{毎日|mai nichi} {勉強|benkyou} suru to {日本語|nihongo} ga {上手|jouzu} ni narimasu.",
+    "A-dictionary-form とB = if A then B\nNoun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -2121,8 +2121,8 @@ Flashcards.initialize([
 ],
 [
     "Miki is bad at both bowling and tennis.",
-    "{三木|miki} san wa _booringu_ mo _tenisu_ mo heta desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "{三木|miki} san wa _booringu_ mo _tenisu_ mo {下手|heta} desu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
@@ -2286,13 +2286,13 @@ Flashcards.initialize([
 ],
 [
     "I'm bad at bowling. He's good at bowling. I'm poor at English. He's good at Japanese.",
-    "{私|watashi} wa _booringu_ ga heta desu. {彼|kare} wa _booringu_ ga jouzu desu. {私|watashi} wa {英語|eigo} ga nigate desu. {彼|kare} wa {日本語|nihongo} ga tokui desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "{私|watashi} wa _booringu_ ga {下手|heta} desu. {彼|kare} wa _booringu_ ga {上手|jouzu} desu. {私|watashi} wa {英語|eigo} ga nigate desu. {彼|kare} wa {日本語|nihongo} ga tokui desu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "I'm good at Mathematics.",
     "{私|watashi} wa suugaku ga tokui desu.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "Ms. Natsuko drank green tea while listening to the news.",
@@ -2386,7 +2386,7 @@ Flashcards.initialize([
 ],
 [
     "Roger is most skilful at bowling.",
-    "_rojaa_ san wa _booringu_ ga {一番|ichiban} jouzu desu.",
+    "_rojaa_ san wa _booringu_ ga {一番|ichiban} {上手|jouzu} desu.",
     ""
 ],
 [
@@ -2441,8 +2441,8 @@ Flashcards.initialize([
 ],
 [
     "I'm not very good at golf, but I'll give it a try.",
-    "boku wa _gorufu_ ga {余り|amari} jouzu deha arimasen ga yatte mimashou.",
-    "じょうず/へた: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than じょうず"
+    "boku wa _gorufu_ ga {余り|amari} {上手|{上手|jouzu}} deha arimasen ga yatte mimashou.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
@@ -2823,5 +2823,60 @@ Flashcards.initialize([
     "(You are) not allowed to go out in the evening.",
     "yoru {出て|dete} wa ikemasen.",
     "verb-て-form + は + いけません = doing verb is not allowed"
+],
+[
+    "hold/possess",
+    "{持つ|motsu}, {持ちます|mochimasu}, {持って|motte}",
+    ""
+],
+[
+    "switch off",
+    "kesu, keshimasu, keshite",
+    ""
+],
+[
+    "turn on/attach",
+    "tsukeru, tsukemasu, tsukete",
+    ""
+],
+[
+    "take off {clothes}",
+    "nugu, nugimasu, nuide",
+    ""
+],
+[
+    "sing",
+    "utau, utaimasu, utatte",
+    ""
+],
+[
+    "select",
+    "erabu, erabimasu, erande",
+    ""
+],
+[
+    "play {instrument}",
+    "hiku, hikimasu, hiite",
+    ""
+],
+[
+    "rest/relax",
+    "yasamu, yasumimasu, yasunde",
+    ""
+],
+[
+    "decide",
+    "kimeru, kimemasu, kimete",
+    ""
+],
+[
+    "wait/look forward to",
+    "matsu, machimasu, matte",
+    ""
+],
+[
+    "swim",
+    "oyogu, oyogimasu, oyoide",
+    ""
 ]
 ])
