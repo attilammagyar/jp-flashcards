@@ -166,7 +166,7 @@ Flashcards.initialize([
 ],
 [
     "(I) eat lunch at the company.",
-    "kaisha de {昼ごはん|hirugohan} wo {食べます|tabemasu}.",
+    "{会社|kaisha} de {昼ごはん|hirugohan} wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -206,7 +206,7 @@ Flashcards.initialize([
 ],
 [
     "(I) travel in France.",
-    "_furansu_ wo ryokou wo shimasu.",
+    "_furansu_ wo {旅行|ryokou} wo shimasu.",
     ""
 ],
 [
@@ -296,7 +296,7 @@ Flashcards.initialize([
 ],
 [
     "I eat lunch at the company every day.",
-    "{私|watashi} wa {毎日|mainichi} kaisha de {昼ごはん|hirugohan} wo {食べます|tabemasu}.",
+    "{私|watashi} wa {毎日|mainichi} {会社|kaisha} de {昼ごはん|hirugohan} wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -471,7 +471,7 @@ Flashcards.initialize([
 ],
 [
     "go to bed, don't ~",
-    "nemasu, nemasen",
+    "{寝ます|nemasu}, {寝ません|nemasen}",
     ""
 ],
 [
@@ -996,7 +996,7 @@ Flashcards.initialize([
 ],
 [
     "Both (my) mom and dad work in this company.",
-    "{母|haha} mo {父|chichi} mo {此の|kono} kaisha de hatarakimasu.",
+    "{母|haha} mo {父|chichi} mo {此の|kono} {会社|kaisha} de hatarakimasu.",
     ""
 ],
 [
@@ -1746,7 +1746,7 @@ Flashcards.initialize([
 ],
 [
     "The trip was interesting and enjoyable.",
-    "ryokou wa omoshirokute {楽しかった|tanoshikatta} desu.",
+    "{旅行|ryokou} wa omoshirokute {楽しかった|tanoshikatta} desu.",
     ""
 ],
 [
@@ -2101,7 +2101,7 @@ Flashcards.initialize([
 ],
 [
     "The trip wasn't fun at all.",
-    "ryokou wa zenzen {楽しくなかった|tanoshikunakatta} desu.",
+    "{旅行|ryokou} wa zenzen {楽しくなかった|tanoshikunakatta} desu.",
     ""
 ],
 [
