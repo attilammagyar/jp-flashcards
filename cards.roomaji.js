@@ -356,7 +356,7 @@ Flashcards.initialize([
 ],
 [
     "Are these red shoes nice?",
-    "{此の|kono} akai kutsu wa suteki desu ka.",
+    "{此の|kono} {赤い|akai} kutsu wa suteki desu ka.",
     ""
 ],
 [

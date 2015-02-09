@@ -356,7 +356,7 @@ Flashcards.initialize([
     ],
     [
         "Are these red shoes nice?",
-        "{\u6b64\u306e|\u3053\u306e}\u3042\u304b\u3044\u304f\u3064\u306f\u3059\u3066\u304d\u3067\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}{\u8d64\u3044|\u3042\u304b\u3044}\u304f\u3064\u306f\u3059\u3066\u304d\u3067\u3059\u304b\u3002",
         ""
     ],
     [
