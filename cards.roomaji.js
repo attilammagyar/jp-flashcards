@@ -1576,7 +1576,7 @@ Flashcards.initialize([
 ],
 [
     "back/height, high/tall, low/short, average",
-    "se, {高い|takai}, hikui, futsuu (na)",
+    "se, {高い|takai}, {低い|hikui}, futsuu (na)",
     ""
 ],
 [
@@ -1596,7 +1596,7 @@ Flashcards.initialize([
 ],
 [
     "blue, black/dark, brown, blonde",
-    "aoi, {黒い|kuroi}, chairo, kinpatsu",
+    "aoi, {黒い|kuroi}, {茶色|chairo}, kinpatsu",
     ""
 ],
 [
@@ -1606,7 +1606,7 @@ Flashcards.initialize([
 ],
 [
     "(My) mother has round face, a high nose and brown eyes.",
-    "{母|haha} wa {顔|kao} ga marukute, hana ga {高くて|takakute}, {目|me} ga chairo desu.",
+    "{母|haha} wa {顔|kao} ga marukute, hana ga {高くて|takakute}, {目|me} ga {茶色|chairo} desu.",
     ""
 ],
 [
@@ -1706,7 +1706,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
-    "se ga futsuu de, kami ga {長くて|nagakute} chairo desu. {目|me} mo chairo desu. {顔|kao} ga marukute, hana ga {大きい|ookii} desu.",
+    "se ga futsuu de, kami ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga marukute, hana ga {大きい|ookii} desu.",
     ""
 ],
 [
