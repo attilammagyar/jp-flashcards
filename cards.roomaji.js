@@ -1371,7 +1371,7 @@ Flashcards.initialize([
 ],
 [
     "30 past 1 o'clock, half past 1 o'clock",
-    "{一持三十分|ichi ji san juppun}, {一時半|ichi ji han}",
+    "{一時三十分|ichi ji san juppun}, {一時半|ichi ji han}",
     ""
 ],
 [
