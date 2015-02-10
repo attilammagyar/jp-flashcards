@@ -29,6 +29,7 @@ stem of adj or continuative base of verb + ~すぎる = too much ~, over~
 へ = to, towards, pronounced as え
 Verb A (dictionary form) + ため + に + Verb B = do Verb B in order to Verb A
 verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence
+verb-て-form + いる = be doing ~
 verb-て-form + から = after doing verb, ...
 verb-て-form + は + いけません = doing verb is not allowed
 verb-て-form + は + だめ = must not do verb

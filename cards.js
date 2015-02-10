@@ -2011,7 +2011,7 @@ Flashcards.initialize([
     ],
     [
         "(I) wrote the letter in Japanese.",
-        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3067\u3066\u304c\u307f\u3092{\u66f8\u304d\u307e\u3057\u305f|\u304b\u304d\u307e\u3057\u305f}\u3002",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3067{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u304d\u307e\u3057\u305f|\u304b\u304d\u307e\u3057\u305f}\u3002",
         "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
     ],
     [
@@ -2878,5 +2878,25 @@ Flashcards.initialize([
         "swim",
         "\u304a\u3088\u3050\u3001\u304a\u3088\u304e\u307e\u3059\u3001\u304a\u3088\u3044\u3067",
         ""
+    ],
+    [
+        "What (are you) doing at the moment?",
+        "{\u4eca|\u3044\u307e}{\u4f55|\u306a\u306b}\u3092\u3057\u3066\u3044\u307e\u3059\u304b\u3002",
+        "verb-\u3066-form + \u3044\u308b = be doing ~"
+    ],
+    [
+        "(I am) reading a Japanese newspaper.",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u306e{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3092{\u8aad\u3093\u3067|\u3088\u3093\u3067}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be doing ~"
+    ],
+    [
+        "(I am) writing a letter to (my) friend.",
+        "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306b{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be doing ~"
+    ],
+    [
+        "(I am) resting now.",
+        "{\u4eca|\u3044\u307e}{\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be doing ~"
     ]
 ])

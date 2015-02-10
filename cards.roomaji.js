@@ -2011,7 +2011,7 @@ Flashcards.initialize([
 ],
 [
     "(I) wrote the letter in Japanese.",
-    "{日本語|nihongo} de tegami wo {書きました|kakimashita}.",
+    "{日本語|nihongo} de {手紙|tegami} wo {書きました|kakimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
@@ -2878,5 +2878,25 @@ Flashcards.initialize([
     "swim",
     "oyogu, oyogimasu, oyoide",
     ""
+],
+[
+    "What (are you) doing at the moment?",
+    "{今|ima} {何|nani} wo shite imasu ka.",
+    "verb-て-form + いる = be doing ~"
+],
+[
+    "(I am) reading a Japanese newspaper.",
+    "{日本語|nihongo} no {新聞|shinbun} wo {読んで|yonde} imasu.",
+    "verb-て-form + いる = be doing ~"
+],
+[
+    "(I am) writing a letter to (my) friend.",
+    "{友達|tomodachi} ni {手紙|tegami} wo {書いて|kaite} imasu.",
+    "verb-て-form + いる = be doing ~"
+],
+[
+    "(I am) resting now.",
+    "{今|ima} {休んで|yasunde} imasu.",
+    "verb-て-form + いる = be doing ~"
 ]
 ])
