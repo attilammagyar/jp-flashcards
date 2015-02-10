@@ -30,7 +30,9 @@
             var fc = Flashcards,
                 next_card;
 
-            if (fc.shouldChooseFromFocus()) {
+            if (fc.shouldChooseRandomCard()) {
+                next_card = fc.random(0, fc.cards.length);
+            } else if (fc.shouldChooseFromFocus()) {
                 next_card = fc.focus[fc.focus_pointer];
                 fc.focus_pointer++;
 
@@ -47,6 +49,11 @@
             }
 
             return next_card;
+        },
+
+        shouldChooseRandomCard: function ()
+        {
+            return Math.random() < 0.15;
         },
 
         shouldChooseFromFocus: function ()
