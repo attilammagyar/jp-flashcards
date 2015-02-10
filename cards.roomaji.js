@@ -1346,7 +1346,7 @@ Flashcards.initialize([
 ],
 [
     "(We) met at 7 o'clock at the restaurant.",
-    "{七時|shichi ji} ni _resutoran_ de aimashita.",
+    "{七時|shichi ji} ni _resutoran_ de {会いました|aimashita}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
@@ -2861,7 +2861,7 @@ Flashcards.initialize([
 ],
 [
     "rest/relax",
-    "yasamu, yasumimasu, yasunde",
+    "{休む|yasumu}, {休みます|yasumimasu}, {休んで|yasunde}",
     ""
 ],
 [

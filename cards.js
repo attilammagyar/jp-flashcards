@@ -1346,7 +1346,7 @@ Flashcards.initialize([
     ],
     [
         "(We) met at 7 o'clock at the restaurant.",
-        "{\u4e03\u6642|\u3057\u3061\u3058}\u306b\u30ec\u30b9\u30c8\u30e9\u30f3\u3067\u3042\u3044\u307e\u3057\u305f\u3002",
+        "{\u4e03\u6642|\u3057\u3061\u3058}\u306b\u30ec\u30b9\u30c8\u30e9\u30f3\u3067{\u4f1a\u3044\u307e\u3057\u305f|\u3042\u3044\u307e\u3057\u305f}\u3002",
         "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
     ],
     [
@@ -2861,7 +2861,7 @@ Flashcards.initialize([
     ],
     [
         "rest/relax",
-        "\u3084\u3055\u3080\u3001\u3084\u3059\u307f\u307e\u3059\u3001\u3084\u3059\u3093\u3067",
+        "{\u4f11\u3080|\u3084\u3059\u3080}\u3001{\u4f11\u307f\u307e\u3059|\u3084\u3059\u307f\u307e\u3059}\u3001{\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067}",
         ""
     ],
     [
