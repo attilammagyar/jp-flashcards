@@ -5,20 +5,25 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8" />
     <style>
+    body {
+    }
+
     ruby {
-        border: solid 0.075em #80a0b0;
         border-radius: 0.2em;
-        background-color: #e8f4ff;
+        border: solid 1px #d0d0d0;
     }
 
     ruby rt {
-        color: #405070;
-        font-size: 90%;
+        font-size: 70%;
+        color: #404040;
     }
 
     dt {
         margin-top: 0.2em;
         margin-bottom: 0.2em;
+    }
+
+    dd {
     }
 
     p {
@@ -27,8 +32,12 @@
         margin-bottom: 0.1em;
     }
 
-    p.notes {
+    div.notes {
         font-size: 80%;
+    }
+
+    ol {
+        margin-left: 1em;
     }
     </style>
 </head>
@@ -47,7 +56,7 @@
             html += (
                 "<li><dt>" + c[i][0] + "</dt>"
                 + "<dd><p>" + c[i][1] + "</p>"
-                + "<p class=\"notes\">" + c[i][2] + "</p></dd></li>"
+                + "<div class=\"notes\">" + c[i][2] + "</div></dd></li>"
             );
         }
 
