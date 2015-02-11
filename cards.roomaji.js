@@ -2441,7 +2441,7 @@ Flashcards.initialize([
 ],
 [
     "I'm not very good at golf, but I'll give it a try.",
-    "boku wa _gorufu_ ga {余り|amari} {上手|{上手|jouzu}} deha arimasen ga yatte mimashou.",
+    "boku wa _gorufu_ ga {余り|amari} {上手|jouzu} deha arimasen ga yatte mimashou.",
     "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
