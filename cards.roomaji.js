@@ -1417,7 +1417,7 @@ Flashcards.initialize([
 [
     "Excuse me, where is the supermarket? Do you know? {Polite.} Yes, (I) know.",
     "sumimasen, _suupaa_ wa doko ni arimasu ka. gozonji desu ka. hai, {知って|shitte} imasu.",
-    ""
+    "verb-て-form + いる = be (in the state of) doing ~"
 ],
 [
     "Go straight ahead (then) cross the pedestrian crossing please.",
@@ -2882,21 +2882,41 @@ Flashcards.initialize([
 [
     "What (are you) doing at the moment?",
     "{今|ima} {何|nani} wo shite imasu ka.",
-    "verb-て-form + いる = be doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~"
 ],
 [
     "(I am) reading a Japanese newspaper.",
     "{日本語|nihongo} no {新聞|shinbun} wo {読んで|yonde} imasu.",
-    "verb-て-form + いる = be doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~"
 ],
 [
     "(I am) writing a letter to (my) friend.",
     "{友達|tomodachi} ni {手紙|tegami} wo {書いて|kaite} imasu.",
-    "verb-て-form + いる = be doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~"
 ],
 [
     "(I am) resting now.",
     "{今|ima} {休んで|yasunde} imasu.",
-    "verb-て-form + いる = be doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~"
+],
+[
+    "Let's go in through the window quietly.",
+    "shizuka ni mado kara {入りましょう|hairimashou}.",
+    ""
+],
+[
+    "(I'm) sorry (I'm) late. From now on, let's keep the curfew.",
+    "okurete sumimasen. {此れから|korekara} wa mongen wo mamorimashou.",
+    ""
+],
+[
+    "That also has been caught, you know. {discovered, exposed}",
+    "{其れ|sore} mo baremashita yo.",
+    ""
+],
+[
+    "We called as (we were) supposed to, you know. {properly}",
+    "watashitachi wa chanto {電話|denwa} shimashita yo.",
+    ""
 ]
 ])
