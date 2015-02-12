@@ -71,7 +71,7 @@ Flashcards.initialize([
 ],
 [
     "(My) younger brother is interesting and good-looking.",
-    "{弟|otouto} wa omoshirokute, kakkoii desu.",
+    "{弟|otouto} wa {面白くて|omoshirokute}, kakkoii desu.",
     ""
 ],
 [
@@ -156,7 +156,7 @@ Flashcards.initialize([
 ],
 [
     "(I) speak Japanese with (my) neighbour.",
-    "kinjo no {人|hito} to {日本語|nihongo} wo {話します|hanashimasu}.",
+    "{近所|kinjo} no {人|hito} to {日本語|nihongo} wo {話します|hanashimasu}.",
     ""
 ],
 [
@@ -396,7 +396,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (I) will play golf with (my) neighbour.",
-    "{明日|ashita} kinjo no {人|hito} to _gorufu_ wo shimasu.",
+    "{明日|ashita} {近所|kinjo} no {人|hito} to _gorufu_ wo shimasu.",
     ""
 ],
 [
@@ -416,7 +416,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't talk to my neighbour.",
-    "kinjo no {人|hito} to  {話しません|hanashimasen}.",
+    "{近所|kinjo} no {人|hito} to  {話しません|hanashimasen}.",
     ""
 ],
 [
@@ -536,12 +536,12 @@ Flashcards.initialize([
 ],
 [
     "On the second floor, there are televisions, computers, etc.",
-    "{二|ni} kai ni _terebi_ ya _konpyuutaa_ ga arimasu.",
+    "{二階|nikai} ni _terebi_ ya _konpyuutaa_ ga arimasu.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "On the second floor there is nothing.",
-    "{二|ni} kai ni {何|nani} mo arimasen.",
+    "{二階|nikai} ni {何|nani} mo arimasen.",
     ""
 ],
 [
@@ -906,7 +906,7 @@ Flashcards.initialize([
 ],
 [
     "On the 3rd floor (there) is a supermarket.",
-    "{三|san} kai ni _suupaa_ ga arimasu.",
+    "{三階|sankai} ni _suupaa_ ga arimasu.",
     ""
 ],
 [
@@ -916,12 +916,12 @@ Flashcards.initialize([
 ],
 [
     "What is on the 2nd floor?",
-    "{二|ni} kai ni {何|nani} ga arimasu ka.",
+    "{二階|nikai} ni {何|nani} ga arimasu ka.",
     ""
 ],
 [
     "What is on the 6th floor?",
-    "rokkai ni {何|nani} ga arimasu ka.",
+    "{六階|rokkai} ni {何|nani} ga arimasu ka.",
     ""
 ],
 [
@@ -931,7 +931,7 @@ Flashcards.initialize([
 ],
 [
     "Is there anything on the second floor?",
-    "{二|ni} kai ni {何|nani} ka arimasu ka.",
+    "{二階|nikai} ni {何|nani} ka arimasu ka.",
     ""
 ],
 [
@@ -946,12 +946,12 @@ Flashcards.initialize([
 ],
 [
     "There's nothing on the second floor.",
-    "{二|ni} kai ni {何|nani} mo arimasen.",
+    "{二階|nikai} ni {何|nani} mo arimasen.",
     ""
 ],
 [
     "There's nothing on the first floor.",
-    "ikkai ni {何|nani} mo arimasen.",
+    "{一階|ikkai} ni {何|nani} mo arimasen.",
     ""
 ],
 [
@@ -986,7 +986,7 @@ Flashcards.initialize([
 ],
 [
     "There are TVs, computers and so on on the second floor.",
-    "{二|ni} kai ni _terebi_ ya _konpyuutaa_ nado ga arimasu.",
+    "{二階|nikai} ni _terebi_ ya _konpyuutaa_ nado ga arimasu.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -1051,7 +1051,7 @@ Flashcards.initialize([
 ],
 [
     "Is there anything on the 3rd floor?",
-    "{三|san} kai ni {何|nani} ka arimasu ka.",
+    "{三階|sankai} ni {何|nani} ka arimasu ka.",
     ""
 ],
 [
@@ -1216,7 +1216,7 @@ Flashcards.initialize([
 ],
 [
     "Who is (there) on the second floor? (It's) Ms. Natsuko (there).",
-    "{二|ni} kai ni dare ga imasu ka. natsuko san ga imasu.",
+    "{二階|nikai} ni dare ga imasu ka. natsuko san ga imasu.",
     ""
 ],
 [
@@ -1736,7 +1736,7 @@ Flashcards.initialize([
 ],
 [
     "(It) was wonderful and interesting.",
-    "subarashikute omoshirokatta desu.",
+    "subarashikute {面白かった|omoshirokatta} desu.",
     ""
 ],
 [
@@ -1746,12 +1746,12 @@ Flashcards.initialize([
 ],
 [
     "The trip was interesting and enjoyable.",
-    "{旅行|ryokou} wa omoshirokute {楽しかった|tanoshikatta} desu.",
+    "{旅行|ryokou} wa {面白くて|omoshirokute} {楽しかった|tanoshikatta} desu.",
     ""
 ],
 [
     "The film was interesting but a bit long.",
-    "{映画|eiga} wa omoshirokatta desu ga chotto {長かった|nagakatta} desu.",
+    "{映画|eiga} wa {面白かった|omoshirokatta} desu ga chotto {長かった|nagakatta} desu.",
     ""
 ],
 [
@@ -1761,7 +1761,7 @@ Flashcards.initialize([
 ],
 [
     "Last week (I) did a business trip to Osaka. It wasn't interesting.",
-    "senshuu ousaka ni shucchou shimashita. omoshirokunakatta desu.",
+    "senshuu ousaka ni shucchou shimashita. {面白くなかった|omoshirokunakatta} desu.",
     ""
 ],
 [
@@ -2016,7 +2016,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
-    "ousaka ni {行きたい|ikitai} desu. omoshirokunai {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa tsumaranakatta desu.",
+    "ousaka ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa tsumaranakatta desu.",
     "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2096,7 +2096,7 @@ Flashcards.initialize([
 ],
 [
     "(My) neighbour has big eyes and (he's) not tall.",
-    "kinjo no {人|hito} wa {目|me} ga {大きくて|ookikute} se ga {高くない|takakunai} desu.",
+    "{近所|kinjo} no {人|hito} wa {目|me} ga {大きくて|ookikute} se ga {高くない|takakunai} desu.",
     ""
 ],
 [
@@ -2196,7 +2196,7 @@ Flashcards.initialize([
 ],
 [
     "This film looks interesting, doesn't it?",
-    "{此の|kono} {映画|eiga} wa omoshirosou desu ne.",
+    "{此の|kono} {映画|eiga} wa {面白そう|omoshirosou} desu ne.",
     "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
@@ -2471,7 +2471,7 @@ Flashcards.initialize([
 ],
 [
     "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
-    "_amerika_ no seikatsu wa omoshirosou desu ga {東京|toukyou} no seikatsu ga {一番|ichiban} {好き|suki} desu.",
+    "_amerika_ no seikatsu wa {面白そう|omoshirosou} desu ga {東京|toukyou} no seikatsu ga {一番|ichiban} {好き|suki} desu.",
     "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
