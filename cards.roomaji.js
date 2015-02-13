@@ -1526,7 +1526,7 @@ Flashcards.initialize([
 ],
 [
     "I have a headache.",
-    "{私|watashi} wa atama ga itai desu.",
+    "{私|watashi} wa {頭|atama} ga itai desu.",
     ""
 ],
 [
@@ -1691,7 +1691,7 @@ Flashcards.initialize([
 ],
 [
     "(I) have a headache. (My) stomach also hurts.",
-    "atama ga itai desu. onaka mo itai desu.",
+    "{頭|atama} ga itai desu. onaka mo itai desu.",
     ""
 ],
 [
@@ -2106,7 +2106,7 @@ Flashcards.initialize([
 ],
 [
     "(I) had a headache last night. (I) didn't eat anything.",
-    "yuube atama ga itakatta desu. {何|nani} mo {食べません|tabemasen} deshita.",
+    "yuube {頭|atama} ga itakatta desu. {何|nani} mo {食べません|tabemasen} deshita.",
     ""
 ],
 [
@@ -2326,7 +2326,7 @@ Flashcards.initialize([
 ],
 [
     "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
-    "yuumeisou desu. {此の|kono} {映画|eiga} wa tsumaranasou desu. atama ga itasou desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
+    "yuumeisou desu. {此の|kono} {映画|eiga} wa tsumaranasou desu. {頭|atama} ga itasou desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
     "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
