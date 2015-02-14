@@ -1076,7 +1076,7 @@ Flashcards.initialize([
 ],
 [
     "Where is the cinema?",
-    "eigakan wa doko ni arimasu ka.",
+    "{映画館|eigakan} wa doko ni arimasu ka.",
     ""
 ],
 [
@@ -1311,7 +1311,7 @@ Flashcards.initialize([
 ],
 [
     "How about the cinema? Won't (we) go to the cinema? Shall (we) go to the cinema together? Let's go to the cinema!",
-    "eigakan wa dou desu ka. eigakan ni {行きません|ikimasen} ka. issho ni eigakan ni {行きましょう|ikimashou} ka. eigakan ni {行きましょう|ikimashou}.",
+    "{映画館|eigakan} wa dou desu ka. {映画館|eigakan} ni {行きません|ikimasen} ka. issho ni {映画館|eigakan} ni {行きましょう|ikimashou} ka. {映画館|eigakan} ni {行きましょう|ikimashou}.",
     ""
 ],
 [
@@ -2111,7 +2111,7 @@ Flashcards.initialize([
 ],
 [
     "Miki went to the cinema with Natsuko.",
-    "{三木|miki} san wa natsuko san to eigakan ni {行きました|ikimashita}.",
+    "{三木|miki} san wa natsuko san to {映画館|eigakan} ni {行きました|ikimashita}.",
     ""
 ],
 [
@@ -2651,7 +2651,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) open the window? May (I) close the window?",
-    "mado wo {開けて|akete} mo {良い|ii} desu ka. mado wo shimete mo {良い|ii} desu ka.",
+    "{窓|mado} wo {開けて|akete} mo {良い|ii} desu ka. {窓|mado} wo shimete mo {良い|ii} desu ka.",
     "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
@@ -2901,7 +2901,7 @@ Flashcards.initialize([
 ],
 [
     "Let's go in through the window quietly.",
-    "shizuka ni mado kara {入りましょう|hairimashou}.",
+    "shizuka ni {窓|mado} kara {入りましょう|hairimashou}.",
     ""
 ],
 [
