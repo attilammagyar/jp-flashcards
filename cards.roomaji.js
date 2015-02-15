@@ -546,7 +546,7 @@ Flashcards.initialize([
 ],
 [
     "There is no one at home.",
-    "{家|uchi} ni dare mo imasen.",
+    "{家|uchi} ni {誰|dare} mo imasen.",
     ""
 ],
 [
@@ -926,7 +926,7 @@ Flashcards.initialize([
 ],
 [
     "Who's in this office?",
-    "{此の|kono} jimusho ni dare ga imasu ka.",
+    "{此の|kono} jimusho ni {誰|dare} ga imasu ka.",
     ""
 ],
 [
@@ -936,12 +936,12 @@ Flashcards.initialize([
 ],
 [
     "Is anyone at home? Yes, there is somebody.",
-    "{家|uchi} ni dare ka imasu ka. hai, dare ka imasu.",
+    "{家|uchi} ni {誰|dare} ka imasu ka. hai, {誰|dare} ka imasu.",
     ""
 ],
 [
     "There's nobody at home.",
-    "{家|uchi} ni dare mo imasen.",
+    "{家|uchi} ni {誰|dare} mo imasen.",
     ""
 ],
 [
@@ -1041,12 +1041,12 @@ Flashcards.initialize([
 ],
 [
     "There's someone in the house.",
-    "{家|uchi} ni dare ka imasu.",
+    "{家|uchi} ni {誰|dare} ka imasu.",
     ""
 ],
 [
     "There's no one in the house.",
-    "{家|uchi} ni dare mo imasen.",
+    "{家|uchi} ni {誰|dare} mo imasen.",
     ""
 ],
 [
@@ -1216,7 +1216,7 @@ Flashcards.initialize([
 ],
 [
     "Who is (there) on the second floor? (It's) Ms. Natsuko (there).",
-    "{二階|nikai} ni dare ga imasu ka. natsuko san ga imasu.",
+    "{二階|nikai} ni {誰|dare} ga imasu ka. natsuko san ga imasu.",
     ""
 ],
 [
@@ -1231,7 +1231,7 @@ Flashcards.initialize([
 ],
 [
     "Who is (there) in front of the bank?",
-    "{銀行|ginkou} no {前|mae} ni dare ga imasu ka.",
+    "{銀行|ginkou} no {前|mae} ni {誰|dare} ga imasu ka.",
     ""
 ],
 [
@@ -1586,7 +1586,7 @@ Flashcards.initialize([
 ],
 [
     "hair, long, short, shoulder-length",
-    "kami, {長い|nagai}, mijikai, kata gurai",
+    "kami, {長い|nagai}, {短い|mijikai}, kata gurai",
     ""
 ],
 [

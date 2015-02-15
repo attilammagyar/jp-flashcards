@@ -546,7 +546,7 @@ Flashcards.initialize([
     ],
     [
         "There is no one at home.",
-        "{\u5bb6|\u3046\u3061}\u306b\u3060\u308c\u3082\u3044\u307e\u305b\u3093\u3002",
+        "{\u5bb6|\u3046\u3061}\u306b{\u8ab0|\u3060\u308c}\u3082\u3044\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -926,7 +926,7 @@ Flashcards.initialize([
     ],
     [
         "Who's in this office?",
-        "{\u6b64\u306e|\u3053\u306e}\u3058\u3080\u3057\u3087\u306b\u3060\u308c\u304c\u3044\u307e\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u3058\u3080\u3057\u3087\u306b{\u8ab0|\u3060\u308c}\u304c\u3044\u307e\u3059\u304b\u3002",
         ""
     ],
     [
@@ -936,12 +936,12 @@ Flashcards.initialize([
     ],
     [
         "Is anyone at home? Yes, there is somebody.",
-        "{\u5bb6|\u3046\u3061}\u306b\u3060\u308c\u304b\u3044\u307e\u3059\u304b\u3002\u306f\u3044\u3001\u3060\u308c\u304b\u3044\u307e\u3059\u3002",
+        "{\u5bb6|\u3046\u3061}\u306b{\u8ab0|\u3060\u308c}\u304b\u3044\u307e\u3059\u304b\u3002\u306f\u3044\u3001{\u8ab0|\u3060\u308c}\u304b\u3044\u307e\u3059\u3002",
         ""
     ],
     [
         "There's nobody at home.",
-        "{\u5bb6|\u3046\u3061}\u306b\u3060\u308c\u3082\u3044\u307e\u305b\u3093\u3002",
+        "{\u5bb6|\u3046\u3061}\u306b{\u8ab0|\u3060\u308c}\u3082\u3044\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -1041,12 +1041,12 @@ Flashcards.initialize([
     ],
     [
         "There's someone in the house.",
-        "{\u5bb6|\u3046\u3061}\u306b\u3060\u308c\u304b\u3044\u307e\u3059\u3002",
+        "{\u5bb6|\u3046\u3061}\u306b{\u8ab0|\u3060\u308c}\u304b\u3044\u307e\u3059\u3002",
         ""
     ],
     [
         "There's no one in the house.",
-        "{\u5bb6|\u3046\u3061}\u306b\u3060\u308c\u3082\u3044\u307e\u305b\u3093\u3002",
+        "{\u5bb6|\u3046\u3061}\u306b{\u8ab0|\u3060\u308c}\u3082\u3044\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -1216,7 +1216,7 @@ Flashcards.initialize([
     ],
     [
         "Who is (there) on the second floor? (It's) Ms. Natsuko (there).",
-        "{\u4e8c\u968e|\u306b\u304b\u3044}\u306b\u3060\u308c\u304c\u3044\u307e\u3059\u304b\u3002\u306a\u3064\u3053\u3055\u3093\u304c\u3044\u307e\u3059\u3002",
+        "{\u4e8c\u968e|\u306b\u304b\u3044}\u306b{\u8ab0|\u3060\u308c}\u304c\u3044\u307e\u3059\u304b\u3002\u306a\u3064\u3053\u3055\u3093\u304c\u3044\u307e\u3059\u3002",
         ""
     ],
     [
@@ -1231,7 +1231,7 @@ Flashcards.initialize([
     ],
     [
         "Who is (there) in front of the bank?",
-        "{\u9280\u884c|\u304e\u3093\u3053\u3046}\u306e{\u524d|\u307e\u3048}\u306b\u3060\u308c\u304c\u3044\u307e\u3059\u304b\u3002",
+        "{\u9280\u884c|\u304e\u3093\u3053\u3046}\u306e{\u524d|\u307e\u3048}\u306b{\u8ab0|\u3060\u308c}\u304c\u3044\u307e\u3059\u304b\u3002",
         ""
     ],
     [
@@ -1586,7 +1586,7 @@ Flashcards.initialize([
     ],
     [
         "hair, long, short, shoulder-length",
-        "\u304b\u307f\u3001{\u9577\u3044|\u306a\u304c\u3044}\u3001\u307f\u3058\u304b\u3044\u3001\u304b\u305f\u3050\u3089\u3044",
+        "\u304b\u307f\u3001{\u9577\u3044|\u306a\u304c\u3044}\u3001{\u77ed\u3044|\u307f\u3058\u304b\u3044}\u3001\u304b\u305f\u3050\u3089\u3044",
         ""
     ],
     [
