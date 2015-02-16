@@ -141,7 +141,7 @@ Flashcards.initialize([
 ],
 [
     "(I) eat breakfast with my family.",
-    "kazoku to {朝ごはん|asagohan} wo {食べます|tabemasu}.",
+    "{家族|kazoku} to {朝ごはん|asagohan} wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -291,7 +291,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (I) will eat with (my) family at the restaurant.",
-    "{明日|ashita} kazoku to _resutoran_ de {食べます|tabemasu}.",
+    "{明日|ashita} {家族|kazoku} to _resutoran_ de {食べます|tabemasu}.",
     "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
 ],
 [
@@ -406,12 +406,12 @@ Flashcards.initialize([
 ],
 [
     "(I) always return home late. Occasionally (I) eat dinner with (my) family.",
-    "{何時も|itsumo} osoku {家|uchi} ni {帰ります|kaerimasu}. tamani kazoku to bangohan wo {食べます|tabemasu}.",
+    "{何時も|itsumo} osoku {家|uchi} ni {帰ります|kaerimasu}. tamani {家族|kazoku} to bangohan wo {食べます|tabemasu}.",
     ""
 ],
 [
     "(I) don't have meals with (my) family.",
-    "kazoku to {食事|shokuji} wo shimasen.",
+    "{家族|kazoku} to {食事|shokuji} wo shimasen.",
     ""
 ],
 [
@@ -2416,7 +2416,7 @@ Flashcards.initialize([
 ],
 [
     "Please wait a moment. {Polite.} Sorry to have kept you waiting. {Polite.} Sorry to have kept you waiting. {Informal.}",
-    "shoushou omachi kudasai. omatase shimashita. omachidou sama.",
+    "shoushou {お待ち|omachi} kudasai. {お待たせ|omatase} shimashita. {お待ち|omachi} doosama.",
     ""
 ],
 [
@@ -2611,7 +2611,7 @@ Flashcards.initialize([
 ],
 [
     "Please wait a little more.",
-    "mou {少し|sukoshi} matte kudasai.",
+    "mou {少し|sukoshi} {待って|matte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -2791,7 +2791,7 @@ Flashcards.initialize([
 ],
 [
     "(You are) not allowed to sing in here.",
-    "{此処|koko} de utatte wa ikemasen.",
+    "{此処|koko} de {歌って|utatte} wa ikemasen.",
     "verb-て-form + は + いけません = doing verb is not allowed"
 ],
 [
@@ -2846,7 +2846,7 @@ Flashcards.initialize([
 ],
 [
     "sing",
-    "utau, utaimasu, utatte",
+    "{歌う|utau}, {歌います|utaimasu}, {歌って|utatte}",
     ""
 ],
 [
@@ -2871,7 +2871,7 @@ Flashcards.initialize([
 ],
 [
     "wait/look forward to",
-    "matsu, machimasu, matte",
+    "{待つ|matsu}, {待ちます|machimasu}, {待って|matte}",
     ""
 ],
 [
