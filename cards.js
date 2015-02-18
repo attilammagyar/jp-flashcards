@@ -2980,7 +2980,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Today (I) have (something) else planned.",
+        "Today (I) had other plans.",
         "{\u4eca\u65e5|\u304d\u3087\u3046}\u3001\u3079\u3064\u306e\u3088\u3066\u3044\u304c\u3042\u308a\u307e\u3057\u305f\u3002",
         ""
     ],

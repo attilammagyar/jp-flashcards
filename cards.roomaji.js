@@ -2980,7 +2980,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Today (I) have (something) else planned.",
+    "Today (I) had other plans.",
     "{今日|kyou}, betsu no yotei ga arimashita.",
     ""
 ],
