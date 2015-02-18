@@ -1571,7 +1571,7 @@ Flashcards.initialize([
     ],
     [
         "eyes, big, small, round",
-        "\u3081\u3001{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}\u3001{\u5c0f\u3055\u3044|\u3061\u3044\u3055\u3044}\u3001\u307e\u308b\u3044",
+        "{\u76ee|\u3081}\u3001{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}\u3001{\u5c0f\u3055\u3044|\u3061\u3044\u3055\u3044}\u3001\u307e\u308b\u3044",
         ""
     ],
     [
@@ -2917,6 +2917,81 @@ Flashcards.initialize([
     [
         "We called as (we were) supposed to, you know. {properly}",
         "\u308f\u305f\u3057\u305f\u3061\u306f\u3061\u3083\u3093\u3068{\u96fb\u8a71|\u3067\u3093\u308f}\u3057\u307e\u3057\u305f\u3088\u3002",
+        ""
+    ],
+    [
+        "I'm home! Welcome back!",
+        "\u305f\u3060\u3044\u307e\u3002{\u304a\u5e30\u308a|\u304a\u304b\u3048\u308a}\u3002",
+        ""
+    ],
+    [
+        "How was the trip to Italy? Where did (you) go?",
+        "\u30a4\u30bf\u30ea\u30a2{\u65c5\u884c|\u308a\u3087\u3053\u3046}\u306f\u3069\u3046\u3067\u3057\u305f\u304b\u3002\u3069\u3053\u3078{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u304b\u3002",
+        ""
+    ],
+    [
+        "Anything else?",
+        "{\u4ed6|\u307b\u304b}\u306b\u308f?",
+        ""
+    ],
+    [
+        "These shoes are a bit too big. Please show (me some) others.",
+        "{\u6b64\u306e|\u3053\u306e}\u304f\u3064\u306f{\u5c11\u3057|\u3059\u3053\u3057}{\u5927\u304d|\u304a\u304a\u304d}\u3059\u304e\u307e\u3059\u3002{\u4ed6|\u307b\u304b}\u306e\u3092{\u898b\u305b\u3066|\u307f\u305b\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "stem of adj. or continuative base of verb + ~\u3059\u304e\u308b = too much ~, over~"
+    ],
+    [
+        "(So) in the end, (it's) a search for guys?",
+        "\u3051\u3063\u304d\u3087\u304f{\u7537|\u304a\u3068\u3053}\u3092\u3055\u304c\u3057\u3067\u3059\u304b\u3002",
+        ""
+    ],
+    [
+        "(I) searched through the room for a pen.",
+        "\u30da\u30f3\u3092{\u90e8\u5c4b\u4e2d|\u3078\u3084\u3058\u3085\u3046}\u3055\u304c\u3057\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "(It's) a romantic encounter.",
+        "\u3059\u3066\u304d\u306a{\u51fa\u4f1a\u3044|\u3067\u3042\u3044}\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "(I) also changed the batteries in the radio.",
+        "\u30e9\u30b8\u30aa\u306e\u3067\u3093\u3061\u3082\u3053\u3046\u304b\u3093\u3057\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Preparations are complete.",
+        "\u3058\u3085\u3093\u3073\u304b\u3093\u308a\u3087\u3046\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "(It'll) take about an hour.",
+        "{\u4e00\u6642\u9593|\u3044\u3061\u3058\u304b\u3093}\u304f\u3089\u3044{\u639b\u304b\u308a\u307e\u3059|\u304b\u304b\u308a\u307e\u3059}\u3002",
+        ""
+    ],
+    [
+        "(I'm) really sorry.",
+        "\u307b\u3093\u3068\u306b\u3054\u3081\u3093\u306a\u3055\u3044\u3002",
+        ""
+    ],
+    [
+        "(I) completely forgot (it).",
+        "\u3046\u3063\u304b\u308a\u308f\u3059\u308c\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Today (I) have (something) else planned.",
+        "{\u4eca\u65e5|\u304d\u3087\u3046}\u3001\u3079\u3064\u306e\u3088\u3066\u3044\u304c\u3042\u308a\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Please exchange this card with that card.",
+        "{\u6b64\u306e|\u3053\u306e}\u30ab\u30fc\u30c9\u3068{\u5176\u306e|\u305d\u306e}\u30ab\u30fc\u30c9\u3092\u3053\u3046\u304b\u3093\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        ""
+    ],
+    [
+        "Please (give me) a charger.",
+        "\u3058\u3085\u3046\u3067\u3093\u304d\u3092\u304f\u3060\u3055\u3044\u3002",
         ""
     ]
 ])

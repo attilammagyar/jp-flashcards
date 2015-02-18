@@ -24,7 +24,7 @@ Noun を Verb --> Noun の Verb stem + {方|kata}
 かった = past tense of い adj.
 (Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb
 {上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.
-stem of adj or continuative base of verb + ~すぎる = too much ~, over~
+stem of adj. or continuative base of verb + ~すぎる = too much ~, over~
 とくい/にがて: talents, academic/professional skills, strong/weak points
 へ = to, towards, pronounced as え
 Verb A (dictionary form) + ため + に + Verb B = do Verb B in order to Verb A

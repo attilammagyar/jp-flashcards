@@ -1571,7 +1571,7 @@ Flashcards.initialize([
 ],
 [
     "eyes, big, small, round",
-    "me, {大きい|ookii}, {小さい|chiisai}, marui",
+    "{目|me}, {大きい|ookii}, {小さい|chiisai}, marui",
     ""
 ],
 [
@@ -2917,6 +2917,81 @@ Flashcards.initialize([
 [
     "We called as (we were) supposed to, you know. {properly}",
     "watashitachi wa chanto {電話|denwa} shimashita yo.",
+    ""
+],
+[
+    "I'm home! Welcome back!",
+    "tadaima. {お帰り|okaeri}.",
+    ""
+],
+[
+    "How was the trip to Italy? Where did (you) go?",
+    "_itaria_ {旅行|ryokou} wa dou deshita ka. doko he {行きました|ikimashita} ka.",
+    ""
+],
+[
+    "Anything else?",
+    "{他|hoka} ni wa?",
+    ""
+],
+[
+    "These shoes are a bit too big. Please show (me some) others.",
+    "{此の|kono} kutsu wa {少し|sukoshi} {大き|ooki} sugimasu. {他|hoka} no wo {見せて|misete} kudasai.",
+    "stem of adj. or continuative base of verb + ~すぎる = too much ~, over~"
+],
+[
+    "(So) in the end, (it's) a search for guys?",
+    "kekkyoku {男|otoko} wo sagashi desu ka.",
+    ""
+],
+[
+    "(I) searched through the room for a pen.",
+    "_pen_ wo {部屋中|heyajuu} sagashimashita.",
+    ""
+],
+[
+    "(It's) a romantic encounter.",
+    "suteki na {出会い|deai} desu.",
+    ""
+],
+[
+    "(I) also changed the batteries in the radio.",
+    "_rajio_ no denchi mo koukan shimashita.",
+    ""
+],
+[
+    "Preparations are complete.",
+    "junbi kanryou desu.",
+    ""
+],
+[
+    "(It'll) take about an hour.",
+    "{一時間|ichijikan} kurai {掛かります|kakarimasu}.",
+    ""
+],
+[
+    "(I'm) really sorry.",
+    "honto ni gomen nasai.",
+    ""
+],
+[
+    "(I) completely forgot (it).",
+    "ukkari wasuremashita.",
+    ""
+],
+[
+    "Today (I) have (something) else planned.",
+    "{今日|kyou}, betsu no yotei ga arimashita.",
+    ""
+],
+[
+    "Please exchange this card with that card.",
+    "{此の|kono} _kaado_ to {其の|sono} _kaado_ wo koukan shite kudasai.",
+    ""
+],
+[
+    "Please (give me) a charger.",
+    "juudenki wo kudasai.",
     ""
 ]
 ])
