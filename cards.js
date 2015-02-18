@@ -2931,7 +2931,7 @@ Flashcards.initialize([
     ],
     [
         "Anything else?",
-        "{\u4ed6|\u307b\u304b}\u306b\u308f?",
+        "{\u4ed6|\u307b\u304b}\u306b\u306f?",
         ""
     ],
     [

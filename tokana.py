@@ -35,7 +35,11 @@ def to_kana(text):
             )
 
         else:
-            part = part.replace(" wa ", " ha ").replace(" wa,", " ha,")
+            part = (
+                part.replace(" wa ", " ha ")
+                    .replace(" wa,", " ha,")
+                    .replace(" wa?", " ha?")
+            )
 
         formatted += conversion(part).replace(" ", "")
 
@@ -75,6 +79,7 @@ class _TestToKana(unittest.TestCase):
             "コンピューターでeメールをだします",
             to_kana("_konpyuutaa_ de *e*_meeru_ wo dashimasu")
         )
+        self.assertEqual("ほかには?", to_kana("hoka ni wa?"))
 
 
 if __name__ == "__main__":
