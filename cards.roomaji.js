@@ -2993,5 +2993,30 @@ Flashcards.initialize([
     "Please (give me) a charger.",
     "juudenki wo kudasai.",
     ""
+],
+[
+    "(I) was reading a Japanese language newspaper.",
+    "{日本語|nihongo} no {新聞|shinbun} wo {読んで|yonde} imashita.",
+    "verb-て-form + いました = was (in the state of) doing ~"
+],
+[
+    "(I) was having a meal with (my) family.",
+    "{家族|kazoku} to {食事|shokuji} wo shite imashita.",
+    "verb-て-form + いました = was (in the state of) doing ~"
+],
+[
+    "(I) was writing a letter to (my) friend.",
+    "{友達|tomodachi} ni {手紙|tegami} wo {書いて|kaite} imashita.",
+    "verb-て-form + いました = was (in the state of) doing ~"
+],
+[
+    "(I) was talking with (my) friends.",
+    "{友達|tomodachi} to {話して|hanashite} imashita.",
+    "verb-て-form + いました = was (in the state of) doing ~"
+],
+[
+    "(I) was buying a kamera at the department store.",
+    "_depaato_ de _kamera_ wo {買って|katte} imashita.",
+    "verb-て-form + いました = was (in the state of) doing ~"
 ]
 ])

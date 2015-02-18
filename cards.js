@@ -2993,5 +2993,30 @@ Flashcards.initialize([
         "Please (give me) a charger.",
         "\u3058\u3085\u3046\u3067\u3093\u304d\u3092\u304f\u3060\u3055\u3044\u3002",
         ""
+    ],
+    [
+        "(I) was reading a Japanese language newspaper.",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u306e{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3092{\u8aad\u3093\u3067|\u3088\u3093\u3067}\u3044\u307e\u3057\u305f\u3002",
+        "verb-\u3066-form + \u3044\u307e\u3057\u305f = was (in the state of) doing ~"
+    ],
+    [
+        "(I) was having a meal with (my) family.",
+        "{\u5bb6\u65cf|\u304b\u305e\u304f}\u3068{\u98df\u4e8b|\u3057\u3087\u304f\u3058}\u3092\u3057\u3066\u3044\u307e\u3057\u305f\u3002",
+        "verb-\u3066-form + \u3044\u307e\u3057\u305f = was (in the state of) doing ~"
+    ],
+    [
+        "(I) was writing a letter to (my) friend.",
+        "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306b{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u3044\u307e\u3057\u305f\u3002",
+        "verb-\u3066-form + \u3044\u307e\u3057\u305f = was (in the state of) doing ~"
+    ],
+    [
+        "(I) was talking with (my) friends.",
+        "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3068{\u8a71\u3057\u3066|\u306f\u306a\u3057\u3066}\u3044\u307e\u3057\u305f\u3002",
+        "verb-\u3066-form + \u3044\u307e\u3057\u305f = was (in the state of) doing ~"
+    ],
+    [
+        "(I) was buying a kamera at the department store.",
+        "\u30c7\u30d1\u30fc\u30c8\u3067\u30ab\u30e1\u30e9\u3092{\u8cb7\u3063\u3066|\u304b\u3063\u3066}\u3044\u307e\u3057\u305f\u3002",
+        "verb-\u3066-form + \u3044\u307e\u3057\u305f = was (in the state of) doing ~"
     ]
 ])
