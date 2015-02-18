@@ -31,7 +31,7 @@ Flashcards.initialize([
 ],
 [
     "How much is this bicycle?",
-    "{此の|kono} jitensha wa ikura desu ka.",
+    "{此の|kono} {自転者|jitensha} wa ikura desu ka.",
     ""
 ],
 [
@@ -286,7 +286,7 @@ Flashcards.initialize([
 ],
 [
     "(My) son will play football at the college next week.",
-    "musuko wa raishuu _koreji_ de _sakkaa_ wo shimasu.",
+    "musuko wa {来週|raishuu} _koreji_ de _sakkaa_ wo shimasu.",
     ""
 ],
 [
@@ -571,7 +571,7 @@ Flashcards.initialize([
 ],
 [
     "every week, this week, next week",
-    "maishuu, konshuu, raishuu",
+    "{毎週|maishuu}, {今週|konshuu}, {来週|raishuu}",
     ""
 ],
 [
@@ -736,13 +736,13 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, do (you) sell stamps?",
-    "sumimasen, kitte wo utte imasu ka.",
-    ""
+    "sumimasen, kitte wo {売って|utte} imasu ka.",
+    "verb-て-form + いる = be (in the state of) doing ~"
 ],
 [
     "Do (you) sell camera batteries?",
-    "_kamera_ no denchi wo utte imasu ka.",
-    ""
+    "_kamera_ no denchi wo {売って|utte} imasu ka.",
+    "verb-て-form + いる = be (in the state of) doing ~"
 ],
 [
     "How much is this folding fan?",
@@ -801,7 +801,7 @@ Flashcards.initialize([
 ],
 [
     "1 television",
-    "_terebi_ {一|ichi} dai",
+    "_terebi_ {一台|ichidai}",
     ""
 ],
 [
@@ -1166,7 +1166,7 @@ Flashcards.initialize([
 ],
 [
     "Last week (I) watched a movie with Ms. Natsuko.",
-    "senshuu natsuko san to {映画|eiga} wo {見ました|mimashita}.",
+    "{先週|senshuu} natsuko san to {映画|eiga} wo {見ました|mimashita}.",
     ""
 ],
 [
@@ -1491,7 +1491,7 @@ Flashcards.initialize([
 ],
 [
     "I hope to play tennis together next week.",
-    "raishuu issho ni _tenisu_ wo shitai to omoimasu.",
+    "{来週|raishuu} issho ni _tenisu_ wo shitai to omoimasu.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -1761,7 +1761,7 @@ Flashcards.initialize([
 ],
 [
     "Last week (I) did a business trip to Osaka. It wasn't interesting.",
-    "senshuu ousaka ni shucchou shimashita. {面白くなかった|omoshirokunakatta} desu.",
+    "{先週|senshuu} ousaka ni shucchou shimashita. {面白くなかった|omoshirokunakatta} desu.",
     ""
 ],
 [
@@ -2366,7 +2366,7 @@ Flashcards.initialize([
 ],
 [
     "I love Izu, and (I'm) also interested in cars.",
-    "{私|watashi} wa izu ga dai {好き|suki} de, {車|kuruma} ni mo kyoumi ga arimasu.",
+    "{私|watashi} wa izu ga {大好き|daisuki} de, {車|kuruma} ni mo kyoumi ga arimasu.",
     "な-adj. + で = adj. and ..."
 ],
 [
@@ -2436,7 +2436,7 @@ Flashcards.initialize([
 ],
 [
     "Won't (we) play golf together on Sunday this week?",
-    "konshuu no {日曜日|nichiyoubi} ni issho ni _gorufu_ wo shimasen ka.",
+    "{今週|konshuu} no {日曜日|nichiyoubi} ni issho ni _gorufu_ wo shimasen ka.",
     ""
 ],
 [
@@ -2771,7 +2771,7 @@ Flashcards.initialize([
 ],
 [
     "Occasionally (I) meet with a university teacher and (we) talk about studies.",
-    "tamani {大学|daigaku} {先生|sensei} to {会って|atte}, {勉強|benkyou} ni tsuite {話します|hanashimasu}.",
+    "tamani {大学|daigaku} no {先生|sensei} to {会って|atte}, {勉強|benkyou} ni tsuite {話します|hanashimasu}.",
     "Noun + に + ついて = about Noun\nverb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
