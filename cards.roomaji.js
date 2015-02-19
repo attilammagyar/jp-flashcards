@@ -1502,7 +1502,7 @@ Flashcards.initialize([
 [
     "Tokyo is a big and busy place.",
     "{東京|toukyou} wa {広くて|hirokute} nigiyaka na {所|tokoro} desu.",
-    ""
+    "{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ],
 [
     "My room is not very clean.",
@@ -1547,7 +1547,7 @@ Flashcards.initialize([
 [
     "This is a lively place, isn't it?",
     "{此処|koko} wa nigiyaka na {所|tokoro} desu ne.",
-    ""
+    "{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ],
 [
     "I think Mr. Yamada is a serious person.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
     "ousaka ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa tsumaranakatta desu.",
-    "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\n~たい is usually used only in first person or in questions for the second person"
+    "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\n~たい is usually used only in first person or in questions for the second person\n{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -3018,5 +3018,15 @@ Flashcards.initialize([
     "(I) was buying a kamera at the department store.",
     "_depaato_ de _kamera_ wo {買って|katte} imashita.",
     "verb-て-form + いました = was (in the state of) doing ~"
+],
+[
+    "The piano takes up (a lot of) space.",
+    "_piano_ wa {場所|basho} wo {取ります|torimasu}.",
+    "{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
+],
+[
+    "(It's) a good part/place. (It's) a good place.",
+    "{良い|ii} {所|tokoro, toko} desu. {良い|ii} {場所|basho} desu.",
+    "{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ]
 ])

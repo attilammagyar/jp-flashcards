@@ -1502,7 +1502,7 @@ Flashcards.initialize([
     [
         "Tokyo is a big and busy place.",
         "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306f{\u5e83\u304f\u3066|\u3072\u308d\u304f\u3066}\u306b\u304e\u3084\u304b\u306a{\u6240|\u3068\u3053\u308d}\u3067\u3059\u3002",
-        ""
+        "{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location"
     ],
     [
         "My room is not very clean.",
@@ -1547,7 +1547,7 @@ Flashcards.initialize([
     [
         "This is a lively place, isn't it?",
         "{\u6b64\u51e6|\u3053\u3053}\u306f\u306b\u304e\u3084\u304b\u306a{\u6240|\u3068\u3053\u308d}\u3067\u3059\u306d\u3002",
-        ""
+        "{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location"
     ],
     [
         "I think Mr. Yamada is a serious person.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
     [
         "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
         "\u304a\u3046\u3055\u304b\u306b{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u3067\u3059\u3002{\u9762\u767d\u304f\u306a\u3044|\u304a\u3082\u3057\u308d\u304f\u306a\u3044}{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304b\u3002\u304a\u3046\u3055\u304b\u306f\u3059\u3070\u3089\u3057\u3044{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304c{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306f\u3064\u307e\u3089\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
-        "\u304f\u306a\u3044 = negative of \u3044 adj.\n\u304b\u3063\u305f = past tense of \u3044 adj.\n\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "\u304f\u306a\u3044 = negative of \u3044 adj.\n\u304b\u3063\u305f = past tense of \u3044 adj.\n\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location"
     ],
     [
         "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -3018,5 +3018,15 @@ Flashcards.initialize([
         "(I) was buying a kamera at the department store.",
         "\u30c7\u30d1\u30fc\u30c8\u3067\u30ab\u30e1\u30e9\u3092{\u8cb7\u3063\u3066|\u304b\u3063\u3066}\u3044\u307e\u3057\u305f\u3002",
         "verb-\u3066-form + \u3044\u307e\u3057\u305f = was (in the state of) doing ~"
+    ],
+    [
+        "The piano takes up (a lot of) space.",
+        "\u30d4\u30a2\u30ce\u306f{\u5834\u6240|\u3070\u3057\u3087}\u3092{\u53d6\u308a\u307e\u3059|\u3068\u308a\u307e\u3059}\u3002",
+        "{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location"
+    ],
+    [
+        "(It's) a good part/place. (It's) a good place.",
+        "{\u826f\u3044|\u3044\u3044}{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053}\u3067\u3059\u3002{\u826f\u3044|\u3044\u3044}{\u5834\u6240|\u3070\u3057\u3087}\u3067\u3059\u3002",
+        "{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location"
     ]
 ])

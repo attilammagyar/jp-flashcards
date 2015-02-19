@@ -40,3 +40,5 @@ Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing 
 Verb stem + たい = want to ~
 Verb stem + たい = want to ~ (verb --> い adj.)
 Verb stem + {方|kata} = how to do Verb (Verb --> Noun)
+{所|ところ、とこ} = physical or abstract location, part, point
+{場所|ばしょ} = physical location
