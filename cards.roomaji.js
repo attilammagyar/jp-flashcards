@@ -476,7 +476,7 @@ Flashcards.initialize([
 ],
 [
     "What time will the next train come?",
-    "tsugi no {電車|densha} wa {何時|nanji} ni {来ます|kimasu} ka.",
+    "{次|tsugi} no {電車|densha} wa {何時|nanji} ni {来ます|kimasu} ka.",
     ""
 ],
 [
@@ -1281,7 +1281,7 @@ Flashcards.initialize([
 ],
 [
     "Please turn left at the next traffic lights.",
-    "tsugi no shingou wo {左|hidari} ni magatte kudasai.",
+    "{次|tsugi} no shingou wo {左|hidari} ni magatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -2041,7 +2041,7 @@ Flashcards.initialize([
 ],
 [
     "Did (you) hear the weather forecast for Tokyo? Not yet.",
-    "{東京|toukyou} no {天気|tenki} yohou wo {聞きました|kikimashita} ka. iie, mada desu.",
+    "{東京|toukyou} no {天気|tenki} yohou wo {聞きました|kikimashita} ka. iie, {未だ|mada} desu.",
     ""
 ],
 [
@@ -2131,7 +2131,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to be a doctor.",
-    "isha ni naritai desu.",
+    "{医者|isha} ni naritai desu.",
     "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2206,7 +2206,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to be a doctor in the future.",
-    "shourai isha ni naritai desu.",
+    "shourai {医者|isha} ni naritai desu.",
     "Verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [

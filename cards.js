@@ -476,7 +476,7 @@ Flashcards.initialize([
     ],
     [
         "What time will the next train come?",
-        "\u3064\u304e\u306e{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u306f{\u4f55\u6642|\u306a\u3093\u3058}\u306b{\u6765\u307e\u3059|\u304d\u307e\u3059}\u304b\u3002",
+        "{\u6b21|\u3064\u304e}\u306e{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u306f{\u4f55\u6642|\u306a\u3093\u3058}\u306b{\u6765\u307e\u3059|\u304d\u307e\u3059}\u304b\u3002",
         ""
     ],
     [
@@ -1281,7 +1281,7 @@ Flashcards.initialize([
     ],
     [
         "Please turn left at the next traffic lights.",
-        "\u3064\u304e\u306e\u3057\u3093\u3054\u3046\u3092{\u5de6|\u3072\u3060\u308a}\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+        "{\u6b21|\u3064\u304e}\u306e\u3057\u3093\u3054\u3046\u3092{\u5de6|\u3072\u3060\u308a}\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
         "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
@@ -2041,7 +2041,7 @@ Flashcards.initialize([
     ],
     [
         "Did (you) hear the weather forecast for Tokyo? Not yet.",
-        "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306e{\u5929\u6c17|\u3066\u3093\u304d}\u3088\u307b\u3046\u3092{\u805e\u304d\u307e\u3057\u305f|\u304d\u304d\u307e\u3057\u305f}\u304b\u3002\u3044\u3044\u3048\u3001\u307e\u3060\u3067\u3059\u3002",
+        "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306e{\u5929\u6c17|\u3066\u3093\u304d}\u3088\u307b\u3046\u3092{\u805e\u304d\u307e\u3057\u305f|\u304d\u304d\u307e\u3057\u305f}\u304b\u3002\u3044\u3044\u3048\u3001{\u672a\u3060|\u307e\u3060}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -2131,7 +2131,7 @@ Flashcards.initialize([
     ],
     [
         "(I) want to be a doctor.",
-        "\u3044\u3057\u3083\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
+        "{\u533b\u8005|\u3044\u3057\u3083}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
         "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
@@ -2206,7 +2206,7 @@ Flashcards.initialize([
     ],
     [
         "(I) want to be a doctor in the future.",
-        "\u3057\u3087\u3046\u3089\u3044\u3044\u3057\u3083\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
+        "\u3057\u3087\u3046\u3089\u3044{\u533b\u8005|\u3044\u3057\u3083}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
         "Verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
