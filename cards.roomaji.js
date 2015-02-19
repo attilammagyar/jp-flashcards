@@ -266,12 +266,12 @@ Flashcards.initialize([
 ],
 [
     "Tonight (it's) quiet and warm.",
-    "kon ya wa shizuka de atatakai desu.",
+    "{今夜|kon ya} wa shizuka de atatakai desu.",
     ""
 ],
 [
     "I love spring nights.",
-    "haru no yoru wa {大好き|daisuki} desu.",
+    "haru no {夜|yoru} wa {大好き|daisuki} desu.",
     ""
 ],
 [
@@ -316,7 +316,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't watch television in the evenings.",
-    "yoru _terebi_ wo {見ません|mimasen}.",
+    "{夜|yoru} _terebi_ wo {見ません|mimasen}.",
     ""
 ],
 [
@@ -521,7 +521,7 @@ Flashcards.initialize([
 ],
 [
     "In the evenings, I work from 7 o'clock.",
-    "yoru {七時|shichiji} kara {仕事|shigoto} wo shimasu.",
+    "{夜|yoru} {七時|shichiji} kara {仕事|shigoto} wo shimasu.",
     ""
 ],
 [
@@ -666,7 +666,7 @@ Flashcards.initialize([
 ],
 [
     "Tonight (I'll) be in Harajuku. (It's) fun, lively and (I) love Harajuku.",
-    "kon ya wa harajuku ni imasu. {楽しくて|tanoshikute}, nigiyakade, harajuku wa {大好き|daisuki} desu.",
+    "{今夜|kon ya} wa harajuku ni imasu. {楽しくて|tanoshikute}, nigiyakade, harajuku wa {大好き|daisuki} desu.",
     ""
 ],
 [
@@ -696,7 +696,7 @@ Flashcards.initialize([
 ],
 [
     "I'm very worried. Tonight, shall we study English together?",
-    "totemo shinpai desu. kon ya issho ni {英語|eigo} wo {勉強|benkyou} shimasen ka.",
+    "totemo shinpai desu. {今夜|kon ya} issho ni {英語|eigo} wo {勉強|benkyou} shimasen ka.",
     ""
 ],
 [
@@ -711,12 +711,12 @@ Flashcards.initialize([
 ],
 [
     "(That's) good. (We'll) do that. Tonight what time is OK?",
-    "{良い|ii} desu ne. sou shimasu. kon ya {何時|nanji} ga {良い|ii} desu ka.",
+    "{良い|ii} desu ne. sou shimasu. {今夜|kon ya} {何時|nanji} ga {良い|ii} desu ka.",
     ""
 ],
 [
     "How about 7 tonight?",
-    "kon ya {七時|shichiji} wa dou desu ka.",
+    "{今夜|kon ya} {七時|shichiji} wa dou desu ka.",
     ""
 ],
 [
@@ -1111,7 +1111,7 @@ Flashcards.initialize([
 ],
 [
     "(You're) a little bit wrong.",
-    "chotto chigaimasu.",
+    "chotto {違います|chigaimasu}.",
     ""
 ],
 [
@@ -2116,7 +2116,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada works from early morning to late night every day.",
-    "{山田|yamada} san wa {毎日|mainichi} {朝|asa} {早く|hayaku} kara yoru osoku made {仕事|shigoto} wo shimasu.",
+    "{山田|yamada} san wa {毎日|mainichi} {朝|asa} {早く|hayaku} kara {夜|yoru} osoku made {仕事|shigoto} wo shimasu.",
     ""
 ],
 [
@@ -2236,7 +2236,7 @@ Flashcards.initialize([
 ],
 [
     "What's the difference between a dog and a cat?",
-    "{犬|inu} to {猫|neko} wa dou chigaimasu ka.",
+    "{犬|inu} to {猫|neko} wa dou {違います|chigaimasu} ka.",
     ""
 ],
 [
@@ -2376,7 +2376,7 @@ Flashcards.initialize([
 ],
 [
     "I go to the gym on weeknights.",
-    "hei jitsu no yoru, {私|watashi} wa _jimu_ ni {行きます|ikimasu}.",
+    "hei jitsu no {夜|yoru}, {私|watashi} wa _jimu_ ni {行きます|ikimasu}.",
     ""
 ],
 [
@@ -2456,7 +2456,7 @@ Flashcards.initialize([
 ],
 [
     "Every day (I) work until late in the evening, but the work is very enjoyable.",
-    "{毎日|mainichi} yoru osoku made hatarakimasu ga {仕事|shigoto} wa totemo {楽しい|tanoshii} desu.",
+    "{毎日|mainichi} {夜|yoru} osoku made hatarakimasu ga {仕事|shigoto} wa totemo {楽しい|tanoshii} desu.",
     ""
 ],
 [
@@ -2561,7 +2561,7 @@ Flashcards.initialize([
 ],
 [
     "In the evening, after eating dinner, (I) send emails on (my) computer.",
-    "yoru bangohan wo {食べて|tabete} kara _konpyuutaa_ de *e*_meeru_ wo {出します|dashimasu}.",
+    "{夜|yoru} bangohan wo {食べて|tabete} kara _konpyuutaa_ de *e*_meeru_ wo {出します|dashimasu}.",
     "verb-て-form + から = after doing verb, ..."
 ],
 [
@@ -2741,7 +2741,7 @@ Flashcards.initialize([
 ],
 [
     "(I) watch TV, make dinner and do work from 7 o'clock in the evening.",
-    "_terebi_ wo {見て|mite}, bangohan wo {作って|tsukutte}, yoru {七時|shichiji} kara {仕事|shigoto} wo shimasu.",
+    "_terebi_ wo {見て|mite}, bangohan wo {作って|tsukutte}, {夜|yoru} {七時|shichiji} kara {仕事|shigoto} wo shimasu.",
     "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -2821,7 +2821,7 @@ Flashcards.initialize([
 ],
 [
     "(You are) not allowed to go out in the evening.",
-    "yoru {出て|dete} wa ikemasen.",
+    "{夜|yoru} {出て|dete} wa ikemasen.",
     "verb-て-form + は + いけません = doing verb is not allowed"
 ],
 [
