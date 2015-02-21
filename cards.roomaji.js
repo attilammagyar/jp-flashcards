@@ -736,7 +736,7 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, do (you) sell stamps?",
-    "sumimasen, kitte wo {売って|utte} imasu ka.",
+    "sumimasen, {切手|kitte} wo {売って|utte} imasu ka.",
     "verb-て-form + いる = be (in the state of) doing ~"
 ],
 [
@@ -881,7 +881,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 5 stamps please?",
-    "kitte wo {五|go}mai kudasai.",
+    "{切手|kitte} wo {五|go}mai kudasai.",
     ""
 ],
 [
@@ -1016,12 +1016,12 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 3 of this postcard and 3 of the 75 yen stamps as well please?",
-    "{此の|kono} hagaki wo {三|san} mai to {七十五円|nanajuugo en} no kitte mo {三|san} mai kudasai.",
+    "{此の|kono} hagaki wo {三|san} mai to {七十五円|nanajuugo en} no {切手|kitte} mo {三|san} mai kudasai.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "May (I) have 4 stamps please? Where to? To America.",
-    "kitte wo {四|yon} mai kudasai. doko made desu ka. _amerika_ made desu.",
+    "{切手|kitte} wo {四|yon} mai kudasai. doko made desu ka. _amerika_ made desu.",
     ""
 ],
 [
