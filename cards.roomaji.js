@@ -1801,7 +1801,7 @@ Flashcards.initialize([
 ],
 [
     "Let's watch a movie the four of us!",
-    "{四人|yonin} de {映画|eiga} wo mimashou.",
+    "{四人|yonin} de {映画|eiga} wo {見ましょう|mimashou}.",
     ""
 ],
 [
@@ -2431,7 +2431,7 @@ Flashcards.initialize([
 ],
 [
     "Let's try. / I'll give it a try.",
-    "yatte {見ましょう|mimashou}.",
+    "yatte mimashou.",
     ""
 ],
 [
@@ -3028,5 +3028,45 @@ Flashcards.initialize([
     "(It's) a good part/place. (It's) a good place.",
     "{良い|ii} {所|tokoro, toko} desu. {良い|ii} {場所|basho} desu.",
     "{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
+],
+[
+    "(I'm) learning the guitar.",
+    "_gitaa_ wo naratte imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~"
+],
+[
+    "(My) older sister is married.",
+    "{姉|ane} wa {結婚|kekkon} shite imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~"
+],
+[
+    "(My) dad has gone to (and is in) America at the moment.",
+    "{父|chichi} wa {今|ima} _amerika_ ni {行って|itte} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~"
+],
+[
+    "Let's try this sushi!",
+    "{此の|kono} sushi wo {食べて|tabete} {見ましょう|mimashou}.",
+    ""
+],
+[
+    "(I) want (you) to switch off the TV.",
+    "_terebi_ wo keshite hoshii desu.",
+    ""
+],
+[
+    "Have (you) already eaten breakfast? No, (I) haven't eaten yet.",
+    "mou asagohan wo {食べました|tabemashita} ka. iie, {未だ|mada} {食べて|tabete} imasen.",
+    "verb-て-form + いる = be (in the state of) doing ~"
+],
+[
+    "(I) wasn't using the computer last week.",
+    "{先週|senshuu} _konpyuutaa_ wo {使って|tsukatte} imasen deshita.",
+    "verb-て-form + いました = was (in the state of) doing ~"
+],
+[
+    "(I'm) reading a very good book currently.",
+    "{今|ima} totemo {良い|ii} {本|hon} wo {読んで|yonde} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~"
 ]
 ])

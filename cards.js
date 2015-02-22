@@ -1801,7 +1801,7 @@ Flashcards.initialize([
     ],
     [
         "Let's watch a movie the four of us!",
-        "{\u56db\u4eba|\u3088\u306b\u3093}\u3067{\u6620\u753b|\u3048\u3044\u304c}\u3092\u307f\u307e\u3057\u3087\u3046\u3002",
+        "{\u56db\u4eba|\u3088\u306b\u3093}\u3067{\u6620\u753b|\u3048\u3044\u304c}\u3092{\u898b\u307e\u3057\u3087\u3046|\u307f\u307e\u3057\u3087\u3046}\u3002",
         ""
     ],
     [
@@ -2431,7 +2431,7 @@ Flashcards.initialize([
     ],
     [
         "Let's try. / I'll give it a try.",
-        "\u3084\u3063\u3066{\u898b\u307e\u3057\u3087\u3046|\u307f\u307e\u3057\u3087\u3046}\u3002",
+        "\u3084\u3063\u3066\u307f\u307e\u3057\u3087\u3046\u3002",
         ""
     ],
     [
@@ -3028,5 +3028,45 @@ Flashcards.initialize([
         "(It's) a good part/place. (It's) a good place.",
         "{\u826f\u3044|\u3044\u3044}{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053}\u3067\u3059\u3002{\u826f\u3044|\u3044\u3044}{\u5834\u6240|\u3070\u3057\u3087}\u3067\u3059\u3002",
         "{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location"
+    ],
+    [
+        "(I'm) learning the guitar.",
+        "\u30ae\u30bf\u30fc\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~"
+    ],
+    [
+        "(My) older sister is married.",
+        "{\u59c9|\u3042\u306d}\u306f{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}\u3057\u3066\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~"
+    ],
+    [
+        "(My) dad has gone to (and is in) America at the moment.",
+        "{\u7236|\u3061\u3061}\u306f{\u4eca|\u3044\u307e}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~"
+    ],
+    [
+        "Let's try this sushi!",
+        "{\u6b64\u306e|\u3053\u306e}\u3059\u3057\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}{\u898b\u307e\u3057\u3087\u3046|\u307f\u307e\u3057\u3087\u3046}\u3002",
+        ""
+    ],
+    [
+        "(I) want (you) to switch off the TV.",
+        "\u30c6\u30ec\u30d3\u3092\u3051\u3057\u3066\u307b\u3057\u3044\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "Have (you) already eaten breakfast? No, (I) haven't eaten yet.",
+        "\u3082\u3046\u3042\u3055\u3054\u306f\u3093\u3092{\u98df\u3079\u307e\u3057\u305f|\u305f\u3079\u307e\u3057\u305f}\u304b\u3002\u3044\u3044\u3048\u3001{\u672a\u3060|\u307e\u3060}{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3044\u307e\u305b\u3093\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~"
+    ],
+    [
+        "(I) wasn't using the computer last week.",
+        "{\u5148\u9031|\u305b\u3093\u3057\u3085\u3046}\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3092{\u4f7f\u3063\u3066|\u3064\u304b\u3063\u3066}\u3044\u307e\u305b\u3093\u3067\u3057\u305f\u3002",
+        "verb-\u3066-form + \u3044\u307e\u3057\u305f = was (in the state of) doing ~"
+    ],
+    [
+        "(I'm) reading a very good book currently.",
+        "{\u4eca|\u3044\u307e}\u3068\u3066\u3082{\u826f\u3044|\u3044\u3044}{\u672c|\u307b\u3093}\u3092{\u8aad\u3093\u3067|\u3088\u3093\u3067}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~"
     ]
 ])
