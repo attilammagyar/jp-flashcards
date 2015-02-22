@@ -92,7 +92,9 @@ div#stats {
     font-size: 5vmin;
 }
 
-div#stats, div#stats span {
+div#stats,
+div#stats span,
+div#stats a {
     color: #585858;
 }
 

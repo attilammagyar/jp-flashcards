@@ -49,14 +49,23 @@
     Flashcards.initialize = function (cards)
     {
         var html = "",
-            c = Flashcards.formatCards(cards),
-            i, l;
+            focus = String(window.location.href).match(/#(.*)$/),
+            cs, c, i, l;
 
-        for (i = 0, l = c.length; i < l; ++i) {
+        Flashcards.cards = Flashcards.formatCards(cards);
+        cs = Flashcards.closedRange(0, Flashcards.cards.length - 1);
+
+        if (focus) {
+            Flashcards.parseFocus(focus[1]);
+            cs = Flashcards.focus;
+        }
+
+        for (i = 0, l = cs.length; i < l; ++i) {
+            c = Flashcards.cards[cs[i]];
             html += (
-                "<li><dt>" + c[i][0] + "</dt>"
-                + "<dd><p>" + c[i][1] + "</p>"
-                + "<div class=\"notes\">" + c[i][2] + "</div></dd></li>"
+                "<li value=\"" + String(cs[i] + 1) + "\"><dt>" + c[0] + "</dt>"
+                + "<dd><p>" + c[1] + "</p>"
+                + "<div class=\"notes\">" + c[2] + "</div></dd></li>"
             );
         }
 

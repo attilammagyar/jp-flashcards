@@ -16,6 +16,7 @@ Usage
    app generated (e.g. `#!.3a,9,z2.149/A2,9,3`):
    [index.html#!.3a,9,z2.149/A2,9,3][h]
  * List all cards: [all.html][l]
+ * List only the focused cards: [all.html#!.3a,9,z2.149/A2,9,3][m]
 
   [a]: http://attilammagyar.github.io/jp-flashcards/index.html
   [f]: http://attilammagyar.github.io/jp-flashcards/index.html#15
@@ -23,6 +24,7 @@ Usage
   [s]: http://attilammagyar.github.io/jp-flashcards/index.html#1,2,4
   [h]: http://attilammagyar.github.io/jp-flashcards/index.html#!.3a,9,z2.149/A2,9,3
   [l]: http://attilammagyar.github.io/jp-flashcards/all.html
+  [m]: http://attilammagyar.github.io/jp-flashcards/all.html#!.3a,9,z2.149/A2,9,3
 
 Click anywhere to reveal the correct answer, the furigana, to rate your answer
 to the current card, or to jump to the next card. If you rate your answer
@@ -30,7 +32,7 @@ to the current card, or to jump to the next card. If you rate your answer
 in the latter case, the answer will be still counted as good). To remove a card
 from the focus group, rate your answer *Good!*. If the answer to a focused card
 is rated *Better!*, then it is counted as a good answer, but the card is kept
-in the focus group. The more cards in the focus group, the better the chance to
+in the focus group. The more cards in the focus group, the higher the chance to
 get one from them.
 
 You may use the app with my cards online from GitHub using the above links, or
@@ -42,6 +44,9 @@ hash codes that are displayed after each card.
 
 **Note**: even when some cards are selected to be focused on, a card from the
 whole deck will be shown from time to time.
+
+**Note**: click on the focus group length in the statistics at the upper right
+corner to list all the focused cards.
 
 Browser compatibility
 ---------------------

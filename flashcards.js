@@ -497,6 +497,7 @@
             $("stats-bad").innerHTML = Flashcards.bad;
             $("stats-rate").innerHTML = String(rate) + "%";
             $("stats-focus-size").innerHTML = Flashcards.focus.length;
+            $("stats-focus-size").href = "all.html" + hash;
             $("cont-input").value = hash;
             $("cont-link").href = url;
 
