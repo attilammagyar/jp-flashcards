@@ -266,7 +266,7 @@ Flashcards.initialize([
 ],
 [
     "Tonight (it's) quiet and warm.",
-    "{今夜|kon ya} wa shizuka de atatakai desu.",
+    "{今夜|kon ya} wa {静か|shizuka} de atatakai desu.",
     ""
 ],
 [
@@ -361,7 +361,7 @@ Flashcards.initialize([
 ],
 [
     "Is this blue dress beautiful?",
-    "{此の|kono} aoi _doresu_ wa kirei desu ka.",
+    "{此の|kono} {青い|aoi} _doresu_ wa kirei desu ka.",
     ""
 ],
 [
@@ -1596,12 +1596,12 @@ Flashcards.initialize([
 ],
 [
     "blue, black/dark, brown, blonde",
-    "aoi, {黒い|kuroi}, {茶色|chairo}, kinpatsu",
+    "{青い|aoi}, {黒い|kuroi}, {茶色|chairo}, kinpatsu",
     ""
 ],
 [
     "I am tall (with) blue eyes and blonde hair.",
-    "{私|watashi} wa se ga {高くて|takakute}, {目|me} ga aokute, kami ga kinpatsu desu.",
+    "{私|watashi} wa se ga {高くて|takakute}, {目|me} ga {青くて|aokute}, kami ga kinpatsu desu.",
     ""
 ],
 [
@@ -2901,7 +2901,7 @@ Flashcards.initialize([
 ],
 [
     "Let's go in through the window quietly.",
-    "shizuka ni {窓|mado} kara {入りましょう|hairimashou}.",
+    "{静か|shizuka} ni {窓|mado} kara {入りましょう|hairimashou}.",
     ""
 ],
 [
@@ -2976,7 +2976,7 @@ Flashcards.initialize([
 ],
 [
     "(I) completely forgot (it).",
-    "ukkari wasuremashita.",
+    "ukkari {忘れました|wasuremashita}.",
     ""
 ],
 [
