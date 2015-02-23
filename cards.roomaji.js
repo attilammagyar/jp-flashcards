@@ -737,12 +737,12 @@ Flashcards.initialize([
 [
     "Excuse me, do (you) sell stamps?",
     "sumimasen, {切手|kitte} wo {売って|utte} imasu ka.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "Do (you) sell camera batteries?",
     "_kamera_ no denchi wo {売って|utte} imasu ka.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "How much is this folding fan?",
@@ -1417,7 +1417,7 @@ Flashcards.initialize([
 [
     "Excuse me, where is the supermarket? Do you know? {Polite.} Yes, (I) know.",
     "sumimasen, _suupaa_ wa doko ni arimasu ka. gozonji desu ka. hai, {知って|shitte} imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "Go straight ahead (then) cross the pedestrian crossing please.",
@@ -2882,22 +2882,22 @@ Flashcards.initialize([
 [
     "What (are you) doing at the moment?",
     "{今|ima} {何|nani} wo shite imasu ka.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "(I am) reading a Japanese newspaper.",
     "{日本語|nihongo} no {新聞|shinbun} wo {読んで|yonde} imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "(I am) writing a letter to (my) friend.",
     "{友達|tomodachi} ni {手紙|tegami} wo {書いて|kaite} imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "(I am) resting now.",
     "{今|ima} {休んで|yasunde} imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "Let's go in through the window quietly.",
@@ -2997,27 +2997,27 @@ Flashcards.initialize([
 [
     "(I) was reading a Japanese language newspaper.",
     "{日本語|nihongo} no {新聞|shinbun} wo {読んで|yonde} imashita.",
-    "verb-て-form + いました = was (in the state of) doing ~"
+    "verb-て-form + いました = was (in the state of) doing ~, emphasize regular habitual action"
 ],
 [
     "(I) was having a meal with (my) family.",
     "{家族|kazoku} to {食事|shokuji} wo shite imashita.",
-    "verb-て-form + いました = was (in the state of) doing ~"
+    "verb-て-form + いました = was (in the state of) doing ~, emphasize regular habitual action"
 ],
 [
     "(I) was writing a letter to (my) friend.",
     "{友達|tomodachi} ni {手紙|tegami} wo {書いて|kaite} imashita.",
-    "verb-て-form + いました = was (in the state of) doing ~"
+    "verb-て-form + いました = was (in the state of) doing ~, emphasize regular habitual action"
 ],
 [
     "(I) was talking with (my) friends.",
     "{友達|tomodachi} to {話して|hanashite} imashita.",
-    "verb-て-form + いました = was (in the state of) doing ~"
+    "verb-て-form + いました = was (in the state of) doing ~, emphasize regular habitual action"
 ],
 [
     "(I) was buying a kamera at the department store.",
     "_depaato_ de _kamera_ wo {買って|katte} imashita.",
-    "verb-て-form + いました = was (in the state of) doing ~"
+    "verb-て-form + いました = was (in the state of) doing ~, emphasize regular habitual action"
 ],
 [
     "The piano takes up (a lot of) space.",
@@ -3032,17 +3032,17 @@ Flashcards.initialize([
 [
     "(I'm) learning the guitar.",
     "_gitaa_ wo naratte imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "(My) older sister is married.",
     "{姉|ane} wa {結婚|kekkon} shite imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "(My) dad has gone to (and is in) America at the moment.",
     "{父|chichi} wa {今|ima} _amerika_ ni {行って|itte} imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "Let's try this sushi!",
@@ -3057,16 +3057,51 @@ Flashcards.initialize([
 [
     "Have (you) already eaten breakfast? No, (I) haven't eaten yet.",
     "mou asagohan wo {食べました|tabemashita} ka. iie, {未だ|mada} {食べて|tabete} imasen.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "(I) wasn't using the computer last week.",
     "{先週|senshuu} _konpyuutaa_ wo {使って|tsukatte} imasen deshita.",
-    "verb-て-form + いました = was (in the state of) doing ~"
+    "verb-て-form + いました = was (in the state of) doing ~, emphasize regular habitual action"
 ],
 [
     "(I'm) reading a very good book currently.",
     "{今|ima} totemo {良い|ii} {本|hon} wo {読んで|yonde} imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I) eat dinner with (my) family every day. (I) eat dinner with (my) family every day. {emphasize habit}",
+    "{毎日|mainichi} {家族|kazoku} to bangohan wo {食べます|tabemasu}. {毎日|mainichi} {家族|kazoku} to bangohan wo {食べて|tabete} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I) always eat sushi on Saturdays. {emphasize habit}",
+    "{土曜日|doyoubi} ni {何時も|itsumo} sushi wo {食べて|tabete} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I) commute to work by train. {emphasize habit}",
+    "{仕事|shigoto} ni {電車|densha} de kayotte imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "Miki was teaching Japanese in America. {emphasize habit}",
+    "{三木|miki} san wa _amerika_ de {日本語|nihongo} wo {教えて|oshiete} imashita.",
+    "verb-て-form + いました = was (in the state of) doing ~, emphasize regular habitual action"
+],
+[
+    "Roger has entered the room. {and is still there}",
+    "_rojaa_ san wa {部屋|heya} ni {入って|haitte} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(My) parents live in Tokyo.",
+    "ryoushin wa {東京|toukyou} ni sunde imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I) know Tokyo well.",
+    "{東京|toukyou} wo {良く|yoku} {知って|shitte} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ]
 ])
