@@ -2756,7 +2756,7 @@ Flashcards.initialize([
 ],
 [
     "(It's) not allowed to go to the toilet during class.",
-    "jugyou no {間|aida} _toire_ ni {行って|itte} wa ikemasen.",
+    "{授業|jugyou} no {間|aida} _toire_ ni {行って|itte} wa ikemasen.",
     "verb-て-form + は + いけません = doing verb is not allowed"
 ],
 [
