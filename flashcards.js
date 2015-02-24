@@ -28,6 +28,7 @@
         generateNextCardIndex: function ()
         {
             var fc = Flashcards,
+                reset_focus,
                 next_card;
 
             if (fc.shouldChooseRandomCard()) {
@@ -35,8 +36,9 @@
             } else if (fc.shouldChooseFromFocus()) {
                 next_card = fc.focus[fc.focus_pointer];
                 fc.focus_pointer++;
+                reset_focus = Math.min(fc.focus.length, fc.random(3, 15));
 
-                if (fc.focus_pointer >= fc.focus.length) {
+                if (fc.focus_pointer >= reset_focus) {
                     fc.focus_pointer = 0;
                 }
             } else {
