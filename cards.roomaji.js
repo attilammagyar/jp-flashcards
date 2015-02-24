@@ -46,12 +46,12 @@ Flashcards.initialize([
 ],
 [
     "Where is (your) hometown?",
-    "goshusshin wa doko desu ka.",
+    "goshusshin wa {何処|doko} desu ka.",
     ""
 ],
 [
     "Where did (you) come from?",
-    "doko kara {来ました|kimashita}.",
+    "{何処|doko} kara {来ました|kimashita}.",
     ""
 ],
 [
@@ -76,7 +76,7 @@ Flashcards.initialize([
 ],
 [
     "Where are we?",
-    "{此処|koko} wa doko desu ka.",
+    "{此処|koko} wa {何処|doko} desu ka.",
     ""
 ],
 [
@@ -1021,7 +1021,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 4 stamps please? Where to? To America.",
-    "{切手|kitte} wo {四|yon} mai kudasai. doko made desu ka. _amerika_ made desu.",
+    "{切手|kitte} wo {四|yon} mai kudasai. {何処|doko} made desu ka. _amerika_ made desu.",
     ""
 ],
 [
@@ -1076,7 +1076,7 @@ Flashcards.initialize([
 ],
 [
     "Where is the cinema?",
-    "{映画館|eigakan} wa doko ni arimasu ka.",
+    "{映画館|eigakan} wa {何処|doko} ni arimasu ka.",
     ""
 ],
 [
@@ -1121,7 +1121,7 @@ Flashcards.initialize([
 ],
 [
     "Where's the hotel? Do (you) know?",
-    "_hoteru_ wa doko ni arimasu ka. gozonji desu ka.",
+    "_hoteru_ wa {何処|doko} ni arimasu ka. gozonji desu ka.",
     ""
 ],
 [
@@ -1221,7 +1221,7 @@ Flashcards.initialize([
 ],
 [
     "Where is the supermarket? Where is the supermarket located?",
-    "_suupaa_ wa doko desu ka. _suupaa_ wa doko ni arimasu ka.",
+    "_suupaa_ wa {何処|doko} desu ka. _suupaa_ wa {何処|doko} ni arimasu ka.",
     ""
 ],
 [
@@ -1236,7 +1236,7 @@ Flashcards.initialize([
 ],
 [
     "Where is the post office located? (It's located) next door to the bank.",
-    "yuubinkyoku wa doko ni arimasu ka. {銀行|ginkou} no tonari ni arimasu.",
+    "yuubinkyoku wa {何処|doko} ni arimasu ka. {銀行|ginkou} no tonari ni arimasu.",
     ""
 ],
 [
@@ -1316,7 +1316,7 @@ Flashcards.initialize([
 ],
 [
     "Where shall (we) go (to)? Where shall (we) meet (at)?",
-    "doko ni {行きましょう|ikimashou} ka. doko de {会いましょう|aimashou} ka.",
+    "{何処|doko} ni {行きましょう|ikimashou} ka. {何処|doko} de {会いましょう|aimashou} ka.",
     ""
 ],
 [
@@ -1331,7 +1331,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow, won't (we) go somewhere together? Yes, where shall (we) go?",
-    "{明日|ashita} doko ka issho ni {行きません|ikimasen} ka. hai, doko ni {行きましょう|ikimashou} ka.",
+    "{明日|ashita} {何処|doko} ka issho ni {行きません|ikimasen} ka. hai, {何処|doko} ni {行きましょう|ikimashou} ka.",
     ""
 ],
 [
@@ -1416,7 +1416,7 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, where is the supermarket? Do you know? {Polite.} Yes, (I) know.",
-    "sumimasen, _suupaa_ wa doko ni arimasu ka. gozonji desu ka. hai, {知って|shitte} imasu.",
+    "sumimasen, _suupaa_ wa {何処|doko} ni arimasu ka. gozonji desu ka. hai, {知って|shitte} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -2926,7 +2926,7 @@ Flashcards.initialize([
 ],
 [
     "How was the trip to Italy? Where did (you) go?",
-    "_itaria_ {旅行|ryokou} wa dou deshita ka. doko he {行きました|ikimashita} ka.",
+    "_itaria_ {旅行|ryokou} wa dou deshita ka. {何処|doko} he {行きました|ikimashita} ka.",
     ""
 ],
 [
