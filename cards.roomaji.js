@@ -1276,7 +1276,7 @@ Flashcards.initialize([
 ],
 [
     "Please turn left at the first traffic lights.",
-    "{一つ|hitotsu} me no shingou wo {左|hidari} ni magatte kudasai.",
+    "{一つ目|hitotsume} no shingou wo {左|hidari} ni magatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1286,7 +1286,7 @@ Flashcards.initialize([
 ],
 [
     "Go straight ahead, (then) turn right at the second traffic lights.",
-    "massugu {行って|itte}, {二つ|futatsu} me no shingou wo {右|migi} ni magatte kudasai.",
+    "massugu {行って|itte}, {二つ目|futatsume} no shingou wo {右|migi} ni magatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1296,7 +1296,7 @@ Flashcards.initialize([
 ],
 [
     "Turn right at the second traffic lights please.",
-    "{二つ|futatsu} me no shingou wo {右|migi} ni magatte kudasai.",
+    "{二つ目|futatsume} no shingou wo {右|migi} ni magatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1426,7 +1426,7 @@ Flashcards.initialize([
 ],
 [
     "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
-    "{二つ|futatsu} me no shingou wo {左|hidari} ni magatte kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. gekijou no tonari desu.",
+    "{二つ目|futatsume} no shingou wo {左|hidari} ni magatte kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. gekijou no tonari desu.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1781,7 +1781,7 @@ Flashcards.initialize([
 ],
 [
     "I took a bus.",
-    "{私|watashi} wa _basu_ ni norimashita.",
+    "{私|watashi} wa _basu_ ni {乗りました|norimashita}.",
     ""
 ],
 [
@@ -1791,7 +1791,7 @@ Flashcards.initialize([
 ],
 [
     "(I) will go on rides the whole time.",
-    "zutto norimono ni norimasu.",
+    "zutto {乗り物|norimono} ni {乗ります|norimasu}.",
     ""
 ],
 [
@@ -2256,7 +2256,7 @@ Flashcards.initialize([
 ],
 [
     "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {Polite.}",
-    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, {何時も|itsumo} yasai wo yakiniku to issho ni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
+    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, {何時も|itsumo} {野菜|yasai} wo yakiniku to issho ni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
     ""
 ],
 [
