@@ -306,7 +306,7 @@ Flashcards.initialize([
     ],
     [
         "He doesn't work.",
-        "{\u5f7c|\u304b\u308c}\u306f\u306f\u305f\u3089\u304d\u307e\u305b\u3093\u3002",
+        "{\u5f7c|\u304b\u308c}\u306f{\u50cd\u304d\u307e\u305b\u3093|\u306f\u305f\u3089\u304d\u307e\u305b\u3093}\u3002",
         ""
     ],
     [
@@ -336,7 +336,7 @@ Flashcards.initialize([
     ],
     [
         "(I) work until late.",
-        "\u304a\u305d\u304f\u307e\u3067\u306f\u305f\u3089\u304d\u307e\u3059\u3002",
+        "\u304a\u305d\u304f\u307e\u3067{\u50cd\u304d\u307e\u3059|\u306f\u305f\u3089\u304d\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -441,7 +441,7 @@ Flashcards.initialize([
     ],
     [
         "What time do (you) work until?",
-        "{\u4f55\u6642|\u306a\u3093\u3058}\u307e\u3067\u306f\u305f\u3089\u304d\u307e\u3059\u304b\u3002",
+        "{\u4f55\u6642|\u306a\u3093\u3058}\u307e\u3067{\u50cd\u304d\u307e\u3059|\u306f\u305f\u3089\u304d\u307e\u3059}\u304b\u3002",
         ""
     ],
     [
@@ -996,7 +996,7 @@ Flashcards.initialize([
     ],
     [
         "Both (my) mom and dad work in this company.",
-        "{\u6bcd|\u306f\u306f}\u3082{\u7236|\u3061\u3061}\u3082{\u6b64\u306e|\u3053\u306e}{\u4f1a\u793e|\u304b\u3044\u3057\u3083}\u3067\u306f\u305f\u3089\u304d\u307e\u3059\u3002",
+        "{\u6bcd|\u306f\u306f}\u3082{\u7236|\u3061\u3061}\u3082{\u6b64\u306e|\u3053\u306e}{\u4f1a\u793e|\u304b\u3044\u3057\u3083}\u3067{\u50cd\u304d\u307e\u3059|\u306f\u305f\u3089\u304d\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -2311,7 +2311,7 @@ Flashcards.initialize([
     ],
     [
         "Mr. Hondo eats (his) lunch while working.",
-        "\u307b\u3093\u3069\u3046\u3055\u3093\u306f\u306f\u305f\u3089\u304d\u306a\u304c\u3089{\u663c\u3054\u306f\u3093|\u3072\u308b\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
+        "\u307b\u3093\u3069\u3046\u3055\u3093\u306f{\u50cd\u304d\u306a\u304c\u3089|\u306f\u305f\u3089\u304d\u306a\u304c\u3089}{\u663c\u3054\u306f\u3093|\u3072\u308b\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
         "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
     ],
     [
@@ -2456,7 +2456,7 @@ Flashcards.initialize([
     ],
     [
         "Every day (I) work until late in the evening, but the work is very enjoyable.",
-        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u591c|\u3088\u308b}\u304a\u305d\u304f\u307e\u3067\u306f\u305f\u3089\u304d\u307e\u3059\u304c{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306f\u3068\u3066\u3082{\u697d\u3057\u3044|\u305f\u306e\u3057\u3044}\u3067\u3059\u3002",
+        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u591c|\u3088\u308b}\u304a\u305d\u304f\u307e\u3067{\u50cd\u304d\u307e\u3059|\u306f\u305f\u3089\u304d\u307e\u3059}\u304c{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306f\u3068\u3066\u3082{\u697d\u3057\u3044|\u305f\u306e\u3057\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -2466,7 +2466,7 @@ Flashcards.initialize([
     ],
     [
         "(I) want to work in America in the future.",
-        "\u3057\u3087\u3046\u3089\u3044\u30a2\u30e1\u30ea\u30ab\u3067\u306f\u305f\u3089\u304d\u305f\u3044\u3067\u3059\u3002",
+        "\u3057\u3087\u3046\u3089\u3044\u30a2\u30e1\u30ea\u30ab\u3067{\u50cd\u304d\u305f\u3044|\u306f\u305f\u3089\u304d\u305f\u3044}\u3067\u3059\u3002",
         "Verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [

@@ -306,7 +306,7 @@ Flashcards.initialize([
 ],
 [
     "He doesn't work.",
-    "{彼|kare} wa hatarakimasen.",
+    "{彼|kare} wa {働きません|hatarakimasen}.",
     ""
 ],
 [
@@ -336,7 +336,7 @@ Flashcards.initialize([
 ],
 [
     "(I) work until late.",
-    "osoku made hatarakimasu.",
+    "osoku made {働きます|hatarakimasu}.",
     ""
 ],
 [
@@ -441,7 +441,7 @@ Flashcards.initialize([
 ],
 [
     "What time do (you) work until?",
-    "{何時|nanji} made hatarakimasu ka.",
+    "{何時|nanji} made {働きます|hatarakimasu} ka.",
     ""
 ],
 [
@@ -996,7 +996,7 @@ Flashcards.initialize([
 ],
 [
     "Both (my) mom and dad work in this company.",
-    "{母|haha} mo {父|chichi} mo {此の|kono} {会社|kaisha} de hatarakimasu.",
+    "{母|haha} mo {父|chichi} mo {此の|kono} {会社|kaisha} de {働きます|hatarakimasu}.",
     ""
 ],
 [
@@ -2311,7 +2311,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Hondo eats (his) lunch while working.",
-    "hondou san wa hatarakinagara {昼ごはん|hirugohan} wo {食べます|tabemasu}.",
+    "hondou san wa {働きながら|hatarakinagara} {昼ごはん|hirugohan} wo {食べます|tabemasu}.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2456,7 +2456,7 @@ Flashcards.initialize([
 ],
 [
     "Every day (I) work until late in the evening, but the work is very enjoyable.",
-    "{毎日|mainichi} {夜|yoru} osoku made hatarakimasu ga {仕事|shigoto} wa totemo {楽しい|tanoshii} desu.",
+    "{毎日|mainichi} {夜|yoru} osoku made {働きます|hatarakimasu} ga {仕事|shigoto} wa totemo {楽しい|tanoshii} desu.",
     ""
 ],
 [
@@ -2466,7 +2466,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to work in America in the future.",
-    "shourai _amerika_ de hatarakitai desu.",
+    "shourai _amerika_ de {働きたい|hatarakitai} desu.",
     "Verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
