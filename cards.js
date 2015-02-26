@@ -526,7 +526,7 @@ Flashcards.initialize([
     ],
     [
         "Is that an English newspaper?",
-        "{\u5176\u308c|\u305d\u308c}\u306f\u3044\u304e\u308a\u3059\u306e{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3067\u3059\u304b\u3002",
+        "{\u5176\u308c|\u305d\u308c}\u306f\u30a4\u30ae\u30ea\u30b9\u306e{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -896,12 +896,12 @@ Flashcards.initialize([
     ],
     [
         "(There) are some Americans and some Japanese people. (There) aren't (any) English people.",
-        "\u30a2\u30e1\u30ea\u30ab{\u4eba|\u3058\u3093}\u3068{\u65e5\u672c\u4eba|\u306b\u307b\u3093\u3058\u3093}\u304c\u3044\u307e\u3059\u3002\u3044\u304e\u308a\u3059{\u4eba|\u3058\u3093}\u304c\u3044\u307e\u305b\u3093\u3002",
+        "\u30a2\u30e1\u30ea\u30ab{\u4eba|\u3058\u3093}\u3068{\u65e5\u672c\u4eba|\u306b\u307b\u3093\u3058\u3093}\u304c\u3044\u307e\u3059\u3002\u30a4\u30ae\u30ea\u30b9{\u4eba|\u3058\u3093}\u304c\u3044\u307e\u305b\u3093\u3002",
         "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
         "(There) are no English people (but others may be).",
-        "\u3044\u304e\u308a\u3059{\u4eba|\u3058\u3093}\u306f\u3044\u307e\u305b\u3093\u3002",
+        "\u30a4\u30ae\u30ea\u30b9{\u4eba|\u3058\u3093}\u306f\u3044\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -911,7 +911,7 @@ Flashcards.initialize([
     ],
     [
         "(There) are French and English journalists in that office over there.",
-        "\u3042\u306e\u3058\u3080\u3057\u3087\u306b\u30d5\u30e9\u30f3\u30b9{\u4eba|\u3058\u3093}\u3068\u3044\u304e\u308a\u3059{\u4eba|\u3058\u3093}\u306e\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u304c\u3044\u307e\u3059\u3002",
+        "\u3042\u306e\u3058\u3080\u3057\u3087\u306b\u30d5\u30e9\u30f3\u30b9{\u4eba|\u3058\u3093}\u3068\u30a4\u30ae\u30ea\u30b9{\u4eba|\u3058\u3093}\u306e\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u304c\u3044\u307e\u3059\u3002",
         "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
@@ -3042,7 +3042,7 @@ Flashcards.initialize([
     [
         "(My) dad has gone to (and is in) America at the moment.",
         "{\u7236|\u3061\u3061}\u306f{\u4eca|\u3044\u307e}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-\u3066-form + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
     ],
     [
         "Let's try this sushi!",
@@ -3103,5 +3103,20 @@ Flashcards.initialize([
         "(I) know Tokyo well.",
         "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u3092{\u826f\u304f|\u3088\u304f}{\u77e5\u3063\u3066|\u3057\u3063\u3066}\u3044\u307e\u3059\u3002",
         "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "(I) always return home at 6 o'clock. Mr. Yamada has gone home. {and is there now}",
+        "{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u516d\u6642|\u308d\u304f\u3058}\u306b{\u5bb6|\u3046\u3061}\u306b{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066}\u3044\u307e\u3059\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u5bb6|\u3046\u3061}\u306b{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-\u3066-form + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+    ],
+    [
+        "A friend has come. {and is still here}",
+        "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c{\u6765\u3066|\u304d\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-\u3066-form + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+    ],
+    [
+        "(My) parents have gone to Japan. {and are still there} (My) parents have returned to England. {and are staying there permanently}",
+        "\u308a\u3087\u3046\u3057\u3093\u306f{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3044\u307e\u3059\u3002\u308a\u3087\u3046\u3057\u3093\u306f\u30a4\u30ae\u30ea\u30b9\u306b{\u5e30\u308a\u307e\u3057\u305f|\u304b\u3048\u308a\u307e\u3057\u305f}\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-\u3066-form + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
     ]
 ])

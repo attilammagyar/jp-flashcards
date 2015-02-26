@@ -526,7 +526,7 @@ Flashcards.initialize([
 ],
 [
     "Is that an English newspaper?",
-    "{其れ|sore} wa igirisu no {新聞|shinbun} desu ka.",
+    "{其れ|sore} wa _igirisu_ no {新聞|shinbun} desu ka.",
     ""
 ],
 [
@@ -896,12 +896,12 @@ Flashcards.initialize([
 ],
 [
     "(There) are some Americans and some Japanese people. (There) aren't (any) English people.",
-    "_amerika_ {人|jin} to {日本人|nihonjin} ga imasu. igirisu {人|jin} ga imasen.",
+    "_amerika_ {人|jin} to {日本人|nihonjin} ga imasu. _igirisu_ {人|jin} ga imasen.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "(There) are no English people (but others may be).",
-    "igirisu {人|jin} wa imasen.",
+    "_igirisu_ {人|jin} wa imasen.",
     ""
 ],
 [
@@ -911,7 +911,7 @@ Flashcards.initialize([
 ],
 [
     "(There) are French and English journalists in that office over there.",
-    "ano jimusho ni _furansu_ {人|jin} to igirisu {人|jin} no _jaanarisuto_ ga imasu.",
+    "ano jimusho ni _furansu_ {人|jin} to _igirisu_ {人|jin} no _jaanarisuto_ ga imasu.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -3042,7 +3042,7 @@ Flashcards.initialize([
 [
     "(My) dad has gone to (and is in) America at the moment.",
     "{父|chichi} wa {今|ima} _amerika_ ni {行って|itte} imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)"
 ],
 [
     "Let's try this sushi!",
@@ -3103,5 +3103,20 @@ Flashcards.initialize([
     "(I) know Tokyo well.",
     "{東京|toukyou} wo {良く|yoku} {知って|shitte} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I) always return home at 6 o'clock. Mr. Yamada has gone home. {and is there now}",
+    "{何時も|itsumo} {六時|rokuji} ni {家|uchi} ni {帰って|kaette} imasu. {山田|yamada} san wa {家|uchi} ni {帰って|kaette} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)"
+],
+[
+    "A friend has come. {and is still here}",
+    "{友達|tomodachi} ga {来て|kite} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)"
+],
+[
+    "(My) parents have gone to Japan. {and are still there} (My) parents have returned to England. {and are staying there permanently}",
+    "ryoushin wa {日本|nihon} ni {行って|itte} imasu. ryoushin wa _igirisu_ ni {帰りました|kaerimashita}.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)"
 ]
 ])
