@@ -3118,5 +3118,20 @@ Flashcards.initialize([
         "(My) parents have gone to Japan. {and are still there} (My) parents have returned to England. {and are staying there permanently}",
         "\u308a\u3087\u3046\u3057\u3093\u306f{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3044\u307e\u3059\u3002\u308a\u3087\u3046\u3057\u3093\u306f\u30a4\u30ae\u30ea\u30b9\u306b{\u5e30\u308a\u307e\u3057\u305f|\u304b\u3048\u308a\u307e\u3057\u305f}\u3002",
         "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-\u3066-form + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+    ],
+    [
+        "Both Robert and Roger teach English in Japan.",
+        "\u30ed\u30d0\u30fc\u30c8\u3055\u3093\u3082\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u3082{\u65e5\u672c|\u306b\u307b\u3093}\u3067{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u6559\u3048\u3066|\u304a\u3057\u3048\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "Robert has come to Japan from England.",
+        "\u30ed\u30d0\u30fc\u30c8\u3055\u3093\u306f\u30a4\u30ae\u30ea\u30b9\u304b\u3089{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-\u3066-form + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+    ],
+    [
+        "(I) am currently learning flower arrangement.",
+        "{\u4eca|\u3044\u307e}{\u751f\u3051\u82b1|\u3044\u3051\u3070\u306a}\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ]
 ])

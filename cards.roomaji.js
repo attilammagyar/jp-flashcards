@@ -3118,5 +3118,20 @@ Flashcards.initialize([
     "(My) parents have gone to Japan. {and are still there} (My) parents have returned to England. {and are staying there permanently}",
     "ryoushin wa {日本|nihon} ni {行って|itte} imasu. ryoushin wa _igirisu_ ni {帰りました|kaerimashita}.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)"
+],
+[
+    "Both Robert and Roger teach English in Japan.",
+    "_robaato_ san mo _rojaa_ san mo {日本|nihon} de {英語|eigo} wo {教えて|oshiete} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "Robert has come to Japan from England.",
+    "_robaato_ san wa _igirisu_ kara {日本|nihon} ni {来て|kite} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)"
+],
+[
+    "(I) am currently learning flower arrangement.",
+    "{今|ima} {生け花|ikebana} wo naratte imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ]
 ])
