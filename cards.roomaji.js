@@ -106,7 +106,7 @@ Flashcards.initialize([
 ],
 [
     "What is the food (you) hate the most?",
-    "{一番|ichiban} kirai na {食べ物|tabemono} wa {何|nan} desu ka.",
+    "{一番|ichiban} {嫌い|kirai} na {食べ物|tabemono} wa {何|nan} desu ka.",
     ""
 ],
 [
@@ -261,7 +261,7 @@ Flashcards.initialize([
 ],
 [
     "(I) like dogs but (I) hate that dog so much!",
-    "{犬|inu} wa {好き|suki} desu kedo, ano {犬|inu} wa daikirai desu.",
+    "{犬|inu} wa {好き|suki} desu kedo, ano {犬|inu} wa {大嫌い|daikirai} desu.",
     ""
 ],
 [
@@ -1436,7 +1436,7 @@ Flashcards.initialize([
 ],
 [
     "That person is famous you know!",
-    "ano {人|hito} wa yuumei desu yo.",
+    "ano {人|hito} wa {有名|yuumei} desu yo.",
     ""
 ],
 [
@@ -1536,7 +1536,7 @@ Flashcards.initialize([
 ],
 [
     "That person is famous. That is a famous person.",
-    "ano {人|hito} wa yuumei desu. are wa yuumei na {人|hito} desu.",
+    "ano {人|hito} wa {有名|yuumei} desu. are wa {有名|yuumei} na {人|hito} desu.",
     ""
 ],
 [
@@ -1636,7 +1636,7 @@ Flashcards.initialize([
 ],
 [
     "I think he's famous.",
-    "{彼|kare} wa yuumei da to omoimasu.",
+    "{彼|kare} wa {有名|yuumei} da to omoimasu.",
     ""
 ],
 [
@@ -2326,7 +2326,7 @@ Flashcards.initialize([
 ],
 [
     "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
-    "yuumeisou desu. {此の|kono} {映画|eiga} wa tsumaranasou desu. {頭|atama} ga itasou desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
+    "{有名そう|yuumeisou} desu. {此の|kono} {映画|eiga} wa tsumaranasou desu. {頭|atama} ga itasou desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
     "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
@@ -2381,7 +2381,7 @@ Flashcards.initialize([
 ],
 [
     "I hated dogs at first.",
-    "saisho, {私|watashi} wa {犬|inu} ga kirai deshita.",
+    "saisho, {私|watashi} wa {犬|inu} ga {嫌い|kirai} deshita.",
     ""
 ],
 [
@@ -2391,7 +2391,7 @@ Flashcards.initialize([
 ],
 [
     "(I) hate tennis the most, but baseball is the most boring.",
-    "_tenisu_ ga {一番|ichiban} kirai desu ga yakyuu wa {一番|ichiban} tsumaranai desu.",
+    "_tenisu_ ga {一番|ichiban} {嫌い|kirai} desu ga yakyuu wa {一番|ichiban} tsumaranai desu.",
     ""
 ],
 [
