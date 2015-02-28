@@ -31,8 +31,8 @@ div#card {
 
 div#card p {
     padding-top: 3vh;
-    font-size: 7.7vmin;
-    line-height: 9vmin;
+    font-size: 7vmin;
+    line-height: 8.4vmin;
     text-align: center;
     opacity: 1.0;
     transition: opacity 0.3s;
@@ -76,12 +76,16 @@ ruby rt {
     opacity: 0.0;
     transition: opacity 0.3s;
     color: #405070;
-    font-size: 5vmin;
+    font-size: 4.5vmin;
 }
 
 ruby.visible rt {
     opacity: 1.0;
     transition: opacity 0.0s;
+}
+
+div#card div#notes rt {
+    font-size: 3.2vmin;
 }
 
 div#stats {
