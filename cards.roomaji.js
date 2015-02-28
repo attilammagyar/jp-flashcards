@@ -366,7 +366,7 @@ Flashcards.initialize([
 ],
 [
     "(This is my) first time at a Japanese art museum.",
-    "{日本|nihon} no bijutsukan wa hajimete desu.",
+    "{日本|nihon} no bijutsukan wa {初めて|hajimete} desu.",
     ""
 ],
 [
@@ -556,7 +556,7 @@ Flashcards.initialize([
 ],
 [
     "I'm called Natsuko. {Formal.}",
-    "natsuko to moushimasu.",
+    "{夏子|natsuko} to moushimasu.",
     ""
 ],
 [
@@ -1106,7 +1106,7 @@ Flashcards.initialize([
 ],
 [
     "(This) is (my) first time at a sports game.",
-    "_supootsu_ no shiai wa hajimete desu.",
+    "_supootsu_ no shiai wa {初めて|hajimete} desu.",
     ""
 ],
 [
@@ -1166,7 +1166,7 @@ Flashcards.initialize([
 ],
 [
     "Last week (I) watched a movie with Ms. Natsuko.",
-    "{先週|senshuu} natsuko san to {映画|eiga} wo {見ました|mimashita}.",
+    "{先週|senshuu} {夏子|natsuko} san to {映画|eiga} wo {見ました|mimashita}.",
     ""
 ],
 [
@@ -1181,7 +1181,7 @@ Flashcards.initialize([
 ],
 [
     "Ms. Natsuko is inside the theatre. Ms. Natsuko is in the theatre",
-    "natsuko san wa gekijou no {中|naka} ni imasu. natsuko san wa gekijou ni imasu.",
+    "{夏子|natsuko} san wa gekijou no {中|naka} ni imasu. {夏子|natsuko} san wa gekijou ni imasu.",
     ""
 ],
 [
@@ -1201,7 +1201,7 @@ Flashcards.initialize([
 ],
 [
     "Ms. Natsuko is by me.",
-    "natsuko san wa {私|watashi} no {側|soba} ni imasu.",
+    "{夏子|natsuko} san wa {私|watashi} no {側|soba} ni imasu.",
     ""
 ],
 [
@@ -1216,7 +1216,7 @@ Flashcards.initialize([
 ],
 [
     "Who is (there) on the second floor? (It's) Ms. Natsuko (there).",
-    "{二階|nikai} ni {誰|dare} ga imasu ka. natsuko san ga imasu.",
+    "{二階|nikai} ni {誰|dare} ga imasu ka. {夏子|natsuko} san ga imasu.",
     ""
 ],
 [
@@ -1476,7 +1476,7 @@ Flashcards.initialize([
 ],
 [
     "How was (your) date with Ms. Natsuko?",
-    "natsuko san to _deeto_ wa dou deshita ka.",
+    "{夏子|natsuko} san to _deeto_ wa dou deshita ka.",
     ""
 ],
 [
@@ -1511,7 +1511,7 @@ Flashcards.initialize([
 ],
 [
     "I think that Ms. Natsuko is not especially shy.",
-    "natsuko san wa son na ni hazukashigari ja nai to omoimasu.",
+    "{夏子|natsuko} san wa son na ni hazukashigari ja nai to omoimasu.",
     ""
 ],
 [
@@ -1826,7 +1826,7 @@ Flashcards.initialize([
 ],
 [
     "Soon it will be Summer. It will gradually get hotter.",
-    "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
+    "mou sugu {夏|natsu} ni narimasu. dandan atsuku narimasu.",
     "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
@@ -1876,7 +1876,7 @@ Flashcards.initialize([
 ],
 [
     "Natsuko speaks English softly/kindly.",
-    "natsuko san wa yasashiku {英語|eigo} wo {話します|hanashimasu}.",
+    "{夏子|natsuko} san wa yasashiku {英語|eigo} wo {話します|hanashimasu}.",
     "い adj. - い + く = adverb"
 ],
 [
@@ -1936,7 +1936,7 @@ Flashcards.initialize([
 ],
 [
     "spring, summer, autumn, winter",
-    "haru, natsu, aki, fuyu",
+    "haru, {夏|natsu}, aki, fuyu",
     ""
 ],
 [
@@ -1971,7 +1971,7 @@ Flashcards.initialize([
 ],
 [
     "Soon (it) will be summer. (It) will gradually get hot.",
-    "mou sugu natsu ni narimasu. dandan atsuku narimasu.",
+    "mou sugu {夏|natsu} ni narimasu. dandan atsuku narimasu.",
     "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
@@ -2046,7 +2046,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
-    "{明日|ashita} wa samuku narimasu. {雨|ame} {後|nochi} {雪|yuki} deshou. iya desu ne.",
+    "{明日|ashita} wa samuku narimasu. {雨|ame} {後|nochi} {雪|yuki} deshou. {嫌|iya} desu ne.",
     "い adj. - い + く + なる = become ~"
 ],
 [
@@ -2061,7 +2061,7 @@ Flashcards.initialize([
 ],
 [
     "The Summer is from December to February. (It) gradually gets hot.",
-    "natsu wa {十二月|juunigatsu} kara {二月|nigatsu} made desu. dandan atsuku narimasu.",
+    "{夏|natsu} wa {十二月|juunigatsu} kara {二月|nigatsu} made desu. dandan atsuku narimasu.",
     "(New Zealand)\nい adj. - い + く + なる = become ~"
 ],
 [
@@ -2111,7 +2111,7 @@ Flashcards.initialize([
 ],
 [
     "Miki went to the cinema with Natsuko.",
-    "{三木|miki} san wa natsuko san to {映画館|eigakan} ni {行きました|ikimashita}.",
+    "{三木|miki} san wa {夏子|natsuko} san to {映画館|eigakan} ni {行きました|ikimashita}.",
     ""
 ],
 [
@@ -2126,7 +2126,7 @@ Flashcards.initialize([
 ],
 [
     "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
-    "Demo mada {二分|nihun} arimasu. yoyuu desu. natsuko san wa kitto {来ます|kimasu}.",
+    "Demo {未だ|mada} {二分|nihun} arimasu. yoyuu desu. {夏子|natsuko} san wa kitto {来ます|kimasu}.",
     ""
 ],
 [
@@ -2181,7 +2181,7 @@ Flashcards.initialize([
 ],
 [
     "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
-    "{毎朝|maiasa} natsuko san wa _koohii_ wo {飲みながら|nominagara} {新聞|shinbun} wo {読みます|yomimasu}.",
+    "{毎朝|maiasa} {夏子|natsuko} san wa _koohii_ wo {飲みながら|nominagara} {新聞|shinbun} wo {読みます|yomimasu}.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2191,7 +2191,7 @@ Flashcards.initialize([
 ],
 [
     "Ms. Natsuko went to the town to meet Miki.",
-    "natsuko san wa {町|machi} he {三木|miki} san ni {会い|ai} ni {行きました|ikimashita}.",
+    "{夏子|natsuko} san wa {町|machi} he {三木|miki} san ni {会い|ai} ni {行きました|ikimashita}.",
     "へ = to, towards, pronounced as え\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
@@ -2266,7 +2266,7 @@ Flashcards.initialize([
 ],
 [
     "(I) bought the ticket for Ms. Natsuko as well.",
-    "natsuko san no tame ni mo kippu wo {買いました|kaimashita}.",
+    "{夏子|natsuko} san no tame ni mo kippu wo {買いました|kaimashita}.",
     "Noun + の + ため + に + Verb = do Verb for the benefit of / in order to Noun"
 ],
 [
@@ -2296,7 +2296,7 @@ Flashcards.initialize([
 ],
 [
     "Ms. Natsuko drank green tea while listening to the news.",
-    "natsuko san wa _nyuusu_ wo {聞きながら|kikinagara} {お茶|ocha} wo {飲みました|nomimashita}.",
+    "{夏子|natsuko} san wa _nyuusu_ wo {聞きながら|kikinagara} {お茶|ocha} wo {飲みました|nomimashita}.",
     "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
 ],
 [
@@ -2321,7 +2321,7 @@ Flashcards.initialize([
 ],
 [
     "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
-    "{私|watashi} wa natsuko san to _resutoran_ he washoku wo {食べ|tabe} ni {行きました|ikimashita}.",
+    "{私|watashi} wa {夏子|natsuko} san to _resutoran_ he washoku wo {食べ|tabe} ni {行きました|ikimashita}.",
     "へ = to, towards, pronounced as え\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
@@ -2351,7 +2351,7 @@ Flashcards.initialize([
 ],
 [
     "\"You can call me Natsuko, you know.\" (Natsuko is OK.)",
-    "natsuko de {良い|ii} desu yo.",
+    "{夏子|natsuko} de {良い|ii} desu yo.",
     ""
 ],
 [
@@ -2476,7 +2476,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
-    "{明日|ashita} natsuko san to issho ni {町|machi} he {映画|eiga} wo {見に|mini} {行きます|ikimasu}.",
+    "{明日|ashita} {夏子|natsuko} san to issho ni {町|machi} he {映画|eiga} wo {見に|mini} {行きます|ikimasu}.",
     "(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
 ],
 [
