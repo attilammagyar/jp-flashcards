@@ -32,6 +32,7 @@ verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by las
 verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result
 motion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)
 verb-て-form + いました = was (in the state of) doing ~, emphasize regular habitual action
+verb-て-form + みる = try doing ~
 verb-て-form + から = after doing verb, ...
 verb-て-form + は + いけません = doing verb is not allowed
 verb-て-form + は + だめ = must not do verb

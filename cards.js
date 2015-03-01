@@ -3133,5 +3133,25 @@ Flashcards.initialize([
         "(I) am currently learning flower arrangement.",
         "{\u4eca|\u3044\u307e}{\u751f\u3051\u82b1|\u3044\u3051\u3070\u306a}\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
         "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "(I) want to try going to Japan by myself.",
+        "{\u4e00\u4eba|\u3072\u3068\u308a}\u3067{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u307f\u305f\u3044\u3067\u3059\u3002",
+        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+    ],
+    [
+        "If (you) try (it, it's) easy.",
+        "\u3084\u3063\u3066\u307f\u308b\u3068\u304b\u3093\u305f\u3093\u3067\u3059\u3002",
+        "verb-\u3066-form + \u307f\u308b = try doing ~\nA-dictionary-form \u3068B = if A then B"
+    ],
+    [
+        "(I) want to try drinking Japanese beer.",
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306e\u30d3\u30fc\u30eb\u304a{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u307f\u305f\u3044\u3067\u3059\u3002",
+        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+    ],
+    [
+        "May (I) try phoning Mr. Yamada?",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3092\u3057\u3066\u307f\u3066\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
+        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
     ]
 ])

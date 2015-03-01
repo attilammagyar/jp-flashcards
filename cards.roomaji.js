@@ -3133,5 +3133,25 @@ Flashcards.initialize([
     "(I) am currently learning flower arrangement.",
     "{今|ima} {生け花|ikebana} wo naratte imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I) want to try going to Japan by myself.",
+    "{一人|hitori} de {日本|nihon} ni {行って|itte} mitai desu.",
+    "verb-て-form + みる = try doing ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+],
+[
+    "If (you) try (it, it's) easy.",
+    "yatte miru to kantan desu.",
+    "verb-て-form + みる = try doing ~\nA-dictionary-form とB = if A then B"
+],
+[
+    "(I) want to try drinking Japanese beer.",
+    "{日本|nihon} no _biiru_ o {飲んで|nonde} mitai desu.",
+    "verb-て-form + みる = try doing ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+],
+[
+    "May (I) try phoning Mr. Yamada?",
+    "{山田|yamada} san ni {電話|denwa} wo shite mite mo {良い|ii} desu ka.",
+    "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ]
 ])
