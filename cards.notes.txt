@@ -6,7 +6,7 @@ A-dictionary-form とB = if A then B
 な adj. + に = adverb
 い adj. - い + く = adverb
 い adj. - い + く + なる = become ~
-Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)
+adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)
 と: complete list
 や: incomplete list
 とくい is more modest than じょうず
@@ -14,20 +14,20 @@ Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opi
 ~たい: may use が instead of を
 ~たい + negative: if topic is not mentioned then は can be used instead of が
 くない = negative of い adj
-Noun/な adj + に + なる = become ~
-Noun A + の + ため + の + Noun B = Noun B (is) for the benefit of Noun A
-Noun + の + ため + に + Verb = do Verb for the benefit of / in order to Noun
-Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)
-Noun + に + ついて = about Noun
-Noun を Verb --> Noun の Verb stem + {方|kata}
+noun/な adj + に + なる = become ~
+noun A + の + ため + の + noun B = noun B (is) for the benefit of noun A
+noun + の + ため + に + verb = do verb for the benefit of / in order to noun
+noun + で + verb = do verb with/using/at noun (place of action or by-means-of)
+noun + に + ついて = about noun
+noun を verb --> noun の verb stem + {方|kata}
 くなかった = past negative of い adj.
 かった = past tense of い adj.
-(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb
+(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb
 {上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.
 stem of adj. or continuative base of verb + ~すぎる = too much ~, over~
 とくい/にがて: talents, academic/professional skills, strong/weak points
 へ = to, towards, pronounced as え
-Verb A (dictionary form) + ため + に + Verb B = do Verb B in order to Verb A
+verb A (dictionary form) + ため + に + verb B = do verb B in order to verb A
 verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence
 verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result
 motion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)
@@ -38,9 +38,9 @@ verb-て-form + は + いけません = doing verb is not allowed
 verb-て-form + は + だめ = must not do verb
 verb-て-form + ください = request
 verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb
-Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same
-Verb stem + たい = want to ~
-Verb stem + たい = want to ~ (verb --> い adj.)
-Verb stem + {方|kata} = how to do Verb (Verb --> Noun)
+verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same
+verb stem + たい = want to ~
+verb stem + たい = want to ~ (verb --> い adj.)
+verb stem + {方|kata} = how to do verb (verb --> noun)
 {所|ところ、とこ} = physical or abstract location, part, point
 {場所|ばしょ} = physical location

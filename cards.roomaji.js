@@ -172,7 +172,7 @@ Flashcards.initialize([
 [
     "Let's eat dinner at that restaurant over there!",
     "ano _resutoran_ de bangohan wo {食べましょう|tabemashou}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
     "Tomorrow (I'm) going to France.",
@@ -292,7 +292,7 @@ Flashcards.initialize([
 [
     "Tomorrow (I) will eat with (my) family at the restaurant.",
     "{明日|ashita} {家族|kazoku} to _resutoran_ de {食べます|tabemasu}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
     "I eat lunch at the company every day.",
@@ -342,7 +342,7 @@ Flashcards.initialize([
 [
     "And then (I) frequently eat dinner with (my) colleagues at a restaurant.",
     "soshite {度々|tabitabi} jimusho no {人|hito} to _resutoran_ de bangohan wo {食べます|tabemasu}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
     "Sometimes (I) play golf with (my) colleagues, but usually (I) chill out with (my) family at home.",
@@ -1347,12 +1347,12 @@ Flashcards.initialize([
 [
     "(We) met at 7 o'clock at the restaurant.",
     "{七時|shichi ji} ni _resutoran_ de {会いました|aimashita}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
     "(I) want to eat rice with chopsticks.",
     "ohashi de gohan wo {食べたい|tabetai} desu.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\n~たい is usually used only in first person or in questions for the second person"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to buy a Japanese camera.",
@@ -1822,12 +1822,12 @@ Flashcards.initialize([
 [
     "Mr. Yamada went to Osaka by bullet train.",
     "{山田|yamada} san wa shinkansen de ousaka ni {行きました|ikimashita}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
 ],
 [
     "Soon it will be Summer. It will gradually get hotter.",
     "mou sugu {夏|natsu} ni narimasu. dandan atsuku narimasu.",
-    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
+    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -1882,7 +1882,7 @@ Flashcards.initialize([
 [
     "6 o'clock has come.",
     "{六時|rokuji} ni narimashita.",
-    "Noun/な adj. + に + なる = become ~"
+    "noun/な adj. + に + なる = become ~"
 ],
 [
     "(It) gradually gets hotter.",
@@ -1892,7 +1892,7 @@ Flashcards.initialize([
 [
     "Miki has got good at bowling.",
     "{三木|miki} san wa _booringu_ ga {上手|jouzu} ni narimashita.",
-    "Noun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "noun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "Happy New Year!",
@@ -1907,7 +1907,7 @@ Flashcards.initialize([
 [
     "If (you) study every day, (your) Japanese will get skilled.",
     "{毎日|mai nichi} {勉強|benkyou} suru to {日本語|nihongo} ga {上手|jouzu} ni narimasu.",
-    "A-dictionary-form とB = if A then B\nNoun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "A-dictionary-form とB = if A then B\nnoun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -1967,42 +1967,42 @@ Flashcards.initialize([
 [
     "Soon (it) will be spring. (It) will gradually get warm.",
     "mou sugu haru ni narimasu. dandan atatakaku narimasu.",
-    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
+    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be summer. (It) will gradually get hot.",
     "mou sugu {夏|natsu} ni narimasu. dandan atsuku narimasu.",
-    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
+    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be winter. (It) will gradually get cold.",
     "mou sugu fuyu ni narimasu. dandan samuku narimasu.",
-    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
+    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be autumn. (It) will gradually get cool.",
     "mou sugu aki ni narimasu. dandan suzushiku narimasu.",
-    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
+    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "How did (you) go (there)? (I) went by train.",
     "dou yatte {行きました|ikimashita} ka. {電車|densha} de {行きました|ikimashita}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
     "(I) went to the town by bus.",
     "{町|machi} ni _basu_ de {行きました|ikimashita}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
 ],
 [
     "(I) went to (my) mom's house by car.",
     "{母|haha} no {家|uchi} ni {車|kuruma} de {行きました|ikimashita}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
 ],
 [
     "(I) went to New York by train.",
     "{電車|densha} de _nyuu yooku_ ni {行きました|ikimashita}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
 ],
 [
     "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
@@ -2012,7 +2012,7 @@ Flashcards.initialize([
 [
     "(I) wrote the letter in Japanese.",
     "{日本語|nihongo} de {手紙|tegami} wo {書きました|kakimashita}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
@@ -2132,42 +2132,42 @@ Flashcards.initialize([
 [
     "(I) want to be a doctor.",
     "{医者|isha} ni naritai desu.",
-    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a writer.",
     "sakka ni naritai desu.",
-    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a policeman.",
     "keisatsukan ni naritai desu.",
-    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a lawyer.",
     "bengoshi ni naritai desu.",
-    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be an astronaut.",
     "uchuu hikoushi ni naritai desu.",
-    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a bank-worker.",
     "ginkouin ni naritai desu.",
-    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "When (I) was a child, (I) wanted to be a film star.",
     "{子供|kodomo} no koro, {映画|eiga} _sutaa_ ni naritakatta desu.",
-    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "When (I) was a child, (I) wanted to be a firefighter.",
     "{子供|kodomo} no koro, shouboushi ni naritakatta desu.",
-    "Noun/な adj. + に + なる = become ~\nVerb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) didn't want to drink alcohol.",
@@ -2182,22 +2182,22 @@ Flashcards.initialize([
 [
     "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
     "{毎朝|maiasa} {夏子|natsuko} san wa _koohii_ wo {飲みながら|nominagara} {新聞|shinbun} wo {読みます|yomimasu}.",
-    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
 ],
 [
     "Roger taught Miki how to do bowling.",
     "_rojaa_ san wa {三木|miki} san ni _booringu_ no {仕方|shikata} wo {教えました|oshiemashita}.",
-    "Verb stem + {方|kata} = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + {方|kata}"
+    "verb stem + {方|kata} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|kata}"
 ],
 [
     "Ms. Natsuko went to the town to meet Miki.",
     "{夏子|natsuko} san wa {町|machi} he {三木|miki} san ni {会い|ai} ni {行きました|ikimashita}.",
-    "へ = to, towards, pronounced as え\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
+    "へ = to, towards, pronounced as え\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
     "This film looks interesting, doesn't it?",
     "{此の|kono} {映画|eiga} wa {面白そう|omoshirosou} desu ne.",
-    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
     "Roger likes sports the best/most.",
@@ -2207,7 +2207,7 @@ Flashcards.initialize([
 [
     "(I) want to be a doctor in the future.",
     "shourai {医者|isha} ni naritai desu.",
-    "Verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Mr. Yamada works every day until late.",
@@ -2267,22 +2267,22 @@ Flashcards.initialize([
 [
     "(I) bought the ticket for Ms. Natsuko as well.",
     "{夏子|natsuko} san no tame ni mo kippu wo {買いました|kaimashita}.",
-    "Noun + の + ため + に + Verb = do Verb for the benefit of / in order to Noun"
+    "noun + の + ため + に + verb = do verb for the benefit of / in order to noun"
 ],
 [
     "I studied for the test.",
     "{私|watashi} wa shiken no tame ni {勉強|benkyou} shimashita.",
-    "Noun + の + ため + に + Verb = do Verb for the benefit of / in order to Noun"
+    "noun + の + ため + に + verb = do verb for the benefit of / in order to noun"
 ],
 [
     "This is a book for children.",
     "{此れ|kore} wa {子供|kodomo} no tame no {本|hon} desu.",
-    "Noun A + の + ため + の + Noun B = Noun B (is) for the benefit of Noun A"
+    "noun A + の + ため + の + noun B = noun B (is) for the benefit of noun A"
 ],
 [
     "(I) will study Japanese in order to read manga.",
     "manga wo {読む|yomu} tame ni {日本語|nihongo} wo {勉強|benkyou} shimasu.",
-    "Verb A (dictionary form) + ため + に + Verb B = do Verb B in order to Verb A"
+    "verb A (dictionary form) + ため + に + verb B = do verb B in order to verb A"
 ],
 [
     "I'm bad at bowling. He's good at bowling. I'm poor at English. He's good at Japanese.",
@@ -2297,47 +2297,47 @@ Flashcards.initialize([
 [
     "Ms. Natsuko drank green tea while listening to the news.",
     "{夏子|natsuko} san wa _nyuusu_ wo {聞きながら|kikinagara} {お茶|ocha} wo {飲みました|nomimashita}.",
-    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
 ],
 [
     "Naoe talked to Yuki while making a meal.",
     "naoe san wa {食事|shokuji} wo {作りながら|tsukurinagara} yuki san to {話しました|hanashimashita}.",
-    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
 ],
 [
     "Robert wrote kanji while listening to music.",
     "_robaato_ san wa {音楽|ongaku} wo {聞きながら|kikinagara} kanji wo {書きました|kakimashita}.",
-    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
 ],
 [
     "Mr. Hondo eats (his) lunch while working.",
     "hondou san wa {働きながら|hatarakinagara} {昼ごはん|hirugohan} wo {食べます|tabemasu}.",
-    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
 ],
 [
     "Rie taught Roger how to make sushi.",
     "rie san wa _rojaa_ san ni sushi no {作りかた|tsukurikata} wo {教えました|oshiemashita}.",
-    "Verb stem + {方|kata} = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + {方|kata}"
+    "verb stem + {方|kata} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|kata}"
 ],
 [
     "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
     "{私|watashi} wa {夏子|natsuko} san to _resutoran_ he washoku wo {食べ|tabe} ni {行きました|ikimashita}.",
-    "へ = to, towards, pronounced as え\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
+    "へ = to, towards, pronounced as え\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
     "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
     "{有名そう|yuumeisou} desu. {此の|kono} {映画|eiga} wa tsumaranasou desu. {頭|atama} ga itasou desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
-    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
     "(She) looks very beautiful, doesn't she?",
     "totemo utsukushisou desu ne.",
-    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
     "(It) looks like (it) will rain.",
     "{雨|ame} ga furisou desu.",
-    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
     "What do (you) do in (your) free time? For example, what are (your) hobbies?",
@@ -2447,12 +2447,12 @@ Flashcards.initialize([
 [
     "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
     "boku no {車|kuruma} de {行きましょう|ikimashou}. {十二時|juuniji} ni anata no _apaato_ he mukae ni {行きます|ikimasu}.",
-    "Noun + で + Verb = do Verb with/using/at Noun (place of action or by-means-of)\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
     "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
     "{子供|kodomo} no koro, shouboushi ni naritakatta desu ga, {実|jitsu} wa, _jaanarisuto_ ni narimashita.",
-    "Noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~\nVerb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Every day (I) work until late in the evening, but the work is very enjoyable.",
@@ -2462,37 +2462,37 @@ Flashcards.initialize([
 [
     "(I) frequently do my work at home while having a meal, but it can't be helped.",
     "{度々|tabitabi} {家|uchi} de {食事|shokuji} wo shinagara {仕事|shigoto} wo shimasu ga {仕方|shikata} ga arimasen.",
-    "Verb stem + ながら + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
 ],
 [
     "(I) want to work in America in the future.",
     "shourai _amerika_ de {働きたい|hatarakitai} desu.",
-    "Verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
     "_amerika_ no seikatsu wa {面白そう|omoshirosou} desu ga {東京|toukyou} no seikatsu ga {一番|ichiban} {好き|suki} desu.",
-    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
     "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
     "{明日|ashita} {夏子|natsuko} san to issho ni {町|machi} he {映画|eiga} wo {見に|mini} {行きます|ikimasu}.",
-    "(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
+    "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
     "A filmstar's lifestyle looks unpleasant, doesn't it?",
     "{映画|eiga} _sutaa_ no seikatsu wa fuyukaisou desu ne.",
-    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
     "(I) don't know how to make cakes.",
     "_keeki_ no {作り方|tsukurikata} ga {分かりません|wakarimasen}.",
-    "Verb stem + {方|kata} = how to do Verb (Verb --> Noun)\nNoun を Verb --> Noun の Verb stem + {方|kata}"
+    "verb stem + {方|kata} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|kata}"
 ],
 [
     "Miki looks like (she) will eat that sushi, doesn't she?",
     "{三木|miki} san wa {其の|sono} sushi wo {食べそう|tabesou} desu ne.",
-    "Adj. stem/Verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
     "(I) liked watching movies very much.",
@@ -2602,7 +2602,7 @@ Flashcards.initialize([
 [
     "On Mondays, (I) study Japanese, then (I) go to a restaurant to eat lunch.",
     "{月曜日|getsuyoubi} ni {日本語|nihongo} wo {勉強|benkyou} shite, _resutoran_ he {昼ごはん|hirugohan} wo {食べ|tabe} ni {行きます|ikimasu}.",
-    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(Place + へ/に) + Verb stem + に + {行く|いく} = go to Place to do Verb"
+    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
     "Before long (after short), (we) will get home.",
@@ -2617,7 +2617,7 @@ Flashcards.initialize([
 [
     "Nowadays (I) don't want to drink coffee very much.",
     "konogoro _koohii_ wo {余り|amari} {飲みたくない|nomitakunai} desu.",
-    "Verb stem + たい = want to ~"
+    "verb stem + たい = want to ~"
 ],
 [
     "(There are) too many orders, (it) takes time.",
@@ -2772,7 +2772,7 @@ Flashcards.initialize([
 [
     "Occasionally (I) meet with a university teacher and (we) talk about studies.",
     "tamani {大学|daigaku} no {先生|sensei} to {会って|atte}, {勉強|benkyou} ni tsuite {話します|hanashimasu}.",
-    "Noun + に + ついて = about Noun\nverb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "noun + に + ついて = about noun\nverb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
     "Every night, together with the band members, (we) do the band's rehearsals.",

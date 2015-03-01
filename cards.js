@@ -172,7 +172,7 @@ Flashcards.initialize([
     [
         "Let's eat dinner at that restaurant over there!",
         "\u3042\u306e\u30ec\u30b9\u30c8\u30e9\u30f3\u3067\u3070\u3093\u3054\u306f\u3093\u3092{\u98df\u3079\u307e\u3057\u3087\u3046|\u305f\u3079\u307e\u3057\u3087\u3046}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)"
     ],
     [
         "Tomorrow (I'm) going to France.",
@@ -292,7 +292,7 @@ Flashcards.initialize([
     [
         "Tomorrow (I) will eat with (my) family at the restaurant.",
         "{\u660e\u65e5|\u3042\u3057\u305f}{\u5bb6\u65cf|\u304b\u305e\u304f}\u3068\u30ec\u30b9\u30c8\u30e9\u30f3\u3067{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)"
     ],
     [
         "I eat lunch at the company every day.",
@@ -342,7 +342,7 @@ Flashcards.initialize([
     [
         "And then (I) frequently eat dinner with (my) colleagues at a restaurant.",
         "\u305d\u3057\u3066{\u5ea6\u3005|\u305f\u3073\u305f\u3073}\u3058\u3080\u3057\u3087\u306e{\u4eba|\u3072\u3068}\u3068\u30ec\u30b9\u30c8\u30e9\u30f3\u3067\u3070\u3093\u3054\u306f\u3093\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)"
     ],
     [
         "Sometimes (I) play golf with (my) colleagues, but usually (I) chill out with (my) family at home.",
@@ -1347,12 +1347,12 @@ Flashcards.initialize([
     [
         "(We) met at 7 o'clock at the restaurant.",
         "{\u4e03\u6642|\u3057\u3061\u3058}\u306b\u30ec\u30b9\u30c8\u30e9\u30f3\u3067{\u4f1a\u3044\u307e\u3057\u305f|\u3042\u3044\u307e\u3057\u305f}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)"
     ],
     [
         "(I) want to eat rice with chopsticks.",
         "\u304a\u306f\u3057\u3067\u3054\u306f\u3093\u3092{\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}\u3067\u3059\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to buy a Japanese camera.",
@@ -1822,12 +1822,12 @@ Flashcards.initialize([
     [
         "Mr. Yamada went to Osaka by bullet train.",
         "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3057\u3093\u304b\u3093\u305b\u3093\u3067\u304a\u3046\u3055\u304b\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
         "Soon it will be Summer. It will gradually get hotter.",
         "\u3082\u3046\u3059\u3050{\u590f|\u306a\u3064}\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -1882,7 +1882,7 @@ Flashcards.initialize([
     [
         "6 o'clock has come.",
         "{\u516d\u6642|\u308d\u304f\u3058}\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~"
     ],
     [
         "(It) gradually gets hotter.",
@@ -1892,7 +1892,7 @@ Flashcards.initialize([
     [
         "Miki has got good at bowling.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Happy New Year!",
@@ -1907,7 +1907,7 @@ Flashcards.initialize([
     [
         "If (you) study every day, (your) Japanese will get skilled.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3059\u308b\u3068{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u304c{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u306b\u306a\u308a\u307e\u3059\u3002",
-        "A-dictionary-form \u3068B = if A then B\nNoun/\u306a adj. + \u306b + \u306a\u308b = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "A-dictionary-form \u3068B = if A then B\nnoun/\u306a adj. + \u306b + \u306a\u308b = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Since (I) saw photos of Japan, (I) got wanting to go.",
@@ -1967,42 +1967,42 @@ Flashcards.initialize([
     [
         "Soon (it) will be spring. (It) will gradually get warm.",
         "\u3082\u3046\u3059\u3050\u306f\u308b\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u305f\u305f\u304b\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Soon (it) will be summer. (It) will gradually get hot.",
         "\u3082\u3046\u3059\u3050{\u590f|\u306a\u3064}\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Soon (it) will be winter. (It) will gradually get cold.",
         "\u3082\u3046\u3059\u3050\u3075\u3086\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "Soon (it) will be autumn. (It) will gradually get cool.",
         "\u3082\u3046\u3059\u3050\u3042\u304d\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3059\u305a\u3057\u304f\u306a\u308a\u307e\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
         "How did (you) go (there)? (I) went by train.",
         "\u3069\u3046\u3084\u3063\u3066{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u304b\u3002{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)"
     ],
     [
         "(I) went to the town by bus.",
         "{\u753a|\u307e\u3061}\u306b\u30d0\u30b9\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
         "(I) went to (my) mom's house by car.",
         "{\u6bcd|\u306f\u306f}\u306e{\u5bb6|\u3046\u3061}\u306b{\u8eca|\u304f\u308b\u307e}\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
         "(I) went to New York by train.",
         "{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u3067\u30cb\u30e5\u30fc\u30fb\u30e8\u30fc\u30af\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
     ],
     [
         "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
@@ -2012,7 +2012,7 @@ Flashcards.initialize([
     [
         "(I) wrote the letter in Japanese.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3067{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u304d\u307e\u3057\u305f|\u304b\u304d\u307e\u3057\u305f}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)"
     ],
     [
         "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
@@ -2132,42 +2132,42 @@ Flashcards.initialize([
     [
         "(I) want to be a doctor.",
         "{\u533b\u8005|\u3044\u3057\u3083}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a writer.",
         "\u3055\u3063\u304b\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a policeman.",
         "\u3051\u3044\u3055\u3064\u304b\u3093\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a lawyer.",
         "\u3079\u3093\u3054\u3057\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be an astronaut.",
         "\u3046\u3061\u3085\u3046\u3072\u3053\u3046\u3057\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a bank-worker.",
         "\u304e\u3093\u3053\u3046\u3044\u3093\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "When (I) was a child, (I) wanted to be a film star.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u3053\u308d\u3001{\u6620\u753b|\u3048\u3044\u304c}\u30b9\u30bf\u30fc\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "When (I) was a child, (I) wanted to be a firefighter.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u3053\u308d\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) didn't want to drink alcohol.",
@@ -2182,22 +2182,22 @@ Flashcards.initialize([
     [
         "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
         "{\u6bce\u671d|\u307e\u3044\u3042\u3055}{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306f\u30b3\u30fc\u30d2\u30fc\u3092{\u98f2\u307f\u306a\u304c\u3089|\u306e\u307f\u306a\u304c\u3089}{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3092{\u8aad\u307f\u307e\u3059|\u3088\u307f\u307e\u3059}\u3002",
-        "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+        "verb stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
     ],
     [
         "Roger taught Miki how to do bowling.",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b\u30dc\u30fc\u30ea\u30f3\u30b0\u306e{\u4ed5\u65b9|\u3057\u304b\u305f}\u3092{\u6559\u3048\u307e\u3057\u305f|\u304a\u3057\u3048\u307e\u3057\u305f}\u3002",
-        "Verb stem + {\u65b9|\u304b\u305f} = how to do Verb (Verb --> Noun)\nNoun \u3092 Verb --> Noun \u306e Verb stem + {\u65b9|\u304b\u305f}"
+        "verb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nnoun \u3092 verb --> noun \u306e verb stem + {\u65b9|\u304b\u305f}"
     ],
     [
         "Ms. Natsuko went to the town to meet Miki.",
         "{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306f{\u753a|\u307e\u3061}\u3078{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b{\u4f1a\u3044|\u3042\u3044}\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "\u3078 = to, towards, pronounced as \u3048\n(Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
+        "\u3078 = to, towards, pronounced as \u3048\n(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
     ],
     [
         "This film looks interesting, doesn't it?",
         "{\u6b64\u306e|\u3053\u306e}{\u6620\u753b|\u3048\u3044\u304c}\u306f{\u9762\u767d\u305d\u3046|\u304a\u3082\u3057\u308d\u305d\u3046}\u3067\u3059\u306d\u3002",
-        "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
     ],
     [
         "Roger likes sports the best/most.",
@@ -2207,7 +2207,7 @@ Flashcards.initialize([
     [
         "(I) want to be a doctor in the future.",
         "\u3057\u3087\u3046\u3089\u3044{\u533b\u8005|\u3044\u3057\u3083}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "Verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "Mr. Yamada works every day until late.",
@@ -2267,22 +2267,22 @@ Flashcards.initialize([
     [
         "(I) bought the ticket for Ms. Natsuko as well.",
         "{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306e\u305f\u3081\u306b\u3082\u304d\u3063\u3077\u3092{\u8cb7\u3044\u307e\u3057\u305f|\u304b\u3044\u307e\u3057\u305f}\u3002",
-        "Noun + \u306e + \u305f\u3081 + \u306b + Verb = do Verb for the benefit of / in order to Noun"
+        "noun + \u306e + \u305f\u3081 + \u306b + verb = do verb for the benefit of / in order to noun"
     ],
     [
         "I studied for the test.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u3057\u3051\u3093\u306e\u305f\u3081\u306b{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u307e\u3057\u305f\u3002",
-        "Noun + \u306e + \u305f\u3081 + \u306b + Verb = do Verb for the benefit of / in order to Noun"
+        "noun + \u306e + \u305f\u3081 + \u306b + verb = do verb for the benefit of / in order to noun"
     ],
     [
         "This is a book for children.",
         "{\u6b64\u308c|\u3053\u308c}\u306f{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u305f\u3081\u306e{\u672c|\u307b\u3093}\u3067\u3059\u3002",
-        "Noun A + \u306e + \u305f\u3081 + \u306e + Noun B = Noun B (is) for the benefit of Noun A"
+        "noun A + \u306e + \u305f\u3081 + \u306e + noun B = noun B (is) for the benefit of noun A"
     ],
     [
         "(I) will study Japanese in order to read manga.",
         "\u307e\u3093\u304c\u3092{\u8aad\u3080|\u3088\u3080}\u305f\u3081\u306b{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u307e\u3059\u3002",
-        "Verb A (dictionary form) + \u305f\u3081 + \u306b + Verb B = do Verb B in order to Verb A"
+        "verb A (dictionary form) + \u305f\u3081 + \u306b + verb B = do verb B in order to verb A"
     ],
     [
         "I'm bad at bowling. He's good at bowling. I'm poor at English. He's good at Japanese.",
@@ -2297,47 +2297,47 @@ Flashcards.initialize([
     [
         "Ms. Natsuko drank green tea while listening to the news.",
         "{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306f\u30cb\u30e5\u30fc\u30b9\u3092{\u805e\u304d\u306a\u304c\u3089|\u304d\u304d\u306a\u304c\u3089}{\u304a\u8336|\u304a\u3061\u3083}\u3092{\u98f2\u307f\u307e\u3057\u305f|\u306e\u307f\u307e\u3057\u305f}\u3002",
-        "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+        "verb stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
     ],
     [
         "Naoe talked to Yuki while making a meal.",
         "\u306a\u304a\u3048\u3055\u3093\u306f{\u98df\u4e8b|\u3057\u3087\u304f\u3058}\u3092{\u4f5c\u308a\u306a\u304c\u3089|\u3064\u304f\u308a\u306a\u304c\u3089}\u3086\u304d\u3055\u3093\u3068{\u8a71\u3057\u307e\u3057\u305f|\u306f\u306a\u3057\u307e\u3057\u305f}\u3002",
-        "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+        "verb stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
     ],
     [
         "Robert wrote kanji while listening to music.",
         "\u30ed\u30d0\u30fc\u30c8\u3055\u3093\u306f{\u97f3\u697d|\u304a\u3093\u304c\u304f}\u3092{\u805e\u304d\u306a\u304c\u3089|\u304d\u304d\u306a\u304c\u3089}\u304b\u3093\u3058\u3092{\u66f8\u304d\u307e\u3057\u305f|\u304b\u304d\u307e\u3057\u305f}\u3002",
-        "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+        "verb stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
     ],
     [
         "Mr. Hondo eats (his) lunch while working.",
         "\u307b\u3093\u3069\u3046\u3055\u3093\u306f{\u50cd\u304d\u306a\u304c\u3089|\u306f\u305f\u3089\u304d\u306a\u304c\u3089}{\u663c\u3054\u306f\u3093|\u3072\u308b\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
-        "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+        "verb stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
     ],
     [
         "Rie taught Roger how to make sushi.",
         "\u308a\u3048\u3055\u3093\u306f\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306b\u3059\u3057\u306e{\u4f5c\u308a\u304b\u305f|\u3064\u304f\u308a\u304b\u305f}\u3092{\u6559\u3048\u307e\u3057\u305f|\u304a\u3057\u3048\u307e\u3057\u305f}\u3002",
-        "Verb stem + {\u65b9|\u304b\u305f} = how to do Verb (Verb --> Noun)\nNoun \u3092 Verb --> Noun \u306e Verb stem + {\u65b9|\u304b\u305f}"
+        "verb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nnoun \u3092 verb --> noun \u306e verb stem + {\u65b9|\u304b\u305f}"
     ],
     [
         "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
         "{\u79c1|\u308f\u305f\u3057}\u306f{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u3068\u30ec\u30b9\u30c8\u30e9\u30f3\u3078\u308f\u3057\u3087\u304f\u3092{\u98df\u3079|\u305f\u3079}\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "\u3078 = to, towards, pronounced as \u3048\n(Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
+        "\u3078 = to, towards, pronounced as \u3048\n(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
     ],
     [
         "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
         "{\u6709\u540d\u305d\u3046|\u3086\u3046\u3081\u3044\u305d\u3046}\u3067\u3059\u3002{\u6b64\u306e|\u3053\u306e}{\u6620\u753b|\u3048\u3044\u304c}\u306f\u3064\u307e\u3089\u306a\u305d\u3046\u3067\u3059\u3002{\u982d|\u3042\u305f\u307e}\u304c\u3044\u305f\u305d\u3046\u3067\u3059\u3002{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u8a71\u3057\u305d\u3046|\u306f\u306a\u3057\u305d\u3046}\u3067\u3059\u3002",
-        "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
     ],
     [
         "(She) looks very beautiful, doesn't she?",
         "\u3068\u3066\u3082\u3046\u3064\u304f\u3057\u305d\u3046\u3067\u3059\u306d\u3002",
-        "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
     ],
     [
         "(It) looks like (it) will rain.",
         "{\u96e8|\u3042\u3081}\u304c\u3075\u308a\u305d\u3046\u3067\u3059\u3002",
-        "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
     ],
     [
         "What do (you) do in (your) free time? For example, what are (your) hobbies?",
@@ -2447,12 +2447,12 @@ Flashcards.initialize([
     [
         "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
         "\u307c\u304f\u306e{\u8eca|\u304f\u308b\u307e}\u3067{\u884c\u304d\u307e\u3057\u3087\u3046|\u3044\u304d\u307e\u3057\u3087\u3046}\u3002{\u5341\u4e8c\u6642|\u3058\u3085\u3046\u306b\u3058}\u306b\u3042\u306a\u305f\u306e\u30a2\u30d1\u30fc\u30c8\u3078\u3080\u304b\u3048\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
-        "Noun + \u3067 + Verb = do Verb with/using/at Noun (place of action or by-means-of)\n(Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\n(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
     ],
     [
         "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u3053\u308d\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u304c\u3001{\u5b9f|\u3058\u3064}\u306f\u3001\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "Noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~\nVerb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "Every day (I) work until late in the evening, but the work is very enjoyable.",
@@ -2462,37 +2462,37 @@ Flashcards.initialize([
     [
         "(I) frequently do my work at home while having a meal, but it can't be helped.",
         "{\u5ea6\u3005|\u305f\u3073\u305f\u3073}{\u5bb6|\u3046\u3061}\u3067{\u98df\u4e8b|\u3057\u3087\u304f\u3058}\u3092\u3057\u306a\u304c\u3089{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092\u3057\u307e\u3059\u304c{\u4ed5\u65b9|\u3057\u304b\u305f}\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
-        "Verb stem + \u306a\u304c\u3089 + Main Verb (present/past) = do/did Main Verb while doing Verb, subject must be the same"
+        "verb stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
     ],
     [
         "(I) want to work in America in the future.",
         "\u3057\u3087\u3046\u3089\u3044\u30a2\u30e1\u30ea\u30ab\u3067{\u50cd\u304d\u305f\u3044|\u306f\u305f\u3089\u304d\u305f\u3044}\u3067\u3059\u3002",
-        "Verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
         "\u30a2\u30e1\u30ea\u30ab\u306e\u305b\u3044\u304b\u3064\u306f{\u9762\u767d\u305d\u3046|\u304a\u3082\u3057\u308d\u305d\u3046}\u3067\u3059\u304c{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306e\u305b\u3044\u304b\u3064\u304c{\u4e00\u756a|\u3044\u3061\u3070\u3093}{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
-        "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
     ],
     [
         "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
         "{\u660e\u65e5|\u3042\u3057\u305f}{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u3068\u3044\u3063\u3057\u3087\u306b{\u753a|\u307e\u3061}\u3078{\u6620\u753b|\u3048\u3044\u304c}\u3092{\u898b\u306b|\u307f\u306b}{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
-        "(Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
+        "(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
     ],
     [
         "A filmstar's lifestyle looks unpleasant, doesn't it?",
         "{\u6620\u753b|\u3048\u3044\u304c}\u30b9\u30bf\u30fc\u306e\u305b\u3044\u304b\u3064\u306f\u3075\u3086\u304b\u3044\u305d\u3046\u3067\u3059\u306d\u3002",
-        "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
     ],
     [
         "(I) don't know how to make cakes.",
         "\u30b1\u30fc\u30ad\u306e{\u4f5c\u308a\u65b9|\u3064\u304f\u308a\u304b\u305f}\u304c{\u5206\u304b\u308a\u307e\u305b\u3093|\u308f\u304b\u308a\u307e\u305b\u3093}\u3002",
-        "Verb stem + {\u65b9|\u304b\u305f} = how to do Verb (Verb --> Noun)\nNoun \u3092 Verb --> Noun \u306e Verb stem + {\u65b9|\u304b\u305f}"
+        "verb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nnoun \u3092 verb --> noun \u306e verb stem + {\u65b9|\u304b\u305f}"
     ],
     [
         "Miki looks like (she) will eat that sushi, doesn't she?",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f{\u5176\u306e|\u305d\u306e}\u3059\u3057\u3092{\u98df\u3079\u305d\u3046|\u305f\u3079\u305d\u3046}\u3067\u3059\u306d\u3002",
-        "Adj. stem/Verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
     ],
     [
         "(I) liked watching movies very much.",
@@ -2602,7 +2602,7 @@ Flashcards.initialize([
     [
         "On Mondays, (I) study Japanese, then (I) go to a restaurant to eat lunch.",
         "{\u6708\u66dc\u65e5|\u3052\u3064\u3088\u3046\u3073}\u306b{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u3066\u3001\u30ec\u30b9\u30c8\u30e9\u30f3\u3078{\u663c\u3054\u306f\u3093|\u3072\u308b\u3054\u306f\u3093}\u3092{\u98df\u3079|\u305f\u3079}\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
-        "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(Place + \u3078/\u306b) + Verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to Place to do Verb"
+        "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
     ],
     [
         "Before long (after short), (we) will get home.",
@@ -2617,7 +2617,7 @@ Flashcards.initialize([
     [
         "Nowadays (I) don't want to drink coffee very much.",
         "\u3053\u306e\u3054\u308d\u30b3\u30fc\u30d2\u30fc\u3092{\u4f59\u308a|\u3042\u307e\u308a}{\u98f2\u307f\u305f\u304f\u306a\u3044|\u306e\u307f\u305f\u304f\u306a\u3044}\u3067\u3059\u3002",
-        "Verb stem + \u305f\u3044 = want to ~"
+        "verb stem + \u305f\u3044 = want to ~"
     ],
     [
         "(There are) too many orders, (it) takes time.",
@@ -2772,7 +2772,7 @@ Flashcards.initialize([
     [
         "Occasionally (I) meet with a university teacher and (we) talk about studies.",
         "\u305f\u307e\u306b{\u5927\u5b66|\u3060\u3044\u304c\u304f}\u306e{\u5148\u751f|\u305b\u3093\u305b\u3044}\u3068{\u4f1a\u3063\u3066|\u3042\u3063\u3066}\u3001{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u306b\u3064\u3044\u3066{\u8a71\u3057\u307e\u3059|\u306f\u306a\u3057\u307e\u3059}\u3002",
-        "Noun + \u306b + \u3064\u3044\u3066 = about Noun\nverb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "noun + \u306b + \u3064\u3044\u3066 = about noun\nverb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
     ],
     [
         "Every night, together with the band members, (we) do the band's rehearsals.",
