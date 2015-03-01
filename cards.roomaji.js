@@ -3153,5 +3153,10 @@ Flashcards.initialize([
     "May (I) try phoning Mr. Yamada?",
     "{山田|yamada} san ni {電話|denwa} wo shite mite mo {良い|ii} desu ka.",
     "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+],
+[
+    "(I) want to try on this jacket.",
+    "{此の|kono} _jaketto_ wo kite mitai desu.",
+    "verb-て-form + みる = try doing ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ]
 ])

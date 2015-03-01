@@ -3153,5 +3153,10 @@ Flashcards.initialize([
         "May (I) try phoning Mr. Yamada?",
         "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3092\u3057\u3066\u307f\u3066\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
         "verb-\u3066-form + \u307f\u308b = try doing ~\nverb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+    ],
+    [
+        "(I) want to try on this jacket.",
+        "{\u6b64\u306e|\u3053\u306e}\u30b8\u30e3\u30b1\u30c3\u30c8\u3092\u304d\u3066\u307f\u305f\u3044\u3067\u3059\u3002",
+        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ]
 ])
