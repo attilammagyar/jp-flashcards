@@ -331,7 +331,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always arrive at 8 o'clock.",
-    "{何時も|itsumo} {八時|hachiji} ni tsukimasu.",
+    "{何時も|itsumo} {八時|hachiji} ni {着きます|tsukimasu}.",
     ""
 ],
 [
@@ -2591,7 +2591,7 @@ Flashcards.initialize([
 ],
 [
     "Yesterday (I) got up late, (I) drank some coffee, then (I) went into town.",
-    "kinou osoku {起きて|okite}, _koohii_ wo {飲んで|nonde}, {町|machi} ni {行きました|ikimashita}.",
+    "{昨日|kinou} osoku {起きて|okite}, _koohii_ wo {飲んで|nonde}, {町|machi} ni {行きました|ikimashita}.",
     "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -2606,7 +2606,7 @@ Flashcards.initialize([
 ],
 [
     "Before long (after short), (we) will get home.",
-    "{後|ato} mou {少し|sukoshi} de {家|ie} ni tsukimasu.",
+    "{後|ato} mou {少し|sukoshi} de {家|ie} ni {着きます|tsukimasu}.",
     ""
 ],
 [
@@ -3096,7 +3096,7 @@ Flashcards.initialize([
 ],
 [
     "(My) parents live in Tokyo.",
-    "ryoushin wa {東京|toukyou} ni sunde imasu.",
+    "ryoushin wa {東京|toukyou} ni {住んで|sunde} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [

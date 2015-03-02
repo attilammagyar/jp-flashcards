@@ -331,7 +331,7 @@ Flashcards.initialize([
     ],
     [
         "(I) always arrive at 8 o'clock.",
-        "{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u516b\u6642|\u306f\u3061\u3058}\u306b\u3064\u304d\u307e\u3059\u3002",
+        "{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u516b\u6642|\u306f\u3061\u3058}\u306b{\u7740\u304d\u307e\u3059|\u3064\u304d\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -2591,7 +2591,7 @@ Flashcards.initialize([
     ],
     [
         "Yesterday (I) got up late, (I) drank some coffee, then (I) went into town.",
-        "\u304d\u306e\u3046\u304a\u305d\u304f{\u8d77\u304d\u3066|\u304a\u304d\u3066}\u3001\u30b3\u30fc\u30d2\u30fc\u3092{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u3001{\u753a|\u307e\u3061}\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "{\u6628\u65e5|\u304d\u306e\u3046}\u304a\u305d\u304f{\u8d77\u304d\u3066|\u304a\u304d\u3066}\u3001\u30b3\u30fc\u30d2\u30fc\u3092{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u3001{\u753a|\u307e\u3061}\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
         "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
     ],
     [
@@ -2606,7 +2606,7 @@ Flashcards.initialize([
     ],
     [
         "Before long (after short), (we) will get home.",
-        "{\u5f8c|\u3042\u3068}\u3082\u3046{\u5c11\u3057|\u3059\u3053\u3057}\u3067{\u5bb6|\u3044\u3048}\u306b\u3064\u304d\u307e\u3059\u3002",
+        "{\u5f8c|\u3042\u3068}\u3082\u3046{\u5c11\u3057|\u3059\u3053\u3057}\u3067{\u5bb6|\u3044\u3048}\u306b{\u7740\u304d\u307e\u3059|\u3064\u304d\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -3096,7 +3096,7 @@ Flashcards.initialize([
     ],
     [
         "(My) parents live in Tokyo.",
-        "\u308a\u3087\u3046\u3057\u3093\u306f{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306b\u3059\u3093\u3067\u3044\u307e\u3059\u3002",
+        "\u308a\u3087\u3046\u3057\u3093\u306f{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u307e\u3059\u3002",
         "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
     [
