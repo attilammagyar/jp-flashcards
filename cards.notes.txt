@@ -44,3 +44,5 @@ verb stem + たい = want to ~ (verb --> い adj.)
 verb stem + {方|kata} = how to do verb (verb --> noun)
 {所|ところ、とこ} = physical or abstract location, part, point
 {場所|ばしょ} = physical location
+(A に) verb-て-form + ほしい = I want (A) to do verb (for me)
+noun + が + ほしい = (I) want a noun

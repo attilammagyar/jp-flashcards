@@ -680,7 +680,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Peter, (you) are very good at English.",
+        "Peter, (you) are good at English, aren't you?",
         "\u30d4\u30fc\u30bf\u30fc\u306f{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u3068\u304f\u3044\u3067\u3059\u306d\u3002",
         "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
@@ -3158,5 +3158,25 @@ Flashcards.initialize([
         "(I) want to try on this jacket.",
         "{\u6b64\u306e|\u3053\u306e}\u30b8\u30e3\u30b1\u30c3\u30c8\u3092\u304d\u3066\u307f\u305f\u3044\u3067\u3059\u3002",
         "verb-\u3066-form + \u307f\u308b = try doing ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+    ],
+    [
+        "(I) want (you) to do (your) homework.",
+        "\u3057\u3085\u304f\u3060\u3044\u3092\u3057\u3066\u307b\u3057\u3044\u3067\u3059\u3002",
+        "(A \u306b) verb-\u3066-form + \u307b\u3057\u3044 = I want (A) to do verb (for me)"
+    ],
+    [
+        "What do (you) want?",
+        "{\u4f55|\u306a\u306b}\u304c\u307b\u3057\u3044\u3067\u3059\u304b\u3002",
+        "noun + \u304c + \u307b\u3057\u3044 = (I) want a noun"
+    ],
+    [
+        "(I) want Miki to come to my house.",
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b{\u79c1|\u308f\u305f\u3057}\u306e{\u5bb6|\u3046\u3061}\u306b{\u6765\u3066|\u304d\u3066}\u307b\u3057\u3044\u3067\u3059\u3002",
+        "(A \u306b) verb-\u3066-form + \u307b\u3057\u3044 = I want (A) to do verb (for me)"
+    ],
+    [
+        "(I) want a big car.",
+        "{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}{\u8eca|\u304f\u308b\u307e}\u304c\u307b\u3057\u3044\u3067\u3059\u3002",
+        "noun + \u304c + \u307b\u3057\u3044 = (I) want a noun"
     ]
 ])

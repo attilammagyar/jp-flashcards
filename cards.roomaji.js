@@ -680,7 +680,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Peter, (you) are very good at English.",
+    "Peter, (you) are good at English, aren't you?",
     "_piitaa_ wa {英語|eigo} ga tokui desu ne.",
     "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
@@ -3158,5 +3158,25 @@ Flashcards.initialize([
     "(I) want to try on this jacket.",
     "{此の|kono} _jaketto_ wo kite mitai desu.",
     "verb-て-form + みる = try doing ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+],
+[
+    "(I) want (you) to do (your) homework.",
+    "shukudai wo site hoshii desu.",
+    "(A に) verb-て-form + ほしい = I want (A) to do verb (for me)"
+],
+[
+    "What do (you) want?",
+    "{何|nani} ga hoshii desu ka.",
+    "noun + が + ほしい = (I) want a noun"
+],
+[
+    "(I) want Miki to come to my house.",
+    "{三木|miki} san ni {私|watashi} no {家|uchi} ni {来て|kite} hoshii desu.",
+    "(A に) verb-て-form + ほしい = I want (A) to do verb (for me)"
+],
+[
+    "(I) want a big car.",
+    "{大きい|ookii} {車|kuruma} ga hoshii desu.",
+    "noun + が + ほしい = (I) want a noun"
 ]
 ])
