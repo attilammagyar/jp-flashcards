@@ -3056,8 +3056,8 @@ Flashcards.initialize([
 ],
 [
     "Have (you) already eaten breakfast? No, (I) haven't eaten yet.",
-    "mou asagohan wo {食べました|tabemashita} ka. iie, {未だ|mada} {食べて|tabete} imasen.",
-    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "mou {朝ごはん|asagohan} wo {食べました|tabemashita} ka. iie, {未だ|mada} {食べて|tabete} imasen.",
+    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verb-て-form + いません = not done ~ yet"
 ],
 [
     "(I) wasn't using the computer last week.",
@@ -3178,5 +3178,45 @@ Flashcards.initialize([
     "(I) want a big car.",
     "{大きい|ookii} {車|kuruma} ga hoshii desu.",
     "noun + が + ほしい = (I) want a noun"
+],
+[
+    "(I) haven't eaten breakfast yet. (I) am still eating breakfast. Mr. Yamada is still at the company.",
+    "{未だ|mada} {朝ごはん|asagohan} wo {食べて|tabete} imasen. {未だ|mada} {朝ごはん|asagohan} wo {食べて|tabete} imasu. {山田|yamada} san wa {未だ|mada} {会社|kaisha} ni imasu.",
+    "{未だ|まだ} + verb-て-form + いません = not done ~ yet\n{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)\n{未だ|まだ} + place に + います/あります = still being at ~"
+],
+[
+    "(I) have already eaten breakfast. (I) no longer eat breakfast. Yuki no longer learns the piano. {discontinued habit}",
+    "mou {朝ごはん|asagohan} wo {食べました|tabemashita}. mou {朝ごはん|asagohan} wo {食べません|tabemasen}. yuki san wa mou _piano_ wo naratte imasen.",
+    "もう + verb-past = already completed doing ~\nもう + verb-present-negative = no longer doing ~ (complete action)\nもう + verb-て-form + いません = discontinued habitual action (no longer)"
+],
+[
+    "Are (you) still eating breakfast? No, (I've) already eaten (it).",
+    "{未だ|mada} {朝ごはん|asagohan} wo {食べて|tabete} imasu ka. iie, mou {食べました|tabemashita}.",
+    "{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)\nもう + verb-past = already completed doing ~"
+],
+[
+    "Have (you) already drunk (your) beer? No, (I) haven't drunk (it) yet.",
+    "mou _biiru_ wo {飲みました|nomimashita} ka. iie, {未だ|mada} {飲んで|nonde} imasen.",
+    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verb-て-form + いません = not done ~ yet"
+],
+[
+    "(I'm) still listening to the news.",
+    "{未だ|mada} _nyuusu_ wo {聞いて|kiite} imasu.",
+    "{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)"
+],
+[
+    "Have (you) already phoned Mr. Yamada? No, not yet.",
+    "mou {山田|yamada} san ni {電話|denwa} wo shimashita ka. iie, {未だ|mada} desu.",
+    "もう + verb-past = already completed doing ~"
+],
+[
+    "(I) haven't bought a digital camera yet, but (I've) already bought a new TV.",
+    "{未だ|mada} _dejikame_ wo {買って|katte} imasen ga mou {新しい|atarashii} _terebi_ wo {買いました|kaimashita}.",
+    "{未だ|まだ} + verb-て-form + いません = not done ~ yet\nもう + verb-past = already completed doing ~"
+],
+[
+    "Eri hasn't done (her) homework yet, but Yuki is still doing (her's).",
+    "eri san wa {未だ|mada} shukudai wo shite imasen ga yuki san wa {未だ|mada} shite imasu.",
+    "{未だ|まだ} + verb-て-form + いません = not done ~ yet\n{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)"
 ]
 ])

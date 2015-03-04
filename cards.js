@@ -3056,8 +3056,8 @@ Flashcards.initialize([
     ],
     [
         "Have (you) already eaten breakfast? No, (I) haven't eaten yet.",
-        "\u3082\u3046\u3042\u3055\u3054\u306f\u3093\u3092{\u98df\u3079\u307e\u3057\u305f|\u305f\u3079\u307e\u3057\u305f}\u304b\u3002\u3044\u3044\u3048\u3001{\u672a\u3060|\u307e\u3060}{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3044\u307e\u305b\u3093\u3002",
-        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "\u3082\u3046{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3057\u305f|\u305f\u3079\u307e\u3057\u305f}\u304b\u3002\u3044\u3044\u3048\u3001{\u672a\u3060|\u307e\u3060}{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3044\u307e\u305b\u3093\u3002",
+        "\u3082\u3046 + verb-past = already completed doing ~\n{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u305b\u3093 = not done ~ yet"
     ],
     [
         "(I) wasn't using the computer last week.",
@@ -3178,5 +3178,45 @@ Flashcards.initialize([
         "(I) want a big car.",
         "{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}{\u8eca|\u304f\u308b\u307e}\u304c\u307b\u3057\u3044\u3067\u3059\u3002",
         "noun + \u304c + \u307b\u3057\u3044 = (I) want a noun"
+    ],
+    [
+        "(I) haven't eaten breakfast yet. (I) am still eating breakfast. Mr. Yamada is still at the company.",
+        "{\u672a\u3060|\u307e\u3060}{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3044\u307e\u305b\u3093\u3002{\u672a\u3060|\u307e\u3060}{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3044\u307e\u3059\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u672a\u3060|\u307e\u3060}{\u4f1a\u793e|\u304b\u3044\u3057\u3083}\u306b\u3044\u307e\u3059\u3002",
+        "{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u305b\u3093 = not done ~ yet\n{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u3059 = still doing ~ (incomplete action)\n{\u672a\u3060|\u307e\u3060} + place \u306b + \u3044\u307e\u3059/\u3042\u308a\u307e\u3059 = still being at ~"
+    ],
+    [
+        "(I) have already eaten breakfast. (I) no longer eat breakfast. Yuki no longer learns the piano. {discontinued habit}",
+        "\u3082\u3046{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3057\u305f|\u305f\u3079\u307e\u3057\u305f}\u3002\u3082\u3046{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u305b\u3093|\u305f\u3079\u307e\u305b\u3093}\u3002\u3086\u304d\u3055\u3093\u306f\u3082\u3046\u30d4\u30a2\u30ce\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u305b\u3093\u3002",
+        "\u3082\u3046 + verb-past = already completed doing ~\n\u3082\u3046 + verb-present-negative = no longer doing ~ (complete action)\n\u3082\u3046 + verb-\u3066-form + \u3044\u307e\u305b\u3093 = discontinued habitual action (no longer)"
+    ],
+    [
+        "Are (you) still eating breakfast? No, (I've) already eaten (it).",
+        "{\u672a\u3060|\u307e\u3060}{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3044\u307e\u3059\u304b\u3002\u3044\u3044\u3048\u3001\u3082\u3046{\u98df\u3079\u307e\u3057\u305f|\u305f\u3079\u307e\u3057\u305f}\u3002",
+        "{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u3059 = still doing ~ (incomplete action)\n\u3082\u3046 + verb-past = already completed doing ~"
+    ],
+    [
+        "Have (you) already drunk (your) beer? No, (I) haven't drunk (it) yet.",
+        "\u3082\u3046\u30d3\u30fc\u30eb\u3092{\u98f2\u307f\u307e\u3057\u305f|\u306e\u307f\u307e\u3057\u305f}\u304b\u3002\u3044\u3044\u3048\u3001{\u672a\u3060|\u307e\u3060}{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u3044\u307e\u305b\u3093\u3002",
+        "\u3082\u3046 + verb-past = already completed doing ~\n{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u305b\u3093 = not done ~ yet"
+    ],
+    [
+        "(I'm) still listening to the news.",
+        "{\u672a\u3060|\u307e\u3060}\u30cb\u30e5\u30fc\u30b9\u3092{\u805e\u3044\u3066|\u304d\u3044\u3066}\u3044\u307e\u3059\u3002",
+        "{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u3059 = still doing ~ (incomplete action)"
+    ],
+    [
+        "Have (you) already phoned Mr. Yamada? No, not yet.",
+        "\u3082\u3046{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3092\u3057\u307e\u3057\u305f\u304b\u3002\u3044\u3044\u3048\u3001{\u672a\u3060|\u307e\u3060}\u3067\u3059\u3002",
+        "\u3082\u3046 + verb-past = already completed doing ~"
+    ],
+    [
+        "(I) haven't bought a digital camera yet, but (I've) already bought a new TV.",
+        "{\u672a\u3060|\u307e\u3060}\u30c7\u30b8\u30ab\u30e1\u3092{\u8cb7\u3063\u3066|\u304b\u3063\u3066}\u3044\u307e\u305b\u3093\u304c\u3082\u3046{\u65b0\u3057\u3044|\u3042\u305f\u3089\u3057\u3044}\u30c6\u30ec\u30d3\u3092{\u8cb7\u3044\u307e\u3057\u305f|\u304b\u3044\u307e\u3057\u305f}\u3002",
+        "{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u305b\u3093 = not done ~ yet\n\u3082\u3046 + verb-past = already completed doing ~"
+    ],
+    [
+        "Eri hasn't done (her) homework yet, but Yuki is still doing (her's).",
+        "\u3048\u308a\u3055\u3093\u306f{\u672a\u3060|\u307e\u3060}\u3057\u3085\u304f\u3060\u3044\u3092\u3057\u3066\u3044\u307e\u305b\u3093\u304c\u3086\u304d\u3055\u3093\u306f{\u672a\u3060|\u307e\u3060}\u3057\u3066\u3044\u307e\u3059\u3002",
+        "{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u305b\u3093 = not done ~ yet\n{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u3059 = still doing ~ (incomplete action)"
     ]
 ])
