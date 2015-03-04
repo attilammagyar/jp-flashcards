@@ -686,7 +686,7 @@ Flashcards.initialize([
     ],
     [
         "She is good at cooking.",
-        "{\u5f7c\u5973|\u304b\u306e\u3058\u3087}\u306f\u308a\u3087\u3046\u308a\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
+        "{\u5f7c\u5973|\u304b\u306e\u3058\u3087}\u306f{\u6599\u7406|\u308a\u3087\u3046\u308a}\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
         "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
@@ -2026,8 +2026,8 @@ Flashcards.initialize([
     ],
     [
         "(It) was too far.",
-        "\u3068\u304a\u3059\u304e\u307e\u3057\u305f\u3002",
-        "\u3068\u304a\u304f = long way\nstem of adj. or continuative base of verb + ~\u3059\u304e\u308b = too much ~, over~"
+        "{\u9060|\u3068\u304a}\u3059\u304e\u307e\u3057\u305f\u3002",
+        "{\u9060\u3044|\u3068\u304a\u3044} = long way, distant\nstem of adj. or continuative base of verb + ~\u3059\u304e\u308b = too much ~, over~"
     ],
     [
         "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
@@ -2231,7 +2231,7 @@ Flashcards.initialize([
     ],
     [
         "(My) mom's cooking is the most delicious in the world.",
-        "{\u6bcd|\u306f\u306f}\u306e\u308a\u3087\u3046\u308a\u306f\u305b\u304b\u3044{\u4e00|\u3044\u3061}\u304a\u3044\u3057\u3044\u3067\u3059\u3002",
+        "{\u6bcd|\u306f\u306f}\u306e{\u6599\u7406|\u308a\u3087\u3046\u308a}\u306f\u305b\u304b\u3044{\u4e00|\u3044\u3061}\u304a\u3044\u3057\u3044\u3067\u3059\u3002",
         ""
     ],
     [

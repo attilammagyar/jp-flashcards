@@ -686,7 +686,7 @@ Flashcards.initialize([
 ],
 [
     "She is good at cooking.",
-    "{彼女|kanojo} wa ryouri ga tokui desu.",
+    "{彼女|kanojo} wa {料理|ryouri} ga tokui desu.",
     "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
@@ -2026,8 +2026,8 @@ Flashcards.initialize([
 ],
 [
     "(It) was too far.",
-    "toosugimashita.",
-    "とおく = long way\nstem of adj. or continuative base of verb + ~すぎる = too much ~, over~"
+    "{遠|too} sugimashita.",
+    "{遠い|とおい} = long way, distant\nstem of adj. or continuative base of verb + ~すぎる = too much ~, over~"
 ],
 [
     "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
@@ -2231,7 +2231,7 @@ Flashcards.initialize([
 ],
 [
     "(My) mom's cooking is the most delicious in the world.",
-    "{母|haha} no ryouri wa sekai {一|ichi} oishii desu.",
+    "{母|haha} no {料理|ryouri} wa sekai {一|ichi} oishii desu.",
     ""
 ],
 [
