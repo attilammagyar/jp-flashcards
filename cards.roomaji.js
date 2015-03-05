@@ -1026,7 +1026,7 @@ Flashcards.initialize([
 ],
 [
     "Mother, from when is the piano lesson? (It's) from 4 o'clock. Hurry!",
-    "{お母さん|okaasan}, _piano_ no _ressun_ wa {何時|nanji} kara desu ka. {四時|yoji} kara desu yo. hayaku.",
+    "{お母さん|okaasan}, _piano_ no _ressun_ wa {何時|nanji} kara desu ka. {四時|yoji} kara desu yo. {速く|hayaku}.",
     ""
 ],
 [
@@ -1066,7 +1066,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) a little busy on Thursday.",
-    "{木曜日|moku youbi} chotto isogashii desu.",
+    "{木曜日|moku youbi} chotto {忙しい|isogashii} desu.",
     ""
 ],
 [
@@ -1856,7 +1856,7 @@ Flashcards.initialize([
 ],
 [
     "Miki writes kanji skillfully.",
-    "{三木|miki} san wa {上手|jouzu} ni kanji wo {書きます|kakimasu}.",
+    "{三木|miki} san wa {上手|jouzu} ni {漢字|kanji} wo {書きます|kakimasu}.",
     "な adj. + に = adverb\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
@@ -2306,7 +2306,7 @@ Flashcards.initialize([
 ],
 [
     "Robert wrote kanji while listening to music.",
-    "_robaato_ san wa {音楽|ongaku} wo {聞きながら|kikinagara} kanji wo {書きました|kakimashita}.",
+    "_robaato_ san wa {音楽|ongaku} wo {聞きながら|kikinagara} {漢字|kanji} wo {書きました|kakimashita}.",
     "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
 ],
 [
@@ -2816,7 +2816,7 @@ Flashcards.initialize([
 ],
 [
     "Please decide quickly.",
-    "hayaku kimete kudasai.",
+    "{速く|hayaku} kimete kudasai.",
     "verb-て-form + ください = request\nい adj. - い + く = adverb"
 ],
 [
