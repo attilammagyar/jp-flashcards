@@ -615,8 +615,8 @@ Flashcards.initialize([
         ""
     ],
     [
-        "older sister {In-group, out-group.}",
-        "{\u59c9|\u3042\u306d}\u3001{\u304a\u59c9\u3055\u3093|\u304a\u306d\u3048\u3055\u3093}",
+        "older sister {In-group, in-group by boys, out-group.}",
+        "{\u59c9|\u3042\u306d}\u3001{\u59c9\u304d|\u3042\u306d\u304d}\u3001{\u304a\u59c9\u3055\u3093|\u304a\u306d\u3048\u3055\u3093}",
         ""
     ],
     [
@@ -625,8 +625,8 @@ Flashcards.initialize([
         ""
     ],
     [
-        "older brother {In-group, out-group.}",
-        "{\u5144|\u3042\u306b}\u3001{\u304a\u5144\u3055\u3093|\u304a\u306b\u3044\u3055\u3093}",
+        "older brother {In-group, in-group by boys, out-group.}",
+        "{\u5144|\u3042\u306b}\u3001{\u5144\u304d|\u3042\u306b\u304d}\u3001{\u304a\u5144\u3055\u3093|\u304a\u306b\u3044\u3055\u3093}",
         ""
     ],
     [
@@ -3218,5 +3218,20 @@ Flashcards.initialize([
         "Eri hasn't done (her) homework yet, but Yuki is still doing (her's).",
         "\u3048\u308a\u3055\u3093\u306f{\u672a\u3060|\u307e\u3060}\u3057\u3085\u304f\u3060\u3044\u3092\u3057\u3066\u3044\u307e\u305b\u3093\u304c\u3086\u304d\u3055\u3093\u306f{\u672a\u3060|\u307e\u3060}\u3057\u3066\u3044\u307e\u3059\u3002",
         "{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u305b\u3093 = not done ~ yet\n{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u3059 = still doing ~ (incomplete action)"
+    ],
+    [
+        "parents {In-group, out-group}",
+        "\u308a\u3087\u3046\u3057\u3093\u3001\u3054\u308a\u3087\u3046\u3057\u3093",
+        ""
+    ],
+    [
+        "grandmother {In-group, out-group}",
+        "\u305d\u307c\u3001\u304a\u3070\u3042\u3055\u3093",
+        ""
+    ],
+    [
+        "grandfather {In-group, out-group}",
+        "\u305d\u3075\u3001\u304a\u3058\u3044\u3055\u3093",
+        ""
     ]
 ])

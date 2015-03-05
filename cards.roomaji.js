@@ -615,8 +615,8 @@ Flashcards.initialize([
     ""
 ],
 [
-    "older sister {In-group, out-group.}",
-    "{姉|ane}, {お姉さん|oneesan}",
+    "older sister {In-group, in-group by boys, out-group.}",
+    "{姉|ane}, {姉ki|aneki}, {お姉さん|oneesan}",
     ""
 ],
 [
@@ -625,8 +625,8 @@ Flashcards.initialize([
     ""
 ],
 [
-    "older brother {In-group, out-group.}",
-    "{兄|ani}, {お兄さん|oniisan}",
+    "older brother {In-group, in-group by boys, out-group.}",
+    "{兄|ani}, {兄ki|aniki}, {お兄さん|oniisan}",
     ""
 ],
 [
@@ -3218,5 +3218,20 @@ Flashcards.initialize([
     "Eri hasn't done (her) homework yet, but Yuki is still doing (her's).",
     "eri san wa {未だ|mada} shukudai wo shite imasen ga yuki san wa {未だ|mada} shite imasu.",
     "{未だ|まだ} + verb-て-form + いません = not done ~ yet\n{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)"
+],
+[
+    "parents {In-group, out-group}",
+    "ryoushin, goryoushin",
+    ""
+],
+[
+    "grandmother {In-group, out-group}",
+    "sobo, obaasan",
+    ""
+],
+[
+    "grandfather {In-group, out-group}",
+    "sofu, ojiisan",
+    ""
 ]
 ])
