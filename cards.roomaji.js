@@ -3051,8 +3051,8 @@ Flashcards.initialize([
 ],
 [
     "(I) want (you) to switch off the TV.",
-    "_terebi_ wo keshite hoshii desu.",
-    ""
+    "_terebi_ wo keshite {欲しい|hoshii} desu.",
+    "(A に) verb-て-form + {欲しい|ほしい} = I want (A) to do verb (for me)"
 ],
 [
     "Have (you) already eaten breakfast? No, (I) haven't eaten yet.",
@@ -3161,23 +3161,23 @@ Flashcards.initialize([
 ],
 [
     "(I) want (you) to do (your) homework.",
-    "shukudai wo site hoshii desu.",
-    "(A に) verb-て-form + ほしい = I want (A) to do verb (for me)"
+    "shukudai wo site {欲しい|hoshii} desu.",
+    "(A に) verb-て-form + {欲しい|ほしい} = I want (A) to do verb (for me)"
 ],
 [
     "What do (you) want?",
-    "{何|nani} ga hoshii desu ka.",
-    "noun + が + ほしい = (I) want a noun"
+    "{何|nani} ga {欲しい|hoshii} desu ka.",
+    "noun + が + {欲しい|ほしい} = (I) want a noun"
 ],
 [
     "(I) want Miki to come to my house.",
-    "{三木|miki} san ni {私|watashi} no {家|uchi} ni {来て|kite} hoshii desu.",
-    "(A に) verb-て-form + ほしい = I want (A) to do verb (for me)"
+    "{三木|miki} san ni {私|watashi} no {家|uchi} ni {来て|kite} {欲しい|hoshii} desu.",
+    "(A に) verb-て-form + {欲しい|ほしい} = I want (A) to do verb (for me)"
 ],
 [
     "(I) want a big car.",
-    "{大きい|ookii} {車|kuruma} ga hoshii desu.",
-    "noun + が + ほしい = (I) want a noun"
+    "{大きい|ookii} {車|kuruma} ga {欲しい|hoshii} desu.",
+    "noun + が + {欲しい|ほしい} = (I) want a noun"
 ],
 [
     "(I) haven't eaten breakfast yet. (I) am still eating breakfast. Mr. Yamada is still at the company.",

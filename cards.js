@@ -3051,8 +3051,8 @@ Flashcards.initialize([
     ],
     [
         "(I) want (you) to switch off the TV.",
-        "\u30c6\u30ec\u30d3\u3092\u3051\u3057\u3066\u307b\u3057\u3044\u3067\u3059\u3002",
-        ""
+        "\u30c6\u30ec\u30d3\u3092\u3051\u3057\u3066{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
+        "(A \u306b) verb-\u3066-form + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)"
     ],
     [
         "Have (you) already eaten breakfast? No, (I) haven't eaten yet.",
@@ -3161,23 +3161,23 @@ Flashcards.initialize([
     ],
     [
         "(I) want (you) to do (your) homework.",
-        "\u3057\u3085\u304f\u3060\u3044\u3092\u3057\u3066\u307b\u3057\u3044\u3067\u3059\u3002",
-        "(A \u306b) verb-\u3066-form + \u307b\u3057\u3044 = I want (A) to do verb (for me)"
+        "\u3057\u3085\u304f\u3060\u3044\u3092\u3057\u3066{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
+        "(A \u306b) verb-\u3066-form + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)"
     ],
     [
         "What do (you) want?",
-        "{\u4f55|\u306a\u306b}\u304c\u307b\u3057\u3044\u3067\u3059\u304b\u3002",
-        "noun + \u304c + \u307b\u3057\u3044 = (I) want a noun"
+        "{\u4f55|\u306a\u306b}\u304c{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u304b\u3002",
+        "noun + \u304c + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = (I) want a noun"
     ],
     [
         "(I) want Miki to come to my house.",
-        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b{\u79c1|\u308f\u305f\u3057}\u306e{\u5bb6|\u3046\u3061}\u306b{\u6765\u3066|\u304d\u3066}\u307b\u3057\u3044\u3067\u3059\u3002",
-        "(A \u306b) verb-\u3066-form + \u307b\u3057\u3044 = I want (A) to do verb (for me)"
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b{\u79c1|\u308f\u305f\u3057}\u306e{\u5bb6|\u3046\u3061}\u306b{\u6765\u3066|\u304d\u3066}{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
+        "(A \u306b) verb-\u3066-form + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)"
     ],
     [
         "(I) want a big car.",
-        "{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}{\u8eca|\u304f\u308b\u307e}\u304c\u307b\u3057\u3044\u3067\u3059\u3002",
-        "noun + \u304c + \u307b\u3057\u3044 = (I) want a noun"
+        "{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}{\u8eca|\u304f\u308b\u307e}\u304c{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
+        "noun + \u304c + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = (I) want a noun"
     ],
     [
         "(I) haven't eaten breakfast yet. (I) am still eating breakfast. Mr. Yamada is still at the company.",
