@@ -6,7 +6,7 @@ Flashcards.initialize([
 ],
 [
     "I like you very much.",
-    "{私|watashi} wa anata ga totemo {好き|suki} desu.",
+    "{私|watashi} wa {貴方|anata} ga totemo {好き|suki} desu.",
     ""
 ],
 [
@@ -971,7 +971,7 @@ Flashcards.initialize([
 ],
 [
     "Because on Fridays you're not here, (I) love fridays",
-    "{金曜日|kin youbi} ni wa anata ga imasen kara, {金曜日|kin youbi} ga {大好き|daisuki} desu.",
+    "{金曜日|kin youbi} ni wa {貴方|anata} ga imasen kara, {金曜日|kin youbi} ga {大好き|daisuki} desu.",
     ""
 ],
 [
@@ -1096,12 +1096,12 @@ Flashcards.initialize([
 ],
 [
     "But because (I) like you, I'm here.",
-    "demo, anata ga {好き|suki} desu kara, {私|watashi} wa {此処|koko} ni imasu.",
+    "demo, {貴方|anata} ga {好き|suki} desu kara, {私|watashi} wa {此処|koko} ni imasu.",
     ""
 ],
 [
     "I'll teach you.",
-    "{私|watashi} ga anata ni {教えます|oshiemasu}.",
+    "{私|watashi} ga {貴方|anata} ni {教えます|oshiemasu}.",
     ""
 ],
 [
@@ -2346,7 +2346,7 @@ Flashcards.initialize([
 ],
 [
     "Because (I) don't know anything about you at all.",
-    "anata no koto wo zenzen {知りません|shirimasen} kara.",
+    "{貴方|anata} no koto wo zenzen {知りません|shirimasen} kara.",
     ""
 ],
 [
@@ -2446,7 +2446,7 @@ Flashcards.initialize([
 ],
 [
     "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
-    "boku no {車|kuruma} de {行きましょう|ikimashou}. {十二時|juuniji} ni anata no _apaato_ he mukae ni {行きます|ikimasu}.",
+    "boku no {車|kuruma} de {行きましょう|ikimashou}. {十二時|juuniji} ni {貴方|anata} no _apaato_ he mukae ni {行きます|ikimasu}.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
@@ -3232,6 +3232,11 @@ Flashcards.initialize([
 [
     "grandfather {In-group, out-group}",
     "sofu, ojiisan",
+    ""
+],
+[
+    "(It's) five minutes on foot to the station.",
+    "{駅|eki} made aruite {五分|gohun} desu.",
     ""
 ]
 ])
