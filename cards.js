@@ -6,7 +6,7 @@ Flashcards.initialize([
     ],
     [
         "I like you very much.",
-        "{\u79c1|\u308f\u305f\u3057}\u306f\u3042\u306a\u305f\u304c\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
+        "{\u79c1|\u308f\u305f\u3057}\u306f{\u8cb4\u65b9|\u3042\u306a\u305f}\u304c\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -971,7 +971,7 @@ Flashcards.initialize([
     ],
     [
         "Because on Fridays you're not here, (I) love fridays",
-        "{\u91d1\u66dc\u65e5|\u304d\u3093\u3088\u3046\u3073}\u306b\u306f\u3042\u306a\u305f\u304c\u3044\u307e\u305b\u3093\u304b\u3089\u3001{\u91d1\u66dc\u65e5|\u304d\u3093\u3088\u3046\u3073}\u304c{\u5927\u597d\u304d|\u3060\u3044\u3059\u304d}\u3067\u3059\u3002",
+        "{\u91d1\u66dc\u65e5|\u304d\u3093\u3088\u3046\u3073}\u306b\u306f{\u8cb4\u65b9|\u3042\u306a\u305f}\u304c\u3044\u307e\u305b\u3093\u304b\u3089\u3001{\u91d1\u66dc\u65e5|\u304d\u3093\u3088\u3046\u3073}\u304c{\u5927\u597d\u304d|\u3060\u3044\u3059\u304d}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -1096,12 +1096,12 @@ Flashcards.initialize([
     ],
     [
         "But because (I) like you, I'm here.",
-        "\u3067\u3082\u3001\u3042\u306a\u305f\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304b\u3089\u3001{\u79c1|\u308f\u305f\u3057}\u306f{\u6b64\u51e6|\u3053\u3053}\u306b\u3044\u307e\u3059\u3002",
+        "\u3067\u3082\u3001{\u8cb4\u65b9|\u3042\u306a\u305f}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304b\u3089\u3001{\u79c1|\u308f\u305f\u3057}\u306f{\u6b64\u51e6|\u3053\u3053}\u306b\u3044\u307e\u3059\u3002",
         ""
     ],
     [
         "I'll teach you.",
-        "{\u79c1|\u308f\u305f\u3057}\u304c\u3042\u306a\u305f\u306b{\u6559\u3048\u307e\u3059|\u304a\u3057\u3048\u307e\u3059}\u3002",
+        "{\u79c1|\u308f\u305f\u3057}\u304c{\u8cb4\u65b9|\u3042\u306a\u305f}\u306b{\u6559\u3048\u307e\u3059|\u304a\u3057\u3048\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -2346,7 +2346,7 @@ Flashcards.initialize([
     ],
     [
         "Because (I) don't know anything about you at all.",
-        "\u3042\u306a\u305f\u306e\u3053\u3068\u3092\u305c\u3093\u305c\u3093{\u77e5\u308a\u307e\u305b\u3093|\u3057\u308a\u307e\u305b\u3093}\u304b\u3089\u3002",
+        "{\u8cb4\u65b9|\u3042\u306a\u305f}\u306e\u3053\u3068\u3092\u305c\u3093\u305c\u3093{\u77e5\u308a\u307e\u305b\u3093|\u3057\u308a\u307e\u305b\u3093}\u304b\u3089\u3002",
         ""
     ],
     [
@@ -2446,7 +2446,7 @@ Flashcards.initialize([
     ],
     [
         "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
-        "\u307c\u304f\u306e{\u8eca|\u304f\u308b\u307e}\u3067{\u884c\u304d\u307e\u3057\u3087\u3046|\u3044\u304d\u307e\u3057\u3087\u3046}\u3002{\u5341\u4e8c\u6642|\u3058\u3085\u3046\u306b\u3058}\u306b\u3042\u306a\u305f\u306e\u30a2\u30d1\u30fc\u30c8\u3078\u3080\u304b\u3048\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
+        "\u307c\u304f\u306e{\u8eca|\u304f\u308b\u307e}\u3067{\u884c\u304d\u307e\u3057\u3087\u3046|\u3044\u304d\u307e\u3057\u3087\u3046}\u3002{\u5341\u4e8c\u6642|\u3058\u3085\u3046\u306b\u3058}\u306b{\u8cb4\u65b9|\u3042\u306a\u305f}\u306e\u30a2\u30d1\u30fc\u30c8\u3078\u3080\u304b\u3048\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
         "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\n(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
     ],
     [
@@ -3233,5 +3233,55 @@ Flashcards.initialize([
         "grandfather {In-group, out-group}",
         "\u305d\u3075\u3001\u304a\u3058\u3044\u3055\u3093",
         ""
+    ],
+    [
+        "(It's) five minutes on foot to the station.",
+        "{\u99c5|\u3048\u304d}\u307e\u3067\u3042\u308b\u3044\u3066{\u4e94\u5206|\u3054\u3075\u3093}\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "Please tell (me) about a day of your's.",
+        "{\u81ea\u5206|\u3058\u3076\u3093}\u306e{\u4e00\u65e5|\u3044\u3061\u306b\u3061}\u306b\u3064\u3044\u3066{\u6559\u3048\u3066|\u304a\u3057\u3048\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request\nnoun + \u306b + \u3064\u3044\u3066 = about noun"
+    ],
+    [
+        "I go to school every day on foot. {habit}",
+        "{\u79c1|\u308f\u305f\u3057}\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3042\u308b\u3044\u3066{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "After school, (I) take part in a tennis club. {habit}",
+        "{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306e{\u5f8c|\u3042\u3068}\u3067\u30c6\u30cb\u30b9\u30fb\u30af\u30e9\u30d6\u306b\u3055\u3093\u304b\u3057\u3066\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "Twice every week (I) go to cram school and (I) learn Maths and English (etc.). {habit}",
+        "{\u6bce\u9031|\u307e\u3044\u3057\u3085\u3046}{\u4e8c\u56de|\u306b\u304b\u3044}\u3058\u3085\u304f\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001\u3059\u3046\u304c\u304f\u3084{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u3066\u3044\u307e\u3059\u3002",
+        "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u3084: incomplete list"
+    ],
+    [
+        "Because (I'm) learning the piano now, (I) practise every day. {habit}",
+        "{\u4eca|\u3044\u307e}\u30d4\u30a2\u30ce\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u3059\u304b\u3089{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u308c\u3093\u3057\u3085\u3046\u3092\u3057\u3066\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
+        "\u3057\u3085\u3046\u307e\u3064\u306b\u305f\u3044\u3066\u3044{\u4f55|\u306a\u306b}\u3092\u3057\u3066\u3044\u307e\u3059\u304b\u3002{\u6642\u3005|\u3068\u304d\u3069\u304d}\u305d\u3075\u3068\u3055\u3093\u307d\u3057\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "Sunday, (I) always spend time with (my) family.",
+        "{\u65e5\u66dc\u65e5|\u306b\u3061\u3088\u3046\u3073}\u306f{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u5bb6\u65cf|\u304b\u305e\u304f}\u3068\u3059\u3054\u3057\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "When do (you) do (your) homework? (I) do a little every day, but this week, (I) haven't done (it) yet.",
+        "{\u4f55\u6642|\u3044\u3064}\u3057\u3085\u304f\u3060\u3044\u3092\u3057\u307e\u3059\u304b\u3002{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u5c11\u3057|\u3059\u3053\u3057}\u3057\u3066\u3044\u307e\u3059\u304c{\u4eca\u9031|\u3053\u3093\u3057\u3085\u3046}\u306f{\u672a\u3060|\u307e\u3060}\u3057\u3066\u3044\u307e\u305b\u3093\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u305b\u3093 = not done ~ yet"
+    ],
+    [
+        "(I) want (my) older sister to do (my) homework. No way! Try to do (it) on your own please.",
+        "{\u304a\u59c9\u3061\u3083\u3093|\u304a\u306d\u3048\u3061\u3083\u3093}\u306b\u3057\u3085\u304f\u3060\u3044\u3092\u3057\u3066{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002\u3060\u3081\u3067\u3059\u3088\u3002{\u81ea\u5206|\u3058\u3076\u3093}\u3067\u3057\u3066\u307f\u3066\u304f\u3060\u3055\u3044\u3002",
+        "(A \u306b) verb-\u3066-form + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)\nverb-\u3066-form + \u307f\u308b = try doing ~\nverb-\u3066-form + \u304f\u3060\u3055\u3044 = request\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)"
     ]
 ])

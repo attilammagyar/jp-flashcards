@@ -3238,5 +3238,50 @@ Flashcards.initialize([
     "(It's) five minutes on foot to the station.",
     "{駅|eki} made aruite {五分|gohun} desu.",
     ""
+],
+[
+    "Please tell (me) about a day of your's.",
+    "{自分|jibun} no {一日|ichinichi} ni tsuite {教えて|oshiete} kudasai.",
+    "verb-て-form + ください = request\nnoun + に + ついて = about noun"
+],
+[
+    "I go to school every day on foot. {habit}",
+    "{私|watashi} wa {毎日|mainichi} aruite {学校|gakkou} ni {行って|itte} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "After school, (I) take part in a tennis club. {habit}",
+    "{学校|gakkou} no {後|ato} de _tenisu kurabu_ ni sanka shite imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "Twice every week (I) go to cram school and (I) learn Maths and English (etc.). {habit}",
+    "{毎週|maishuu} {二回|nikai} juku ni {行って|itte}, suugaku ya {英語|eigo} wo {勉強|benkyou} shite imasu.",
+    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nや: incomplete list"
+],
+[
+    "Because (I'm) learning the piano now, (I) practise every day. {habit}",
+    "{今|ima} _piano_ wo naratte imasu kara {毎日|mainichi} renshuu wo shite imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
+    "shuumatsu ni taitei {何|nani} wo shite imasu ka. {時々|tokidoki} sofu to sanpo shimasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "Sunday, (I) always spend time with (my) family.",
+    "{日曜日|nichiyoubi} wa {何時も|itsumo} {家族|kazoku} to sugoshimasu.",
+    ""
+],
+[
+    "When do (you) do (your) homework? (I) do a little every day, but this week, (I) haven't done (it) yet.",
+    "{何時|itsu} shukudai wo shimasu ka. {毎日|mainichi} {少し|sukoshi} shite imasu ga {今週|konshuu} wa {未だ|mada} shite imasen.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n{未だ|まだ} + verb-て-form + いません = not done ~ yet"
+],
+[
+    "(I) want (my) older sister to do (my) homework. No way! Try to do (it) on your own please.",
+    "{お姉ちゃん|oneechan} ni shukudai wo shite {欲しい|hoshii} desu. dame desu yo. {自分|jibun} de shite mite kudasai.",
+    "(A に) verb-て-form + {欲しい|ほしい} = I want (A) to do verb (for me)\nverb-て-form + みる = try doing ~\nverb-て-form + ください = request\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ]
 ])
