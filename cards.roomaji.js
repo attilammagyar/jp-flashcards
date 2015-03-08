@@ -496,7 +496,7 @@ Flashcards.initialize([
 ],
 [
     "Next door there is a capsule hotel.",
-    "tonari ni _kapuseruhoteru_ ga arimasu.",
+    "{隣|tonari} ni _kapuseruhoteru_ ga arimasu.",
     ""
 ],
 [
@@ -1141,7 +1141,7 @@ Flashcards.initialize([
 ],
 [
     "The art gallery is next door to the hotel.",
-    "bijutsukan wa _hoteru_ no tonari ni arimasu.",
+    "bijutsukan wa _hoteru_ no {隣|tonari} ni arimasu.",
     ""
 ],
 [
@@ -1171,7 +1171,7 @@ Flashcards.initialize([
 ],
 [
     "The bank is next door to the restaurant.",
-    "{銀行|ginkou} wa _resutoran_ no tonari ni arimasu.",
+    "{銀行|ginkou} wa _resutoran_ no {隣|tonari} ni arimasu.",
     ""
 ],
 [
@@ -1236,7 +1236,7 @@ Flashcards.initialize([
 ],
 [
     "Where is the post office located? (It's located) next door to the bank.",
-    "yuubinkyoku wa {何処|doko} ni arimasu ka. {銀行|ginkou} no tonari ni arimasu.",
+    "yuubinkyoku wa {何処|doko} ni arimasu ka. {銀行|ginkou} no {隣|tonari} ni arimasu.",
     ""
 ],
 [
@@ -1426,7 +1426,7 @@ Flashcards.initialize([
 ],
 [
     "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
-    "{二つ目|futatsume} no shingou wo {左|hidari} ni magatte kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. gekijou no tonari desu.",
+    "{二つ目|futatsume} no shingou wo {左|hidari} ni magatte kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. gekijou no {隣|tonari} desu.",
     "verb-て-form + ください = request"
 ],
 [
