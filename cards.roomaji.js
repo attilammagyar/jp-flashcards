@@ -516,7 +516,7 @@ Flashcards.initialize([
 ],
 [
     "Sure. Altogether (that's) 1000 yen.",
-    "kashikomarimashita. zenbu de {千円|sen en} desu.",
+    "kashikomarimashita. {全部|zenbu} de {千円|sen en} desu.",
     ""
 ],
 [
@@ -1006,7 +1006,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 2 kg please? Yes, that's 1600 yen in total.",
-    "{二|ni} _kiro_ kudasai. hai, zenbu de {千六百円|sen roppyaku en} desu.",
+    "{二|ni} _kiro_ kudasai. hai, {全部|zenbu} de {千六百円|sen roppyaku en} desu.",
     ""
 ],
 [
