@@ -1161,7 +1161,7 @@ Flashcards.initialize([
 ],
 [
     "Last night (I) didn't drink (any) beer at all.",
-    "yuube _biiru_ wo zenzen {飲みません|nomimasen} deshita.",
+    "yuube _biiru_ wo {全然|zenzen} {飲みません|nomimasen} deshita.",
     ""
 ],
 [
@@ -2101,7 +2101,7 @@ Flashcards.initialize([
 ],
 [
     "The trip wasn't fun at all.",
-    "{旅行|ryokou} wa zenzen {楽しくなかった|tanoshikunakatta} desu.",
+    "{旅行|ryokou} wa {全然|zenzen} {楽しくなかった|tanoshikunakatta} desu.",
     ""
 ],
 [
@@ -2346,7 +2346,7 @@ Flashcards.initialize([
 ],
 [
     "Because (I) don't know anything about you at all.",
-    "{貴方|anata} no koto wo zenzen {知りません|shirimasen} kara.",
+    "{貴方|anata} no koto wo {全然|zenzen} {知りません|shirimasen} kara.",
     ""
 ],
 [
