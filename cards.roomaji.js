@@ -3057,7 +3057,7 @@ Flashcards.initialize([
 [
     "Have (you) already eaten breakfast? No, (I) haven't eaten yet.",
     "mou {朝ごはん|asagohan} wo {食べました|tabemashita} ka. iie, {未だ|mada} {食べて|tabete} imasen.",
-    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verb-て-form + いません = not done ~ yet"
+    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verb-て-form + いません = not done ~ yet, not doing ~ yet"
 ],
 [
     "(I) wasn't using the computer last week.",
@@ -3182,7 +3182,7 @@ Flashcards.initialize([
 [
     "(I) haven't eaten breakfast yet. (I) am still eating breakfast. Mr. Yamada is still at the company.",
     "{未だ|mada} {朝ごはん|asagohan} wo {食べて|tabete} imasen. {未だ|mada} {朝ごはん|asagohan} wo {食べて|tabete} imasu. {山田|yamada} san wa {未だ|mada} {会社|kaisha} ni imasu.",
-    "{未だ|まだ} + verb-て-form + いません = not done ~ yet\n{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)\n{未だ|まだ} + place に + います/あります = still being at ~"
+    "{未だ|まだ} + verb-て-form + いません = not done ~ yet, not doing ~ yet\n{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)\n{未だ|まだ}/もう + place に + います/あります = still/already being at ~"
 ],
 [
     "(I) have already eaten breakfast. (I) no longer eat breakfast. Yuki no longer learns the piano. {discontinued habit}",
@@ -3197,7 +3197,7 @@ Flashcards.initialize([
 [
     "Have (you) already drunk (your) beer? No, (I) haven't drunk (it) yet.",
     "mou _biiru_ wo {飲みました|nomimashita} ka. iie, {未だ|mada} {飲んで|nonde} imasen.",
-    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verb-て-form + いません = not done ~ yet"
+    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verb-て-form + いません = not done ~ yet, not doing ~ yet"
 ],
 [
     "(I'm) still listening to the news.",
@@ -3212,12 +3212,12 @@ Flashcards.initialize([
 [
     "(I) haven't bought a digital camera yet, but (I've) already bought a new TV.",
     "{未だ|mada} _dejikame_ wo {買って|katte} imasen ga mou {新しい|atarashii} _terebi_ wo {買いました|kaimashita}.",
-    "{未だ|まだ} + verb-て-form + いません = not done ~ yet\nもう + verb-past = already completed doing ~"
+    "{未だ|まだ} + verb-て-form + いません = not done ~ yet, not doing ~ yet\nもう + verb-past = already completed doing ~"
 ],
 [
     "Eri hasn't done (her) homework yet, but Yuki is still doing (her's).",
     "eri san wa {未だ|mada} shukudai wo shite imasen ga yuki san wa {未だ|mada} shite imasu.",
-    "{未だ|まだ} + verb-て-form + いません = not done ~ yet\n{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)"
+    "{未だ|まだ} + verb-て-form + いません = not done ~ yet, not doing ~ yet\n{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)"
 ],
 [
     "parents {In-group, out-group}",
@@ -3277,11 +3277,31 @@ Flashcards.initialize([
 [
     "When do (you) do (your) homework? (I) do a little every day, but this week, (I) haven't done (it) yet.",
     "{何時|itsu} shukudai wo shimasu ka. {毎日|mainichi} {少し|sukoshi} shite imasu ga {今週|konshuu} wa {未だ|mada} shite imasen.",
-    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n{未だ|まだ} + verb-て-form + いません = not done ~ yet"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n{未だ|まだ} + verb-て-form + いません = not done ~ yet, not doing ~ yet"
 ],
 [
     "(I) want (my) older sister to do (my) homework. No way! Try to do (it) on your own please.",
     "{お姉ちゃん|oneechan} ni shukudai wo shite {欲しい|hoshii} desu. dame desu yo. {自分|jibun} de shite mite kudasai.",
     "(A に) verb-て-form + {欲しい|ほしい} = I want (A) to do verb (for me)\nverb-て-form + みる = try doing ~\nverb-て-form + ください = request\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
+],
+[
+    "(My) husband has already set off to (his) company but grandpa is still sleeping.",
+    "shujin wa mou {会社|kaisha} ni {出掛けました|dekakemashita} ga ojiichan wa {未だ|mada} {寝て|nete} imasu.",
+    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)"
+],
+[
+    "Mr. Yamada is not at home now. He's still at the company. He's already at the company.",
+    "{山田|yamada} san wa {今|ima} {家|uchi} ni imasen. {未だ|mada} {会社|kaisha} ni imasu. mou {会社|kaisha} ni imasu.",
+    "{未だ|まだ}/もう + place に + います/あります = still/already being at ~"
+],
+[
+    "Miki's parents are still in Japan. Miki's parents are already in Japan.",
+    "{三木|miki} san no ryoushin wa {未だ|mada} {日本|nihon} ni imasu. {三木|miki} san no ryoushin wa mou {日本|nihon} ni imasu.",
+    "{未だ|まだ}/もう + place に + います/あります = still/already being at ~"
+],
+[
+    "Mr. Yamada doesn't work yet. (My) dad no longer works. He's at home every day.",
+    "{山田|yamada} san wa {未だ|mada} {仕事|shigoto} wo shite imasen. {父|chichi} wa mou {仕事|shigoto} wo shite imasen. {毎日|mainichi} {家|uchi} ni imasu.",
+    "{未だ|まだ} + verb-て-form + いません = not done ~ yet, not doing ~ yet\nもう + verb-て-form + いません = discontinued habitual action (no longer)"
 ]
 ])
