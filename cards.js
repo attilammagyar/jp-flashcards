@@ -3303,5 +3303,10 @@ Flashcards.initialize([
         "Mr. Yamada doesn't work yet. (My) dad no longer works. He's at home every day.",
         "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u672a\u3060|\u307e\u3060}{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092\u3057\u3066\u3044\u307e\u305b\u3093\u3002{\u7236|\u3061\u3061}\u306f\u3082\u3046{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092\u3057\u3066\u3044\u307e\u305b\u3093\u3002{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u5bb6|\u3046\u3061}\u306b\u3044\u307e\u3059\u3002",
         "{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\n\u3082\u3046 + verb-\u3066-form + \u3044\u307e\u305b\u3093 = discontinued habitual action (no longer)"
+    ],
+    [
+        "May (I) try this jacket?",
+        "{\u6b64\u306e|\u3053\u306e}\u30b8\u30e3\u30b1\u30c3\u30c8\u3092\u304d\u3066\u307f\u3066\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
+        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
     ]
 ])

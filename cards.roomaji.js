@@ -3303,5 +3303,10 @@ Flashcards.initialize([
     "Mr. Yamada doesn't work yet. (My) dad no longer works. He's at home every day.",
     "{山田|yamada} san wa {未だ|mada} {仕事|shigoto} wo shite imasen. {父|chichi} wa mou {仕事|shigoto} wo shite imasen. {毎日|mainichi} {家|uchi} ni imasu.",
     "{未だ|まだ} + verb-て-form + いません = not done ~ yet, not doing ~ yet\nもう + verb-て-form + いません = discontinued habitual action (no longer)"
+],
+[
+    "May (I) try this jacket?",
+    "{此の|kono} _jaketto_ wo kite mite mo {良い|ii} desu ka.",
+    "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ]
 ])
