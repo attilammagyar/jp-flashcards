@@ -3146,7 +3146,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to try drinking Japanese beer.",
-    "{日本|nihon} no _biiru_ o {飲んで|nonde} mitai desu.",
+    "{日本|nihon} no _biiru_ wo {飲んで|nonde} mitai desu.",
     "verb-て-form + みる = try doing ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [

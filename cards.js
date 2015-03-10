@@ -3146,7 +3146,7 @@ Flashcards.initialize([
     ],
     [
         "(I) want to try drinking Japanese beer.",
-        "{\u65e5\u672c|\u306b\u307b\u3093}\u306e\u30d3\u30fc\u30eb\u304a{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u307f\u305f\u3044\u3067\u3059\u3002",
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306e\u30d3\u30fc\u30eb\u3092{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u307f\u305f\u3044\u3067\u3059\u3002",
         "verb-\u3066-form + \u307f\u308b = try doing ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
