@@ -2786,7 +2786,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) switch on the lights? Please switch off the lights.",
-        "{\u96fb\u6c17|\u3067\u3093\u304d}\u3092\u3064\u3051\u3066\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002{\u96fb\u6c17|\u3067\u3093\u304d}\u3092\u3051\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "{\u96fb\u6c17|\u3067\u3093\u304d}\u3092\u3064\u3051\u3066\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002{\u96fb\u6c17|\u3067\u3093\u304d}\u3092{\u6d88\u3057\u3066|\u3051\u3057\u3066}\u304f\u3060\u3055\u3044\u3002",
         "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb\nverb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
@@ -2831,7 +2831,7 @@ Flashcards.initialize([
     ],
     [
         "switch off",
-        "\u3051\u3059\u3001\u3051\u3057\u307e\u3059\u3001\u3051\u3057\u3066",
+        "{\u6d88\u3059|\u3051\u3059}\u3001{\u6d88\u3057\u307e\u3059|\u3051\u3057\u307e\u3059}\u3001{\u6d88\u3057\u3066|\u3051\u3057\u3066}",
         ""
     ],
     [
@@ -3051,7 +3051,7 @@ Flashcards.initialize([
     ],
     [
         "(I) want (you) to switch off the TV.",
-        "\u30c6\u30ec\u30d3\u3092\u3051\u3057\u3066{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
+        "\u30c6\u30ec\u30d3\u3092{\u6d88\u3057\u3066|\u3051\u3057\u3066}{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
         "(A \u306b) verb-\u3066-form + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)"
     ],
     [
