@@ -3308,5 +3308,15 @@ Flashcards.initialize([
     "May (I) try this jacket?",
     "{此の|kono} _jaketto_ wo kite mite mo {良い|ii} desu ka.",
     "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+],
+[
+    "(I) no longer live in Tokyo.",
+    "mou {東京|toukyou} ni {住んで|sunde} imasen.",
+    "もう + verb-て-form + いません = discontinued habitual action (no longer)"
+],
+[
+    "Last year (I) have tried learning French.",
+    "kyonen _furansu_ {語|go} wo naratte mimashita.",
+    "verb-て-form + みる = try doing ~"
 ]
 ])
