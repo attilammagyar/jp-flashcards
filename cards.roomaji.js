@@ -781,7 +781,7 @@ Flashcards.initialize([
 ],
 [
     "6 apples",
-    "ringo rokko",
+    "ringo {六個|rokko}",
     ""
 ],
 [
@@ -876,7 +876,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 3 apples please?",
-    "ringo wo {三|san}ko kudasai.",
+    "ringo wo {三個|sanko} kudasai.",
     ""
 ],
 [
@@ -1936,7 +1936,7 @@ Flashcards.initialize([
 ],
 [
     "spring, summer, autumn, winter",
-    "haru, {夏|natsu}, aki, fuyu",
+    "haru, {夏|natsu}, {秋|aki}, fuyu",
     ""
 ],
 [
@@ -1981,7 +1981,7 @@ Flashcards.initialize([
 ],
 [
     "Soon (it) will be autumn. (It) will gradually get cool.",
-    "mou sugu aki ni narimasu. dandan suzushiku narimasu.",
+    "mou sugu {秋|aki} ni narimasu. dandan suzushiku narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
@@ -2066,7 +2066,7 @@ Flashcards.initialize([
 ],
 [
     "Autumn is from March. The weather is clear, windy, rainy...",
-    "aki wa {三月|sangatsu} kara desu. {天気|tenki} wa hare, {風|kaze}, {雨|ame}...",
+    "{秋|aki} wa {三月|sangatsu} kara desu. {天気|tenki} wa hare, {風|kaze}, {雨|ame}...",
     "(New Zealand)"
 ],
 [

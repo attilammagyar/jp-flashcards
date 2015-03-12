@@ -781,7 +781,7 @@ Flashcards.initialize([
     ],
     [
         "6 apples",
-        "\u308a\u3093\u3054\u308d\u3063\u3053",
+        "\u308a\u3093\u3054{\u516d\u500b|\u308d\u3063\u3053}",
         ""
     ],
     [
@@ -876,7 +876,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) have 3 apples please?",
-        "\u308a\u3093\u3054\u3092{\u4e09|\u3055\u3093}\u3053\u304f\u3060\u3055\u3044\u3002",
+        "\u308a\u3093\u3054\u3092{\u4e09\u500b|\u3055\u3093\u3053}\u304f\u3060\u3055\u3044\u3002",
         ""
     ],
     [
@@ -1936,7 +1936,7 @@ Flashcards.initialize([
     ],
     [
         "spring, summer, autumn, winter",
-        "\u306f\u308b\u3001{\u590f|\u306a\u3064}\u3001\u3042\u304d\u3001\u3075\u3086",
+        "\u306f\u308b\u3001{\u590f|\u306a\u3064}\u3001{\u79cb|\u3042\u304d}\u3001\u3075\u3086",
         ""
     ],
     [
@@ -1981,7 +1981,7 @@ Flashcards.initialize([
     ],
     [
         "Soon (it) will be autumn. (It) will gradually get cool.",
-        "\u3082\u3046\u3059\u3050\u3042\u304d\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3059\u305a\u3057\u304f\u306a\u308a\u307e\u3059\u3002",
+        "\u3082\u3046\u3059\u3050{\u79cb|\u3042\u304d}\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3059\u305a\u3057\u304f\u306a\u308a\u307e\u3059\u3002",
         "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
@@ -2066,7 +2066,7 @@ Flashcards.initialize([
     ],
     [
         "Autumn is from March. The weather is clear, windy, rainy...",
-        "\u3042\u304d\u306f{\u4e09\u6708|\u3055\u3093\u304c\u3064}\u304b\u3089\u3067\u3059\u3002{\u5929\u6c17|\u3066\u3093\u304d}\u306f\u306f\u308c\u3001{\u98a8|\u304b\u305c}\u3001{\u96e8|\u3042\u3081}\u2026",
+        "{\u79cb|\u3042\u304d}\u306f{\u4e09\u6708|\u3055\u3093\u304c\u3064}\u304b\u3089\u3067\u3059\u3002{\u5929\u6c17|\u3066\u3093\u304d}\u306f\u306f\u308c\u3001{\u98a8|\u304b\u305c}\u3001{\u96e8|\u3042\u3081}\u2026",
         "(New Zealand)"
     ],
     [
