@@ -3318,5 +3318,10 @@ Flashcards.initialize([
         "Last year (I) have tried learning French.",
         "\u304d\u3087\u306d\u3093\u30d5\u30e9\u30f3\u30b9{\u8a9e|\u3054}\u3092\u306a\u3089\u3063\u3066\u307f\u307e\u3057\u305f\u3002",
         "verb-\u3066-form + \u307f\u308b = try doing ~"
+    ],
+    [
+        "Will this work somehow get done by 5 o'clock? Let's somehow do it!",
+        "{\u6b64\u306e|\u3053\u306e}{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3001{\u4e94\u6642|\u3054\u3058}\u307e\u3067\u306b{\u4f55\u3068\u304b|\u306a\u3093\u3068\u304b}\u306a\u308a\u307e\u3059\u304b\u3002{\u4f55\u3068\u304b|\u306a\u3093\u3068\u304b}\u3057\u307e\u3057\u3087\u3046\u3002",
+        ""
     ]
 ])

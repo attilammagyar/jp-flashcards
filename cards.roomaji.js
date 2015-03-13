@@ -3318,5 +3318,10 @@ Flashcards.initialize([
     "Last year (I) have tried learning French.",
     "kyonen _furansu_ {語|go} wo naratte mimashita.",
     "verb-て-form + みる = try doing ~"
+],
+[
+    "Will this work somehow get done by 5 o'clock? Let's somehow do it!",
+    "{此の|kono} {仕事|shigoto}, {五時|goji} made ni {何とか|nantoka} narimasu ka. {何とか|nantoka} shimashou.",
+    ""
 ]
 ])
