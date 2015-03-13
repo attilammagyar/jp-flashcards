@@ -336,7 +336,7 @@ Flashcards.initialize([
 ],
 [
     "(I) work until late.",
-    "osoku made {働きます|hatarakimasu}.",
+    "{遅く|osoku} made {働きます|hatarakimasu}.",
     ""
 ],
 [
@@ -406,7 +406,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always return home late. Occasionally (I) eat dinner with (my) family.",
-    "{何時も|itsumo} osoku {家|uchi} ni {帰ります|kaerimasu}. tamani {家族|kazoku} to bangohan wo {食べます|tabemasu}.",
+    "{何時も|itsumo} {遅く|osoku} {家|uchi} ni {帰ります|kaerimasu}. tamani {家族|kazoku} to bangohan wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -966,7 +966,7 @@ Flashcards.initialize([
 ],
 [
     "Why were (you) late today? Because (I) overslept.",
-    "doushite {今日|kyou} osoku narimashita ka. asanebou shimashita kara.",
+    "doushite {今日|kyou} {遅く|osoku} narimashita ka. asanebou shimashita kara.",
     ""
 ],
 [
@@ -1811,7 +1811,7 @@ Flashcards.initialize([
 ],
 [
     "By the way, Mr. Yamada is late, isn't he?",
-    "tokorode, {山田|yamada} san wa osoi desu ne.",
+    "tokorode, {山田|yamada} san wa {遅い|osoi} desu ne.",
     ""
 ],
 [
@@ -1836,7 +1836,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 2 tickets for Osaka please?",
-    "ousaka yuki no kippu wo {二|ni} mai kudasai.",
+    "ousaka yuki no {切符|kippu} wo {二|ni} mai kudasai.",
     ""
 ],
 [
@@ -2006,7 +2006,7 @@ Flashcards.initialize([
 ],
 [
     "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
-    "ousaka yuki no kippu wo {ニ|ni} mai kudasai. katamichi desu ka. oufuku desu ka. katamichi desu.",
+    "ousaka yuki no {切符|kippu} wo {ニ|ni} mai kudasai. katamichi desu ka. oufuku desu ka. katamichi desu.",
     ""
 ],
 [
@@ -2021,7 +2021,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no kippu wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
+    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no {切符|kippu} wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2116,7 +2116,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada works from early morning to late night every day.",
-    "{山田|yamada} san wa {毎日|mainichi} {朝|asa} {早く|hayaku} kara {夜|yoru} osoku made {仕事|shigoto} wo shimasu.",
+    "{山田|yamada} san wa {毎日|mainichi} {朝|asa} {早く|hayaku} kara {夜|yoru} {遅く|osoku} made {仕事|shigoto} wo shimasu.",
     ""
 ],
 [
@@ -2211,7 +2211,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada works every day until late.",
-    "{山田|yamada} san wa {毎日|mainichi} osoku made {仕事|shigoto} wo shimasu.",
+    "{山田|yamada} san wa {毎日|mainichi} {遅く|osoku} made {仕事|shigoto} wo shimasu.",
     ""
 ],
 [
@@ -2266,7 +2266,7 @@ Flashcards.initialize([
 ],
 [
     "(I) bought the ticket for Ms. Natsuko as well.",
-    "{夏子|natsuko} san no tame ni mo kippu wo {買いました|kaimashita}.",
+    "{夏子|natsuko} san no tame ni mo {切符|kippu} wo {買いました|kaimashita}.",
     "noun + の + ため + に + verb = do verb for the benefit of / in order to noun"
 ],
 [
@@ -2456,7 +2456,7 @@ Flashcards.initialize([
 ],
 [
     "Every day (I) work until late in the evening, but the work is very enjoyable.",
-    "{毎日|mainichi} {夜|yoru} osoku made {働きます|hatarakimasu} ga {仕事|shigoto} wa totemo {楽しい|tanoshii} desu.",
+    "{毎日|mainichi} {夜|yoru} {遅く|osoku} made {働きます|hatarakimasu} ga {仕事|shigoto} wa totemo {楽しい|tanoshii} desu.",
     ""
 ],
 [
@@ -2591,7 +2591,7 @@ Flashcards.initialize([
 ],
 [
     "Yesterday (I) got up late, (I) drank some coffee, then (I) went into town.",
-    "{昨日|kinou} osoku {起きて|okite}, _koohii_ wo {飲んで|nonde}, {町|machi} ni {行きました|ikimashita}.",
+    "{昨日|kinou} {遅く|osoku} {起きて|okite}, _koohii_ wo {飲んで|nonde}, {町|machi} ni {行きました|ikimashita}.",
     "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -2906,7 +2906,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) sorry (I'm) late. From now on, let's keep the curfew.",
-    "okurete sumimasen. {此れから|korekara} wa mongen wo mamorimashou.",
+    "{遅れて|okurete} sumimasen. {此れから|korekara} wa mongen wo mamorimashou.",
     ""
 ],
 [
@@ -3156,7 +3156,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to try on this jacket.",
-    "{此の|kono} _jaketto_ wo kite mitai desu.",
+    "{此の|kono} _jaketto_ wo {着て|kite} mitai desu.",
     "verb-て-form + みる = try doing ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -3306,7 +3306,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) try this jacket?",
-    "{此の|kono} _jaketto_ wo kite mite mo {良い|ii} desu ka.",
+    "{此の|kono} _jaketto_ wo {着て|kite} mite mo {良い|ii} desu ka.",
     "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
