@@ -271,7 +271,7 @@ Flashcards.initialize([
 ],
 [
     "I love spring nights.",
-    "haru no {夜|yoru} wa {大好き|daisuki} desu.",
+    "{春|haru} no {夜|yoru} wa {大好き|daisuki} desu.",
     ""
 ],
 [
@@ -1086,7 +1086,7 @@ Flashcards.initialize([
 ],
 [
     "The post office is over there.",
-    "yuubinkyoku wa asoko ni arimasu.",
+    "{郵便局|yuubinkyoku} wa asoko ni arimasu.",
     ""
 ],
 [
@@ -1146,7 +1146,7 @@ Flashcards.initialize([
 ],
 [
     "Is there a post office near here?",
-    "{此の|kono} {近く|chikaku} ni yuubinkyoku ga arimasu ka.",
+    "{此の|kono} {近く|chikaku} ni {郵便局|yuubinkyoku} ga arimasu ka.",
     ""
 ],
 [
@@ -1186,7 +1186,7 @@ Flashcards.initialize([
 ],
 [
     "The hotel is opposite the post office.",
-    "_hoteru_ wa yuubinkyoku no mukaigawa ni arimasu.",
+    "_hoteru_ wa {郵便局|yuubinkyoku} no mukaigawa ni arimasu.",
     ""
 ],
 [
@@ -1226,7 +1226,7 @@ Flashcards.initialize([
 ],
 [
     "What is opposite the post office?",
-    "yuubinkyoku no mukaigawa ni {何|nani} ga arimasu ka.",
+    "{郵便局|yuubinkyoku} no mukaigawa ni {何|nani} ga arimasu ka.",
     ""
 ],
 [
@@ -1236,7 +1236,7 @@ Flashcards.initialize([
 ],
 [
     "Where is the post office located? (It's located) next door to the bank.",
-    "yuubinkyoku wa {何処|doko} ni arimasu ka. {銀行|ginkou} no {隣|tonari} ni arimasu.",
+    "{郵便局|yuubinkyoku} wa {何処|doko} ni arimasu ka. {銀行|ginkou} no {隣|tonari} ni arimasu.",
     ""
 ],
 [
@@ -1306,7 +1306,7 @@ Flashcards.initialize([
 ],
 [
     "The post office is (located) opposite the bank. The post office is opposite the bank. There is a post office opposite the bank.",
-    "yuubinkyoku wa {銀行|ginkou} no mukaigawa ni arimasu. yuubinkyoku wa {銀行|ginkou} no mukaigawa desu. {銀行|ginkou} no mukaigawa ni yuubinkyoku ga arimasu.",
+    "{郵便局|yuubinkyoku} wa {銀行|ginkou} no mukaigawa ni arimasu. {郵便局|yuubinkyoku} wa {銀行|ginkou} no mukaigawa desu. {銀行|ginkou} no mukaigawa ni {郵便局|yuubinkyoku} ga arimasu.",
     ""
 ],
 [
@@ -1936,7 +1936,7 @@ Flashcards.initialize([
 ],
 [
     "spring, summer, autumn, winter",
-    "haru, {夏|natsu}, {秋|aki}, fuyu",
+    "{春|haru}, {夏|natsu}, {秋|aki}, fuyu",
     ""
 ],
 [
@@ -1966,7 +1966,7 @@ Flashcards.initialize([
 ],
 [
     "Soon (it) will be spring. (It) will gradually get warm.",
-    "mou sugu haru ni narimasu. dandan atatakaku narimasu.",
+    "mou sugu {春|haru} ni narimasu. dandan atatakaku narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
@@ -2031,7 +2031,7 @@ Flashcards.initialize([
 ],
 [
     "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
-    "{お天気|otenki} wa dou deshita ka. mou sugu haru ni narimasu ga son na ni atatakakunakatta desu.",
+    "{お天気|otenki} wa dou deshita ka. mou sugu {春|haru} ni narimasu ga son na ni atatakakunakatta desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2056,7 +2056,7 @@ Flashcards.initialize([
 ],
 [
     "Spring is from September to November. The weather is clear, sometimes rainy.",
-    "haru wa {九月|kugatsu} kara {十一月|juuichigatsu} made desu. {天気|tenki} wa hare, {時々|tokidoki} {雨|ame} desu.",
+    "{春|haru} wa {九月|kugatsu} kara {十一月|juuichigatsu} made desu. {天気|tenki} wa hare, {時々|tokidoki} {雨|ame} desu.",
     "(New Zealand)"
 ],
 [
@@ -2581,7 +2581,7 @@ Flashcards.initialize([
 ],
 [
     "The post office is (open) from 9 o'clock until 5 o'clock.",
-    "yuubinkyoku wa {九時|kuji} kara {五時|goji} made desu.",
+    "{郵便局|yuubinkyoku} wa {九時|kuji} kara {五時|goji} made desu.",
     ""
 ],
 [
