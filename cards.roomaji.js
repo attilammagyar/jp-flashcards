@@ -3323,5 +3323,30 @@ Flashcards.initialize([
     "Will this work somehow get done by 5 o'clock? Let's somehow do it!",
     "{此の|kono} {仕事|shigoto}, {五時|goji} made ni {何とか|nantoka} narimasu ka. {何とか|nantoka} shimashou.",
     ""
+],
+[
+    "That teacher's class is easy and not something of a challenge.",
+    "ano {先生|sensei} no {授業|jugyou} wa kantan de {何|nani} ka {物|mono} {足りない|tarinai} desu.",
+    "な-adj. + で = adj. and ...\n{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
+],
+[
+    "(It) wasn't quite enough. Let's eat another (piece of) dessert!",
+    "{未だ|mada} {物|mono} {足りません|tarimasen}. mou {一つ|hitotsu} _dezaato_ wo {食べましょう|tabemashou}.",
+    "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
+],
+[
+    "His pictures are nice, but (there's) something missing.",
+    "{彼|kare} no {絵|e} wa kirei desu ga, {何|nani} ka {物|mono} {足りない|tarinai} desu.",
+    "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
+],
+[
+    "There's something missing (from my) life right now.",
+    "{今|ima} no seikatsu wa {何|nani} ka {物|mono} {足りない|tarinai} desu.",
+    "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
+],
+[
+    "That test was easy, wasn't it? Anyway, (it) wasn't enough.",
+    "ano shiken wa yasashikatta desu ne. tonikaku {物|mono} {足りなかった|tarinakatta} desu.",
+    "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
 ]
 ])

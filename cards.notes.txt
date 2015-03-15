@@ -52,3 +52,4 @@ noun + が + {欲しい|ほしい} = (I) want a noun
 もう + verb-past = already completed doing ~
 もう + verb-present-negative = no longer doing ~ (complete action)
 もう + verb-て-form + いません = discontinued habitual action (no longer)
+{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something

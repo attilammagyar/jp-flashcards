@@ -2707,7 +2707,7 @@ Flashcards.initialize([
     [
         "Inside the youth hostel, wearing shoes is not allowed.",
         "\u30e6\u30fc\u30b9\u30fb\u30db\u30b9\u30c6\u30eb\u306e{\u4e2d|\u306a\u304b}\u3067\u306f\u304f\u3064\u3092\u306f\u3044\u3066\u306f\u3044\u3051\u307e\u305b\u3093\u3002",
-        "verb-\u3066-form + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
+        "verb-\u3066-form + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\n\u306f\u304f -> \u306f\u3044\u3066"
     ],
     [
         "Men may take a bath from 5 o'clock until 7 o'clock, women from 7 o'clock until 9 o'clock.",
@@ -2767,7 +2767,7 @@ Flashcards.initialize([
     [
         "Wearing accessories, earrings, etc. is not allowed.",
         "\u30a2\u30af\u30bb\u30b5\u30ea\u30fc\u3084\u30a4\u30e4\u30ea\u30f3\u30b0\u306a\u3069\u3092\u3057\u3066\u306f\u3044\u3051\u307e\u305b\u3093\u3002",
-        "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\n\u3084: incomplete list\nverb-\u3066-form + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
+        "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\n\u3084: incomplete list\nverb-\u3066-form + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\n\u3059\u308b -> \u3057\u3066"
     ],
     [
         "Occasionally (I) meet with a university teacher and (we) talk about studies.",
@@ -3032,7 +3032,7 @@ Flashcards.initialize([
     [
         "(I'm) learning the guitar.",
         "\u30ae\u30bf\u30fc\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
-        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
     ],
     [
         "(My) older sister is married.",
@@ -3082,7 +3082,7 @@ Flashcards.initialize([
     [
         "(I) commute to work by train. {emphasize habit}",
         "{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306b{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u3067\u304b\u3088\u3063\u3066\u3044\u307e\u3059\u3002",
-        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u304b\u3088\u3046 -> \u304b\u3088\u3063\u3066"
     ],
     [
         "Miki was teaching Japanese in America. {emphasize habit}",
@@ -3132,7 +3132,7 @@ Flashcards.initialize([
     [
         "(I) am currently learning flower arrangement.",
         "{\u4eca|\u3044\u307e}{\u751f\u3051\u82b1|\u3044\u3051\u3070\u306a}\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
-        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
     ],
     [
         "(I) want to try going to Japan by myself.",
@@ -3157,7 +3157,7 @@ Flashcards.initialize([
     [
         "(I) want to try on this jacket.",
         "{\u6b64\u306e|\u3053\u306e}\u30b8\u30e3\u30b1\u30c3\u30c8\u3092{\u7740\u3066|\u304d\u3066}\u307f\u305f\u3044\u3067\u3059\u3002",
-        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n{\u7740\u308b|\u304d\u308b} -> {\u7740\u3066|\u304d\u3066}"
     ],
     [
         "(I) want (you) to do (your) homework.",
@@ -3187,7 +3187,7 @@ Flashcards.initialize([
     [
         "(I) have already eaten breakfast. (I) no longer eat breakfast. Yuki no longer learns the piano. {discontinued habit}",
         "\u3082\u3046{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3057\u305f|\u305f\u3079\u307e\u3057\u305f}\u3002\u3082\u3046{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u305b\u3093|\u305f\u3079\u307e\u305b\u3093}\u3002\u3086\u304d\u3055\u3093\u306f\u3082\u3046\u30d4\u30a2\u30ce\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u305b\u3093\u3002",
-        "\u3082\u3046 + verb-past = already completed doing ~\n\u3082\u3046 + verb-present-negative = no longer doing ~ (complete action)\n\u3082\u3046 + verb-\u3066-form + \u3044\u307e\u305b\u3093 = discontinued habitual action (no longer)"
+        "\u3082\u3046 + verb-past = already completed doing ~\n\u3082\u3046 + verb-present-negative = no longer doing ~ (complete action)\n\u3082\u3046 + verb-\u3066-form + \u3044\u307e\u305b\u3093 = discontinued habitual action (no longer)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
     ],
     [
         "Are (you) still eating breakfast? No, (I've) already eaten (it).",
@@ -3262,7 +3262,7 @@ Flashcards.initialize([
     [
         "Because (I'm) learning the piano now, (I) practise every day. {habit}",
         "{\u4eca|\u3044\u307e}\u30d4\u30a2\u30ce\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u3059\u304b\u3089{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u308c\u3093\u3057\u3085\u3046\u3092\u3057\u3066\u3044\u307e\u3059\u3002",
-        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
     ],
     [
         "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
@@ -3307,7 +3307,7 @@ Flashcards.initialize([
     [
         "May (I) try this jacket?",
         "{\u6b64\u306e|\u3053\u306e}\u30b8\u30e3\u30b1\u30c3\u30c8\u3092{\u7740\u3066|\u304d\u3066}\u307f\u3066\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
-        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb\n{\u7740\u308b|\u304d\u308b} -> {\u7740\u3066|\u304d\u3066}"
     ],
     [
         "(I) no longer live in Tokyo.",
@@ -3317,11 +3317,36 @@ Flashcards.initialize([
     [
         "Last year (I) have tried learning French.",
         "\u304d\u3087\u306d\u3093\u30d5\u30e9\u30f3\u30b9{\u8a9e|\u3054}\u3092\u306a\u3089\u3063\u3066\u307f\u307e\u3057\u305f\u3002",
-        "verb-\u3066-form + \u307f\u308b = try doing ~"
+        "verb-\u3066-form + \u307f\u308b = try doing ~\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
     ],
     [
         "Will this work somehow get done by 5 o'clock? Let's somehow do it!",
         "{\u6b64\u306e|\u3053\u306e}{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3001{\u4e94\u6642|\u3054\u3058}\u307e\u3067\u306b{\u4f55\u3068\u304b|\u306a\u3093\u3068\u304b}\u306a\u308a\u307e\u3059\u304b\u3002{\u4f55\u3068\u304b|\u306a\u3093\u3068\u304b}\u3057\u307e\u3057\u3087\u3046\u3002",
         ""
+    ],
+    [
+        "That teacher's class is easy and not something of a challenge.",
+        "\u3042\u306e{\u5148\u751f|\u305b\u3093\u305b\u3044}\u306e{\u6388\u696d|\u3058\u3085\u304e\u3087\u3046}\u306f\u304b\u3093\u305f\u3093\u3067{\u4f55|\u306a\u306b}\u304b{\u7269|\u3082\u306e}{\u8db3\u308a\u306a\u3044|\u305f\u308a\u306a\u3044}\u3067\u3059\u3002",
+        "\u306a-adj. + \u3067 = adj. and ...\n{\u7269|\u3082\u306e}{\u8db3\u308a\u306a\u3044|\u305f\u308a\u306a\u3044}, {\u7269|\u3082\u306e}{\u8db3\u308a\u307e\u305b\u3093|\u305f\u308a\u307e\u305b\u3093} = be not enough, be not much of a challenge, be missing something"
+    ],
+    [
+        "(It) wasn't quite enough. Let's eat another (piece of) dessert!",
+        "{\u672a\u3060|\u307e\u3060}{\u7269|\u3082\u306e}{\u8db3\u308a\u307e\u305b\u3093|\u305f\u308a\u307e\u305b\u3093}\u3002\u3082\u3046{\u4e00\u3064|\u3072\u3068\u3064}\u30c7\u30b6\u30fc\u30c8\u3092{\u98df\u3079\u307e\u3057\u3087\u3046|\u305f\u3079\u307e\u3057\u3087\u3046}\u3002",
+        "{\u7269|\u3082\u306e}{\u8db3\u308a\u306a\u3044|\u305f\u308a\u306a\u3044}, {\u7269|\u3082\u306e}{\u8db3\u308a\u307e\u305b\u3093|\u305f\u308a\u307e\u305b\u3093} = be not enough, be not much of a challenge, be missing something"
+    ],
+    [
+        "His pictures are nice, but (there's) something missing.",
+        "{\u5f7c|\u304b\u308c}\u306e{\u7d75|\u3048}\u306f\u304d\u308c\u3044\u3067\u3059\u304c\u3001{\u4f55|\u306a\u306b}\u304b{\u7269|\u3082\u306e}{\u8db3\u308a\u306a\u3044|\u305f\u308a\u306a\u3044}\u3067\u3059\u3002",
+        "{\u7269|\u3082\u306e}{\u8db3\u308a\u306a\u3044|\u305f\u308a\u306a\u3044}, {\u7269|\u3082\u306e}{\u8db3\u308a\u307e\u305b\u3093|\u305f\u308a\u307e\u305b\u3093} = be not enough, be not much of a challenge, be missing something"
+    ],
+    [
+        "There's something missing (from my) life right now.",
+        "{\u4eca|\u3044\u307e}\u306e\u305b\u3044\u304b\u3064\u306f{\u4f55|\u306a\u306b}\u304b{\u7269|\u3082\u306e}{\u8db3\u308a\u306a\u3044|\u305f\u308a\u306a\u3044}\u3067\u3059\u3002",
+        "{\u7269|\u3082\u306e}{\u8db3\u308a\u306a\u3044|\u305f\u308a\u306a\u3044}, {\u7269|\u3082\u306e}{\u8db3\u308a\u307e\u305b\u3093|\u305f\u308a\u307e\u305b\u3093} = be not enough, be not much of a challenge, be missing something"
+    ],
+    [
+        "That test was easy, wasn't it? Anyway, (it) wasn't enough.",
+        "\u3042\u306e\u3057\u3051\u3093\u306f\u3084\u3055\u3057\u304b\u3063\u305f\u3067\u3059\u306d\u3002\u3068\u306b\u304b\u304f{\u7269|\u3082\u306e}{\u8db3\u308a\u306a\u304b\u3063\u305f|\u305f\u308a\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
+        "{\u7269|\u3082\u306e}{\u8db3\u308a\u306a\u3044|\u305f\u308a\u306a\u3044}, {\u7269|\u3082\u306e}{\u8db3\u308a\u307e\u305b\u3093|\u305f\u308a\u307e\u305b\u3093} = be not enough, be not much of a challenge, be missing something"
     ]
 ])
