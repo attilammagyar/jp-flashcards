@@ -2707,7 +2707,7 @@ Flashcards.initialize([
 [
     "Inside the youth hostel, wearing shoes is not allowed.",
     "_yuusu hosuteru_ no {中|naka} de wa kutsu wo haite wa ikemasen.",
-    "verb-て-form + は + いけません = doing verb is not allowed"
+    "verb-て-form + は + いけません = doing verb is not allowed\nはく -> はいて"
 ],
 [
     "Men may take a bath from 5 o'clock until 7 o'clock, women from 7 o'clock until 9 o'clock.",
@@ -2767,7 +2767,7 @@ Flashcards.initialize([
 [
     "Wearing accessories, earrings, etc. is not allowed.",
     "_akusesarii_ ya _iyaringu_ nado wo shite wa ikemasen.",
-    "A や B や C など = A, B, C, etc.\nや: incomplete list\nverb-て-form + は + いけません = doing verb is not allowed"
+    "A や B や C など = A, B, C, etc.\nや: incomplete list\nverb-て-form + は + いけません = doing verb is not allowed\nする -> して"
 ],
 [
     "Occasionally (I) meet with a university teacher and (we) talk about studies.",
@@ -3032,7 +3032,7 @@ Flashcards.initialize([
 [
     "(I'm) learning the guitar.",
     "_gitaa_ wo naratte imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって"
 ],
 [
     "(My) older sister is married.",
@@ -3082,7 +3082,7 @@ Flashcards.initialize([
 [
     "(I) commute to work by train. {emphasize habit}",
     "{仕事|shigoto} ni {電車|densha} de kayotte imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nかよう -> かよって"
 ],
 [
     "Miki was teaching Japanese in America. {emphasize habit}",
@@ -3132,7 +3132,7 @@ Flashcards.initialize([
 [
     "(I) am currently learning flower arrangement.",
     "{今|ima} {生け花|ikebana} wo naratte imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって"
 ],
 [
     "(I) want to try going to Japan by myself.",
@@ -3157,7 +3157,7 @@ Flashcards.initialize([
 [
     "(I) want to try on this jacket.",
     "{此の|kono} _jaketto_ wo {着て|kite} mitai desu.",
-    "verb-て-form + みる = try doing ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verb-て-form + みる = try doing ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\n{着る|きる} -> {着て|きて}"
 ],
 [
     "(I) want (you) to do (your) homework.",
@@ -3187,7 +3187,7 @@ Flashcards.initialize([
 [
     "(I) have already eaten breakfast. (I) no longer eat breakfast. Yuki no longer learns the piano. {discontinued habit}",
     "mou {朝ごはん|asagohan} wo {食べました|tabemashita}. mou {朝ごはん|asagohan} wo {食べません|tabemasen}. yuki san wa mou _piano_ wo naratte imasen.",
-    "もう + verb-past = already completed doing ~\nもう + verb-present-negative = no longer doing ~ (complete action)\nもう + verb-て-form + いません = discontinued habitual action (no longer)"
+    "もう + verb-past = already completed doing ~\nもう + verb-present-negative = no longer doing ~ (complete action)\nもう + verb-て-form + いません = discontinued habitual action (no longer)\nならう -> ならって"
 ],
 [
     "Are (you) still eating breakfast? No, (I've) already eaten (it).",
@@ -3262,7 +3262,7 @@ Flashcards.initialize([
 [
     "Because (I'm) learning the piano now, (I) practise every day. {habit}",
     "{今|ima} _piano_ wo naratte imasu kara {毎日|mainichi} renshuu wo shite imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって"
 ],
 [
     "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
@@ -3307,7 +3307,7 @@ Flashcards.initialize([
 [
     "May (I) try this jacket?",
     "{此の|kono} _jaketto_ wo {着て|kite} mite mo {良い|ii} desu ka.",
-    "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb\n{着る|きる} -> {着て|きて}"
 ],
 [
     "(I) no longer live in Tokyo.",
@@ -3317,7 +3317,7 @@ Flashcards.initialize([
 [
     "Last year (I) have tried learning French.",
     "kyonen _furansu_ {語|go} wo naratte mimashita.",
-    "verb-て-form + みる = try doing ~"
+    "verb-て-form + みる = try doing ~\nならう -> ならって"
 ],
 [
     "Will this work somehow get done by 5 o'clock? Let's somehow do it!",
