@@ -121,7 +121,7 @@ Flashcards.initialize([
 ],
 [
     "Shall (we) eat sushi together?",
-    "issho ni sushi wo {食べません|tabemasen} ka.",
+    "{一緒|issho} ni sushi wo {食べません|tabemasen} ka.",
     ""
 ],
 [
@@ -181,7 +181,7 @@ Flashcards.initialize([
 ],
 [
     "We always eat dinner together.",
-    "watashitachi wa {何時も|itsumo} issho ni bangohan wo {食べます|tabemasu}.",
+    "watashitachi wa {何時も|itsumo} {一緒|issho} ni bangohan wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -696,7 +696,7 @@ Flashcards.initialize([
 ],
 [
     "I'm very worried. Tonight, shall we study English together?",
-    "totemo shinpai desu. {今夜|kon ya} issho ni {英語|eigo} wo {勉強|benkyou} shimasen ka.",
+    "totemo shinpai desu. {今夜|kon ya} {一緒|issho} ni {英語|eigo} wo {勉強|benkyou} shimasen ka.",
     ""
 ],
 [
@@ -706,7 +706,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (we'll) study Japanese together. How about that?",
-    "{明日|ashita} wa issho ni {日本語|nihongo} wo {勉強|benkyou} shimasu. dou desu ka.",
+    "{明日|ashita} wa {一緒|issho} ni {日本語|nihongo} wo {勉強|benkyou} shimasu. dou desu ka.",
     ""
 ],
 [
@@ -721,7 +721,7 @@ Flashcards.initialize([
 ],
 [
     "Let's go to a concert together.",
-    "issho ni _konsaato_ ni {行きましょう|ikimashou}.",
+    "{一緒|issho} ni _konsaato_ ni {行きましょう|ikimashou}.",
     ""
 ],
 [
@@ -1311,7 +1311,7 @@ Flashcards.initialize([
 ],
 [
     "How about the cinema? Won't (we) go to the cinema? Shall (we) go to the cinema together? Let's go to the cinema!",
-    "{映画館|eigakan} wa dou desu ka. {映画館|eigakan} ni {行きません|ikimasen} ka. issho ni {映画館|eigakan} ni {行きましょう|ikimashou} ka. {映画館|eigakan} ni {行きましょう|ikimashou}.",
+    "{映画館|eigakan} wa dou desu ka. {映画館|eigakan} ni {行きません|ikimasen} ka. {一緒|issho} ni {映画館|eigakan} ni {行きましょう|ikimashou} ka. {映画館|eigakan} ni {行きましょう|ikimashou}.",
     ""
 ],
 [
@@ -1331,7 +1331,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow, won't (we) go somewhere together? Yes, where shall (we) go?",
-    "{明日|ashita} {何処|doko} ka issho ni {行きません|ikimasen} ka. hai, {何処|doko} ni {行きましょう|ikimashou} ka.",
+    "{明日|ashita} {何処|doko} ka {一緒|issho} ni {行きません|ikimasen} ka. hai, {何処|doko} ni {行きましょう|ikimashou} ka.",
     ""
 ],
 [
@@ -1491,7 +1491,7 @@ Flashcards.initialize([
 ],
 [
     "I hope to play tennis together next week.",
-    "{来週|raishuu} issho ni _tenisu_ wo shitai to omoimasu.",
+    "{来週|raishuu} {一緒|issho} ni _tenisu_ wo shitai to omoimasu.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2256,7 +2256,7 @@ Flashcards.initialize([
 ],
 [
     "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {Polite.}",
-    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, {何時も|itsumo} {野菜|yasai} wo yakiniku to issho ni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
+    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, {何時も|itsumo} {野菜|yasai} wo yakiniku to {一緒|issho} ni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
     ""
 ],
 [
@@ -2371,7 +2371,7 @@ Flashcards.initialize([
 ],
 [
     "Won't (we) go for a drive together this weekend?",
-    "konshuumatsu issho ni _doraibu_ he {行きません|ikimasen} ka.",
+    "konshuumatsu {一緒|issho} ni _doraibu_ he {行きません|ikimasen} ka.",
     ""
 ],
 [
@@ -2436,7 +2436,7 @@ Flashcards.initialize([
 ],
 [
     "Won't (we) play golf together on Sunday this week?",
-    "{今週|konshuu} no {日曜日|nichiyoubi} ni issho ni _gorufu_ wo shimasen ka.",
+    "{今週|konshuu} no {日曜日|nichiyoubi} ni {一緒|issho} ni _gorufu_ wo shimasen ka.",
     ""
 ],
 [
@@ -2476,7 +2476,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
-    "{明日|ashita} {夏子|natsuko} san to issho ni {町|machi} he {映画|eiga} wo {見に|mini} {行きます|ikimasu}.",
+    "{明日|ashita} {夏子|natsuko} san to {一緒|issho} ni {町|machi} he {映画|eiga} wo {見に|mini} {行きます|ikimasu}.",
     "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
@@ -2776,7 +2776,7 @@ Flashcards.initialize([
 ],
 [
     "Every night, together with the band members, (we) do the band's rehearsals.",
-    "{毎ばん|maiban} _bando_ no _menbaa_ to issho ni _bando_ no renshuu shimasu.",
+    "{毎ばん|maiban} _bando_ no _menbaa_ to {一緒|issho} ni _bando_ no renshuu shimasu.",
     ""
 ],
 [
@@ -3345,7 +3345,7 @@ Flashcards.initialize([
     "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
 ],
 [
-    "That test was easy, wasn't it? Anyway, (it) wasn't enough.",
+    "That exam was easy, wasn't it? Anyway, (it) wasn't enough.",
     "ano shiken wa yasashikatta desu ne. tonikaku {物|mono} {足りなかった|tarinakatta} desu.",
     "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
 ]
