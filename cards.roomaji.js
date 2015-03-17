@@ -511,7 +511,7 @@ Flashcards.initialize([
 ],
 [
     "(I'll have) 2 of these Christmas cards please.",
-    "{此の|kono} _kurisumasu kaado_ wo {二|ni} mai kudasai.",
+    "{此の|kono} _kurisumasu kaado_ wo {二|ni} {枚|mai} kudasai.",
     ""
 ],
 [
@@ -796,7 +796,7 @@ Flashcards.initialize([
 ],
 [
     "3 summer kimonos",
-    "yukata {三|san} mai",
+    "yukata {三|san} {枚|mai}",
     ""
 ],
 [
@@ -881,7 +881,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 5 stamps please?",
-    "{切手|kitte} wo {五|go}mai kudasai.",
+    "{切手|kitte} wo {五|go} {枚|mai} kudasai.",
     ""
 ],
 [
@@ -1016,12 +1016,12 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 3 of this postcard and 3 of the 75 yen stamps as well please?",
-    "{此の|kono} hagaki wo {三|san} mai to {七十五円|nanajuugo en} no {切手|kitte} mo {三|san} mai kudasai.",
+    "{此の|kono} hagaki wo {三|san} {枚|mai} to {七十五円|nanajuugo en} no {切手|kitte} mo {三|san} {枚|mai} kudasai.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "May (I) have 4 stamps please? Where to? To America.",
-    "{切手|kitte} wo {四|yon} mai kudasai. {何処|doko} made desu ka. _amerika_ made desu.",
+    "{切手|kitte} wo {四|yon} {枚|mai} kudasai. {何処|doko} made desu ka. _amerika_ made desu.",
     ""
 ],
 [
@@ -1836,7 +1836,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 2 tickets for Osaka please?",
-    "ousaka yuki no {切符|kippu} wo {二|ni} mai kudasai.",
+    "ousaka yuki no {切符|kippu} wo {二|ni} {枚|mai} kudasai.",
     ""
 ],
 [
@@ -1906,7 +1906,7 @@ Flashcards.initialize([
 ],
 [
     "If (you) study every day, (your) Japanese will get skilled.",
-    "{毎日|mai nichi} {勉強|benkyou} suru to {日本語|nihongo} ga {上手|jouzu} ni narimasu.",
+    "{毎日|mainichi} {勉強|benkyou} suru to {日本語|nihongo} ga {上手|jouzu} ni narimasu.",
     "A-dictionary-form とB = if A then B\nnoun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
@@ -2006,7 +2006,7 @@ Flashcards.initialize([
 ],
 [
     "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
-    "ousaka yuki no {切符|kippu} wo {ニ|ni} mai kudasai. katamichi desu ka. oufuku desu ka. katamichi desu.",
+    "ousaka yuki no {切符|kippu} wo {ニ|ni} {枚|mai} kudasai. katamichi desu ka. oufuku desu ka. katamichi desu.",
     ""
 ],
 [
@@ -2716,7 +2716,7 @@ Flashcards.initialize([
 ],
 [
     "Don't eat at the rooms. Please eat at the canteen.",
-    "{部屋|heya} de {食べて|tabete} wa dame desu. shokudou de {食べて|tabete} kudasai.",
+    "{部屋|heya} de {食べて|tabete} wa dame desu. {食堂|shokudou} de {食べて|tabete} kudasai.",
     "verb-て-form + は + だめ = must not do verb\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
 ],
 [
