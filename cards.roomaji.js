@@ -990,7 +990,7 @@ Flashcards.initialize([
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
-    "There's both beer and rice-wine.",
+    "There's both beer and rice wine.",
     "_biiru_ mo {お酒|osake} mo arimasu.",
     ""
 ],
@@ -3348,5 +3348,50 @@ Flashcards.initialize([
     "That exam was easy, wasn't it? Anyway, (it) wasn't enough.",
     "ano shiken wa yasashikatta desu ne. tonikaku {物|mono} {足りなかった|tarinakatta} desu.",
     "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
+],
+[
+    "Every day (I) get up at 6 o'clock. {plain} And before (I) eat breakfast (I) take a shower.",
+    "{毎日|mainichi} {六時|rokuji} ni {起きる|okiru}. soshite {朝ごはん|asagohan} wo {食べる|taberu} {前|mae} ni _shawaa_ wo {浴びます|abimasu}.",
+    "verb-plain + {前|mae} に = before doing ~"
+],
+[
+    "Eri can already swim.",
+    "eri chan wa mou oyogu {事|koto} {出来ます|dekimasu}.",
+    ""
+],
+[
+    "Roger likes to drink beer with (his) friends.",
+    "_rojaa_ san wa {友達|tomodachi} to _biiru_ wo {飲む|nomu} {事|koto} ga {好き|suki} desu.",
+    ""
+],
+[
+    "Next year (I) intend to go to South America.",
+    "{来年|rainen} {南|minami} _amerika_ ni {行く|iku} tsumori desu.",
+    ""
+],
+[
+    "(I) have an interest in South America so (I) want to go.",
+    "{南|minami} _amerika_ ni kyoumi ga aru node {行きたい|ikitai} desu.",
+    "verb stem + たい = want to ~"
+],
+[
+    "(I) am learning Japanese therefore (I) have come to Japan.",
+    "{日本語|nihongo} wo naratte imasu kara {日本|nihon} ni {来て|kite} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)"
+],
+[
+    "What's the matter? Well, you see, (I've) got a headache.",
+    "dou shita n desu ka. {頭|atama} ga itai n desu.",
+    ""
+],
+[
+    "Every morning (I) drink coffee before taking a shower.",
+    "{毎朝|maiasa} _shawaa_ wo {浴びる|abiru} {前|mae} ni _koohii_ wo {飲みます|nomimasu}.",
+    "verb-plain + {前|mae} に = before doing ~"
+],
+[
+    "Before taking a shower (I) usually eat breakfast.",
+    "_shawaa_ wo {浴びる|abiru} {前|mae} ni taitei {朝ごはん|asagohan} wo {食べます|tabemasu}.",
+    "verb-plain + {前|mae} に = before doing ~"
 ]
 ])

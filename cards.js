@@ -990,7 +990,7 @@ Flashcards.initialize([
         "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
-        "There's both beer and rice-wine.",
+        "There's both beer and rice wine.",
         "\u30d3\u30fc\u30eb\u3082{\u304a\u9152|\u304a\u3055\u3051}\u3082\u3042\u308a\u307e\u3059\u3002",
         ""
     ],
@@ -3348,5 +3348,50 @@ Flashcards.initialize([
         "That exam was easy, wasn't it? Anyway, (it) wasn't enough.",
         "\u3042\u306e\u3057\u3051\u3093\u306f\u3084\u3055\u3057\u304b\u3063\u305f\u3067\u3059\u306d\u3002\u3068\u306b\u304b\u304f{\u7269|\u3082\u306e}{\u8db3\u308a\u306a\u304b\u3063\u305f|\u305f\u308a\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
         "{\u7269|\u3082\u306e}{\u8db3\u308a\u306a\u3044|\u305f\u308a\u306a\u3044}, {\u7269|\u3082\u306e}{\u8db3\u308a\u307e\u305b\u3093|\u305f\u308a\u307e\u305b\u3093} = be not enough, be not much of a challenge, be missing something"
+    ],
+    [
+        "Every day (I) get up at 6 o'clock. {plain} And before (I) eat breakfast (I) take a shower.",
+        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u516d\u6642|\u308d\u304f\u3058}\u306b{\u8d77\u304d\u308b|\u304a\u304d\u308b}\u3002\u305d\u3057\u3066{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}{\u524d|\u307e\u3048}\u306b\u30b7\u30e3\u30ef\u30fc\u3092{\u6d74\u3073\u307e\u3059|\u3042\u3073\u307e\u3059}\u3002",
+        "verb-plain + {\u524d|\u307e\u3048} \u306b = before doing ~"
+    ],
+    [
+        "Eri can already swim.",
+        "\u3048\u308a\u3061\u3083\u3093\u306f\u3082\u3046\u304a\u3088\u3050{\u4e8b|\u3053\u3068}{\u51fa\u6765\u307e\u3059|\u3067\u304d\u307e\u3059}\u3002",
+        ""
+    ],
+    [
+        "Roger likes to drink beer with (his) friends.",
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3068\u30d3\u30fc\u30eb\u3092{\u98f2\u3080|\u306e\u3080}{\u4e8b|\u3053\u3068}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "Next year (I) intend to go to South America.",
+        "{\u6765\u5e74|\u3089\u3044\u306d\u3093}{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u304f|\u3044\u304f}\u3064\u3082\u308a\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "(I) have an interest in South America so (I) want to go.",
+        "{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b\u304d\u3087\u3046\u307f\u304c\u3042\u308b\u306e\u3067{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u3067\u3059\u3002",
+        "verb stem + \u305f\u3044 = want to ~"
+    ],
+    [
+        "(I) am learning Japanese therefore (I) have come to Japan.",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u3059\u304b\u3089{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-\u3066-form + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+    ],
+    [
+        "What's the matter? Well, you see, (I've) got a headache.",
+        "\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3002{\u982d|\u3042\u305f\u307e}\u304c\u3044\u305f\u3044\u3093\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "Every morning (I) drink coffee before taking a shower.",
+        "{\u6bce\u671d|\u307e\u3044\u3042\u3055}\u30b7\u30e3\u30ef\u30fc\u3092{\u6d74\u3073\u308b|\u3042\u3073\u308b}{\u524d|\u307e\u3048}\u306b\u30b3\u30fc\u30d2\u30fc\u3092{\u98f2\u307f\u307e\u3059|\u306e\u307f\u307e\u3059}\u3002",
+        "verb-plain + {\u524d|\u307e\u3048} \u306b = before doing ~"
+    ],
+    [
+        "Before taking a shower (I) usually eat breakfast.",
+        "\u30b7\u30e3\u30ef\u30fc\u3092{\u6d74\u3073\u308b|\u3042\u3073\u308b}{\u524d|\u307e\u3048}\u306b\u305f\u3044\u3066\u3044{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
+        "verb-plain + {\u524d|\u307e\u3048} \u306b = before doing ~"
     ]
 ])
