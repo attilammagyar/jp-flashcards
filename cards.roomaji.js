@@ -221,7 +221,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always make dinner with (my) mom and (my) husband.",
-    "{何時も|itsumo} {母|haha} to shujin to bangohan wo {作ります|tsukurimasu}.",
+    "{何時も|itsumo} {母|haha} to {主人|shujin} to bangohan wo {作ります|tsukurimasu}.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -491,7 +491,7 @@ Flashcards.initialize([
 ],
 [
     "It's OK. There is no problem.",
-    "daijoubu desu. {問題|mondai} arimasen.",
+    "{大丈夫|daijoubu} desu. {問題|mondai} arimasen.",
     ""
 ],
 [
@@ -606,7 +606,7 @@ Flashcards.initialize([
 ],
 [
     "husband {In-group, out-group.}",
-    "shujin, goshujin",
+    "{主人|shujin}, {ご主人|goshujin}",
     ""
 ],
 [
@@ -2026,8 +2026,8 @@ Flashcards.initialize([
 ],
 [
     "(It) was too far.",
-    "{遠|too} sugimashita.",
-    "{遠い|とおい} = long way, distant\nstem of adj. or continuative base of verb + ~すぎる = too much ~, over~"
+    "{遠|too} {過ぎました|sugimashita}.",
+    "{遠い|とおい} = long way, distant\nstem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~"
 ],
 [
     "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
@@ -2936,8 +2936,8 @@ Flashcards.initialize([
 ],
 [
     "These shoes are a bit too big. Please show (me some) others.",
-    "{此の|kono} kutsu wa {少し|sukoshi} {大き|ooki} sugimasu. {他|hoka} no wo {見せて|misete} kudasai.",
-    "stem of adj. or continuative base of verb + ~すぎる = too much ~, over~"
+    "{此の|kono} kutsu wa {少し|sukoshi} {大き|ooki} {過ぎます|sugimasu}. {他|hoka} no wo {見せて|misete} kudasai.",
+    "stem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~"
 ],
 [
     "(So) in the end, (it's) a search for guys?",
@@ -3286,7 +3286,7 @@ Flashcards.initialize([
 ],
 [
     "(My) husband has already set off to (his) company but grandpa is still sleeping.",
-    "shujin wa mou {会社|kaisha} ni {出掛けました|dekakemashita} ga ojiichan wa {未だ|mada} {寝て|nete} imasu.",
+    "{主人|shujin} wa mou {会社|kaisha} ni {出掛けました|dekakemashita} ga ojiichan wa {未だ|mada} {寝て|nete} imasu.",
     "もう + verb-past = already completed doing ~\n{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)"
 ],
 [

@@ -221,7 +221,7 @@ Flashcards.initialize([
     ],
     [
         "(I) always make dinner with (my) mom and (my) husband.",
-        "{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u6bcd|\u306f\u306f}\u3068\u3057\u3085\u3058\u3093\u3068\u3070\u3093\u3054\u306f\u3093\u3092{\u4f5c\u308a\u307e\u3059|\u3064\u304f\u308a\u307e\u3059}\u3002",
+        "{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u6bcd|\u306f\u306f}\u3068{\u4e3b\u4eba|\u3057\u3085\u3058\u3093}\u3068\u3070\u3093\u3054\u306f\u3093\u3092{\u4f5c\u308a\u307e\u3059|\u3064\u304f\u308a\u307e\u3059}\u3002",
         "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
@@ -491,7 +491,7 @@ Flashcards.initialize([
     ],
     [
         "It's OK. There is no problem.",
-        "\u3060\u3044\u3058\u3087\u3046\u3076\u3067\u3059\u3002{\u554f\u984c|\u3082\u3093\u3060\u3044}\u3042\u308a\u307e\u305b\u3093\u3002",
+        "{\u5927\u4e08\u592b|\u3060\u3044\u3058\u3087\u3046\u3076}\u3067\u3059\u3002{\u554f\u984c|\u3082\u3093\u3060\u3044}\u3042\u308a\u307e\u305b\u3093\u3002",
         ""
     ],
     [
@@ -606,7 +606,7 @@ Flashcards.initialize([
     ],
     [
         "husband {In-group, out-group.}",
-        "\u3057\u3085\u3058\u3093\u3001\u3054\u3057\u3085\u3058\u3093",
+        "{\u4e3b\u4eba|\u3057\u3085\u3058\u3093}\u3001{\u3054\u4e3b\u4eba|\u3054\u3057\u3085\u3058\u3093}",
         ""
     ],
     [
@@ -2026,8 +2026,8 @@ Flashcards.initialize([
     ],
     [
         "(It) was too far.",
-        "{\u9060|\u3068\u304a}\u3059\u304e\u307e\u3057\u305f\u3002",
-        "{\u9060\u3044|\u3068\u304a\u3044} = long way, distant\nstem of adj. or continuative base of verb + ~\u3059\u304e\u308b = too much ~, over~"
+        "{\u9060|\u3068\u304a}{\u904e\u304e\u307e\u3057\u305f|\u3059\u304e\u307e\u3057\u305f}\u3002",
+        "{\u9060\u3044|\u3068\u304a\u3044} = long way, distant\nstem of adj. or continuative base of verb + ~{\u904e\u304e\u308b|\u3059\u304e\u308b} = too much ~, over~"
     ],
     [
         "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
@@ -2936,8 +2936,8 @@ Flashcards.initialize([
     ],
     [
         "These shoes are a bit too big. Please show (me some) others.",
-        "{\u6b64\u306e|\u3053\u306e}\u304f\u3064\u306f{\u5c11\u3057|\u3059\u3053\u3057}{\u5927\u304d|\u304a\u304a\u304d}\u3059\u304e\u307e\u3059\u3002{\u4ed6|\u307b\u304b}\u306e\u3092{\u898b\u305b\u3066|\u307f\u305b\u3066}\u304f\u3060\u3055\u3044\u3002",
-        "stem of adj. or continuative base of verb + ~\u3059\u304e\u308b = too much ~, over~"
+        "{\u6b64\u306e|\u3053\u306e}\u304f\u3064\u306f{\u5c11\u3057|\u3059\u3053\u3057}{\u5927\u304d|\u304a\u304a\u304d}{\u904e\u304e\u307e\u3059|\u3059\u304e\u307e\u3059}\u3002{\u4ed6|\u307b\u304b}\u306e\u3092{\u898b\u305b\u3066|\u307f\u305b\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "stem of adj. or continuative base of verb + ~{\u904e\u304e\u308b|\u3059\u304e\u308b} = too much ~, over~"
     ],
     [
         "(So) in the end, (it's) a search for guys?",
@@ -3286,7 +3286,7 @@ Flashcards.initialize([
     ],
     [
         "(My) husband has already set off to (his) company but grandpa is still sleeping.",
-        "\u3057\u3085\u3058\u3093\u306f\u3082\u3046{\u4f1a\u793e|\u304b\u3044\u3057\u3083}\u306b{\u51fa\u639b\u3051\u307e\u3057\u305f|\u3067\u304b\u3051\u307e\u3057\u305f}\u304c\u304a\u3058\u3044\u3061\u3083\u3093\u306f{\u672a\u3060|\u307e\u3060}{\u5bdd\u3066|\u306d\u3066}\u3044\u307e\u3059\u3002",
+        "{\u4e3b\u4eba|\u3057\u3085\u3058\u3093}\u306f\u3082\u3046{\u4f1a\u793e|\u304b\u3044\u3057\u3083}\u306b{\u51fa\u639b\u3051\u307e\u3057\u305f|\u3067\u304b\u3051\u307e\u3057\u305f}\u304c\u304a\u3058\u3044\u3061\u3083\u3093\u306f{\u672a\u3060|\u307e\u3060}{\u5bdd\u3066|\u306d\u3066}\u3044\u307e\u3059\u3002",
         "\u3082\u3046 + verb-past = already completed doing ~\n{\u672a\u3060|\u307e\u3060} + verb-\u3066-form + \u3044\u307e\u3059 = still doing ~ (incomplete action)"
     ],
     [
