@@ -3357,7 +3357,7 @@ Flashcards.initialize([
     [
         "Eri can already swim.",
         "\u3048\u308a\u3061\u3083\u3093\u306f\u3082\u3046\u304a\u3088\u3050{\u4e8b|\u3053\u3068}{\u51fa\u6765\u307e\u3059|\u3067\u304d\u307e\u3059}\u3002",
-        ""
+        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
     ],
     [
         "Roger likes to drink beer with (his) friends.",
@@ -3391,7 +3391,17 @@ Flashcards.initialize([
     ],
     [
         "Before taking a shower (I) usually eat breakfast.",
-        "\u30b7\u30e3\u30ef\u30fc\u3092{\u6d74\u3073\u308b|\u3042\u3073\u308b}{\u524d|\u307e\u3048}\u306b\u305f\u3044\u3066\u3044{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
+        "\u305f\u3044\u3066\u3044\u30b7\u30e3\u30ef\u30fc\u3092{\u6d74\u3073\u308b|\u3042\u3073\u308b}{\u524d|\u307e\u3048}\u306b{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
         "verb-plain + {\u524d|\u307e\u3048} \u306b = before doing ~"
+    ],
+    [
+        "Naoe can speak English a little.",
+        "\u306a\u304a\u3048\u3055\u3093\u306f{\u5c11\u3057|\u3059\u3053\u3057}{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u8a71\u3059|\u306f\u306a\u3059}{\u4e8b|\u3053\u3068}\u304c{\u51fa\u6765\u307e\u3059|\u3067\u304d\u307e\u3059}\u3002",
+        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+    ],
+    [
+        "I can't eat raw fish.",
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u3055\u3057\u307f\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}{\u4e8b|\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
+        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
     ]
 ])

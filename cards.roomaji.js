@@ -2567,12 +2567,12 @@ Flashcards.initialize([
 [
     "May (I) watch the tv?",
     "_terebi_ wo {見て|mite} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "(You) may eat here.",
     "{此処|koko} de {食べて|tabete} mo {良い|ii} desu.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "(You) are not allowed to eat here.",
@@ -2642,27 +2642,27 @@ Flashcards.initialize([
 [
     "May (I) go to the toilet?",
     "_toire_ ni {行って|itte} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) listen to music here?",
     "{此処|koko} de {音楽|ongaku} wo {聞いて|kiite} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) open the window? May (I) close the window?",
     "{窓|mado} wo {開けて|akete} mo {良い|ii} desu ka. {窓|mado} wo shimete mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) enter this room?",
     "{此の|kono} {部屋|heya} ni {入った|haitte} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) take a bath?",
     "ofuro ni {入って|haitte} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "(You are) not allowed to open that door.",
@@ -2712,12 +2712,12 @@ Flashcards.initialize([
 [
     "Men may take a bath from 5 o'clock until 7 o'clock, women from 7 o'clock until 9 o'clock.",
     "dansei wa {五時|goji} kara {七時|shichiji} made ohuro ni {入って|haitte} mo {良い|ii} desu. josei wa {七時|shichiji} kara {九時|kuji} made desu.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "Don't eat at the rooms. Please eat at the canteen.",
     "{部屋|heya} de {食べて|tabete} wa dame desu. {食堂|shokudou} de {食べて|tabete} kudasai.",
-    "verb-て-form + は + だめ = must not do verb\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + は + だめ = must not do verb\nverb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "Rooms are separated? I can't believe it!",
@@ -2752,7 +2752,7 @@ Flashcards.initialize([
 [
     "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
     "{先生|sensei} to {話したい|hanashitai} baai wa, shokuinshitsu ni {入って|haitte} mo {良い|ii} desu.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "(It's) not allowed to go to the toilet during class.",
@@ -2762,7 +2762,7 @@ Flashcards.initialize([
 [
     "(You) may eat (your) lunch in the classroom.",
     "{教室|kyoushitsu} de {昼ごはん|hirugohan} wo {食べて|tabete} mo {良い|ii} desu.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "Wearing accessories, earrings, etc. is not allowed.",
@@ -2787,7 +2787,7 @@ Flashcards.initialize([
 [
     "May (I) switch on the lights? Please switch off the lights.",
     "{電気|denki} wo tsukete mo {良い|ii} desu ka. {電気|denki} wo {消して|keshite} kudasai.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb\nverb-て-form + ください = request"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb\nverb-て-form + ください = request"
 ],
 [
     "(You are) not allowed to sing in here.",
@@ -2802,12 +2802,12 @@ Flashcards.initialize([
 [
     "(You) may play (your) guitar in this room.",
     "{此の|kono} {部屋|heya} de _gitaa_ wo hiite mo {良い|ii} desu.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) take a rest?",
     "{休んで|yasunde} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "Please take off (your) shoes.",
@@ -3152,7 +3152,7 @@ Flashcards.initialize([
 [
     "May (I) try phoning Mr. Yamada?",
     "{山田|yamada} san ni {電話|denwa} wo shite mite mo {良い|ii} desu ka.",
-    "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
     "(I) want to try on this jacket.",
@@ -3307,7 +3307,7 @@ Flashcards.initialize([
 [
     "May (I) try this jacket?",
     "{此の|kono} _jaketto_ wo {着て|kite} mite mo {良い|ii} desu ka.",
-    "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|ii} = doing verb is allowed, (you) may do verb\n{着る|きる} -> {着て|きて}"
+    "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb\n{着る|きる} -> {着て|きて}"
 ],
 [
     "(I) no longer live in Tokyo.",
@@ -3352,12 +3352,12 @@ Flashcards.initialize([
 [
     "Every day (I) get up at 6 o'clock. {plain} And before (I) eat breakfast (I) take a shower.",
     "{毎日|mainichi} {六時|rokuji} ni {起きる|okiru}. soshite {朝ごはん|asagohan} wo {食べる|taberu} {前|mae} ni _shawaa_ wo {浴びます|abimasu}.",
-    "verb-plain + {前|mae} に = before doing ~"
+    "verb-plain + {前|まえ} に = before doing ~"
 ],
 [
     "Eri can already swim.",
     "eri chan wa mou oyogu {事|koto} {出来ます|dekimasu}.",
-    ""
+    "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
 ],
 [
     "Roger likes to drink beer with (his) friends.",
@@ -3387,11 +3387,21 @@ Flashcards.initialize([
 [
     "Every morning (I) drink coffee before taking a shower.",
     "{毎朝|maiasa} _shawaa_ wo {浴びる|abiru} {前|mae} ni _koohii_ wo {飲みます|nomimasu}.",
-    "verb-plain + {前|mae} に = before doing ~"
+    "verb-plain + {前|まえ} に = before doing ~"
 ],
 [
     "Before taking a shower (I) usually eat breakfast.",
-    "_shawaa_ wo {浴びる|abiru} {前|mae} ni taitei {朝ごはん|asagohan} wo {食べます|tabemasu}.",
-    "verb-plain + {前|mae} に = before doing ~"
+    "taitei _shawaa_ wo {浴びる|abiru} {前|mae} ni {朝ごはん|asagohan} wo {食べます|tabemasu}.",
+    "verb-plain + {前|まえ} に = before doing ~"
+],
+[
+    "Naoe can speak English a little.",
+    "Naoe san wa {少し|sukoshi} {英語|eigo} wo {話す|hanasu} {事|koto} ga {出来ます|dekimasu}.",
+    "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
+],
+[
+    "I can't eat raw fish.",
+    "{私|watashi} wa sashimi wo {食べる|taberu} {事|koto} ga {出来ません|dekimasen}.",
+    "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
 ]
 ])
