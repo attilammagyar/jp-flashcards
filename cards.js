@@ -2497,7 +2497,7 @@ Flashcards.initialize([
     [
         "(I) liked watching movies very much.",
         "{\u6620\u753b|\u3048\u3044\u304c}\u3092{\u898b\u308b\u3053\u3068|\u307f\u308b\u3053\u3068}\u304c\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3057\u305f\u3002",
-        ""
+        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)"
     ],
     [
         "Because (I) liked shopping very much, (I) always went to shopping to the town.",

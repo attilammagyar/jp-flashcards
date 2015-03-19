@@ -2497,7 +2497,7 @@ Flashcards.initialize([
 [
     "(I) liked watching movies very much.",
     "{映画|eiga} wo {見ること|mirukoto} ga totemo {好き|suki} deshita.",
-    ""
+    "verb-plain + {事|こと} = doing ~ (nominalize)"
 ],
 [
     "Because (I) liked shopping very much, (I) always went to shopping to the town.",
