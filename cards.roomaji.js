@@ -3403,5 +3403,25 @@ Flashcards.initialize([
     "I can't eat raw fish.",
     "{私|watashi} wa sashimi wo {食べる|taberu} {事|koto} ga {出来ません|dekimasen}.",
     "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
+],
+[
+    "Rie likes doing cooking.",
+    "Rie san wa {料理|ryouri} wo suru {事|koto} ga {好き|suki} desu.",
+    "verb-plain + {事|こと} = doing ~ (nominalize)"
+],
+[
+    "Yuki is good at studying Maths but bad at English.",
+    "yuki san wa suugaku wo {勉強|benkyou} suru {事|koto} ga tokui desu ga {英語|eigo} ga nigate desu.",
+    "verb-plain + {事|こと} = doing ~ (nominalize)\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+],
+[
+    "Speaking with Japanese people is interesting.",
+    "{日本人|nihonjin} to {話す|hanasu} {事|koto} ga {面白い|omoshiroi} desu.",
+    "verb-plain + {事|こと} = doing ~ (nominalize)"
+],
+[
+    "Roger is good at writing kanji.",
+    "_rojaa_ san wa {漢字|kanji} wo {書く|kaku} {事|koto} ga tokui desu.",
+    "verb-plain + {事|こと} = doing ~ (nominalize)\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ]
 ])

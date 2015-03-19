@@ -3403,5 +3403,25 @@ Flashcards.initialize([
         "I can't eat raw fish.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u3055\u3057\u307f\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}{\u4e8b|\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
         "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+    ],
+    [
+        "Rie likes doing cooking.",
+        "\u308a\u3048\u3055\u3093\u306f{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3092\u3059\u308b{\u4e8b|\u3053\u3068}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
+        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)"
+    ],
+    [
+        "Yuki is good at studying Maths but bad at English.",
+        "\u3086\u304d\u3055\u3093\u306f\u3059\u3046\u304c\u304f\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3059\u308b{\u4e8b|\u3053\u3068}\u304c\u3068\u304f\u3044\u3067\u3059\u304c{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u306b\u304c\u3066\u3067\u3059\u3002",
+        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+    ],
+    [
+        "Speaking with Japanese people is interesting.",
+        "{\u65e5\u672c\u4eba|\u306b\u307b\u3093\u3058\u3093}\u3068{\u8a71\u3059|\u306f\u306a\u3059}{\u4e8b|\u3053\u3068}\u304c{\u9762\u767d\u3044|\u304a\u3082\u3057\u308d\u3044}\u3067\u3059\u3002",
+        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)"
+    ],
+    [
+        "Roger is good at writing kanji.",
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u6f22\u5b57|\u304b\u3093\u3058}\u3092{\u66f8\u304f|\u304b\u304f}{\u4e8b|\u3053\u3068}\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
+        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ]
 ])

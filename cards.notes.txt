@@ -9,7 +9,7 @@ A-dictionary-form とB = if A then B
 adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)
 と: complete list
 や: incomplete list
-とくい is more modest than じょうず
+とくい is more modest than {上手|じょうず}
 ~たい is usually used only in first person or in questions for the second person
 ~たい: may use が instead of を
 ~たい + negative: if topic is not mentioned then は can be used instead of が
