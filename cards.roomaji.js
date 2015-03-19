@@ -2631,7 +2631,7 @@ Flashcards.initialize([
 ],
 [
     "After (I'd) phoned my parents, (I) went to (my) friend's house.",
-    "ryoushin ni {電話|denwa} shite kara, {友達|tomodachi} no {家|uchi} ni {行きました|ikimashita}.",
+    "{両親|ryoushin} ni {電話|denwa} shite kara, {友達|tomodachi} no {家|uchi} ni {行きました|ikimashita}.",
     "verb-て-form + から = after doing verb, ..."
 ],
 [
@@ -2876,7 +2876,7 @@ Flashcards.initialize([
 ],
 [
     "swim",
-    "oyogu, oyogimasu, oyoide",
+    "{泳ぐ|oyogu}, {泳ぎます|oyogimasu}, {泳いで|oyoide}",
     ""
 ],
 [
@@ -3096,7 +3096,7 @@ Flashcards.initialize([
 ],
 [
     "(My) parents live in Tokyo.",
-    "ryoushin wa {東京|toukyou} ni {住んで|sunde} imasu.",
+    "{両親|ryoushin} wa {東京|toukyou} ni {住んで|sunde} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -3116,7 +3116,7 @@ Flashcards.initialize([
 ],
 [
     "(My) parents have gone to Japan. {and are still there} (My) parents have returned to England. {and are staying there permanently}",
-    "ryoushin wa {日本|nihon} ni {行って|itte} imasu. ryoushin wa _igirisu_ ni {帰りました|kaerimashita}.",
+    "{両親|ryoushin} wa {日本|nihon} ni {行って|itte} imasu. {両親|ryoushin} wa _igirisu_ ni {帰りました|kaerimashita}.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)"
 ],
 [
@@ -3221,7 +3221,7 @@ Flashcards.initialize([
 ],
 [
     "parents {In-group, out-group}",
-    "ryoushin, goryoushin",
+    "{両親|ryoushin}, {ご両親|goryoushin}",
     ""
 ],
 [
@@ -3296,7 +3296,7 @@ Flashcards.initialize([
 ],
 [
     "Miki's parents are still in Japan. Miki's parents are already in Japan.",
-    "{三木|miki} san no ryoushin wa {未だ|mada} {日本|nihon} ni imasu. {三木|miki} san no ryoushin wa mou {日本|nihon} ni imasu.",
+    "{三木|miki} san no {両親|ryoushin} wa {未だ|mada} {日本|nihon} ni imasu. {三木|miki} san no {両親|ryoushin} wa mou {日本|nihon} ni imasu.",
     "{未だ|まだ}/もう + place に + います/あります = still/already being at ~"
 ],
 [
@@ -3356,7 +3356,7 @@ Flashcards.initialize([
 ],
 [
     "Eri can already swim.",
-    "eri chan wa mou oyogu {事|koto} {出来ます|dekimasu}.",
+    "eri chan wa mou {泳ぐ|oyogu} {事|koto} {出来ます|dekimasu}.",
     "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
 ],
 [
