@@ -2416,7 +2416,7 @@ Flashcards.initialize([
 ],
 [
     "Please wait a moment. {Polite.} Sorry to have kept you waiting. {Polite.} Sorry to have kept you waiting. {Informal.}",
-    "shoushou {お待ち|omachi} kudasai. {お待たせ|omatase} shimashita. {お待ち|omachi} doosama.",
+    "{少々|shoushou} {お待ち|omachi} kudasai. {お待たせ|omatase} shimashita. {お待ち|omachi} doosama.",
     ""
 ],
 [
