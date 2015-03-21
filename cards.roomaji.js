@@ -2316,7 +2316,7 @@ Flashcards.initialize([
 ],
 [
     "Rie taught Roger how to make sushi.",
-    "rie san wa _rojaa_ san ni sushi no {作りかた|tsukurikata} wo {教えました|oshiemashita}.",
+    "rie san wa _rojaa_ san ni sushi no {作り方|tsukurikata} wo {教えました|oshiemashita}.",
     "verb stem + {方|kata} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|kata}"
 ],
 [
@@ -3236,7 +3236,7 @@ Flashcards.initialize([
 ],
 [
     "(It's) five minutes on foot to the station.",
-    "{駅|eki} made aruite {五分|gohun} desu.",
+    "{駅|eki} made {歩いて|aruite} {五分|gohun} desu.",
     ""
 ],
 [
@@ -3246,7 +3246,7 @@ Flashcards.initialize([
 ],
 [
     "I go to school every day on foot. {habit}",
-    "{私|watashi} wa {毎日|mainichi} aruite {学校|gakkou} ni {行って|itte} imasu.",
+    "{私|watashi} wa {毎日|mainichi} {歩いて|aruite} {学校|gakkou} ni {行って|itte} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [

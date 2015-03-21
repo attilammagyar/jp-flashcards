@@ -1826,7 +1826,7 @@ Flashcards.initialize([
     ],
     [
         "Soon it will be Summer. It will gradually get hotter.",
-        "\u3082\u3046\u3059\u3050{\u590f|\u306a\u3064}\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
+        "\u3082\u3046\u3059\u3050{\u590f|\u306a\u3064}\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093{\u6691\u304f|\u3042\u3064\u304f}\u306a\u308a\u307e\u3059\u3002",
         "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
@@ -1886,7 +1886,7 @@ Flashcards.initialize([
     ],
     [
         "(It) gradually gets hotter.",
-        "\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
+        "\u3060\u3093\u3060\u3093{\u6691\u304f|\u3042\u3064\u304f}\u306a\u308a\u307e\u3059\u3002",
         "\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
@@ -1961,7 +1961,7 @@ Flashcards.initialize([
     ],
     [
         "hot, cold, warm, cool/refreshing",
-        "\u3042\u3064\u3044\u3001\u3055\u3080\u3044\u3001\u3042\u305f\u305f\u304b\u3044\u3001\u3059\u305a\u3057\u3044",
+        "{\u6691\u3044|\u3042\u3064\u3044}\u3001\u3055\u3080\u3044\u3001\u3042\u305f\u305f\u304b\u3044\u3001\u3059\u305a\u3057\u3044",
         ""
     ],
     [
@@ -1971,7 +1971,7 @@ Flashcards.initialize([
     ],
     [
         "Soon (it) will be summer. (It) will gradually get hot.",
-        "\u3082\u3046\u3059\u3050{\u590f|\u306a\u3064}\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
+        "\u3082\u3046\u3059\u3050{\u590f|\u306a\u3064}\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093{\u6691\u304f|\u3042\u3064\u304f}\u306a\u308a\u307e\u3059\u3002",
         "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
@@ -2061,7 +2061,7 @@ Flashcards.initialize([
     ],
     [
         "The Summer is from December to February. (It) gradually gets hot.",
-        "{\u590f|\u306a\u3064}\u306f{\u5341\u4e8c\u6708|\u3058\u3085\u3046\u306b\u304c\u3064}\u304b\u3089{\u4e8c\u6708|\u306b\u304c\u3064}\u307e\u3067\u3067\u3059\u3002\u3060\u3093\u3060\u3093\u3042\u3064\u304f\u306a\u308a\u307e\u3059\u3002",
+        "{\u590f|\u306a\u3064}\u306f{\u5341\u4e8c\u6708|\u3058\u3085\u3046\u306b\u304c\u3064}\u304b\u3089{\u4e8c\u6708|\u306b\u304c\u3064}\u307e\u3067\u3067\u3059\u3002\u3060\u3093\u3060\u3093{\u6691\u304f|\u3042\u3064\u304f}\u306a\u308a\u307e\u3059\u3002",
         "(New Zealand)\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
@@ -2316,7 +2316,7 @@ Flashcards.initialize([
     ],
     [
         "Rie taught Roger how to make sushi.",
-        "\u308a\u3048\u3055\u3093\u306f\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306b\u3059\u3057\u306e{\u4f5c\u308a\u304b\u305f|\u3064\u304f\u308a\u304b\u305f}\u3092{\u6559\u3048\u307e\u3057\u305f|\u304a\u3057\u3048\u307e\u3057\u305f}\u3002",
+        "\u308a\u3048\u3055\u3093\u306f\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306b\u3059\u3057\u306e{\u4f5c\u308a\u65b9|\u3064\u304f\u308a\u304b\u305f}\u3092{\u6559\u3048\u307e\u3057\u305f|\u304a\u3057\u3048\u307e\u3057\u305f}\u3002",
         "verb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nnoun \u3092 verb --> noun \u306e verb stem + {\u65b9|\u304b\u305f}"
     ],
     [
@@ -3236,7 +3236,7 @@ Flashcards.initialize([
     ],
     [
         "(It's) five minutes on foot to the station.",
-        "{\u99c5|\u3048\u304d}\u307e\u3067\u3042\u308b\u3044\u3066{\u4e94\u5206|\u3054\u3075\u3093}\u3067\u3059\u3002",
+        "{\u99c5|\u3048\u304d}\u307e\u3067{\u6b69\u3044\u3066|\u3042\u308b\u3044\u3066}{\u4e94\u5206|\u3054\u3075\u3093}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -3246,7 +3246,7 @@ Flashcards.initialize([
     ],
     [
         "I go to school every day on foot. {habit}",
-        "{\u79c1|\u308f\u305f\u3057}\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3042\u308b\u3044\u3066{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
+        "{\u79c1|\u308f\u305f\u3057}\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u6b69\u3044\u3066|\u3042\u308b\u3044\u3066}{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
         "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
     [
