@@ -1581,7 +1581,7 @@ Flashcards.initialize([
 ],
 [
     "nose, tall/big, small, wide",
-    "hana, {高い|takai}, {小さい|chiisai}, {大きい|ookii}",
+    "{鼻|hana}, {高い|takai}, {小さい|chiisai}, {大きい|ookii}",
     ""
 ],
 [
@@ -1606,7 +1606,7 @@ Flashcards.initialize([
 ],
 [
     "(My) mother has round face, a high nose and brown eyes.",
-    "{母|haha} wa {顔|kao} ga marukute, hana ga {高くて|takakute}, {目|me} ga {茶色|chairo} desu.",
+    "{母|haha} wa {顔|kao} ga marukute, {鼻|hana} ga {高くて|takakute}, {目|me} ga {茶色|chairo} desu.",
     ""
 ],
 [
@@ -1706,7 +1706,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
-    "se ga futsuu de, kami ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga marukute, hana ga {大きい|ookii} desu.",
+    "se ga futsuu de, kami ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga marukute, {鼻|hana} ga {大きい|ookii} desu.",
     ""
 ],
 [
