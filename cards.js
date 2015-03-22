@@ -3367,7 +3367,7 @@ Flashcards.initialize([
     [
         "Next year (I) intend to go to South America.",
         "{\u6765\u5e74|\u3089\u3044\u306d\u3093}{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u304f|\u3044\u304f}\u3064\u3082\u308a\u3067\u3059\u3002",
-        ""
+        "verb-plain + \u3064\u3082\u308a = intend to ~"
     ],
     [
         "(I) have an interest in South America so (I) want to go.",
@@ -3443,5 +3443,20 @@ Flashcards.initialize([
         "(I) looked up the meaning of that word in the dictionary.",
         "{\u5176\u306e|\u305d\u306e}{\u8a9e|\u3054}\u306e{\u610f\u5473|\u3044\u307f}\u3092{\u8f9e\u66f8|\u3058\u3057\u3087}\u3067\u3057\u3089\u3079\u307e\u3057\u305f\u3002",
         ""
+    ],
+    [
+        "Do (you) plan to return to America for Christmas?",
+        "\u30af\u30ea\u30b9\u30de\u30b9\u306b\u30a2\u30e1\u30ea\u30ab\u306b{\u5e30\u308b|\u304b\u3048\u308b}\u3064\u3082\u308a\u3067\u3059\u304b\u3002",
+        "verb-plain + \u3064\u3082\u308a = intend to ~"
+    ],
+    [
+        "Do (you) intend to write a letter to (your) mother?",
+        "{\u304a\u6bcd\u3055\u3093|\u304a\u304b\u3042\u3055\u3093}\u306b{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u304f|\u304b\u304f}\u3064\u3082\u308a\u3067\u3059\u304b\u3002",
+        "verb-plain + \u3064\u3082\u308a = intend to ~"
+    ],
+    [
+        "Do (you) intend to play golf with Naoe on Sunday?",
+        "{\u65e5\u66dc\u65e5|\u306b\u3061\u3088\u3046\u3073}\u306b\u306a\u304a\u3048\u3055\u3093\u3068\u30b4\u30eb\u30d5\u3092\u3059\u308b\u3064\u3082\u308a\u3067\u3059\u304b\u3002",
+        "verb-plain + \u3064\u3082\u308a = intend to ~"
     ]
 ])

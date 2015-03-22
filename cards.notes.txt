@@ -56,3 +56,4 @@ noun + が + {欲しい|ほしい} = (I) want a noun
 verb-plain + {前|まえ} に = before doing ~
 verb-plain + {事|こと} = doing ~ (nominalize)
 noun + {出来る｜できる} = can (do) noun
+verb-plain + つもり = intend to ~

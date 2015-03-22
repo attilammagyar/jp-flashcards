@@ -3367,7 +3367,7 @@ Flashcards.initialize([
 [
     "Next year (I) intend to go to South America.",
     "{来年|rainen} {南|minami} _amerika_ ni {行く|iku} tsumori desu.",
-    ""
+    "verb-plain + つもり = intend to ~"
 ],
 [
     "(I) have an interest in South America so (I) want to go.",
@@ -3443,5 +3443,20 @@ Flashcards.initialize([
     "(I) looked up the meaning of that word in the dictionary.",
     "{其の|sono} {語|go} no {意味|imi} wo {辞書|jisho} de shirabemashita.",
     ""
+],
+[
+    "Do (you) plan to return to America for Christmas?",
+    "_kurisumasu_ ni _amerika_ ni {帰る|kaeru} tsumori desu ka.",
+    "verb-plain + つもり = intend to ~"
+],
+[
+    "Do (you) intend to write a letter to (your) mother?",
+    "{お母さん|okaasan} ni {手紙|tegami} wo {書く|kaku} tsumori desu ka.",
+    "verb-plain + つもり = intend to ~"
+],
+[
+    "Do (you) intend to play golf with Naoe on Sunday?",
+    "{日曜日|nichiyoubi} ni naoe san to _gorufu_ wo suru tsumori desu ka.",
+    "verb-plain + つもり = intend to ~"
 ]
 ])
