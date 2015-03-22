@@ -3423,5 +3423,25 @@ Flashcards.initialize([
         "Roger is good at writing kanji.",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u6f22\u5b57|\u304b\u3093\u3058}\u3092{\u66f8\u304f|\u304b\u304f}{\u4e8b|\u3053\u3068}\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
         "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+    ],
+    [
+        "Recently (I'm) learning judo.",
+        "\u3055\u3044\u304d\u3093\u3058\u3085\u3046\u3069\u3046\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "Every night (I) teach English at the company.",
+        "\u307e\u3044\u3070\u3093{\u4f1a\u793e|\u304b\u3044\u3057\u3083}\u3067{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u6559\u3048\u3066|\u304a\u3057\u3048\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "(I'm) writing a letter to grandma while drinking coffee.",
+        "\u30b3\u30fc\u30d2\u30fc\u3092{\u98f2\u307f\u306a\u304c\u3089|\u306e\u307f\u306a\u304c\u3089}\u305d\u307c\u306b{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u3044\u307e\u3059\u3002",
+        "verb stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "(I) looked up the meaning of that word in the dictionary.",
+        "{\u5176\u306e|\u305d\u306e}{\u8a9e|\u3054}\u306e{\u610f\u5473|\u3044\u307f}\u3092{\u8f9e\u66f8|\u3058\u3057\u3087}\u3067\u3057\u3089\u3079\u307e\u3057\u305f\u3002",
+        ""
     ]
 ])

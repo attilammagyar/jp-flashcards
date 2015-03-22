@@ -3423,5 +3423,25 @@ Flashcards.initialize([
     "Roger is good at writing kanji.",
     "_rojaa_ san wa {漢字|kanji} wo {書く|kaku} {事|koto} ga tokui desu.",
     "verb-plain + {事|こと} = doing ~ (nominalize)\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+],
+[
+    "Recently (I'm) learning judo.",
+    "saikin juudou wo naratte imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "Every night (I) teach English at the company.",
+    "maiban {会社|kaisha} de {英語|eigo} wo {教えて|oshiete} imasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I'm) writing a letter to grandma while drinking coffee.",
+    "_koohii_ wo {飲みながら|nominagara} sobo ni {手紙|tegami} wo {書いて|kaite} imasu.",
+    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I) looked up the meaning of that word in the dictionary.",
+    "{其の|sono} {語|go} no {意味|imi} wo {辞書|jisho} de shirabemashita.",
+    ""
 ]
 ])
