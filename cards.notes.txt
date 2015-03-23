@@ -57,3 +57,6 @@ verb-plain + {前|まえ} に = before doing ~
 verb-plain + {事|こと} = doing ~ (nominalize)
 noun + {出来る｜できる} = can (do) noun
 verb-plain + つもり = intend to ~
+verb-5-plain う --> お + う = plain volitional form ({行く|いく} --> {行こう|いこう})
+から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)
+の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)

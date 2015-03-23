@@ -661,7 +661,7 @@ Flashcards.initialize([
     ],
     [
         "Maybe next time.",
-        "\u307e\u305f\u3053\u3093\u3069\u3002",
+        "\u307e\u305f{\u4eca\u5ea6|\u3053\u3093\u3069}\u3002",
         ""
     ],
     [
@@ -3458,5 +3458,15 @@ Flashcards.initialize([
         "Do (you) intend to play golf with Naoe on Sunday?",
         "{\u65e5\u66dc\u65e5|\u306b\u3061\u3088\u3046\u3073}\u306b\u306a\u304a\u3048\u3055\u3093\u3068\u30b4\u30eb\u30d5\u3092\u3059\u308b\u3064\u3082\u308a\u3067\u3059\u304b\u3002",
         "verb-plain + \u3064\u3082\u308a = intend to ~"
+    ],
+    [
+        "I still don't have a driver's license. From next year, (I'll) go to driving school.",
+        "{\u79c1|\u308f\u305f\u3057}\u306f{\u672a\u3060|\u307e\u3060}\u3046\u3093\u3066\u3093\u3081\u3093\u304d\u3087\u306f\u3042\u308a\u307e\u305b\u3093\u3002{\u6765\u5e74|\u3089\u3044\u306d\u3093}\u304b\u3089{\u81ea\u52d5\u8eca\u5b66\u6821|\u3058\u3069\u3046\u3057\u3083\u304c\u3063\u3053\u3046}\u3078\u304b\u3088\u3044\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Let's go to preview wedding halls today! [plain]",
+        "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}\u3057\u304d\u3058\u3087\u3046\u306e{\u4e0b\u898b|\u3057\u305f\u307f}\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3002",
+        "\u3078 = to, towards, pronounced as \u3048\nverb-5-plain \u3046 --> \u304a + \u3046 = plain volitional form ({\u884c\u304f|\u3044\u304f} --> {\u884c\u3053\u3046|\u3044\u3053\u3046})"
     ]
 ])

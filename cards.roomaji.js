@@ -661,7 +661,7 @@ Flashcards.initialize([
 ],
 [
     "Maybe next time.",
-    "mata kondo.",
+    "mata {今度|kondo}.",
     ""
 ],
 [
@@ -3458,5 +3458,15 @@ Flashcards.initialize([
     "Do (you) intend to play golf with Naoe on Sunday?",
     "{日曜日|nichiyoubi} ni naoe san to _gorufu_ wo suru tsumori desu ka.",
     "verb-plain + つもり = intend to ~"
+],
+[
+    "I still don't have a driver's license. From next year, (I'll) go to driving school.",
+    "{私|watashi} wa {未だ|mada} unten menkyo wa arimasen. {来年|rainen} kara {自動車学校|jidoushagakkou} he kayoimasu.",
+    ""
+],
+[
+    "Let's go to preview wedding halls today! [plain]",
+    "{今日|kyou} wa {結婚|kekkon} shikijou no {下見|shitami} ni {行こう|ikou}.",
+    "へ = to, towards, pronounced as え\nverb-5-plain う --> お + う = plain volitional form ({行く|いく} --> {行こう|いこう})"
 ]
 ])
