@@ -311,7 +311,7 @@ Flashcards.initialize([
     ],
     [
         "(I) always watch television, then (I) make dinner.",
-        "{\u4f55\u6642\u3082|\u3044\u3064\u3082}\u30c6\u30ec\u30d3\u3092{\u898b\u307e\u3059|\u307f\u307e\u3059}\u3002{\u5176\u308c|\u305d\u308c}\u304b\u3089\u3070\u3093\u3054\u306f\u3093\u3092{\u4f5c\u308a\u307e\u3059|\u3064\u304f\u308a\u307e\u3059}\u3002",
+        "{\u4f55\u6642\u3082|\u3044\u3064\u3082}\u30c6\u30ec\u30d3\u3092{\u898b\u307e\u3059|\u307f\u307e\u3059}\u3002{\u5176\u308c\u304b\u3089|\u305d\u308c\u304b\u3089}\u3070\u3093\u3054\u306f\u3093\u3092{\u4f5c\u308a\u307e\u3059|\u3064\u304f\u308a\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -391,7 +391,7 @@ Flashcards.initialize([
     ],
     [
         "(I) get up every day at 6 o'clock. Then (I) make breakfast.",
-        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u516d\u6642|\u308d\u304f\u3058}\u306b{\u8d77\u304d\u307e\u3059|\u304a\u304d\u307e\u3059}\u3002{\u5176\u308c|\u305d\u308c}\u304b\u3089{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u4f5c\u308a\u307e\u3059|\u3064\u304f\u308a\u307e\u3059}\u3002",
+        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u516d\u6642|\u308d\u304f\u3058}\u306b{\u8d77\u304d\u307e\u3059|\u304a\u304d\u307e\u3059}\u3002{\u5176\u308c\u304b\u3089|\u305d\u308c\u304b\u3089}{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u4f5c\u308a\u307e\u3059|\u3064\u304f\u308a\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -967,12 +967,12 @@ Flashcards.initialize([
     [
         "Why were (you) late today? Because (I) overslept.",
         "\u3069\u3046\u3057\u3066{\u4eca\u65e5|\u304d\u3087\u3046}{\u9045\u304f|\u304a\u305d\u304f}\u306a\u308a\u307e\u3057\u305f\u304b\u3002\u3042\u3055\u306d\u307c\u3046\u3057\u307e\u3057\u305f\u304b\u3089\u3002",
-        ""
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "Because on Fridays you're not here, (I) love fridays",
         "{\u91d1\u66dc\u65e5|\u304d\u3093\u3088\u3046\u3073}\u306b\u306f{\u8cb4\u65b9|\u3042\u306a\u305f}\u304c\u3044\u307e\u305b\u3093\u304b\u3089\u3001{\u91d1\u66dc\u65e5|\u304d\u3093\u3088\u3046\u3073}\u304c{\u5927\u597d\u304d|\u3060\u3044\u3059\u304d}\u3067\u3059\u3002",
-        ""
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "Monday, Tuesday, ... Sunday",
@@ -1097,7 +1097,7 @@ Flashcards.initialize([
     [
         "But because (I) like you, I'm here.",
         "\u3067\u3082\u3001{\u8cb4\u65b9|\u3042\u306a\u305f}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304b\u3089\u3001{\u79c1|\u308f\u305f\u3057}\u306f{\u6b64\u51e6|\u3053\u3053}\u306b\u3044\u307e\u3059\u3002",
-        ""
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "I'll teach you.",
@@ -1842,7 +1842,7 @@ Flashcards.initialize([
     [
         "Because today's game is cancelled, what shall we do?",
         "{\u4eca\u65e5|\u304d\u3087\u3046}\u306e\u3057\u3042\u3044\u306f\u3061\u3085\u3046\u3057\u3067\u3059\u304b\u3089\u3001\u3069\u3046\u3057\u307e\u3057\u3087\u3046\u304b\u3002",
-        ""
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "On rainy days, (I) watch movies.",
@@ -1911,8 +1911,8 @@ Flashcards.initialize([
     ],
     [
         "Since (I) saw photos of Japan, (I) got wanting to go.",
-        "{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u5199\u771f|\u3057\u3083\u3057\u3093}\u3092{\u898b\u307e\u3057\u305f|\u307f\u307e\u3057\u305f}\u306e\u3067\u3001{\u884c\u304d\u305f\u304f|\u3044\u304d\u305f\u304f}\u306a\u308a\u307e\u3057\u305f\u3002",
-        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u5199\u771f|\u3057\u3083\u3057\u3093}\u3092{\u898b\u305f|\u307f\u305f}\u306e\u3067\u3001{\u884c\u304d\u305f\u304f|\u3044\u304d\u305f\u304f}\u306a\u308a\u307e\u3057\u305f\u3002",
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)"
     ],
     [
         "(I'm) full.",
@@ -2257,7 +2257,7 @@ Flashcards.initialize([
     [
         "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {Polite.}",
         "{\u79c1|\u308f\u305f\u3057}\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3084\u304d\u306b\u304f\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002\u3067\u3082\u3001{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u91ce\u83dc|\u3084\u3055\u3044}\u3092\u3084\u304d\u306b\u304f\u3068{\u4e00\u7dd2|\u3044\u3063\u3057\u3087}\u306b{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u304b\u3089\u3001{\u554f\u984c|\u3082\u3093\u3060\u3044}\u3054\u3056\u3044\u307e\u305b\u3093\u3002",
-        ""
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "Hiking is good for the body, isn't it?",
@@ -2347,7 +2347,7 @@ Flashcards.initialize([
     [
         "Because (I) don't know anything about you at all.",
         "{\u8cb4\u65b9|\u3042\u306a\u305f}\u306e\u3053\u3068\u3092{\u5168\u7136|\u305c\u3093\u305c\u3093}{\u77e5\u308a\u307e\u305b\u3093|\u3057\u308a\u307e\u305b\u3093}\u304b\u3089\u3002",
-        ""
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "\"You can call me Natsuko, you know.\" (Natsuko is OK.)",
@@ -3262,7 +3262,7 @@ Flashcards.initialize([
     [
         "Because (I'm) learning the piano now, (I) practise every day. {habit}",
         "{\u4eca|\u3044\u307e}\u30d4\u30a2\u30ce\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u3059\u304b\u3089{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u308c\u3093\u3057\u3085\u3046\u3092\u3057\u3066\u3044\u307e\u3059\u3002",
-        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
@@ -3372,12 +3372,12 @@ Flashcards.initialize([
     [
         "(I) have an interest in South America so (I) want to go.",
         "{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b\u304d\u3087\u3046\u307f\u304c\u3042\u308b\u306e\u3067{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u3067\u3059\u3002",
-        "verb stem + \u305f\u3044 = want to ~"
+        "verb stem + \u305f\u3044 = want to ~\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)"
     ],
     [
         "(I) am learning Japanese therefore (I) have come to Japan.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092\u306a\u3089\u3063\u3066\u3044\u307e\u3059\u304b\u3089{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3044\u307e\u3059\u3002",
-        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-\u3066-form + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-\u3066-form + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "What's the matter? Well, you see, (I've) got a headache.",

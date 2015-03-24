@@ -311,7 +311,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always watch television, then (I) make dinner.",
-    "{何時も|itsumo} _terebi_ wo {見ます|mimasu}. {其れ|sore} kara bangohan wo {作ります|tsukurimasu}.",
+    "{何時も|itsumo} _terebi_ wo {見ます|mimasu}. {其れから|sorekara} bangohan wo {作ります|tsukurimasu}.",
     ""
 ],
 [
@@ -391,7 +391,7 @@ Flashcards.initialize([
 ],
 [
     "(I) get up every day at 6 o'clock. Then (I) make breakfast.",
-    "{毎日|mainichi} {六時|rokuji} ni {起きます|okimasu}. {其れ|sore} kara {朝ごはん|asagohan} wo {作ります|tsukurimasu}.",
+    "{毎日|mainichi} {六時|rokuji} ni {起きます|okimasu}. {其れから|sorekara} {朝ごはん|asagohan} wo {作ります|tsukurimasu}.",
     ""
 ],
 [
@@ -967,12 +967,12 @@ Flashcards.initialize([
 [
     "Why were (you) late today? Because (I) overslept.",
     "doushite {今日|kyou} {遅く|osoku} narimashita ka. asanebou shimashita kara.",
-    ""
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "Because on Fridays you're not here, (I) love fridays",
     "{金曜日|kin youbi} ni wa {貴方|anata} ga imasen kara, {金曜日|kin youbi} ga {大好き|daisuki} desu.",
-    ""
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "Monday, Tuesday, ... Sunday",
@@ -1097,7 +1097,7 @@ Flashcards.initialize([
 [
     "But because (I) like you, I'm here.",
     "demo, {貴方|anata} ga {好き|suki} desu kara, {私|watashi} wa {此処|koko} ni imasu.",
-    ""
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "I'll teach you.",
@@ -1842,7 +1842,7 @@ Flashcards.initialize([
 [
     "Because today's game is cancelled, what shall we do?",
     "{今日|kyou} no shiai wa chuushi desu kara, dou shimashou ka.",
-    ""
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "On rainy days, (I) watch movies.",
@@ -1911,8 +1911,8 @@ Flashcards.initialize([
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go.",
-    "{日本|ni hon} no {写真|shashin} wo {見ました|mimashita} no de, {行きたく|ikitaku} narimashita.",
-    "~たい is usually used only in first person or in questions for the second person"
+    "{日本|ni hon} no {写真|shashin} wo {見た|mita} no de, {行きたく|ikitaku} narimashita.",
+    "~たい is usually used only in first person or in questions for the second person\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ],
 [
     "(I'm) full.",
@@ -2257,7 +2257,7 @@ Flashcards.initialize([
 [
     "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {Polite.}",
     "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, {何時も|itsumo} {野菜|yasai} wo yakiniku to {一緒|issho} ni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
-    ""
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "Hiking is good for the body, isn't it?",
@@ -2347,7 +2347,7 @@ Flashcards.initialize([
 [
     "Because (I) don't know anything about you at all.",
     "{貴方|anata} no koto wo {全然|zenzen} {知りません|shirimasen} kara.",
-    ""
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "\"You can call me Natsuko, you know.\" (Natsuko is OK.)",
@@ -2501,7 +2501,7 @@ Flashcards.initialize([
 ],
 [
     "Because (I) liked shopping very much, (I) always went to shopping to the town.",
-    "{買い物|kaimono} ga totemo {好き|suki} deshita node, {何時も|itsumo} {町|machi} ni {買い物|kaimono} ni {行きました|ikimashita}.",
+    "{買い物|kaimono} ga totemo {好き|suki} deshita no de, {何時も|itsumo} {町|machi} ni {買い物|kaimono} ni {行きました|ikimashita}.",
     ""
 ],
 [
@@ -3262,7 +3262,7 @@ Flashcards.initialize([
 [
     "Because (I'm) learning the piano now, (I) practise every day. {habit}",
     "{今|ima} _piano_ wo naratte imasu kara {毎日|mainichi} renshuu wo shite imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
@@ -3371,13 +3371,13 @@ Flashcards.initialize([
 ],
 [
     "(I) have an interest in South America so (I) want to go.",
-    "{南|minami} _amerika_ ni kyoumi ga aru node {行きたい|ikitai} desu.",
-    "verb stem + たい = want to ~"
+    "{南|minami} _amerika_ ni kyoumi ga aru no de {行きたい|ikitai} desu.",
+    "verb stem + たい = want to ~\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ],
 [
     "(I) am learning Japanese therefore (I) have come to Japan.",
     "{日本語|nihongo} wo naratte imasu kara {日本|nihon} ni {来て|kite} imasu.",
-    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "What's the matter? Well, you see, (I've) got a headache.",
