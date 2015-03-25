@@ -3468,5 +3468,35 @@ Flashcards.initialize([
         "Let's go to preview wedding halls today! [plain]",
         "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}\u3057\u304d\u3058\u3087\u3046\u306e{\u4e0b\u898b|\u3057\u305f\u307f}\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3002",
         "\u3078 = to, towards, pronounced as \u3048\nverb-5-plain \u3046 --> \u304a + \u3046 = plain volitional form ({\u884c\u304f|\u3044\u304f} --> {\u884c\u3053\u3046|\u3044\u3053\u3046})"
+    ],
+    [
+        "(It's) humid today and (it's) summer...",
+        "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f{\u3080\u3057\u6691\u304f\u3066|\u3080\u3057\u3042\u3064\u304f\u3066}{\u590f|\u306a\u3064}\u3067\u3059\u3057\u3002",
+        "\u3057 at end of sentence = ..., etc., among other things"
+    ],
+    [
+        "But you promised!",
+        "\u3067\u3082{\u8cb4\u65b9|\u3042\u306a\u305f}\u306f\u3084\u304f\u305d\u304f\u3057\u307e\u3057\u305f\u3088\u3002",
+        ""
+    ],
+    [
+        "(You) said \"definitely this week\". Did (you) forget?",
+        "\u305c\u3063\u305f\u3044\u306b{\u4eca\u9031|\u3053\u3093\u3057\u3085\u3046}\u3068{\u8a00\u3044\u307e\u3057\u305f|\u3044\u3044\u307e\u3057\u305f}\u3002{\u5fd8\u308c\u307e\u3057\u305f|\u308f\u3059\u308c\u307e\u3057\u305f}\u304b\u3002",
+        ""
+    ],
+    [
+        "(I) changed my mind.",
+        "{\u6c17|\u304d}\u304c{\u5909\u308f\u308a\u307e\u3057\u305f|\u304b\u308f\u308a\u307e\u3057\u305f}\u3002",
+        ""
+    ],
+    [
+        "(I) like it here.",
+        "{\u6b64\u51e6|\u3053\u3053}\u304c{\u6c17|\u304d}\u306b{\u5165\u308a\u307e\u3057\u305f|\u3044\u308a\u307e\u3057\u305f}\u3002",
+        ""
+    ],
+    [
+        "Food is delicious and work is easy and (I'm) popular... More than anything, (it's) safe.",
+        "{\u98df\u3079\u7269|\u305f\u3079\u3082\u306e}\u304c\u304a\u3044\u3057\u304f\u3066{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306f{\u697d|\u3089\u304f}\u3067{\u4eba\u6c17\u8005|\u306b\u3093\u304d\u3082\u306e}\u3067\u3059\u3057\u3002{\u4f55|\u306a\u306b}\u3088\u308a\u3082{\u5b89\u5168|\u3042\u3093\u305c\u3093}\u3067\u3059\u3002",
+        "\u306a-adj. + \u3067 = adj. and ...\n\u3057 at end of sentence = ..., etc., among other things"
     ]
 ])

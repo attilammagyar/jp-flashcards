@@ -3468,5 +3468,35 @@ Flashcards.initialize([
     "Let's go to preview wedding halls today! [plain]",
     "{今日|kyou} wa {結婚|kekkon} shikijou no {下見|shitami} ni {行こう|ikou}.",
     "へ = to, towards, pronounced as え\nverb-5-plain う --> お + う = plain volitional form ({行く|いく} --> {行こう|いこう})"
+],
+[
+    "(It's) humid today and (it's) summer...",
+    "{今日|kyou} wa {mushi暑くて|mushiatsukute} {夏|natsu} desu shi.",
+    "し at end of sentence = ..., etc., among other things"
+],
+[
+    "But you promised!",
+    "demo {貴方|anata} wa yakusoku shimashita yo.",
+    ""
+],
+[
+    "(You) said \"definitely this week\". Did (you) forget?",
+    "zettai ni {今週|konshuu} to {言いました|iimashita}. {忘れました|wasuremashita} ka.",
+    ""
+],
+[
+    "(I) changed my mind.",
+    "{気|ki} ga {変わりました|kawarimashita}.",
+    ""
+],
+[
+    "(I) like it here.",
+    "{此処|koko} ga {気|ki} ni {入りました|irimashita}.",
+    ""
+],
+[
+    "Food is delicious and work is easy and (I'm) popular... More than anything, (it's) safe.",
+    "{食べ物|tabemono} ga oishikute {仕事|shigoto} wa {楽|raku} de {人気者|ninkimono} desu shi. {何|nani} yori mo {安全|anzen} desu.",
+    "な-adj. + で = adj. and ...\nし at end of sentence = ..., etc., among other things"
 ]
 ])
