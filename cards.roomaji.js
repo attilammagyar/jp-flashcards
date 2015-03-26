@@ -101,7 +101,7 @@ Flashcards.initialize([
 ],
 [
     "One from each please.",
-    "{一本|ippon} zutsu onegaishimasu.",
+    "{一本|ippon} zutsu {お願い|onegai} shimasu.",
     ""
 ],
 [
@@ -2776,7 +2776,7 @@ Flashcards.initialize([
 ],
 [
     "Every night, together with the band members, (we) do the band's rehearsals.",
-    "{毎ばん|maiban} _bando_ no _menbaa_ to {一緒|issho} ni _bando_ no renshuu shimasu.",
+    "{毎ばん|maiban} _bando_ no _menbaa_ to {一緒|issho} ni _bando_ no {練習|renshuu} shimasu.",
     ""
 ],
 [
@@ -3031,7 +3031,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) learning the guitar.",
-    "_gitaa_ wo naratte imasu.",
+    "_gitaa_ wo {習って|naratte} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって"
 ],
 [
@@ -3131,7 +3131,7 @@ Flashcards.initialize([
 ],
 [
     "(I) am currently learning flower arrangement.",
-    "{今|ima} {生け花|ikebana} wo naratte imasu.",
+    "{今|ima} {生け花|ikebana} wo {習って|naratte} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって"
 ],
 [
@@ -3186,7 +3186,7 @@ Flashcards.initialize([
 ],
 [
     "(I) have already eaten breakfast. (I) no longer eat breakfast. Yuki no longer learns the piano. {discontinued habit}",
-    "mou {朝ごはん|asagohan} wo {食べました|tabemashita}. mou {朝ごはん|asagohan} wo {食べません|tabemasen}. yuki san wa mou _piano_ wo naratte imasen.",
+    "mou {朝ごはん|asagohan} wo {食べました|tabemashita}. mou {朝ごはん|asagohan} wo {食べません|tabemasen}. yuki san wa mou _piano_ wo {習って|naratte} imasen.",
     "もう + verb-past = already completed doing ~\nもう + verb-present-negative = no longer doing ~ (complete action)\nもう + verb-て-form + いません = discontinued habitual action (no longer)\nならう -> ならって"
 ],
 [
@@ -3261,7 +3261,7 @@ Flashcards.initialize([
 ],
 [
     "Because (I'm) learning the piano now, (I) practise every day. {habit}",
-    "{今|ima} _piano_ wo naratte imasu kara {毎日|mainichi} renshuu wo shite imasu.",
+    "{今|ima} _piano_ wo {習って|naratte} imasu kara {毎日|mainichi} {練習|renshuu} wo shite imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -3316,7 +3316,7 @@ Flashcards.initialize([
 ],
 [
     "Last year (I) have tried learning French.",
-    "kyonen _furansu_ {語|go} wo naratte mimashita.",
+    "kyonen _furansu_ {語|go} wo {習って|naratte} mimashita.",
     "verb-て-form + みる = try doing ~\nならう -> ならって"
 ],
 [
@@ -3376,7 +3376,7 @@ Flashcards.initialize([
 ],
 [
     "(I) am learning Japanese therefore (I) have come to Japan.",
-    "{日本語|nihongo} wo naratte imasu kara {日本|nihon} ni {来て|kite} imasu.",
+    "{日本語|nihongo} wo {習って|naratte} imasu kara {日本|nihon} ni {来て|kite} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -3426,7 +3426,7 @@ Flashcards.initialize([
 ],
 [
     "Recently (I'm) learning judo.",
-    "saikin juudou wo naratte imasu.",
+    "saikin juudou wo {習って|naratte} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
