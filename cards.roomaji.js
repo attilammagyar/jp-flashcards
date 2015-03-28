@@ -3498,5 +3498,30 @@ Flashcards.initialize([
     "Food is delicious and work is easy and (I'm) popular... More than anything, (it's) safe.",
     "{食べ物|tabemono} ga oishikute {仕事|shigoto} wa {楽|raku} de {人気者|ninkimono} desu shi. {何|nani} yori mo {安全|anzen} desu.",
     "な-adj. + で = adj. and ...\nし at end of sentence = ..., etc., among other things"
+],
+[
+    "(I'm) ill so (I) won't go to the company. [から]",
+    "{病気|byouki} da kara {会社|kaisha} ni {行きません|ikimasen}.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "(I'll) go to Japan so (I) study Japanese every day. [ので]",
+    "{日本|nihon} ni {行く|iku} no de {毎日|mainichi} {日本語|nihongo} wo {勉強|benkyou} shimasu.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+],
+[
+    "The teacher is kind so (I) like English. [から]",
+    "{先生|sensei} ga yasashii kara {英語|eigo} ga {好き|suki} desu.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "Miki is beautiful so Roger likes (her). [ので]",
+    "{三木|miki} san wa kirei na no de _rojaa_ san wa {好き|suki} desu.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+],
+[
+    "(I) clean up the house every day so (it's) always clean. [から]",
+    "{毎日|mainichi} {家|uchi} wo souji suru kara {何時も|itsumo} kirei desu.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ]
 ])
