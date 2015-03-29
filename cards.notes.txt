@@ -61,3 +61,5 @@ verb-5-plain う --> お + う = plain volitional form ({行く|いく} --> {行
 から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)
 の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)
 し at end of sentence = ..., etc., among other things
+when answering {何故|なぜ} and どうして, から is more common than の で
+verb-plain + の/ん + です = justification, explanation (softer than から)

@@ -1652,7 +1652,7 @@ Flashcards.initialize([
 [
     "What's wrong with him? What's wrong?",
     "{彼|kare} wa dou shita no desu ka. dou shita n desu ka.",
-    ""
+    "verb-plain + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "(My) throat is sore.",
@@ -3382,7 +3382,7 @@ Flashcards.initialize([
 [
     "What's the matter? Well, you see, (I've) got a headache.",
     "dou shita n desu ka. {頭|atama} ga itai n desu.",
-    ""
+    "verb-plain + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "Every morning (I) drink coffee before taking a shower.",
@@ -3523,5 +3523,35 @@ Flashcards.initialize([
     "(I) clean up the house every day so (it's) always clean. [から]",
     "{毎日|mainichi} {家|uchi} wo souji suru kara {何時も|itsumo} kirei desu.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "Miki is a skillful teacher so (her) classes are enjoyable. [の で]",
+    "{三木|miki} san wa {上手|jouzu} na {先生|sensei} na no de _kurasu_ ga {楽しい|tanoshii} desu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+],
+[
+    "(My) parents will come to Japan tomorrow so (I) want to clean (my) apartment. [から]",
+    "{両親|ryoushin} wa {明日|ashita} {日本|nihon} ni {来る|kuru} kara _apaato_ wo souji shitai desu.",
+    "verb stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "Why won't (you) go to see the film? Because (I'll) work until late.",
+    "doushite {映画|eiga} wo {見|mi} ni {行きません|ikimasen} ka. {遅く|osoku} made {働く|hataraku} kara desu.",
+    "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nwhen answering {何故|なぜ} and どうして, から is more common than の で"
+],
+[
+    "Why do (you) get up late? (I) drink beer until late every night.",
+    "doushite {遅く|osoku} {起きる|okiru} n desu ka. maiban {遅く|osoku} made _biiru_ wo {飲む|nomu} n desu.",
+    "verb-plain + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "(I) have an interest in Japanese things.",
+    "{日本|nihon} no {事|koto} ni kyoumi ga arimasu.",
+    ""
+],
+[
+    "(I) have no interest in sports at all.",
+    "_supootsu_ ni {全然|zenzen} kyoumi ga arimasen.",
+    ""
 ]
 ])

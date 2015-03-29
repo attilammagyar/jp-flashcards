@@ -1652,7 +1652,7 @@ Flashcards.initialize([
     [
         "What's wrong with him? What's wrong?",
         "{\u5f7c|\u304b\u308c}\u306f\u3069\u3046\u3057\u305f\u306e\u3067\u3059\u304b\u3002\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3002",
-        ""
+        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
         "(My) throat is sore.",
@@ -3382,7 +3382,7 @@ Flashcards.initialize([
     [
         "What's the matter? Well, you see, (I've) got a headache.",
         "\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3002{\u982d|\u3042\u305f\u307e}\u304c\u3044\u305f\u3044\u3093\u3067\u3059\u3002",
-        ""
+        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
         "Every morning (I) drink coffee before taking a shower.",
@@ -3523,5 +3523,35 @@ Flashcards.initialize([
         "(I) clean up the house every day so (it's) always clean. [\u304b\u3089]",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u5bb6|\u3046\u3061}\u3092\u305d\u3046\u3058\u3059\u308b\u304b\u3089{\u4f55\u6642\u3082|\u3044\u3064\u3082}\u304d\u308c\u3044\u3067\u3059\u3002",
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+    ],
+    [
+        "Miki is a skillful teacher so (her) classes are enjoyable. [\u306e \u3067]",
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u306a{\u5148\u751f|\u305b\u3093\u305b\u3044}\u306a\u306e\u3067\u30af\u30e9\u30b9\u304c{\u697d\u3057\u3044|\u305f\u306e\u3057\u3044}\u3067\u3059\u3002",
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)"
+    ],
+    [
+        "(My) parents will come to Japan tomorrow so (I) want to clean (my) apartment. [\u304b\u3089]",
+        "{\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093}\u306f{\u660e\u65e5|\u3042\u3057\u305f}{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u308b|\u304f\u308b}\u304b\u3089\u30a2\u30d1\u30fc\u30c8\u3092\u305d\u3046\u3058\u3057\u305f\u3044\u3067\u3059\u3002",
+        "verb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+    ],
+    [
+        "Why won't (you) go to see the film? Because (I'll) work until late.",
+        "\u3069\u3046\u3057\u3066{\u6620\u753b|\u3048\u3044\u304c}\u3092{\u898b|\u307f}\u306b{\u884c\u304d\u307e\u305b\u3093|\u3044\u304d\u307e\u305b\u3093}\u304b\u3002{\u9045\u304f|\u304a\u305d\u304f}\u307e\u3067{\u50cd\u304f|\u306f\u305f\u3089\u304f}\u304b\u3089\u3067\u3059\u3002",
+        "(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067"
+    ],
+    [
+        "Why do (you) get up late? (I) drink beer until late every night.",
+        "\u3069\u3046\u3057\u3066{\u9045\u304f|\u304a\u305d\u304f}{\u8d77\u304d\u308b|\u304a\u304d\u308b}\u3093\u3067\u3059\u304b\u3002\u307e\u3044\u3070\u3093{\u9045\u304f|\u304a\u305d\u304f}\u307e\u3067\u30d3\u30fc\u30eb\u3092{\u98f2\u3080|\u306e\u3080}\u3093\u3067\u3059\u3002",
+        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "(I) have an interest in Japanese things.",
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u4e8b|\u3053\u3068}\u306b\u304d\u3087\u3046\u307f\u304c\u3042\u308a\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "(I) have no interest in sports at all.",
+        "\u30b9\u30dd\u30fc\u30c4\u306b{\u5168\u7136|\u305c\u3093\u305c\u3093}\u304d\u3087\u3046\u307f\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
+        ""
     ]
 ])
