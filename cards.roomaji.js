@@ -3266,7 +3266,7 @@ Flashcards.initialize([
 ],
 [
     "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
-    "shuumatsu ni taitei {何|nani} wo shite imasu ka. {時々|tokidoki} sofu to sanpo shimasu.",
+    "shuumatsu ni taitei {何|nani} wo shite imasu ka. {時々|tokidoki} sofu to {散歩|sanpo} shimasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [

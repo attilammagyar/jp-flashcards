@@ -3266,7 +3266,7 @@ Flashcards.initialize([
     ],
     [
         "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
-        "\u3057\u3085\u3046\u307e\u3064\u306b\u305f\u3044\u3066\u3044{\u4f55|\u306a\u306b}\u3092\u3057\u3066\u3044\u307e\u3059\u304b\u3002{\u6642\u3005|\u3068\u304d\u3069\u304d}\u305d\u3075\u3068\u3055\u3093\u307d\u3057\u307e\u3059\u3002",
+        "\u3057\u3085\u3046\u307e\u3064\u306b\u305f\u3044\u3066\u3044{\u4f55|\u306a\u306b}\u3092\u3057\u3066\u3044\u307e\u3059\u304b\u3002{\u6642\u3005|\u3068\u304d\u3069\u304d}\u305d\u3075\u3068{\u6563\u6b69|\u3055\u3093\u307d}\u3057\u307e\u3059\u3002",
         "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
     [
