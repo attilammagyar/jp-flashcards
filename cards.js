@@ -3500,37 +3500,37 @@ Flashcards.initialize([
         "\u306a-adj. + \u3067 = adj. and ...\n\u3057 at end of sentence = ..., etc., among other things"
     ],
     [
-        "(I'm) ill so (I) won't go to the company. [\u304b\u3089]",
+        "(I'm) ill so (I) won't go to the company. {\u304b\u3089}",
         "{\u75c5\u6c17|\u3073\u3087\u3046\u304d}\u3060\u304b\u3089{\u4f1a\u793e|\u304b\u3044\u3057\u3083}\u306b{\u884c\u304d\u307e\u305b\u3093|\u3044\u304d\u307e\u305b\u3093}\u3002",
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
-        "(I'll) go to Japan so (I) study Japanese every day. [\u306e\u3067]",
+        "(I'll) go to Japan so (I) study Japanese every day. {\u306e \u3067}",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u884c\u304f|\u3044\u304f}\u306e\u3067{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u307e\u3059\u3002",
         "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)"
     ],
     [
-        "The teacher is kind so (I) like English. [\u304b\u3089]",
+        "The teacher is kind so (I) like English. {\u304b\u3089}",
         "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u304c\u3084\u3055\u3057\u3044\u304b\u3089{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
-        "Miki is beautiful so Roger likes (her). [\u306e\u3067]",
+        "Miki is beautiful so Roger likes (her). {\u306e \u3067}",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u304d\u308c\u3044\u306a\u306e\u3067\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
         "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)"
     ],
     [
-        "(I) clean up the house every day so (it's) always clean. [\u304b\u3089]",
+        "(I) clean up the house every day so (it's) always clean. {\u304b\u3089}",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u5bb6|\u3046\u3061}\u3092\u305d\u3046\u3058\u3059\u308b\u304b\u3089{\u4f55\u6642\u3082|\u3044\u3064\u3082}\u304d\u308c\u3044\u3067\u3059\u3002",
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
-        "Miki is a skillful teacher so (her) classes are enjoyable. [\u306e \u3067]",
+        "Miki is a skillful teacher so (her) classes are enjoyable. {\u306e \u3067}",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u306a{\u5148\u751f|\u305b\u3093\u305b\u3044}\u306a\u306e\u3067\u30af\u30e9\u30b9\u304c{\u697d\u3057\u3044|\u305f\u306e\u3057\u3044}\u3067\u3059\u3002",
         "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)"
     ],
     [
-        "(My) parents will come to Japan tomorrow so (I) want to clean (my) apartment. [\u304b\u3089]",
+        "(My) parents will come to Japan tomorrow so (I) want to clean (my) apartment. {\u304b\u3089}",
         "{\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093}\u306f{\u660e\u65e5|\u3042\u3057\u305f}{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u308b|\u304f\u308b}\u304b\u3089\u30a2\u30d1\u30fc\u30c8\u3092\u305d\u3046\u3058\u3057\u305f\u3044\u3067\u3059\u3002",
         "verb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
@@ -3553,5 +3553,20 @@ Flashcards.initialize([
         "(I) have no interest in sports at all.",
         "\u30b9\u30dd\u30fc\u30c4\u306b{\u5168\u7136|\u305c\u3093\u305c\u3093}\u304d\u3087\u3046\u307f\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
         ""
+    ],
+    [
+        "I'm also going to America. {plain, soft}",
+        "{\u79c1|\u308f\u305f\u3057}\u3082\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u304f|\u3044\u304f}\u308f\u3002",
+        "\u308f at end of sentence = women make informal statement softer or emotional, men may use it after ~\u307e\u3059/\u3067\u3059"
+    ],
+    [
+        "Miki isn't shy.  {plain, soft}",
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u306f\u305a\u304b\u3057\u304c\u308a\u3058\u3083\u306a\u3044\u308f\u3002",
+        "\u308f at end of sentence = women make informal statement softer or emotional, men may use it after ~\u307e\u3059/\u3067\u3059"
+    ],
+    [
+        "Why (are you) going home? {plain, soft explanation} ('Cos I've got) a headache.",
+        "\u3069\u3046\u3057\u3066{\u5e30\u308b|\u304b\u3048\u308b}\u306e?{\u982d|\u3042\u305f\u307e}\u304c\u3044\u305f\u3044\u306e\u3002",
+        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059"
     ]
 ])

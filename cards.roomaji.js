@@ -3500,37 +3500,37 @@ Flashcards.initialize([
     "な-adj. + で = adj. and ...\nし at end of sentence = ..., etc., among other things"
 ],
 [
-    "(I'm) ill so (I) won't go to the company. [から]",
+    "(I'm) ill so (I) won't go to the company. {から}",
     "{病気|byouki} da kara {会社|kaisha} ni {行きません|ikimasen}.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
-    "(I'll) go to Japan so (I) study Japanese every day. [ので]",
+    "(I'll) go to Japan so (I) study Japanese every day. {の で}",
     "{日本|nihon} ni {行く|iku} no de {毎日|mainichi} {日本語|nihongo} wo {勉強|benkyou} shimasu.",
     "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ],
 [
-    "The teacher is kind so (I) like English. [から]",
+    "The teacher is kind so (I) like English. {から}",
     "{先生|sensei} ga yasashii kara {英語|eigo} ga {好き|suki} desu.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
-    "Miki is beautiful so Roger likes (her). [ので]",
+    "Miki is beautiful so Roger likes (her). {の で}",
     "{三木|miki} san wa kirei na no de _rojaa_ san wa {好き|suki} desu.",
     "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ],
 [
-    "(I) clean up the house every day so (it's) always clean. [から]",
+    "(I) clean up the house every day so (it's) always clean. {から}",
     "{毎日|mainichi} {家|uchi} wo souji suru kara {何時も|itsumo} kirei desu.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
-    "Miki is a skillful teacher so (her) classes are enjoyable. [の で]",
+    "Miki is a skillful teacher so (her) classes are enjoyable. {の で}",
     "{三木|miki} san wa {上手|jouzu} na {先生|sensei} na no de _kurasu_ ga {楽しい|tanoshii} desu.",
     "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ],
 [
-    "(My) parents will come to Japan tomorrow so (I) want to clean (my) apartment. [から]",
+    "(My) parents will come to Japan tomorrow so (I) want to clean (my) apartment. {から}",
     "{両親|ryoushin} wa {明日|ashita} {日本|nihon} ni {来る|kuru} kara _apaato_ wo souji shitai desu.",
     "verb stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
@@ -3553,5 +3553,20 @@ Flashcards.initialize([
     "(I) have no interest in sports at all.",
     "_supootsu_ ni {全然|zenzen} kyoumi ga arimasen.",
     ""
+],
+[
+    "I'm also going to America. {plain, soft}",
+    "{私|watashi} mo _amerika_ ni {行く|iku} wa.",
+    "わ at end of sentence = women make informal statement softer or emotional, men may use it after ~ます/です"
+],
+[
+    "Miki isn't shy.  {plain, soft}",
+    "{三木|miki} san wa hazukashigari ja nai wa.",
+    "わ at end of sentence = women make informal statement softer or emotional, men may use it after ~ます/です"
+],
+[
+    "Why (are you) going home? {plain, soft explanation} ('Cos I've got) a headache.",
+    "doushite {帰る|kaeru} no? {頭|atama} ga itai no.",
+    "verb-plain + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です"
 ]
 ])
