@@ -1936,7 +1936,7 @@ Flashcards.initialize([
 ],
 [
     "spring, summer, autumn, winter",
-    "{春|haru}, {夏|natsu}, {秋|aki}, fuyu",
+    "{春|haru}, {夏|natsu}, {秋|aki}, {冬|fuyu}",
     ""
 ],
 [
@@ -1976,7 +1976,7 @@ Flashcards.initialize([
 ],
 [
     "Soon (it) will be winter. (It) will gradually get cold.",
-    "mou sugu fuyu ni narimasu. dandan samuku narimasu.",
+    "mou sugu {冬|fuyu} ni narimasu. dandan samuku narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
@@ -2071,7 +2071,7 @@ Flashcards.initialize([
 ],
 [
     "Winter is from June. (It) is very cold. (It) snows a lot.",
-    "fuyu wa {六月|rokugatsu} kara desu. totemo samui desu. {雪|yuki} ga ippai furimasu.",
+    "{冬|fuyu} wa {六月|rokugatsu} kara desu. totemo samui desu. {雪|yuki} ga ippai furimasu.",
     "(New Zealand)"
 ],
 [
@@ -2151,7 +2151,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to be an astronaut.",
-    "uchuu hikoushi ni naritai desu.",
+    "{宇宙飛行士|uchuuhikoushi} ni naritai desu.",
     "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [

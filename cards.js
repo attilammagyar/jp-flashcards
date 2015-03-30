@@ -1936,7 +1936,7 @@ Flashcards.initialize([
     ],
     [
         "spring, summer, autumn, winter",
-        "{\u6625|\u306f\u308b}\u3001{\u590f|\u306a\u3064}\u3001{\u79cb|\u3042\u304d}\u3001\u3075\u3086",
+        "{\u6625|\u306f\u308b}\u3001{\u590f|\u306a\u3064}\u3001{\u79cb|\u3042\u304d}\u3001{\u51ac|\u3075\u3086}",
         ""
     ],
     [
@@ -1976,7 +1976,7 @@ Flashcards.initialize([
     ],
     [
         "Soon (it) will be winter. (It) will gradually get cold.",
-        "\u3082\u3046\u3059\u3050\u3075\u3086\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002",
+        "\u3082\u3046\u3059\u3050{\u51ac|\u3075\u3086}\u306b\u306a\u308a\u307e\u3059\u3002\u3060\u3093\u3060\u3093\u3055\u3080\u304f\u306a\u308a\u307e\u3059\u3002",
         "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
@@ -2071,7 +2071,7 @@ Flashcards.initialize([
     ],
     [
         "Winter is from June. (It) is very cold. (It) snows a lot.",
-        "\u3075\u3086\u306f{\u516d\u6708|\u308d\u304f\u304c\u3064}\u304b\u3089\u3067\u3059\u3002\u3068\u3066\u3082\u3055\u3080\u3044\u3067\u3059\u3002{\u96ea|\u3086\u304d}\u304c\u3044\u3063\u3071\u3044\u3075\u308a\u307e\u3059\u3002",
+        "{\u51ac|\u3075\u3086}\u306f{\u516d\u6708|\u308d\u304f\u304c\u3064}\u304b\u3089\u3067\u3059\u3002\u3068\u3066\u3082\u3055\u3080\u3044\u3067\u3059\u3002{\u96ea|\u3086\u304d}\u304c\u3044\u3063\u3071\u3044\u3075\u308a\u307e\u3059\u3002",
         "(New Zealand)"
     ],
     [
@@ -2151,7 +2151,7 @@ Flashcards.initialize([
     ],
     [
         "(I) want to be an astronaut.",
-        "\u3046\u3061\u3085\u3046\u3072\u3053\u3046\u3057\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
+        "{\u5b87\u5b99\u98db\u884c\u58eb|\u3046\u3061\u3085\u3046\u3072\u3053\u3046\u3057}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
         "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
