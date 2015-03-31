@@ -451,7 +451,7 @@ Flashcards.initialize([
     ],
     [
         "(I) go home around 10-11 o'clock.",
-        "{\u5341\u6642|\u3058\u3085\u3046\u3058}\u3001{\u5341\u4e00\u6642|\u3058\u3085\u3046\u3044\u3061\u3058}\u3054\u308d{\u5e30\u308a\u307e\u3059|\u304b\u3048\u308a\u307e\u3059}\u3002",
+        "{\u5341\u6642|\u3058\u3085\u3046\u3058}\u3001{\u5341\u4e00\u6642|\u3058\u3085\u3046\u3044\u3061\u3058}{\u9803|\u3054\u308d}{\u5e30\u308a\u307e\u3059|\u304b\u3048\u308a\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -2161,12 +2161,12 @@ Flashcards.initialize([
     ],
     [
         "When (I) was a child, (I) wanted to be a film star.",
-        "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u3053\u308d\u3001{\u6620\u753b|\u3048\u3044\u304c}\u30b9\u30bf\u30fc\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
+        "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e{\u9803|\u3053\u308d}\u3001{\u6620\u753b|\u3048\u3044\u304c}\u30b9\u30bf\u30fc\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
         "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "When (I) was a child, (I) wanted to be a firefighter.",
-        "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u3053\u308d\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
+        "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e{\u9803|\u3053\u308d}\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
         "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
@@ -2451,7 +2451,7 @@ Flashcards.initialize([
     ],
     [
         "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
-        "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u3053\u308d\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u304c\u3001{\u5b9f|\u3058\u3064}\u306f\u3001\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
+        "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e{\u9803|\u3053\u308d}\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u304c\u3001{\u5b9f|\u3058\u3064}\u306f\u3001\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
         "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
@@ -2616,7 +2616,7 @@ Flashcards.initialize([
     ],
     [
         "Nowadays (I) don't want to drink coffee very much.",
-        "\u3053\u306e\u3054\u308d\u30b3\u30fc\u30d2\u30fc\u3092{\u4f59\u308a|\u3042\u307e\u308a}{\u98f2\u307f\u305f\u304f\u306a\u3044|\u306e\u307f\u305f\u304f\u306a\u3044}\u3067\u3059\u3002",
+        "{\u3053\u306e\u9803|\u3053\u306e\u3054\u308d}\u30b3\u30fc\u30d2\u30fc\u3092{\u4f59\u308a|\u3042\u307e\u308a}{\u98f2\u307f\u305f\u304f\u306a\u3044|\u306e\u307f\u305f\u304f\u306a\u3044}\u3067\u3059\u3002",
         "verb stem + \u305f\u3044 = want to ~"
     ],
     [

@@ -451,7 +451,7 @@ Flashcards.initialize([
 ],
 [
     "(I) go home around 10-11 o'clock.",
-    "{十時|juuji}, {十一時|juuichi ji} goro {帰ります|kaerimasu}.",
+    "{十時|juuji}, {十一時|juuichi ji} {頃|goro} {帰ります|kaerimasu}.",
     ""
 ],
 [
@@ -2161,12 +2161,12 @@ Flashcards.initialize([
 ],
 [
     "When (I) was a child, (I) wanted to be a film star.",
-    "{子供|kodomo} no koro, {映画|eiga} _sutaa_ ni naritakatta desu.",
+    "{子供|kodomo} no {頃|koro}, {映画|eiga} _sutaa_ ni naritakatta desu.",
     "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "When (I) was a child, (I) wanted to be a firefighter.",
-    "{子供|kodomo} no koro, shouboushi ni naritakatta desu.",
+    "{子供|kodomo} no {頃|koro}, shouboushi ni naritakatta desu.",
     "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2451,7 +2451,7 @@ Flashcards.initialize([
 ],
 [
     "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
-    "{子供|kodomo} no koro, shouboushi ni naritakatta desu ga, {実|jitsu} wa, _jaanarisuto_ ni narimashita.",
+    "{子供|kodomo} no {頃|koro}, shouboushi ni naritakatta desu ga, {実|jitsu} wa, _jaanarisuto_ ni narimashita.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2616,7 +2616,7 @@ Flashcards.initialize([
 ],
 [
     "Nowadays (I) don't want to drink coffee very much.",
-    "konogoro _koohii_ wo {余り|amari} {飲みたくない|nomitakunai} desu.",
+    "{この頃|konogoro} _koohii_ wo {余り|amari} {飲みたくない|nomitakunai} desu.",
     "verb stem + たい = want to ~"
 ],
 [
