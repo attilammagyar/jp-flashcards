@@ -3598,5 +3598,30 @@ Flashcards.initialize([
         "That's not it.",
         "\u305d\u3093\u306a{\u4e8b|\u3053\u3068}\u306f\u306a\u3044\u3067\u3059\u3002",
         ""
+    ],
+    [
+        "(You're) busy, (you're) drained, (you) always make excuses, don't you?",
+        "{\u5fd9\u3057\u304f\u3066|\u3044\u305d\u304c\u3057\u304f\u3066}\u3068\u304b\u3001\u3060\u308b\u304f\u3066\u3068\u304b\u3001{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u8a00\u3044\u308f\u3051|\u3044\u3044\u308f\u3051}\u3092{\u8a00\u3044\u307e\u3059|\u3044\u3044\u307e\u3059}\u306d\u3002",
+        "\u3068\u304b links representative examples of a class (A and B, and other things)"
+    ],
+    [
+        "That blue sky, the wide ocean, the cold wind, the fresh fish...",
+        "\u3042\u306e{\u9752\u3044|\u3042\u304a\u3044}{\u7a7a|\u305d\u3089}\u3001{\u5e83\u3044|\u3072\u308d\u3044}{\u6d77|\u3046\u307f}\u3001\u3057\u3093\u305b\u3093\u306a{\u9b5a|\u3055\u304b\u306a}\u2026",
+        ""
+    ],
+    [
+        "(You) know a lot of people, don't you?",
+        "{\u304a\u9854|\u304a\u304b\u304a}\u304c{\u5e83\u3044|\u3072\u308d\u3044}\u3067\u3059\u306d\u3002",
+        ""
+    ],
+    [
+        "to eat and drink, etc.",
+        "{\u98df\u3079\u308b|\u305f\u3079\u308b}\u3068\u304b{\u98f2\u3080|\u306e\u3080}\u3068\u304b\u3059\u308b",
+        "verb-plain + \u3068\u304b + verb-plain + \u3068\u304b + \u3059\u308b = representative examples of a class"
+    ],
+    [
+        "to make an excuse {2}",
+        "{\u8a00\u3044\u308f\u3051|\u3044\u3044\u308f\u3051}\u3059\u308b\u3001{\u8a00\u3044\u308f\u3051|\u3044\u3044\u308f\u3051}{\u8a00\u3046|\u3044\u3046}",
+        ""
     ]
 ])

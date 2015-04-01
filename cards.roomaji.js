@@ -3598,5 +3598,30 @@ Flashcards.initialize([
     "That's not it.",
     "son'na {事|koto} wa nai desu.",
     ""
+],
+[
+    "(You're) busy, (you're) drained, (you) always make excuses, don't you?",
+    "{忙しくて|isogashikute} toka, darukute toka, {何時も|itsumo} {言いわけ|iiwake} wo {言います|iimasu} ne.",
+    "とか links representative examples of a class (A and B, and other things)"
+],
+[
+    "That blue sky, the wide ocean, the cold wind, the fresh fish...",
+    "ano {青い|aoi} {空|sora}, {広い|hiroi} {海|umi}, shinsen na {魚|sakana}...",
+    ""
+],
+[
+    "(You) know a lot of people, don't you?",
+    "{お顔|okao} ga {広い|hiroi} desu ne.",
+    ""
+],
+[
+    "to eat and drink, etc.",
+    "{食べる|taberu} toka {飲む|nomu} toka suru",
+    "verb-plain + とか + verb-plain + とか + する = representative examples of a class"
+],
+[
+    "to make an excuse {2}",
+    "{言いわけ|iiwake} suru, {言いわけ|iiwake} {言う|iu}",
+    ""
 ]
 ])
