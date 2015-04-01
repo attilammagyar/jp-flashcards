@@ -1901,7 +1901,7 @@ Flashcards.initialize([
 ],
 [
     "The weather got cold.",
-    "{天気|tenki} ga samuku narimashita.",
+    "{天気|tenki} ga {寒く|samuku} narimashita.",
     "い adj. - い + く + なる = become ~"
 ],
 [
@@ -1961,7 +1961,7 @@ Flashcards.initialize([
 ],
 [
     "hot, cold, warm, cool/refreshing",
-    "{暑い|atsui}, samui, atatakai, suzushii",
+    "{暑い|atsui}, {寒い|samui}, atatakai, suzushii",
     ""
 ],
 [
@@ -1976,7 +1976,7 @@ Flashcards.initialize([
 ],
 [
     "Soon (it) will be winter. (It) will gradually get cold.",
-    "mou sugu {冬|fuyu} ni narimasu. dandan samuku narimasu.",
+    "mou sugu {冬|fuyu} ni narimasu. dandan {寒く|samuku} narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
@@ -2046,7 +2046,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
-    "{明日|ashita} wa samuku narimasu. {雨|ame} {後|nochi} {雪|yuki} deshou. {嫌|iya} desu ne.",
+    "{明日|ashita} wa {寒く|samuku} narimasu. {雨|ame} {後|nochi} {雪|yuki} deshou. {嫌|iya} desu ne.",
     "い adj. - い + く + なる = become ~"
 ],
 [
@@ -2071,7 +2071,7 @@ Flashcards.initialize([
 ],
 [
     "Winter is from June. (It) is very cold. (It) snows a lot.",
-    "{冬|fuyu} wa {六月|rokugatsu} kara desu. totemo samui desu. {雪|yuki} ga ippai furimasu.",
+    "{冬|fuyu} wa {六月|rokugatsu} kara desu. totemo {寒い|samui} desu. {雪|yuki} ga ippai furimasu.",
     "(New Zealand)"
 ],
 [
