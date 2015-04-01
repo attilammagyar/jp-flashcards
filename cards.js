@@ -3568,5 +3568,35 @@ Flashcards.initialize([
         "Why (are you) going home? {plain, soft explanation} ('Cos I've got) a headache.",
         "\u3069\u3046\u3057\u3066{\u5e30\u308b|\u304b\u3048\u308b}\u306e?{\u982d|\u3042\u305f\u307e}\u304c\u3044\u305f\u3044\u306e\u3002",
         "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059"
+    ],
+    [
+        "(It's) cramped here, hot, the food is not delicious, and (it's) not (our) real home.",
+        "{\u6b64\u51e6|\u3053\u3053}\u306f{\u72ed\u304f\u3066|\u305b\u307e\u304f\u3066}\u3001{\u6691\u304f\u3066|\u3042\u3064\u304f\u3066}\u3001{\u98df\u3079\u7269|\u305f\u3079\u3082\u306e}\u3082\u304a\u3044\u3057\u304f\u306a\u304f\u3066\u3001\u307b\u3093\u3068\u3046\u306e{\u5bb6|\u3044\u3048}\u3067\u306f\u306a\u3044\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "Every week (you) say the same thing.",
+        "{\u6bce\u9031|\u307e\u3044\u3057\u3085\u3046}{\u540c\u3058|\u304a\u306a\u3058}{\u4e8b|\u3053\u3068}\u3092{\u8a00\u3044\u307e\u3059|\u3044\u3044\u307e\u3059}\u3002",
+        ""
+    ],
+    [
+        "Just as I thought, (you) don't want to go home, do you?",
+        "\u3084\u3063\u3071\u308a{\u5e30\u308b\u6c17|\u304b\u3048\u308b\u304d}\u306f\u306a\u3044\u3093\u3067\u3059\u306d\u3002",
+        "verb-plain + {\u6c17|\u304d} = feel like doing ~, willing to do ~ (\u3084\u308b{\u6c17|\u304d})\nverb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "Do (you) feel like doing it?",
+        "{\u3084\u308b\u6c17|\u3084\u308b\u304d}\u3042\u308a\u307e\u3059\u304b\u3002",
+        "verb-plain + {\u6c17|\u304d} = feel like doing ~, willing to do ~ (\u3084\u308b{\u6c17|\u304d})"
+    ],
+    [
+        "become motivated/willing (to do sg.)",
+        "{\u3084\u308b\u6c17|\u3084\u308b\u304d}\u306b\u306a\u308b",
+        "verb-plain + {\u6c17|\u304d} = feel like doing ~, willing to do ~ (\u3084\u308b{\u6c17|\u304d})"
+    ],
+    [
+        "That's not it.",
+        "\u305d\u3093\u306a{\u4e8b|\u3053\u3068}\u306f\u306a\u3044\u3067\u3059\u3002",
+        ""
     ]
 ])

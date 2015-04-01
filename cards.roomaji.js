@@ -3568,5 +3568,35 @@ Flashcards.initialize([
     "Why (are you) going home? {plain, soft explanation} ('Cos I've got) a headache.",
     "doushite {帰る|kaeru} no? {頭|atama} ga itai no.",
     "verb-plain + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です"
+],
+[
+    "(It's) cramped here, hot, the food is not delicious, and (it's) not (our) real home.",
+    "{此処|koko} wa {狭くて|semakute}, {暑くて|atsukute}, {食べ物|tabemono} mo oishikunakute, hontou no {家|ie} de wa nai desu.",
+    ""
+],
+[
+    "Every week (you) say the same thing.",
+    "{毎週|maishuu} {同じ|onaji} {事|koto} wo {言います|iimasu}.",
+    ""
+],
+[
+    "Just as I thought, (you) don't want to go home, do you?",
+    "yappari {帰る気|kaeruki} wa nai n desu ne.",
+    "verb-plain + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})\nverb-plain + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Do (you) feel like doing it?",
+    "{やる気|yaruki} arimasu ka.",
+    "verb-plain + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})"
+],
+[
+    "become motivated/willing (to do sg.)",
+    "{やる気|yaruki} ni naru",
+    "verb-plain + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})"
+],
+[
+    "That's not it.",
+    "son'na {事|koto} wa nai desu.",
+    ""
 ]
 ])

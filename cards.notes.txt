@@ -65,3 +65,6 @@ verb-5-plain う --> お + う = plain volitional form ({行く|いく} --> {行
 の at end of sentence = informal version of の/ん + です
 when answering {何故|なぜ} and どうして, から is more common than の で
 verb-plain + の/ん + です = justification, explanation (softer than から)
+verb-plain + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})
+noun + とか + noun + とか = representative examples of a class
+verb-plain + とか + verb-plain + とか + する = representative examples of a class
