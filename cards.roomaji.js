@@ -486,7 +486,7 @@ Flashcards.initialize([
 ],
 [
     "Really?!",
-    "hontou desu ka.",
+    "{本当|hontou} desu ka.",
     ""
 ],
 [
@@ -3161,7 +3161,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want (you) to do (your) homework.",
-    "shukudai wo site {欲しい|hoshii} desu.",
+    "{宿題|shukudai} wo site {欲しい|hoshii} desu.",
     "(A に) verb-て-form + {欲しい|ほしい} = I want (A) to do verb (for me)"
 ],
 [
@@ -3216,7 +3216,7 @@ Flashcards.initialize([
 ],
 [
     "Eri hasn't done (her) homework yet, but Yuki is still doing (her's).",
-    "eri san wa {未だ|mada} shukudai wo shite imasen ga yuki san wa {未だ|mada} shite imasu.",
+    "eri san wa {未だ|mada} {宿題|shukudai} wo shite imasen ga yuki san wa {未だ|mada} shite imasu.",
     "{未だ|まだ} + verb-て-form + いません = not done ~ yet, not doing ~ yet\n{未だ|まだ} + verb-て-form + います = still doing ~ (incomplete action)"
 ],
 [
@@ -3276,12 +3276,12 @@ Flashcards.initialize([
 ],
 [
     "When do (you) do (your) homework? (I) do a little every day, but this week, (I) haven't done (it) yet.",
-    "{何時|itsu} shukudai wo shimasu ka. {毎日|mainichi} {少し|sukoshi} shite imasu ga {今週|konshuu} wa {未だ|mada} shite imasen.",
+    "{何時|itsu} {宿題|shukudai} wo shimasu ka. {毎日|mainichi} {少し|sukoshi} shite imasu ga {今週|konshuu} wa {未だ|mada} shite imasen.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n{未だ|まだ} + verb-て-form + いません = not done ~ yet, not doing ~ yet"
 ],
 [
     "(I) want (my) older sister to do (my) homework. No way! Try to do (it) on your own please.",
-    "{お姉ちゃん|oneechan} ni shukudai wo shite {欲しい|hoshii} desu. dame desu yo. {自分|jibun} de shite mite kudasai.",
+    "{お姉ちゃん|oneechan} ni {宿題|shukudai} wo shite {欲しい|hoshii} desu. dame desu yo. {自分|jibun} de shite mite kudasai.",
     "(A に) verb-て-form + {欲しい|ほしい} = I want (A) to do verb (for me)\nverb-て-form + みる = try doing ~\nverb-て-form + ください = request\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
@@ -3571,7 +3571,7 @@ Flashcards.initialize([
 ],
 [
     "(It's) cramped here, hot, the food is not delicious, and (it's) not (our) real home.",
-    "{此処|koko} wa {狭くて|semakute}, {暑くて|atsukute}, {食べ物|tabemono} mo oishikunakute, hontou no {家|ie} de wa nai desu.",
+    "{此処|koko} wa {狭くて|semakute}, {暑くて|atsukute}, {食べ物|tabemono} mo oishikunakute, {本当|hontou} no {家|ie} de wa nai desu.",
     ""
 ],
 [
