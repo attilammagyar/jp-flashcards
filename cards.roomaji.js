@@ -2651,7 +2651,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) open the window? May (I) close the window?",
-    "{窓|mado} wo {開けて|akete} mo {良い|ii} desu ka. {窓|mado} wo shimete mo {良い|ii} desu ka.",
+    "{窓|mado} wo {開けて|akete} mo {良い|ii} desu ka. {窓|mado} wo {閉めて|shimete} mo {良い|ii} desu ka.",
     "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
 ],
 [
