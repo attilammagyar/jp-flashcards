@@ -2776,7 +2776,7 @@ Flashcards.initialize([
 ],
 [
     "Every night, together with the band members, (we) do the band's rehearsals.",
-    "{毎ばん|maiban} _bando_ no _menbaa_ to {一緒|issho} ni _bando_ no {練習|renshuu} shimasu.",
+    "{毎晩|maiban} _bando_ no _menbaa_ to {一緒|issho} ni _bando_ no {練習|renshuu} shimasu.",
     ""
 ],
 [
@@ -3431,7 +3431,7 @@ Flashcards.initialize([
 ],
 [
     "Every night (I) teach English at the company.",
-    "maiban {会社|kaisha} de {英語|eigo} wo {教えて|oshiete} imasu.",
+    "{毎晩|maiban} {会社|kaisha} de {英語|eigo} wo {教えて|oshiete} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -3541,7 +3541,7 @@ Flashcards.initialize([
 ],
 [
     "Why do (you) get up late? (I) drink beer until late every night.",
-    "doushite {遅く|osoku} {起きる|okiru} n desu ka. maiban {遅く|osoku} made _biiru_ wo {飲む|nomu} n desu.",
+    "doushite {遅く|osoku} {起きる|okiru} n desu ka. {毎晩|maiban} {遅く|osoku} made _biiru_ wo {飲む|nomu} n desu.",
     "verb-plain + の/ん + です = justification, explanation (softer than から)"
 ],
 [
