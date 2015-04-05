@@ -3623,5 +3623,30 @@ Flashcards.initialize([
         "to make an excuse {2}",
         "{\u8a00\u3044\u308f\u3051|\u3044\u3044\u308f\u3051}\u3059\u308b\u3001{\u8a00\u3044\u308f\u3051|\u3044\u3044\u308f\u3051}{\u8a00\u3046|\u3044\u3046}",
         ""
+    ],
+    [
+        "Did (you) see (that) just now?",
+        "{\u4eca|\u3044\u307e}\u306e{\u898b\u307e\u3057\u305f|\u307f\u307e\u3057\u305f}\u304b\u3002",
+        ""
+    ],
+    [
+        "That penguin jumped over the wall.",
+        "\u3042\u306e\u30da\u30f3\u30ae\u30f3\u3001\u304b\u3079\u3092{\u98db\u3073\u3053\u3048\u307e\u3057\u305f|\u3068\u3073\u3053\u3048\u307e\u3057\u305f}\u3002",
+        "verb-stem + verb = compound verb (action + how)"
+    ],
+    [
+        "(It) was (acting) all strange since about 10 minutes ago, (then it) suddenly took off running.",
+        "{\u5341\u5206|\u3058\u3085\u3063\u3077\u3093}\u3050\u3089\u3044{\u524d|\u307e\u3048}\u304b\u3089\u305a\u3063\u3068\u304a\u304b\u3057\u304f\u3066\u3001\u3044\u304d\u306a\u308a{\u8d70\u308a\u51fa\u3057\u307e\u3057\u305f|\u306f\u3057\u308a\u3060\u3057\u307e\u3057\u305f}\u3002",
+        "verb-stem + verb = compound verb (action + how)"
+    ],
+    [
+        "(It's) strange but I can somehow understand.",
+        "\u304a\u304b\u3057\u3044\u3067\u3059\u3051\u3069\u3001{\u79c1|\u308f\u305f\u3057}\u306f{\u4f55\u3068\u306a\u304f|\u306a\u3093\u3068\u306a\u304f}\u308a\u304b\u3044{\u51fa\u6765\u307e\u3059|\u3067\u304d\u307e\u3059}\u3002",
+        "noun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+    ],
+    [
+        "The zookeeper caught (it). Poor penguin.",
+        "{\u52d5\u7269\u5712|\u3069\u3046\u3076\u3064\u3048\u3093}\u306e{\u4eba|\u3072\u3068}\u304c\u3064\u304b\u307e\u3048\u307e\u3057\u305f\u3002\u304b\u308f\u3044\u305d\u3046\u306a\u30da\u30f3\u30ae\u30f3\u3067\u3059\u3002",
+        ""
     ]
 ])

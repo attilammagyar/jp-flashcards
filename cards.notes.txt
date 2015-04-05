@@ -69,3 +69,4 @@ verb-plain + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})
 noun + とか + noun + とか = representative examples of a class
 とか links representative examples of a class (A and B, and other things)
 verb-plain + とか + verb-plain + とか + する = representative examples of a class
+verb-stem + verb = compound verb (action + how)

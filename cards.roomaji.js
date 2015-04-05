@@ -3623,5 +3623,30 @@ Flashcards.initialize([
     "to make an excuse {2}",
     "{言いわけ|iiwake} suru, {言いわけ|iiwake} {言う|iu}",
     ""
+],
+[
+    "Did (you) see (that) just now?",
+    "{今|ima} no {見ました|mimashita} ka.",
+    ""
+],
+[
+    "That penguin jumped over the wall.",
+    "ano _pengin_, kabe wo {飛びこえました|tobikoemashita}.",
+    "verb-stem + verb = compound verb (action + how)"
+],
+[
+    "(It) was (acting) all strange since about 10 minutes ago, (then it) suddenly took off running.",
+    "{十分|juppun} gurai {前|mae} kara zutto okashikute, ikinari {走り出しました|hashiridashimashita}.",
+    "verb-stem + verb = compound verb (action + how)"
+],
+[
+    "(It's) strange but I can somehow understand.",
+    "okashii desu kedo, {私|watashi} wa {何となく|nantonaku} rikai {出来ます|dekimasu}.",
+    "noun + {出来る｜できる} = can (do) noun"
+],
+[
+    "The zookeeper caught (it). Poor penguin.",
+    "{動物園|doubutsuen} no {人|hito} ga tsukamaemashita. kawaisouna _pengin_ desu.",
+    ""
 ]
 ])
