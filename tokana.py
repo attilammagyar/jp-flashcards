@@ -1,3 +1,4 @@
+import sys
 import re
 import romkan
 import unittest
@@ -83,4 +84,8 @@ class _TestToKana(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    unittest.main()
+    if len(sys.argv) > 1 and sys.argv[1] == "--test":
+        unittest.main()
+    else:
+        for line in sys.stdin:
+            print(to_kana(line))
