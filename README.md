@@ -9,7 +9,10 @@ Usage
 -----
 
  * Practice all cards: [index.html][a]
+ * Practice all cards, only English questions: [index.html#en][a]
  * Focus on the last few cards (e.g. last 15): [index.html#15][f]
+ * Focus on the last few cards (e.g. last 15), only Japanese questions:
+   [index.html#jp,15][f]
  * Focus on a range of cards (e.g. 10-20): [index.html#10-20][r]
  * Focus on a selection of cards (e.g. 1st, 2nd and 4th): [index.html#1,2,4][s]
  * Continue from where you have left last time, using the hash code that the
@@ -17,6 +20,8 @@ Usage
    [index.html#!.3a,9,z2.149/A2,9,3][h]
  * List all cards: [all.html][l]
  * List only the focused cards: [all.html#!.3a,9,z2.149/A2,9,3][m]
+ * List only the English part of focused cards: [all.html#en!.3a,9,z2.149/A2,9,3][m]
+ * List only the Japanese part of focused cards: [all.html#jp!.3a,9,z2.149/A2,9,3][m]
 
   [a]: http://attilammagyar.github.io/jp-flashcards/index.html
   [f]: http://attilammagyar.github.io/jp-flashcards/index.html#15

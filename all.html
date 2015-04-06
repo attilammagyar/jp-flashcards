@@ -15,7 +15,7 @@
 
     ruby rt {
         font-size: 57%;
-        color: rgba(0, 0, 0, 0.4)
+        color: rgba(0, 0, 0, 0.42)
     }
 
     dt {
@@ -24,9 +24,6 @@
         width: 50%;
         margin-bottom: 0.2em;
         margin-right: 1em;
-    }
-
-    dd {
     }
 
     p {
@@ -76,24 +73,41 @@
     Flashcards.initialize = function (cards)
     {
         var html = "",
-            focus = String(window.location.href).match(/#(.*)$/),
+            settings = String(window.location.href).match(/#(.*)$/),
             cs, c, i, l;
 
         Flashcards.cards = Flashcards.formatCards(cards);
         cs = Flashcards.closedRange(0, Flashcards.cards.length - 1);
 
-        if (focus) {
-            Flashcards.parseFocus(focus[1]);
-            cs = Flashcards.focus;
+        if (settings) {
+            Flashcards.parseSettings(settings[1]);
+
+            if (Flashcards.focus.length > 0) {
+                cs = Flashcards.focus;
+            }
         }
 
-        for (i = 0, l = cs.length; i < l; ++i) {
-            c = Flashcards.cards[cs[i]];
-            html += (
-                "<li value=\"" + String(cs[i] + 1) + "\"><dt>" + c[0] + "</dt>"
-                + "<dd><p>" + c[1] + "</p>"
-                + "<div class=\"notes\">" + c[2] + "</div></dd></li>"
-            );
+        if (Flashcards.englishOnly) {
+            for (i = 0, l = cs.length; i < l; ++i) {
+                c = Flashcards.cards[cs[i]];
+                html += "<li value=\"" + String(cs[i] + 1) + "\">" + c[0] + "</li>";
+            }
+        } else if (Flashcards.japaneseOnly) {
+            for (i = 0, l = cs.length; i < l; ++i) {
+                c = Flashcards.cards[cs[i]];
+                html += "<li value=\"" + String(cs[i] + 1) + "\">" + c[1] + "</li>";
+            }
+        } else {
+            for (i = 0, l = cs.length; i < l; ++i) {
+                c = Flashcards.cards[cs[i]];
+                html += (
+                    "<li value=\"" + String(cs[i] + 1) + "\">"
+                    + "<dt>" + c[0] + "</dt>"
+                    + "<dd><p>" + c[1] + "</p></dd>"
+                    + "<div class=\"notes\">" + c[2] + "</div>"
+                    + "</li>"
+                );
+            }
         }
 
         document.getElementById("cards").innerHTML = "<ol>" + html + "</ol>";

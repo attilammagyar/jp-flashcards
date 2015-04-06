@@ -10,6 +10,8 @@
     };
 
     Flashcards = {
+        englishOnly: false,
+        japaneseOnly: false,
         cards: [],
         cards_pointer: 0,
         current_card_index: 0,
@@ -92,7 +94,11 @@
                 Flashcards.updateInfo();
                 Flashcards.current_card_index = Flashcards.generateNextCardIndex();
 
-                if (Math.random() > 0.5) {
+                if (Flashcards.englishOnly) {
+                    Flashcards.states.englishQuestion();
+                } else if (Flashcards.japaneseOnly) {
+                    Flashcards.states.japaneseQuestion();
+                } else if (Math.random() > 0.5) {
                     Flashcards.states.japaneseQuestion();
                 } else {
                     Flashcards.states.englishQuestion();
@@ -164,14 +170,14 @@
         initialize: function (cards)
         {
             var body = document.getElementsByTagName("body")[0],
-                focus = String(window.location.href).match(/#(.*)$/),
+                settings = String(window.location.href).match(/#(.*)$/),
                 matches;
 
             Flashcards.cards = Flashcards.formatCards(cards);
             Flashcards.nextState(Flashcards.states.firstQuestion);
 
-            if (focus) {
-                Flashcards.parseFocus(focus[1]);
+            if (settings) {
+                Flashcards.parseSettings(settings[1]);
             }
 
             $("card").onclick = Flashcards.moveToNextState;
@@ -235,7 +241,7 @@
             );
         },
 
-        parseFocus: function (focus_str)
+        parseSettings: function (settings_str)
         {
             var count = Flashcards.cards.length,
                 focus_indices,
@@ -245,7 +251,16 @@
                 min, max,
                 i;
 
-            if (matches = focus_str.match(/!([^,]+),([^,]+),([^,]*)(,([^,]+),([^,]+))?$/)) {
+            if (matches = settings_str.match(/(en|jp),?(!?.*)?$/)) {
+                if (matches[1] == "en") {
+                    Flashcards.englishOnly = true;
+                } else {
+                    Flashcards.japaneseOnly = true;
+                }
+                settings_str = matches[2] ? matches[2] : "";
+            }
+
+            if (matches = settings_str.match(/!([^,]+),([^,]+),([^,]*)(,([^,]+),([^,]+))?$/)) {
                 Flashcards.all = Flashcards.decodeInteger(matches[1]);
                 Flashcards.bad = Flashcards.decodeInteger(matches[2]);
                 focus = Flashcards.decodeArrayOfIntegers(matches[3]);
@@ -260,14 +275,14 @@
                         Number(matches[6])
                     );
                 }
-            } else if (matches = focus_str.match(/^([0-9]+)$/)) {
+            } else if (matches = settings_str.match(/^([0-9]+)$/)) {
                 min = count - Math.min(count, Number(matches[1]));
                 focus = Flashcards.closedRange(min, count - 1);
-            } else if (matches = focus_str.match(/^([0-9]+)-([0-9]+)$/)) {
+            } else if (matches = settings_str.match(/^([0-9]+)-([0-9]+)$/)) {
                 min = Math.max(1, Number(matches[1]));
                 max = Math.min(count, Number(matches[2]));
                 focus = Flashcards.closedRange(min - 1, max - 1);
-            } else if (matches = focus_str.match(/^([0-9]+(,[0-9]+)+)$/)) {
+            } else if (matches = settings_str.match(/^([0-9]+(,[0-9]+)+)$/)) {
                 focus_indices = matches[1].split(",");
 
                 for (i = 0; i < focus_indices.length; ++i) {
@@ -481,7 +496,9 @@
                 hash, url, title;
 
             hash = (
-                "#!" + Flashcards.encodeInteger(Flashcards.all)
+                "#"
+                + (Flashcards.englishOnly ? "en" : (Flashcards.japaneseOnly ? "jp" : ""))
+                + "!" + Flashcards.encodeInteger(Flashcards.all)
                 + "," + Flashcards.encodeInteger(Flashcards.bad)
                 + "," + Flashcards.encodeSortableArrayOfIntegers(Flashcards.focus)
                 + "," + String(Flashcards.cards_pointer)
