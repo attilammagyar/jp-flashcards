@@ -2071,7 +2071,7 @@ Flashcards.initialize([
 ],
 [
     "Winter is from June. (It) is very cold. (It) snows a lot.",
-    "{冬|fuyu} wa {六月|rokugatsu} kara desu. totemo {寒い|samui} desu. {雪|yuki} ga ippai furimasu.",
+    "{冬|fuyu} wa {六月|rokugatsu} kara desu. totemo {寒い|samui} desu. {雪|yuki} ga ippai {降ります|furimasu}.",
     "(New Zealand)"
 ],
 [
@@ -2336,7 +2336,7 @@ Flashcards.initialize([
 ],
 [
     "(It) looks like (it) will rain.",
-    "{雨|ame} ga furisou desu.",
+    "{雨|ame} ga {降りそう|furisou} desu.",
     "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [

@@ -2071,7 +2071,7 @@ Flashcards.initialize([
     ],
     [
         "Winter is from June. (It) is very cold. (It) snows a lot.",
-        "{\u51ac|\u3075\u3086}\u306f{\u516d\u6708|\u308d\u304f\u304c\u3064}\u304b\u3089\u3067\u3059\u3002\u3068\u3066\u3082{\u5bd2\u3044|\u3055\u3080\u3044}\u3067\u3059\u3002{\u96ea|\u3086\u304d}\u304c\u3044\u3063\u3071\u3044\u3075\u308a\u307e\u3059\u3002",
+        "{\u51ac|\u3075\u3086}\u306f{\u516d\u6708|\u308d\u304f\u304c\u3064}\u304b\u3089\u3067\u3059\u3002\u3068\u3066\u3082{\u5bd2\u3044|\u3055\u3080\u3044}\u3067\u3059\u3002{\u96ea|\u3086\u304d}\u304c\u3044\u3063\u3071\u3044{\u964d\u308a\u307e\u3059|\u3075\u308a\u307e\u3059}\u3002",
         "(New Zealand)"
     ],
     [
@@ -2336,7 +2336,7 @@ Flashcards.initialize([
     ],
     [
         "(It) looks like (it) will rain.",
-        "{\u96e8|\u3042\u3081}\u304c\u3075\u308a\u305d\u3046\u3067\u3059\u3002",
+        "{\u96e8|\u3042\u3081}\u304c{\u964d\u308a\u305d\u3046|\u3075\u308a\u305d\u3046}\u3067\u3059\u3002",
         "adj. stem/verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
     ],
     [
