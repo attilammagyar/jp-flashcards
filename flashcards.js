@@ -55,7 +55,7 @@
 
         shouldChooseRandomCard: function ()
         {
-            return Math.random() < 0.15;
+            return Math.random() < 0.20;
         },
 
         shouldChooseFromFocus: function ()
