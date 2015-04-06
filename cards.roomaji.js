@@ -965,12 +965,12 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Why were (you) late today? Because (I) overslept.",
+    "Why were (you) late today? Because (I) overslept. {から}",
     "doushite {今日|kyou} {遅く|osoku} narimashita ka. asanebou shimashita kara.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
-    "Because on Fridays you're not here, (I) love fridays",
+    "Because on Fridays you're not here, (I) love fridays. {から}",
     "{金曜日|kin youbi} ni wa {貴方|anata} ga imasen kara, {金曜日|kin youbi} ga {大好き|daisuki} desu.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
@@ -1095,7 +1095,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "But because (I) like you, I'm here.",
+    "But because (I) like you, I'm here. {から}",
     "demo, {貴方|anata} ga {好き|suki} desu kara, {私|watashi} wa {此処|koko} ni imasu.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
@@ -1840,7 +1840,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Because today's game is cancelled, what shall we do?",
+    "Because today's game is cancelled, what shall we do? {から}",
     "{今日|kyou} no shiai wa chuushi desu kara, dou shimashou ka.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
@@ -1910,7 +1910,7 @@ Flashcards.initialize([
     "A-dictionary-form とB = if A then B\nnoun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
-    "Since (I) saw photos of Japan, (I) got wanting to go.",
+    "Since (I) saw photos of Japan, (I) got wanting to go. {の で}",
     "{日本|ni hon} no {写真|shashin} wo {見た|mita} no de, {行きたく|ikitaku} narimashita.",
     "~たい is usually used only in first person or in questions for the second person\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ],
@@ -2255,7 +2255,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {Polite.}",
+    "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {から, Polite.}",
     "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, {何時も|itsumo} {野菜|yasai} wo yakiniku to {一緒|issho} ni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
@@ -2345,7 +2345,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Because (I) don't know anything about you at all.",
+    "Because (I) don't know anything about you at all. {から}",
     "{貴方|anata} no koto wo {全然|zenzen} {知りません|shirimasen} kara.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
@@ -3260,7 +3260,7 @@ Flashcards.initialize([
     "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nや: incomplete list"
 ],
 [
-    "Because (I'm) learning the piano now, (I) practise every day. {habit}",
+    "Because (I'm) learning the piano now, (I) practise every day. {から, habit}",
     "{今|ima} _piano_ wo {習って|naratte} imasu kara {毎日|mainichi} {練習|renshuu} wo shite imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
@@ -3370,12 +3370,12 @@ Flashcards.initialize([
     "verb-plain + つもり = intend to ~"
 ],
 [
-    "(I) have an interest in South America so (I) want to go.",
+    "(I) have an interest in South America so (I) want to go. {の で}",
     "{南|minami} _amerika_ ni kyoumi ga aru no de {行きたい|ikitai} desu.",
     "verb stem + たい = want to ~\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ],
 [
-    "(I) am learning Japanese therefore (I) have come to Japan.",
+    "(I) am learning Japanese therefore (I) have come to Japan. {から}",
     "{日本語|nihongo} wo {習って|naratte} imasu kara {日本|nihon} ni {来て|kite} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
@@ -3535,7 +3535,7 @@ Flashcards.initialize([
     "verb stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
-    "Why won't (you) go to see the film? Because (I'll) work until late.",
+    "Why won't (you) go to see the film? Because (I'll) work until late. {から}",
     "doushite {映画|eiga} wo {見|mi} ni {行きません|ikimasen} ka. {遅く|osoku} made {働く|hataraku} kara desu.",
     "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nwhen answering {何故|なぜ} and どうして, から is more common than の で"
 ],
@@ -3648,5 +3648,40 @@ Flashcards.initialize([
     "The zookeeper caught (it). Poor penguin.",
     "{動物園|doubutsuen} no {人|hito} ga tsukamaemashita. kawaisouna _pengin_ desu.",
     ""
+],
+[
+    "Why does Miki want to watch baseball? Because (she) likes watching sports. {から}",
+    "{三木|miki} san wa doushite yakyuu wo {見たい|mitai} desu ka. _supootsu_ wo {見る|miru} {事|koto} ga {好き|suki} da kara desu.",
+    "verb stem + たい = want to ~ (verb --> い adj.)\nverb-plain + {事|こと} = doing ~ (nominalize)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "Why can't Roger eat meat? Because (he's) vegetarian. {から}",
+    "_rojaa_ san wa doushite {肉|niku} wo {食べる|taberu} {事|koto} ga {出来ません|dekimasen} ka. _bejitarian_ da kara desu.",
+    "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "Erm... are (you) free tonight?",
+    "ano ne, {今晩|konban} hima desu ka.",
+    ""
+],
+[
+    "Tonight is a little... (We'll) watch a movie with Rie. Before watching (it, we) intend to eat at a restaurant.",
+    "{今晩|konban} wa chotto... rie san to {映画|eiga} wo {見ます|mimasu}. {見る|miru} {前|mae} ni _resutoran_ de {食べる|taberu} tsumori desu.",
+    "verb-plain + {前|まえ} に = before doing ~\nverb-plain + つもり = intend to ~"
+],
+[
+    "How about Saturday night? Shall (we) go to the baseball stadium to watch baseball on Saturday night?",
+    "{土曜日|doyoubi} no {晩|ban} wa dou desu ka. {土曜日|doyoubi} no {晩|ban} yakyuujou de yakyuu wo {見|mi} ni {行きましょう|ikimashou} ka.",
+    "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
+],
+[
+    "There are various restaurants near the baseball stadium.",
+    "yakyuujou no {近く|chikaku} ni {色々|iroiro} na _resutoran_ ga arimasu.",
+    ""
+],
+[
+    "I'm vegetarian so (I) can't eat meat. {の で} But fish is OK. (Because I) can eat (that).",
+    "boku wa _bejitarian_ na no de {肉|niku} wo {食べる|taberu} {事|koto} ga {出来ません|dekimasen}. demo {魚|sakana} wa {大丈夫|daijoubu} desu. {食べる|taberu} {事|koto} ga {出来る|dekiru} n desu.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-plain + の/ん + です = justification, explanation (softer than から)"
 ]
 ])

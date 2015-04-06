@@ -965,12 +965,12 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Why were (you) late today? Because (I) overslept.",
+        "Why were (you) late today? Because (I) overslept. {\u304b\u3089}",
         "\u3069\u3046\u3057\u3066{\u4eca\u65e5|\u304d\u3087\u3046}{\u9045\u304f|\u304a\u305d\u304f}\u306a\u308a\u307e\u3057\u305f\u304b\u3002\u3042\u3055\u306d\u307c\u3046\u3057\u307e\u3057\u305f\u304b\u3089\u3002",
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
-        "Because on Fridays you're not here, (I) love fridays",
+        "Because on Fridays you're not here, (I) love fridays. {\u304b\u3089}",
         "{\u91d1\u66dc\u65e5|\u304d\u3093\u3088\u3046\u3073}\u306b\u306f{\u8cb4\u65b9|\u3042\u306a\u305f}\u304c\u3044\u307e\u305b\u3093\u304b\u3089\u3001{\u91d1\u66dc\u65e5|\u304d\u3093\u3088\u3046\u3073}\u304c{\u5927\u597d\u304d|\u3060\u3044\u3059\u304d}\u3067\u3059\u3002",
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
@@ -1095,7 +1095,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "But because (I) like you, I'm here.",
+        "But because (I) like you, I'm here. {\u304b\u3089}",
         "\u3067\u3082\u3001{\u8cb4\u65b9|\u3042\u306a\u305f}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304b\u3089\u3001{\u79c1|\u308f\u305f\u3057}\u306f{\u6b64\u51e6|\u3053\u3053}\u306b\u3044\u307e\u3059\u3002",
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
@@ -1840,7 +1840,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Because today's game is cancelled, what shall we do?",
+        "Because today's game is cancelled, what shall we do? {\u304b\u3089}",
         "{\u4eca\u65e5|\u304d\u3087\u3046}\u306e\u3057\u3042\u3044\u306f\u3061\u3085\u3046\u3057\u3067\u3059\u304b\u3089\u3001\u3069\u3046\u3057\u307e\u3057\u3087\u3046\u304b\u3002",
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
@@ -1910,7 +1910,7 @@ Flashcards.initialize([
         "A-dictionary-form \u3068B = if A then B\nnoun/\u306a adj. + \u306b + \u306a\u308b = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
-        "Since (I) saw photos of Japan, (I) got wanting to go.",
+        "Since (I) saw photos of Japan, (I) got wanting to go. {\u306e \u3067}",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u5199\u771f|\u3057\u3083\u3057\u3093}\u3092{\u898b\u305f|\u307f\u305f}\u306e\u3067\u3001{\u884c\u304d\u305f\u304f|\u3044\u304d\u305f\u304f}\u306a\u308a\u307e\u3057\u305f\u3002",
         "~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)"
     ],
@@ -2255,7 +2255,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {Polite.}",
+        "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {\u304b\u3089, Polite.}",
         "{\u79c1|\u308f\u305f\u3057}\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3084\u304d\u306b\u304f\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002\u3067\u3082\u3001{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u91ce\u83dc|\u3084\u3055\u3044}\u3092\u3084\u304d\u306b\u304f\u3068{\u4e00\u7dd2|\u3044\u3063\u3057\u3087}\u306b{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u304b\u3089\u3001{\u554f\u984c|\u3082\u3093\u3060\u3044}\u3054\u3056\u3044\u307e\u305b\u3093\u3002",
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
@@ -2345,7 +2345,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Because (I) don't know anything about you at all.",
+        "Because (I) don't know anything about you at all. {\u304b\u3089}",
         "{\u8cb4\u65b9|\u3042\u306a\u305f}\u306e\u3053\u3068\u3092{\u5168\u7136|\u305c\u3093\u305c\u3093}{\u77e5\u308a\u307e\u305b\u3093|\u3057\u308a\u307e\u305b\u3093}\u304b\u3089\u3002",
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
@@ -3260,7 +3260,7 @@ Flashcards.initialize([
         "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u3084: incomplete list"
     ],
     [
-        "Because (I'm) learning the piano now, (I) practise every day. {habit}",
+        "Because (I'm) learning the piano now, (I) practise every day. {\u304b\u3089, habit}",
         "{\u4eca|\u3044\u307e}\u30d4\u30a2\u30ce\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u307e\u3059\u304b\u3089{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046}\u3092\u3057\u3066\u3044\u307e\u3059\u3002",
         "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
@@ -3370,12 +3370,12 @@ Flashcards.initialize([
         "verb-plain + \u3064\u3082\u308a = intend to ~"
     ],
     [
-        "(I) have an interest in South America so (I) want to go.",
+        "(I) have an interest in South America so (I) want to go. {\u306e \u3067}",
         "{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b\u304d\u3087\u3046\u307f\u304c\u3042\u308b\u306e\u3067{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u3067\u3059\u3002",
         "verb stem + \u305f\u3044 = want to ~\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)"
     ],
     [
-        "(I) am learning Japanese therefore (I) have come to Japan.",
+        "(I) am learning Japanese therefore (I) have come to Japan. {\u304b\u3089}",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u307e\u3059\u304b\u3089{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3044\u307e\u3059\u3002",
         "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb-\u3066-form + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
@@ -3535,7 +3535,7 @@ Flashcards.initialize([
         "verb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
-        "Why won't (you) go to see the film? Because (I'll) work until late.",
+        "Why won't (you) go to see the film? Because (I'll) work until late. {\u304b\u3089}",
         "\u3069\u3046\u3057\u3066{\u6620\u753b|\u3048\u3044\u304c}\u3092{\u898b|\u307f}\u306b{\u884c\u304d\u307e\u305b\u3093|\u3044\u304d\u307e\u305b\u3093}\u304b\u3002{\u9045\u304f|\u304a\u305d\u304f}\u307e\u3067{\u50cd\u304f|\u306f\u305f\u3089\u304f}\u304b\u3089\u3067\u3059\u3002",
         "(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067"
     ],
@@ -3648,5 +3648,40 @@ Flashcards.initialize([
         "The zookeeper caught (it). Poor penguin.",
         "{\u52d5\u7269\u5712|\u3069\u3046\u3076\u3064\u3048\u3093}\u306e{\u4eba|\u3072\u3068}\u304c\u3064\u304b\u307e\u3048\u307e\u3057\u305f\u3002\u304b\u308f\u3044\u305d\u3046\u306a\u30da\u30f3\u30ae\u30f3\u3067\u3059\u3002",
         ""
+    ],
+    [
+        "Why does Miki want to watch baseball? Because (she) likes watching sports. {\u304b\u3089}",
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u3069\u3046\u3057\u3066\u3084\u304d\u3085\u3046\u3092{\u898b\u305f\u3044|\u307f\u305f\u3044}\u3067\u3059\u304b\u3002\u30b9\u30dd\u30fc\u30c4\u3092{\u898b\u308b|\u307f\u308b}{\u4e8b|\u3053\u3068}\u304c{\u597d\u304d|\u3059\u304d}\u3060\u304b\u3089\u3067\u3059\u3002",
+        "verb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+    ],
+    [
+        "Why can't Roger eat meat? Because (he's) vegetarian. {\u304b\u3089}",
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f\u3069\u3046\u3057\u3066{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}{\u4e8b|\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u304b\u3002\u30d9\u30b8\u30bf\u30ea\u30a2\u30f3\u3060\u304b\u3089\u3067\u3059\u3002",
+        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+    ],
+    [
+        "Erm... are (you) free tonight?",
+        "\u3042\u306e\u306d\u3001{\u4eca\u6669|\u3053\u3093\u3070\u3093}\u3072\u307e\u3067\u3059\u304b\u3002",
+        ""
+    ],
+    [
+        "Tonight is a little... (We'll) watch a movie with Rie. Before watching (it, we) intend to eat at a restaurant.",
+        "{\u4eca\u6669|\u3053\u3093\u3070\u3093}\u306f\u3061\u3087\u3063\u3068\u2026\u308a\u3048\u3055\u3093\u3068{\u6620\u753b|\u3048\u3044\u304c}\u3092{\u898b\u307e\u3059|\u307f\u307e\u3059}\u3002{\u898b\u308b|\u307f\u308b}{\u524d|\u307e\u3048}\u306b\u30ec\u30b9\u30c8\u30e9\u30f3\u3067{\u98df\u3079\u308b|\u305f\u3079\u308b}\u3064\u3082\u308a\u3067\u3059\u3002",
+        "verb-plain + {\u524d|\u307e\u3048} \u306b = before doing ~\nverb-plain + \u3064\u3082\u308a = intend to ~"
+    ],
+    [
+        "How about Saturday night? Shall (we) go to the baseball stadium to watch baseball on Saturday night?",
+        "{\u571f\u66dc\u65e5|\u3069\u3088\u3046\u3073}\u306e{\u6669|\u3070\u3093}\u306f\u3069\u3046\u3067\u3059\u304b\u3002{\u571f\u66dc\u65e5|\u3069\u3088\u3046\u3073}\u306e{\u6669|\u3070\u3093}\u3084\u304d\u3085\u3046\u3058\u3087\u3046\u3067\u3084\u304d\u3085\u3046\u3092{\u898b|\u307f}\u306b{\u884c\u304d\u307e\u3057\u3087\u3046|\u3044\u304d\u307e\u3057\u3087\u3046}\u304b\u3002",
+        "(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+    ],
+    [
+        "There are various restaurants near the baseball stadium.",
+        "\u3084\u304d\u3085\u3046\u3058\u3087\u3046\u306e{\u8fd1\u304f|\u3061\u304b\u304f}\u306b{\u8272\u3005|\u3044\u308d\u3044\u308d}\u306a\u30ec\u30b9\u30c8\u30e9\u30f3\u304c\u3042\u308a\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "I'm vegetarian so (I) can't eat meat. {\u306e \u3067} But fish is OK. (Because I) can eat (that).",
+        "\u307c\u304f\u306f\u30d9\u30b8\u30bf\u30ea\u30a2\u30f3\u306a\u306e\u3067{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}{\u4e8b|\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002\u3067\u3082{\u9b5a|\u3055\u304b\u306a}\u306f{\u5927\u4e08\u592b|\u3060\u3044\u3058\u3087\u3046\u3076}\u3067\u3059\u3002{\u98df\u3079\u308b|\u305f\u3079\u308b}{\u4e8b|\u3053\u3068}\u304c{\u51fa\u6765\u308b|\u3067\u304d\u308b}\u3093\u3067\u3059\u3002",
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ]
 ])
