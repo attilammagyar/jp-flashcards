@@ -3316,7 +3316,7 @@ Flashcards.initialize([
 ],
 [
     "Last year (I) have tried learning French.",
-    "kyonen _furansu_ {語|go} wo {習って|naratte} mimashita.",
+    "{去年|kyonen} _furansu_ {語|go} wo {習って|naratte} mimashita.",
     "verb-て-form + みる = try doing ~\nならう -> ならって"
 ],
 [
