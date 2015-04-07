@@ -1532,7 +1532,7 @@ Flashcards.initialize([
 [
     "(My) mother is tall (and) has big eyes.",
     "{母|haha} wa se ga {高くて|takakute} {目|me} ga {大きい|ookii} desu.",
-    ""
+    "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
     "That person is famous. That is a famous person.",
@@ -1572,7 +1572,7 @@ Flashcards.initialize([
 [
     "eyes, big, small, round",
     "{目|me}, {大きい|ookii}, {小さい|chiisai}, marui",
-    ""
+    "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)\n{小さい|chiisai} = い-adj., {小さな|chiisana} = noun modifier, only before nouns"
 ],
 [
     "back/height, high/tall, low/short, average",
@@ -1582,7 +1582,7 @@ Flashcards.initialize([
 [
     "nose, tall/big, small, wide",
     "{鼻|hana}, {高い|takai}, {小さい|chiisai}, {大きい|ookii}",
-    ""
+    "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)\n{小さい|chiisai} = い-adj., {小さな|chiisana} = noun modifier, only before nouns"
 ],
 [
     "hair, long, short, shoulder-length",
@@ -1707,7 +1707,7 @@ Flashcards.initialize([
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
     "se ga futsuu de, kami ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga marukute, {鼻|hana} ga {大きい|ookii} desu.",
-    ""
+    "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
     "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
@@ -3177,7 +3177,7 @@ Flashcards.initialize([
 [
     "(I) want a big car.",
     "{大きい|ookii} {車|kuruma} ga {欲しい|hoshii} desu.",
-    "noun + が + {欲しい|ほしい} = (I) want a noun"
+    "noun + が + {欲しい|ほしい} = (I) want a noun\n{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
     "(I) haven't eaten breakfast yet. (I) am still eating breakfast. Mr. Yamada is still at the company.",

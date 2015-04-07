@@ -1532,7 +1532,7 @@ Flashcards.initialize([
     [
         "(My) mother is tall (and) has big eyes.",
         "{\u6bcd|\u306f\u306f}\u306f\u305b\u304c{\u9ad8\u304f\u3066|\u305f\u304b\u304f\u3066}{\u76ee|\u3081}\u304c{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}\u3067\u3059\u3002",
-        ""
+        "{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044} = physically big, {\u5927\u304d\u306a|\u304a\u304a\u304d\u306a} = physical or abstract size (noun modifier, only before nouns)"
     ],
     [
         "That person is famous. That is a famous person.",
@@ -1572,7 +1572,7 @@ Flashcards.initialize([
     [
         "eyes, big, small, round",
         "{\u76ee|\u3081}\u3001{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}\u3001{\u5c0f\u3055\u3044|\u3061\u3044\u3055\u3044}\u3001\u307e\u308b\u3044",
-        ""
+        "{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044} = physically big, {\u5927\u304d\u306a|\u304a\u304a\u304d\u306a} = physical or abstract size (noun modifier, only before nouns)\n{\u5c0f\u3055\u3044|\u3061\u3044\u3055\u3044} = \u3044-adj., {\u5c0f\u3055\u306a|\u3061\u3044\u3055\u306a} = noun modifier, only before nouns"
     ],
     [
         "back/height, high/tall, low/short, average",
@@ -1582,7 +1582,7 @@ Flashcards.initialize([
     [
         "nose, tall/big, small, wide",
         "{\u9f3b|\u306f\u306a}\u3001{\u9ad8\u3044|\u305f\u304b\u3044}\u3001{\u5c0f\u3055\u3044|\u3061\u3044\u3055\u3044}\u3001{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}",
-        ""
+        "{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044} = physically big, {\u5927\u304d\u306a|\u304a\u304a\u304d\u306a} = physical or abstract size (noun modifier, only before nouns)\n{\u5c0f\u3055\u3044|\u3061\u3044\u3055\u3044} = \u3044-adj., {\u5c0f\u3055\u306a|\u3061\u3044\u3055\u306a} = noun modifier, only before nouns"
     ],
     [
         "hair, long, short, shoulder-length",
@@ -1707,7 +1707,7 @@ Flashcards.initialize([
     [
         "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
         "\u305b\u304c\u3075\u3064\u3046\u3067\u3001\u304b\u307f\u304c{\u9577\u304f\u3066|\u306a\u304c\u304f\u3066}{\u8336\u8272|\u3061\u3083\u3044\u308d}\u3067\u3059\u3002{\u76ee|\u3081}\u3082{\u8336\u8272|\u3061\u3083\u3044\u308d}\u3067\u3059\u3002{\u9854|\u304b\u304a}\u304c\u307e\u308b\u304f\u3066\u3001{\u9f3b|\u306f\u306a}\u304c{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}\u3067\u3059\u3002",
-        ""
+        "{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044} = physically big, {\u5927\u304d\u306a|\u304a\u304a\u304d\u306a} = physical or abstract size (noun modifier, only before nouns)"
     ],
     [
         "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
@@ -3177,7 +3177,7 @@ Flashcards.initialize([
     [
         "(I) want a big car.",
         "{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}{\u8eca|\u304f\u308b\u307e}\u304c{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
-        "noun + \u304c + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = (I) want a noun"
+        "noun + \u304c + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = (I) want a noun\n{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044} = physically big, {\u5927\u304d\u306a|\u304a\u304a\u304d\u306a} = physical or abstract size (noun modifier, only before nouns)"
     ],
     [
         "(I) haven't eaten breakfast yet. (I) am still eating breakfast. Mr. Yamada is still at the company.",

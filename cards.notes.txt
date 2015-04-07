@@ -70,3 +70,5 @@ noun + とか + noun + とか = representative examples of a class
 とか links representative examples of a class (A and B, and other things)
 verb-plain + とか + verb-plain + とか + する = representative examples of a class
 verb-stem + verb = compound verb (action + how)
+{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)
+{小さい|chiisai} = い-adj., {小さな|chiisana} = noun modifier, only before nouns
