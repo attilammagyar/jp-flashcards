@@ -806,7 +806,7 @@ Flashcards.initialize([
     ],
     [
         "10 books",
-        "{\u672c|\u307b\u3093}\u3058\u3085\u3063\u3055\u3064",
+        "{\u672c|\u307b\u3093}{\u5341\u518a|\u3058\u3085\u3063\u3055\u3064}",
         ""
     ],
     [
@@ -886,7 +886,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) have 3 notebooks please?",
-        "\u30ce\u30fc\u30c8\u3092{\u4e09|\u3055\u3093}\u3055\u3064\u304f\u3060\u3055\u3044\u3002",
+        "\u30ce\u30fc\u30c8\u3092{\u4e09\u518a|\u3055\u3093\u3055\u3064}\u304f\u3060\u3055\u3044\u3002",
         ""
     ],
     [
@@ -2141,7 +2141,7 @@ Flashcards.initialize([
     ],
     [
         "(I) want to be a policeman.",
-        "\u3051\u3044\u3055\u3064\u304b\u3093\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
+        "{\u8b66\u5bdf\u5b98|\u3051\u3044\u3055\u3064\u304b\u3093}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
         "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [

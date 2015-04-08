@@ -806,7 +806,7 @@ Flashcards.initialize([
 ],
 [
     "10 books",
-    "{本|hon} jussatsu",
+    "{本|hon} {十冊|jussatsu}",
     ""
 ],
 [
@@ -886,7 +886,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 3 notebooks please?",
-    "_nooto_ wo {三|san}satsu kudasai.",
+    "_nooto_ wo {三冊|sansatsu} kudasai.",
     ""
 ],
 [
@@ -2141,7 +2141,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to be a policeman.",
-    "keisatsukan ni naritai desu.",
+    "{警察官|keisatsukan} ni naritai desu.",
     "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
