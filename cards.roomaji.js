@@ -3683,5 +3683,25 @@ Flashcards.initialize([
     "I'm vegetarian so (I) can't eat meat. {の で} But fish is OK. (Because I) can eat (that).",
     "boku wa _bejitarian_ na no de {肉|niku} wo {食べる|taberu} {事|koto} ga {出来ません|dekimasen}. demo {魚|sakana} wa {大丈夫|daijoubu} desu. {食べる|taberu} {事|koto} ga {出来る|dekiru} n desu.",
     "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-plain + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Next year (I) want to go to South America so (I'm) learning Spanish now. {の で}",
+    "{来年|rainen} {南|minami} _amerika_ ni {行きたい|ikitai} no de {今|ima} _supein_ {語|go} wo {習って|naratte} imasu.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+],
+[
+    "(I'm) not very good at speaking Spanish yet but (I) think that speaking with South American people will be very interesting.",
+    "_supein_ {語|go} wo {話す|hanasu} {事|koto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {南|minami} _amerika_ {人|jin} to {話す|hanasu} {事|koto} wa totemo {面白い|omoshiroi} to omoimasu.",
+    "verb-plain + {事|こと} = doing ~ (nominalize)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc."
+],
+[
+    "(I) also like Spanish food very much but (I) can't make (it).",
+    "_supein_ no {料理|ryouri} mo totemo {好き|suki} desu ga {作る|tsukuru} {事|koto} wa {出来ません|dekimasen}.",
+    "noun + {出来る｜できる} = can (do) noun"
+],
+[
+    "Tonight (I) plan to meet a friend in town and eat Spanish food in a tasty restaurant.",
+    "{今晩|konban} {町|machi} de {友達|tomodachi} to {会って|atte}, oishii _resutoran_ de _supein_ no {料理|ryouri} wo {食べる|taberu} tsumori desu.",
+    "verb-plain + つもり = intend to ~"
 ]
 ])
