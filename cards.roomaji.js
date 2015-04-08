@@ -1261,7 +1261,7 @@ Flashcards.initialize([
 ],
 [
     "Please cross the bridge.",
-    "hashi wo watatte kudasai.",
+    "{橋|hashi} wo watatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [

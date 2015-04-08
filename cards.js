@@ -1261,7 +1261,7 @@ Flashcards.initialize([
     ],
     [
         "Please cross the bridge.",
-        "\u306f\u3057\u3092\u308f\u305f\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+        "{\u6a4b|\u306f\u3057}\u3092\u308f\u305f\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
         "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
