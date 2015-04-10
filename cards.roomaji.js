@@ -1761,7 +1761,7 @@ Flashcards.initialize([
 ],
 [
     "Last week (I) did a business trip to Osaka. It wasn't interesting.",
-    "{先週|senshuu} ousaka ni shucchou shimashita. {面白くなかった|omoshirokunakatta} desu.",
+    "{先週|senshuu} oosaka ni shucchou shimashita. {面白くなかった|omoshirokunakatta} desu.",
     ""
 ],
 [
@@ -1821,7 +1821,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada went to Osaka by bullet train.",
-    "{山田|yamada} san wa shinkansen de ousaka ni {行きました|ikimashita}.",
+    "{山田|yamada} san wa shinkansen de oosaka ni {行きました|ikimashita}.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
 ],
 [
@@ -1836,7 +1836,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 2 tickets for Osaka please?",
-    "ousaka yuki no {切符|kippu} wo {二|ni} {枚|mai} kudasai.",
+    "oosaka yuki no {切符|kippu} wo {二|ni} {枚|mai} kudasai.",
     ""
 ],
 [
@@ -2006,7 +2006,7 @@ Flashcards.initialize([
 ],
 [
     "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
-    "ousaka yuki no {切符|kippu} wo {ニ|ni} {枚|mai} kudasai. katamichi desu ka. oufuku desu ka. katamichi desu.",
+    "oosaka yuki no {切符|kippu} wo {ニ|ni} {枚|mai} kudasai. katamichi desu ka. oufuku desu ka. katamichi desu.",
     ""
 ],
 [
@@ -2016,12 +2016,12 @@ Flashcards.initialize([
 ],
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
-    "ousaka ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. ousaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa tsumaranakatta desu.",
+    "oosaka ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. oosaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa tsumaranakatta desu.",
     "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\n~たい is usually used only in first person or in questions for the second person\n{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-    "ousaka made shinkansen de {行きました|ikimashita}. katamichi no {切符|kippu} wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
+    "oosaka made shinkansen de {行きました|ikimashita}. katamichi no {切符|kippu} wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
