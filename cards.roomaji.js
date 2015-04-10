@@ -3703,5 +3703,65 @@ Flashcards.initialize([
     "Tonight (I) plan to meet a friend in town and eat Spanish food in a tasty restaurant.",
     "{今晩|konban} {町|machi} de {友達|tomodachi} to {会って|atte}, oishii _resutoran_ de _supein_ no {料理|ryouri} wo {食べる|taberu} tsumori desu.",
     "verb-plain + つもり = intend to ~"
+],
+[
+    "Okay everybody, it's question time!",
+    "hai {皆さん|minasan}, {質問|shitsumon} no {時間|jikan} desu yo.",
+    ""
+],
+[
+    "Which has the larger population, Osaka or Tokyo?",
+    "{東京|toukyou}, oosaka wa dochira no {人口|jinkou} ga {多い|ooi} desu ka.",
+    ""
+],
+[
+    "Tokyo's population is larger than Osaka's.",
+    "{東京|toukyou} no {人口|jinkou} wa oosaka yori {多い|ooi} desu.",
+    "A は Bより X = Bより A は X = A is X'er than B"
+],
+[
+    "Out of Japan's 5 big islands, which is the biggest?",
+    "{日本|nihon} no {五つ|itsutsu} {大きな|ookina} {島|shima} no {中|naka} de, dore ga {一番|ichiban} {大きい|ookii} desu ka.",
+    "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
+],
+[
+    "Shikoku is bigger than Okinawa.",
+    "{四国|shikoku} wa okinawa yori {大きい|ookii} desu.",
+    "A は Bより X = Bより A は X = A is X'er than B"
+],
+[
+    "Kyushu is bigger than Shikoku.",
+    "kyuushuu wa {四国|shikoku} yori {大きい|ookii} desu.",
+    "A は Bより X = Bより A は X = A is X'er than B"
+],
+[
+    "Hokkaido is larger than Kyushu.",
+    "hokkaidou wa kyuushuu yori {大きい|ookii} desu.",
+    "A は Bより X = Bより A は X = A is X'er than B"
+],
+[
+    "Because Honshu is larger than Hokkaido, the answer is Honshu. {から}",
+    "honshuu wa hokkaidou yori {大きい|ookii} desu kara {答え|kotae} wa honshuu desu.",
+    "A は Bより X = Bより A は X = A is X'er than B\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "The next station is Osaka.",
+    "{次|tsugi} no {駅|eki} wa oosaka desu.",
+    ""
+],
+[
+    "Trains are faster than cars.",
+    "{電車|densha} wa {車|kuruma} yori {速い|hayai} desu.",
+    "A は Bより X = Bより A は X = A is X'er than B"
+],
+[
+    "Hiragana is easier than kanji.",
+    "hiragana wa {漢字|kanji} yori kantan desu.",
+    "A は Bより X = Bより A は X = A is X'er than B"
+],
+[
+    "This year there is more rain than last year, isn't there?",
+    "{今年|kotoshi} wa {去年|kyonen} yori {雨|ame} ga {多い|ooi} desu ne.",
+    "A は Bより X = Bより A は X = A is X'er than B"
 ]
 ])

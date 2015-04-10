@@ -72,3 +72,4 @@ verb-plain + とか + verb-plain + とか + する = representative examples of 
 verb-stem + verb = compound verb (action + how)
 {大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)
 {小さい|chiisai} = い-adj., {小さな|chiisana} = noun modifier, only before nouns
+A は Bより X = Bより A は X = A is X'er than B
