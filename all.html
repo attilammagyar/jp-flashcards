@@ -5,9 +5,6 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8" />
     <style>
-    body {
-    }
-
     ruby {
         border-radius: 0.2em;
         border: solid 1px #ddd;
@@ -20,22 +17,21 @@
 
     dt {
         float: left;
-        clear: both;
         width: 50%;
-        margin-bottom: 0.2em;
         margin-right: 1em;
+        overflow: auto;
     }
 
-    p {
+    dd {
         display: table-cell;
         width: 50%;
         padding: 0;
-        margin-bottom: 0.1em;
     }
 
     div.notes {
         clear: both;
         font-size: 80%;
+        margin-top: 0.2em;
     }
 
     div.notes rt {
@@ -48,6 +44,8 @@
 
     ol li {
         clear: both;
+        padding: 0;
+        margin: 0;
         break-inside: avoid;
         page-break-inside: avoid;
         -webkit-column-break-inside: avoid;
@@ -57,11 +55,6 @@
         border: solid 1px #ddd;
         margin: 0.2em;
         padding: 0.2em;
-    }
-
-    @media print {
-        ruby rt {
-        }
     }
     </style>
 </head>
@@ -103,7 +96,7 @@
                 html += (
                     "<li value=\"" + String(cs[i] + 1) + "\">"
                     + "<dt>" + c[0] + "</dt>"
-                    + "<dd><p>" + c[1] + "</p></dd>"
+                    + "<dd>" + c[1] + "</dd>"
                     + "<div class=\"notes\">" + c[2] + "</div>"
                     + "</li>"
                 );
