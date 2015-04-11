@@ -38,6 +38,15 @@
         font-size: 57%;
     }
 
+    div.with_furigana {
+        margin-top: 0.5em;
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    div.expand {
+        clear: both;
+    }
+
     ol {
         margin-left: 1em;
     }
@@ -63,6 +72,24 @@
     <script type="text/javascript" src="flashcards.js"></script>
     <script type="text/javascript">
     <!--
+    Flashcards.formatJapaneseHtml = function (card_html)
+    {
+        var with_furigana = card_html,
+            without_furigana = card_html.replace(
+                /<ruby>(.*?)<rt>.*?<\/rt><\/ruby>/g,
+                "$1"
+            );
+
+        if (without_furigana == with_furigana) {
+            return "<div class=\"without_furigana\">" + without_furigana + "</div>";
+        }
+
+        return (
+            "<div class=\"without_furigana\">" + without_furigana + "</div>"
+            + "<div class=\"with_furigana\">" + with_furigana + "</div>"
+        );
+    };
+
     Flashcards.initialize = function (cards)
     {
         var html = "",
@@ -88,16 +115,23 @@
         } else if (Flashcards.japaneseOnly) {
             for (i = 0, l = cs.length; i < l; ++i) {
                 c = Flashcards.cards[cs[i]];
-                html += "<li value=\"" + String(cs[i] + 1) + "\">" + c[1] + "</li>";
+                html += (
+                    "<li value=\"" + String(cs[i] + 1) + "\">"
+                    + Flashcards.formatJapaneseHtml(c[1])
+                    + "</li>"
+                );
             }
         } else {
             for (i = 0, l = cs.length; i < l; ++i) {
                 c = Flashcards.cards[cs[i]];
                 html += (
                     "<li value=\"" + String(cs[i] + 1) + "\">"
-                    + "<dt>" + c[0] + "</dt>"
-                    + "<dd>" + c[1] + "</dd>"
+                    + "<dt>"
+                    + "<div>" + c[0] + "</div>"
                     + "<div class=\"notes\">" + c[2] + "</div>"
+                    + "</dt>"
+                    + "<dd>" + Flashcards.formatJapaneseHtml(c[1]) + "</dd>"
+                    + "<div class=\"expand\"></div>"
                     + "</li>"
                 );
             }
