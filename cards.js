@@ -1526,7 +1526,7 @@ Flashcards.initialize([
     ],
     [
         "I have a headache.",
-        "{\u79c1|\u308f\u305f\u3057}\u306f{\u982d|\u3042\u305f\u307e}\u304c\u3044\u305f\u3044\u3067\u3059\u3002",
+        "{\u79c1|\u308f\u305f\u3057}\u306f{\u982d|\u3042\u305f\u307e}\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -1656,17 +1656,17 @@ Flashcards.initialize([
     ],
     [
         "(My) throat is sore.",
-        "\u306e\u3069\u304c\u3044\u305f\u3044\u3067\u3059\u3002",
+        "\u306e\u3069\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
         "(My) back hurts.",
-        "\u305b\u306a\u304b\u304c\u3044\u305f\u3044\u3067\u3059\u3002",
+        "\u305b\u306a\u304b\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
         "(My) stomach hurts.",
-        "\u304a\u306a\u304b\u304c\u3044\u305f\u3044\u3067\u3059\u3002",
+        "\u304a\u306a\u304b\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -1681,7 +1681,7 @@ Flashcards.initialize([
     ],
     [
         "(My) shoulders ache.",
-        "\u304b\u305f\u304c\u3044\u305f\u3044\u3067\u3059\u3002",
+        "\u304b\u305f\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -1691,12 +1691,12 @@ Flashcards.initialize([
     ],
     [
         "(I) have a headache. (My) stomach also hurts.",
-        "{\u982d|\u3042\u305f\u307e}\u304c\u3044\u305f\u3044\u3067\u3059\u3002\u304a\u306a\u304b\u3082\u3044\u305f\u3044\u3067\u3059\u3002",
+        "{\u982d|\u3042\u305f\u307e}\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002\u304a\u306a\u304b\u3082{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
         "Does (your) throat hurt? Hurts a little bit.",
-        "\u306e\u3069\u304c\u3044\u305f\u3044\u3067\u3059\u304b\u3002\u3061\u3087\u3063\u3068\u3044\u305f\u3044\u3067\u3059\u3002",
+        "\u306e\u3069\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u304b\u3002\u3061\u3087\u3063\u3068{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -2106,7 +2106,7 @@ Flashcards.initialize([
     ],
     [
         "(I) had a headache last night. (I) didn't eat anything.",
-        "\u3086\u3046\u3079{\u982d|\u3042\u305f\u307e}\u304c\u3044\u305f\u304b\u3063\u305f\u3067\u3059\u3002{\u4f55|\u306a\u306b}\u3082{\u98df\u3079\u307e\u305b\u3093|\u305f\u3079\u307e\u305b\u3093}\u3067\u3057\u305f\u3002",
+        "\u3086\u3046\u3079{\u982d|\u3042\u305f\u307e}\u304c{\u75db\u304b\u3063\u305f|\u3044\u305f\u304b\u3063\u305f}\u3067\u3059\u3002{\u4f55|\u306a\u306b}\u3082{\u98df\u3079\u307e\u305b\u3093|\u305f\u3079\u307e\u305b\u3093}\u3067\u3057\u305f\u3002",
         ""
     ],
     [
@@ -3381,7 +3381,7 @@ Flashcards.initialize([
     ],
     [
         "What's the matter? Well, you see, (I've) got a headache.",
-        "\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3002{\u982d|\u3042\u305f\u307e}\u304c\u3044\u305f\u3044\u3093\u3067\u3059\u3002",
+        "\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3002{\u982d|\u3042\u305f\u307e}\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3093\u3067\u3059\u3002",
         "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
@@ -3566,7 +3566,7 @@ Flashcards.initialize([
     ],
     [
         "Why (are you) going home? {plain, soft explanation} ('Cos I've got) a headache.",
-        "\u3069\u3046\u3057\u3066{\u5e30\u308b|\u304b\u3048\u308b}\u306e?{\u982d|\u3042\u305f\u307e}\u304c\u3044\u305f\u3044\u306e\u3002",
+        "\u3069\u3046\u3057\u3066{\u5e30\u308b|\u304b\u3048\u308b}\u306e?{\u982d|\u3042\u305f\u307e}\u304c{\u75db\u3044|\u3044\u305f\u3044}\u306e\u3002",
         "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059"
     ],
     [

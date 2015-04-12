@@ -1526,7 +1526,7 @@ Flashcards.initialize([
 ],
 [
     "I have a headache.",
-    "{私|watashi} wa {頭|atama} ga itai desu.",
+    "{私|watashi} wa {頭|atama} ga {痛い|itai} desu.",
     ""
 ],
 [
@@ -1656,17 +1656,17 @@ Flashcards.initialize([
 ],
 [
     "(My) throat is sore.",
-    "nodo ga itai desu.",
+    "nodo ga {痛い|itai} desu.",
     ""
 ],
 [
     "(My) back hurts.",
-    "senaka ga itai desu.",
+    "senaka ga {痛い|itai} desu.",
     ""
 ],
 [
     "(My) stomach hurts.",
-    "onaka ga itai desu.",
+    "onaka ga {痛い|itai} desu.",
     ""
 ],
 [
@@ -1681,7 +1681,7 @@ Flashcards.initialize([
 ],
 [
     "(My) shoulders ache.",
-    "kata ga itai desu.",
+    "kata ga {痛い|itai} desu.",
     ""
 ],
 [
@@ -1691,12 +1691,12 @@ Flashcards.initialize([
 ],
 [
     "(I) have a headache. (My) stomach also hurts.",
-    "{頭|atama} ga itai desu. onaka mo itai desu.",
+    "{頭|atama} ga {痛い|itai} desu. onaka mo {痛い|itai} desu.",
     ""
 ],
 [
     "Does (your) throat hurt? Hurts a little bit.",
-    "nodo ga itai desu ka. chotto itai desu.",
+    "nodo ga {痛い|itai} desu ka. chotto {痛い|itai} desu.",
     ""
 ],
 [
@@ -2106,7 +2106,7 @@ Flashcards.initialize([
 ],
 [
     "(I) had a headache last night. (I) didn't eat anything.",
-    "yuube {頭|atama} ga itakatta desu. {何|nani} mo {食べません|tabemasen} deshita.",
+    "yuube {頭|atama} ga {痛かった|itakatta} desu. {何|nani} mo {食べません|tabemasen} deshita.",
     ""
 ],
 [
@@ -3381,7 +3381,7 @@ Flashcards.initialize([
 ],
 [
     "What's the matter? Well, you see, (I've) got a headache.",
-    "dou shita n desu ka. {頭|atama} ga itai n desu.",
+    "dou shita n desu ka. {頭|atama} ga {痛い|itai} n desu.",
     "verb-plain + の/ん + です = justification, explanation (softer than から)"
 ],
 [
@@ -3566,7 +3566,7 @@ Flashcards.initialize([
 ],
 [
     "Why (are you) going home? {plain, soft explanation} ('Cos I've got) a headache.",
-    "doushite {帰る|kaeru} no? {頭|atama} ga itai no.",
+    "doushite {帰る|kaeru} no? {頭|atama} ga {痛い|itai} no.",
     "verb-plain + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です"
 ],
 [
