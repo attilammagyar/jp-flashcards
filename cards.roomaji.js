@@ -3763,5 +3763,15 @@ Flashcards.initialize([
     "This year there is more rain than last year, isn't there?",
     "{今年|kotoshi} wa {去年|kyonen} yori {雨|ame} ga {多い|ooi} desu ne.",
     "A は Bより X = Bより A は X = A is X'er than B"
+],
+[
+    "(I'm) not very good at speaking Japanese yet, but (I'm) interested in Japanese things.",
+    "{日本語|nihongo} wo {話す|hanasu} {事|koto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {日本|nihon} no {事|koto} ni kyoumi ga arimasu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverb-plain + {事|こと} = doing ~ (nominalize)"
+],
+[
+    "(I) also like Japanese food very much, but (I) can't make (it).",
+    "{日本|nihon} no {料理|ryouri} mo totemo {好き|suki} desu ga {作る|tsukuru} {事|koto} wa {出来ません|dekimasen}.",
+    "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
 ]
 ])

@@ -3763,5 +3763,15 @@ Flashcards.initialize([
         "This year there is more rain than last year, isn't there?",
         "{\u4eca\u5e74|\u3053\u3068\u3057}\u306f{\u53bb\u5e74|\u304d\u3087\u306d\u3093}\u3088\u308a{\u96e8|\u3042\u3081}\u304c{\u591a\u3044|\u304a\u304a\u3044}\u3067\u3059\u306d\u3002",
         "A \u306f B\u3088\u308a X = B\u3088\u308a A \u306f X = A is X'er than B"
+    ],
+    [
+        "(I'm) not very good at speaking Japanese yet, but (I'm) interested in Japanese things.",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u8a71\u3059|\u306f\u306a\u3059}{\u4e8b|\u3053\u3068}\u304c{\u672a\u3060|\u307e\u3060}{\u4f59\u308a|\u3042\u307e\u308a}{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3058\u3083\u3042\u308a\u307e\u305b\u3093\u304c{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u4e8b|\u3053\u3068}\u306b\u304d\u3087\u3046\u307f\u304c\u3042\u308a\u307e\u3059\u3002",
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\nverb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)"
+    ],
+    [
+        "(I) also like Japanese food very much, but (I) can't make (it).",
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3082\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304c{\u4f5c\u308b|\u3064\u304f\u308b}{\u4e8b|\u3053\u3068}\u306f{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
+        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
     ]
 ])
