@@ -1301,7 +1301,7 @@ Flashcards.initialize([
     ],
     [
         "Cross the footbridge, (then) turn left at the corner please.",
-        "\u307b\u3069\u3046\u304d\u3087\u3046\u3092\u308f\u305f\u3063\u3066\u3001\u304b\u3069\u3092{\u5de6|\u3072\u3060\u308a}\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+        "\u307b\u3069\u3046\u304d\u3087\u3046\u3092\u308f\u305f\u3063\u3066\u3001{\u89d2|\u304b\u3069}\u3092{\u5de6|\u3072\u3060\u308a}\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
         "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
@@ -1431,7 +1431,7 @@ Flashcards.initialize([
     ],
     [
         "Cross (over) the footbridge (and) turn left at the corner please.",
-        "\u307b\u3069\u3046\u304d\u3087\u3046\u3092\u308f\u305f\u3063\u3066\u3001\u304b\u3069\u3092{\u5de6|\u3072\u3060\u308a}\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+        "\u307b\u3069\u3046\u304d\u3087\u3046\u3092\u308f\u305f\u3063\u3066\u3001{\u89d2|\u304b\u3069}\u3092{\u5de6|\u3072\u3060\u308a}\u306b\u307e\u304c\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
         "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
@@ -1960,7 +1960,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "hot, cold, warm, cool/refreshing",
+        "hot {weather}, cold, warm, cool/refreshing",
         "{\u6691\u3044|\u3042\u3064\u3044}\u3001{\u5bd2\u3044|\u3055\u3080\u3044}\u3001\u3042\u305f\u305f\u304b\u3044\u3001\u3059\u305a\u3057\u3044",
         ""
     ],

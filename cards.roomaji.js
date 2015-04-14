@@ -1301,7 +1301,7 @@ Flashcards.initialize([
 ],
 [
     "Cross the footbridge, (then) turn left at the corner please.",
-    "hodou kyou wo watatte, kado wo {左|hidari} ni magatte kudasai.",
+    "hodou kyou wo watatte, {角|kado} wo {左|hidari} ni magatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1431,7 +1431,7 @@ Flashcards.initialize([
 ],
 [
     "Cross (over) the footbridge (and) turn left at the corner please.",
-    "hodou kyou wo watatte, kado wo {左|hidari} ni magatte kudasai.",
+    "hodou kyou wo watatte, {角|kado} wo {左|hidari} ni magatte kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1960,7 +1960,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "hot, cold, warm, cool/refreshing",
+    "hot {weather}, cold, warm, cool/refreshing",
     "{暑い|atsui}, {寒い|samui}, atatakai, suzushii",
     ""
 ],
