@@ -3793,5 +3793,40 @@ Flashcards.initialize([
         "(We) talked about various interesting things and (it) was fun.",
         "{\u8272\u3005|\u3044\u308d\u3044\u308d}{\u9762\u767d\u3044|\u304a\u3082\u3057\u308d\u3044}{\u4e8b|\u3053\u3068}\u306b\u3064\u3044\u3066{\u8a71\u3057\u3066|\u306f\u306a\u3057\u3066}\u3001\u3068\u3066\u3082{\u697d\u3057\u304b\u3063\u305f|\u305f\u306e\u3057\u304b\u3063\u305f}\u3067\u3059\u3002",
         "noun + \u306b + \u3064\u3044\u3066 = about noun\n\u304b\u3063\u305f = past tense of \u3044 adj."
+    ],
+    [
+        "Did (you) stay out until late? (It) wasn't especially late.",
+        "{\u9045\u304f|\u304a\u305d\u304f}\u307e\u3067{\u904a\u3073\u307e\u3057\u305f|\u3042\u305d\u3073\u307e\u3057\u305f}\u304b\u3002\u305d\u3093\u306a\u306b{\u9045\u304f\u306a\u304b\u3063\u305f|\u304a\u305d\u304f\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
+        "\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj."
+    ],
+    [
+        "After returning (home), (I) phoned Roger and said good night.",
+        "{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066}\u304b\u3089\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3057\u3066{\u304a\u4f11\u307f\u306a\u3055\u3044|\u304a\u3084\u3059\u307f\u306a\u3055\u3044}\u3068{\u8a00\u3044\u307e\u3057\u305f|\u3044\u3044\u307e\u3057\u305f}\u3002",
+        "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
+    ],
+    [
+        "After that, (we) went to a bar and drank a lot of beer until late.",
+        "\u305d\u306e{\u5f8c|\u3042\u3068}\u3067\u30d0\u30fc\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001{\u9045\u304f|\u304a\u305d\u304f}\u307e\u3067\u30d3\u30fc\u30eb\u3092\u3044\u3063\u3071\u3044{\u98f2\u307f\u307e\u3057\u305f|\u306e\u307f\u307e\u3057\u305f}\u3002",
+        "verb-A-\u3066-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    ],
+    [
+        "Cold {weather}, cold {object}, hot {weather}, hot {object}",
+        "{\u5bd2\u3044|\u3055\u3080\u3044}\u3001{\u51b7\u305f\u3044|\u3064\u3081\u305f\u3044}\u3001{\u6691\u3044|\u3042\u3064\u3044}\u3001{\u71b1\u3044|\u3042\u3064\u3044}",
+        ""
+    ],
+    [
+        "(I) am off work because (I'm) sick. {\u304b\u3089, \u306e \u3067}",
+        "{\u75c5\u6c17|\u3073\u3087\u3046\u304d}\u3060\u304b\u3089{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092{\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067}\u3044\u307e\u3059\u3002{\u75c5\u6c17|\u3073\u3087\u3046\u304d}\u306a\u306e\u3067{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092{\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067}\u3044\u307e\u3059\u3002",
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\nverb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "Roger is good at playing tennis because (he) practices every day. {\u306e \u3067}",
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046}\u3092\u3059\u308b\u306e\u3067\u30c6\u30cb\u30b9\u3092\u3059\u308b{\u4e8b|\u3053\u3068}\u304c{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3067\u3059\u3002",
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\nverb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)"
+    ],
+    [
+        "(I) came to Japan because (I) want to study Japanese. {\u306e \u3067}",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u305f\u3044\u306e\u3067{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u307e\u3057\u305f|\u304d\u307e\u3057\u305f}\u3002",
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ]
 ])

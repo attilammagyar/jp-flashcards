@@ -3793,5 +3793,40 @@ Flashcards.initialize([
     "(We) talked about various interesting things and (it) was fun.",
     "{色々|iroiro} {面白い|omoshiroi} {事|koto} ni tsuite {話して|hanashite}, totemo {楽しかった|tanoshikatta} desu.",
     "noun + に + ついて = about noun\nかった = past tense of い adj."
+],
+[
+    "Did (you) stay out until late? (It) wasn't especially late.",
+    "{遅く|osoku} made {遊びました|asobimashita} ka. son na ni {遅くなかった|osokunakatta} desu.",
+    "くなかった = past negative of い adj."
+],
+[
+    "After returning (home), (I) phoned Roger and said good night.",
+    "{帰って|kaette} kara _rojaa_ san ni {電話|denwa} shite {お休みなさい|oyasuminasai} to {言いました|iimashita}.",
+    "verb-て-form + から = after doing verb, ..."
+],
+[
+    "After that, (we) went to a bar and drank a lot of beer until late.",
+    "sono {後|ato} de _baa_ ni {行って|itte}, {遅く|osoku} made _biiru_ wo ippai {飲みました|nomimashita}.",
+    "verb-A-て-form verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "Cold {weather}, cold {object}, hot {weather}, hot {object}",
+    "{寒い|samui}, {冷たい|tsumetai}, {暑い|atsui}, {熱い|atsui}",
+    ""
+],
+[
+    "(I) am off work because (I'm) sick. {から, の で}",
+    "{病気|byouki} da kara {仕事|shigoto} wo {休んで|yasunde} imasu. {病気|byouki} na no de {仕事|shigoto} wo {休んで|yasunde} imasu.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\nverb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "Roger is good at playing tennis because (he) practices every day. {の で}",
+    "_rojaa_ san wa {毎日|mainichi} {練習|renshuu} wo suru no de _tenisu_ wo suru {事|koto} ga {上手|jouzu} desu.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverb-plain + {事|こと} = doing ~ (nominalize)"
+],
+[
+    "(I) came to Japan because (I) want to study Japanese. {の で}",
+    "{日本語|nihongo} wo {勉強|benkyou} shitai no de {日本|nihon} ni {来ました|kimashita}.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n~たい is usually used only in first person or in questions for the second person"
 ]
 ])
