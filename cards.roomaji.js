@@ -3773,5 +3773,25 @@ Flashcards.initialize([
     "(I) also like Japanese food very much, but (I) can't make (it).",
     "{日本|nihon} no {料理|ryouri} mo totemo {好き|suki} desu ga {作る|tsukuru} {事|koto} wa {出来ません|dekimasen}.",
     "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
+],
+[
+    "(I) think Roger doesn't like sushi very much. Because (he) didn't eat (it) only a little. {から}",
+    "_rojaa_ san wa sushi ga {余り|amari} {好き|suki} ja nai to omoimasu. {少し|sukoshi} shika {食べなかった|tabenakatta} kara desu.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "She had only one child. {none except for one}",
+    "{彼女|kanojo} wa {子供|kodomo} ga {一人|hitori} shika inakatta.",
+    ""
+],
+[
+    "And then before returning to the apartment, (we) went to a coffee shop and drank coffee.",
+    "sorekara _apaato_ ni {帰る|kaeru} {前|mae} ni {喫茶店|kissaten} ni {行って|itte}, _koohii_ wo {飲みました|nomimashita}.",
+    "verb-plain + {前|まえ} に = before doing ~"
+],
+[
+    "(We) talked about various interesting things and (it) was fun.",
+    "{色々|iroiro} {面白い|omoshiroi} {事|koto} ni tsuite {話して|hanashite}, totemo {楽しかった|tanoshikatta} desu.",
+    "noun + に + ついて = about noun\nかった = past tense of い adj."
 ]
 ])
