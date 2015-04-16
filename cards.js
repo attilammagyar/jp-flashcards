@@ -3780,7 +3780,7 @@ Flashcards.initialize([
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
-        "She had only one child. {none except for one}",
+        "She didn't have (any) children but one.",
         "{\u5f7c\u5973|\u304b\u306e\u3058\u3087}\u306f{\u5b50\u4f9b|\u3053\u3069\u3082}\u304c{\u4e00\u4eba|\u3072\u3068\u308a}\u3057\u304b\u3044\u306a\u304b\u3063\u305f\u3002",
         ""
     ],

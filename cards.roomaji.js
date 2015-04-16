@@ -3780,7 +3780,7 @@ Flashcards.initialize([
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
-    "She had only one child. {none except for one}",
+    "She didn't have (any) children but one.",
     "{彼女|kanojo} wa {子供|kodomo} ga {一人|hitori} shika inakatta.",
     ""
 ],
