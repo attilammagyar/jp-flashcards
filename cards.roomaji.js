@@ -266,7 +266,7 @@ Flashcards.initialize([
 ],
 [
     "Tonight (it's) quiet and warm.",
-    "{今夜|kon ya} wa {静か|shizuka} de atatakai desu.",
+    "{今夜|kon ya} wa {静か|shizuka} de {暖かい|atatakai} desu.",
     ""
 ],
 [
@@ -731,7 +731,7 @@ Flashcards.initialize([
 ],
 [
     "Do (you) have (any) postcards?",
-    "hagaki ga arimasu ka.",
+    "{葉書|hagaki} ga arimasu ka.",
     ""
 ],
 [
@@ -1016,7 +1016,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 3 of this postcard and 3 of the 75 yen stamps as well please?",
-    "{此の|kono} hagaki wo {三|san} {枚|mai} to {七十五円|nanajuugo en} no {切手|kitte} mo {三|san} {枚|mai} kudasai.",
+    "{此の|kono} {葉書|hagaki} wo {三|san} {枚|mai} to {七十五円|nanajuugo en} no {切手|kitte} mo {三|san} {枚|mai} kudasai.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -1826,7 +1826,7 @@ Flashcards.initialize([
 ],
 [
     "Soon it will be Summer. It will gradually get hotter.",
-    "mou sugu {夏|natsu} ni narimasu. dandan {暑く|atsuku} narimasu.",
+    "mou sugu {夏|natsu} ni narimasu. {段々|dandan} {暑く|atsuku} narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
@@ -1886,7 +1886,7 @@ Flashcards.initialize([
 ],
 [
     "(It) gradually gets hotter.",
-    "dandan {暑く|atsuku} narimasu.",
+    "{段々|dandan} {暑く|atsuku} narimasu.",
     "い adj. - い + く + なる = become ~"
 ],
 [
@@ -1961,27 +1961,27 @@ Flashcards.initialize([
 ],
 [
     "hot {weather}, cold, warm, cool/refreshing",
-    "{暑い|atsui}, {寒い|samui}, atatakai, suzushii",
+    "{暑い|atsui}, {寒い|samui}, {暖かい|atatakai}, suzushii",
     ""
 ],
 [
     "Soon (it) will be spring. (It) will gradually get warm.",
-    "mou sugu {春|haru} ni narimasu. dandan atatakaku narimasu.",
+    "mou sugu {春|haru} ni narimasu. {段々|dandan} {暖かく|atatakaku} narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be summer. (It) will gradually get hot.",
-    "mou sugu {夏|natsu} ni narimasu. dandan {暑く|atsuku} narimasu.",
+    "mou sugu {夏|natsu} ni narimasu. {段々|dandan} {暑く|atsuku} narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be winter. (It) will gradually get cold.",
-    "mou sugu {冬|fuyu} ni narimasu. dandan {寒く|samuku} narimasu.",
+    "mou sugu {冬|fuyu} ni narimasu. {段々|dandan} {寒く|samuku} narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be autumn. (It) will gradually get cool.",
-    "mou sugu {秋|aki} ni narimasu. dandan suzushiku narimasu.",
+    "mou sugu {秋|aki} ni narimasu. {段々|dandan} suzushiku narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
@@ -2031,7 +2031,7 @@ Flashcards.initialize([
 ],
 [
     "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
-    "{お天気|otenki} wa dou deshita ka. mou sugu {春|haru} ni narimasu ga son na ni atatakakunakatta desu.",
+    "{お天気|otenki} wa dou deshita ka. mou sugu {春|haru} ni narimasu ga son na ni {暖かくなかった|atatakakunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2061,7 +2061,7 @@ Flashcards.initialize([
 ],
 [
     "The Summer is from December to February. (It) gradually gets hot.",
-    "{夏|natsu} wa {十二月|juunigatsu} kara {二月|nigatsu} made desu. dandan {暑く|atsuku} narimasu.",
+    "{夏|natsu} wa {十二月|juunigatsu} kara {二月|nigatsu} made desu. {段々|dandan} {暑く|atsuku} narimasu.",
     "(New Zealand)\nい adj. - い + く + なる = become ~"
 ],
 [
