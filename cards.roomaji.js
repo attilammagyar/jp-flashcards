@@ -3637,7 +3637,7 @@ Flashcards.initialize([
 [
     "(It) was (acting) all strange since about 10 minutes ago, (then it) suddenly took off running.",
     "{十分|juppun} gurai {前|mae} kara zutto okashikute, ikinari {走り出しました|hashiridashimashita}.",
-    "verb-stem + verb = compound verb (action + how)"
+    "verb-stem + verb = compound verb (action + qualifier)"
 ],
 [
     "(It's) strange but I can somehow understand.",
