@@ -3800,7 +3800,7 @@ Flashcards.initialize([
     "くなかった = past negative of い adj."
 ],
 [
-    "After returning (home), (I) phoned Roger and said good night.",
+    "After returning (home, I) phoned Roger and said good night.",
     "{帰って|kaette} kara _rojaa_ san ni {電話|denwa} shite {お休みなさい|oyasuminasai} to {言いました|iimashita}.",
     "verb-て-form + から = after doing verb, ..."
 ],

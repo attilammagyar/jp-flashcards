@@ -3637,7 +3637,7 @@ Flashcards.initialize([
     [
         "(It) was (acting) all strange since about 10 minutes ago, (then it) suddenly took off running.",
         "{\u5341\u5206|\u3058\u3085\u3063\u3077\u3093}\u3050\u3089\u3044{\u524d|\u307e\u3048}\u304b\u3089\u305a\u3063\u3068\u304a\u304b\u3057\u304f\u3066\u3001\u3044\u304d\u306a\u308a{\u8d70\u308a\u51fa\u3057\u307e\u3057\u305f|\u306f\u3057\u308a\u3060\u3057\u307e\u3057\u305f}\u3002",
-        "verb-stem + verb = compound verb (action + how)"
+        "verb-stem + verb = compound verb (action + qualifier)"
     ],
     [
         "(It's) strange but I can somehow understand.",
@@ -3800,7 +3800,7 @@ Flashcards.initialize([
         "\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj."
     ],
     [
-        "After returning (home), (I) phoned Roger and said good night.",
+        "After returning (home, I) phoned Roger and said good night.",
         "{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066}\u304b\u3089\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3057\u3066{\u304a\u4f11\u307f\u306a\u3055\u3044|\u304a\u3084\u3059\u307f\u306a\u3055\u3044}\u3068{\u8a00\u3044\u307e\u3057\u305f|\u3044\u3044\u307e\u3057\u305f}\u3002",
         "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
     ],
