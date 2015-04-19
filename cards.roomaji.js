@@ -1481,7 +1481,7 @@ Flashcards.initialize([
 ],
 [
     "I think (she's) not especially shy, you know.",
-    "son na ni hazukashigari ja nai to omoimasu yo.",
+    "son na ni hazukashigari ja nai to {思います|omoimasu} yo.",
     ""
 ],
 [
@@ -1491,7 +1491,7 @@ Flashcards.initialize([
 ],
 [
     "I hope to play tennis together next week.",
-    "{来週|raishuu} {一緒|issho} ni _tenisu_ wo shitai to omoimasu.",
+    "{来週|raishuu} {一緒|issho} ni _tenisu_ wo shitai to {思います|omoimasu}.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -1511,17 +1511,17 @@ Flashcards.initialize([
 ],
 [
     "I think that Ms. Natsuko is not especially shy.",
-    "{夏子|natsuko} san wa son na ni hazukashigari ja nai to omoimasu.",
+    "{夏子|natsuko} san wa son na ni hazukashigari ja nai to {思います|omoimasu}.",
     ""
 ],
 [
     "I think that he is a cheerful person.",
-    "{彼|kare} wa {明るい|akarui} {人|hito} da to omoimasu.",
+    "{彼|kare} wa {明るい|akarui} {人|hito} da to {思います|omoimasu}.",
     ""
 ],
 [
     "Next year I hope to go to Japan again.",
-    "{来年|rainen} mata {日本|nihon} ni {行きたい|ikitai} to omoimasu.",
+    "{来年|rainen} mata {日本|nihon} ni {行きたい|ikitai} to {思います|omoimasu}.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -1531,7 +1531,7 @@ Flashcards.initialize([
 ],
 [
     "(My) mother is tall (and) has big eyes.",
-    "{母|haha} wa se ga {高くて|takakute} {目|me} ga {大きい|ookii} desu.",
+    "{母|haha} wa {背|se} ga {高くて|takakute} {目|me} ga {大きい|ookii} desu.",
     "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
@@ -1551,7 +1551,7 @@ Flashcards.initialize([
 ],
 [
     "I think Mr. Yamada is a serious person.",
-    "{山田|yamada} san wa majime na {人|hito} da to omoimasu.",
+    "{山田|yamada} san wa majime na {人|hito} da to {思います|omoimasu}.",
     ""
 ],
 [
@@ -1601,7 +1601,7 @@ Flashcards.initialize([
 ],
 [
     "I am tall (with) blue eyes and blonde hair.",
-    "{私|watashi} wa se ga {高くて|takakute}, {目|me} ga {青くて|aokute}, kami ga kinpatsu desu.",
+    "{私|watashi} wa {背|se} ga {高くて|takakute}, {目|me} ga {青くて|aokute}, kami ga kinpatsu desu.",
     ""
 ],
 [
@@ -1636,12 +1636,12 @@ Flashcards.initialize([
 ],
 [
     "I think he's famous.",
-    "{彼|kare} wa {有名|yuumei} da to omoimasu.",
+    "{彼|kare} wa {有名|yuumei} da to {思います|omoimasu}.",
     ""
 ],
 [
     "(I) hope to eat sushi in Japan and I hope to see Mount Fuji.",
-    "{日本|nihon} de sushi wo {食べたい|tabetai} to omoimasu. soshite fuji san wo {見たい|mitai} to omoimasu.",
+    "{日本|nihon} de sushi wo {食べたい|tabetai} to {思います|omoimasu}. soshite fuji san wo {見たい|mitai} to {思います|omoimasu}.",
     "~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -1706,17 +1706,17 @@ Flashcards.initialize([
 ],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
-    "se ga futsuu de, kami ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga marukute, {鼻|hana} ga {大きい|ookii} desu.",
+    "{背|se} ga futsuu de, kami ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga marukute, {鼻|hana} ga {大きい|ookii} desu.",
     "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
     "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
-    "{私|watashi} wa {少し|sukoshi} {大人しい|otonashii} desu ga yasashikute {明るい|akarui} to omoimasu. _rokku_ to _metaru_ ga {好き|suki} desu ga _supootsu_ ga {余り|amari} {好き|suki} deha arimasen.",
+    "{私|watashi} wa {少し|sukoshi} {大人しい|otonashii} desu ga yasashikute {明るい|akarui} to {思います|omoimasu}. _rokku_ to _metaru_ ga {好き|suki} desu ga _supootsu_ ga {余り|amari} {好き|suki} deha arimasen.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "I don't think (she) is especially shy.",
-    "son na ni hazukashigari ja nai to omoimasu.",
+    "son na ni hazukashigari ja nai to {思います|omoimasu}.",
     ""
 ],
 [
@@ -2096,7 +2096,7 @@ Flashcards.initialize([
 ],
 [
     "(My) neighbour has big eyes and (he's) not tall.",
-    "{近所|kinjo} no {人|hito} wa {目|me} ga {大きくて|ookikute} se ga {高くない|takakunai} desu.",
+    "{近所|kinjo} no {人|hito} wa {目|me} ga {大きくて|ookikute} {背|se} ga {高くない|takakunai} desu.",
     ""
 ],
 [
@@ -3691,7 +3691,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) not very good at speaking Spanish yet but (I) think that speaking with South American people will be very interesting.",
-    "_supein_ {語|go} wo {話す|hanasu} {事|koto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {南|minami} _amerika_ {人|jin} to {話す|hanasu} {事|koto} wa totemo {面白い|omoshiroi} to omoimasu.",
+    "_supein_ {語|go} wo {話す|hanasu} {事|koto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {南|minami} _amerika_ {人|jin} to {話す|hanasu} {事|koto} wa totemo {面白い|omoshiroi} to {思います|omoimasu}.",
     "verb-plain + {事|こと} = doing ~ (nominalize)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc."
 ],
 [
@@ -3776,7 +3776,7 @@ Flashcards.initialize([
 ],
 [
     "(I) think Roger doesn't like sushi very much. Because (he) didn't eat (it) only a little. {から}",
-    "_rojaa_ san wa sushi ga {余り|amari} {好き|suki} ja nai to omoimasu. {少し|sukoshi} shika {食べなかった|tabenakatta} kara desu.",
+    "_rojaa_ san wa sushi ga {余り|amari} {好き|suki} ja nai to {思います|omoimasu}. {少し|sukoshi} shika {食べなかった|tabenakatta} kara desu.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
