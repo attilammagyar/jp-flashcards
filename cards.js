@@ -3828,5 +3828,25 @@ Flashcards.initialize([
         "(I) came to Japan because (I) want to study Japanese. {\u306e \u3067}",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u305f\u3044\u306e\u3067{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u307e\u3057\u305f|\u304d\u307e\u3057\u305f}\u3002",
         "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+    ],
+    [
+        "Pardon. {\"Leave me alone\", \"Let's change topic\", ...}",
+        "\u304b\u3093\u3079\u3093\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
+    ],
+    [
+        "As expected, (you) fail (the test).",
+        "\u3084\u3063\u3071\u308a\u3075\u3054\u3046\u304b\u304f\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "You're taller than the previous person, but the truth is, (I) want 180 cm.",
+        "{\u8cb4\u65b9|\u3042\u306a\u305f}\u306f{\u524d|\u307e\u3048}\u306e{\u4eba|\u3072\u3068}\u3088\u308a{\u80cc|\u305b}\u304c{\u9ad8\u3044|\u305f\u304b\u3044}\u3067\u3059\u3051\u3069\u3001{\u672c\u5f53|\u307b\u3093\u3068\u3046}\u306f{\u767e\u516b\u5341\u30bb\u30f3\u30c1|\u3072\u3083\u304f\u306f\u3061\u3058\u3085\u3063\u30bb\u30f3\u30c1}{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
+        "A \u306f B\u3088\u308a X = B\u3088\u308a A \u306f X = A is X'er than B\nnoun + \u304c + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = (I) want a noun"
+    ],
+    [
+        "How (cm) tall (are you)?",
+        "\u3057\u3093\u3061\u3087\u3046\u306f{\u4f55|\u306a\u3093}\u30bb\u30f3\u30c1\u3067\u3059\u304b\u3002",
+        ""
     ]
 ])

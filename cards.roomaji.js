@@ -3828,5 +3828,25 @@ Flashcards.initialize([
     "(I) came to Japan because (I) want to study Japanese. {の で}",
     "{日本語|nihongo} wo {勉強|benkyou} shitai no de {日本|nihon} ni {来ました|kimashita}.",
     "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n~たい is usually used only in first person or in questions for the second person"
+],
+[
+    "Pardon. {\"Leave me alone\", \"Let's change topic\", ...}",
+    "kanben shite kudasai.",
+    "verb-て-form + ください = request"
+],
+[
+    "As expected, (you) fail (the test).",
+    "yappari fugoukaku desu.",
+    ""
+],
+[
+    "You're taller than the previous person, but the truth is, (I) want 180 cm.",
+    "{貴方|anata} wa {前|mae} no {人|hito} yori {背|se} ga {高い|takai} desu kedo, {本当|hontou} wa {百八十センチ|hyakuhachijuっ_senchi_} {欲しい|hoshii} desu.",
+    "A は Bより X = Bより A は X = A is X'er than B\nnoun + が + {欲しい|ほしい} = (I) want a noun"
+],
+[
+    "How (cm) tall (are you)?",
+    "shinchou wa {何|nan} _senchi_ desu ka.",
+    ""
 ]
 ])
