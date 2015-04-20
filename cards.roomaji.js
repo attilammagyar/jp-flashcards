@@ -161,7 +161,7 @@ Flashcards.initialize([
 ],
 [
     "(I) eat toast with eggs for breakfast.",
-    "{朝ごはん|asagohan} ni _toosuto_ to tamago wo {食べます|tabemasu}.",
+    "{朝ごはん|asagohan} ni _toosuto_ to {卵|tamago} wo {食べます|tabemasu}.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -386,7 +386,7 @@ Flashcards.initialize([
 ],
 [
     "For lunch (I) eat egg and toast. And (I) drink coffee.",
-    "{昼ごはん|hirugohan} ni tamago to _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo {飲みます|nomimasu}.",
+    "{昼ごはん|hirugohan} ni {卵|tamago} to _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo {飲みます|nomimasu}.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -3711,7 +3711,7 @@ Flashcards.initialize([
 ],
 [
     "Which has the larger population, Osaka or Tokyo?",
-    "{東京|toukyou}, oosaka wa dochira no {人口|jinkou} ga {多い|ooi} desu ka.",
+    "{東京|toukyou}, oosaka wa {何方|dochira} no {人口|jinkou} ga {多い|ooi} desu ka.",
     ""
 ],
 [
@@ -3790,7 +3790,7 @@ Flashcards.initialize([
     "verb-plain + {前|まえ} に = before doing ~"
 ],
 [
-    "(We) talked about various interesting things and (it) was fun.",
+    "(We) talked about various interesting things and (it) was very fun.",
     "{色々|iroiro} {面白い|omoshiroi} {事|koto} ni tsuite {話して|hanashite}, totemo {楽しかった|tanoshikatta} desu.",
     "noun + に + ついて = about noun\nかった = past tense of い adj."
 ],
