@@ -251,7 +251,7 @@
                 min, max,
                 i;
 
-            if (matches = settings_str.match(/(en|jp),?(!?.*)?$/)) {
+            if (matches = settings_str.match(/^(en|jp),?(!?.*)?$/)) {
                 if (matches[1] == "en") {
                     Flashcards.englishOnly = true;
                 } else {
