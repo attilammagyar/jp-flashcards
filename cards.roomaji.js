@@ -3845,7 +3845,7 @@ Flashcards.initialize([
     "A は Bより X = Bより A は X = A is X'er than B\nnoun + が + {欲しい|ほしい} = (I) want a noun"
 ],
 [
-    "How (cm) tall (are you)?",
+    "How many centimeters tall (are you)?",
     "shinchou wa {何|nan} _senchi_ desu ka.",
     ""
 ]

@@ -3845,7 +3845,7 @@ Flashcards.initialize([
         "A \u306f B\u3088\u308a X = B\u3088\u308a A \u306f X = A is X'er than B\nnoun + \u304c + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = (I) want a noun"
     ],
     [
-        "How (cm) tall (are you)?",
+        "How many centimeters tall (are you)?",
         "\u3057\u3093\u3061\u3087\u3046\u306f{\u4f55|\u306a\u3093}\u30bb\u30f3\u30c1\u3067\u3059\u304b\u3002",
         ""
     ]
