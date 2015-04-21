@@ -31,7 +31,7 @@ Flashcards.initialize([
     ],
     [
         "How much is this bicycle?",
-        "{\u6b64\u306e|\u3053\u306e}{\u81ea\u8ee2\u8005|\u3058\u3066\u3093\u3057\u3083}\u306f\u3044\u304f\u3089\u3067\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}{\u81ea\u8ee2\u8005|\u3058\u3066\u3093\u3057\u3083}\u306f{\u5e7e\u3089|\u3044\u304f\u3089}\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -746,7 +746,7 @@ Flashcards.initialize([
     ],
     [
         "How much is this folding fan?",
-        "{\u6b64\u306e|\u3053\u306e}\u305b\u3093\u3059\u306f\u3044\u304f\u3089\u3067\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u305b\u3093\u3059\u306f{\u5e7e\u3089|\u3044\u304f\u3089}\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -1001,7 +1001,7 @@ Flashcards.initialize([
     ],
     [
         "Excuse me, how much is 1 kg from that apple over there?",
-        "\u3059\u307f\u307e\u305b\u3093\u3001\u3042\u306e\u308a\u3093\u3054\u306f{\u4e00|\u3044\u3061}\u30ad\u30ed\u3044\u304f\u3089\u3067\u3059\u304b\u3002",
+        "\u3059\u307f\u307e\u305b\u3093\u3001\u3042\u306e\u308a\u3093\u3054\u306f{\u4e00|\u3044\u3061}\u30ad\u30ed{\u5e7e\u3089|\u3044\u304f\u3089}\u3067\u3059\u304b\u3002",
         ""
     ],
     [

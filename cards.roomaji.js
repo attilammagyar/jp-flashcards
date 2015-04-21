@@ -31,7 +31,7 @@ Flashcards.initialize([
 ],
 [
     "How much is this bicycle?",
-    "{此の|kono} {自転者|jitensha} wa ikura desu ka.",
+    "{此の|kono} {自転者|jitensha} wa {幾ら|ikura} desu ka.",
     ""
 ],
 [
@@ -746,7 +746,7 @@ Flashcards.initialize([
 ],
 [
     "How much is this folding fan?",
-    "{此の|kono} sensu wa ikura desu ka.",
+    "{此の|kono} sensu wa {幾ら|ikura} desu ka.",
     ""
 ],
 [
@@ -1001,7 +1001,7 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, how much is 1 kg from that apple over there?",
-    "sumimasen, ano ringo wa {一|ichi} _kiro_ ikura desu ka.",
+    "sumimasen, ano ringo wa {一|ichi} _kiro_ {幾ら|ikura} desu ka.",
     ""
 ],
 [
