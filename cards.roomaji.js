@@ -646,7 +646,7 @@ Flashcards.initialize([
 ],
 [
     "Today is Claude Monet's exhibition. There are many famous works. {More formal.}",
-    "{今日|kyou} wa _kuroodo mone_ no tenrankai desu. yumei na sakuhin ga takusan arimasu.",
+    "{今日|kyou} wa _kuroodo mone_ no tenrankai desu. yumei na sakuhin ga {沢山|takusan} arimasu.",
     ""
 ],
 [
