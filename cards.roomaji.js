@@ -1061,7 +1061,7 @@ Flashcards.initialize([
 ],
 [
     "Are (you) free tomorrow? Umm, tomorrow also, (I) have a little business to attend to.",
-    "{明日|ashita} wa hima desu ka. sou desu ne. {明日|ashita} mo chotto youji ga arimasu.",
+    "{明日|ashita} wa {暇|hima} desu ka. sou desu ne. {明日|ashita} mo chotto youji ga arimasu.",
     ""
 ],
 [
@@ -2341,7 +2341,7 @@ Flashcards.initialize([
 ],
 [
     "What do (you) do in (your) free time? For example, what are (your) hobbies?",
-    "hima na {時|toki} ni wa {何|nani} wo shimasu ka. tatoeba, goshumi wa {何|nan} desu ka.",
+    "{暇|hima} na {時|toki} ni wa {何|nani} wo shimasu ka. tatoeba, goshumi wa {何|nan} desu ka.",
     ""
 ],
 [
@@ -2356,7 +2356,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always drive in (my) free time. Almost every day, (I) go for a drive after work.",
-    "hima na {時|toki} ni wa {何時も|itsumo} _doraibu_ shimasu. hotondo {毎日|mainichi}, {仕事|shigoto} no {後|ato} ni _doraibu_ ni {行きます|ikimasu}.",
+    "{暇|hima} na {時|toki} ni wa {何時も|itsumo} _doraibu_ shimasu. hotondo {毎日|mainichi}, {仕事|shigoto} no {後|ato} ni _doraibu_ ni {行きます|ikimasu}.",
     ""
 ],
 [
@@ -3661,7 +3661,7 @@ Flashcards.initialize([
 ],
 [
     "Erm... are (you) free tonight?",
-    "ano ne, {今晩|konban} hima desu ka.",
+    "ano ne, {今晩|konban} {暇|hima} desu ka.",
     ""
 ],
 [
