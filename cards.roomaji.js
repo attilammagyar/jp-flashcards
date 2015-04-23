@@ -1661,7 +1661,7 @@ Flashcards.initialize([
 ],
 [
     "(My) back hurts.",
-    "senaka ga {痛い|itai} desu.",
+    "{背中|senaka} ga {痛い|itai} desu.",
     ""
 ],
 [
@@ -1941,7 +1941,7 @@ Flashcards.initialize([
 ],
 [
     "(It will) probably rain, later (it will be) fine.",
-    "{雨|ame} {後|nochi} hare deshou.",
+    "{雨|ame} {後|nochi} {晴れ|hare} deshou.",
     ""
 ],
 [
@@ -1951,7 +1951,7 @@ Flashcards.initialize([
 ],
 [
     "(It will) probably be clear all day.",
-    "{一日|ichinichi} hare deshou.",
+    "{一日|ichinichi} {晴れ|hare} deshou.",
     ""
 ],
 [
@@ -2056,7 +2056,7 @@ Flashcards.initialize([
 ],
 [
     "Spring is from September to November. The weather is clear, sometimes rainy.",
-    "{春|haru} wa {九月|kugatsu} kara {十一月|juuichigatsu} made desu. {天気|tenki} wa hare, {時々|tokidoki} {雨|ame} desu.",
+    "{春|haru} wa {九月|kugatsu} kara {十一月|juuichigatsu} made desu. {天気|tenki} wa {晴れ|hare}, {時々|tokidoki} {雨|ame} desu.",
     "(New Zealand)"
 ],
 [
@@ -2066,7 +2066,7 @@ Flashcards.initialize([
 ],
 [
     "Autumn is from March. The weather is clear, windy, rainy...",
-    "{秋|aki} wa {三月|sangatsu} kara desu. {天気|tenki} wa hare, {風|kaze}, {雨|ame}...",
+    "{秋|aki} wa {三月|sangatsu} kara desu. {天気|tenki} wa {晴れ|hare}, {風|kaze}, {雨|ame}...",
     "(New Zealand)"
 ],
 [

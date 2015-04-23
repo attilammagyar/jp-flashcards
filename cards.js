@@ -1661,7 +1661,7 @@ Flashcards.initialize([
     ],
     [
         "(My) back hurts.",
-        "\u305b\u306a\u304b\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002",
+        "{\u80cc\u4e2d|\u305b\u306a\u304b}\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -1941,7 +1941,7 @@ Flashcards.initialize([
     ],
     [
         "(It will) probably rain, later (it will be) fine.",
-        "{\u96e8|\u3042\u3081}{\u5f8c|\u306e\u3061}\u306f\u308c\u3067\u3057\u3087\u3046\u3002",
+        "{\u96e8|\u3042\u3081}{\u5f8c|\u306e\u3061}{\u6674\u308c|\u306f\u308c}\u3067\u3057\u3087\u3046\u3002",
         ""
     ],
     [
@@ -1951,7 +1951,7 @@ Flashcards.initialize([
     ],
     [
         "(It will) probably be clear all day.",
-        "{\u4e00\u65e5|\u3044\u3061\u306b\u3061}\u306f\u308c\u3067\u3057\u3087\u3046\u3002",
+        "{\u4e00\u65e5|\u3044\u3061\u306b\u3061}{\u6674\u308c|\u306f\u308c}\u3067\u3057\u3087\u3046\u3002",
         ""
     ],
     [
@@ -2056,7 +2056,7 @@ Flashcards.initialize([
     ],
     [
         "Spring is from September to November. The weather is clear, sometimes rainy.",
-        "{\u6625|\u306f\u308b}\u306f{\u4e5d\u6708|\u304f\u304c\u3064}\u304b\u3089{\u5341\u4e00\u6708|\u3058\u3085\u3046\u3044\u3061\u304c\u3064}\u307e\u3067\u3067\u3059\u3002{\u5929\u6c17|\u3066\u3093\u304d}\u306f\u306f\u308c\u3001{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u96e8|\u3042\u3081}\u3067\u3059\u3002",
+        "{\u6625|\u306f\u308b}\u306f{\u4e5d\u6708|\u304f\u304c\u3064}\u304b\u3089{\u5341\u4e00\u6708|\u3058\u3085\u3046\u3044\u3061\u304c\u3064}\u307e\u3067\u3067\u3059\u3002{\u5929\u6c17|\u3066\u3093\u304d}\u306f{\u6674\u308c|\u306f\u308c}\u3001{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u96e8|\u3042\u3081}\u3067\u3059\u3002",
         "(New Zealand)"
     ],
     [
@@ -2066,7 +2066,7 @@ Flashcards.initialize([
     ],
     [
         "Autumn is from March. The weather is clear, windy, rainy...",
-        "{\u79cb|\u3042\u304d}\u306f{\u4e09\u6708|\u3055\u3093\u304c\u3064}\u304b\u3089\u3067\u3059\u3002{\u5929\u6c17|\u3066\u3093\u304d}\u306f\u306f\u308c\u3001{\u98a8|\u304b\u305c}\u3001{\u96e8|\u3042\u3081}\u2026",
+        "{\u79cb|\u3042\u304d}\u306f{\u4e09\u6708|\u3055\u3093\u304c\u3064}\u304b\u3089\u3067\u3059\u3002{\u5929\u6c17|\u3066\u3093\u304d}\u306f{\u6674\u308c|\u306f\u308c}\u3001{\u98a8|\u304b\u305c}\u3001{\u96e8|\u3042\u3081}\u2026",
         "(New Zealand)"
     ],
     [
