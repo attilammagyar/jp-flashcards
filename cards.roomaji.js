@@ -136,7 +136,7 @@ Flashcards.initialize([
 ],
 [
     "(I) do the cleaning in the morning.",
-    "{朝|asa} souji wo shimasu.",
+    "{朝|asa} {掃除|souji} wo shimasu.",
     ""
 ],
 [
@@ -301,7 +301,7 @@ Flashcards.initialize([
 ],
 [
     "(My) wife does not clean the house.",
-    "tsuma wa {家|uchi} wo souji wo shimasen.",
+    "tsuma wa {家|uchi} wo {掃除|souji} wo shimasen.",
     ""
 ],
 [
@@ -426,7 +426,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't clean the house.",
-    "{家|uchi} wo souji wo shimasen.",
+    "{家|uchi} wo {掃除|souji} wo shimasen.",
     ""
 ],
 [
@@ -1131,12 +1131,12 @@ Flashcards.initialize([
 ],
 [
     "Turn right at those traffic lights and go straight ahead please.",
-    "ano shingou wo {右|migi} ni magatte, massugu {行って|itte} kudasai.",
+    "ano shingou wo {右|migi} ni {曲がって|magatte}, massugu {行って|itte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "If (you) turn left at the crossroads, the bank will be on the right side.",
-    "kousaten wo {左|hidari} ni magaru to {銀行|ginkou} wa {右側|migigawa} ni arimasu.",
+    "kousaten wo {左|hidari} ni {曲がる|magaru} to {銀行|ginkou} wa {右側|migigawa} ni arimasu.",
     "A-dictionary-form とB = if A then B"
 ],
 [
@@ -1246,62 +1246,62 @@ Flashcards.initialize([
 ],
 [
     "Please turn to the right.",
-    "{右|migi} ni magatte kudasai.",
+    "{右|migi} ni {曲がって|magatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Please turn to the left.",
-    "{左|hidari} ni magatte kudasai.",
+    "{左|hidari} ni {曲がって|magatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Please turn right at the traffic lights.",
-    "shingou wo {右|migi} ni magatte kudasai.",
+    "shingou wo {右|migi} ni {曲がって|magatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Please cross the bridge.",
-    "{橋|hashi} wo watatte kudasai.",
+    "{橋|hashi} wo {渡って|watatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Please cross the footbridge.",
-    "hodou kyou wo watatte kudasai.",
+    "hodou kyou wo {渡って|watatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Please cross the road.",
-    "michi wo watatte kudasai.",
+    "michi wo {渡って|watatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Please turn left at the first traffic lights.",
-    "{一つ目|hitotsume} no shingou wo {左|hidari} ni magatte kudasai.",
+    "{一つ目|hitotsume} no shingou wo {左|hidari} ni {曲がって|magatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Please turn left at the next traffic lights.",
-    "{次|tsugi} no shingou wo {左|hidari} ni magatte kudasai.",
+    "{次|tsugi} no shingou wo {左|hidari} ni {曲がって|magatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Go straight ahead, (then) turn right at the second traffic lights.",
-    "massugu {行って|itte}, {二つ目|futatsume} no shingou wo {右|migi} ni magatte kudasai.",
+    "massugu {行って|itte}, {二つ目|futatsume} no shingou wo {右|migi} ni {曲がって|magatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Please cross at the pedestrian crossing.",
-    "oudan hodou wo watatte kudasai.",
+    "oudan hodou wo {渡って|watatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Turn right at the second traffic lights please.",
-    "{二つ目|futatsume} no shingou wo {右|migi} ni magatte kudasai.",
+    "{二つ目|futatsume} no shingou wo {右|migi} ni {曲がって|magatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Cross the footbridge, (then) turn left at the corner please.",
-    "hodou kyou wo watatte, {角|kado} wo {左|hidari} ni magatte kudasai.",
+    "hodou kyou wo {渡って|watatte}, {角|kado} wo {左|hidari} ni {曲がって|magatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1421,17 +1421,17 @@ Flashcards.initialize([
 ],
 [
     "Go straight ahead (then) cross the pedestrian crossing please.",
-    "massugu {行って|itte}, oudan hodou wo watatte kudasai.",
+    "massugu {行って|itte}, oudan hodou wo {渡って|watatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
     "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
-    "{二つ目|futatsume} no shingou wo {左|hidari} ni magatte kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. gekijou no {隣|tonari} desu.",
+    "{二つ目|futatsume} no shingou wo {左|hidari} ni {曲がって|magatte} kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. gekijou no {隣|tonari} desu.",
     "verb-て-form + ください = request"
 ],
 [
     "Cross (over) the footbridge (and) turn left at the corner please.",
-    "hodou kyou wo watatte, {角|kado} wo {左|hidari} ni magatte kudasai.",
+    "hodou kyou wo {渡って|watatte}, {角|kado} wo {左|hidari} ni {曲がって|magatte} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1871,7 +1871,7 @@ Flashcards.initialize([
 ],
 [
     "Naoe cleans neatly.",
-    "naoe san wa kirei ni souji wo shimasu.",
+    "naoe san wa kirei ni {掃除|souji} wo shimasu.",
     "な adj. + に = adverb"
 ],
 [
@@ -2636,7 +2636,7 @@ Flashcards.initialize([
 ],
 [
     "After reading the newspaper, (I) cleaned the house.",
-    "{新聞|shinbun} wo {読んで|yonde} kara, {家|uchi} wo souji shimashita.",
+    "{新聞|shinbun} wo {読んで|yonde} kara, {家|uchi} wo {掃除|souji} shimashita.",
     "verb-て-form + から = after doing verb, ..."
 ],
 [
@@ -2736,7 +2736,7 @@ Flashcards.initialize([
 ],
 [
     "After returning home (I) occasionally clean up the house.",
-    "{家|uchi} ni {帰って|kaette} kara tamani {家|uchi} wo souji shimasu.",
+    "{家|uchi} ni {帰って|kaette} kara tamani {家|uchi} wo {掃除|souji} shimasu.",
     "verb-て-form + から = after doing verb, ..."
 ],
 [
@@ -3521,7 +3521,7 @@ Flashcards.initialize([
 ],
 [
     "(I) clean up the house every day so (it's) always clean. {から}",
-    "{毎日|mainichi} {家|uchi} wo souji suru kara {何時も|itsumo} kirei desu.",
+    "{毎日|mainichi} {家|uchi} wo {掃除|souji} suru kara {何時も|itsumo} kirei desu.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -3531,7 +3531,7 @@ Flashcards.initialize([
 ],
 [
     "(My) parents will come to Japan tomorrow so (I) want to clean (my) apartment. {から}",
-    "{両親|ryoushin} wa {明日|ashita} {日本|nihon} ni {来る|kuru} kara _apaato_ wo souji shitai desu.",
+    "{両親|ryoushin} wa {明日|ashita} {日本|nihon} ni {来る|kuru} kara _apaato_ wo {掃除|souji} shitai desu.",
     "verb stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
