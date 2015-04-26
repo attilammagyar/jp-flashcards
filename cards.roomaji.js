@@ -3848,5 +3848,45 @@ Flashcards.initialize([
     "How many centimeters tall (are you)?",
     "shinchou wa {何|nan} _senchi_ desu ka.",
     ""
+],
+[
+    "How are you? Better than anyone.",
+    "{お元気|ogenki} desu ka. {皆|min'na} yori motto {元気|genki} desu.",
+    "A は Bより X = Bより A は X = A is X'er than B"
+],
+[
+    "Okay everybody, today is of geography questions.",
+    "hai, {皆さん|minasan}, {今日|kyou} wa {地理|chiri} no {問題|mondai} desu.",
+    ""
+],
+[
+    "What is Tokyo's tallest building? (It's) the Tokyo Metropolitan Government (Building) being in Shinjuku.",
+    "{東京|toukyou} no {一番|ichiban} {高い|takai} _biru_ wa {何|nan} desu ka. {新宿|shinjuku} ni aru {東京|toukyou} tochou desu.",
+    "verb-plain + noun = the ~ing noun"
+],
+[
+    "No, (you're) wrong. Tokyo Tower is taller (than the Eiffel Tower).",
+    "iie, {違います|chigaimasu}. {東京|toukyou} _tawaa_ no {方|hou} ga {高い|takai} desu.",
+    "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+],
+[
+    "Will (you) go to the concert beginning at 8 o'clock?",
+    "{八時|hachiji} ni {始まる|hajimaru} _konsaato_ ni {行きます|ikimasu} ka.",
+    "verb-plain + noun = the ~ing noun"
+],
+[
+    "(It's) even 9 meters taller (than the Eiffel Tower).",
+    "_furansu_ no _efferu_ tou yori {九|kyuu} _meetoru_ mo {高い|takai} desu.",
+    "A は Bより X = Bより A は X = A is X'er than B"
+],
+[
+    "Furthermore, (it's) lighter than the Eiffel Tower.",
+    "sarani, _efferu_ tou yori {軽い|karui} desu.",
+    "A は Bより X = Bより A は X = A is X'er than B"
+],
+[
+    "Peter is taller than me. Peter is taller.",
+    "_piitaa_ san no {方|hou} ga {私|watashi} yori {背|se} ga {高い|takai} desu. _piitaa_ san no {方|hou} ga {背|se} ga {高い|takai} desu.",
+    "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
 ]
 ])

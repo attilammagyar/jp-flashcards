@@ -44,6 +44,7 @@ Size, amount
 Comparatives
 ============
 A は Bより X = Bより A は X = A is X'er than B
+Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)
 
 Because
 =======
@@ -96,6 +97,7 @@ verb-plain + つもり = intend to ~
 verb-5-plain う --> お + う = plain volitional form ({行く|いく} --> {行こう|いこう})
 verb-plain + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})
 verb-plain + とか + verb-plain + とか + する = representative examples of a class
+verb-plain + noun = the ~ing noun
 
 Stem
 ----

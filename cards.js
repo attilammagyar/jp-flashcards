@@ -3848,5 +3848,45 @@ Flashcards.initialize([
         "How many centimeters tall (are you)?",
         "\u3057\u3093\u3061\u3087\u3046\u306f{\u4f55|\u306a\u3093}\u30bb\u30f3\u30c1\u3067\u3059\u304b\u3002",
         ""
+    ],
+    [
+        "How are you? Better than anyone.",
+        "{\u304a\u5143\u6c17|\u304a\u3052\u3093\u304d}\u3067\u3059\u304b\u3002{\u7686|\u307f\u3093\u306a}\u3088\u308a\u3082\u3063\u3068{\u5143\u6c17|\u3052\u3093\u304d}\u3067\u3059\u3002",
+        "A \u306f B\u3088\u308a X = B\u3088\u308a A \u306f X = A is X'er than B"
+    ],
+    [
+        "Okay everybody, today is of geography questions.",
+        "\u306f\u3044\u3001{\u7686\u3055\u3093|\u307f\u306a\u3055\u3093}\u3001{\u4eca\u65e5|\u304d\u3087\u3046}\u306f{\u5730\u7406|\u3061\u308a}\u306e{\u554f\u984c|\u3082\u3093\u3060\u3044}\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "What is Tokyo's tallest building? (It's) the Tokyo Metropolitan Government (Building) being in Shinjuku.",
+        "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306e{\u4e00\u756a|\u3044\u3061\u3070\u3093}{\u9ad8\u3044|\u305f\u304b\u3044}\u30d3\u30eb\u306f{\u4f55|\u306a\u3093}\u3067\u3059\u304b\u3002{\u65b0\u5bbf|\u3057\u3093\u3058\u3085\u304f}\u306b\u3042\u308b{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u3068\u3061\u3087\u3046\u3067\u3059\u3002",
+        "verb-plain + noun = the ~ing noun"
+    ],
+    [
+        "No, (you're) wrong. Tokyo Tower is taller (than the Eiffel Tower).",
+        "\u3044\u3044\u3048\u3001{\u9055\u3044\u307e\u3059|\u3061\u304c\u3044\u307e\u3059}\u3002{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u30bf\u30ef\u30fc\u306e{\u65b9|\u307b\u3046}\u304c{\u9ad8\u3044|\u305f\u304b\u3044}\u3067\u3059\u3002",
+        "Noun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
+    ],
+    [
+        "Will (you) go to the concert beginning at 8 o'clock?",
+        "{\u516b\u6642|\u306f\u3061\u3058}\u306b{\u59cb\u307e\u308b|\u306f\u3058\u307e\u308b}\u30b3\u30f3\u30b5\u30fc\u30c8\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u304b\u3002",
+        "verb-plain + noun = the ~ing noun"
+    ],
+    [
+        "(It's) even 9 meters taller (than the Eiffel Tower).",
+        "\u30d5\u30e9\u30f3\u30b9\u306e\u30a8\u30c3\u30d5\u30a7\u30eb\u3068\u3046\u3088\u308a{\u4e5d|\u304d\u3085\u3046}\u30e1\u30fc\u30c8\u30eb\u3082{\u9ad8\u3044|\u305f\u304b\u3044}\u3067\u3059\u3002",
+        "A \u306f B\u3088\u308a X = B\u3088\u308a A \u306f X = A is X'er than B"
+    ],
+    [
+        "Furthermore, (it's) lighter than the Eiffel Tower.",
+        "\u3055\u3089\u306b\u3001\u30a8\u30c3\u30d5\u30a7\u30eb\u3068\u3046\u3088\u308a{\u8efd\u3044|\u304b\u308b\u3044}\u3067\u3059\u3002",
+        "A \u306f B\u3088\u308a X = B\u3088\u308a A \u306f X = A is X'er than B"
+    ],
+    [
+        "Peter is taller than me. Peter is taller.",
+        "\u30d4\u30fc\u30bf\u30fc\u3055\u3093\u306e{\u65b9|\u307b\u3046}\u304c{\u79c1|\u308f\u305f\u3057}\u3088\u308a{\u80cc|\u305b}\u304c{\u9ad8\u3044|\u305f\u304b\u3044}\u3067\u3059\u3002\u30d4\u30fc\u30bf\u30fc\u3055\u3093\u306e{\u65b9|\u307b\u3046}\u304c{\u80cc|\u305b}\u304c{\u9ad8\u3044|\u305f\u304b\u3044}\u3067\u3059\u3002",
+        "Noun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
     ]
 ])
