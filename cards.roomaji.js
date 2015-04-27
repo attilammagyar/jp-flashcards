@@ -1161,7 +1161,7 @@ Flashcards.initialize([
 ],
 [
     "Last night (I) didn't drink (any) beer at all.",
-    "yuube _biiru_ wo {全然|zenzen} {飲みません|nomimasen} deshita.",
+    "{昨夜|yuube} _biiru_ wo {全然|zenzen} {飲みません|nomimasen} deshita.",
     ""
 ],
 [
@@ -2106,7 +2106,7 @@ Flashcards.initialize([
 ],
 [
     "(I) had a headache last night. (I) didn't eat anything.",
-    "yuube {頭|atama} ga {痛かった|itakatta} desu. {何|nani} mo {食べません|tabemasen} deshita.",
+    "{昨夜|yuube} {頭|atama} ga {痛かった|itakatta} desu. {何|nani} mo {食べません|tabemasen} deshita.",
     ""
 ],
 [
@@ -2221,7 +2221,7 @@ Flashcards.initialize([
 ],
 [
     "Last night (I) didn't want to drink beer.",
-    "yuube _biiru_ wa {飲みたくなかった|nomitakunakatta} desu.",
+    "{昨夜|yuube} _biiru_ wa {飲みたくなかった|nomitakunakatta} desu.",
     "~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -3888,5 +3888,45 @@ Flashcards.initialize([
     "Peter is taller than me. Peter is taller.",
     "_piitaa_ san no {方|hou} ga {私|watashi} yori {背|se} ga {高い|takai} desu. _piitaa_ san no {方|hou} ga {背|se} ga {高い|takai} desu.",
     "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+],
+[
+    "This morning (I) got up at 7 o'clock. {plain}",
+    "{今朝|kesa} {七時|shichiji} ni {起きた|okita}.",
+    ""
+],
+[
+    "Last night (I) went to bed at about 12 o'clock. {plain}",
+    "{昨夜|yuube} {十二時|juuniji} {頃|goro} {寝た|neta}.",
+    ""
+],
+[
+    "(I) listened to music with a friend. {plain}",
+    "{友達|tomodachi} to {音楽|ongaku} wo {聞いた|kiita}.",
+    ""
+],
+[
+    "Last night (I) drank lots of beer. {plain}",
+    "{昨夜|yuube} _biiru_ wo ippai {飲んだ|nonda}.",
+    ""
+],
+[
+    "(I) read a Japanese comic book. {plain past}",
+    "{日本語|nihongo} no manga wo {読んだ|yonda}.",
+    ""
+],
+[
+    "(I) talked to the new teacher. {plain}",
+    "{新しい|atarashii} {先生|sensei} ni {話した|hanashita}.",
+    ""
+],
+[
+    "(I) made Indian food in (my) room. {plain}",
+    "{部屋|heya} de _indo_ {料理|ryouri} wo {作った|tsukutta}.",
+    ""
+],
+[
+    "(My) parents went back to England yesterday. {plain}",
+    "{昨日|kinou} {両親|ryoushin} wa _igirisu_ ni {帰った|kaetta}.",
+    ""
 ]
 ])

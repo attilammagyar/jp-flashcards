@@ -1161,7 +1161,7 @@ Flashcards.initialize([
     ],
     [
         "Last night (I) didn't drink (any) beer at all.",
-        "\u3086\u3046\u3079\u30d3\u30fc\u30eb\u3092{\u5168\u7136|\u305c\u3093\u305c\u3093}{\u98f2\u307f\u307e\u305b\u3093|\u306e\u307f\u307e\u305b\u3093}\u3067\u3057\u305f\u3002",
+        "{\u6628\u591c|\u3086\u3046\u3079}\u30d3\u30fc\u30eb\u3092{\u5168\u7136|\u305c\u3093\u305c\u3093}{\u98f2\u307f\u307e\u305b\u3093|\u306e\u307f\u307e\u305b\u3093}\u3067\u3057\u305f\u3002",
         ""
     ],
     [
@@ -2106,7 +2106,7 @@ Flashcards.initialize([
     ],
     [
         "(I) had a headache last night. (I) didn't eat anything.",
-        "\u3086\u3046\u3079{\u982d|\u3042\u305f\u307e}\u304c{\u75db\u304b\u3063\u305f|\u3044\u305f\u304b\u3063\u305f}\u3067\u3059\u3002{\u4f55|\u306a\u306b}\u3082{\u98df\u3079\u307e\u305b\u3093|\u305f\u3079\u307e\u305b\u3093}\u3067\u3057\u305f\u3002",
+        "{\u6628\u591c|\u3086\u3046\u3079}{\u982d|\u3042\u305f\u307e}\u304c{\u75db\u304b\u3063\u305f|\u3044\u305f\u304b\u3063\u305f}\u3067\u3059\u3002{\u4f55|\u306a\u306b}\u3082{\u98df\u3079\u307e\u305b\u3093|\u305f\u3079\u307e\u305b\u3093}\u3067\u3057\u305f\u3002",
         ""
     ],
     [
@@ -2221,7 +2221,7 @@ Flashcards.initialize([
     ],
     [
         "Last night (I) didn't want to drink beer.",
-        "\u3086\u3046\u3079\u30d3\u30fc\u30eb\u306f{\u98f2\u307f\u305f\u304f\u306a\u304b\u3063\u305f|\u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
+        "{\u6628\u591c|\u3086\u3046\u3079}\u30d3\u30fc\u30eb\u306f{\u98f2\u307f\u305f\u304f\u306a\u304b\u3063\u305f|\u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
         "~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
@@ -3888,5 +3888,45 @@ Flashcards.initialize([
         "Peter is taller than me. Peter is taller.",
         "\u30d4\u30fc\u30bf\u30fc\u3055\u3093\u306e{\u65b9|\u307b\u3046}\u304c{\u79c1|\u308f\u305f\u3057}\u3088\u308a{\u80cc|\u305b}\u304c{\u9ad8\u3044|\u305f\u304b\u3044}\u3067\u3059\u3002\u30d4\u30fc\u30bf\u30fc\u3055\u3093\u306e{\u65b9|\u307b\u3046}\u304c{\u80cc|\u305b}\u304c{\u9ad8\u3044|\u305f\u304b\u3044}\u3067\u3059\u3002",
         "Noun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
+    ],
+    [
+        "This morning (I) got up at 7 o'clock. {plain}",
+        "{\u4eca\u671d|\u3051\u3055}{\u4e03\u6642|\u3057\u3061\u3058}\u306b{\u8d77\u304d\u305f|\u304a\u304d\u305f}\u3002",
+        ""
+    ],
+    [
+        "Last night (I) went to bed at about 12 o'clock. {plain}",
+        "{\u6628\u591c|\u3086\u3046\u3079}{\u5341\u4e8c\u6642|\u3058\u3085\u3046\u306b\u3058}{\u9803|\u3054\u308d}{\u5bdd\u305f|\u306d\u305f}\u3002",
+        ""
+    ],
+    [
+        "(I) listened to music with a friend. {plain}",
+        "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3068{\u97f3\u697d|\u304a\u3093\u304c\u304f}\u3092{\u805e\u3044\u305f|\u304d\u3044\u305f}\u3002",
+        ""
+    ],
+    [
+        "Last night (I) drank lots of beer. {plain}",
+        "{\u6628\u591c|\u3086\u3046\u3079}\u30d3\u30fc\u30eb\u3092\u3044\u3063\u3071\u3044{\u98f2\u3093\u3060|\u306e\u3093\u3060}\u3002",
+        ""
+    ],
+    [
+        "(I) read a Japanese comic book. {plain past}",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u306e\u307e\u3093\u304c\u3092{\u8aad\u3093\u3060|\u3088\u3093\u3060}\u3002",
+        ""
+    ],
+    [
+        "(I) talked to the new teacher. {plain}",
+        "{\u65b0\u3057\u3044|\u3042\u305f\u3089\u3057\u3044}{\u5148\u751f|\u305b\u3093\u305b\u3044}\u306b{\u8a71\u3057\u305f|\u306f\u306a\u3057\u305f}\u3002",
+        ""
+    ],
+    [
+        "(I) made Indian food in (my) room. {plain}",
+        "{\u90e8\u5c4b|\u3078\u3084}\u3067\u30a4\u30f3\u30c9{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3092{\u4f5c\u3063\u305f|\u3064\u304f\u3063\u305f}\u3002",
+        ""
+    ],
+    [
+        "(My) parents went back to England yesterday. {plain}",
+        "{\u6628\u65e5|\u304d\u306e\u3046}{\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093}\u306f\u30a4\u30ae\u30ea\u30b9\u306b{\u5e30\u3063\u305f|\u304b\u3048\u3063\u305f}\u3002",
+        ""
     ]
 ])
