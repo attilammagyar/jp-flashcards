@@ -1186,7 +1186,7 @@ Flashcards.initialize([
 ],
 [
     "The hotel is opposite the post office.",
-    "_hoteru_ wa {郵便局|yuubinkyoku} no mukaigawa ni arimasu.",
+    "_hoteru_ wa {郵便局|yuubinkyoku} no {向かい側|mukaigawa} ni arimasu.",
     ""
 ],
 [
@@ -1226,7 +1226,7 @@ Flashcards.initialize([
 ],
 [
     "What is opposite the post office?",
-    "{郵便局|yuubinkyoku} no mukaigawa ni {何|nani} ga arimasu ka.",
+    "{郵便局|yuubinkyoku} no {向かい側|mukaigawa} ni {何|nani} ga arimasu ka.",
     ""
 ],
 [
@@ -1306,7 +1306,7 @@ Flashcards.initialize([
 ],
 [
     "The post office is (located) opposite the bank. The post office is opposite the bank. There is a post office opposite the bank.",
-    "{郵便局|yuubinkyoku} wa {銀行|ginkou} no mukaigawa ni arimasu. {郵便局|yuubinkyoku} wa {銀行|ginkou} no mukaigawa desu. {銀行|ginkou} no mukaigawa ni {郵便局|yuubinkyoku} ga arimasu.",
+    "{郵便局|yuubinkyoku} wa {銀行|ginkou} no {向かい側|mukaigawa} ni arimasu. {郵便局|yuubinkyoku} wa {銀行|ginkou} no {向かい側|mukaigawa} desu. {銀行|ginkou} no {向かい側|mukaigawa} ni {郵便局|yuubinkyoku} ga arimasu.",
     ""
 ],
 [
