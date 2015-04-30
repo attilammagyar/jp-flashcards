@@ -361,7 +361,7 @@ Flashcards.initialize([
 ],
 [
     "Is this blue dress beautiful?",
-    "{此の|kono} {青い|aoi} _doresu_ wa kirei desu ka.",
+    "{此の|kono} {青い|aoi} _doresu_ wa {奇麗|kirei} desu ka.",
     ""
 ],
 [
@@ -1506,7 +1506,7 @@ Flashcards.initialize([
 ],
 [
     "My room is not very clean.",
-    "{私|watashi} no {部屋|heya} wa {余り|amari} kirei deha arimasen.",
+    "{私|watashi} no {部屋|heya} wa {余り|amari} {奇麗|kirei} deha arimasen.",
     ""
 ],
 [
@@ -1556,7 +1556,7 @@ Flashcards.initialize([
 ],
 [
     "This is a clean room, isn't it?",
-    "{此れ|kore} wa kirei na {部屋|heya} desu ne.",
+    "{此れ|kore} wa {奇麗|kirei} na {部屋|heya} desu ne.",
     ""
 ],
 [
@@ -1871,7 +1871,7 @@ Flashcards.initialize([
 ],
 [
     "Naoe cleans neatly.",
-    "naoe san wa kirei ni {掃除|souji} wo shimasu.",
+    "naoe san wa {奇麗|kirei} ni {掃除|souji} wo shimasu.",
     "な adj. + に = adverb"
 ],
 [
@@ -3336,7 +3336,7 @@ Flashcards.initialize([
 ],
 [
     "His pictures are nice, but (there's) something missing.",
-    "{彼|kare} no {絵|e} wa kirei desu ga, {何|nani} ka {物|mono} {足りない|tarinai} desu.",
+    "{彼|kare} no {絵|e} wa {奇麗|kirei} desu ga, {何|nani} ka {物|mono} {足りない|tarinai} desu.",
     "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
 ],
 [
@@ -3516,12 +3516,12 @@ Flashcards.initialize([
 ],
 [
     "Miki is beautiful so Roger likes (her). {の で}",
-    "{三木|miki} san wa kirei na no de _rojaa_ san wa {好き|suki} desu.",
+    "{三木|miki} san wa {奇麗|kirei} na no de _rojaa_ san wa {好き|suki} desu.",
     "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ],
 [
     "(I) clean up the house every day so (it's) always clean. {から}",
-    "{毎日|mainichi} {家|uchi} wo {掃除|souji} suru kara {何時も|itsumo} kirei desu.",
+    "{毎日|mainichi} {家|uchi} wo {掃除|souji} suru kara {何時も|itsumo} {奇麗|kirei} desu.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
