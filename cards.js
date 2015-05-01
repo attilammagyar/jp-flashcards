@@ -766,7 +766,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) have this watch and this bag please?",
-        "{\u6b64\u306e|\u3053\u306e}\u3068\u3051\u3044\u3068{\u6b64\u306e|\u3053\u306e}\u304b\u3070\u3093\u3092\u304f\u3060\u3055\u3044\u3002",
+        "{\u6b64\u306e|\u3053\u306e}\u3068\u3051\u3044\u3068{\u6b64\u306e|\u3053\u306e}{\u9784|\u304b\u3070\u3093}\u3092\u304f\u3060\u3055\u3044\u3002",
         "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
@@ -831,7 +831,7 @@ Flashcards.initialize([
     ],
     [
         "10 bags",
-        "\u304b\u3070\u3093{\u5341|\u3068\u304a}",
+        "{\u9784|\u304b\u3070\u3093}{\u5341|\u3068\u304a}",
         ""
     ],
     [
@@ -841,7 +841,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) have 3 bags please?",
-        "\u304b\u3070\u3093\u3092{\u4e09\u3064|\u307f\u3063\u3064}\u304f\u3060\u3055\u3044\u3002",
+        "{\u9784|\u304b\u3070\u3093}\u3092{\u4e09\u3064|\u307f\u3063\u3064}\u304f\u3060\u3055\u3044\u3002",
         ""
     ],
     [
@@ -851,7 +851,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) have 2 bags please?",
-        "\u304b\u3070\u3093\u3092{\u4e8c\u3064|\u3075\u305f\u3064}\u304f\u3060\u3055\u3044\u3002",
+        "{\u9784|\u304b\u3070\u3093}\u3092{\u4e8c\u3064|\u3075\u305f\u3064}\u304f\u3060\u3055\u3044\u3002",
         ""
     ],
     [
@@ -1196,7 +1196,7 @@ Flashcards.initialize([
     ],
     [
         "My camera is in that bag.",
-        "{\u79c1|\u308f\u305f\u3057}\u306e\u30ab\u30e1\u30e9\u306f{\u5176\u306e|\u305d\u306e}\u304b\u3070\u3093\u306e{\u4e2d|\u306a\u304b}\u306b\u3042\u308a\u307e\u3059\u3002",
+        "{\u79c1|\u308f\u305f\u3057}\u306e\u30ab\u30e1\u30e9\u306f{\u5176\u306e|\u305d\u306e}{\u9784|\u304b\u3070\u3093}\u306e{\u4e2d|\u306a\u304b}\u306b\u3042\u308a\u307e\u3059\u3002",
         ""
     ],
     [
@@ -1211,7 +1211,7 @@ Flashcards.initialize([
     ],
     [
         "My business card is in (my) bag.",
-        "{\u79c1|\u308f\u305f\u3057}\u306e\u3081\u3044\u3057\u306f\u304b\u3070\u3093\u306e{\u4e2d|\u306a\u304b}\u306b\u3042\u308a\u307e\u3059\u3002",
+        "{\u79c1|\u308f\u305f\u3057}\u306e\u3081\u3044\u3057\u306f{\u9784|\u304b\u3070\u3093}\u306e{\u4e2d|\u306a\u304b}\u306b\u3042\u308a\u307e\u3059\u3002",
         ""
     ],
     [

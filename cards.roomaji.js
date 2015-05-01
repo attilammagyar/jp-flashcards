@@ -766,7 +766,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have this watch and this bag please?",
-    "{此の|kono} tokei to {此の|kono} kaban wo kudasai.",
+    "{此の|kono} tokei to {此の|kono} {鞄|kaban} wo kudasai.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -831,7 +831,7 @@ Flashcards.initialize([
 ],
 [
     "10 bags",
-    "kaban {十|too}",
+    "{鞄|kaban} {十|too}",
     ""
 ],
 [
@@ -841,7 +841,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 3 bags please?",
-    "kaban wo {三つ|mittsu} kudasai.",
+    "{鞄|kaban} wo {三つ|mittsu} kudasai.",
     ""
 ],
 [
@@ -851,7 +851,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 2 bags please?",
-    "kaban wo {二つ|futatsu} kudasai.",
+    "{鞄|kaban} wo {二つ|futatsu} kudasai.",
     ""
 ],
 [
@@ -1196,7 +1196,7 @@ Flashcards.initialize([
 ],
 [
     "My camera is in that bag.",
-    "{私|watashi} no _kamera_ wa {其の|sono} kaban no {中|naka} ni arimasu.",
+    "{私|watashi} no _kamera_ wa {其の|sono} {鞄|kaban} no {中|naka} ni arimasu.",
     ""
 ],
 [
@@ -1211,7 +1211,7 @@ Flashcards.initialize([
 ],
 [
     "My business card is in (my) bag.",
-    "{私|watashi} no meishi wa kaban no {中|naka} ni arimasu.",
+    "{私|watashi} no meishi wa {鞄|kaban} no {中|naka} ni arimasu.",
     ""
 ],
 [
