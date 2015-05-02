@@ -1,0 +1,622 @@
+洗濯	せんたく	laundering; washing	
+磨く	みがく	to polish; to shine; to brush (e.g. teeth	
+掃除	そうじ	cleaning	
+果物	くだもの	fruit	
+鞄	かばん	bag; handbag; briefcase	
+黄色い	きいろい	yellow	
+立派	りっぱ	splendid; handsome; elegant; prominent; legitimate	
+向こう	むこう	the other side; the other party; opponent	
+出口	でぐち	exit; exit ramp	
+降る	ふる	fall (i.e. rain/snow); come down; precipitate	
+机	つくえ	desk; table	
+掛ける	かける	to hang; to expend (time, money)	
+階段	かいだん	steps; flight of stairs	
+多分	たぶん	probably; perhaps	
+皆	みんな	everybody; everything	
+大人	おとな	adult	
+遠い	とおい	far; distant	
+薄い	うすい	thin; weak; pale	
+おばさん	おばさん	aunt	
+閉まる	しまる	to be shut; to close; to be closed	
+角	かど	corner; edge; angle	
+押す	おす	to push; to press	
+辛い	からい	spicy; salty; bitter; strict	
+止まる	とまる	to stop; to come to a halt	
+緑	みどり	green; foliage	
+並べる	ならべる	line up; display; set up	
+曇り	くもり	cloudiness; cloudy weather	
+冷蔵庫	れいぞうこ	refrigerator	
+牛乳	ぎゅうにゅう	milk	
+料理	りょうり	cooking; handling	
+卵	たまご	egg	
+奇麗	きれい	beautiful, pretty, neat	
+吹く	ふく	blow; play on a wind instrument	
+散歩	さんぽ	walk; stroll	
+痛い	いたい	painful	
+河	かわ	river; stream	
+練習	れんしゅう	practice	
+晩	ばん	evening; counter for nights	
+池	いけ	pond	
+～枚	～まい	counter for flat things (pieces of paper, shirts, coins, etc.)	
+作文	さくぶん	composition; essay	
+結構	けっこう	wonderful; quite; good enough	
+一緒	いっしょ	together	
+要る	いる	need; require	
+飲み物	のみもの	drink; beverage	
+カップ	カップ	cup	
+死ぬ	しぬ	to die	
+本当	ほんとう	truth; reality	
+白	しろ	white	
+切符	きっぷ	ticket	
+側	そば	near, close, beside, by the side of	
+勤める	つとめる	to work (for); to be employed; to serve (as)	
+専門	せんもん	specialty; subject of study	
+下手	へた	not good at	
+一昨年	おととし, いっさくねん	the year before last	
+厚い	あつい	thick; bulky	
+～匹	～ひき	counter for small animals (cats, insects, etc.)	
+暖かい	あたたかい	warm	
+玄関	げんかん	entranceway; front door; area where shoes are kept	
+問題	もんだい	problem; question	
+呼ぶ	よぶ	call; name; invite	
+渡る	わたる	cross; ford; go across	
+熱い	あつい	hot (objects)	
+達	たち	plural marker for some words	
+荷物	にもつ	baggage; load	
+台所	だいどころ	kitchen	
+夕方	ゆうがた	evening; dusk	
+郵便局	ゆうびんきょく	post office	
+分かる	わかる	to understand	
+借りる	かりる	to borrow; to rent	
+今晩	こんばん	this evening; tonight	
+財布	さいふ	purse; wallet	
+写真	しゃしん	photograph	
+何故	なぜ	why; for what reason	
+毎晩	まいばん	every evening	
+野菜	やさい	vegetable	
+生徒	せいと	pupil; student	
+上げる	あげる	to raise; to give; to do for; to elevate	
+村	むら	village; hamlet	
+大使館	たいしかん	embassy	
+意味	いみ	meaning; significance	
+返す	かえす	return (something); repay	
+公園	こうえん	park; public garden	
+宇宙	うちゅう	universe; space	
+七つ	ななつ	seven (things)	
+重い	おもい	heavy	
+両親	りょうしん	parents	
+遊ぶ	あそぶ	to play	
+置く	おく	put; leave	
+窓	まど	window; windowpane	
+春	はる	spring	
+鉛筆	えんぴつ	pencil	
+皆さん	みなさん	everybody; ladies and gentlemen	
+半分	はんぶん	half	
+今朝	けさ	this morning	
+暑い	あつい	hot (weather); warm	
+此方	こちら	here; this way; this person	
+初め	はじめ	beginning	
+毎週	まいしゅう	every week	
+警官	けいかん	police officer; policeman	
+冬	ふゆ	winter	
+立つ	たつ	to stand; to rise	
+晴れる	はれる	be sunny; clear up	
+～冊	～さつ	counter for books, volumes, etc.	
+宿題	しゅくだい	homework	
+グラム	グラム	gram	
+昨日	きのう, さくじつ	yesterday	
+渡す	わたす	carry across; hand over	
+難しい	むずかしい	difficult	
+大丈夫	だいじょうぶ	alright; OK; no problem	
+狭い	せまい	narrow; confined	
+咲く	さく	to bloom	
+自転車	じてんしゃ	bicycle	
+半	はん	half (usually suffix); odd number	
+取る	とる	to take; to pick up; to harvest; to earn; to choose; to steal; to take off (one's glasses, etc.)	
+教える	おしえる	teach; tell	
+病気	びょうき	illness	
+服	ふく	clothes	
+隣	となり	next to; neighboring house	
+どんな	どんな	what kind of ...	
+橋	はし	bridge	
+読む	よむ	to read	
+夜	よる,よ	night; evening	
+毎朝	まいあさ	every morning	
+動物	どうぶつ	animal	
+撮る	とる	take (pictures); shoot (film)	
+喫茶店	きっさてん	café; tea house	
+過ぎ	すぎ	past; after; too (much)	
+紅茶	こうちゃ	black tea	
+飛ぶ	とぶ	fly; leap; jump	
+軽い	かるい	light (not heavy)	
+言葉	ことば	word; language	
+歩く	あるく	to walk; go on foot	
+秋	あき	autumn; fall	
+家族	かぞく	family; household	
+並ぶ	ならぶ	line up; be parallel	
+弱い	よわい	weak; frail	
+遅い	おそい	slow; late	
+寒い	さむい	cold (air, weather)	
+店	みせ	shop; store	
+～日	～にち	days (duration); specific day	
+食べる	たべる	eat	
+遣る	やる	do; give; send; run (a store); perform	
+漢字	かんじ	Chinese characters; kanji	
+御～	お～,ご～	honorable; honorific	
+塩	しお	salt	
+一番	いちばん	most; best	
+大勢	おおぜい	large numbers; a lot of	
+若い	わかい	young	
+医者	いしゃ	doctor	
+暇	ひま	free time; spare time; time off	
+いってきます	いってきます	I'm off, see you later	
+走る	はしる	to run	
+コーヒー	コーヒー	coffee	
+紙	かみ	paper	
+外国人	がいこくじん	foreigner	
+鳴る	なる	sound; ring; roar	
+左	ひだり	left	
+洗う	あらう	to wash	
+困る	こまる	be at a loss; in a jam; in trouble	
+注文	ちゅうもん	order; request	
+庭	にわ	garden; court	
+傘	かさ	umbrella; parasol	
+全部	ぜんぶ	all; wholly	
+休む	やすむ	to take a day off; take a break; to be absent	
+曲がる	まがる	to bend; to turn; to curve	
+病院	びょういん	hospital	
+静か	しずか	quiet; tranquil	
+貸す	かす	to lend; to loan	
+悪い	わるい	bad	
+東京	とうきょう	Tokyo	
+付ける	つける	to attach; set; apply; switch on; write (a diary)	
+大き	おおき	big; large	
+駅	えき	station	
+覚える	おぼえる	memorize; remember; learn	
+夏	なつ	summer	
+頃	ころ, ごろ	time; at about	
+忙しい	いそがしい	busy; occupied	
+家庭	かてい	home; family	
+歌	うた	song	
+旅行	りょこう	travel; trip	
+結婚	けっこん	marriage; get married	
+タクシー	タクシー	taxi; cab	
+番号	ばんごう	number; series of digits	
+どの	どの	which (thing)	
+午後	ごご	afternoon; p.m.	
+去年	きょねん	last year　(spoken language)	
+法	ほう	law; rule	
+六日	むいか	six days; sixth of the month	
+初めて	はじめて	for the first time	
+質問	しつもん	question	
+プール	プール	pool	
+一日	ついたち	(arch) first day of the month; first ten days of the lunar month	
+大好き	だいすき	to love; like a lot	
+目	め	eye	
+どうして	どうして	why	
+言う	いう	to say	
+シャツ	シャツ	shirt	
+冷たい	つめたい	cold (thing); unkind (person)	
+短い	みじかい	short (length)	
+汚い	きたない	dirty	
+出来る	できる	can do; be good at	
+近く	ちかく	near; close to; shortly; soon	
+余り	あまり	not very (with negative); remainder; leftover; too much (with positive)	
+同じ	おなじ	same; identical	
+部屋	へや	room	
+明るい	あかるい	bright	
+歯	は	tooth	
+兄	あに	older brother	
+二十日	はつか	twenty days; the twentieth (day)	
+辞書	じしょ	dictionary	
+丘	おか	hill; slope	
+子供	こども	child	
+地下鉄	ちかてつ	subway	
+畑	はたけ	field; vegetable garden	
+下	した	under; below	
+彼女	かのじょ	she; one's girlfriend	
+図書館	としょかん	library	
+耳	みみ	ear	
+持つ	もつ	to hold; to possess	
+起きる	おきる	get up; get out of bed; occur (event)	
+羊	ひつじ	sheep	
+鍵	かぎ	key; lock	
+犬	いぬ	dog	
+閉める	しめる	to close; to shut	
+あれ	あれ	that (distant from speaker and listener)	
+～側	～がわ	side	
+所	ところ	place	
+電話	でんわ	telephone; phone call	
+有名	ゆうめい	famous	
+忘れる	わすれる	to forget; to be forgetful of	
+テスト	テスト	test; exam	
+草	くさ	grass; weed	
+中	じゅう	throughout (a time period); during; all over	
+飛行機	ひこうき	airplane	
+～回	～かい	~times (counter)	
+掛かる	かかる	to take (time/distance/money); to hang; put on (glasses); lock (door); to get a call	
+他	た,ほか	other; other things	
+右	みぎ	right	
+さようなら	さようなら	Good-bye	
+住む	すむ	to live; reside	
+小さい	ちいさい	small	
+苗	なえ	seedling	
+知る	しる	to know	
+着く	つく	to arrive at; to reach	
+～本	～ほん	counter for long, thin objects (bottles, pencils, films, etc.)	
+少ない	すくない	few; little; scarce	
+砂糖	さとう	sugar	
+入れる	いれる	to put in; to insert	
+勉強	べんきょう	study	
+頼む	たのむ	to request; to ask	
+この	この	this (thing)	
+使う	つかう	to use	
+門	もん	gate	
+嫌い	きらい	hate; dislike	
+少し	すこし	a bit; small quantity	
+会社	かいしゃ	company; corporation	
+だけ	だけ	just; only	
+幾ら	いくら	how much	
+天	てん	sky; Heaven	
+留学生	りゅうがくせい	overseas student; exchange student	
+始まる	はじまる	to begin	
+椅子	いす	chair	
+教室	きょうしつ	classroom	
+早い	はやい	early	
+泳ぐ	およぐ	swim	
+花	はな	flower; blossom	
+植物	しょくぶつ	plant; vegetation	
+行く	いく, ゆく	to go	
+暗い	くらい	dark; dreary; shadowy	
+金	かね	money; metal	
+姉	あね	older sister	
+先月	せんげつ	last month	
+～階	～かい	floor (of a building)	
+語	ご	language (suffix); word; term	
+沢山	たくさん	a lot; plenty	
+誰	だれ	who; whom	
+日曜日	にちようび	Sunday	
+寝る	ねる	to sleep; to go to bed	
+頭	あたま	head	
+川	かわ	river; stream	
+電車	でんしゃ	(electric) train	
+何人	なんにん	how many people?	
+地図	ちず	map; atlas	
+レストラン	レストラン	restaurant	
+出す	だす	to take out; to get out; to send (e.g. letter); to hand in	
+開ける	あける	to open	
+国	くに	country	
+居る	いる	be; exist (person); stays at...	
+面白い	おもしろい	interesting; amusing	
+食堂	しょくどう	dining hall; cafeteria	
+低い	ひくい	low (height, tone, rank, degree, cost, etc.);  short	
+開く	あく	to open (business, door, eyes, mouth, etc.); to be empty; to be available	
+強い	つよい	strong	
+はい	はい	yes; okay	
+口	くち	mouth; opening	
+広い	ひろい	wide; spacious	
+聞く	きく	to hear; to listen; to ask	
+買い物	かいもの	shopping; purchased goods	
+英語	えいご	English language	
+その	その	that (thing)	
+速い	はやい	fast	
+米	こめ	rice	
+体	からだ	body; health	
+自動車	じどうしゃ	automobile	
+男の人	おとこのひと	man	
+黒	くろ	black	
+どうも	どうも	very; thanks; somehow	
+乗る	のる	to ride; board	
+先週	せんしゅう	last week	
+男の子	おとこのこ	boy; baby boy	
+良い	いい, よい	good	
+古い	ふるい	old	
+好き	すき	liking; fondness; love	
+大切	たいせつ	important; valuable	
+自然	しぜん	nature; natural	
+午前	ごぜん	morning; a.m.	
+赤い	あかい	red	
+戸	と	door (esp. Japanese-style)	
+～年	～ねん	years (grade in school; duration; specific year)	
+消す	けす	to turn off; switch off	
+多い	おおい	many; numerous	
+～個	～こ	counter for smaller items	
+建物	たてもの	building; structure	
+学生	がくせい	student	
+高い	たかい	high; tall; expensive	
+本屋	ほんや	bookstore; bookshop	
+座る	すわる	sit; sit down	
+ベッド	ベッド	bed	
+切る	きる	to cut	
+音楽	おんがく	music	
+太陽	たいよう	sun	
+授業	じゅぎょう	class; lesson; classwork	
+足	あし	leg; foot	
+クラス	クラス	class	
+電気	でんき	electricity; electric light	
+～月	～がつ	suffix for months	
+今週	こんしゅう	this week	
+出る	でる	exit; leave; go out	
+厭	いや	unfavorable; unpleasant; hateful	
+天気	てんき	weather	
+欲しい	ほしい	want; desire	
+雑誌	ざっし	magazine; journal	
+戴きます	いただきます	expression of gratitude before meals	
+違う	ちがう	differ; not match the correct (answer, etc.)	
+父	ちち	father	
+映画	えいが	movie	
+学	がく	learning; studies; science	
+友達	ともだち	friend; companion	
+～人	～にん	counter for people	
+崖	がけ	cliff	
+～台	～だい	counter for cars and machines	
+切手	きって	postage stamp	
+一月	ひとつき	one month	
+鳥	とり	bird	
+朝	あさ	morning	
+鼻	はな	nose	
+売る	うる	to sell	
+毎年	まいとし, まいねん	every year	
+牛肉	ぎゅうにく	beef	
+よろしくお願いします	よろしくおねがいします	I look forward to working with you; Thank you in advance; Please treat me well	
+ああ	ああ	oh; that kind of...	
+妹	いもうと	younger sister	
+文学	ぶんがく	literature	
+空	そら	sky; the heavens	
+友だち	ともだち	friend	
+生まれる	うまれる	to be born	
+便利	べんり	convenience; handiness	
+男	おとこ	man; male	
+着る	きる	to wear (on upper body); put on	
+ええ	ええ	yes; that is correct; well	
+話	はなし	talk; conversation; story	
+人々	ひとびと	people	
+青	あお	blue; green; green light; youth	
+青い	あおい	blue	
+未だ	まだ,　いまだ	(not) yet; more; still	
+番	ばん	one's turn; watch; number ... (in a series)	
+木	き	tree; wood	
+答える	こたえる	to answer; to reply	
+隹	ふるとり	kanji "old bird" radical	
+気	き	spirit; temperament	
+絵	え	picture; painting; drawing	
+文	ぶん	sentence; text	
+買う	かう	buy	
+～時	～じ	o'clock	
+～度	～ど	degrees; times	
+昼	ひる	daytime; midday; noon	
+～方	～かた	how to...; way of...	
+二つ	ふたつ	two (things)	
+島	しま	island; isle	
+大変	たいへん	very; hard; awful; serious	
+お日様	おひさま	sun (polite)	
+次	つぎ	next	
+大きい	おおきい	big	
+其処	そこ	there	
+谷	たに	valley; ravine	
+外国	がいこく	foreign country	
+浴びる	あびる	take (a shower)	
+彼	かれ	he; one's boyfriend	
+見せる	みせる	to show; to display	
+万	まん	ten thousand	
+銀行	ぎんこう	bank	
+ニュース	ニュース	news	
+新しい	あたらしい	new	
+上	うえ	up; above; top; on	
+おじさん	おじさん	uncle; mister	
+おかえりなさい	おかえりなさい	Welcome back; Welcome home.	
+元気	げんき	healthy; energetic	
+～時間	～じかん	... hours	
+～時	～とき	when...	
+地下	ちか	basement; underground	
+火	ひ	fire	
+大学	だいがく	university; college	
+木曜日	もくようび	Thursday	
+夏休み	なつやすみ	summer vacation	
+火曜日	かようび	Tuesday	
+飲む	のむ	to drink; take (medicine)	
+五分	ごふん	five minutes	
+一日	いちにち	one day	
+おはよう	おはよう	Good morning. (informal)	
+とても	とても	very	
+先生	せんせい	teacher; term of address for teacher, doctor, lawyer, writer etc.	
+こんな～	こんな～	...like this; this kind of...	
+作る	つくる	to make; to create	
+米	メートル	meter; gauge	
+中	なか	inside; middle; center; among	
+油	あぶら	oil	
+～週間	～しゅうかん	weeks	
+高校	こうこう	high school	
+土曜日	どようび	Saturday	
+来月	らいげつ	next month	
+今年	ことし	this year	
+家	いえ, うち	house; home	
+黒い	くろい	black	
+帰る	かえる	return (home); go back	
+雷	かみなり	thunder; lightning	
+日本語	にほんご	Japanese language	
+降りる	おりる	to get off; to land; to descend	
+明日	あした, あす, みょうにち	tomorrow	
+声	こえ	voice	
+見る	みる	to see; to look; to try	
+ギター	ギター	guitar	
+金曜日	きんようび	Friday	
+田	た	rice field; rice paddy	
+火山	かざん	volcano	
+七	なな,しち	seven	
+話す	はなす	to speak	
+ページ	ページ	page	
+待つ	まつ	wait; wait for	
+～歳	～さい	years old	
+どうぞ	どうぞ	please; ok; Here it is	
+女の人	おんなのひと	woman	
+私	わたし,わたくし	I; me	
+テーブル	テーブル	table	
+カメラ	カメラ	camera	
+ありがとうございます	ありがとうございます	thank you (formal)	
+会う	あう	to meet	
+働く	はたらく	to work	
+西	にし	west	
+後ろ	うしろ	back; behind	
+テープ	テープ	tape; cassette	
+南	みなみ	south	
+自分	じぶん	self; oneself	
+おはようございます	おはようございます	Good morning.; Hello.	
+羽	ウ, は, はね	feathers; counter for birds, rabbits	
+星	ほし	star; suspect (police slang)	
+長い	ながい	long	
+入る	はいる	to enter	
+東	ひがし	east	
+ずつ	ずつ	each; once per	
+雲	くも	cloud	
+引く	ひく	to draw; to pull	
+ホテル	ホテル	hotel	
+～円	～えん	yen	
+～屋	～や	...shop	
+それから	それから	and then	
+来る	くる	to come; to arrive	
+日本人	にほんじん	Japanese person	
+ぐらい	ぐらい	about; approximately	
+白い	しろい	white	
+じゃあ	じゃあ	well...	
+貴方	あなた	you	
+日本	にほん, にっぽん	Japan	
+はじめまして	はじめまして	Nice to meet you. (How do you do?) Literal translation : "this is the first time".	
+四つ	よっつ	four (things)	
+水曜日	すいようび	Wednesday	
+仕事	しごと	work; job	
+行ってらっしゃい	いってらっしゃい	have a good day; take care; see you	
+一つ	ひとつ	one (thing)	
+デパート	デパート	department store; department	
+来年	らいねん	next year	
+歌う	うたう	to sing	
+毎月	まいつき, まいげつ	every month	
+茶	ちゃ	tea; light brown	
+新聞	しんぶん	newspaper	
+女	おんな	woman; girl	
+此れ	これ	this	
+ラジオ	ラジオ	radio	
+兄弟	きょうだい	sibling(s)	
+今日	きょう	today	
+一時	いちじ	one o'clock	
+上手	じょうず	good at; skilled	
+ゼロ	ゼロ	zero	
+風	かぜ	wind	
+百円	ひゃくえん	100 yen	
+牛	うし	cow; cattle	
+子	こ	child; kid	
+車	くるま	car	
+どう	どう	how; in what way; how about	
+ポスト	ポスト	mail box; post box	
+学校	がっこう	school	
+北	きた	north	
+書く	かく	write	
+どちら	どちら	which (between two); which way	
+色	いろ	color	
+然し	しかし	however; but	
+円	えん	circle; Yen	
+木の葉	このは	tree leaves	
+海	うみ	sea; ocean	
+ちょっと	ちょっと	just a moment; just a little; it's a bit (difficult)	
+五つ	いつつ	five (things)	
+パン	パン	bread	
+安い	やすい	inexpensive; cheap	
+何処	どこ	where	
+木の実	きのみ, このみ	nut; fruit; berry	
+映画館	えいがかん	movie theater; cinema	
+前	まえ	front; before	
+六	ろく	six	
+曜	ヨウ	day of the week	
+～語	～ご	language	
+北口	きたぐち	north entrance	
+酒	さけ	sake; alcoholic drink	
+パーティー	パーティー	party	
+中国	ちゅうごく	China	
+来	らい	next (year, etc.); since (last month, etc.)	
+ただいま	ただいま	I'm back!; just now; presently	
+時	とき	time; when...	
+楽しい	たのしい	enjoyable; fun	
+年	とし	year; age	
+母	はは	mother	
+二	に	two	
+食べ物	たべもの	food	
+人	ひと	person	
+手紙	てがみ	letter	
+いいえ	いいえ	no	
+一	いち	one	
+月曜日	げつようび	Monday	
+肉	にく	flesh; meat	
+スポーツ	スポーツ	sport	
+ドア	ドア	door	
+近い	ちかい	near; close; short (distance)	
+でも	でも	but; however	
+二人	ふたり	two people	
+八	はち	eight	
+こんにちは	こんにちは	Good afternoon.; Hello.	
+一人	ひとり	one; one person	
+分	ぶん	amount; part; share	
+女の子	おんなのこ	girl; daughter	
+～分	～ふん	minutes	
+顔	かお	face	
+弟	おとうと	younger brother	
+～キロ	～キロ	kilo (kilogram or kilometer)	
+其れ	それ	that; that one	
+～中	～ちゅう	in the center; in the middle	
+テレビ	テレビ	television	
+町	まち	town; block; city quarter	
+ありがとう	ありがとう	thank you	
+トイレ	トイレ	toilet	
+おやすみなさい	おやすみなさい	Good night.	
+三つ	みっつ	three (things)	
+名前	なまえ	name	
+月	つき	moon; month	
+何時も	いつも	always	
+そう	そう	in such manner; that way	
+人	じん	suffix for nationalities	
+外	そと	outside; exterior	
+何時	なんじ	what time?	
+何	なに,なん	what; which; how many	
+本	ほん	book; volume; counter for long things	
+魚	さかな,うお	fish	
+馬	うま	horse	
+バス	バス	bus	
+よく	よく	often	
+今	いま	now	
+此処	ここ	here	
+雨	あめ	rain	
+今月	こんげつ	this month	
+じゃ	じゃ	ja (hiragana)	
+有る	ある	exist; possess; there is/are (inanimate objects)	
+山	やま	mountain	
+水	みず	water	
+ノート	ノート	note book; laptop	
+毎日	まいにち	every day	
+四	よん,し	four	
+もっと	もっと	more	
+時々	ときどき	sometimes	
+猫	ねこ	cat	
+雪	ゆき	snow; snowfall	
+土	つち	earth; soil; ground	
+あそこ	あそこ	over there	
+もう	もう	already; anymore; other; more	
+三日	みっか	three days; third of the month	
+何時	いつ	when	
+どれ	どれ	what; which	
+アパート	アパート	apartment; flat; apartment house	
+百	ひゃく	hundred	
+千	せん, ち	thousand	
+ご馳走様でした	ごちそうさまでした	said after meals	
+十	じゅう	ten	
+さん	さん	Mr./Ms....	
+こんばんは	こんばんは	Good evening.; Hello.	
+三	さん, み	three	
+一月	いちがつ	January	
+虫	むし	insect; worm	
+白鳥	はくちょう	swan	
+日	ひ	sun; sunlight; day	
+九	きゅう,く	nine	
+五	ご	five	
+など	など	et cetera, and the like, and so forth	
+すみません	すみません	Excuse me.	
+あの	あの	that (thing) over there; um…	
+そして	そして	and then	
