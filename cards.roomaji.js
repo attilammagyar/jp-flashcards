@@ -1831,7 +1831,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow's weather will probably be cloudy, later (it will) rain.",
-    "{明日|ashita} no {天気|tenki} wa kumori, {後|nochi} {雨|ame} deshou.",
+    "{明日|ashita} no {天気|tenki} wa {曇り|kumori}, {後|nochi} {雨|ame} deshou.",
     ""
 ],
 [
@@ -1921,12 +1921,12 @@ Flashcards.initialize([
 ],
 [
     "(It will) probably be cloudy, later rain.",
-    "kumori {後|nochi} {雨|ame} deshou.",
+    "{曇り|kumori} {後|nochi} {雨|ame} deshou.",
     ""
 ],
 [
     "(It will) probably be cloudy, sometimes rain.",
-    "kumori {時々|tokidoki} {雨|ame} deshou.",
+    "{曇り|kumori} {時々|tokidoki} {雨|ame} deshou.",
     ""
 ],
 [
@@ -1946,7 +1946,7 @@ Flashcards.initialize([
 ],
 [
     "(It will) probably be cloudy, sometimes snow.",
-    "kumori {時々|tokidoki} {雪|yuki} deshou.",
+    "{曇り|kumori} {時々|tokidoki} {雪|yuki} deshou.",
     ""
 ],
 [
@@ -1956,7 +1956,7 @@ Flashcards.initialize([
 ],
 [
     "(It will) probably be cloudy, sometimes foggy.",
-    "kumori {時々|tokidoki} kiri deshou.",
+    "{曇り|kumori} {時々|tokidoki} kiri deshou.",
     ""
 ],
 [

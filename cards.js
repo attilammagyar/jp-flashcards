@@ -1831,7 +1831,7 @@ Flashcards.initialize([
     ],
     [
         "Tomorrow's weather will probably be cloudy, later (it will) rain.",
-        "{\u660e\u65e5|\u3042\u3057\u305f}\u306e{\u5929\u6c17|\u3066\u3093\u304d}\u306f\u304f\u3082\u308a\u3001{\u5f8c|\u306e\u3061}{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
+        "{\u660e\u65e5|\u3042\u3057\u305f}\u306e{\u5929\u6c17|\u3066\u3093\u304d}\u306f{\u66c7\u308a|\u304f\u3082\u308a}\u3001{\u5f8c|\u306e\u3061}{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
         ""
     ],
     [
@@ -1921,12 +1921,12 @@ Flashcards.initialize([
     ],
     [
         "(It will) probably be cloudy, later rain.",
-        "\u304f\u3082\u308a{\u5f8c|\u306e\u3061}{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
+        "{\u66c7\u308a|\u304f\u3082\u308a}{\u5f8c|\u306e\u3061}{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
         ""
     ],
     [
         "(It will) probably be cloudy, sometimes rain.",
-        "\u304f\u3082\u308a{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
+        "{\u66c7\u308a|\u304f\u3082\u308a}{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u96e8|\u3042\u3081}\u3067\u3057\u3087\u3046\u3002",
         ""
     ],
     [
@@ -1946,7 +1946,7 @@ Flashcards.initialize([
     ],
     [
         "(It will) probably be cloudy, sometimes snow.",
-        "\u304f\u3082\u308a{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u96ea|\u3086\u304d}\u3067\u3057\u3087\u3046\u3002",
+        "{\u66c7\u308a|\u304f\u3082\u308a}{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u96ea|\u3086\u304d}\u3067\u3057\u3087\u3046\u3002",
         ""
     ],
     [
@@ -1956,7 +1956,7 @@ Flashcards.initialize([
     ],
     [
         "(It will) probably be cloudy, sometimes foggy.",
-        "\u304f\u3082\u308a{\u6642\u3005|\u3068\u304d\u3069\u304d}\u304d\u308a\u3067\u3057\u3087\u3046\u3002",
+        "{\u66c7\u308a|\u304f\u3082\u308a}{\u6642\u3005|\u3068\u304d\u3069\u304d}\u304d\u308a\u3067\u3057\u3087\u3046\u3002",
         ""
     ],
     [
