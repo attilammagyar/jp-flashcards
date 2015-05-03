@@ -711,7 +711,7 @@ Flashcards.initialize([
 ],
 [
     "(That's) good. (We'll) do that. Tonight what time is OK?",
-    "{良い|ii} desu ne. sou shimasu. {今夜|kon ya} {何時|nanji} ga {良い|ii} desu ka.",
+    "ii desu ne. sou shimasu. {今夜|kon ya} {何時|nanji} ga ii desu ka.",
     ""
 ],
 [
@@ -1466,7 +1466,7 @@ Flashcards.initialize([
 ],
 [
     "That person is nice.",
-    "ano {人|hito} wa {良い|ii} desu.",
+    "ano {人|hito} wa ii desu.",
     ""
 ],
 [
@@ -2261,7 +2261,7 @@ Flashcards.initialize([
 ],
 [
     "Hiking is good for the body, isn't it?",
-    "_haikingu_ wa {体|karada} ni {良い|ii} desu ne.",
+    "_haikingu_ wa {体|karada} ni ii desu ne.",
     ""
 ],
 [
@@ -2351,7 +2351,7 @@ Flashcards.initialize([
 ],
 [
     "\"You can call me Natsuko, you know.\" (Natsuko is OK.)",
-    "{夏子|natsuko} de {良い|ii} desu yo.",
+    "{夏子|natsuko} de ii desu yo.",
     ""
 ],
 [
@@ -2497,7 +2497,7 @@ Flashcards.initialize([
 [
     "(I) liked watching movies very much.",
     "{映画|eiga} wo {見ること|mirukoto} ga totemo {好き|suki} deshita.",
-    "verb-plain + {事|こと} = doing ~ (nominalize)"
+    "verb-plain + こと = doing ~ (nominalize)"
 ],
 [
     "Because (I) liked shopping very much, (I) always went to shopping to the town.",
@@ -2566,13 +2566,13 @@ Flashcards.initialize([
 ],
 [
     "May (I) watch the tv?",
-    "_terebi_ wo {見て|mite} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "_terebi_ wo {見て|mite} mo ii desu ka.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "(You) may eat here.",
-    "{此処|koko} de {食べて|tabete} mo {良い|ii} desu.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "{此処|koko} de {食べて|tabete} mo ii desu.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "(You) are not allowed to eat here.",
@@ -2641,28 +2641,28 @@ Flashcards.initialize([
 ],
 [
     "May (I) go to the toilet?",
-    "_toire_ ni {行って|itte} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "_toire_ ni {行って|itte} mo ii desu ka.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) listen to music here?",
-    "{此処|koko} de {音楽|ongaku} wo {聞いて|kiite} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "{此処|koko} de {音楽|ongaku} wo {聞いて|kiite} mo ii desu ka.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) open the window? May (I) close the window?",
-    "{窓|mado} wo {開けて|akete} mo {良い|ii} desu ka. {窓|mado} wo {閉めて|shimete} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "{窓|mado} wo {開けて|akete} mo ii desu ka. {窓|mado} wo {閉めて|shimete} mo ii desu ka.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) enter this room?",
-    "{此の|kono} {部屋|heya} ni {入った|haitte} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "{此の|kono} {部屋|heya} ni {入った|haitte} mo ii desu ka.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) take a bath?",
-    "ofuro ni {入って|haitte} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "ofuro ni {入って|haitte} mo ii desu ka.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "(You are) not allowed to open that door.",
@@ -2711,13 +2711,13 @@ Flashcards.initialize([
 ],
 [
     "Men may take a bath from 5 o'clock until 7 o'clock, women from 7 o'clock until 9 o'clock.",
-    "dansei wa {五時|goji} kara {七時|shichiji} made ohuro ni {入って|haitte} mo {良い|ii} desu. josei wa {七時|shichiji} kara {九時|kuji} made desu.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "dansei wa {五時|goji} kara {七時|shichiji} made ohuro ni {入って|haitte} mo ii desu. josei wa {七時|shichiji} kara {九時|kuji} made desu.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "Don't eat at the rooms. Please eat at the canteen.",
     "{部屋|heya} de {食べて|tabete} wa dame desu. {食堂|shokudou} de {食べて|tabete} kudasai.",
-    "verb-て-form + は + だめ = must not do verb\nverb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "verb-て-form + は + だめ = must not do verb\nverb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "Rooms are separated? I can't believe it!",
@@ -2751,8 +2751,8 @@ Flashcards.initialize([
 ],
 [
     "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
-    "{先生|sensei} to {話したい|hanashitai} baai wa, shokuinshitsu ni {入って|haitte} mo {良い|ii} desu.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "{先生|sensei} to {話したい|hanashitai} baai wa, shokuinshitsu ni {入って|haitte} mo ii desu.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "(It's) not allowed to go to the toilet during class.",
@@ -2761,8 +2761,8 @@ Flashcards.initialize([
 ],
 [
     "(You) may eat (your) lunch in the classroom.",
-    "{教室|kyoushitsu} de {昼ごはん|hirugohan} wo {食べて|tabete} mo {良い|ii} desu.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "{教室|kyoushitsu} de {昼ごはん|hirugohan} wo {食べて|tabete} mo ii desu.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "Wearing accessories, earrings, etc. is not allowed.",
@@ -2786,8 +2786,8 @@ Flashcards.initialize([
 ],
 [
     "May (I) switch on the lights? Please switch off the lights.",
-    "{電気|denki} wo tsukete mo {良い|ii} desu ka. {電気|denki} wo {消して|keshite} kudasai.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb\nverb-て-form + ください = request"
+    "{電気|denki} wo tsukete mo ii desu ka. {電気|denki} wo {消して|keshite} kudasai.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb\nverb-て-form + ください = request"
 ],
 [
     "(You are) not allowed to sing in here.",
@@ -2801,13 +2801,13 @@ Flashcards.initialize([
 ],
 [
     "(You) may play (your) guitar in this room.",
-    "{此の|kono} {部屋|heya} de _gitaa_ wo hiite mo {良い|ii} desu.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "{此の|kono} {部屋|heya} de _gitaa_ wo hiite mo ii desu.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "May (I) take a rest?",
-    "{休んで|yasunde} mo {良い|ii} desu ka.",
-    "verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "{休んで|yasunde} mo ii desu ka.",
+    "verb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "Please take off (your) shoes.",
@@ -3026,7 +3026,7 @@ Flashcards.initialize([
 ],
 [
     "(It's) a good part/place. (It's) a good place.",
-    "{良い|ii} {所|tokoro, toko} desu. {良い|ii} {場所|basho} desu.",
+    "ii {所|tokoro, toko} desu. ii {場所|basho} desu.",
     "{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ],
 [
@@ -3066,7 +3066,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) reading a very good book currently.",
-    "{今|ima} totemo {良い|ii} {本|hon} wo {読んで|yonde} imasu.",
+    "{今|ima} totemo ii {本|hon} wo {読んで|yonde} imasu.",
     "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -3151,8 +3151,8 @@ Flashcards.initialize([
 ],
 [
     "May (I) try phoning Mr. Yamada?",
-    "{山田|yamada} san ni {電話|denwa} wo shite mite mo {良い|ii} desu ka.",
-    "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb"
+    "{山田|yamada} san ni {電話|denwa} wo shite mite mo ii desu ka.",
+    "verb-て-form + みる = try doing ~\nverb-て-form + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "(I) want to try on this jacket.",
@@ -3306,8 +3306,8 @@ Flashcards.initialize([
 ],
 [
     "May (I) try this jacket?",
-    "{此の|kono} _jaketto_ wo {着て|kite} mite mo {良い|ii} desu ka.",
-    "verb-て-form + みる = try doing ~\nverb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb\n{着る|きる} -> {着て|きて}"
+    "{此の|kono} _jaketto_ wo {着て|kite} mite mo ii desu ka.",
+    "verb-て-form + みる = try doing ~\nverb-て-form + も + いい = doing verb is allowed, (you) may do verb\n{着る|きる} -> {着て|きて}"
 ],
 [
     "(I) no longer live in Tokyo.",
@@ -3356,12 +3356,12 @@ Flashcards.initialize([
 ],
 [
     "Eri can already swim.",
-    "eri chan wa mou {泳ぐ|oyogu} {事|koto} {出来ます|dekimasu}.",
-    "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
+    "eri chan wa mou {泳ぐこと|oyogukoto} {出来ます|dekimasu}.",
+    "verb-plain + こと = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
 ],
 [
     "Roger likes to drink beer with (his) friends.",
-    "_rojaa_ san wa {友達|tomodachi} to _biiru_ wo {飲む|nomu} {事|koto} ga {好き|suki} desu.",
+    "_rojaa_ san wa {友達|tomodachi} to _biiru_ wo {飲むこと|nomukoto} ga {好き|suki} desu.",
     ""
 ],
 [
@@ -3396,33 +3396,33 @@ Flashcards.initialize([
 ],
 [
     "Naoe can speak English a little.",
-    "Naoe san wa {少し|sukoshi} {英語|eigo} wo {話す|hanasu} {事|koto} ga {出来ます|dekimasu}.",
-    "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
+    "Naoe san wa {少し|sukoshi} {英語|eigo} wo {話すこと|hanasukoto} ga {出来ます|dekimasu}.",
+    "verb-plain + こと = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
 ],
 [
     "I can't eat raw fish.",
-    "{私|watashi} wa sashimi wo {食べる|taberu} {事|koto} ga {出来ません|dekimasen}.",
-    "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
+    "{私|watashi} wa sashimi wo {食べること|taberukoto} ga {出来ません|dekimasen}.",
+    "verb-plain + こと = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
 ],
 [
     "Rie likes doing cooking.",
     "Rie san wa {料理|ryouri} wo suru {事|koto} ga {好き|suki} desu.",
-    "verb-plain + {事|こと} = doing ~ (nominalize)"
+    "verb-plain + こと = doing ~ (nominalize)"
 ],
 [
     "Yuki is good at studying Maths but bad at English.",
     "yuki san wa suugaku wo {勉強|benkyou} suru {事|koto} ga tokui desu ga {英語|eigo} ga nigate desu.",
-    "verb-plain + {事|こと} = doing ~ (nominalize)\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "verb-plain + こと = doing ~ (nominalize)\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "Speaking with Japanese people is interesting.",
-    "{日本人|nihonjin} to {話す|hanasu} {事|koto} ga {面白い|omoshiroi} desu.",
-    "verb-plain + {事|こと} = doing ~ (nominalize)"
+    "{日本人|nihonjin} to {話すこと|hanasukoto} ga {面白い|omoshiroi} desu.",
+    "verb-plain + こと = doing ~ (nominalize)"
 ],
 [
     "Roger is good at writing kanji.",
-    "_rojaa_ san wa {漢字|kanji} wo {書く|kaku} {事|koto} ga tokui desu.",
-    "verb-plain + {事|こと} = doing ~ (nominalize)\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "_rojaa_ san wa {漢字|kanji} wo {書くこと|kakukoto} ga tokui desu.",
+    "verb-plain + こと = doing ~ (nominalize)\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "Recently (I'm) learning judo.",
@@ -3576,7 +3576,7 @@ Flashcards.initialize([
 ],
 [
     "Every week (you) say the same thing.",
-    "{毎週|maishuu} {同じ|onaji} {事|koto} wo {言います|iimasu}.",
+    "{毎週|maishuu} {同じこと|onajikoto} wo {言います|iimasu}.",
     ""
 ],
 [
@@ -3651,13 +3651,13 @@ Flashcards.initialize([
 ],
 [
     "Why does Miki want to watch baseball? Because (she) likes watching sports. {から}",
-    "{三木|miki} san wa doushite yakyuu wo {見たい|mitai} desu ka. _supootsu_ wo {見る|miru} {事|koto} ga {好き|suki} da kara desu.",
-    "verb stem + たい = want to ~ (verb --> い adj.)\nverb-plain + {事|こと} = doing ~ (nominalize)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "{三木|miki} san wa doushite yakyuu wo {見たい|mitai} desu ka. _supootsu_ wo {見ること|mirukoto} ga {好き|suki} da kara desu.",
+    "verb stem + たい = want to ~ (verb --> い adj.)\nverb-plain + こと = doing ~ (nominalize)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "Why can't Roger eat meat? Because (he's) vegetarian. {から}",
-    "_rojaa_ san wa doushite {肉|niku} wo {食べる|taberu} {事|koto} ga {出来ません|dekimasen} ka. _bejitarian_ da kara desu.",
-    "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "_rojaa_ san wa doushite {肉|niku} wo {食べること|taberukoto} ga {出来ません|dekimasen} ka. _bejitarian_ da kara desu.",
+    "verb-plain + こと = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "Erm... are (you) free tonight?",
@@ -3681,7 +3681,7 @@ Flashcards.initialize([
 ],
 [
     "I'm vegetarian so (I) can't eat meat. {の で} But fish is OK. (Because I) can eat (that).",
-    "boku wa _bejitarian_ na no de {肉|niku} wo {食べる|taberu} {事|koto} ga {出来ません|dekimasen}. demo {魚|sakana} wa {大丈夫|daijoubu} desu. {食べる|taberu} {事|koto} ga {出来る|dekiru} n desu.",
+    "boku wa _bejitarian_ na no de {肉|niku} wo {食べること|taberukoto} ga {出来ません|dekimasen}. demo {魚|sakana} wa {大丈夫|daijoubu} desu. {食べること|taberukoto} ga {出来る|dekiru} n desu.",
     "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-plain + の/ん + です = justification, explanation (softer than から)"
 ],
 [
@@ -3691,12 +3691,12 @@ Flashcards.initialize([
 ],
 [
     "(I'm) not very good at speaking Spanish yet but (I) think that speaking with South American people will be very interesting.",
-    "_supein_ {語|go} wo {話す|hanasu} {事|koto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {南|minami} _amerika_ {人|jin} to {話す|hanasu} {事|koto} wa totemo {面白い|omoshiroi} to {思います|omoimasu}.",
-    "verb-plain + {事|こと} = doing ~ (nominalize)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc."
+    "_supein_ {語|go} wo {話すこと|hanasukoto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {南|minami} _amerika_ {人|jin} to {話すこと|hanasukoto} wa totemo {面白い|omoshiroi} to {思います|omoimasu}.",
+    "verb-plain + こと = doing ~ (nominalize)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc."
 ],
 [
     "(I) also like Spanish food very much but (I) can't make (it).",
-    "_supein_ no {料理|ryouri} mo totemo {好き|suki} desu ga {作る|tsukuru} {事|koto} wa {出来ません|dekimasen}.",
+    "_supein_ no {料理|ryouri} mo totemo {好き|suki} desu ga {作ること|tsukurukoto} wa {出来ません|dekimasen}.",
     "noun + {出来る｜できる} = can (do) noun"
 ],
 [
@@ -3766,13 +3766,13 @@ Flashcards.initialize([
 ],
 [
     "(I'm) not very good at speaking Japanese yet, but (I'm) interested in Japanese things.",
-    "{日本語|nihongo} wo {話す|hanasu} {事|koto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {日本|nihon} no {事|koto} ni kyoumi ga arimasu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverb-plain + {事|こと} = doing ~ (nominalize)"
+    "{日本語|nihongo} wo {話すこと|hanasukoto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {日本|nihon} no {事|koto} ni kyoumi ga arimasu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverb-plain + こと = doing ~ (nominalize)"
 ],
 [
     "(I) also like Japanese food very much, but (I) can't make (it).",
-    "{日本|nihon} no {料理|ryouri} mo totemo {好き|suki} desu ga {作る|tsukuru} {事|koto} wa {出来ません|dekimasen}.",
-    "verb-plain + {事|こと} = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
+    "{日本|nihon} no {料理|ryouri} mo totemo {好き|suki} desu ga {作ること|tsukurukoto} wa {出来ません|dekimasen}.",
+    "verb-plain + こと = doing ~ (nominalize)\nnoun + {出来る｜できる} = can (do) noun"
 ],
 [
     "(I) think Roger doesn't like sushi very much. Because (he) didn't eat (it) only a little. {から}",
@@ -3822,7 +3822,7 @@ Flashcards.initialize([
 [
     "Roger is good at playing tennis because (he) practices every day. {の で}",
     "_rojaa_ san wa {毎日|mainichi} {練習|renshuu} wo suru no de _tenisu_ wo suru {事|koto} ga {上手|jouzu} desu.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverb-plain + {事|こと} = doing ~ (nominalize)"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverb-plain + こと = doing ~ (nominalize)"
 ],
 [
     "(I) came to Japan because (I) want to study Japanese. {の で}",

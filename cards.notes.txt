@@ -91,7 +91,7 @@ noun を verb --> noun の verb stem + {方|kata}
 Plain
 -----
 verb-plain + {前|まえ} に = before doing ~
-verb-plain + {事|こと} = doing ~ (nominalize)
+verb-plain + こと = doing ~ (nominalize)
 noun + {出来る｜できる} = can (do) noun
 verb-plain + つもり = intend to ~
 verb-5-plain う --> お + う = plain volitional form ({行く|いく} --> {行こう|いこう})
@@ -124,4 +124,4 @@ verb-て-form + から = after doing verb, ...
 verb-て-form + は + いけません = doing verb is not allowed
 verb-て-form + は + だめ = must not do verb
 verb-て-form + ください = request
-verb-て-form + も + {良い|いい} = doing verb is allowed, (you) may do verb
+verb-て-form + も + いい = doing verb is allowed, (you) may do verb

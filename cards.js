@@ -711,7 +711,7 @@ Flashcards.initialize([
     ],
     [
         "(That's) good. (We'll) do that. Tonight what time is OK?",
-        "{\u826f\u3044|\u3044\u3044}\u3067\u3059\u306d\u3002\u305d\u3046\u3057\u307e\u3059\u3002{\u4eca\u591c|\u3053\u3093\u3084}{\u4f55\u6642|\u306a\u3093\u3058}\u304c{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
+        "\u3044\u3044\u3067\u3059\u306d\u3002\u305d\u3046\u3057\u307e\u3059\u3002{\u4eca\u591c|\u3053\u3093\u3084}{\u4f55\u6642|\u306a\u3093\u3058}\u304c\u3044\u3044\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -1466,7 +1466,7 @@ Flashcards.initialize([
     ],
     [
         "That person is nice.",
-        "\u3042\u306e{\u4eba|\u3072\u3068}\u306f{\u826f\u3044|\u3044\u3044}\u3067\u3059\u3002",
+        "\u3042\u306e{\u4eba|\u3072\u3068}\u306f\u3044\u3044\u3067\u3059\u3002",
         ""
     ],
     [
@@ -2261,7 +2261,7 @@ Flashcards.initialize([
     ],
     [
         "Hiking is good for the body, isn't it?",
-        "\u30cf\u30a4\u30ad\u30f3\u30b0\u306f{\u4f53|\u304b\u3089\u3060}\u306b{\u826f\u3044|\u3044\u3044}\u3067\u3059\u306d\u3002",
+        "\u30cf\u30a4\u30ad\u30f3\u30b0\u306f{\u4f53|\u304b\u3089\u3060}\u306b\u3044\u3044\u3067\u3059\u306d\u3002",
         ""
     ],
     [
@@ -2351,7 +2351,7 @@ Flashcards.initialize([
     ],
     [
         "\"You can call me Natsuko, you know.\" (Natsuko is OK.)",
-        "{\u590f\u5b50|\u306a\u3064\u3053}\u3067{\u826f\u3044|\u3044\u3044}\u3067\u3059\u3088\u3002",
+        "{\u590f\u5b50|\u306a\u3064\u3053}\u3067\u3044\u3044\u3067\u3059\u3088\u3002",
         ""
     ],
     [
@@ -2497,7 +2497,7 @@ Flashcards.initialize([
     [
         "(I) liked watching movies very much.",
         "{\u6620\u753b|\u3048\u3044\u304c}\u3092{\u898b\u308b\u3053\u3068|\u307f\u308b\u3053\u3068}\u304c\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3057\u305f\u3002",
-        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)"
+        "verb-plain + \u3053\u3068 = doing ~ (nominalize)"
     ],
     [
         "Because (I) liked shopping very much, (I) always went to shopping to the town.",
@@ -2566,13 +2566,13 @@ Flashcards.initialize([
     ],
     [
         "May (I) watch the tv?",
-        "\u30c6\u30ec\u30d3\u3092{\u898b\u3066|\u307f\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "\u30c6\u30ec\u30d3\u3092{\u898b\u3066|\u307f\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "(You) may eat here.",
-        "{\u6b64\u51e6|\u3053\u3053}\u3067{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "{\u6b64\u51e6|\u3053\u3053}\u3067{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3082\u3044\u3044\u3067\u3059\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "(You) are not allowed to eat here.",
@@ -2641,28 +2641,28 @@ Flashcards.initialize([
     ],
     [
         "May (I) go to the toilet?",
-        "\u30c8\u30a4\u30ec\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "\u30c8\u30a4\u30ec\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "May (I) listen to music here?",
-        "{\u6b64\u51e6|\u3053\u3053}\u3067{\u97f3\u697d|\u304a\u3093\u304c\u304f}\u3092{\u805e\u3044\u3066|\u304d\u3044\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "{\u6b64\u51e6|\u3053\u3053}\u3067{\u97f3\u697d|\u304a\u3093\u304c\u304f}\u3092{\u805e\u3044\u3066|\u304d\u3044\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "May (I) open the window? May (I) close the window?",
-        "{\u7a93|\u307e\u3069}\u3092{\u958b\u3051\u3066|\u3042\u3051\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002{\u7a93|\u307e\u3069}\u3092{\u9589\u3081\u3066|\u3057\u3081\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "{\u7a93|\u307e\u3069}\u3092{\u958b\u3051\u3066|\u3042\u3051\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002{\u7a93|\u307e\u3069}\u3092{\u9589\u3081\u3066|\u3057\u3081\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "May (I) enter this room?",
-        "{\u6b64\u306e|\u3053\u306e}{\u90e8\u5c4b|\u3078\u3084}\u306b{\u5165\u3063\u305f|\u306f\u3044\u3063\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "{\u6b64\u306e|\u3053\u306e}{\u90e8\u5c4b|\u3078\u3084}\u306b{\u5165\u3063\u305f|\u306f\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "May (I) take a bath?",
-        "\u304a\u3075\u308d\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "\u304a\u3075\u308d\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "(You are) not allowed to open that door.",
@@ -2711,13 +2711,13 @@ Flashcards.initialize([
     ],
     [
         "Men may take a bath from 5 o'clock until 7 o'clock, women from 7 o'clock until 9 o'clock.",
-        "\u3060\u3093\u305b\u3044\u306f{\u4e94\u6642|\u3054\u3058}\u304b\u3089{\u4e03\u6642|\u3057\u3061\u3058}\u307e\u3067\u304a\u3075\u308d\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u3002\u3058\u3087\u305b\u3044\u306f{\u4e03\u6642|\u3057\u3061\u3058}\u304b\u3089{\u4e5d\u6642|\u304f\u3058}\u307e\u3067\u3067\u3059\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "\u3060\u3093\u305b\u3044\u306f{\u4e94\u6642|\u3054\u3058}\u304b\u3089{\u4e03\u6642|\u3057\u3061\u3058}\u307e\u3067\u304a\u3075\u308d\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u3002\u3058\u3087\u305b\u3044\u306f{\u4e03\u6642|\u3057\u3061\u3058}\u304b\u3089{\u4e5d\u6642|\u304f\u3058}\u307e\u3067\u3067\u3059\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "Don't eat at the rooms. Please eat at the canteen.",
         "{\u90e8\u5c4b|\u3078\u3084}\u3067{\u98df\u3079\u3066|\u305f\u3079\u3066}\u306f\u3060\u3081\u3067\u3059\u3002{\u98df\u5802|\u3057\u3087\u304f\u3069\u3046}\u3067{\u98df\u3079\u3066|\u305f\u3079\u3066}\u304f\u3060\u3055\u3044\u3002",
-        "verb-\u3066-form + \u306f + \u3060\u3081 = must not do verb\nverb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "verb-\u3066-form + \u306f + \u3060\u3081 = must not do verb\nverb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "Rooms are separated? I can't believe it!",
@@ -2751,8 +2751,8 @@ Flashcards.initialize([
     ],
     [
         "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
-        "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u3068{\u8a71\u3057\u305f\u3044|\u306f\u306a\u3057\u305f\u3044}\u3070\u3042\u3044\u306f\u3001\u3057\u3087\u304f\u3044\u3093\u3057\u3064\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u3068{\u8a71\u3057\u305f\u3044|\u306f\u306a\u3057\u305f\u3044}\u3070\u3042\u3044\u306f\u3001\u3057\u3087\u304f\u3044\u3093\u3057\u3064\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "(It's) not allowed to go to the toilet during class.",
@@ -2761,8 +2761,8 @@ Flashcards.initialize([
     ],
     [
         "(You) may eat (your) lunch in the classroom.",
-        "{\u6559\u5ba4|\u304d\u3087\u3046\u3057\u3064}\u3067{\u663c\u3054\u306f\u3093|\u3072\u308b\u3054\u306f\u3093}\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "{\u6559\u5ba4|\u304d\u3087\u3046\u3057\u3064}\u3067{\u663c\u3054\u306f\u3093|\u3072\u308b\u3054\u306f\u3093}\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3082\u3044\u3044\u3067\u3059\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "Wearing accessories, earrings, etc. is not allowed.",
@@ -2786,8 +2786,8 @@ Flashcards.initialize([
     ],
     [
         "May (I) switch on the lights? Please switch off the lights.",
-        "{\u96fb\u6c17|\u3067\u3093\u304d}\u3092\u3064\u3051\u3066\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002{\u96fb\u6c17|\u3067\u3093\u304d}\u3092{\u6d88\u3057\u3066|\u3051\u3057\u3066}\u304f\u3060\u3055\u3044\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb\nverb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
+        "{\u96fb\u6c17|\u3067\u3093\u304d}\u3092\u3064\u3051\u3066\u3082\u3044\u3044\u3067\u3059\u304b\u3002{\u96fb\u6c17|\u3067\u3093\u304d}\u3092{\u6d88\u3057\u3066|\u3051\u3057\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb\nverb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
         "(You are) not allowed to sing in here.",
@@ -2801,13 +2801,13 @@ Flashcards.initialize([
     ],
     [
         "(You) may play (your) guitar in this room.",
-        "{\u6b64\u306e|\u3053\u306e}{\u90e8\u5c4b|\u3078\u3084}\u3067\u30ae\u30bf\u30fc\u3092\u3072\u3044\u3066\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "{\u6b64\u306e|\u3053\u306e}{\u90e8\u5c4b|\u3078\u3084}\u3067\u30ae\u30bf\u30fc\u3092\u3072\u3044\u3066\u3082\u3044\u3044\u3067\u3059\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "May (I) take a rest?",
-        "{\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067}\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
-        "verb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "{\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067}\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
+        "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "Please take off (your) shoes.",
@@ -3026,7 +3026,7 @@ Flashcards.initialize([
     ],
     [
         "(It's) a good part/place. (It's) a good place.",
-        "{\u826f\u3044|\u3044\u3044}{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053}\u3067\u3059\u3002{\u826f\u3044|\u3044\u3044}{\u5834\u6240|\u3070\u3057\u3087}\u3067\u3059\u3002",
+        "\u3044\u3044{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053}\u3067\u3059\u3002\u3044\u3044{\u5834\u6240|\u3070\u3057\u3087}\u3067\u3059\u3002",
         "{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location"
     ],
     [
@@ -3066,7 +3066,7 @@ Flashcards.initialize([
     ],
     [
         "(I'm) reading a very good book currently.",
-        "{\u4eca|\u3044\u307e}\u3068\u3066\u3082{\u826f\u3044|\u3044\u3044}{\u672c|\u307b\u3093}\u3092{\u8aad\u3093\u3067|\u3088\u3093\u3067}\u3044\u307e\u3059\u3002",
+        "{\u4eca|\u3044\u307e}\u3068\u3066\u3082\u3044\u3044{\u672c|\u307b\u3093}\u3092{\u8aad\u3093\u3067|\u3088\u3093\u3067}\u3044\u307e\u3059\u3002",
         "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
     [
@@ -3151,8 +3151,8 @@ Flashcards.initialize([
     ],
     [
         "May (I) try phoning Mr. Yamada?",
-        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3092\u3057\u3066\u307f\u3066\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
-        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb"
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3092\u3057\u3066\u307f\u3066\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
+        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "(I) want to try on this jacket.",
@@ -3306,8 +3306,8 @@ Flashcards.initialize([
     ],
     [
         "May (I) try this jacket?",
-        "{\u6b64\u306e|\u3053\u306e}\u30b8\u30e3\u30b1\u30c3\u30c8\u3092{\u7740\u3066|\u304d\u3066}\u307f\u3066\u3082{\u826f\u3044|\u3044\u3044}\u3067\u3059\u304b\u3002",
-        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb-\u3066-form + \u3082 + {\u826f\u3044|\u3044\u3044} = doing verb is allowed, (you) may do verb\n{\u7740\u308b|\u304d\u308b} -> {\u7740\u3066|\u304d\u3066}"
+        "{\u6b64\u306e|\u3053\u306e}\u30b8\u30e3\u30b1\u30c3\u30c8\u3092{\u7740\u3066|\u304d\u3066}\u307f\u3066\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
+        "verb-\u3066-form + \u307f\u308b = try doing ~\nverb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb\n{\u7740\u308b|\u304d\u308b} -> {\u7740\u3066|\u304d\u3066}"
     ],
     [
         "(I) no longer live in Tokyo.",
@@ -3356,12 +3356,12 @@ Flashcards.initialize([
     ],
     [
         "Eri can already swim.",
-        "\u3048\u308a\u3061\u3083\u3093\u306f\u3082\u3046{\u6cf3\u3050|\u304a\u3088\u3050}{\u4e8b|\u3053\u3068}{\u51fa\u6765\u307e\u3059|\u3067\u304d\u307e\u3059}\u3002",
-        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+        "\u3048\u308a\u3061\u3083\u3093\u306f\u3082\u3046{\u6cf3\u3050\u3053\u3068|\u304a\u3088\u3050\u3053\u3068}{\u51fa\u6765\u307e\u3059|\u3067\u304d\u307e\u3059}\u3002",
+        "verb-plain + \u3053\u3068 = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
     ],
     [
         "Roger likes to drink beer with (his) friends.",
-        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3068\u30d3\u30fc\u30eb\u3092{\u98f2\u3080|\u306e\u3080}{\u4e8b|\u3053\u3068}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3068\u30d3\u30fc\u30eb\u3092{\u98f2\u3080\u3053\u3068|\u306e\u3080\u3053\u3068}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -3396,33 +3396,33 @@ Flashcards.initialize([
     ],
     [
         "Naoe can speak English a little.",
-        "\u306a\u304a\u3048\u3055\u3093\u306f{\u5c11\u3057|\u3059\u3053\u3057}{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u8a71\u3059|\u306f\u306a\u3059}{\u4e8b|\u3053\u3068}\u304c{\u51fa\u6765\u307e\u3059|\u3067\u304d\u307e\u3059}\u3002",
-        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+        "\u306a\u304a\u3048\u3055\u3093\u306f{\u5c11\u3057|\u3059\u3053\u3057}{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u8a71\u3059\u3053\u3068|\u306f\u306a\u3059\u3053\u3068}\u304c{\u51fa\u6765\u307e\u3059|\u3067\u304d\u307e\u3059}\u3002",
+        "verb-plain + \u3053\u3068 = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
     ],
     [
         "I can't eat raw fish.",
-        "{\u79c1|\u308f\u305f\u3057}\u306f\u3055\u3057\u307f\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}{\u4e8b|\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
-        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u3055\u3057\u307f\u3092{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
+        "verb-plain + \u3053\u3068 = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
     ],
     [
         "Rie likes doing cooking.",
         "\u308a\u3048\u3055\u3093\u306f{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3092\u3059\u308b{\u4e8b|\u3053\u3068}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
-        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)"
+        "verb-plain + \u3053\u3068 = doing ~ (nominalize)"
     ],
     [
         "Yuki is good at studying Maths but bad at English.",
         "\u3086\u304d\u3055\u3093\u306f\u3059\u3046\u304c\u304f\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3059\u308b{\u4e8b|\u3053\u3068}\u304c\u3068\u304f\u3044\u3067\u3059\u304c{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u306b\u304c\u3066\u3067\u3059\u3002",
-        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "verb-plain + \u3053\u3068 = doing ~ (nominalize)\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Speaking with Japanese people is interesting.",
-        "{\u65e5\u672c\u4eba|\u306b\u307b\u3093\u3058\u3093}\u3068{\u8a71\u3059|\u306f\u306a\u3059}{\u4e8b|\u3053\u3068}\u304c{\u9762\u767d\u3044|\u304a\u3082\u3057\u308d\u3044}\u3067\u3059\u3002",
-        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)"
+        "{\u65e5\u672c\u4eba|\u306b\u307b\u3093\u3058\u3093}\u3068{\u8a71\u3059\u3053\u3068|\u306f\u306a\u3059\u3053\u3068}\u304c{\u9762\u767d\u3044|\u304a\u3082\u3057\u308d\u3044}\u3067\u3059\u3002",
+        "verb-plain + \u3053\u3068 = doing ~ (nominalize)"
     ],
     [
         "Roger is good at writing kanji.",
-        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u6f22\u5b57|\u304b\u3093\u3058}\u3092{\u66f8\u304f|\u304b\u304f}{\u4e8b|\u3053\u3068}\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
-        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u6f22\u5b57|\u304b\u3093\u3058}\u3092{\u66f8\u304f\u3053\u3068|\u304b\u304f\u3053\u3068}\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
+        "verb-plain + \u3053\u3068 = doing ~ (nominalize)\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Recently (I'm) learning judo.",
@@ -3576,7 +3576,7 @@ Flashcards.initialize([
     ],
     [
         "Every week (you) say the same thing.",
-        "{\u6bce\u9031|\u307e\u3044\u3057\u3085\u3046}{\u540c\u3058|\u304a\u306a\u3058}{\u4e8b|\u3053\u3068}\u3092{\u8a00\u3044\u307e\u3059|\u3044\u3044\u307e\u3059}\u3002",
+        "{\u6bce\u9031|\u307e\u3044\u3057\u3085\u3046}{\u540c\u3058\u3053\u3068|\u304a\u306a\u3058\u3053\u3068}\u3092{\u8a00\u3044\u307e\u3059|\u3044\u3044\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -3651,13 +3651,13 @@ Flashcards.initialize([
     ],
     [
         "Why does Miki want to watch baseball? Because (she) likes watching sports. {\u304b\u3089}",
-        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u3069\u3046\u3057\u3066\u3084\u304d\u3085\u3046\u3092{\u898b\u305f\u3044|\u307f\u305f\u3044}\u3067\u3059\u304b\u3002\u30b9\u30dd\u30fc\u30c4\u3092{\u898b\u308b|\u307f\u308b}{\u4e8b|\u3053\u3068}\u304c{\u597d\u304d|\u3059\u304d}\u3060\u304b\u3089\u3067\u3059\u3002",
-        "verb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u3069\u3046\u3057\u3066\u3084\u304d\u3085\u3046\u3092{\u898b\u305f\u3044|\u307f\u305f\u3044}\u3067\u3059\u304b\u3002\u30b9\u30dd\u30fc\u30c4\u3092{\u898b\u308b\u3053\u3068|\u307f\u308b\u3053\u3068}\u304c{\u597d\u304d|\u3059\u304d}\u3060\u304b\u3089\u3067\u3059\u3002",
+        "verb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb-plain + \u3053\u3068 = doing ~ (nominalize)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "Why can't Roger eat meat? Because (he's) vegetarian. {\u304b\u3089}",
-        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f\u3069\u3046\u3057\u3066{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}{\u4e8b|\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u304b\u3002\u30d9\u30b8\u30bf\u30ea\u30a2\u30f3\u3060\u304b\u3089\u3067\u3059\u3002",
-        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f\u3069\u3046\u3057\u3066{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u304b\u3002\u30d9\u30b8\u30bf\u30ea\u30a2\u30f3\u3060\u304b\u3089\u3067\u3059\u3002",
+        "verb-plain + \u3053\u3068 = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "Erm... are (you) free tonight?",
@@ -3681,7 +3681,7 @@ Flashcards.initialize([
     ],
     [
         "I'm vegetarian so (I) can't eat meat. {\u306e \u3067} But fish is OK. (Because I) can eat (that).",
-        "\u307c\u304f\u306f\u30d9\u30b8\u30bf\u30ea\u30a2\u30f3\u306a\u306e\u3067{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}{\u4e8b|\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002\u3067\u3082{\u9b5a|\u3055\u304b\u306a}\u306f{\u5927\u4e08\u592b|\u3060\u3044\u3058\u3087\u3046\u3076}\u3067\u3059\u3002{\u98df\u3079\u308b|\u305f\u3079\u308b}{\u4e8b|\u3053\u3068}\u304c{\u51fa\u6765\u308b|\u3067\u304d\u308b}\u3093\u3067\u3059\u3002",
+        "\u307c\u304f\u306f\u30d9\u30b8\u30bf\u30ea\u30a2\u30f3\u306a\u306e\u3067{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002\u3067\u3082{\u9b5a|\u3055\u304b\u306a}\u306f{\u5927\u4e08\u592b|\u3060\u3044\u3058\u3087\u3046\u3076}\u3067\u3059\u3002{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c{\u51fa\u6765\u308b|\u3067\u304d\u308b}\u3093\u3067\u3059\u3002",
         "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
@@ -3691,12 +3691,12 @@ Flashcards.initialize([
     ],
     [
         "(I'm) not very good at speaking Spanish yet but (I) think that speaking with South American people will be very interesting.",
-        "\u30b9\u30da\u30a4\u30f3{\u8a9e|\u3054}\u3092{\u8a71\u3059|\u306f\u306a\u3059}{\u4e8b|\u3053\u3068}\u304c{\u672a\u3060|\u307e\u3060}{\u4f59\u308a|\u3042\u307e\u308a}{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3058\u3083\u3042\u308a\u307e\u305b\u3093\u304c{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab{\u4eba|\u3058\u3093}\u3068{\u8a71\u3059|\u306f\u306a\u3059}{\u4e8b|\u3053\u3068}\u306f\u3068\u3066\u3082{\u9762\u767d\u3044|\u304a\u3082\u3057\u308d\u3044}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc."
+        "\u30b9\u30da\u30a4\u30f3{\u8a9e|\u3054}\u3092{\u8a71\u3059\u3053\u3068|\u306f\u306a\u3059\u3053\u3068}\u304c{\u672a\u3060|\u307e\u3060}{\u4f59\u308a|\u3042\u307e\u308a}{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3058\u3083\u3042\u308a\u307e\u305b\u3093\u304c{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab{\u4eba|\u3058\u3093}\u3068{\u8a71\u3059\u3053\u3068|\u306f\u306a\u3059\u3053\u3068}\u306f\u3068\u3066\u3082{\u9762\u767d\u3044|\u304a\u3082\u3057\u308d\u3044}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
+        "verb-plain + \u3053\u3068 = doing ~ (nominalize)\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc."
     ],
     [
         "(I) also like Spanish food very much but (I) can't make (it).",
-        "\u30b9\u30da\u30a4\u30f3\u306e{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3082\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304c{\u4f5c\u308b|\u3064\u304f\u308b}{\u4e8b|\u3053\u3068}\u306f{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
+        "\u30b9\u30da\u30a4\u30f3\u306e{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3082\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304c{\u4f5c\u308b\u3053\u3068|\u3064\u304f\u308b\u3053\u3068}\u306f{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
         "noun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
     ],
     [
@@ -3766,13 +3766,13 @@ Flashcards.initialize([
     ],
     [
         "(I'm) not very good at speaking Japanese yet, but (I'm) interested in Japanese things.",
-        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u8a71\u3059|\u306f\u306a\u3059}{\u4e8b|\u3053\u3068}\u304c{\u672a\u3060|\u307e\u3060}{\u4f59\u308a|\u3042\u307e\u308a}{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3058\u3083\u3042\u308a\u307e\u305b\u3093\u304c{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u4e8b|\u3053\u3068}\u306b\u304d\u3087\u3046\u307f\u304c\u3042\u308a\u307e\u3059\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\nverb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)"
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u8a71\u3059\u3053\u3068|\u306f\u306a\u3059\u3053\u3068}\u304c{\u672a\u3060|\u307e\u3060}{\u4f59\u308a|\u3042\u307e\u308a}{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3058\u3083\u3042\u308a\u307e\u305b\u3093\u304c{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u4e8b|\u3053\u3068}\u306b\u304d\u3087\u3046\u307f\u304c\u3042\u308a\u307e\u3059\u3002",
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\nverb-plain + \u3053\u3068 = doing ~ (nominalize)"
     ],
     [
         "(I) also like Japanese food very much, but (I) can't make (it).",
-        "{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3082\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304c{\u4f5c\u308b|\u3064\u304f\u308b}{\u4e8b|\u3053\u3068}\u306f{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
-        "verb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3082\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304c{\u4f5c\u308b\u3053\u3068|\u3064\u304f\u308b\u3053\u3068}\u306f{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
+        "verb-plain + \u3053\u3068 = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
     ],
     [
         "(I) think Roger doesn't like sushi very much. Because (he) didn't eat (it) only a little. {\u304b\u3089}",
@@ -3822,7 +3822,7 @@ Flashcards.initialize([
     [
         "Roger is good at playing tennis because (he) practices every day. {\u306e \u3067}",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046}\u3092\u3059\u308b\u306e\u3067\u30c6\u30cb\u30b9\u3092\u3059\u308b{\u4e8b|\u3053\u3068}\u304c{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3067\u3059\u3002",
-        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\nverb-plain + {\u4e8b|\u3053\u3068} = doing ~ (nominalize)"
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\nverb-plain + \u3053\u3068 = doing ~ (nominalize)"
     ],
     [
         "(I) came to Japan because (I) want to study Japanese. {\u306e \u3067}",
