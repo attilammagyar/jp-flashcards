@@ -3937,7 +3937,7 @@ Flashcards.initialize([
 [
     "(I) have never been abroad.",
     "{外国|gaikoku} he {行ったこと|ittakoto} ga arimasen.",
-    ""
+    "verb-た + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
 ],
 [
     "Every day after eating dinner (I) watch TV.",
@@ -3972,6 +3972,26 @@ Flashcards.initialize([
 [
     "(I) have lived abroad.",
     "{外国|gaikoku} ni {住んで|sunde} ita koto ga arimasu.",
-    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-た + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+],
+[
+    "(I) have never seen Mount Fuji.",
+    "fujisan wo {見た|mita} koto ga arimasen.",
+    "verb-た + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+],
+[
+    "(I) have written letters in Japanese.",
+    "{日本語|nihongo} de {手紙|tegami} wo {書いた|kaita} koto ga arimasu.",
+    "verb-た + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+],
+[
+    "(I) have never read a Japanese newspaper.",
+    "{日本語|nihongo} no {新聞|shinbun} wo {読んだ|yonda} koto ga arimasen.",
+    "verb-た + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+],
+[
+    "(I) haven't been to South America.",
+    "minami _amerika_ ni {行った|itta} koto ga arimasen.",
+    "verb-た + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
 ]
 ])

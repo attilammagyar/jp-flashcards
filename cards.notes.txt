@@ -125,3 +125,7 @@ verb-て-form + は + いけません = doing verb is not allowed
 verb-て-form + は + だめ = must not do verb
 verb-て-form + ください = request
 verb-て-form + も + いい = doing verb is allowed, (you) may do verb
+
+た-form
+-------
+verb-た + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences

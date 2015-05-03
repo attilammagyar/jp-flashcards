@@ -3937,7 +3937,7 @@ Flashcards.initialize([
     [
         "(I) have never been abroad.",
         "{\u5916\u56fd|\u304c\u3044\u3053\u304f}\u3078{\u884c\u3063\u305f\u3053\u3068|\u3044\u3063\u305f\u3053\u3068}\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
-        ""
+        "verb-\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
     ],
     [
         "Every day after eating dinner (I) watch TV.",
@@ -3972,6 +3972,26 @@ Flashcards.initialize([
     [
         "(I) have lived abroad.",
         "{\u5916\u56fd|\u304c\u3044\u3053\u304f}\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u305f\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002",
-        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+    ],
+    [
+        "(I) have never seen Mount Fuji.",
+        "\u3075\u3058\u3055\u3093\u3092{\u898b\u305f|\u307f\u305f}\u3053\u3068\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
+        "verb-\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+    ],
+    [
+        "(I) have written letters in Japanese.",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3067{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u3044\u305f|\u304b\u3044\u305f}\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002",
+        "verb-\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+    ],
+    [
+        "(I) have never read a Japanese newspaper.",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u306e{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3092{\u8aad\u3093\u3060|\u3088\u3093\u3060}\u3053\u3068\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
+        "verb-\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+    ],
+    [
+        "(I) haven't been to South America.",
+        "\u307f\u306a\u307f\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u3063\u305f|\u3044\u3063\u305f}\u3053\u3068\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
+        "verb-\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
     ]
 ])
