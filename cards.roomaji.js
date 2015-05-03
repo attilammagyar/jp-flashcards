@@ -3928,5 +3928,50 @@ Flashcards.initialize([
     "(My) parents went back to England yesterday. {plain}",
     "{昨日|kinou} {両親|ryoushin} wa _igirisu_ ni {帰った|kaetta}.",
     ""
+],
+[
+    "Last night (I) ate a lot of sushi at the sushi bar. {plain}",
+    "{昨夜|yuube} sushiyasan de sushi wo ippai {食べた|tabeta}.",
+    ""
+],
+[
+    "(I) have never been abroad.",
+    "{外国|gaikoku} he {行ったこと|ittakoto} ga arimasen.",
+    ""
+],
+[
+    "Every day after eating dinner (I) watch TV.",
+    "{毎日|mainichi} bangohan wo {食べた|tabeta} {後|ato} de _terebi_ wo {見ます|mimasu}.",
+    ""
+],
+[
+    "(You) should take this medicine.",
+    "kono kusuri wo {飲んだ|nonda} hou ga ii desu yo.",
+    ""
+],
+[
+    "(I) drank wine and talked with friends at the party.",
+    "パーティー de _wain_ wo {飲んだり|nondari} {友達|tomodachi} to {話したり|hanashitari} shimashita.",
+    ""
+],
+[
+    "Tokyo is bigger than London.",
+    "{東京|toukyou} no {方|hou} ga _rondon_ yori {大きい|ookii} desu.",
+    "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+],
+[
+    "When (I) lived in America, (I) spoke English every day. {plain}",
+    "_amerika_ ni {住んで|sunde} ita {時|toki} {毎日|mainichi} {英語|eigo} wo {話した|hanashita}.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I) have completely forgotten all (my) kanji. {plain}",
+    "{漢字|kanji} wo {全部|zenbu} {忘れて|wasurete} shimatta.",
+    ""
+],
+[
+    "(I) have lived abroad.",
+    "{外国|gaikoku} ni {住んで|sunde} ita koto ga arimasu.",
+    "verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ]
 ])
