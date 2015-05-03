@@ -751,7 +751,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) see those chopsticks?",
-    "{其の|sono} ohashi wo {見せて|misete} kudasai.",
+    "{其の|sono} {お箸|ohashi} wo {見せて|misete} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -1351,7 +1351,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to eat rice with chopsticks.",
-    "ohashi de gohan wo {食べたい|tabetai} desu.",
+    "{お箸|ohashi} de gohan wo {食べたい|tabetai} desu.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\n~たい is usually used only in first person or in questions for the second person"
 ],
 [

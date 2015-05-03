@@ -751,7 +751,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) see those chopsticks?",
-        "{\u5176\u306e|\u305d\u306e}\u304a\u306f\u3057\u3092{\u898b\u305b\u3066|\u307f\u305b\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "{\u5176\u306e|\u305d\u306e}{\u304a\u7bb8|\u304a\u306f\u3057}\u3092{\u898b\u305b\u3066|\u307f\u305b\u3066}\u304f\u3060\u3055\u3044\u3002",
         "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
@@ -1351,7 +1351,7 @@ Flashcards.initialize([
     ],
     [
         "(I) want to eat rice with chopsticks.",
-        "\u304a\u306f\u3057\u3067\u3054\u306f\u3093\u3092{\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}\u3067\u3059\u3002",
+        "{\u304a\u7bb8|\u304a\u306f\u3057}\u3067\u3054\u306f\u3093\u3092{\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}\u3067\u3059\u3002",
         "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
