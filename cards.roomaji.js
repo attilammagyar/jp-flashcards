@@ -1136,7 +1136,7 @@ Flashcards.initialize([
 ],
 [
     "If (you) turn left at the crossroads, the bank will be on the right side.",
-    "kousaten wo {左|hidari} ni {曲がる|magaru} to {銀行|ginkou} wa {右側|migigawa} ni arimasu.",
+    "{交差点|kousaten} wo {左|hidari} ni {曲がる|magaru} to {銀行|ginkou} wa {右側|migigawa} ni arimasu.",
     "A-dictionary-form とB = if A then B"
 ],
 [
