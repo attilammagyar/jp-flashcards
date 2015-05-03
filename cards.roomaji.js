@@ -2786,7 +2786,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) switch on the lights? Please switch off the lights.",
-    "{電気|denki} wo tsukete mo ii desu ka. {電気|denki} wo {消して|keshite} kudasai.",
+    "{電気|denki} wo {点けて|tsukete} mo ii desu ka. {電気|denki} wo {消して|keshite} kudasai.",
     "verb-て-form + も + いい = doing verb is allowed, (you) may do verb\nverb-て-form + ください = request"
 ],
 [
@@ -2836,7 +2836,7 @@ Flashcards.initialize([
 ],
 [
     "turn on/attach",
-    "tsukeru, tsukemasu, tsukete",
+    "{点ける|tsukeru}, {点けます|tsukemasu}, {点けて|tsukete}",
     ""
 ],
 [
