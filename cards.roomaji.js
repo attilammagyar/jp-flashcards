@@ -2811,7 +2811,7 @@ Flashcards.initialize([
 ],
 [
     "Please take off (your) shoes.",
-    "kutsu wo nuide kudasai.",
+    "kutsu wo {脱いで|nuide} kudasai.",
     "verb-て-form + ください = request"
 ],
 [
@@ -2841,7 +2841,7 @@ Flashcards.initialize([
 ],
 [
     "take off {clothes}",
-    "nugu, nugimasu, nuide",
+    "{脱ぐ|nugu}, {脱ぎます|nugimasu}, {脱いで|nuide}",
     ""
 ],
 [

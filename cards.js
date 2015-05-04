@@ -2811,7 +2811,7 @@ Flashcards.initialize([
     ],
     [
         "Please take off (your) shoes.",
-        "\u304f\u3064\u3092\u306c\u3044\u3067\u304f\u3060\u3055\u3044\u3002",
+        "\u304f\u3064\u3092{\u8131\u3044\u3067|\u306c\u3044\u3067}\u304f\u3060\u3055\u3044\u3002",
         "verb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
@@ -2841,7 +2841,7 @@ Flashcards.initialize([
     ],
     [
         "take off {clothes}",
-        "\u306c\u3050\u3001\u306c\u304e\u307e\u3059\u3001\u306c\u3044\u3067",
+        "{\u8131\u3050|\u306c\u3050}\u3001{\u8131\u304e\u307e\u3059|\u306c\u304e\u307e\u3059}\u3001{\u8131\u3044\u3067|\u306c\u3044\u3067}",
         ""
     ],
     [
