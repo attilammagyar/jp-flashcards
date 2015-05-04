@@ -2562,7 +2562,7 @@ Flashcards.initialize([
     [
         "In the evening, after eating dinner, (I) send emails on (my) computer.",
         "{\u591c|\u3088\u308b}\u3070\u3093\u3054\u306f\u3093\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u304b\u3089\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3067e\u30e1\u30fc\u30eb\u3092{\u51fa\u3057\u307e\u3059|\u3060\u3057\u307e\u3059}\u3002",
-        "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
+        "verb-\u3066-form + \u304b\u3089 = after doing ~, since doing ~"
     ],
     [
         "May (I) watch the tv?",
@@ -2627,17 +2627,17 @@ Flashcards.initialize([
     [
         "After (I've) studied Japanese, (I) usually relax.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u3066\u304b\u3089\u3001\u305f\u3044\u3066\u3044\u3054\u308d\u3054\u308d\u3057\u307e\u3059\u3002",
-        "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
+        "verb-\u3066-form + \u304b\u3089 = after doing ~, since doing ~"
     ],
     [
         "After (I'd) phoned my parents, (I) went to (my) friend's house.",
         "{\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093}\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3057\u3066\u304b\u3089\u3001{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306e{\u5bb6|\u3046\u3061}\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
+        "verb-\u3066-form + \u304b\u3089 = after doing ~, since doing ~"
     ],
     [
         "After reading the newspaper, (I) cleaned the house.",
         "{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3092{\u8aad\u3093\u3067|\u3088\u3093\u3067}\u304b\u3089\u3001{\u5bb6|\u3046\u3061}\u3092{\u6383\u9664|\u305d\u3046\u3058}\u3057\u307e\u3057\u305f\u3002",
-        "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
+        "verb-\u3066-form + \u304b\u3089 = after doing ~, since doing ~"
     ],
     [
         "May (I) go to the toilet?",
@@ -2737,7 +2737,7 @@ Flashcards.initialize([
     [
         "After returning home (I) occasionally clean up the house.",
         "{\u5bb6|\u3046\u3061}\u306b{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066}\u304b\u3089\u305f\u307e\u306b{\u5bb6|\u3046\u3061}\u3092{\u6383\u9664|\u305d\u3046\u3058}\u3057\u307e\u3059\u3002",
-        "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
+        "verb-\u3066-form + \u304b\u3089 = after doing ~, since doing ~"
     ],
     [
         "(I) watch TV, make dinner and do work from 7 o'clock in the evening.",
@@ -2786,7 +2786,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) switch on the lights? Please switch off the lights.",
-        "{\u96fb\u6c17|\u3067\u3093\u304d}\u3092{\u70b9\u3051\u308b|\u3064\u3051\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002{\u96fb\u6c17|\u3067\u3093\u304d}\u3092{\u6d88\u3057\u3066|\u3051\u3057\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "{\u96fb\u6c17|\u3067\u3093\u304d}\u3092{\u70b9\u3051\u3066|\u3064\u3051\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002{\u96fb\u6c17|\u3067\u3093\u304d}\u3092{\u6d88\u3057\u3066|\u3051\u3057\u3066}\u304f\u3060\u3055\u3044\u3002",
         "verb-\u3066-form + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb\nverb-\u3066-form + \u304f\u3060\u3055\u3044 = request"
     ],
     [
@@ -2836,7 +2836,7 @@ Flashcards.initialize([
     ],
     [
         "turn on/attach",
-        "\u3064\u3051\u308b\u3001\u3064\u3051\u307e\u3059\u3001\u3064\u3051\u3066",
+        "{\u70b9\u3051\u308b|\u3064\u3051\u308b}\u3001{\u70b9\u3051\u307e\u3059|\u3064\u3051\u307e\u3059}\u3001{\u70b9\u3051\u3066|\u3064\u3051\u3066}",
         ""
     ],
     [
@@ -3802,7 +3802,7 @@ Flashcards.initialize([
     [
         "After returning (home, I) phoned Roger and said good night.",
         "{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066}\u304b\u3089\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3057\u3066{\u304a\u4f11\u307f\u306a\u3055\u3044|\u304a\u3084\u3059\u307f\u306a\u3055\u3044}\u3068{\u8a00\u3044\u307e\u3057\u305f|\u3044\u3044\u307e\u3057\u305f}\u3002",
-        "verb-\u3066-form + \u304b\u3089 = after doing verb, ..."
+        "verb-\u3066-form + \u304b\u3089 = after doing ~, since doing ~"
     ],
     [
         "After that, (we) went to a bar and drank a lot of beer until late.",
@@ -3993,5 +3993,35 @@ Flashcards.initialize([
         "(I) haven't been to South America.",
         "\u307f\u306a\u307f\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u3063\u305f|\u3044\u3063\u305f}\u3053\u3068\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
         "verb-\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+    ],
+    [
+        "Since (I) came to Japan, (I) have been studying Japanese. After (I) arrived to Japan, (I) wrote a letter to (my) mom.",
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u304b\u3089\u3001{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u3066\u3044\u307e\u3059\u3002{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u7740\u3044\u305f|\u3064\u3044\u305f}{\u5f8c|\u3042\u3068}\u3067{\u6bcd|\u306f\u306f}\u306b{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u304d\u307e\u3057\u305f|\u304b\u304d\u307e\u3057\u305f}\u3002",
+        "verb-\u3066-form + \u304b\u3089 = after doing ~, since doing ~\nverb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb-\u3066-form + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "After (I) took a shower, (I) ate breakfast.",
+        "\u30b7\u30e3\u30ef\u30fc\u3092{\u6d74\u3073\u305f|\u3042\u3073\u305f}{\u5f8c|\u3042\u3068}\u3067{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3057\u305f|\u305f\u3079\u307e\u3057\u305f}",
+        "verb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+    ],
+    [
+        "After (I) drank a beer, (I) went to bed right away.",
+        "\u30d3\u30fc\u30eb\u3092{\u98f2\u3093\u3060|\u306e\u3093\u3060}{\u5f8c|\u3042\u3068}\u3067\u3059\u3050{\u5bdd\u307e\u3057\u305f|\u306d\u307e\u3057\u305f}\u3002",
+        "verb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+    ],
+    [
+        "After doing homework, (I) went to a party.",
+        "{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044}\u3092\u3057\u305f{\u5f8c|\u3042\u3068}\u3067\u30d1\u30fc\u30c6\u30a3\u30fc\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "verb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+    ],
+    [
+        "After returning home, (I) phoned to a friend.",
+        "{\u5bb6|\u3046\u3061}\u306b{\u5e30\u3063\u305f|\u304b\u3048\u3063\u305f}{\u5f8c|\u3042\u3068}\u3067{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3057\u307e\u3057\u305f\u3002",
+        "verb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+    ],
+    [
+        "After the concert, (I) went to a bar.",
+        "\u30b3\u30f3\u30b5\u30fc\u30c8\u306e{\u5f8c|\u3042\u3068}\u3067\u30d0\u30fc\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        ""
     ]
 ])

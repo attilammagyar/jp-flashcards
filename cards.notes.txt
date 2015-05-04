@@ -120,7 +120,7 @@ verb-て-form + いる = be (in the state of) doing ~, emphasize regular habitua
 motion-verb-て-form + いる = (temporarily) moved and is still there (never continuous present!)
 verb-て-form + いました = was (in the state of) doing ~, emphasize regular habitual action
 verb-て-form + みる = try doing ~
-verb-て-form + から = after doing verb, ...
+verb-て-form + から = after doing ~, since doing ~
 verb-て-form + は + いけません = doing verb is not allowed
 verb-て-form + は + だめ = must not do verb
 verb-て-form + ください = request
@@ -129,3 +129,4 @@ verb-て-form + も + いい = doing verb is allowed, (you) may do verb
 た-form
 -------
 verb-た + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences
+verb-た + {後|あと} + で = after (finished) doing ~

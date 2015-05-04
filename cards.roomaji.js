@@ -2562,7 +2562,7 @@ Flashcards.initialize([
 [
     "In the evening, after eating dinner, (I) send emails on (my) computer.",
     "{夜|yoru} bangohan wo {食べて|tabete} kara _konpyuutaa_ de *e*_meeru_ wo {出します|dashimasu}.",
-    "verb-て-form + から = after doing verb, ..."
+    "verb-て-form + から = after doing ~, since doing ~"
 ],
 [
     "May (I) watch the tv?",
@@ -2627,17 +2627,17 @@ Flashcards.initialize([
 [
     "After (I've) studied Japanese, (I) usually relax.",
     "{日本語|nihongo} wo {勉強|benkyou} shite kara, taitei gorogoro shimasu.",
-    "verb-て-form + から = after doing verb, ..."
+    "verb-て-form + から = after doing ~, since doing ~"
 ],
 [
     "After (I'd) phoned my parents, (I) went to (my) friend's house.",
     "{両親|ryoushin} ni {電話|denwa} shite kara, {友達|tomodachi} no {家|uchi} ni {行きました|ikimashita}.",
-    "verb-て-form + から = after doing verb, ..."
+    "verb-て-form + から = after doing ~, since doing ~"
 ],
 [
     "After reading the newspaper, (I) cleaned the house.",
     "{新聞|shinbun} wo {読んで|yonde} kara, {家|uchi} wo {掃除|souji} shimashita.",
-    "verb-て-form + から = after doing verb, ..."
+    "verb-て-form + から = after doing ~, since doing ~"
 ],
 [
     "May (I) go to the toilet?",
@@ -2737,7 +2737,7 @@ Flashcards.initialize([
 [
     "After returning home (I) occasionally clean up the house.",
     "{家|uchi} ni {帰って|kaette} kara tamani {家|uchi} wo {掃除|souji} shimasu.",
-    "verb-て-form + から = after doing verb, ..."
+    "verb-て-form + から = after doing ~, since doing ~"
 ],
 [
     "(I) watch TV, make dinner and do work from 7 o'clock in the evening.",
@@ -3802,7 +3802,7 @@ Flashcards.initialize([
 [
     "After returning (home, I) phoned Roger and said good night.",
     "{帰って|kaette} kara _rojaa_ san ni {電話|denwa} shite {お休みなさい|oyasuminasai} to {言いました|iimashita}.",
-    "verb-て-form + から = after doing verb, ..."
+    "verb-て-form + から = after doing ~, since doing ~"
 ],
 [
     "After that, (we) went to a bar and drank a lot of beer until late.",
@@ -3993,5 +3993,35 @@ Flashcards.initialize([
     "(I) haven't been to South America.",
     "minami _amerika_ ni {行った|itta} koto ga arimasen.",
     "verb-た + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+],
+[
+    "Since (I) came to Japan, (I) have been studying Japanese. After (I) arrived to Japan, (I) wrote a letter to (my) mom.",
+    "{日本|nihon} ni {来て|kite} kara, {日本語|nihongo} wo {勉強|benkyou} shite imasu. {日本|nihon} ni {着いた|tsuita} {後|ato} de {母|haha} ni {手紙|tegami} wo {書きました|kakimashita}.",
+    "verb-て-form + から = after doing ~, since doing ~\nverb-た + {後|あと} + で = after (finished) doing ~\nverb-て-form + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "After (I) took a shower, (I) ate breakfast.",
+    "_shawaa_ wo {浴びた|abita} {後|ato} de {朝ごはん|asagohan} wo {食べました|tabemashita}",
+    "verb-た + {後|あと} + で = after (finished) doing ~"
+],
+[
+    "After (I) drank a beer, (I) went to bed right away.",
+    "_biiru_ wo {飲んだ|nonda} {後|ato} de sugu {寝ました|nemashita}.",
+    "verb-た + {後|あと} + で = after (finished) doing ~"
+],
+[
+    "After doing homework, (I) went to a party.",
+    "{宿題|shukudai} wo shita {後|ato} de  パーティー ni {行きました|ikimashita}.",
+    "verb-た + {後|あと} + で = after (finished) doing ~"
+],
+[
+    "After returning home, (I) phoned to a friend.",
+    "{家|uchi} ni {帰った|kaetta} {後|ato} de {友達|tomodachi} ni {電話|denwa} shimashita.",
+    "verb-た + {後|あと} + で = after (finished) doing ~"
+],
+[
+    "After the concert, (I) went to a bar.",
+    "_konsaato_ no {後|ato} de _baa_ ni {行きました|ikimashita}.",
+    ""
 ]
 ])
