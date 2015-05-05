@@ -3946,8 +3946,8 @@ Flashcards.initialize([
 ],
 [
     "(You) should take this medicine.",
-    "kono kusuri wo {飲んだ|nonda} hou ga ii desu yo.",
-    ""
+    "kono kusuri wo {飲んだ|nonda} {方|hou} ga ii desu yo.",
+    "verb-た + {方|ほう} + が + いい = you'd better do ~, you should do ~"
 ],
 [
     "(I) drank wine and talked with friends at the party.",
@@ -4023,5 +4023,25 @@ Flashcards.initialize([
     "After the concert, (I) went to a bar.",
     "_konsaato_ no {後|ato} de _baa_ ni {行きました|ikimashita}.",
     ""
+],
+[
+    "(You'd) better do (you) homework tonight.",
+    "{今晩|konban} {宿題|shukudai} wo shita {方|hou} ga ii desu yo.",
+    "verb-た + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+],
+[
+    "(You) should probably make a phone call.",
+    "{電話|denwa} shita {方|hou} ga ii deshou.",
+    "verb-た + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+],
+[
+    "The big one is better than the small one.",
+    "{小さい|chiisai} no yori {大きい|ookii} {方|hou} ga ii desu.",
+    "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+],
+[
+    "(You) should probably send an email.",
+    "*e*_meeru_ wo {出した|dashita} {方|hou} ga ii deshou.",
+    "verb-た + {方|ほう} + が + いい = you'd better do ~, you should do ~"
 ]
 ])

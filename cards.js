@@ -3946,8 +3946,8 @@ Flashcards.initialize([
     ],
     [
         "(You) should take this medicine.",
-        "\u3053\u306e\u304f\u3059\u308a\u3092{\u98f2\u3093\u3060|\u306e\u3093\u3060}\u307b\u3046\u304c\u3044\u3044\u3067\u3059\u3088\u3002",
-        ""
+        "\u3053\u306e\u304f\u3059\u308a\u3092{\u98f2\u3093\u3060|\u306e\u3093\u3060}{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3059\u3088\u3002",
+        "verb-\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
     ],
     [
         "(I) drank wine and talked with friends at the party.",
@@ -4023,5 +4023,25 @@ Flashcards.initialize([
         "After the concert, (I) went to a bar.",
         "\u30b3\u30f3\u30b5\u30fc\u30c8\u306e{\u5f8c|\u3042\u3068}\u3067\u30d0\u30fc\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
         ""
+    ],
+    [
+        "(You'd) better do (you) homework tonight.",
+        "{\u4eca\u6669|\u3053\u3093\u3070\u3093}{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044}\u3092\u3057\u305f{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3059\u3088\u3002",
+        "verb-\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+    ],
+    [
+        "(You) should probably make a phone call.",
+        "{\u96fb\u8a71|\u3067\u3093\u308f}\u3057\u305f{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3057\u3087\u3046\u3002",
+        "verb-\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+    ],
+    [
+        "The big one is better than the small one.",
+        "{\u5c0f\u3055\u3044|\u3061\u3044\u3055\u3044}\u306e\u3088\u308a{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3059\u3002",
+        "Noun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
+    ],
+    [
+        "(You) should probably send an email.",
+        "e\u30e1\u30fc\u30eb\u3092{\u51fa\u3057\u305f|\u3060\u3057\u305f}{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3057\u3087\u3046\u3002",
+        "verb-\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
     ]
 ])

@@ -46,6 +46,11 @@ Comparatives
 A は Bより X = Bより A は X = A is X'er than B
 Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)
 
+方がいい
+====
+な-adj. + な + {方|ほう} + が + いい = ~ is better (than ...)
+verb-た + {方|ほう} + が + いい = you'd better do ~, you should do ~
+
 Because
 =======
 から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)
