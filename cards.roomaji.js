@@ -535,7 +535,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "On the second floor, there are televisions, computers, etc.",
+    "On the second floor, there are televisions, computers, (etc).",
     "{二階|nikai} ni _terebi_ ya _konpyuutaa_ ga arimasu.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],

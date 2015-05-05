@@ -535,7 +535,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "On the second floor, there are televisions, computers, etc.",
+        "On the second floor, there are televisions, computers, (etc).",
         "{\u4e8c\u968e|\u306b\u304b\u3044}\u306b\u30c6\u30ec\u30d3\u3084\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u304c\u3042\u308a\u307e\u3059\u3002",
         "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
