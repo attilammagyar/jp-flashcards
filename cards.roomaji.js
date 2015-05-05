@@ -3875,7 +3875,7 @@ Flashcards.initialize([
     "verb-plain + noun = the ~ing noun"
 ],
 [
-    "(It's) even 9 meters taller (than the Eiffel Tower).",
+    "(It's) even 9 meters taller than France's Eiffel Tower.",
     "_furansu_ no _efferu_ tou yori {九|kyuu} _meetoru_ mo {高い|takai} desu.",
     "A は Bより X = Bより A は X = A is X'er than B"
 ],
