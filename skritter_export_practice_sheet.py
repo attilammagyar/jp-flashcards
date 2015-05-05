@@ -1,5 +1,15 @@
 # turn vocab lists exported from skritter.com into printable practice sheet
 
+import sys
+
+
+if len(sys.argv) < 2:
+    print("Usage: {} <skritter export file>".format(sys.argv[0]), file=sys.stderr)
+    sys.exit(1)
+
+
+skritter_export_file = sys.argv[1]
+
 HTML = """\
 <!DOCTYPE html>
 <html lang="en">
@@ -89,7 +99,7 @@ HTML = """\
 cards_html = ""
 cells = "".join(["<td></td>" for i in range(1, 11)])
 
-with open("skritter.txt") as f:
+with open(skritter_export_file) as f:
     cards = []
 
     for line in f:
