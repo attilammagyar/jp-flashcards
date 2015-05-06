@@ -2401,7 +2401,7 @@ Flashcards.initialize([
 ],
 [
     "I'm leaving from work before you. {And others are still hard at work.} Thanks for your hard work. {Response to ~. Not used to superiors. Also used to thank someone for their work.} Thanks for your work. {Between equals and to people 'below'.}",
-    "osaki ni. gokurou sama desu. gokurou sama deshita. otsukare sama desu. otsukare sama deshita.",
+    "osaki ni. gokurou {様|sama} desu. gokurou {様|sama} deshita. {お疲れ|otsukare} {様|sama} desu. {お疲れ|otsukare} {様|sama} deshita.",
     ""
 ],
 [
