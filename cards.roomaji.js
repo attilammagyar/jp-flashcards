@@ -181,7 +181,7 @@ Flashcards.initialize([
 ],
 [
     "We always eat dinner together.",
-    "watashitachi wa {何時も|itsumo} {一緒|issho} ni bangohan wo {食べます|tabemasu}.",
+    "{私達|watashitachi} wa {何時も|itsumo} {一緒|issho} ni bangohan wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -2916,7 +2916,7 @@ Flashcards.initialize([
 ],
 [
     "We called as (we were) supposed to, you know. {properly}",
-    "watashitachi wa chanto {電話|denwa} shimashita yo.",
+    "{私達|watashitachi} wa chanto {電話|denwa} shimashita yo.",
     ""
 ],
 [
