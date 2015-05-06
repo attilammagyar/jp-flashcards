@@ -3942,7 +3942,7 @@ Flashcards.initialize([
     [
         "Every day after eating dinner (I) watch TV.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3070\u3093\u3054\u306f\u3093\u3092{\u98df\u3079\u305f|\u305f\u3079\u305f}{\u5f8c|\u3042\u3068}\u3067\u30c6\u30ec\u30d3\u3092{\u898b\u307e\u3059|\u307f\u307e\u3059}\u3002",
-        ""
+        "verb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
     ],
     [
         "(You) should take this medicine.",

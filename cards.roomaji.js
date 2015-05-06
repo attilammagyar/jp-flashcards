@@ -3942,7 +3942,7 @@ Flashcards.initialize([
 [
     "Every day after eating dinner (I) watch TV.",
     "{毎日|mainichi} bangohan wo {食べた|tabeta} {後|ato} de _terebi_ wo {見ます|mimasu}.",
-    ""
+    "verb-た + {後|あと} + で = after (finished) doing ~"
 ],
 [
     "(You) should take this medicine.",
