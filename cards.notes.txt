@@ -135,3 +135,4 @@ verb-て-form + も + いい = doing verb is allowed, (you) may do verb
 -------
 verb-た + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences
 verb-た + {後|あと} + で = after (finished) doing ~
+verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order

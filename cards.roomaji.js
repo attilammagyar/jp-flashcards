@@ -3952,7 +3952,7 @@ Flashcards.initialize([
 [
     "(I) drank wine and talked with friends at the party.",
     "パーティー de _wain_ wo {飲んだり|nondari} {友達|tomodachi} to {話したり|hanashitari} shimashita.",
-    ""
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
 ],
 [
     "Tokyo is bigger than London.",
@@ -4043,5 +4043,35 @@ Flashcards.initialize([
     "(You) should probably send an email.",
     "*e*_meeru_ wo {出した|dashita} {方|hou} ga ii deshou.",
     "verb-た + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+],
+[
+    "On Saturdays, (I do things like) shopping, watch films, and eat at restaurants.",
+    "{土曜日|doyoubi} ni {買い物|kaimono} wo shitari, {映画|eiga} wo {見たり|mitari}, _resutoran_ de {食べたり|tabetari} shimasu.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+],
+[
+    "Last night (I) watched TV, made phone calls and did some cleaning.",
+    "{昨夜|yuube} _terebi_ wo {見たり|mitari}, {掃除|souji} wo shitari shimashita.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+],
+[
+    "Sometimes (I) eat meat, sometimes (I) eat fish.",
+    "{肉|niku} wo {食べたり|tabetari}, {魚|sakana} wo {食べたり|tabetari} shimasu.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+],
+[
+    "For Christmas, (I) eat a lot, watch TV, and meet with friends.",
+    "_kurisumasu_ ni ippai {食べたり|tabetari}, _terebi_ wo {見たり|mitari}, {友達|tomodachi} to {会ったり|attari} shimasu.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+],
+[
+    "Last week (I) studied Japanese, did shopping and went to Osaka.",
+    "{先週|senshuu} {日本語|nihongo} wo {勉強|benkyou} shitari, {買い物|kaimono} wo shitari, oosaka ni {行ったり|ittari} shimashita.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+],
+[
+    "For breakfast, (I) sometimes drink coffee, sometimes tea.",
+    "{朝ごはん|asagohan} ni _koohii_ wo {飲んだり|nondari}, {紅茶|koucha} wo {飲んだり|nondari} shimasu.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
 ]
 ])

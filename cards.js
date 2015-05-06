@@ -3952,7 +3952,7 @@ Flashcards.initialize([
     [
         "(I) drank wine and talked with friends at the party.",
         "\u30d1\u30fc\u30c6\u30a3\u30fc\u3067\u30ef\u30a4\u30f3\u3092{\u98f2\u3093\u3060\u308a|\u306e\u3093\u3060\u308a}{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3068{\u8a71\u3057\u305f\u308a|\u306f\u306a\u3057\u305f\u308a}\u3057\u307e\u3057\u305f\u3002",
-        ""
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
     ],
     [
         "Tokyo is bigger than London.",
@@ -4043,5 +4043,35 @@ Flashcards.initialize([
         "(You) should probably send an email.",
         "e\u30e1\u30fc\u30eb\u3092{\u51fa\u3057\u305f|\u3060\u3057\u305f}{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3057\u3087\u3046\u3002",
         "verb-\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+    ],
+    [
+        "On Saturdays, (I do things like) shopping, watch films, and eat at restaurants.",
+        "{\u571f\u66dc\u65e5|\u3069\u3088\u3046\u3073}\u306b{\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e}\u3092\u3057\u305f\u308a\u3001{\u6620\u753b|\u3048\u3044\u304c}\u3092{\u898b\u305f\u308a|\u307f\u305f\u308a}\u3001\u30ec\u30b9\u30c8\u30e9\u30f3\u3067{\u98df\u3079\u305f\u308a|\u305f\u3079\u305f\u308a}\u3057\u307e\u3059\u3002",
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    ],
+    [
+        "Last night (I) watched TV, made phone calls and did some cleaning.",
+        "{\u6628\u591c|\u3086\u3046\u3079}\u30c6\u30ec\u30d3\u3092{\u898b\u305f\u308a|\u307f\u305f\u308a}\u3001{\u6383\u9664|\u305d\u3046\u3058}\u3092\u3057\u305f\u308a\u3057\u307e\u3057\u305f\u3002",
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    ],
+    [
+        "Sometimes (I) eat meat, sometimes (I) eat fish.",
+        "{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u305f\u308a|\u305f\u3079\u305f\u308a}\u3001{\u9b5a|\u3055\u304b\u306a}\u3092{\u98df\u3079\u305f\u308a|\u305f\u3079\u305f\u308a}\u3057\u307e\u3059\u3002",
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    ],
+    [
+        "For Christmas, (I) eat a lot, watch TV, and meet with friends.",
+        "\u30af\u30ea\u30b9\u30de\u30b9\u306b\u3044\u3063\u3071\u3044{\u98df\u3079\u305f\u308a|\u305f\u3079\u305f\u308a}\u3001\u30c6\u30ec\u30d3\u3092{\u898b\u305f\u308a|\u307f\u305f\u308a}\u3001{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3068{\u4f1a\u3063\u305f\u308a|\u3042\u3063\u305f\u308a}\u3057\u307e\u3059\u3002",
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    ],
+    [
+        "Last week (I) studied Japanese, did shopping and went to Osaka.",
+        "{\u5148\u9031|\u305b\u3093\u3057\u3085\u3046}{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u305f\u308a\u3001{\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e}\u3092\u3057\u305f\u308a\u3001\u304a\u304a\u3055\u304b\u306b{\u884c\u3063\u305f\u308a|\u3044\u3063\u305f\u308a}\u3057\u307e\u3057\u305f\u3002",
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    ],
+    [
+        "For breakfast, (I) sometimes drink coffee, sometimes tea.",
+        "{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u306b\u30b3\u30fc\u30d2\u30fc\u3092{\u98f2\u3093\u3060\u308a|\u306e\u3093\u3060\u308a}\u3001{\u7d05\u8336|\u3053\u3046\u3061\u3083}\u3092{\u98f2\u3093\u3060\u308a|\u306e\u3093\u3060\u308a}\u3057\u307e\u3059\u3002",
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
     ]
 ])
