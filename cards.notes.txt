@@ -45,6 +45,7 @@ Comparatives
 ============
 A は Bより X = Bより A は X = A is X'er than B
 Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)
+Verb-A-plain {方|ほう} が Verb-B-plain-nonpast より X = Doing A is X'er than doing B
 
 方がいい
 ====

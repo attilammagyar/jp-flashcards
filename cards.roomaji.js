@@ -4073,5 +4073,30 @@ Flashcards.initialize([
     "For breakfast, (I) sometimes drink coffee, sometimes tea.",
     "{朝ごはん|asagohan} ni _koohii_ wo {飲んだり|nondari}, {紅茶|koucha} wo {飲んだり|nondari} shimasu.",
     "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+],
+[
+    "The train is quicker than the bus.",
+    "{電車|densha} no {方|hou} ga _basu_ yori {速い|hayai} desu.",
+    "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+],
+[
+    "The book was more interesting than the film.",
+    "{映画|eiga} yori {本|hon} no {方|hou} ga {面白かった|omoshirokatta} desu.",
+    "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+],
+[
+    "(It is) quicker to go by train than by bus.",
+    "{電車|densha} {行く|iku} {方|hou} ga _basu_ de {行く|iku} yori {速い|hayai} desu.",
+    "Verb-A-plain {方|ほう} が Verb-B-plain-nonpast より X = Doing A is X'er than doing B"
+],
+[
+    "(I) think playing sports is more fun than watching.",
+    "_supootsu_ wo suru {方|hou} ga _supootsu_ wo {見る|miru} yori {楽しい|tanoshii} to {思います|omoimasu}.",
+    "Verb-A-plain {方|ほう} が Verb-B-plain-nonpast より X = Doing A is X'er than doing B"
+],
+[
+    "(I) think drinking beer is better than drinking water.",
+    "_biiru_ wo {飲む|nomu} {方|hou} ga {水|mizu} wo {飲む|nomu} yori ii to {思います|omoimasu}.",
+    "Verb-A-plain {方|ほう} が Verb-B-plain-nonpast より X = Doing A is X'er than doing B"
 ]
 ])

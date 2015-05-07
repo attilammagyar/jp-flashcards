@@ -4073,5 +4073,30 @@ Flashcards.initialize([
         "For breakfast, (I) sometimes drink coffee, sometimes tea.",
         "{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u306b\u30b3\u30fc\u30d2\u30fc\u3092{\u98f2\u3093\u3060\u308a|\u306e\u3093\u3060\u308a}\u3001{\u7d05\u8336|\u3053\u3046\u3061\u3083}\u3092{\u98f2\u3093\u3060\u308a|\u306e\u3093\u3060\u308a}\u3057\u307e\u3059\u3002",
         "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    ],
+    [
+        "The train is quicker than the bus.",
+        "{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u306e{\u65b9|\u307b\u3046}\u304c\u30d0\u30b9\u3088\u308a{\u901f\u3044|\u306f\u3084\u3044}\u3067\u3059\u3002",
+        "Noun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
+    ],
+    [
+        "The book was more interesting than the film.",
+        "{\u6620\u753b|\u3048\u3044\u304c}\u3088\u308a{\u672c|\u307b\u3093}\u306e{\u65b9|\u307b\u3046}\u304c{\u9762\u767d\u304b\u3063\u305f|\u304a\u3082\u3057\u308d\u304b\u3063\u305f}\u3067\u3059\u3002",
+        "Noun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
+    ],
+    [
+        "(It is) quicker to go by train than by bus.",
+        "{\u96fb\u8eca|\u3067\u3093\u3057\u3083}{\u884c\u304f|\u3044\u304f}{\u65b9|\u307b\u3046}\u304c\u30d0\u30b9\u3067{\u884c\u304f|\u3044\u304f}\u3088\u308a{\u901f\u3044|\u306f\u3084\u3044}\u3067\u3059\u3002",
+        "Verb-A-plain {\u65b9|\u307b\u3046} \u304c Verb-B-plain-nonpast \u3088\u308a X = Doing A is X'er than doing B"
+    ],
+    [
+        "(I) think playing sports is more fun than watching.",
+        "\u30b9\u30dd\u30fc\u30c4\u3092\u3059\u308b{\u65b9|\u307b\u3046}\u304c\u30b9\u30dd\u30fc\u30c4\u3092{\u898b\u308b|\u307f\u308b}\u3088\u308a{\u697d\u3057\u3044|\u305f\u306e\u3057\u3044}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
+        "Verb-A-plain {\u65b9|\u307b\u3046} \u304c Verb-B-plain-nonpast \u3088\u308a X = Doing A is X'er than doing B"
+    ],
+    [
+        "(I) think drinking beer is better than drinking water.",
+        "\u30d3\u30fc\u30eb\u3092{\u98f2\u3080|\u306e\u3080}{\u65b9|\u307b\u3046}\u304c{\u6c34|\u307f\u305a}\u3092{\u98f2\u3080|\u306e\u3080}\u3088\u308a\u3044\u3044\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
+        "Verb-A-plain {\u65b9|\u307b\u3046} \u304c Verb-B-plain-nonpast \u3088\u308a X = Doing A is X'er than doing B"
     ]
 ])
