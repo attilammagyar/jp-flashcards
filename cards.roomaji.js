@@ -371,7 +371,7 @@ Flashcards.initialize([
 ],
 [
     "Today is Claude Monet's exhibition. There are many famous works. {Less formal.}",
-    "kyou wa _kuroodo mone_ no tenrankai desu. yumei na sakuhin ga ippai arimasu.",
+    "kyou wa _kuroodo mone_ no tenrankai desu. {有名|yuumei} na sakuhin ga ippai arimasu.",
     ""
 ],
 [
@@ -646,7 +646,7 @@ Flashcards.initialize([
 ],
 [
     "Today is Claude Monet's exhibition. There are many famous works. {More formal.}",
-    "{今日|kyou} wa _kuroodo mone_ no tenrankai desu. yumei na sakuhin ga {沢山|takusan} arimasu.",
+    "{今日|kyou} wa _kuroodo mone_ no tenrankai desu. {有名|yuumei} na sakuhin ga {沢山|takusan} arimasu.",
     ""
 ],
 [
@@ -4086,7 +4086,7 @@ Flashcards.initialize([
 ],
 [
     "(It is) quicker to go by train than by bus.",
-    "{電車|densha} {行く|iku} {方|hou} ga _basu_ de {行く|iku} yori {速い|hayai} desu.",
+    "{電車|densha} de {行く|iku} {方|hou} ga _basu_ de {行く|iku} yori {速い|hayai} desu.",
     "Verb-A-plain {方|ほう} が Verb-B-plain-nonpast より X = Doing A is X'er than doing B"
 ],
 [
