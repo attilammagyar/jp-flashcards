@@ -1776,7 +1776,7 @@ Flashcards.initialize([
 ],
 [
     "(I) gained 3 kilos over Christmas.",
-    "_kurisumasu_ ni {三|san} _kiro_ futorimashita.",
+    "_kurisumasu_ ni {三|san} _kiro_ {太りました|futorimashita}.",
     ""
 ],
 [

@@ -1776,7 +1776,7 @@ Flashcards.initialize([
     ],
     [
         "(I) gained 3 kilos over Christmas.",
-        "\u30af\u30ea\u30b9\u30de\u30b9\u306b{\u4e09|\u3055\u3093}\u30ad\u30ed\u3075\u3068\u308a\u307e\u3057\u305f\u3002",
+        "\u30af\u30ea\u30b9\u30de\u30b9\u306b{\u4e09|\u3055\u3093}\u30ad\u30ed{\u592a\u308a\u307e\u3057\u305f|\u3075\u3068\u308a\u307e\u3057\u305f}\u3002",
         ""
     ],
     [
