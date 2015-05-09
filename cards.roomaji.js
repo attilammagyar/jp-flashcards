@@ -1676,7 +1676,7 @@ Flashcards.initialize([
 ],
 [
     "(I've) caught a cold.",
-    "kaze wo hiiteshimaimashita.",
+    "{風邪|kaze} wo {引いて|hiite} shimaimashita.",
     ""
 ],
 [
@@ -1686,7 +1686,7 @@ Flashcards.initialize([
 ],
 [
     "Have (you) caught a cold?",
-    "kaze wo hiiteshimaimashita ka.",
+    "{風邪|kaze} {引いて|hiite} shimaimashita ka.",
     ""
 ],
 [
