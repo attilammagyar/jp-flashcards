@@ -1677,7 +1677,7 @@ Flashcards.initialize([
 [
     "(I've) caught a cold.",
     "{風邪|kaze} wo {引いて|hiite} shimaimashita.",
-    ""
+    "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
     "(My) shoulders ache.",
@@ -1687,7 +1687,7 @@ Flashcards.initialize([
 [
     "Have (you) caught a cold?",
     "{風邪|kaze} {引いて|hiite} shimaimashita ka.",
-    ""
+    "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
     "(I) have a headache. (My) stomach also hurts.",
@@ -3967,7 +3967,7 @@ Flashcards.initialize([
 [
     "(I) have completely forgotten all (my) kanji. {plain}",
     "{漢字|kanji} wo {全部|zenbu} {忘れて|wasurete} shimatta.",
-    ""
+    "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
     "(I) have lived abroad.",
@@ -4098,5 +4098,60 @@ Flashcards.initialize([
     "(I) think drinking beer is better than drinking water.",
     "_biiru_ wo {飲む|nomu} {方|hou} ga {水|mizu} wo {飲む|nomu} yori ii to {思います|omoimasu}.",
     "Verb-A-plain {方|ほう} が Verb-B-plain-nonpast より X = Doing A is X'er than doing B"
+],
+[
+    "When (I) was in America, (I) learned English. When (I) eat breakfast, (I) always watch TV. When (I) was a student, (I) studied Spanish. When (I) was a student, (I) studied Spanish.",
+    "_amerika_ ni ita {時|toki} {英語|eigo} wo {習いました|naraimashita}. {朝ごはん|asagohan} wo {食べる|taberu} {時|toki} {何時も|itsumo} _terebi_ wo {見ます|mimasu}. {学生|gakusei} no {時|toki} _supein_ {語|go} wo {勉強|benkyou} shimashita. {学生|gakusei} no {頃|koro} _supein_ {語|go} wo {勉強|benkyou} shimashita.",
+    "verb-た + {時|とき} = when did/have done ~\nverb-う + {時|とき} = when doing ~\nnoun + の + {頃|ころ} = when ~, as a ~\nnoun + の + {時|とき} = when ~, as a ~"
+],
+[
+    "Pay (just before) when (you) get off the bus please. Pay when (you) have gotten off the bus please.",
+    "_basu_ wo {降りる|oriru} {時|toki} {払って|haratte} kudasai. _basu_ wo {降りた|orita} {時|toki} {払って|haratte} kudasai.",
+    "verb-た + {時|とき} = when did/have done ~\nverb-う + {時|とき} = when doing ~"
+],
+[
+    "The moment the door opened, (my) heart stopped. {plain} When the door opened, (my) heart stopped. {plain}",
+    "_doa_ ga {開いた|aita} shunkan shinzou ga {止まった|tomatta}. _doa_ ga {開いた|aita} {時|toki} shinzou ga {止まった|tomatta}.",
+    "verb-た + {時|とき} = when did/have done ~"
+],
+[
+    "When (I) went to the school, no one was there. {plain}",
+    "{学校|gakkou} ni {行った|itta} {時|toki} ni {誰|dare} mo inakatta.",
+    "verb-た + {時|とき} = when did/have done ~"
+],
+[
+    "When (I) looked at the chat, (it) was already late. {plain}",
+    "_chatto_ wo {見た|mita} {時|toki} mou {遅かった|osokatta}.",
+    "verb-た + {時|とき} = when did/have done ~"
+],
+[
+    "(I) pain 2 million yen for the car. {plain}",
+    "{車|kuruma} ni {二百万円|nihyakumanen} {払った|haratta}.",
+    ""
+],
+[
+    "(I've) already finished (my) homework.",
+    "{宿題|shukudai} wa mou yatte shimaimashita.",
+    "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+],
+[
+    "The little bird went and died. {plain} The little bird went and died. {plain, spoken}",
+    "{小鳥|kotori} ga {死んで|shinde} shimatta. {小鳥|kotori} ga {死んじゃった|shinjatta}.",
+    "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+],
+[
+    "(I've) gone and broken (my) camera. {plain}",
+    "_kamera_ wo kowashite shimatta.",
+    "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+],
+[
+    "Have (you) finished eating all (your) vegetables?",
+    "{野菜|yasai} wo {全部|zenbu} {食べて|tabete} shimaimashita ka.",
+    "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+],
+[
+    "(I) will finish writing the letter after (I've) had (my) breakfast.",
+    "{朝ごはん|asagohan} wo {食べた|tabeta} {後|ato} de {手紙|tegami} wo {書いて|kaite} shimaimasu.",
+    "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)\nverb-た + {後|あと} + で = after (finished) doing ~"
 ]
 ])

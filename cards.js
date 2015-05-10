@@ -1677,7 +1677,7 @@ Flashcards.initialize([
     [
         "(I've) caught a cold.",
         "{\u98a8\u90aa|\u304b\u305c}\u3092{\u5f15\u3044\u3066|\u3072\u3044\u3066}\u3057\u307e\u3044\u307e\u3057\u305f\u3002",
-        ""
+        "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
     ],
     [
         "(My) shoulders ache.",
@@ -1687,7 +1687,7 @@ Flashcards.initialize([
     [
         "Have (you) caught a cold?",
         "{\u98a8\u90aa|\u304b\u305c}{\u5f15\u3044\u3066|\u3072\u3044\u3066}\u3057\u307e\u3044\u307e\u3057\u305f\u304b\u3002",
-        ""
+        "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
     ],
     [
         "(I) have a headache. (My) stomach also hurts.",
@@ -3967,7 +3967,7 @@ Flashcards.initialize([
     [
         "(I) have completely forgotten all (my) kanji. {plain}",
         "{\u6f22\u5b57|\u304b\u3093\u3058}\u3092{\u5168\u90e8|\u305c\u3093\u3076}{\u5fd8\u308c\u3066|\u308f\u3059\u308c\u3066}\u3057\u307e\u3063\u305f\u3002",
-        ""
+        "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
     ],
     [
         "(I) have lived abroad.",
@@ -4098,5 +4098,60 @@ Flashcards.initialize([
         "(I) think drinking beer is better than drinking water.",
         "\u30d3\u30fc\u30eb\u3092{\u98f2\u3080|\u306e\u3080}{\u65b9|\u307b\u3046}\u304c{\u6c34|\u307f\u305a}\u3092{\u98f2\u3080|\u306e\u3080}\u3088\u308a\u3044\u3044\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
         "Verb-A-plain {\u65b9|\u307b\u3046} \u304c Verb-B-plain-nonpast \u3088\u308a X = Doing A is X'er than doing B"
+    ],
+    [
+        "When (I) was in America, (I) learned English. When (I) eat breakfast, (I) always watch TV. When (I) was a student, (I) studied Spanish. When (I) was a student, (I) studied Spanish.",
+        "\u30a2\u30e1\u30ea\u30ab\u306b\u3044\u305f{\u6642|\u3068\u304d}{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u7fd2\u3044\u307e\u3057\u305f|\u306a\u3089\u3044\u307e\u3057\u305f}\u3002{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}{\u6642|\u3068\u304d}{\u4f55\u6642\u3082|\u3044\u3064\u3082}\u30c6\u30ec\u30d3\u3092{\u898b\u307e\u3059|\u307f\u307e\u3059}\u3002{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u306e{\u6642|\u3068\u304d}\u30b9\u30da\u30a4\u30f3{\u8a9e|\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u307e\u3057\u305f\u3002{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u306e{\u9803|\u3053\u308d}\u30b9\u30da\u30a4\u30f3{\u8a9e|\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u307e\u3057\u305f\u3002",
+        "verb-\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb-\u3046 + {\u6642|\u3068\u304d} = when doing ~\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~\nnoun + \u306e + {\u6642|\u3068\u304d} = when ~, as a ~"
+    ],
+    [
+        "Pay (just before) when (you) get off the bus please. Pay when (you) have gotten off the bus please.",
+        "\u30d0\u30b9\u3092{\u964d\u308a\u308b|\u304a\u308a\u308b}{\u6642|\u3068\u304d}{\u6255\u3063\u3066|\u306f\u3089\u3063\u3066}\u304f\u3060\u3055\u3044\u3002\u30d0\u30b9\u3092{\u964d\u308a\u305f|\u304a\u308a\u305f}{\u6642|\u3068\u304d}{\u6255\u3063\u3066|\u306f\u3089\u3063\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "verb-\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb-\u3046 + {\u6642|\u3068\u304d} = when doing ~"
+    ],
+    [
+        "The moment the door opened, (my) heart stopped. {plain} When the door opened, (my) heart stopped. {plain}",
+        "\u30c9\u30a2\u304c{\u958b\u3044\u305f|\u3042\u3044\u305f}\u3057\u3085\u3093\u304b\u3093\u3057\u3093\u305e\u3046\u304c{\u6b62\u307e\u3063\u305f|\u3068\u307e\u3063\u305f}\u3002\u30c9\u30a2\u304c{\u958b\u3044\u305f|\u3042\u3044\u305f}{\u6642|\u3068\u304d}\u3057\u3093\u305e\u3046\u304c{\u6b62\u307e\u3063\u305f|\u3068\u307e\u3063\u305f}\u3002",
+        "verb-\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
+    ],
+    [
+        "When (I) went to the school, no one was there. {plain}",
+        "{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306b{\u884c\u3063\u305f|\u3044\u3063\u305f}{\u6642|\u3068\u304d}\u306b{\u8ab0|\u3060\u308c}\u3082\u3044\u306a\u304b\u3063\u305f\u3002",
+        "verb-\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
+    ],
+    [
+        "When (I) looked at the chat, (it) was already late. {plain}",
+        "\u30c1\u30e3\u30c3\u30c8\u3092{\u898b\u305f|\u307f\u305f}{\u6642|\u3068\u304d}\u3082\u3046{\u9045\u304b\u3063\u305f|\u304a\u305d\u304b\u3063\u305f}\u3002",
+        "verb-\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
+    ],
+    [
+        "(I) pain 2 million yen for the car. {plain}",
+        "{\u8eca|\u304f\u308b\u307e}\u306b{\u4e8c\u767e\u4e07\u5186|\u306b\u3072\u3083\u304f\u307e\u306d\u3093}{\u6255\u3063\u305f|\u306f\u3089\u3063\u305f}\u3002",
+        ""
+    ],
+    [
+        "(I've) already finished (my) homework.",
+        "{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044}\u306f\u3082\u3046\u3084\u3063\u3066\u3057\u307e\u3044\u307e\u3057\u305f\u3002",
+        "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+    ],
+    [
+        "The little bird went and died. {plain} The little bird went and died. {plain, spoken}",
+        "{\u5c0f\u9ce5|\u3053\u3068\u308a}\u304c{\u6b7b\u3093\u3067|\u3057\u3093\u3067}\u3057\u307e\u3063\u305f\u3002{\u5c0f\u9ce5|\u3053\u3068\u308a}\u304c{\u6b7b\u3093\u3058\u3083\u3063\u305f|\u3057\u3093\u3058\u3083\u3063\u305f}\u3002",
+        "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+    ],
+    [
+        "(I've) gone and broken (my) camera. {plain}",
+        "\u30ab\u30e1\u30e9\u3092\u3053\u308f\u3057\u3066\u3057\u307e\u3063\u305f\u3002",
+        "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+    ],
+    [
+        "Have (you) finished eating all (your) vegetables?",
+        "{\u91ce\u83dc|\u3084\u3055\u3044}\u3092{\u5168\u90e8|\u305c\u3093\u3076}{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3057\u307e\u3044\u307e\u3057\u305f\u304b\u3002",
+        "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+    ],
+    [
+        "(I) will finish writing the letter after (I've) had (my) breakfast.",
+        "{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u305f|\u305f\u3079\u305f}{\u5f8c|\u3042\u3068}\u3067{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u3057\u307e\u3044\u307e\u3059\u3002",
+        "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)\nverb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
     ]
 ])

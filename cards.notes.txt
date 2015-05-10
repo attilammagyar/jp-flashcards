@@ -64,6 +64,7 @@ Nouns
 noun + に + ついて = about noun
 noun + とか + noun + とか = representative examples of a class
 noun + の + {頃|ころ} = when ~, as a ~
+noun + の + {時|とき} = when ~, as a ~
 
 ため
 ==
@@ -105,7 +106,7 @@ verb-5-う -う + おう = plain volitional form ({行く|いく} --> {行こう
 verb-う + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})
 verb-う + とか + verb-う + とか + する = representative examples of a class
 verb-う + noun = the ~ing noun
-verb-う + {時|とき} = when doing ~, ...
+verb-う + {時|とき} = when doing ~
 
 Stem
 ----
@@ -133,6 +134,7 @@ verb-て + は + いけません = doing verb is not allowed
 verb-て + は + だめ = must not do verb
 verb-て + ください = request
 verb-て + も + いい = doing verb is allowed, (you) may do verb
+verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)
 
 た-form
 -------
