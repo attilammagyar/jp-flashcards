@@ -4153,5 +4153,25 @@ Flashcards.initialize([
     "(I) will finish writing the letter after (I've) had (my) breakfast.",
     "{朝ごはん|asagohan} wo {食べた|tabeta} {後|ato} de {手紙|tegami} wo {書いて|kaite} shimaimasu.",
     "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)\nverb-た + {後|あと} + で = after (finished) doing ~"
+],
+[
+    "(I'm) totally exhausted. {plain}",
+    "{疲れて|tsukarete} shimatta.",
+    "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)\nverb-た + {後|あと} + で = after (finished) doing ~"
+],
+[
+    "(I) totally lost (my) camera. {plain}",
+    "_kamera_ wo otoshite shimatta.",
+    "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)\nverb-た + {後|あと} + で = after (finished) doing ~"
+],
+[
+    "Sorry, (I'm) full.",
+    "sumimasen, mou ippai desu.",
+    ""
+],
+[
+    "(I've) read quite a lot of the Japanese newspaper.",
+    "{日本語|nihongo} no {新聞|shinbun} wo {大分|daibu} {読みました|yomimashita}.",
+    ""
 ]
 ])

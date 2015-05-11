@@ -4153,5 +4153,25 @@ Flashcards.initialize([
         "(I) will finish writing the letter after (I've) had (my) breakfast.",
         "{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u305f|\u305f\u3079\u305f}{\u5f8c|\u3042\u3068}\u3067{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u3057\u307e\u3044\u307e\u3059\u3002",
         "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)\nverb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+    ],
+    [
+        "(I'm) totally exhausted. {plain}",
+        "{\u75b2\u308c\u3066|\u3064\u304b\u308c\u3066}\u3057\u307e\u3063\u305f\u3002",
+        "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)\nverb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+    ],
+    [
+        "(I) totally lost (my) camera. {plain}",
+        "\u30ab\u30e1\u30e9\u3092\u304a\u3068\u3057\u3066\u3057\u307e\u3063\u305f\u3002",
+        "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)\nverb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+    ],
+    [
+        "Sorry, (I'm) full.",
+        "\u3059\u307f\u307e\u305b\u3093\u3001\u3082\u3046\u3044\u3063\u3071\u3044\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "(I've) read quite a lot of the Japanese newspaper.",
+        "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u306e{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3092{\u5927\u5206|\u3060\u3044\u3076}{\u8aad\u307f\u307e\u3057\u305f|\u3088\u307f\u307e\u3057\u305f}\u3002",
+        ""
     ]
 ])
