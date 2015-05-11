@@ -671,7 +671,7 @@ Flashcards.initialize([
 ],
 [
     "Hello everyone!",
-    "minasan kon ni chi wa.",
+    "{皆さん|minasan} kon ni chi wa.",
     ""
 ],
 [
