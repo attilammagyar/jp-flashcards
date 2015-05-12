@@ -761,7 +761,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) have this rice wine please?",
-        "{\u6b64\u308c|\u3053\u308c}{\u304a\u9152|\u304a\u3055\u3051}\u3092\u304f\u3060\u3055\u3044\u3002",
+        "{\u6b64\u306e|\u3053\u306e}{\u304a\u9152|\u304a\u3055\u3051}\u3092\u304f\u3060\u3055\u3044\u3002",
         ""
     ],
     [

@@ -761,7 +761,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have this rice wine please?",
-    "{此れ|kore} {お酒|osake} wo kudasai.",
+    "{此の|kono} {お酒|osake} wo kudasai.",
     ""
 ],
 [
