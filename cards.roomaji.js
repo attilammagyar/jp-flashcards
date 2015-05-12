@@ -4173,5 +4173,10 @@ Flashcards.initialize([
     "(I've) read quite a lot of the Japanese newspaper.",
     "{日本語|nihongo} no {新聞|shinbun} wo {大分|daibu} {読みました|yomimashita}.",
     ""
+],
+[
+    "I'm not a university student. (I've) graduated 3 years ago. Then for 2 years, (I) taught Japanese and travelled in America.",
+    "{私|watashi} wa {大学生|daigakusei} ja nai desu. {三年|san nen} {前|mae} ni sotsugyou shite imashita. soshite {二年間|ninenkan} _amerika_ de {日本語|nihongo} wo {教えたり|oshietari}, {旅行|ryokou} shitari shimashita.",
+    "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
 ]
 ])
