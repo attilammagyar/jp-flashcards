@@ -3015,7 +3015,7 @@ Flashcards.initialize([
     "verb-て + いました = was (in the state of) doing ~, emphasize regular habitual action"
 ],
 [
-    "(I) was buying a kamera at the department store.",
+    "(I) was buying a camera at the department store.",
     "_depaato_ de _kamera_ wo {買って|katte} imashita.",
     "verb-て + いました = was (in the state of) doing ~, emphasize regular habitual action"
 ],

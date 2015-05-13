@@ -3015,7 +3015,7 @@ Flashcards.initialize([
         "verb-\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
     ],
     [
-        "(I) was buying a kamera at the department store.",
+        "(I) was buying a camera at the department store.",
         "\u30c7\u30d1\u30fc\u30c8\u3067\u30ab\u30e1\u30e9\u3092{\u8cb7\u3063\u3066|\u304b\u3063\u3066}\u3044\u307e\u3057\u305f\u3002",
         "verb-\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
     ],
