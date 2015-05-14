@@ -3567,7 +3567,7 @@ Flashcards.initialize([
 [
     "Why (are you) going home? {plain, soft explanation} ('Cos I've got) a headache.",
     "doushite {帰る|kaeru} no? {頭|atama} ga {痛い|itai} no.",
-    "verb-plain + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です"
+    "verb-plain + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)"
 ],
 [
     "(It's) cramped here, hot, the food is not delicious, and (it's) not (our) real home.",
@@ -4037,7 +4037,7 @@ Flashcards.initialize([
 [
     "The big one is better than the small one.",
     "{小さい|chiisai} no yori {大きい|ookii} {方|hou} ga ii desu.",
-    "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+    "verb-う/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nNoun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
 ],
 [
     "(You) should probably send an email.",
@@ -4178,5 +4178,30 @@ Flashcards.initialize([
     "I'm not a university student. (I've) graduated 3 years ago. Then for 2 years, (I) taught Japanese and travelled in America.",
     "{私|watashi} wa {大学生|daigakusei} ja nai desu. {三年|san nen} {前|mae} ni sotsugyou shite imashita. soshite {二年間|ninenkan} _amerika_ de {日本語|nihongo} wo {教えたり|oshietari}, {旅行|ryokou} shitari shimashita.",
     "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+],
+[
+    "The white (one) is cute.",
+    "{白い|shiroi} no wa {可愛い|kawaii} desu.",
+    "verb-う/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+],
+[
+    "(I) forgot going to class. {plain}",
+    "{授業|jugyou} ni {行く|iku} no wo {忘れた|wasureta}.",
+    "verb-う/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+],
+[
+    "Studying every day is tough.",
+    "{毎日|mainichi} {勉強|benkyou} suru no wa {大変|taihen} desu.",
+    "verb-う/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+],
+[
+    "Eating the same (thing) every day is not interesting.",
+    "{毎日|mainichi} {同じ|onaji} {物|mono} wo {食べる|taberu} no wa {面白くない|omoshirokunai} desu.",
+    "verb-う/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+],
+[
+    "The quiet (one) is Alice's room. {plain}",
+    "{静かな|shizukana} no ga _arisu_ no {部屋|heya} da.",
+    "な-adj. + な + の = (the) ~ one/thing, (clause --> generic noun)"
 ]
 ])

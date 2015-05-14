@@ -3567,7 +3567,7 @@ Flashcards.initialize([
     [
         "Why (are you) going home? {plain, soft explanation} ('Cos I've got) a headache.",
         "\u3069\u3046\u3057\u3066{\u5e30\u308b|\u304b\u3048\u308b}\u306e?{\u982d|\u3042\u305f\u307e}\u304c{\u75db\u3044|\u3044\u305f\u3044}\u306e\u3002",
-        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059"
+        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059 (\u306e/\u3093: female, \u306e\u3060/\u3093\u3060: male)"
     ],
     [
         "(It's) cramped here, hot, the food is not delicious, and (it's) not (our) real home.",
@@ -4037,7 +4037,7 @@ Flashcards.initialize([
     [
         "The big one is better than the small one.",
         "{\u5c0f\u3055\u3044|\u3061\u3044\u3055\u3044}\u306e\u3088\u308a{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3059\u3002",
-        "Noun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
+        "verb-\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\nNoun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
     ],
     [
         "(You) should probably send an email.",
@@ -4178,5 +4178,30 @@ Flashcards.initialize([
         "I'm not a university student. (I've) graduated 3 years ago. Then for 2 years, (I) taught Japanese and travelled in America.",
         "{\u79c1|\u308f\u305f\u3057}\u306f{\u5927\u5b66\u751f|\u3060\u3044\u304c\u304f\u305b\u3044}\u3058\u3083\u306a\u3044\u3067\u3059\u3002{\u4e09\u5e74|\u3055\u3093\u306d\u3093}{\u524d|\u307e\u3048}\u306b\u305d\u3064\u304e\u3087\u3046\u3057\u3066\u3044\u307e\u3057\u305f\u3002\u305d\u3057\u3066{\u4e8c\u5e74\u9593|\u306b\u306d\u3093\u304b\u3093}\u30a2\u30e1\u30ea\u30ab\u3067{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u6559\u3048\u305f\u308a|\u304a\u3057\u3048\u305f\u308a}\u3001{\u65c5\u884c|\u308a\u3087\u3053\u3046}\u3057\u305f\u308a\u3057\u307e\u3057\u305f\u3002",
         "verb-\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    ],
+    [
+        "The white (one) is cute.",
+        "{\u767d\u3044|\u3057\u308d\u3044}\u306e\u306f{\u53ef\u611b\u3044|\u304b\u308f\u3044\u3044}\u3067\u3059\u3002",
+        "verb-\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    ],
+    [
+        "(I) forgot going to class. {plain}",
+        "{\u6388\u696d|\u3058\u3085\u304e\u3087\u3046}\u306b{\u884c\u304f|\u3044\u304f}\u306e\u3092{\u5fd8\u308c\u305f|\u308f\u3059\u308c\u305f}\u3002",
+        "verb-\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    ],
+    [
+        "Studying every day is tough.",
+        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3059\u308b\u306e\u306f{\u5927\u5909|\u305f\u3044\u3078\u3093}\u3067\u3059\u3002",
+        "verb-\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    ],
+    [
+        "Eating the same (thing) every day is not interesting.",
+        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u540c\u3058|\u304a\u306a\u3058}{\u7269|\u3082\u306e}\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}\u306e\u306f{\u9762\u767d\u304f\u306a\u3044|\u304a\u3082\u3057\u308d\u304f\u306a\u3044}\u3067\u3059\u3002",
+        "verb-\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    ],
+    [
+        "The quiet (one) is Alice's room. {plain}",
+        "{\u9759\u304b\u306a|\u3057\u305a\u304b\u306a}\u306e\u304c\u30a2\u30ea\u30b9\u306e{\u90e8\u5c4b|\u3078\u3084}\u3060\u3002",
+        "\u306a-adj. + \u306a + \u306e = (the) ~ one/thing, (clause --> generic noun)"
     ]
 ])
