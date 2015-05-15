@@ -2146,7 +2146,7 @@ Flashcards.initialize([
     ],
     [
         "(I) want to be a lawyer.",
-        "\u3079\u3093\u3054\u3057\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
+        "{\u5f01\u8b77\u58eb|\u3079\u3093\u3054\u3057}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
         "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
