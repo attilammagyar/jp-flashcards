@@ -2156,7 +2156,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to be a bank-worker.",
-    "ginkouin ni naritai desu.",
+    "{銀行員|ginkouin} ni naritai desu.",
     "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
