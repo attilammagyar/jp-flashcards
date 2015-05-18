@@ -4203,5 +4203,65 @@ Flashcards.initialize([
     "The quiet (one) is Alice's room. {plain}",
     "{静かな|shizukana} no ga _arisu_ no {部屋|heya} da.",
     "な-adj. + な + の = (the) ~ one/thing, (clause --> generic noun)"
+],
+[
+    "Where did (you) perform?",
+    "{何処|doko} de ensou shimashita ka.",
+    ""
+],
+[
+    "When (I) lived in Chicago, (I) went to various concerts.",
+    "_shikago_ ni {住んで|sunde} ita {時|toki} {色々|iroiro} na _konsaato_ ni {行きました|ikimashita}.",
+    "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-た + {時|とき} = when did/have done ~"
+],
+[
+    "(I) like jazz more than pop.",
+    "_poppusu_ yori _jazu_ no {方|hou} ga {好き|suki} desu.",
+    "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+],
+[
+    "Miki likes jazz, so (we) went together to a jazz club (I) like. {plain}",
+    "{三木|miki} san wa _jazu_ ga {好き|suki} da kara, {一緒|issho} ni boku no {好き|suki} na _jazu kurabu_ ni {行った|itta}.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "What's wrong? (My) throat has dried. Well, (you) should probably drink water.",
+    "dou shita n desu ka. nodo ga kawaita n desu. jaa, {水|mizu} wo {飲んだ|nonda} {方|hou} ga ii deshou.",
+    "verb-plain + の/ん + です = justification, explanation (softer than から)\nverb-た + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+],
+[
+    "When (I) was a student, (I) went to lots of concerts.",
+    "{学生|gakusei} no {時|toki} _konsaato_ ni {沢山|takusan} {行きました|ikimashita}.",
+    "noun + の + {時|とき} = when ~, as a ~"
+],
+[
+    "(You) should study as hard as you can.",
+    "isshoukenmei {勉強|benkyou} shita {方|hou} ga ii desu yo.",
+    "verb-た + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+],
+[
+    "When (I) lived in Australia, (I) spoke English well.",
+    "_oosutoraria_ ni {住んで|sunde} ita {時|toki} {英語|eigo} ga yoku {出来ました|dekimashita}.",
+    "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-た + {時|とき} = when did/have done ~\nnoun + {出来る｜できる} = can (do) noun"
+],
+[
+    "(I) went to bed late last night, so (I'm) totally exhausted. {plain}",
+    "{夕べ|yuube} {遅く|osoku} {寝た|neta} kara {疲れて|tsukarete} shimatta.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+],
+[
+    "(I) have finished all the cooking. {plain}",
+    "{料理|ryouri} wo {全部|zenbu} shite shimatta.",
+    "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+],
+[
+    "(I) think this camera is better than that camera.",
+    "kono _kamera_ no {方|hou} ga sono _kamera_ yori ii to {思います|omoimasu}.",
+    "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+],
+[
+    "After talking to Takeshi, Miki phoned to Roger.",
+    "takeshi san to {話した|hanashita} {後|ato} de, {三木|miki} san wa _rojaa_ san ni {電話|denwa} shimashita.",
+    "verb-た + {後|あと} + で = after (finished) doing ~"
 ]
 ])

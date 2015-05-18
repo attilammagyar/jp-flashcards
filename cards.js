@@ -4203,5 +4203,65 @@ Flashcards.initialize([
         "The quiet (one) is Alice's room. {plain}",
         "{\u9759\u304b\u306a|\u3057\u305a\u304b\u306a}\u306e\u304c\u30a2\u30ea\u30b9\u306e{\u90e8\u5c4b|\u3078\u3084}\u3060\u3002",
         "\u306a-adj. + \u306a + \u306e = (the) ~ one/thing, (clause --> generic noun)"
+    ],
+    [
+        "Where did (you) perform?",
+        "{\u4f55\u51e6|\u3069\u3053}\u3067\u3048\u3093\u305d\u3046\u3057\u307e\u3057\u305f\u304b\u3002",
+        ""
+    ],
+    [
+        "When (I) lived in Chicago, (I) went to various concerts.",
+        "\u30b7\u30ab\u30b4\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u305f{\u6642|\u3068\u304d}{\u8272\u3005|\u3044\u308d\u3044\u308d}\u306a\u30b3\u30f3\u30b5\u30fc\u30c8\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "verb-\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
+    ],
+    [
+        "(I) like jazz more than pop.",
+        "\u30dd\u30c3\u30d7\u30b9\u3088\u308a\u30b8\u30e3\u30ba\u306e{\u65b9|\u307b\u3046}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
+        "Noun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
+    ],
+    [
+        "Miki likes jazz, so (we) went together to a jazz club (I) like. {plain}",
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30b8\u30e3\u30ba\u304c{\u597d\u304d|\u3059\u304d}\u3060\u304b\u3089\u3001{\u4e00\u7dd2|\u3044\u3063\u3057\u3087}\u306b\u307c\u304f\u306e{\u597d\u304d|\u3059\u304d}\u306a\u30b8\u30e3\u30ba\u30fb\u30af\u30e9\u30d6\u306b{\u884c\u3063\u305f|\u3044\u3063\u305f}\u3002",
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+    ],
+    [
+        "What's wrong? (My) throat has dried. Well, (you) should probably drink water.",
+        "\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3002\u306e\u3069\u304c\u304b\u308f\u3044\u305f\u3093\u3067\u3059\u3002\u3058\u3083\u3042\u3001{\u6c34|\u307f\u305a}\u3092{\u98f2\u3093\u3060|\u306e\u3093\u3060}{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3057\u3087\u3046\u3002",
+        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nverb-\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+    ],
+    [
+        "When (I) was a student, (I) went to lots of concerts.",
+        "{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u306e{\u6642|\u3068\u304d}\u30b3\u30f3\u30b5\u30fc\u30c8\u306b{\u6ca2\u5c71|\u305f\u304f\u3055\u3093}{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "noun + \u306e + {\u6642|\u3068\u304d} = when ~, as a ~"
+    ],
+    [
+        "(You) should study as hard as you can.",
+        "\u3044\u3063\u3057\u3087\u3046\u3051\u3093\u3081\u3044{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u305f{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3059\u3088\u3002",
+        "verb-\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+    ],
+    [
+        "When (I) lived in Australia, (I) spoke English well.",
+        "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u305f{\u6642|\u3068\u304d}{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u3088\u304f{\u51fa\u6765\u307e\u3057\u305f|\u3067\u304d\u307e\u3057\u305f}\u3002",
+        "verb-\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+    ],
+    [
+        "(I) went to bed late last night, so (I'm) totally exhausted. {plain}",
+        "{\u5915\u3079|\u3086\u3046\u3079}{\u9045\u304f|\u304a\u305d\u304f}{\u5bdd\u305f|\u306d\u305f}\u304b\u3089{\u75b2\u308c\u3066|\u3064\u304b\u308c\u3066}\u3057\u307e\u3063\u305f\u3002",
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+    ],
+    [
+        "(I) have finished all the cooking. {plain}",
+        "{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3092{\u5168\u90e8|\u305c\u3093\u3076}\u3057\u3066\u3057\u307e\u3063\u305f\u3002",
+        "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+    ],
+    [
+        "(I) think this camera is better than that camera.",
+        "\u3053\u306e\u30ab\u30e1\u30e9\u306e{\u65b9|\u307b\u3046}\u304c\u305d\u306e\u30ab\u30e1\u30e9\u3088\u308a\u3044\u3044\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
+        "Noun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
+    ],
+    [
+        "After talking to Takeshi, Miki phoned to Roger.",
+        "\u305f\u3051\u3057\u3055\u3093\u3068{\u8a71\u3057\u305f|\u306f\u306a\u3057\u305f}{\u5f8c|\u3042\u3068}\u3067\u3001{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3057\u307e\u3057\u305f\u3002",
+        "verb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
     ]
 ])
