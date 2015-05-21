@@ -1571,7 +1571,7 @@ Flashcards.initialize([
 ],
 [
     "eyes, big, small, round",
-    "{目|me}, {大きい|ookii}, {小さい|chiisai}, marui",
+    "{目|me}, {大きい|ookii}, {小さい|chiisai}, {丸い||marui}",
     "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)\n{小さい|chiisai} = い-adj., {小さな|chiisana} = noun modifier, only before nouns"
 ],
 [
@@ -1591,7 +1591,7 @@ Flashcards.initialize([
 ],
 [
     "face, long/narrow, square, round",
-    "{顔|kao}, {長い|nagai}, shikakui, marui",
+    "{顔|kao}, {長い|nagai}, shikakui, {丸い||marui}",
     ""
 ],
 [
@@ -1606,7 +1606,7 @@ Flashcards.initialize([
 ],
 [
     "(My) mother has round face, a high nose and brown eyes.",
-    "{母|haha} wa {顔|kao} ga marukute, {鼻|hana} ga {高くて|takakute}, {目|me} ga {茶色|chairo} desu.",
+    "{母|haha} wa {顔|kao} ga {丸くて|marukute}, {鼻|hana} ga {高くて|takakute}, {目|me} ga {茶色|chairo} desu.",
     ""
 ],
 [
@@ -1706,7 +1706,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
-    "{背|se} ga futsuu de, kami ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga marukute, {鼻|hana} ga {大きい|ookii} desu.",
+    "{背|se} ga futsuu de, kami ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga {丸くて|marukute}, {鼻|hana} ga {大きい|ookii} desu.",
     "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
