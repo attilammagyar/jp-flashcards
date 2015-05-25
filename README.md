@@ -140,6 +140,11 @@ The following conversions are applied to the Japanese parts of the cards:
 Additionally, `{roomaji kanji roomaji|roomaji}` is also converted if appears
 inside the notes.
 
+Formatting the English parts of the cards:
+
+    _text_          --> emphasized text
+    {text}          --> small text
+
 The cards must be specified in the following format in `cards.roomaji.js`:
 
     Flashcards.initialize([

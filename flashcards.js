@@ -209,7 +209,10 @@
 
         formatEnglish: function (text)
         {
-            return text.replace(/\{([^}]*)\}/g, "<small>($1)</small>");
+            return text.replace(
+                /\{([^}]*)\}/g, "<small>($1)</small>").replace(
+                /_([^_]*)_/g, "<em>$1</em>"
+            );
         },
 
         formatFurigana: function (text)
@@ -236,6 +239,7 @@
                         .replace(/'/g, "&#039;")
                         .replace(/-+&gt;/g, "&rarr;")
                         .replace(/\n/g, "</li><li>")
+                        .replace(/_([^_]*)_/g, "<em>$1</em>")
                 )
                 + "</li></ul>"
             );
