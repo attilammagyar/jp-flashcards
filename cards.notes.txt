@@ -108,7 +108,6 @@ Plain
 -----
 verb-う + {前|まえ} に = before doing ~
 verb-う + つもり = intend to ~
-verb-5-う -う + おう = plain volitional form ({行く|いく} --> {行こう|いこう})
 verb-う + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})
 verb-う + とか + verb-う + とか + する = representative examples of a class
 verb-う + noun = the ~ing noun
@@ -147,3 +146,10 @@ verb-た + こと + が + ある = have done ~ (haven't done ~, have never done 
 verb-た + {後|あと} + で = after (finished) doing ~
 verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order
 verb-た + {時|とき} = when did/have done ~
+
+おう/よう form
+------------
+verb-おう/よう = talking about/to self, I _will_, shall I?
+verb-おう/よう + と + {思う|おもう} = I think I _will_ ~
+verb-おう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~
+

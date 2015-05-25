@@ -3467,7 +3467,7 @@ Flashcards.initialize([
 [
     "Let's go to preview wedding halls today! [plain]",
     "{今日|kyou} wa {結婚|kekkon} shikijou no {下見|shitami} ni {行こう|ikou}.",
-    "へ = to, towards, pronounced as え\nverb-5-う -う + おう = plain volitional form ({行く|いく} --> {行こう|いこう})"
+    "へ = to, towards, pronounced as え"
 ],
 [
     "(It's) humid today and (it's) summer...",
@@ -4263,5 +4263,73 @@ Flashcards.initialize([
     "After talking to Takeshi, Miki phoned to Roger.",
     "takeshi san to {話した|hanashita} {後|ato} de, {三木|miki} san wa _rojaa_ san ni {電話|denwa} shimashita.",
     "verb-た + {後|あと} + で = after (finished) doing ~"
+],
+[
+    "Shall (we) meet in front of the cinema? {plain}",
+    "{映画館|eigakan} no {前|mae} de {会おう|aou} ka.",
+    "verb-おう/よう = talking about/to self, I _will_, shall I?"
+],
+[
+    "Shall (we) show (it) to the teacher? {plain}",
+    "{先生|sensei} ni {見せよう|miseyou} ka.",
+    "verb-おう/よう = talking about/to self, I _will_, shall I?"
+],
+[
+    "Shall (we) wait for Miki? {plain}",
+    "{三木|miki} san wo {待とう|matou} ka.",
+    "verb-おう/よう = talking about/to self, I _will_, shall I?"
+],
+[
+    "(I) think (I) _will_ return to America next year.",
+    "{来年|rainen} _amerika_ ni {帰ろう|kaerou} to {思います|omoimasu}.",
+    "verb-おう/よう + と + {思う|おもう} = I think I _will_ ~"
+],
+[
+    "I _will_ go to Kyoto next week.",
+    "boku wa {来週|raishuu} kyouto ni {行こう|ikou}.",
+    "verb-おう/よう = talking about/to self, I _will_, shall I?"
+],
+[
+    "(I) think (I) _will_ go to Europe next year.",
+    "{来年|rainen} _yooroppa_ ni {行こう|ikou} to {思います|omoimasu}.",
+    "verb-おう/よう + と + {思う|おもう} = I think I _will_ ~"
+],
+[
+    "(I) tried to learn Spanish but (I) wasn't very good.",
+    "_supein_ {語|go} wo {習おう|naraou} to shimashita ga {余り|amari} {上手|jouzu} ja arimasen deshita.",
+    ""
+],
+[
+    "(It) will probably rain tomorrow. {plain}",
+    "{明日|ashita} wa {雨|ame} ga {降る|furu} darou.",
+    ""
+],
+[
+    "Today is fine but tomorrow (it) might rain.",
+    "{今日|kyou} wa {晴れ|hare} desu ga {明日|ashita} wa {雨|ame} ga {降る|furu} ka mo {知れません|shiremasen}.",
+    ""
+],
+[
+    "Isn't it probable that Mr. Hondo will come to the party?",
+    "hondou san wa パーティー ni {来る|kuru} n ja nai deshou ka.",
+    ""
+],
+[
+    "This evening (I) have decided to make Indian food.",
+    "{今晩|konban} _indo_ {料理|ryouri} wo suru koto ni shimashita.",
+    ""
+],
+[
+    "Every day (I) make it a rule to swim in the pool for about one hour. {plain}",
+    "{毎日|mainichi} _puuru_ de {一時間|ichijikan} gurai {泳ぐ|oyogu} koto ni shite iru.",
+    ""],
+[
+    "Tomorrow it has been arranged (for me) to meet Mr. Hondo.",
+    "{明日|ashita} hondou san ni {会う|au} koto ni narimashita.",
+    ""],
+[
+    "In Japan, before getting into the bath, (you're) supposed to wash (yourself).",
+    "{日本|nihon} de wa ofuro ni {入る|hairu} {前|mae} ni {洗う|arau} koto ni natte imasu.",
+    "verb-う + {前|まえ} に = before doing ~"
 ]
 ])

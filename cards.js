@@ -3467,7 +3467,7 @@ Flashcards.initialize([
     [
         "Let's go to preview wedding halls today! [plain]",
         "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}\u3057\u304d\u3058\u3087\u3046\u306e{\u4e0b\u898b|\u3057\u305f\u307f}\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3002",
-        "\u3078 = to, towards, pronounced as \u3048\nverb-5-\u3046 -\u3046 + \u304a\u3046 = plain volitional form ({\u884c\u304f|\u3044\u304f} --> {\u884c\u3053\u3046|\u3044\u3053\u3046})"
+        "\u3078 = to, towards, pronounced as \u3048"
     ],
     [
         "(It's) humid today and (it's) summer...",
@@ -4263,5 +4263,75 @@ Flashcards.initialize([
         "After talking to Takeshi, Miki phoned to Roger.",
         "\u305f\u3051\u3057\u3055\u3093\u3068{\u8a71\u3057\u305f|\u306f\u306a\u3057\u305f}{\u5f8c|\u3042\u3068}\u3067\u3001{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3057\u307e\u3057\u305f\u3002",
         "verb-\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+    ],
+    [
+        "Shall (we) meet in front of the cinema? {plain}",
+        "{\u6620\u753b\u9928|\u3048\u3044\u304c\u304b\u3093}\u306e{\u524d|\u307e\u3048}\u3067{\u4f1a\u304a\u3046|\u3042\u304a\u3046}\u304b\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+    ],
+    [
+        "Shall (we) show (it) to the teacher? {plain}",
+        "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u306b{\u898b\u305b\u3088\u3046|\u307f\u305b\u3088\u3046}\u304b\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+    ],
+    [
+        "Shall (we) wait for Miki? {plain}",
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u3092{\u5f85\u3068\u3046|\u307e\u3068\u3046}\u304b\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+    ],
+    [
+        "(I) think (I) _will_ return to America next year.",
+        "{\u6765\u5e74|\u3089\u3044\u306d\u3093}\u30a2\u30e1\u30ea\u30ab\u306b{\u5e30\u308d\u3046|\u304b\u3048\u308d\u3046}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~"
+    ],
+    [
+        "I _will_ go to Kyoto next week.",
+        "\u307c\u304f\u306f{\u6765\u9031|\u3089\u3044\u3057\u3085\u3046}\u304d\u3087\u3046\u3068\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+    ],
+    [
+        "(I) think (I) _will_ go to Europe next year.",
+        "{\u6765\u5e74|\u3089\u3044\u306d\u3093}\u30e8\u30fc\u30ed\u30c3\u30d1\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~"
+    ],
+    [
+        "(I) tried to learn Spanish but (I) wasn't very good.",
+        "\u30b9\u30da\u30a4\u30f3{\u8a9e|\u3054}\u3092{\u7fd2\u304a\u3046|\u306a\u3089\u304a\u3046}\u3068\u3057\u307e\u3057\u305f\u304c{\u4f59\u308a|\u3042\u307e\u308a}{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3058\u3083\u3042\u308a\u307e\u305b\u3093\u3067\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "(It) will probably rain tomorrow. {plain}",
+        "{\u660e\u65e5|\u3042\u3057\u305f}\u306f{\u96e8|\u3042\u3081}\u304c{\u964d\u308b|\u3075\u308b}\u3060\u308d\u3046\u3002",
+        ""
+    ],
+    [
+        "Today is fine but tomorrow (it) might rain.",
+        "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f{\u6674\u308c|\u306f\u308c}\u3067\u3059\u304c{\u660e\u65e5|\u3042\u3057\u305f}\u306f{\u96e8|\u3042\u3081}\u304c{\u964d\u308b|\u3075\u308b}\u304b\u3082{\u77e5\u308c\u307e\u305b\u3093|\u3057\u308c\u307e\u305b\u3093}\u3002",
+        ""
+    ],
+    [
+        "Isn't it probable that Mr. Hondo will come to the party?",
+        "\u307b\u3093\u3069\u3046\u3055\u3093\u306f\u30d1\u30fc\u30c6\u30a3\u30fc\u306b{\u6765\u308b|\u304f\u308b}\u3093\u3058\u3083\u306a\u3044\u3067\u3057\u3087\u3046\u304b\u3002",
+        ""
+    ],
+    [
+        "This evening (I) have decided to make Indian food.",
+        "{\u4eca\u6669|\u3053\u3093\u3070\u3093}\u30a4\u30f3\u30c9{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3092\u3059\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Every day (I) make it a rule to swim in the pool for about one hour. {plain}",
+        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u30d7\u30fc\u30eb\u3067{\u4e00\u6642\u9593|\u3044\u3061\u3058\u304b\u3093}\u3050\u3089\u3044{\u6cf3\u3050|\u304a\u3088\u3050}\u3053\u3068\u306b\u3057\u3066\u3044\u308b\u3002",
+        ""
+    ],
+    [
+        "Tomorrow it has been arranged (for me) to meet Mr. Hondo.",
+        "{\u660e\u65e5|\u3042\u3057\u305f}\u307b\u3093\u3069\u3046\u3055\u3093\u306b{\u4f1a\u3046|\u3042\u3046}\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "In Japan, before getting into the bath, (you're) supposed to wash (yourself).",
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u3067\u306f\u304a\u3075\u308d\u306b{\u5165\u308b|\u306f\u3044\u308b}{\u524d|\u307e\u3048}\u306b{\u6d17\u3046|\u3042\u3089\u3046}\u3053\u3068\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002",
+        "verb-\u3046 + {\u524d|\u307e\u3048} \u306b = before doing ~"
     ]
 ])
