@@ -4333,5 +4333,40 @@ Flashcards.initialize([
         "In Japan, before getting into the bath, (you're) supposed to wash (yourself).",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u3067\u306f\u304a\u3075\u308d\u306b{\u5165\u308b|\u306f\u3044\u308b}{\u524d|\u307e\u3048}\u306b{\u6d17\u3046|\u3042\u3089\u3046}\u3053\u3068\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002",
         "verb-\u3046 + {\u524d|\u307e\u3048} \u306b = before doing ~"
+    ],
+    [
+        "(I) will watch the film.",
+        "{\u79c1|\u308f\u305f\u3057}\u306f{\u6620\u753b|\u3048\u3044\u304c}\u3092{\u898b\u3088\u3046|\u307f\u3088\u3046}\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+    ],
+    [
+        "Shall (I) go to bed?",
+        "{\u5bdd\u3088\u3046|\u306d\u3088\u3046}\u304b\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+    ],
+    [
+        "(I) think (I) will go to South America. Miki is thinking (she) will go to South America.",
+        "{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3068{\u601d\u3063\u3066|\u304a\u3082\u3063\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\nverb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} + \u3044\u308b = I think someone else will ~, I/someone else is thinking of doing ~"
+    ],
+    [
+        "(I) hope to go to South America. (I) think (I) will go to South America. (I) plan to go to South America.",
+        "{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u304f|\u3044\u304f}\u3064\u3082\u308a\u3067\u3059\u3002",
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\nverb-\u3046 + \u3064\u3082\u308a = intend to ~"
+    ],
+    [
+        "(I) think (I) will go to Japan next year. (My) mom thinks (she) will go to Europe next year.",
+        "{\u6765\u5e74|\u3089\u3044\u306d\u3093}{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002{\u6bcd|\u306f\u306f}\u306f{\u6765\u5e74|\u3089\u3044\u306d\u3093}\u30e8\u30fc\u30ed\u30c3\u30d1\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3068{\u601d\u3063\u3066|\u304a\u3082\u3063\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\nverb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} + \u3044\u308b = I think someone else will ~, I/someone else is thinking of doing ~"
+    ],
+    [
+        "(I) think (I) will send that email.",
+        "\u305d\u306ee\u30e1\u30fc\u30eb\u3092{\u51fa\u305d\u3046|\u3060\u305d\u3046}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~"
+    ],
+    [
+        "Takeshi thinks (he) will meet with Miki again.",
+        "\u305f\u3051\u3057\u3055\u3093\u306f{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b\u307e\u305f{\u4f1a\u304a\u3046|\u3042\u304a\u3046}\u3068{\u601d\u3063\u3066|\u304a\u3082\u3063\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} + \u3044\u308b = I think someone else will ~, I/someone else is thinking of doing ~"
     ]
 ])

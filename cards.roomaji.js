@@ -4331,5 +4331,41 @@ Flashcards.initialize([
     "In Japan, before getting into the bath, (you're) supposed to wash (yourself).",
     "{日本|nihon} de wa ofuro ni {入る|hairu} {前|mae} ni {洗う|arau} koto ni natte imasu.",
     "verb-う + {前|まえ} に = before doing ~"
+],
+[
+    "(I) will watch the film.",
+    "{私|watashi} wa {映画|eiga} wo {見よう|miyou}.",
+    "verb-おう/よう = talking about/to self, I _will_, shall I?"
+],
+[
+    "Shall (I) go to bed?",
+    "{寝よう|neyou} ka.",
+    "verb-おう/よう = talking about/to self, I _will_, shall I?"
+],
+[
+    "(I) think (I) will go to South America. Miki is thinking (she) will go to South America.",
+    "{南|minami} _amerika_ ni {行こう|ikou} to {思います|omoimasu}. {三木|miki} san wa {南|minami} _amerika_ ni {行こう|ikou} to {思って|omotte} imasu.",
+    "verb-おう/よう + と + {思う|おもう} = I think I _will_ ~\nverb-おう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~"
+],
+[
+    "(I) hope to go to South America. (I) think (I) will go to South America. (I) plan to go to South America.",
+    "{南|minami} _amerika_ ni {行きたい|ikitai} to {思います|omoimasu}. {南|minami} _amerika_ ni {行こう|ikou} to {思います|omoimasu}. {南|minami} _amerika_ ni {行く|iku} tsumori desu.",
+    "~たい is usually used only in first person or in questions for the second person\nverb-おう/よう + と + {思う|おもう} = I think I _will_ ~\nverb-う + つもり = intend to ~"
+],
+[
+    "(I) think (I) will go to Japan next year. (My) mom thinks (she) will go to Europe next year.",
+    "{来年|rainen} {日本|nihon} ni {行こう|ikou} to {思います|omoimasu}. {母|haha} wa {来年|rainen} _yooroppa_ ni {行こう|ikou} to {思って|omotte} imasu.",
+    "verb-おう/よう + と + {思う|おもう} = I think I _will_ ~\nverb-おう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~"
+],
+[
+    "(I) think (I) will send that email.",
+    "sono *e*_meeru_ wo {出そう|dasou} to {思います|omoimasu}.",
+    "verb-おう/よう + と + {思う|おもう} = I think I _will_ ~"
+],
+[
+    "Takeshi thinks (he) will meet with Miki again.",
+    "takeshi san wa {三木|miki} san ni mata {会おう|aou} to {思って|omotte} imasu.",
+    "verb-おう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~"
 ]
 ])
+
