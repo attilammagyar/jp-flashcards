@@ -1961,7 +1961,7 @@ Flashcards.initialize([
 ],
 [
     "hot {weather}, cold, warm, cool/refreshing",
-    "{暑い|atsui}, {寒い|samui}, {暖かい|atatakai}, suzushii",
+    "{暑い|atsui}, {寒い|samui}, {暖かい|atatakai}, {涼しい|suzushii}",
     ""
 ],
 [
@@ -1981,7 +1981,7 @@ Flashcards.initialize([
 ],
 [
     "Soon (it) will be autumn. (It) will gradually get cool.",
-    "mou sugu {秋|aki} ni narimasu. {段々|dandan} suzushiku narimasu.",
+    "mou sugu {秋|aki} ni narimasu. {段々|dandan} {涼しく|suzushiku} narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
