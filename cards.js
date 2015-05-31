@@ -4368,5 +4368,40 @@ Flashcards.initialize([
         "Takeshi thinks (he) will meet with Miki again.",
         "\u305f\u3051\u3057\u3055\u3093\u306f{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306b\u307e\u305f{\u4f1a\u304a\u3046|\u3042\u304a\u3046}\u3068{\u601d\u3063\u3066|\u304a\u3082\u3063\u3066}\u3044\u307e\u3059\u3002",
         "verb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} + \u3044\u308b = I think someone else will ~, I/someone else is thinking of doing ~"
+    ],
+    [
+        "(You're) sharp, aren't you?",
+        "{\u92ed\u3044|\u3059\u308b\u3069\u3044}\u3067\u3059\u306d\u3002",
+        ""
+    ],
+    [
+        "The teacher was (just) testing you.",
+        "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u306f{\u541b\u305f\u3061|\u304d\u307f\u305f\u3061}\u3092\u305f\u3081\u3057\u305f\u3093\u3060\u3002",
+        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "Here, the class will end.",
+        "\u3053\u308c\u3067{\u6388\u696d|\u3058\u3085\u304e\u3087\u3046}{\u7d42\u308f\u308a\u307e\u3059|\u304a\u308f\u308a\u307e\u3059}\u3002",
+        ""
+    ],
+    [
+        "There's still 30 minutes (left).",
+        "\u307e\u3060{\u4e09\u5341\u5206|\u3055\u3093\u3058\u3085\u3063\u3077\u3093}\u3042\u308a\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "(I'm) done!",
+        "{\u7d42\u308f\u308a\u307e\u3057\u305f|\u304a\u308f\u308a\u307e\u3057\u305f}\u3002",
+        ""
+    ],
+    [
+        "When (I) hear that song, (I) always remember the grammar.",
+        "\u305d\u306e{\u6b4c|\u3046\u305f}\u3092{\u805e\u304f|\u304d\u304f}{\u6642|\u3068\u304d}\u306b\u3044\u3064\u3082{\u6587\u6cd5|\u3076\u3093\u307d\u3046}\u3092{\u601d\u3044\u51fa\u3057\u307e\u3059|\u304a\u3082\u3044\u3060\u3057\u307e\u3059}\u3002",
+        "verb-\u3046 + {\u6642|\u3068\u304d} = when doing ~"
+    ],
+    [
+        "When (I) was learning English, among the practices (I) did after classes and homework, there are 3 that I think were good.",
+        "{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u305f{\u6642|\u3068\u304d}\u3001{\u6388\u696d|\u3058\u3085\u304e\u3087\u3046}\u3068{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044}\u306e{\u5f8c|\u3042\u3068}\u306b{\u5b9f\u8df5|\u3058\u3063\u305b\u3093}\u3057\u305f{\u4e2d|\u306a\u304b}\u3067\u3001{\u79c1|\u308f\u305f\u3057}\u304c{\u826f\u304b\u3063\u305f|\u3088\u304b\u3063\u305f}\u3068{\u601d\u3046|\u304a\u3082\u3046}\u3053\u3068\u304c{\u4e09\u3064|\u307f\u3063\u3064}\u3042\u308a\u307e\u3059\u3002",
+        "verb-\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb-\u3046 + \u3053\u3068 = doing ~ (nominalize)"
     ]
 ])

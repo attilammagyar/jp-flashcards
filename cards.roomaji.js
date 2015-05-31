@@ -4366,6 +4366,40 @@ Flashcards.initialize([
     "Takeshi thinks (he) will meet with Miki again.",
     "takeshi san wa {三木|miki} san ni mata {会おう|aou} to {思って|omotte} imasu.",
     "verb-おう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~"
+],
+[
+    "(You're) sharp, aren't you?",
+    "{鋭い|surudoi} desu ne.",
+    ""
+],
+[
+    "The teacher was (just) testing you.",
+    "{先生|sensei} wa {君たち|kimitachi} wo tameshita n da.",
+    "verb-plain + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Here, the class will end.",
+    "kore de {授業|jugyou} {終わります|owarimasu}.",
+    ""
+],
+[
+    "There's still 30 minutes (left).",
+    "mada {三十分|sanjuppun} arimasu.",
+    ""
+],
+[
+    "(I'm) done!",
+    "{終わりました|owarimashita}.",
+    ""
+],
+[
+    "When (I) hear that song, (I) always remember the grammar.",
+    "sono {歌|uta} wo {聞く|kiku} {時|toki} ni itsumo {文法|bunpou} wo {思い出します|omoidashimasu}.",
+    "verb-う + {時|とき} = when doing ~"
+],
+[
+    "When (I) was learning English, among the practices (I) did after classes and homework, there are 3 that I think were good.",
+    "{英語|eigo} wo {習って|naratte} ita {時|toki}, {授業|jugyou} to {宿題|shukudai} no {後|ato} ni {実践|jissen} shita {中|naka} de, {私|watashi} ga {良かった|yokatta} to {思う|omou} koto ga {三つ|mittsu} arimasu.",
+    "verb-た + {時|とき} = when did/have done ~\nverb-う + こと = doing ~ (nominalize)"
 ]
 ])
-
