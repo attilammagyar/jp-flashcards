@@ -356,7 +356,7 @@ Flashcards.initialize([
 ],
 [
     "Are these red shoes nice?",
-    "{此の|kono} {赤い|akai} kutsu wa suteki desu ka.",
+    "{此の|kono} {赤い|akai} {靴|kutsu} wa suteki desu ka.",
     ""
 ],
 [
@@ -701,7 +701,7 @@ Flashcards.initialize([
 ],
 [
     "(I) have a Japanese language exam the day after tomorrow. I'm also very worried.",
-    "asatte {日本語|nihongo} no shiken ga arimasu. {私|watashi} mo totemo shinpai desu.",
+    "{明後日|asatte} {日本語|nihongo} no shiken ga arimasu. {私|watashi} mo totemo shinpai desu.",
     ""
 ],
 [
@@ -776,7 +776,7 @@ Flashcards.initialize([
 ],
 [
     "8 pairs of shoes",
-    "kutsu hassoku",
+    "{靴|kutsu} hassoku",
     ""
 ],
 [
@@ -2706,7 +2706,7 @@ Flashcards.initialize([
 ],
 [
     "Inside the youth hostel, wearing shoes is not allowed.",
-    "_yuusu hosuteru_ no {中|naka} de wa kutsu wo haite wa ikemasen.",
+    "_yuusu hosuteru_ no {中|naka} de wa {靴|kutsu} wo haite wa ikemasen.",
     "verb-て + は + いけません = doing verb is not allowed\nはく -> はいて"
 ],
 [
@@ -2751,7 +2751,7 @@ Flashcards.initialize([
 ],
 [
     "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
-    "{先生|sensei} to {話したい|hanashitai} baai wa, shokuinshitsu ni {入って|haitte} mo ii desu.",
+    "{先生|sensei} to {話したい|hanashitai} {場合|baai} wa, shokuinshitsu ni {入って|haitte} mo ii desu.",
     "verb-て + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
@@ -2801,7 +2801,7 @@ Flashcards.initialize([
 ],
 [
     "(You) may play (your) guitar in this room.",
-    "{此の|kono} {部屋|heya} de _gitaa_ wo hiite mo ii desu.",
+    "{此の|kono} {部屋|heya} de _gitaa_ wo {弾いて|hiite} mo ii desu.",
     "verb-て + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
@@ -2811,7 +2811,7 @@ Flashcards.initialize([
 ],
 [
     "Please take off (your) shoes.",
-    "kutsu wo {脱いで|nuide} kudasai.",
+    "{靴|kutsu} wo {脱いで|nuide} kudasai.",
     "verb-て + ください = request"
 ],
 [
@@ -2856,7 +2856,7 @@ Flashcards.initialize([
 ],
 [
     "play {instrument}",
-    "hiku, hikimasu, hiite",
+    "{弾く|hiku}, {弾きます|hikimasu}, {弾いて|hiite}",
     ""
 ],
 [
@@ -2936,7 +2936,7 @@ Flashcards.initialize([
 ],
 [
     "These shoes are a bit too big. Please show (me some) others.",
-    "{此の|kono} kutsu wa {少し|sukoshi} {大き|ooki} {過ぎます|sugimasu}. {他|hoka} no wo {見せて|misete} kudasai.",
+    "{此の|kono} {靴|kutsu} wa {少し|sukoshi} {大き|ooki} {過ぎます|sugimasu}. {他|hoka} no wo {見せて|misete} kudasai.",
     "stem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~"
 ],
 [
@@ -3141,7 +3141,7 @@ Flashcards.initialize([
 ],
 [
     "If (you) try (it, it's) easy.",
-    "yatte miru to kantan desu.",
+    "yatte miru to {簡単|kantan} desu.",
     "verb-て + みる = try doing ~\nverb-A-う + と + verb-B = if A then B"
 ],
 [
@@ -3326,7 +3326,7 @@ Flashcards.initialize([
 ],
 [
     "That teacher's class is easy and not something of a challenge.",
-    "ano {先生|sensei} no {授業|jugyou} wa kantan de {何|nani} ka {物|mono} {足りない|tarinai} desu.",
+    "ano {先生|sensei} no {授業|jugyou} wa {簡単|kantan} de {何|nani} ka {物|mono} {足りない|tarinai} desu.",
     "な-adj. + で = adj. and ...\n{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
 ],
 [
@@ -3756,7 +3756,7 @@ Flashcards.initialize([
 ],
 [
     "Hiragana is easier than kanji.",
-    "hiragana wa {漢字|kanji} yori kantan desu.",
+    "{平仮名|hiragana} wa {漢字|kanji} yori {簡単|kantan} desu.",
     "A は Bより X = Bより A は X = A is X'er than B"
 ],
 [
