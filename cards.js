@@ -4297,7 +4297,7 @@ Flashcards.initialize([
     [
         "(I) tried to learn Spanish but (I) wasn't very good.",
         "\u30b9\u30da\u30a4\u30f3{\u8a9e|\u3054}\u3092{\u7fd2\u304a\u3046|\u306a\u3089\u304a\u3046}\u3068\u3057\u307e\u3057\u305f\u304c{\u4f59\u308a|\u3042\u307e\u308a}{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3058\u3083\u3042\u308a\u307e\u305b\u3093\u3067\u3057\u305f\u3002",
-        ""
+        "verb-\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = struggle with ~, tried ~ but failed"
     ],
     [
         "(It) will probably rain tomorrow. {plain}",
@@ -4403,5 +4403,30 @@ Flashcards.initialize([
         "When (I) was learning English, among the practices (I) did after classes and homework, there are 3 that I think were good.",
         "{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u305f{\u6642|\u3068\u304d}\u3001{\u6388\u696d|\u3058\u3085\u304e\u3087\u3046}\u3068{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044}\u306e{\u5f8c|\u3042\u3068}\u306b{\u5b9f\u8df5|\u3058\u3063\u305b\u3093}\u3057\u305f{\u4e2d|\u306a\u304b}\u3067\u3001{\u79c1|\u308f\u305f\u3057}\u304c{\u826f\u304b\u3063\u305f|\u3088\u304b\u3063\u305f}\u3068{\u601d\u3046|\u304a\u3082\u3046}\u3053\u3068\u304c{\u4e09\u3064|\u307f\u3063\u3064}\u3042\u308a\u307e\u3059\u3002",
         "verb-\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb-\u3046 + \u3053\u3068 = doing ~ (nominalize)"
+    ],
+    [
+        "This time (I'll) make it up to (you).",
+        "{\u4eca\u5ea6|\u3053\u3093\u3069}{\u57cb\u3081\u5408\u308f\u305b|\u3046\u3081\u3042\u308f\u305b}\u3057\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "(I) tried to learn Spanish (but I failed). (I) had a go at learning Spanish.",
+        "\u30b9\u30da\u30a4\u30f3{\u8a9e|\u3054}\u3092{\u7fd2\u304a\u3046|\u306a\u3089\u304a\u3046}\u3068\u3057\u307e\u3057\u305f\u3002\u30b9\u30da\u30a4\u30f3{\u8a9e|\u3054}\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u307f\u307e\u3057\u305f\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = struggle with ~, tried ~ but failed\nverb-\u3066 + \u307f\u308b = try doing ~"
+    ],
+    [
+        "(I'm) about to eat breakfast.",
+        "{\u671d\u3054\u306f\u3093|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}\u3057\u3066\u3044\u307e\u3059\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 + \u3068 + \u3057\u3066 + \u3044\u308b = to be about to do ~"
+    ],
+    [
+        "(I'm) about to learn the piano.",
+        "\u30d4\u30a2\u30ce\u3092{\u7fd2\u304a\u3046|\u306a\u3089\u304a\u3046}\u3068\u3057\u3066\u3044\u307e\u3059\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 + \u3068 + \u3057\u3066 + \u3044\u308b = to be about to do ~"
+    ],
+    [
+        "(My) father tried to buy a new jacket (but failed). {plain}",
+        "{\u7236|\u3061\u3061}\u306f{\u65b0\u3057\u3044|\u3042\u305f\u3089\u3057\u3044}\u30b8\u30e3\u30b1\u30c3\u30c8\u3092{\u8cb7\u304a\u3046|\u304b\u304a\u3046}\u3068\u3057\u305f\u3002",
+        "verb-\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = struggle with ~, tried ~ but failed"
     ]
 ])

@@ -4297,7 +4297,7 @@ Flashcards.initialize([
 [
     "(I) tried to learn Spanish but (I) wasn't very good.",
     "_supein_ {語|go} wo {習おう|naraou} to shimashita ga {余り|amari} {上手|jouzu} ja arimasen deshita.",
-    ""
+    "verb-おう/よう + と + する = struggle with ~, tried ~ but failed"
 ],
 [
     "(It) will probably rain tomorrow. {plain}",
@@ -4401,5 +4401,30 @@ Flashcards.initialize([
     "When (I) was learning English, among the practices (I) did after classes and homework, there are 3 that I think were good.",
     "{英語|eigo} wo {習って|naratte} ita {時|toki}, {授業|jugyou} to {宿題|shukudai} no {後|ato} ni {実践|jissen} shita {中|naka} de, {私|watashi} ga {良かった|yokatta} to {思う|omou} koto ga {三つ|mittsu} arimasu.",
     "verb-た + {時|とき} = when did/have done ~\nverb-う + こと = doing ~ (nominalize)"
+],
+[
+    "This time (I'll) make it up to (you).",
+    "{今度|kondo} {埋め合わせ|umeawase} shimasu.",
+    ""
+],
+[
+    "(I) tried to learn Spanish (but I failed). (I) had a go at learning Spanish.",
+    "_supein_ {語|go} wo {習おう|naraou} to shimashita. _supein_ {語|go} wo {習って|naratte} mimashita.",
+    "verb-おう/よう + と + する = struggle with ~, tried ~ but failed\nverb-て + みる = try doing ~"
+],
+[
+    "(I'm) about to eat breakfast.",
+    "{朝ごはん|asagohan} wo {食べよう|tabeyou} shite imasu.",
+    "verb-おう/よう + と + して + いる = to be about to do ~"
+],
+[
+    "(I'm) about to learn the piano.",
+    "_piano_ wo {習おう|naraou} to shite imasu.",
+    "verb-おう/よう + と + して + いる = to be about to do ~"
+],
+[
+    "(My) father tried to buy a new jacket (but failed). {plain}",
+    "{父|chichi} wa {新しい|atarashii} _jaketto_ wo {買おう|kaou} to shita.",
+    "verb-おう/よう + と + する = struggle with ~, tried ~ but failed"
 ]
 ])
