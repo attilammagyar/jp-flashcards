@@ -1666,7 +1666,7 @@ Flashcards.initialize([
 ],
 [
     "(My) stomach hurts.",
-    "onaka ga {痛い|itai} desu.",
+    "{お腹|onaka} ga {痛い|itai} desu.",
     ""
 ],
 [
@@ -1691,7 +1691,7 @@ Flashcards.initialize([
 ],
 [
     "(I) have a headache. (My) stomach also hurts.",
-    "{頭|atama} ga {痛い|itai} desu. onaka mo {痛い|itai} desu.",
+    "{頭|atama} ga {痛い|itai} desu. {お腹|onaka} mo {痛い|itai} desu.",
     ""
 ],
 [
@@ -1916,7 +1916,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) full.",
-    "onaka ga ippai desu.",
+    "{お腹|onaka} ga ippai desu.",
     ""
 ],
 [
