@@ -112,6 +112,9 @@ verb-う + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})
 verb-う + とか + verb-う + とか + する = representative examples of a class
 verb-う + noun = the ~ing noun
 verb-う + {時|とき} = when doing ~
+verb-う + でしょう/だろう = probably (will) do ~
+verb-う + ん + じゃない + でしょう + か = politeness
+verb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~
 
 Stem
 ----
@@ -146,6 +149,8 @@ verb-た + こと + が + ある = have done ~ (haven't done ~, have never done 
 verb-た + {後|あと} + で = after (finished) doing ~
 verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order
 verb-た + {時|とき} = when did/have done ~
+verb-た + か + も + しれません/しれない = might have done ~
+verb-た + でしょう/だろう = probably did ~
 
 おう/よう form
 ------------

@@ -4302,17 +4302,17 @@ Flashcards.initialize([
 [
     "(It) will probably rain tomorrow. {plain}",
     "{明日|ashita} wa {雨|ame} ga {降る|furu} darou.",
-    ""
+    "verb-た + でしょう/だろう = probably did ~"
 ],
 [
     "Today is fine but tomorrow (it) might rain.",
-    "{今日|kyou} wa {晴れ|hare} desu ga {明日|ashita} wa {雨|ame} ga {降る|furu} ka mo {知れません|shiremasen}.",
-    ""
+    "{今日|kyou} wa {晴れ|hare} desu ga {明日|ashita} wa {雨|ame} ga {降る|furu} ka mo shiremasen.",
+    "verb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~"
 ],
 [
-    "Isn't it probable that Mr. Hondo will come to the party?",
+    "Isn't it probable that Mr. Hondo will come to the party? (Won't Mr. Hondo probably come to the party?) {polite}",
     "hondou san wa パーティー ni {来る|kuru} n ja nai deshou ka.",
-    ""
+    "verb-う + でしょう/だろう = probably (will) do ~\nverb-う + ん + じゃない + でしょう + か = politeness"
 ],
 [
     "This evening (I) have decided to make Indian food.",
@@ -4426,5 +4426,40 @@ Flashcards.initialize([
     "(My) father tried to buy a new jacket (but failed). {plain}",
     "{父|chichi} wa {新しい|atarashii} _jaketto_ wo {買おう|kaou} to shita.",
     "verb-おう/よう + と + する = struggle with ~, tried ~ but failed"
+],
+[
+    "(It) will probably rain. (It) will possibly rain.",
+    "{雨|ame} ga {降る|furu} deshou. {雨|ame} ga {降る|furu} ka mo shiremasen.",
+    "verb-う + でしょう/だろう = probably (will) do ~\nverb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~"
+],
+[
+    "(He) probably ate (it) all. (He) might have eaten (it) all. {plain}",
+    "{全部|zenbu} {食べた|tabeta} darou. {全部|zenbu} {食べた|tabeta} ka mo shirenai.",
+    "verb-た + でしょう/だろう = probably did ~\nverb-た + か + も + しれません/しれない = might have done ~"
+],
+[
+    "(He) may surely go to the party.",
+    "kitto パーティー ni {行く|iku} deshou.",
+    "verb-う + でしょう/だろう = probably (will) do ~"
+],
+[
+    "(I) will probably have a day off work tomorrow.",
+    "{明日|ashita} {会社|kaisha} wo {休む|yasumu} deshou.",
+    "verb-う + でしょう/だろう = probably (will) do ~"
+],
+[
+    "Mr. Yamada isn't well so (he) might stay at home today.",
+    "{山田|yamada} san wa {気分|kibun} ga {悪い|warui} kara {今日|kyou} {家|uchi} ni iru ka mo shiremasen.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~"
+],
+[
+    "Today (the weather) is fine, so tomorrow will surely be fine as well.",
+    "{今日|kyou} wa {晴れ|hare} da kara {明日|ashita} mo kitto {晴れ|hare} deshou.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~"
+],
+[
+    "Won't the director probably phone Mr. Hondo? {polite}",
+    "{社長|shachou} wa hondou san ni {電話|denwa} suru n ja nai deshou ka.",
+    "verb-う + でしょう/だろう = probably (will) do ~\nverb-う + ん + じゃない + でしょう + か = politeness"
 ]
 ])

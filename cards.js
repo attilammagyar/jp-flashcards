@@ -4302,17 +4302,17 @@ Flashcards.initialize([
     [
         "(It) will probably rain tomorrow. {plain}",
         "{\u660e\u65e5|\u3042\u3057\u305f}\u306f{\u96e8|\u3042\u3081}\u304c{\u964d\u308b|\u3075\u308b}\u3060\u308d\u3046\u3002",
-        ""
+        "verb-\u305f + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably did ~"
     ],
     [
         "Today is fine but tomorrow (it) might rain.",
-        "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f{\u6674\u308c|\u306f\u308c}\u3067\u3059\u304c{\u660e\u65e5|\u3042\u3057\u305f}\u306f{\u96e8|\u3042\u3081}\u304c{\u964d\u308b|\u3075\u308b}\u304b\u3082{\u77e5\u308c\u307e\u305b\u3093|\u3057\u308c\u307e\u305b\u3093}\u3002",
-        ""
+        "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f{\u6674\u308c|\u306f\u308c}\u3067\u3059\u304c{\u660e\u65e5|\u3042\u3057\u305f}\u306f{\u96e8|\u3042\u3081}\u304c{\u964d\u308b|\u3075\u308b}\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3002",
+        "verb-\u3046 + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might do ~, possibly (will) do ~"
     ],
     [
-        "Isn't it probable that Mr. Hondo will come to the party?",
+        "Isn't it probable that Mr. Hondo will come to the party? (Won't Mr. Hondo probably come to the party?) {polite}",
         "\u307b\u3093\u3069\u3046\u3055\u3093\u306f\u30d1\u30fc\u30c6\u30a3\u30fc\u306b{\u6765\u308b|\u304f\u308b}\u3093\u3058\u3083\u306a\u3044\u3067\u3057\u3087\u3046\u304b\u3002",
-        ""
+        "verb-\u3046 + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably (will) do ~\nverb-\u3046 + \u3093 + \u3058\u3083\u306a\u3044 + \u3067\u3057\u3087\u3046 + \u304b = politeness"
     ],
     [
         "This evening (I) have decided to make Indian food.",
@@ -4428,5 +4428,40 @@ Flashcards.initialize([
         "(My) father tried to buy a new jacket (but failed). {plain}",
         "{\u7236|\u3061\u3061}\u306f{\u65b0\u3057\u3044|\u3042\u305f\u3089\u3057\u3044}\u30b8\u30e3\u30b1\u30c3\u30c8\u3092{\u8cb7\u304a\u3046|\u304b\u304a\u3046}\u3068\u3057\u305f\u3002",
         "verb-\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = struggle with ~, tried ~ but failed"
+    ],
+    [
+        "(It) will probably rain. (It) will possibly rain.",
+        "{\u96e8|\u3042\u3081}\u304c{\u964d\u308b|\u3075\u308b}\u3067\u3057\u3087\u3046\u3002{\u96e8|\u3042\u3081}\u304c{\u964d\u308b|\u3075\u308b}\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3002",
+        "verb-\u3046 + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably (will) do ~\nverb-\u3046 + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might do ~, possibly (will) do ~"
+    ],
+    [
+        "(He) probably ate (it) all. (He) might have eaten (it) all. {plain}",
+        "{\u5168\u90e8|\u305c\u3093\u3076}{\u98df\u3079\u305f|\u305f\u3079\u305f}\u3060\u308d\u3046\u3002{\u5168\u90e8|\u305c\u3093\u3076}{\u98df\u3079\u305f|\u305f\u3079\u305f}\u304b\u3082\u3057\u308c\u306a\u3044\u3002",
+        "verb-\u305f + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably did ~\nverb-\u305f + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might have done ~"
+    ],
+    [
+        "(He) may surely go to the party.",
+        "\u304d\u3063\u3068\u30d1\u30fc\u30c6\u30a3\u30fc\u306b{\u884c\u304f|\u3044\u304f}\u3067\u3057\u3087\u3046\u3002",
+        "verb-\u3046 + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably (will) do ~"
+    ],
+    [
+        "(I) will probably have a day off work tomorrow.",
+        "{\u660e\u65e5|\u3042\u3057\u305f}{\u4f1a\u793e|\u304b\u3044\u3057\u3083}\u3092{\u4f11\u3080|\u3084\u3059\u3080}\u3067\u3057\u3087\u3046\u3002",
+        "verb-\u3046 + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably (will) do ~"
+    ],
+    [
+        "Mr. Yamada isn't well so (he) might stay at home today.",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u6c17\u5206|\u304d\u3076\u3093}\u304c{\u60aa\u3044|\u308f\u308b\u3044}\u304b\u3089{\u4eca\u65e5|\u304d\u3087\u3046}{\u5bb6|\u3046\u3061}\u306b\u3044\u308b\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3002",
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb-\u3046 + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might do ~, possibly (will) do ~"
+    ],
+    [
+        "Today (the weather) is fine, so tomorrow will surely be fine as well.",
+        "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f{\u6674\u308c|\u306f\u308c}\u3060\u304b\u3089{\u660e\u65e5|\u3042\u3057\u305f}\u3082\u304d\u3063\u3068{\u6674\u308c|\u306f\u308c}\u3067\u3057\u3087\u3046\u3002",
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb-\u3046 + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might do ~, possibly (will) do ~"
+    ],
+    [
+        "Won't the director probably phone Mr. Hondo? {polite}",
+        "{\u793e\u9577|\u3057\u3083\u3061\u3087\u3046}\u306f\u307b\u3093\u3069\u3046\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3059\u308b\u3093\u3058\u3083\u306a\u3044\u3067\u3057\u3087\u3046\u304b\u3002",
+        "verb-\u3046 + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably (will) do ~\nverb-\u3046 + \u3093 + \u3058\u3083\u306a\u3044 + \u3067\u3057\u3087\u3046 + \u304b = politeness"
     ]
 ])
