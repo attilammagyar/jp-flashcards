@@ -69,7 +69,7 @@ noun + の + {時|とき} = when ~, as a ~
 Nominalization
 ==============
 verb-う + こと = doing ~ (nominalize)
-noun + {出来る｜できる} = can (do) noun
+noun + できる = can (do) noun
 verb stem + {方|kata} = how to do verb (verb --> noun)
 noun を verb --> noun の verb stem + {方|kata}
 verb-う/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)

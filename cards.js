@@ -3356,8 +3356,8 @@ Flashcards.initialize([
     ],
     [
         "Eri can already swim.",
-        "\u3048\u308a\u3061\u3083\u3093\u306f\u3082\u3046{\u6cf3\u3050\u3053\u3068|\u304a\u3088\u3050\u3053\u3068}{\u51fa\u6765\u307e\u3059|\u3067\u304d\u307e\u3059}\u3002",
-        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+        "\u3048\u308a\u3061\u3083\u3093\u306f\u3082\u3046{\u6cf3\u3050\u3053\u3068|\u304a\u3088\u3050\u3053\u3068}\u3067\u304d\u307e\u3059\u3002",
+        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + \u3067\u304d\u308b = can (do) noun"
     ],
     [
         "Roger likes to drink beer with (his) friends.",
@@ -3396,13 +3396,13 @@ Flashcards.initialize([
     ],
     [
         "Naoe can speak English a little.",
-        "\u306a\u304a\u3048\u3055\u3093\u306f{\u5c11\u3057|\u3059\u3053\u3057}{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u8a71\u3059\u3053\u3068|\u306f\u306a\u3059\u3053\u3068}\u304c{\u51fa\u6765\u307e\u3059|\u3067\u304d\u307e\u3059}\u3002",
-        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+        "\u306a\u304a\u3048\u3055\u3093\u306f{\u5c11\u3057|\u3059\u3053\u3057}{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u8a71\u3059\u3053\u3068|\u306f\u306a\u3059\u3053\u3068}\u304c\u3067\u304d\u307e\u3059\u3002",
+        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + \u3067\u304d\u308b = can (do) noun"
     ],
     [
         "I can't eat raw fish.",
-        "{\u79c1|\u308f\u305f\u3057}\u306f\u3055\u3057\u307f\u3092{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
-        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u3055\u3057\u307f\u3092{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + \u3067\u304d\u308b = can (do) noun"
     ],
     [
         "Rie likes doing cooking.",
@@ -3641,8 +3641,8 @@ Flashcards.initialize([
     ],
     [
         "(It's) strange but I can somehow understand.",
-        "\u304a\u304b\u3057\u3044\u3067\u3059\u3051\u3069\u3001{\u79c1|\u308f\u305f\u3057}\u306f{\u4f55\u3068\u306a\u304f|\u306a\u3093\u3068\u306a\u304f}\u308a\u304b\u3044{\u51fa\u6765\u307e\u3059|\u3067\u304d\u307e\u3059}\u3002",
-        "noun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+        "\u304a\u304b\u3057\u3044\u3067\u3059\u3051\u3069\u3001{\u79c1|\u308f\u305f\u3057}\u306f{\u4f55\u3068\u306a\u304f|\u306a\u3093\u3068\u306a\u304f}\u308a\u304b\u3044\u3067\u304d\u307e\u3059\u3002",
+        "noun + \u3067\u304d\u308b = can (do) noun"
     ],
     [
         "The zookeeper caught (it). Poor penguin.",
@@ -3656,8 +3656,8 @@ Flashcards.initialize([
     ],
     [
         "Why can't Roger eat meat? Because (he's) vegetarian. {\u304b\u3089}",
-        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f\u3069\u3046\u3057\u3066{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u304b\u3002\u30d9\u30b8\u30bf\u30ea\u30a2\u30f3\u3060\u304b\u3089\u3067\u3059\u3002",
-        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f\u3069\u3046\u3057\u3066{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c\u3067\u304d\u307e\u305b\u3093\u304b\u3002\u30d9\u30b8\u30bf\u30ea\u30a2\u30f3\u3060\u304b\u3089\u3067\u3059\u3002",
+        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + \u3067\u304d\u308b = can (do) noun\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "Erm... are (you) free tonight?",
@@ -3681,7 +3681,7 @@ Flashcards.initialize([
     ],
     [
         "I'm vegetarian so (I) can't eat meat. {\u306e \u3067} But fish is OK. (Because I) can eat (that).",
-        "\u307c\u304f\u306f\u30d9\u30b8\u30bf\u30ea\u30a2\u30f3\u306a\u306e\u3067{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002\u3067\u3082{\u9b5a|\u3055\u304b\u306a}\u306f{\u5927\u4e08\u592b|\u3060\u3044\u3058\u3087\u3046\u3076}\u3067\u3059\u3002{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c{\u51fa\u6765\u308b|\u3067\u304d\u308b}\u3093\u3067\u3059\u3002",
+        "\u307c\u304f\u306f\u30d9\u30b8\u30bf\u30ea\u30a2\u30f3\u306a\u306e\u3067{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c\u3067\u304d\u307e\u305b\u3093\u3002\u3067\u3082{\u9b5a|\u3055\u304b\u306a}\u306f{\u5927\u4e08\u592b|\u3060\u3044\u3058\u3087\u3046\u3076}\u3067\u3059\u3002{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c\u3067\u304d\u308b\u3093\u3067\u3059\u3002",
         "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
@@ -3696,8 +3696,8 @@ Flashcards.initialize([
     ],
     [
         "(I) also like Spanish food very much but (I) can't make (it).",
-        "\u30b9\u30da\u30a4\u30f3\u306e{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3082\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304c{\u4f5c\u308b\u3053\u3068|\u3064\u304f\u308b\u3053\u3068}\u306f{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
-        "noun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+        "\u30b9\u30da\u30a4\u30f3\u306e{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3082\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304c{\u4f5c\u308b\u3053\u3068|\u3064\u304f\u308b\u3053\u3068}\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+        "noun + \u3067\u304d\u308b = can (do) noun"
     ],
     [
         "Tonight (I) plan to meet a friend in town and eat Spanish food in a tasty restaurant.",
@@ -3771,8 +3771,8 @@ Flashcards.initialize([
     ],
     [
         "(I) also like Japanese food very much, but (I) can't make (it).",
-        "{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3082\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304c{\u4f5c\u308b\u3053\u3068|\u3064\u304f\u308b\u3053\u3068}\u306f{\u51fa\u6765\u307e\u305b\u3093|\u3067\u304d\u307e\u305b\u3093}\u3002",
-        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3082\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304c{\u4f5c\u308b\u3053\u3068|\u3064\u304f\u308b\u3053\u3068}\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + \u3067\u304d\u308b = can (do) noun"
     ],
     [
         "(I) think Roger doesn't like sushi very much. Because (he) didn't eat (it) only a little. {\u304b\u3089}",
@@ -4241,8 +4241,8 @@ Flashcards.initialize([
     ],
     [
         "When (I) lived in Australia, (I) spoke English well.",
-        "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u305f{\u6642|\u3068\u304d}{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u3088\u304f{\u51fa\u6765\u307e\u3057\u305f|\u3067\u304d\u307e\u3057\u305f}\u3002",
-        "verb-\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nnoun + {\u51fa\u6765\u308b\uff5c\u3067\u304d\u308b} = can (do) noun"
+        "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u305f{\u6642|\u3068\u304d}{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u3088\u304f\u3067\u304d\u307e\u3057\u305f\u3002",
+        "verb-\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nnoun + \u3067\u304d\u308b = can (do) noun"
     ],
     [
         "(I) went to bed late last night, so (I'm) totally exhausted. {plain}",
@@ -4463,5 +4463,35 @@ Flashcards.initialize([
         "Won't the director probably phone Mr. Hondo? {polite}",
         "{\u793e\u9577|\u3057\u3083\u3061\u3087\u3046}\u306f\u307b\u3093\u3069\u3046\u3055\u3093\u306b{\u96fb\u8a71|\u3067\u3093\u308f}\u3059\u308b\u3093\u3058\u3083\u306a\u3044\u3067\u3057\u3087\u3046\u304b\u3002",
         "verb-\u3046 + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably (will) do ~\nverb-\u3046 + \u3093 + \u3058\u3083\u306a\u3044 + \u3067\u3057\u3087\u3046 + \u304b = politeness"
+    ],
+    [
+        "(You) definitely can't do (it).",
+        "\u305c\u3063\u305f\u3044\u3067\u304d\u307e\u305b\u3093\u3002",
+        "noun + \u3067\u304d\u308b = can (do) noun"
+    ],
+    [
+        "Anybody can do (it).",
+        "{\u8ab0|\u3060\u308c}\u3067\u3082\u3067\u304d\u307e\u3059\u3002",
+        "noun + \u3067\u304d\u308b = can (do) noun"
+    ],
+    [
+        "(I) experienced (working as a) volunteer in the hospital last year. {plain}",
+        "{\u53bb\u5e74|\u304d\u3087\u306d\u3093}\u306f\u3001{\u75c5\u9662|\u3073\u3087\u3046\u3044\u3093}\u3067\u30dc\u30e9\u30f3\u30c6\u30a3\u30a2\u3092\u3051\u3044\u3051\u3093\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Technique and a knack is necessary. You don't have either.",
+        "\u304e\u3058\u3085\u3064\u3068\u30b3\u30c4\u304c\u3072\u3064\u3088\u3046\u3067\u3059\u3002\u3042\u306a\u305f\u306b{\u4e21\u65b9|\u308a\u3087\u3046\u307b\u3046}\u3068\u3082\u3042\u308a\u307e\u305b\u3093\u3002",
+        ""
+    ],
+    [
+        "Experience is also important. Anyway, you can't do (it).",
+        "\u3051\u3044\u3051\u3093\u3082{\u5927\u4e8b|\u3060\u3044\u3058}\u3067\u3059\u3002\u3068\u306b\u304b\u304f\u3001\u3042\u306a\u305f\u306b\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+        "noun + \u3067\u304d\u308b = can (do) noun"
+    ],
+    [
+        "(I) messed up. {plain}",
+        "\u3057\u307e\u3063\u305f\u3002",
+        ""
     ]
 ])
