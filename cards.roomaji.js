@@ -4333,7 +4333,7 @@ Flashcards.initialize([
     "verb-う + {前|まえ} に = before doing ~"
 ],
 [
-    "(I) will watch the film.",
+    "(I) _will_ watch the film.",
     "{私|watashi} wa {映画|eiga} wo {見よう|miyou}.",
     "verb-おう/よう = talking about/to self, I _will_, shall I?"
 ],
@@ -4490,6 +4490,31 @@ Flashcards.initialize([
 [
     "(I) messed up. {plain}",
     "shimatta.",
+    ""
+],
+[
+    "What kind of person is good? Anyone is okay.",
+    "don na {人|hito} ga ii desu ka. {誰|dare} de mo ii desu.",
+    ""
+],
+[
+    "Anyone can understand such a question",
+    "Son na {問題|mondai}, {誰|dare} de mo {分かります|wakarimasu}.",
+    ""
+],
+[
+    "(I) like both fish and meat.",
+    "{肉|niku} mo {魚|sakana} mo, {両方|ryouhou} to mo {好き|suki} desu.",
+    ""
+],
+[
+    "(I) have (something) important to talk about.",
+    "{大事|daiji} na {話|hanashi} ga arimasu.",
+    ""
+],
+[
+    "What kind of omlet do you like? Anything is okay.",
+    "don na _omuretsu_ ga {好き|suki} desu ka? {何|nan} de mo ii desu.",
     ""
 ]
 ])

@@ -4335,7 +4335,7 @@ Flashcards.initialize([
         "verb-\u3046 + {\u524d|\u307e\u3048} \u306b = before doing ~"
     ],
     [
-        "(I) will watch the film.",
+        "(I) _will_ watch the film.",
         "{\u79c1|\u308f\u305f\u3057}\u306f{\u6620\u753b|\u3048\u3044\u304c}\u3092{\u898b\u3088\u3046|\u307f\u3088\u3046}\u3002",
         "verb-\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
     ],
@@ -4492,6 +4492,31 @@ Flashcards.initialize([
     [
         "(I) messed up. {plain}",
         "\u3057\u307e\u3063\u305f\u3002",
+        ""
+    ],
+    [
+        "What kind of person is good? Anyone is okay.",
+        "\u3069\u3093\u306a{\u4eba|\u3072\u3068}\u304c\u3044\u3044\u3067\u3059\u304b\u3002{\u8ab0|\u3060\u308c}\u3067\u3082\u3044\u3044\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "Anyone can understand such a question",
+        "\u305d\u3093\u306a{\u554f\u984c|\u3082\u3093\u3060\u3044}\u3001{\u8ab0|\u3060\u308c}\u3067\u3082{\u5206\u304b\u308a\u307e\u3059|\u308f\u304b\u308a\u307e\u3059}\u3002",
+        ""
+    ],
+    [
+        "(I) like both fish and meat.",
+        "{\u8089|\u306b\u304f}\u3082{\u9b5a|\u3055\u304b\u306a}\u3082\u3001{\u4e21\u65b9|\u308a\u3087\u3046\u307b\u3046}\u3068\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "(I) have (something) important to talk about.",
+        "{\u5927\u4e8b|\u3060\u3044\u3058}\u306a{\u8a71|\u306f\u306a\u3057}\u304c\u3042\u308a\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "What kind of omlet do you like? Anything is okay.",
+        "\u3069\u3093\u306a\u30aa\u30e0\u30ec\u30c4\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304b?{\u4f55|\u306a\u3093}\u3067\u3082\u3044\u3044\u3067\u3059\u3002",
         ""
     ]
 ])
