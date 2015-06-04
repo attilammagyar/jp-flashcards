@@ -191,7 +191,7 @@ Flashcards.initialize([
 ],
 [
     "(That's) impossible for me.",
-    "{私|watashi} ni wa muri desu.",
+    "{私|watashi} ni wa {無理|muri} desu.",
     ""
 ],
 [
@@ -4498,7 +4498,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Anyone can understand such a question",
+    "Anyone can understand such a problem.",
     "Son na {問題|mondai}, {誰|dare} de mo {分かります|wakarimasu}.",
     ""
 ],

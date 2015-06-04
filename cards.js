@@ -191,7 +191,7 @@ Flashcards.initialize([
     ],
     [
         "(That's) impossible for me.",
-        "{\u79c1|\u308f\u305f\u3057}\u306b\u306f\u3080\u308a\u3067\u3059\u3002",
+        "{\u79c1|\u308f\u305f\u3057}\u306b\u306f{\u7121\u7406|\u3080\u308a}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -4500,7 +4500,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Anyone can understand such a question",
+        "Anyone can understand such a problem.",
         "\u305d\u3093\u306a{\u554f\u984c|\u3082\u3093\u3060\u3044}\u3001{\u8ab0|\u3060\u308c}\u3067\u3082{\u5206\u304b\u308a\u307e\u3059|\u308f\u304b\u308a\u307e\u3059}\u3002",
         ""
     ],
