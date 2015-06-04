@@ -4515,8 +4515,8 @@ Flashcards.initialize([
         ""
     ],
     [
-        "What kind of omlet do you like? Anything is okay.",
-        "\u3069\u3093\u306a\u30aa\u30e0\u30ec\u30c4\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304b?{\u4f55|\u306a\u3093}\u3067\u3082\u3044\u3044\u3067\u3059\u3002",
+        "What kind of omlet do (you) like? Anything is okay.",
+        "\u3069\u3093\u306a\u30aa\u30e0\u30ec\u30c4\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304b\u3002{\u4f55|\u306a\u3093}\u3067\u3082\u3044\u3044\u3067\u3059\u3002",
         ""
     ]
 ])

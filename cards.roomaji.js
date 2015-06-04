@@ -4513,8 +4513,8 @@ Flashcards.initialize([
     ""
 ],
 [
-    "What kind of omlet do you like? Anything is okay.",
-    "don na _omuretsu_ ga {好き|suki} desu ka? {何|nan} de mo ii desu.",
+    "What kind of omlet do (you) like? Anything is okay.",
+    "don na _omuretsu_ ga {好き|suki} desu ka. {何|nan} de mo ii desu.",
     ""
 ]
 ])
