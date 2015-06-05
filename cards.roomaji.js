@@ -651,12 +651,12 @@ Flashcards.initialize([
 ],
 [
     "(I) need money. {Money is a necessity.}",
-    "{お金|okane} ga hitsuyou desu.",
+    "{お金|okane} ga {必要|hitsuyou} desu.",
     ""
 ],
 [
     "(I) need time. {Time is a necessity.}",
-    "{時間|jikan} ga hitsuyou desu.",
+    "{時間|jikan} ga {必要|hitsuyou} desu.",
     ""
 ],
 [
@@ -4474,17 +4474,17 @@ Flashcards.initialize([
 ],
 [
     "(I) experienced (working as a) volunteer in the hospital last year. {plain}",
-    "{去年|kyonen} wa, {病院|byouin} de ボランティア wo keiken shita.",
+    "{去年|kyonen} wa, {病院|byouin} de ボランティア wo {経験|keiken} shita.",
     ""
 ],
 [
     "Technique and a knack is necessary. You don't have either.",
-    "gijutsu to _kotsu_ ga hitsuyou desu. anata ni {両方|ryouhou} to mo arimasen.",
+    "{技術|gijutsu} to _kotsu_ ga {必要|hitsuyou} desu. anata ni {両方|ryouhou} to mo arimasen.",
     ""
 ],
 [
     "Experience is also important. Anyway, you can't do (it).",
-    "keiken mo {大事|daiji} desu. tonikaku, anata ni wa dekimasen.",
+    "{経験|keiken} mo {大事|daiji} desu. tonikaku, anata ni wa dekimasen.",
     "noun + できる = can (do) noun"
 ],
 [
