@@ -4,14 +4,10 @@
     <title>Flashcards</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <link rel="stylesheet" href="flashcards.css" />
 </head>
 <body>
-    <div id="card">
-        <p><span id="index"></span> <span id="question"></span></p>
-        <p id="answer" class="hidden"></p>
-        <div id="notes" class="hidden"></div>
-    </div>
     <div id="stats">
         <a href="#" id="stats-focus-size" target="_blank">?</a>,
         <span id="stats-good">?</span>|<span id="stats-bad">?</span>
@@ -35,6 +31,11 @@
             <button id="extend-focus">Extend!</button>
         </div>
     </form>
+    <div id="card">
+        <p><span id="index"></span> <span id="question"></span></p>
+        <p id="answer" class="hidden"></p>
+        <div id="notes" class="hidden"></div>
+    </div>
     <script type="text/javascript" src="flashcards.js"></script>
     <script type="text/javascript" src="cards.js"></script>
 </body>

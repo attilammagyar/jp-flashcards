@@ -12,14 +12,13 @@
 
     ruby rt {
         font-size: 57%;
-        color: rgba(0, 0, 0, 0.42);
+        color: rgba(0, 0, 0, 0.5);
     }
 
     dt {
         float: left;
         width: 50%;
         margin-right: 1em;
-        overflow: auto;
     }
 
     dd {
@@ -40,7 +39,7 @@
 
     div.with_furigana {
         margin-top: 0.5em;
-        color: rgba(0, 0, 0, 0.5);
+        color: rgba(0, 0, 0, 0.7);
     }
 
     div.expand {
@@ -127,10 +126,12 @@
                 html += (
                     "<li value=\"" + String(cs[i] + 1) + "\">"
                     + "<dt>"
+                    + Flashcards.formatJapaneseHtml(c[1])
+                    + "</dt>"
+                    + "<dd>"
                     + "<div>" + c[0] + "</div>"
                     + "<div class=\"notes\">" + c[2] + "</div>"
-                    + "</dt>"
-                    + "<dd>" + Flashcards.formatJapaneseHtml(c[1]) + "</dd>"
+                    + "</dd>"
                     + "<div class=\"expand\"></div>"
                     + "</li>"
                 );

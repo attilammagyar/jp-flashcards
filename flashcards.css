@@ -10,14 +10,15 @@ html, body {
     width: 100vw;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 div#card {
     text-align: center;
 }
 
 div#card {
-    position: absolute;
-    z-index: 50;
-    top: 5vh;
     width: 94vw;
     margin-left: 3vw;
     margin-right: 3vw;
@@ -63,8 +64,8 @@ ruby {
 
 ruby.visible {
     transition: background-color 0.0s, border-color 0.0s;
-    background-color: #e8f4ff;
-    border-color: #80a0b0;
+    background-color: #f4f8ff;
+    border-color: #a8b8d0;
 }
 
 ruby rt {
@@ -107,23 +108,25 @@ div#stats span#stats-bad {
 
 form#rate {
     display: block;
-    position: absolute;
-    z-index: 100;
-    bottom: 25vh;
-    left: 10vw;
+    margin-top: 10vmin;
+    margin-left: 10vw;
+    margin-right: 10vw;
     width: 80vw;
+    height: 28vmin;
     text-align: center;
     background-color: #fff8d0;
     border: solid 1vmin #f0e8b0;
     padding: 0.7vmin;
     border-radius: 3vmin;
     opacity: 1.0;
-    transition: opacity 0.15s;
+    transition: opacity 0.25s;
+    transition: height 0.25s;
 }
 
 form#rate.hidden {
     opacity: 0.0;
     transition: opacity 0.0s;
+    transition: height 0.0s;
     height: 0;
     padding: 0;
     border-style: none;

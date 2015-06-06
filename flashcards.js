@@ -180,7 +180,7 @@
                 Flashcards.parseSettings(settings[1]);
             }
 
-            $("card").onclick = Flashcards.moveToNextState;
+            $("card").onclick = Flashcards.clickCard;
             $("rate-bad-add-to-focus").onclick = Flashcards.rateBadAddToFocus;
             $("rate-good-add-to-focus").onclick = Flashcards.rateGoodAddToFocus;
             $("rate-skip").onclick = Flashcards.rateSkip;
@@ -316,6 +316,13 @@
         nextState: function (nextState)
         {
             Flashcards.state = nextState;
+        },
+
+        clickCard: function ()
+        {
+            if (Flashcards.state !== Flashcards.states.subsequentialQuestion) {
+                Flashcards.moveToNextState();
+            }
         },
 
         moveToNextState: function ()
