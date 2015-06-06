@@ -4414,7 +4414,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) about to eat breakfast.",
-    "{朝ごはん|asagohan} wo {食べよう|tabeyou} shite imasu.",
+    "{朝ごはん|asagohan} wo {食べよう|tabeyou} to shite imasu.",
     "verb-おう/よう + と + して + いる = to be about to do ~"
 ],
 [
