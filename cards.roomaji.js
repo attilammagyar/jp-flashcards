@@ -346,7 +346,7 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) play golf with (my) colleagues, but usually (I) chill out with (my) family at home.",
-    "{時々|tokidoki} jimusho no {人|hito} to _gorufu_ wo shimasu ga taitei kazokoku to {家|uchi} de gorogoro shimasu.",
+    "{時々|tokidoki} jimusho no {人|hito} to _gorufu_ wo shimasu ga taitei {家族|kazokoku} to {家|uchi} de gorogoro shimasu.",
     ""
 ],
 [
@@ -626,7 +626,7 @@ Flashcards.initialize([
 ],
 [
     "older brother {In-group, in-group by boys, out-group.}",
-    "{兄|ani}, {兄ki|aniki}, {お兄さん|oniisan}",
+    "{兄|ani}, {兄き|aniki}, {お兄さん|oniisan}",
     ""
 ],
 [
@@ -741,7 +741,7 @@ Flashcards.initialize([
 ],
 [
     "Do (you) sell camera batteries?",
-    "_kamera_ no denchi wo {売って|utte} imasu ka.",
+    "_kamera_ no {電池|denchi} wo {売って|utte} imasu ka.",
     "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -776,7 +776,7 @@ Flashcards.initialize([
 ],
 [
     "8 pairs of shoes",
-    "{靴|kutsu} hassoku",
+    "{靴|kutsu} {八足|hassoku}",
     ""
 ],
 [
@@ -1701,7 +1701,7 @@ Flashcards.initialize([
 ],
 [
     "It's not cold. It's a hangover!",
-    "kaze deha arimasen. {二日yoi|futsukayoi} desu yo.",
+    "{風邪|kaze} deha arimasen. {二日yoi|futsukayoi} desu yo.",
     ""
 ],
 [
@@ -1836,7 +1836,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 2 tickets for Osaka please?",
-    "oosaka yuki no {切符|kippu} wo {二|ni} {枚|mai} kudasai.",
+    "oosaka {行き|yuki} no {切符|kippu} wo {二|ni} {枚|mai} kudasai.",
     ""
 ],
 [
@@ -2006,7 +2006,7 @@ Flashcards.initialize([
 ],
 [
     "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
-    "oosaka yuki no {切符|kippu} wo {ニ|ni} {枚|mai} kudasai. katamichi desu ka. oufuku desu ka. katamichi desu.",
+    "oosaka {行き|yuki} no {切符|kippu} wo {ニ|ni} {枚|mai} kudasai. katamichi desu ka. oufuku desu ka. katamichi desu.",
     ""
 ],
 [
@@ -2136,7 +2136,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to be a writer.",
-    "sakka ni naritai desu.",
+    "{作家|sakka} ni naritai desu.",
     "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2326,7 +2326,7 @@ Flashcards.initialize([
 ],
 [
     "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
-    "{有名そう|yuumeisou} desu. {此の|kono} {映画|eiga} wa tsumaranasou desu. {頭|atama} ga itasou desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
+    "{有名そう|yuumeisou} desu. {此の|kono} {映画|eiga} wa tsumaranasou desu. {頭|atama} ga {痛そう|itasou} desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
     "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
@@ -2376,7 +2376,7 @@ Flashcards.initialize([
 ],
 [
     "I go to the gym on weeknights.",
-    "hei jitsu no {夜|yoru}, {私|watashi} wa _jimu_ ni {行きます|ikimasu}.",
+    "{平日|heijitsu} no {夜|yoru}, {私|watashi} wa _jimu_ ni {行きます|ikimasu}.",
     ""
 ],
 [
@@ -2956,7 +2956,7 @@ Flashcards.initialize([
 ],
 [
     "(I) also changed the batteries in the radio.",
-    "_rajio_ no denchi mo koukan shimashita.",
+    "_rajio_ no {電池|denchi} mo koukan shimashita.",
     ""
 ],
 [
@@ -3481,7 +3481,7 @@ Flashcards.initialize([
 ],
 [
     "(You) said \"definitely this week\". Did (you) forget?",
-    "zettai ni {今週|konshuu} to {言いました|iimashita}. {忘れました|wasuremashita} ka.",
+    "{絶対|zettai} ni {今週|konshuu} to {言いました|iimashita}. {忘れました|wasuremashita} ka.",
     ""
 ],
 [
@@ -4464,7 +4464,7 @@ Flashcards.initialize([
 ],
 [
     "(You) definitely can't do (it).",
-    "zettai dekimasen.",
+    "{絶対|zettai} dekimasen.",
     "noun + できる = can (do) noun"
 ],
 [
