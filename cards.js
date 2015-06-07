@@ -4315,14 +4315,14 @@ Flashcards.initialize([
         "verb-\u3046 + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably (will) do ~\nverb-\u3046 + \u3093 + \u3058\u3083\u306a\u3044 + \u3067\u3057\u3087\u3046 + \u304b = politeness"
     ],
     [
-        "This evening (I) have decided to make Indian food.",
+        "This evening (I have decided) to make Indian food.",
         "{\u4eca\u6669|\u3053\u3093\u3070\u3093}\u30a4\u30f3\u30c9{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3092\u3059\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
-        ""
+        "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u305f = (I have decided to) ~"
     ],
     [
-        "Every day (I) make it a rule to swim in the pool for about one hour. {plain}",
+        "Every day (I make it a rule to) swim in the pool for about one hour. {plain}",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u30d7\u30fc\u30eb\u3067{\u4e00\u6642\u9593|\u3044\u3061\u3058\u304b\u3093}\u3050\u3089\u3044{\u6cf3\u3050|\u304a\u3088\u3050}\u3053\u3068\u306b\u3057\u3066\u3044\u308b\u3002",
-        ""
+        "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u3066 + \u3044\u308b = (I make it a rule to) ~"
     ],
     [
         "Tomorrow it has been arranged (for me) to meet Mr. Hondo.",
@@ -4505,7 +4505,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "(I) like both fish and meat.",
+        "(I) like both meat and fish.",
         "{\u8089|\u306b\u304f}\u3082{\u9b5a|\u3055\u304b\u306a}\u3082\u3001{\u4e21\u65b9|\u308a\u3087\u3046\u307b\u3046}\u3068\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
         ""
     ],
@@ -4518,5 +4518,40 @@ Flashcards.initialize([
         "What kind of omlet do (you) like? Anything is okay.",
         "\u3069\u3093\u306a\u30aa\u30e0\u30ec\u30c4\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u304b\u3002{\u4f55|\u306a\u3093}\u3067\u3082\u3044\u3044\u3067\u3059\u3002",
         ""
+    ],
+    [
+        "(I've decided I'll) have a coffee.",
+        "\u30b3\u30fc\u30d2\u30fc\u306b\u3057\u307e\u3059\u3002",
+        "verb-\u3046\u3053\u3068/noun + \u306b + \u3059\u308b = (I have decided I will do) ~"
+    ],
+    [
+        "(I've decided to) take a day off work tomorrow.",
+        "{\u660e\u65e5|\u3042\u3057\u305f}{\u4f1a\u793e|\u304b\u3044\u3057\u3083}\u3092{\u4f11\u3080|\u3084\u3059\u3080}\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
+        "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u305f = (I have decided to) ~"
+    ],
+    [
+        "Let's (decide to) travel through Europe.",
+        "\u30e8\u30fc\u30ed\u30c3\u30d1\u3092{\u65c5\u884c|\u308a\u3087\u3053\u3046}\u3059\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u3087\u3046\u3002",
+        "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u305f = (I have decided to) ~"
+    ],
+    [
+        "(As a rule I) take a walk every morning. {plain}",
+        "{\u6bce\u671d|\u307e\u3044\u3042\u3055}{\u6563\u6b69|\u3055\u3093\u307d}\u3059\u308b\u3053\u3068\u306b\u3057\u3066\u3044\u308b\u3002",
+        "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u3066 + \u3044\u308b = (I make it a rule to) ~"
+    ],
+    [
+        "(I've decided to) go home at 10 o'clock.",
+        "{\u5341\u6642|\u3058\u3085\u3046\u3058}\u306b{\u5bb6|\u3046\u3061}\u306b{\u5e30\u308b|\u304b\u3048\u308b}\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
+        "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u305f = (I have decided to) ~"
+    ],
+    [
+        "(I've decided to) give up beer.",
+        "\u30d3\u30fc\u30eb\u3092{\u6b62\u3081\u308b|\u3084\u3081\u308b}\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
+        "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u305f = (I have decided to) ~"
+    ],
+    [
+        "(I make it a rule to) drink plenty of water every day.",
+        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u6c34|\u307f\u305a}\u3092{\u6ca2\u5c71|\u305f\u304f\u3055\u3093}{\u98f2\u3080|\u306e\u3080}\u3053\u3068\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+        "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u3066 + \u3044\u308b = (I make it a rule to) ~"
     ]
 ])

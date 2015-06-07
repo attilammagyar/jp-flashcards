@@ -4315,18 +4315,20 @@ Flashcards.initialize([
     "verb-う + でしょう/だろう = probably (will) do ~\nverb-う + ん + じゃない + でしょう + か = politeness"
 ],
 [
-    "This evening (I) have decided to make Indian food.",
+    "This evening (I have decided) to make Indian food.",
     "{今晩|konban} _indo_ {料理|ryouri} wo suru koto ni shimashita.",
-    ""
+    "verb-うこと/noun + に + した = (I have decided to) ~"
 ],
 [
-    "Every day (I) make it a rule to swim in the pool for about one hour. {plain}",
+    "Every day (I make it a rule to) swim in the pool for about one hour. {plain}",
     "{毎日|mainichi} _puuru_ de {一時間|ichijikan} gurai {泳ぐ|oyogu} koto ni shite iru.",
-    ""],
+    "verb-うこと/noun + に + して + いる = (I make it a rule to) ~"
+],
 [
     "Tomorrow it has been arranged (for me) to meet Mr. Hondo.",
     "{明日|ashita} hondou san ni {会う|au} koto ni narimashita.",
-    ""],
+    ""
+],
 [
     "In Japan, before getting into the bath, (you're) supposed to wash (yourself).",
     "{日本|nihon} de wa ofuro ni {入る|hairu} {前|mae} ni {洗う|arau} koto ni natte imasu.",
@@ -4503,7 +4505,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "(I) like both fish and meat.",
+    "(I) like both meat and fish.",
     "{肉|niku} mo {魚|sakana} mo, {両方|ryouhou} to mo {好き|suki} desu.",
     ""
 ],
@@ -4516,5 +4518,40 @@ Flashcards.initialize([
     "What kind of omlet do (you) like? Anything is okay.",
     "don na _omuretsu_ ga {好き|suki} desu ka. {何|nan} de mo ii desu.",
     ""
+],
+[
+    "(I've decided I'll) have a coffee.",
+    "_koohii_ ni shimasu.",
+    "verb-うこと/noun + に + する = (I have decided I will do) ~"
+],
+[
+    "(I've decided to) take a day off work tomorrow.",
+    "{明日|ashita} {会社|kaisha} wo {休む|yasumu} koto ni shimashita.",
+    "verb-うこと/noun + に + した = (I have decided to) ~"
+],
+[
+    "Let's (decide to) travel through Europe.",
+    "_yooroppa_ wo {旅行|ryokou} suru koto ni shimashou.",
+    "verb-うこと/noun + に + した = (I have decided to) ~"
+],
+[
+    "(As a rule I) take a walk every morning. {plain}",
+    "{毎朝|maiasa} {散歩|sanpo} suru koto ni shite iru.",
+    "verb-うこと/noun + に + して + いる = (I make it a rule to) ~"
+],
+[
+    "(I've decided to) go home at 10 o'clock.",
+    "{十時|juuji} ni {家|uchi} ni {帰る|kaeru} koto ni shimashita.",
+    "verb-うこと/noun + に + した = (I have decided to) ~"
+],
+[
+    "(I've decided to) give up beer.",
+    "_biiru_ wo {止める|yameru} koto ni shimashita.",
+    "verb-うこと/noun + に + した = (I have decided to) ~"
+],
+[
+    "(I make it a rule to) drink plenty of water every day.",
+    "{毎日|mainichi} {水|mizu} wo {沢山|takusan} {飲む|nomu} koto ni shite imasu.",
+    "verb-うこと/noun + に + して + いる = (I make it a rule to) ~"
 ]
 ])
