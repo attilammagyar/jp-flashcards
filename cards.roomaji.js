@@ -4325,14 +4325,14 @@ Flashcards.initialize([
     "verb-うこと/noun + に + して + いる = (I make it a rule to) ~"
 ],
 [
-    "Tomorrow it has been arranged (for me) to meet Mr. Hondo.",
+    "Tomorrow (it has been arranged for me to) meet Mr. Hondo.",
     "{明日|ashita} hondou san ni {会う|au} koto ni narimashita.",
-    ""
+    "verb-うこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
-    "In Japan, before getting into the bath, (you're) supposed to wash (yourself).",
+    "In Japan, before getting into the bath, (you're supposed to) wash (yourself).",
     "{日本|nihon} de wa ofuro ni {入る|hairu} {前|mae} ni {洗う|arau} koto ni natte imasu.",
-    "verb-う + {前|まえ} に = before doing ~"
+    "verb-う + {前|まえ} に = before doing ~\nverb-うこと + に + なって + いる = rules, customs, how things are supposed to be done"
 ],
 [
     "(I) _will_ watch the film.",
@@ -4553,5 +4553,40 @@ Flashcards.initialize([
     "(I make it a rule to) drink plenty of water every day.",
     "{毎日|mainichi} {水|mizu} wo {沢山|takusan} {飲む|nomu} koto ni shite imasu.",
     "verb-うこと/noun + に + して + いる = (I make it a rule to) ~"
+],
+[
+    "(It has been decided that I) will go on a business trip to Osaka next week.",
+    "{来週|raishuu} oosaka ni shucchou suru koto ni narimashita.",
+    "verb-うこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+],
+[
+    "(It has been arranged for me to) travel to England with (my) family. {plain}",
+    "{家族|kazoku} to _igirisu_ ni {旅行|ryokou} suru koto ni natta.",
+    "verb-うこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+],
+[
+    "How many hours does (it) take? How long does (it) take? How long/far is (it)?",
+    "{何時間|nanjikan} {掛かります|kakarimasu} ka. dono gurai {掛かります|kakarimasu} ka. dono gurai desu ka.",
+    ""
+],
+[
+    "How many hours? 2 hours.",
+    "{何時間|nanjikan}? {二時間|nijikan}",
+    ""
+],
+[
+    "How many weeks? 2 weeks.",
+    "{何週間|nanshuukan}? {二週間|nishuukan}",
+    ""
+],
+[
+    "How many months? 2 months.",
+    "{何カ月|nankagetsu}? {二カ月|nikagetsu}",
+    ""
+],
+[
+    "How many years? 2 years.",
+    "{何年|nannen} ({間|kan})? {二年|ninen} ({間|kan})",
+    ""
 ]
 ])

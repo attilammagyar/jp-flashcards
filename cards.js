@@ -4325,14 +4325,14 @@ Flashcards.initialize([
         "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u3066 + \u3044\u308b = (I make it a rule to) ~"
     ],
     [
-        "Tomorrow it has been arranged (for me) to meet Mr. Hondo.",
+        "Tomorrow (it has been arranged for me to) meet Mr. Hondo.",
         "{\u660e\u65e5|\u3042\u3057\u305f}\u307b\u3093\u3069\u3046\u3055\u3093\u306b{\u4f1a\u3046|\u3042\u3046}\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        ""
+        "verb-\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
-        "In Japan, before getting into the bath, (you're) supposed to wash (yourself).",
+        "In Japan, before getting into the bath, (you're supposed to) wash (yourself).",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u3067\u306f\u304a\u3075\u308d\u306b{\u5165\u308b|\u306f\u3044\u308b}{\u524d|\u307e\u3048}\u306b{\u6d17\u3046|\u3042\u3089\u3046}\u3053\u3068\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002",
-        "verb-\u3046 + {\u524d|\u307e\u3048} \u306b = before doing ~"
+        "verb-\u3046 + {\u524d|\u307e\u3048} \u306b = before doing ~\nverb-\u3046\u3053\u3068 + \u306b + \u306a\u3063\u3066 + \u3044\u308b = rules, customs, how things are supposed to be done"
     ],
     [
         "(I) _will_ watch the film.",
@@ -4553,5 +4553,40 @@ Flashcards.initialize([
         "(I make it a rule to) drink plenty of water every day.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u6c34|\u307f\u305a}\u3092{\u6ca2\u5c71|\u305f\u304f\u3055\u3093}{\u98f2\u3080|\u306e\u3080}\u3053\u3068\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
         "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u3066 + \u3044\u308b = (I make it a rule to) ~"
+    ],
+    [
+        "(It has been decided that I) will go on a business trip to Osaka next week.",
+        "{\u6765\u9031|\u3089\u3044\u3057\u3085\u3046}\u304a\u304a\u3055\u304b\u306b\u3057\u3085\u3063\u3061\u3087\u3046\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
+        "verb-\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+    ],
+    [
+        "(It has been arranged for me to) travel to England with (my) family. {plain}",
+        "{\u5bb6\u65cf|\u304b\u305e\u304f}\u3068\u30a4\u30ae\u30ea\u30b9\u306b{\u65c5\u884c|\u308a\u3087\u3053\u3046}\u3059\u308b\u3053\u3068\u306b\u306a\u3063\u305f\u3002",
+        "verb-\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+    ],
+    [
+        "How many hours does (it) take? How long does (it) take? How long/far is (it)?",
+        "{\u4f55\u6642\u9593|\u306a\u3093\u3058\u304b\u3093}{\u639b\u304b\u308a\u307e\u3059|\u304b\u304b\u308a\u307e\u3059}\u304b\u3002\u3069\u306e\u3050\u3089\u3044{\u639b\u304b\u308a\u307e\u3059|\u304b\u304b\u308a\u307e\u3059}\u304b\u3002\u3069\u306e\u3050\u3089\u3044\u3067\u3059\u304b\u3002",
+        ""
+    ],
+    [
+        "How many hours? 2 hours.",
+        "{\u4f55\u6642\u9593|\u306a\u3093\u3058\u304b\u3093}?{\u4e8c\u6642\u9593|\u306b\u3058\u304b\u3093}",
+        ""
+    ],
+    [
+        "How many weeks? 2 weeks.",
+        "{\u4f55\u9031\u9593|\u306a\u3093\u3057\u3085\u3046\u304b\u3093}?{\u4e8c\u9031\u9593|\u306b\u3057\u3085\u3046\u304b\u3093}",
+        ""
+    ],
+    [
+        "How many months? 2 months.",
+        "{\u4f55\u30ab\u6708|\u306a\u3093\u304b\u3052\u3064}?{\u4e8c\u30ab\u6708|\u306b\u304b\u3052\u3064}",
+        ""
+    ],
+    [
+        "How many years? 2 years.",
+        "{\u4f55\u5e74|\u306a\u3093\u3048\u3093}({\u9593|\u304b\u3093})?{\u4e8c\u5e74|\u306b\u306d\u3093}({\u9593|\u304b\u3093})",
+        ""
     ]
 ])
