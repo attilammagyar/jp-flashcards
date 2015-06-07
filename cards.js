@@ -1576,7 +1576,7 @@ Flashcards.initialize([
     ],
     [
         "back/height, high/tall, low/short, average",
-        "\u305b\u3001{\u9ad8\u3044|\u305f\u304b\u3044}\u3001{\u4f4e\u3044|\u3072\u304f\u3044}\u3001\u3075\u3064\u3046(\u306a)",
+        "{\u80cc|\u305b}\u3001{\u9ad8\u3044|\u305f\u304b\u3044}\u3001{\u4f4e\u3044|\u3072\u304f\u3044}\u3001\u3075\u3064\u3046(\u306a)",
         ""
     ],
     [

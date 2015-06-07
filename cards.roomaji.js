@@ -1576,7 +1576,7 @@ Flashcards.initialize([
 ],
 [
     "back/height, high/tall, low/short, average",
-    "se, {高い|takai}, {低い|hikui}, futsuu (na)",
+    "{背|se}, {高い|takai}, {低い|hikui}, futsuu (na)",
     ""
 ],
 [
