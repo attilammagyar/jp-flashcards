@@ -21,7 +21,7 @@ Flashcards.initialize([
 ],
 [
     "Piece of cake",
-    "{朝|asa} meshi {前|mae}",
+    "{朝飯前|asameshimae}",
     ""
 ],
 [
@@ -56,7 +56,7 @@ Flashcards.initialize([
 ],
 [
     "Ichirou eats a meal every day.",
-    "ichirou wa {毎日|mainichi} gohan wo {食べます|tabemasu}.",
+    "ichirou wa {毎日|mainichi} {ご飯|gohan} wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -141,12 +141,12 @@ Flashcards.initialize([
 ],
 [
     "(I) eat breakfast with my family.",
-    "{家族|kazoku} to {朝ごはん|asagohan} wo {食べます|tabemasu}.",
+    "{家族|kazoku} to {朝ご飯|asagohan} wo {食べます|tabemasu}.",
     ""
 ],
 [
     "When will (we) eat lunch?",
-    "{お昼ごはん|ohirugohan} wo {何時|nanji} ni {食べます|tabemasu} ka.",
+    "{昼ご飯|hirugohan} wo {何時|nanji} ni {食べます|tabemasu} ka.",
     ""
 ],
 [
@@ -161,17 +161,17 @@ Flashcards.initialize([
 ],
 [
     "(I) eat toast with eggs for breakfast.",
-    "{朝ごはん|asagohan} ni _toosuto_ to {卵|tamago} wo {食べます|tabemasu}.",
+    "{朝ご飯|asagohan} ni _toosuto_ to {卵|tamago} wo {食べます|tabemasu}.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "(I) eat lunch at the company.",
-    "{会社|kaisha} de {昼ごはん|hirugohan} wo {食べます|tabemasu}.",
+    "{会社|kaisha} de {昼ご飯|hirugohan} wo {食べます|tabemasu}.",
     ""
 ],
 [
     "Let's eat dinner at that restaurant over there!",
-    "ano _resutoran_ de bangohan wo {食べましょう|tabemashou}.",
+    "ano _resutoran_ de {晩ご飯|bangohan} wo {食べましょう|tabemashou}.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
@@ -181,7 +181,7 @@ Flashcards.initialize([
 ],
 [
     "We always eat dinner together.",
-    "{私達|watashitachi} wa {何時も|itsumo} {一緒|issho} ni bangohan wo {食べます|tabemasu}.",
+    "{私達|watashitachi} wa {何時も|itsumo} {一緒|issho} ni {晩ご飯|bangohan} wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -221,7 +221,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always make dinner with (my) mom and (my) husband.",
-    "{何時も|itsumo} {母|haha} to {主人|shujin} to bangohan wo {作ります|tsukurimasu}.",
+    "{何時も|itsumo} {母|haha} to {主人|shujin} to {晩ご飯|bangohan} wo {作ります|tsukurimasu}.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -296,7 +296,7 @@ Flashcards.initialize([
 ],
 [
     "I eat lunch at the company every day.",
-    "{私|watashi} wa {毎日|mainichi} {会社|kaisha} de {昼ごはん|hirugohan} wo {食べます|tabemasu}.",
+    "{私|watashi} wa {毎日|mainichi} {会社|kaisha} de {昼ご飯|hirugohan} wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -311,7 +311,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always watch television, then (I) make dinner.",
-    "{何時も|itsumo} _terebi_ wo {見ます|mimasu}. {其れから|sorekara} bangohan wo {作ります|tsukurimasu}.",
+    "{何時も|itsumo} _terebi_ wo {見ます|mimasu}. {其れから|sorekara} {晩ご飯|bangohan} wo {作ります|tsukurimasu}.",
     ""
 ],
 [
@@ -321,7 +321,7 @@ Flashcards.initialize([
 ],
 [
     "For breakfast (I) usually eat toast, and then (I) drink coffee.",
-    "{朝ごはん|asagohan} ni taitei _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo {飲みます|nomimasu}.",
+    "{朝ご飯|asagohan} ni taitei _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo {飲みます|nomimasu}.",
     ""
 ],
 [
@@ -341,7 +341,7 @@ Flashcards.initialize([
 ],
 [
     "And then (I) frequently eat dinner with (my) colleagues at a restaurant.",
-    "soshite {度々|tabitabi} jimusho no {人|hito} to _resutoran_ de bangohan wo {食べます|tabemasu}.",
+    "soshite {度々|tabitabi} jimusho no {人|hito} to _resutoran_ de {晩ご飯|bangohan} wo {食べます|tabemasu}.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
@@ -386,12 +386,12 @@ Flashcards.initialize([
 ],
 [
     "For lunch (I) eat egg and toast. And (I) drink coffee.",
-    "{昼ごはん|hirugohan} ni {卵|tamago} to _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo {飲みます|nomimasu}.",
+    "{昼ご飯|hirugohan} ni {卵|tamago} to _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo {飲みます|nomimasu}.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
     "(I) get up every day at 6 o'clock. Then (I) make breakfast.",
-    "{毎日|mainichi} {六時|rokuji} ni {起きます|okimasu}. {其れから|sorekara} {朝ごはん|asagohan} wo {作ります|tsukurimasu}.",
+    "{毎日|mainichi} {六時|rokuji} ni {起きます|okimasu}. {其れから|sorekara} {朝ご飯|asagohan} wo {作ります|tsukurimasu}.",
     ""
 ],
 [
@@ -406,7 +406,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always return home late. Occasionally (I) eat dinner with (my) family.",
-    "{何時も|itsumo} {遅く|osoku} {家|uchi} ni {帰ります|kaerimasu}. tamani {家族|kazoku} to bangohan wo {食べます|tabemasu}.",
+    "{何時も|itsumo} {遅く|osoku} {家|uchi} ni {帰ります|kaerimasu}. tamani {家族|kazoku} to {晩ご飯|bangohan} wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -421,7 +421,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't drink coffee for breakfast.",
-    "{朝ごはん|asagohan} ni _koohii_ wo {飲みません|nomimasen}.",
+    "{朝ご飯|asagohan} ni _koohii_ wo {飲みません|nomimasen}.",
     ""
 ],
 [
@@ -446,7 +446,7 @@ Flashcards.initialize([
 ],
 [
     "What do (you) eat for breakfast?",
-    "{朝ごはん|asagohan} ni {何|nani} wo {食べます|tabemasu} ka.",
+    "{朝ご飯|asagohan} ni {何|nani} wo {食べます|tabemasu} ka.",
     ""
 ],
 [
@@ -1336,7 +1336,7 @@ Flashcards.initialize([
 ],
 [
     "(I) ate breakfast.",
-    "{朝ごはん|asagohan} wo {食べました|tabemashita}.",
+    "{朝ご飯|asagohan} wo {食べました|tabemashita}.",
     ""
 ],
 [
@@ -1351,7 +1351,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to eat rice with chopsticks.",
-    "{お箸|ohashi} de gohan wo {食べたい|tabetai} desu.",
+    "{お箸|ohashi} de {ご飯|gohan} wo {食べたい|tabetai} desu.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2311,7 +2311,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Hondo eats (his) lunch while working.",
-    "hondou san wa {働きながら|hatarakinagara} {昼ごはん|hirugohan} wo {食べます|tabemasu}.",
+    "hondou san wa {働きながら|hatarakinagara} {昼ご飯|hirugohan} wo {食べます|tabemasu}.",
     "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
 ],
 [
@@ -2506,7 +2506,7 @@ Flashcards.initialize([
 ],
 [
     "Please eat (your) breakfast.",
-    "{朝ごはん|asagohan} wo {食べて|tabete} kudasai.",
+    "{朝ご飯|asagohan} wo {食べて|tabete} kudasai.",
     "verb-て + ください = request"
 ],
 [
@@ -2556,12 +2556,12 @@ Flashcards.initialize([
 ],
 [
     "(I) get up at 6 o'clock, eat breakfast, then set off at 7 o'clock.",
-    "{六時|rokuji} ni {起きて|okite}, {朝ごはん|asagohan} wo {食べて|tabete}, {七時|shichiji} ni {出掛けます|dekakemasu}.",
+    "{六時|rokuji} ni {起きて|okite}, {朝ご飯|asagohan} wo {食べて|tabete}, {七時|shichiji} ni {出掛けます|dekakemasu}.",
     "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
     "In the evening, after eating dinner, (I) send emails on (my) computer.",
-    "{夜|yoru} bangohan wo {食べて|tabete} kara _konpyuutaa_ de *e*_meeru_ wo {出します|dashimasu}.",
+    "{夜|yoru} {晩ご飯|bangohan} wo {食べて|tabete} kara _konpyuutaa_ de *e*_meeru_ wo {出します|dashimasu}.",
     "verb-て + から = after doing ~, since doing ~"
 ],
 [
@@ -2586,7 +2586,7 @@ Flashcards.initialize([
 ],
 [
     "Every day (I) have lunch at 12 o'clock, then (I) go to work.",
-    "{毎日|mainichi} {十二時|juuniji} ni {昼ごはん|hirugohan} wo {食べて|tabete}, {仕事|shigoto} ni {行きます|ikimasu}.",
+    "{毎日|mainichi} {十二時|juuniji} ni {昼ご飯|hirugohan} wo {食べて|tabete}, {仕事|shigoto} ni {行きます|ikimasu}.",
     "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -2596,12 +2596,12 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (I) will go home at 6 o'clock, have dinner, then watch TV.",
-    "{明日|ashita} {六時|rokuji} ni {帰って|kaette}, bangohan wo {食べて|tabete}, _terebi_ wo {見ます|mimasu}.",
+    "{明日|ashita} {六時|rokuji} ni {帰って|kaette}, {晩ご飯|bangohan} wo {食べて|tabete}, _terebi_ wo {見ます|mimasu}.",
     "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
     "On Mondays, (I) study Japanese, then (I) go to a restaurant to eat lunch.",
-    "{月曜日|getsuyoubi} ni {日本語|nihongo} wo {勉強|benkyou} shite, _resutoran_ he {昼ごはん|hirugohan} wo {食べ|tabe} ni {行きます|ikimasu}.",
+    "{月曜日|getsuyoubi} ni {日本語|nihongo} wo {勉強|benkyou} shite, _resutoran_ he {昼ご飯|hirugohan} wo {食べ|tabe} ni {行きます|ikimasu}.",
     "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
@@ -2726,7 +2726,7 @@ Flashcards.initialize([
 ],
 [
     "(I) wake up at 7 o'clock and always drink coffee for breakfast.",
-    "{七時|shichiji} ni {起きて|okite}, {朝ごはん|asagohan} ni {何時も|itsumo} _koohii_ wo {飲みます|nomimasu}.",
+    "{七時|shichiji} ni {起きて|okite}, {朝ご飯|asagohan} ni {何時も|itsumo} _koohii_ wo {飲みます|nomimasu}.",
     "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -2741,7 +2741,7 @@ Flashcards.initialize([
 ],
 [
     "(I) watch TV, make dinner and do work from 7 o'clock in the evening.",
-    "_terebi_ wo {見て|mite}, bangohan wo {作って|tsukutte}, {夜|yoru} {七時|shichiji} kara {仕事|shigoto} wo shimasu.",
+    "_terebi_ wo {見て|mite}, {晩ご飯|bangohan} wo {作って|tsukutte}, {夜|yoru} {七時|shichiji} kara {仕事|shigoto} wo shimasu.",
     "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -2761,7 +2761,7 @@ Flashcards.initialize([
 ],
 [
     "(You) may eat (your) lunch in the classroom.",
-    "{教室|kyoushitsu} de {昼ごはん|hirugohan} wo {食べて|tabete} mo ii desu.",
+    "{教室|kyoushitsu} de {昼ご飯|hirugohan} wo {食べて|tabete} mo ii desu.",
     "verb-て + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
@@ -3056,7 +3056,7 @@ Flashcards.initialize([
 ],
 [
     "Have (you) already eaten breakfast? No, (I) haven't eaten yet.",
-    "mou {朝ごはん|asagohan} wo {食べました|tabemashita} ka. iie, {未だ|mada} {食べて|tabete} imasen.",
+    "mou {朝ご飯|asagohan} wo {食べました|tabemashita} ka. iie, {未だ|mada} {食べて|tabete} imasen.",
     "もう + verb-past = already completed doing ~\n{未だ|まだ} + verb-て + いません = not done ~ yet, not doing ~ yet"
 ],
 [
@@ -3071,7 +3071,7 @@ Flashcards.initialize([
 ],
 [
     "(I) eat dinner with (my) family every day. (I) eat dinner with (my) family every day. {emphasize habit}",
-    "{毎日|mainichi} {家族|kazoku} to bangohan wo {食べます|tabemasu}. {毎日|mainichi} {家族|kazoku} to bangohan wo {食べて|tabete} imasu.",
+    "{毎日|mainichi} {家族|kazoku} to {晩ご飯|bangohan} wo {食べます|tabemasu}. {毎日|mainichi} {家族|kazoku} to {晩ご飯|bangohan} wo {食べて|tabete} imasu.",
     "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -3181,17 +3181,17 @@ Flashcards.initialize([
 ],
 [
     "(I) haven't eaten breakfast yet. (I) am still eating breakfast. Mr. Yamada is still at the company.",
-    "{未だ|mada} {朝ごはん|asagohan} wo {食べて|tabete} imasen. {未だ|mada} {朝ごはん|asagohan} wo {食べて|tabete} imasu. {山田|yamada} san wa {未だ|mada} {会社|kaisha} ni imasu.",
+    "{未だ|mada} {朝ご飯|asagohan} wo {食べて|tabete} imasen. {未だ|mada} {朝ご飯|asagohan} wo {食べて|tabete} imasu. {山田|yamada} san wa {未だ|mada} {会社|kaisha} ni imasu.",
     "{未だ|まだ} + verb-て + いません = not done ~ yet, not doing ~ yet\n{未だ|まだ} + verb-て + います = still doing ~ (incomplete action)\n{未だ|まだ}/もう + place に + います/あります = still/already being at ~"
 ],
 [
     "(I) have already eaten breakfast. (I) no longer eat breakfast. Yuki no longer learns the piano. {discontinued habit}",
-    "mou {朝ごはん|asagohan} wo {食べました|tabemashita}. mou {朝ごはん|asagohan} wo {食べません|tabemasen}. yuki san wa mou _piano_ wo {習って|naratte} imasen.",
+    "mou {朝ご飯|asagohan} wo {食べました|tabemashita}. mou {朝ご飯|asagohan} wo {食べません|tabemasen}. yuki san wa mou _piano_ wo {習って|naratte} imasen.",
     "もう + verb-past = already completed doing ~\nもう + verb-present-negative = no longer doing ~ (complete action)\nもう + verb-て + いません = discontinued habitual action (no longer)\nならう -> ならって"
 ],
 [
     "Are (you) still eating breakfast? No, (I've) already eaten (it).",
-    "{未だ|mada} {朝ごはん|asagohan} wo {食べて|tabete} imasu ka. iie, mou {食べました|tabemashita}.",
+    "{未だ|mada} {朝ご飯|asagohan} wo {食べて|tabete} imasu ka. iie, mou {食べました|tabemashita}.",
     "{未だ|まだ} + verb-て + います = still doing ~ (incomplete action)\nもう + verb-past = already completed doing ~"
 ],
 [
@@ -3351,7 +3351,7 @@ Flashcards.initialize([
 ],
 [
     "Every day (I) get up at 6 o'clock. {plain} And before (I) eat breakfast (I) take a shower.",
-    "{毎日|mainichi} {六時|rokuji} ni {起きる|okiru}. soshite {朝ごはん|asagohan} wo {食べる|taberu} {前|mae} ni _shawaa_ wo {浴びます|abimasu}.",
+    "{毎日|mainichi} {六時|rokuji} ni {起きる|okiru}. soshite {朝ご飯|asagohan} wo {食べる|taberu} {前|mae} ni _shawaa_ wo {浴びます|abimasu}.",
     "verb-う + {前|まえ} に = before doing ~"
 ],
 [
@@ -3391,7 +3391,7 @@ Flashcards.initialize([
 ],
 [
     "Before taking a shower (I) usually eat breakfast.",
-    "taitei _shawaa_ wo {浴びる|abiru} {前|mae} ni {朝ごはん|asagohan} wo {食べます|tabemasu}.",
+    "taitei _shawaa_ wo {浴びる|abiru} {前|mae} ni {朝ご飯|asagohan} wo {食べます|tabemasu}.",
     "verb-う + {前|まえ} に = before doing ~"
 ],
 [
@@ -3941,7 +3941,7 @@ Flashcards.initialize([
 ],
 [
     "Every day after eating dinner (I) watch TV.",
-    "{毎日|mainichi} bangohan wo {食べた|tabeta} {後|ato} de _terebi_ wo {見ます|mimasu}.",
+    "{毎日|mainichi} {晩ご飯|bangohan} wo {食べた|tabeta} {後|ato} de _terebi_ wo {見ます|mimasu}.",
     "verb-た + {後|あと} + で = after (finished) doing ~"
 ],
 [
@@ -4001,7 +4001,7 @@ Flashcards.initialize([
 ],
 [
     "After (I) took a shower, (I) ate breakfast.",
-    "_shawaa_ wo {浴びた|abita} {後|ato} de {朝ごはん|asagohan} wo {食べました|tabemashita}",
+    "_shawaa_ wo {浴びた|abita} {後|ato} de {朝ご飯|asagohan} wo {食べました|tabemashita}",
     "verb-た + {後|あと} + で = after (finished) doing ~"
 ],
 [
@@ -4071,7 +4071,7 @@ Flashcards.initialize([
 ],
 [
     "For breakfast, (I) sometimes drink coffee, sometimes tea.",
-    "{朝ごはん|asagohan} ni _koohii_ wo {飲んだり|nondari}, {紅茶|koucha} wo {飲んだり|nondari} shimasu.",
+    "{朝ご飯|asagohan} ni _koohii_ wo {飲んだり|nondari}, {紅茶|koucha} wo {飲んだり|nondari} shimasu.",
     "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
 ],
 [
@@ -4101,7 +4101,7 @@ Flashcards.initialize([
 ],
 [
     "When (I) was in America, (I) learned English. When (I) eat breakfast, (I) always watch TV. When (I) was a student, (I) studied Spanish. When (I) was a student, (I) studied Spanish.",
-    "_amerika_ ni ita {時|toki} {英語|eigo} wo {習いました|naraimashita}. {朝ごはん|asagohan} wo {食べる|taberu} {時|toki} {何時も|itsumo} _terebi_ wo {見ます|mimasu}. {学生|gakusei} no {時|toki} _supein_ {語|go} wo {勉強|benkyou} shimashita. {学生|gakusei} no {頃|koro} _supein_ {語|go} wo {勉強|benkyou} shimashita.",
+    "_amerika_ ni ita {時|toki} {英語|eigo} wo {習いました|naraimashita}. {朝ご飯|asagohan} wo {食べる|taberu} {時|toki} {何時も|itsumo} _terebi_ wo {見ます|mimasu}. {学生|gakusei} no {時|toki} _supein_ {語|go} wo {勉強|benkyou} shimashita. {学生|gakusei} no {頃|koro} _supein_ {語|go} wo {勉強|benkyou} shimashita.",
     "verb-た + {時|とき} = when did/have done ~\nverb-う + {時|とき} = when doing ~\nnoun + の + {頃|ころ} = when ~, as a ~\nnoun + の + {時|とき} = when ~, as a ~"
 ],
 [
@@ -4151,7 +4151,7 @@ Flashcards.initialize([
 ],
 [
     "(I) will finish writing the letter after (I've) had (my) breakfast.",
-    "{朝ごはん|asagohan} wo {食べた|tabeta} {後|ato} de {手紙|tegami} wo {書いて|kaite} shimaimasu.",
+    "{朝ご飯|asagohan} wo {食べた|tabeta} {後|ato} de {手紙|tegami} wo {書いて|kaite} shimaimasu.",
     "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)\nverb-た + {後|あと} + で = after (finished) doing ~"
 ],
 [
@@ -4416,7 +4416,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) about to eat breakfast.",
-    "{朝ごはん|asagohan} wo {食べよう|tabeyou} to shite imasu.",
+    "{朝ご飯|asagohan} wo {食べよう|tabeyou} to shite imasu.",
     "verb-おう/よう + と + して + いる = to be about to do ~"
 ],
 [
