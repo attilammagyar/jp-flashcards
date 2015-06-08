@@ -79,6 +79,8 @@ verb-うこと/noun + に + した = (I have decided to) ~
 verb-うこと/noun + に + して + いる = (I make it a rule to) ~
 verb-うこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)
 verb-うこと + に + なって + いる = rules, customs, how things are supposed to be done
+い-adj. - い + さ = ~ness
+な-adj. + さ = ~ness
 
 
 ため

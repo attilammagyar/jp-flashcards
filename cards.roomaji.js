@@ -4588,5 +4588,30 @@ Flashcards.initialize([
     "How many years? 2 years.",
     "{何年|nannen} ({間|kan})? {二年|ninen} ({間|kan})",
     ""
+],
+[
+    "Please tell the truth.",
+    "{本当|hontou} no koto wo {言って|itte} kudasai.",
+    "verb-て + ください = request"
+],
+[
+    "Cute smile, isn't it?",
+    "{可愛い|kawaii} {笑顔|egao} desu ne.",
+    ""
+],
+[
+    "Cute baby, isn't he? Can (he) walk? No, (he) can't. But (he) can crawl.",
+    "{可愛い|kawaii} {赤ちゃん|akachan} desu ne. {歩く|aruku} koto wa dekimasu ka. iie, dekimasen. demo, _haihai_ suru koto ga dekimasu.",
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
+],
+[
+    "He's about my size.",
+    "{彼|kare} wa {私|watashi} kurai no {大きさ|ookisa} desu.",
+    "な-adj. + さ = ~ness"
+],
+[
+    "(I) like the coolness of Spring better than Summer's heat.",
+    "{夏|natsu} no {暑さ|atsusa} yori {春|haru} no {涼しさ|suzushisa} no {方|hou} ga {好き|suki} desu.",
+    "い-adj. - い + さ = ~ness\nNoun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
 ]
 ])

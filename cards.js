@@ -4588,5 +4588,30 @@ Flashcards.initialize([
         "How many years? 2 years.",
         "{\u4f55\u5e74|\u306a\u3093\u3048\u3093}({\u9593|\u304b\u3093})?{\u4e8c\u5e74|\u306b\u306d\u3093}({\u9593|\u304b\u3093})",
         ""
+    ],
+    [
+        "Please tell the truth.",
+        "{\u672c\u5f53|\u307b\u3093\u3068\u3046}\u306e\u3053\u3068\u3092{\u8a00\u3063\u3066|\u3044\u3063\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "verb-\u3066 + \u304f\u3060\u3055\u3044 = request"
+    ],
+    [
+        "Cute smile, isn't it?",
+        "{\u53ef\u611b\u3044|\u304b\u308f\u3044\u3044}{\u7b11\u9854|\u3048\u304c\u304a}\u3067\u3059\u306d\u3002",
+        ""
+    ],
+    [
+        "Cute baby, isn't he? Can (he) walk? No, (he) can't. But (he) can crawl.",
+        "{\u53ef\u611b\u3044|\u304b\u308f\u3044\u3044}{\u8d64\u3061\u3083\u3093|\u3042\u304b\u3061\u3083\u3093}\u3067\u3059\u306d\u3002{\u6b69\u304f|\u3042\u308b\u304f}\u3053\u3068\u306f\u3067\u304d\u307e\u3059\u304b\u3002\u3044\u3044\u3048\u3001\u3067\u304d\u307e\u305b\u3093\u3002\u3067\u3082\u3001\u30cf\u30a4\u30cf\u30a4\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + \u3067\u304d\u308b = can (do) noun"
+    ],
+    [
+        "He's about my size.",
+        "{\u5f7c|\u304b\u308c}\u306f{\u79c1|\u308f\u305f\u3057}\u304f\u3089\u3044\u306e{\u5927\u304d\u3055|\u304a\u304a\u304d\u3055}\u3067\u3059\u3002",
+        "\u306a-adj. + \u3055 = ~ness"
+    ],
+    [
+        "(I) like the coolness of Spring better than Summer's heat.",
+        "{\u590f|\u306a\u3064}\u306e{\u6691\u3055|\u3042\u3064\u3055}\u3088\u308a{\u6625|\u306f\u308b}\u306e{\u6dbc\u3057\u3055|\u3059\u305a\u3057\u3055}\u306e{\u65b9|\u307b\u3046}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
+        "\u3044-adj. - \u3044 + \u3055 = ~ness\nNoun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
     ]
 ])
