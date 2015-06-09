@@ -691,7 +691,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (I) have an English exam.",
-    "{明日|ashita} {英語|eigo} no shiken ga arimasu.",
+    "{明日|ashita} {英語|eigo} no {試験|shiken} ga arimasu.",
     ""
 ],
 [
@@ -701,7 +701,7 @@ Flashcards.initialize([
 ],
 [
     "(I) have a Japanese language exam the day after tomorrow. I'm also very worried.",
-    "{明後日|asatte} {日本語|nihongo} no shiken ga arimasu. {私|watashi} mo totemo shinpai desu.",
+    "{明後日|asatte} {日本語|nihongo} no {試験|shiken} ga arimasu. {私|watashi} mo totemo shinpai desu.",
     ""
 ],
 [
@@ -2271,7 +2271,7 @@ Flashcards.initialize([
 ],
 [
     "I studied for the test.",
-    "{私|watashi} wa shiken no tame ni {勉強|benkyou} shimashita.",
+    "{私|watashi} wa {試験|shiken} no tame ni {勉強|benkyou} shimashita.",
     "noun + の + ため + に + verb = do verb for the benefit of / in order to noun"
 ],
 [
@@ -3271,7 +3271,7 @@ Flashcards.initialize([
 ],
 [
     "Sunday, (I) always spend time with (my) family.",
-    "{日曜日|nichiyoubi} wa {何時も|itsumo} {家族|kazoku} to sugoshimasu.",
+    "{日曜日|nichiyoubi} wa {何時も|itsumo} {家族|kazoku} to {過ごします|sugoshimasu}.",
     ""
 ],
 [
@@ -3346,7 +3346,7 @@ Flashcards.initialize([
 ],
 [
     "That exam was easy, wasn't it? Anyway, (it) wasn't enough.",
-    "ano shiken wa yasashikatta desu ne. tonikaku {物|mono} {足りなかった|tarinakatta} desu.",
+    "ano {試験|shiken} wa yasashikatta desu ne. tonikaku {物|mono} {足りなかった|tarinakatta} desu.",
     "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
 ],
 [
@@ -4620,7 +4620,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "The weather was sunny all they long and too hot, and I'd want to spend time in the fridge.",
+    "The weather was sunny all day long and too hot, and I'd want to spend time in the fridge.",
     "{一日中|ichinichijuu} {良く|yoku} {晴れた|hareta} {天気|tenki} de, amarinimo {暑く|atsuku}, {冷蔵庫|reizouko} no {中|naka} de {過ごしたい|sugoshitai} {気分|kibun} desu.",
     "な-adj. + で = adj. and ...\n~たい is usually used only in first person or in questions for the second person"
 ],
