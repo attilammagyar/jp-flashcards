@@ -4376,7 +4376,7 @@ Flashcards.initialize([
     ],
     [
         "The teacher was (just) testing you.",
-        "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u306f{\u541b\u305f\u3061|\u304d\u307f\u305f\u3061}\u3092\u305f\u3081\u3057\u305f\u3093\u3060\u3002",
+        "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u306f{\u541b\u305f\u3061|\u304d\u307f\u305f\u3061}\u3092{\u8a66\u3057\u305f|\u305f\u3081\u3057\u305f}\u3093\u3060\u3002",
         "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
@@ -4613,5 +4613,20 @@ Flashcards.initialize([
         "(I) like the coolness of Spring better than Summer's heat.",
         "{\u590f|\u306a\u3064}\u306e{\u6691\u3055|\u3042\u3064\u3055}\u3088\u308a{\u6625|\u306f\u308b}\u306e{\u6dbc\u3057\u3055|\u3059\u305a\u3057\u3055}\u306e{\u65b9|\u307b\u3046}\u304c{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
         "\u3044-adj. - \u3044 + \u3055 = ~ness\nNoun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
+    ],
+    [
+        "(Your) child, (my) child",
+        "{\u304a\u5b50\u3055\u3093|\u304a\u3053\u3055\u3093}\u3001{\u5bb6\u306e\u5b50|\u3046\u3061\u306e\u3053}",
+        ""
+    ],
+    [
+        "The weather was sunny all they long and too hot, and I'd want to spend time in the fridge.",
+        "{\u4e00\u65e5\u4e2d|\u3044\u3061\u306b\u3061\u3058\u3085\u3046}{\u826f\u304f|\u3088\u304f}{\u6674\u308c\u305f|\u306f\u308c\u305f}{\u5929\u6c17|\u3066\u3093\u304d}\u3067\u3001\u3042\u307e\u308a\u306b\u3082{\u6691\u304f|\u3042\u3064\u304f}\u3001{\u51b7\u8535\u5eab|\u308c\u3044\u305e\u3046\u3053}\u306e{\u4e2d|\u306a\u304b}\u3067{\u904e\u3054\u3057\u305f\u3044|\u3059\u3054\u3057\u305f\u3044}{\u6c17\u5206|\u304d\u3076\u3093}\u3067\u3059\u3002",
+        "\u306a-adj. + \u3067 = adj. and ...\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+    ],
+    [
+        "The weather is sunny all day long, and too hot, and (I) want to sit into the fridge.",
+        "{\u5929\u6c17|\u3066\u3093\u304d}\u306f{\u4e00\u65e5\u4e2d|\u3044\u3061\u306b\u3061\u3058\u3085\u3046}{\u6674\u308c|\u306f\u308c}\u3067\u3001{\u6691\u904e\u304e\u3066|\u3042\u3064\u3059\u304e\u3066}\u3001{\u51b7\u8535\u5eab|\u308c\u3044\u305e\u3046\u3053}\u306e{\u4e2d|\u306a\u304b}\u306b{\u5165\u308a\u305f\u3044|\u306f\u3044\u308a\u305f\u3044}\u3067\u3059\u3002",
+        "\u306a-adj. + \u3067 = adj. and ...\nstem of adj. or continuative base of verb + ~{\u904e\u304e\u308b|\u3059\u304e\u308b} = too much ~, over~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ]
 ])

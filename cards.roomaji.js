@@ -4376,7 +4376,7 @@ Flashcards.initialize([
 ],
 [
     "The teacher was (just) testing you.",
-    "{先生|sensei} wa {君たち|kimitachi} wo tameshita n da.",
+    "{先生|sensei} wa {君たち|kimitachi} wo {試した|tameshita} n da.",
     "verb-plain + の/ん + です = justification, explanation (softer than から)"
 ],
 [
@@ -4613,5 +4613,20 @@ Flashcards.initialize([
     "(I) like the coolness of Spring better than Summer's heat.",
     "{夏|natsu} no {暑さ|atsusa} yori {春|haru} no {涼しさ|suzushisa} no {方|hou} ga {好き|suki} desu.",
     "い-adj. - い + さ = ~ness\nNoun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+],
+[
+    "(Your) child, (my) child",
+    "{お子さん|okosan}, {家の子|uchinoko}",
+    ""
+],
+[
+    "The weather was sunny all they long and too hot, and I'd want to spend time in the fridge.",
+    "{一日中|ichinichijuu} {良く|yoku} {晴れた|hareta} {天気|tenki} de, amarinimo {暑く|atsuku}, {冷蔵庫|reizouko} no {中|naka} de {過ごしたい|sugoshitai} {気分|kibun} desu.",
+    "な-adj. + で = adj. and ...\n~たい is usually used only in first person or in questions for the second person"
+],
+[
+    "The weather is sunny all day long, and too hot, and (I) want to sit into the fridge.",
+    "{天気|tenki} wa {一日中|ichinichijuu} {晴れ|hare} de, {暑過ぎて|atsusugite}, {冷蔵庫|reizouko} no {中|naka} ni {入りたい|hairitai} desu.",
+    "な-adj. + で = adj. and ...\nstem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~\n~たい is usually used only in first person or in questions for the second person"
 ]
 ])
