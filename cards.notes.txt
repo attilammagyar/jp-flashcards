@@ -82,7 +82,6 @@ verb-うこと + に + なって + いる = rules, customs, how things are suppo
 い-adj. - い + さ = ~ness
 な-adj. + さ = ~ness
 
-
 ため
 ==
 noun A + の + ため + の + noun B = noun B (is) for the benefit of noun A

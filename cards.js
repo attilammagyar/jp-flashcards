@@ -4628,5 +4628,30 @@ Flashcards.initialize([
         "The weather is sunny all day long, and too hot, and (I) want to sit into the fridge.",
         "{\u5929\u6c17|\u3066\u3093\u304d}\u306f{\u4e00\u65e5\u4e2d|\u3044\u3061\u306b\u3061\u3058\u3085\u3046}{\u6674\u308c|\u306f\u308c}\u3067\u3001{\u6691\u904e\u304e\u3066|\u3042\u3064\u3059\u304e\u3066}\u3001{\u51b7\u8535\u5eab|\u308c\u3044\u305e\u3046\u3053}\u306e{\u4e2d|\u306a\u304b}\u306b{\u5165\u308a\u305f\u3044|\u306f\u3044\u308a\u305f\u3044}\u3067\u3059\u3002",
         "\u306a-adj. + \u3067 = adj. and ...\nstem of adj. or continuative base of verb + ~{\u904e\u304e\u308b|\u3059\u304e\u308b} = too much ~, over~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+    ],
+    [
+        "Mr. Yamada will soon be transferred to America.",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3082\u3046\u3059\u3050\u30a2\u30e1\u30ea\u30ab\u306b\u3066\u3093\u304d\u3093\u3057\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Roger has been living in Japan since 2 years.",
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u4e8c\u5e74\u9593|\u306b\u306d\u3093\u304b\u3093}{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u307e\u3059\u3002",
+        "verb-\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "Why is Miki going to China? Because (it's been arranged for her to) be transferred.",
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u3069\u3046\u3057\u3066{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u304b\u3002\u3066\u3093\u304d\u3093\u3059\u308b\u3053\u3068\u306b\u306a\u3063\u305f\u304b\u3089\u3067\u3059\u3002",
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb-\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+    ],
+    [
+        "What does Rie think about Mr. Yamada going to China? (It's) a pity, but a good opportunity.",
+        "\u308a\u3048\u3055\u3093\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u884c\u304f|\u3044\u304f}\u3053\u3068\u306b\u3064\u3044\u3066\u3069\u3046{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u304b\u3002\u3056\u3093\u306d\u3093\u3067\u3059\u304c\u3044\u3044\u30c1\u30e3\u30f3\u30b9\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "What have Miki and Mr. Yamada (decided to) do? (They decided to) get married.",
+        "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u3068{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u4f55|\u306a\u306b}\u3092\u3059\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u304b\u3002{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}\u3059\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
+        "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u305f = (I have decided to) ~"
     ]
 ])

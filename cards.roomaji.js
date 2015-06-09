@@ -4176,7 +4176,7 @@ Flashcards.initialize([
 ],
 [
     "I'm not a university student. (I've) graduated 3 years ago. Then for 2 years, (I) taught Japanese and travelled in America.",
-    "{私|watashi} wa {大学生|daigakusei} ja nai desu. {三年|san nen} {前|mae} ni sotsugyou shite imashita. soshite {二年間|ninenkan} _amerika_ de {日本語|nihongo} wo {教えたり|oshietari}, {旅行|ryokou} shitari shimashita.",
+    "{私|watashi} wa {大学生|daigakusei} ja nai desu. {三年|san nen} {前|mae} ni sotsugyou shite imashita. soshite {二年間|ni nen kan} _amerika_ de {日本語|nihongo} wo {教えたり|oshietari}, {旅行|ryokou} shitari shimashita.",
     "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
 ],
 [
@@ -4628,5 +4628,30 @@ Flashcards.initialize([
     "The weather is sunny all day long, and too hot, and (I) want to sit into the fridge.",
     "{天気|tenki} wa {一日中|ichinichijuu} {晴れ|hare} de, {暑過ぎて|atsusugite}, {冷蔵庫|reizouko} no {中|naka} ni {入りたい|hairitai} desu.",
     "な-adj. + で = adj. and ...\nstem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~\n~たい is usually used only in first person or in questions for the second person"
+],
+[
+    "Mr. Yamada will soon be transferred to America.",
+    "{山田|yamada} san wa mou sugu _amerika_ ni tenkin shimasu.",
+    ""
+],
+[
+    "Roger has been living in Japan since 2 years.",
+    "_rojaa_ san wa {二年間|ni nen kan} {日本|nihon} ni {住んで|sunde} imasu.",
+    "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "Why is Miki going to China? Because (it's been arranged for her to) be transferred.",
+    "{三木|miki} san wa doushite {中国|chuugoku} ni {行きます|ikimasu} ka. tenkin suru koto ni natta kara desu.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-うこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+],
+[
+    "What does Rie think about Mr. Yamada going to China? (It's) a pity, but a good opportunity.",
+    "rie san wa {山田|yamada} san ga {中国|chuugoku} ni {行く|iku} koto ni tsuite dou {思います|omoimasu} ka. zan nen desu ga ii _chansu_ desu.",
+    ""
+],
+[
+    "What have Miki and Mr. Yamada (decided to) do? (They decided to) get married.",
+    "{三木|miki} san to {山田|yamada} san wa {何|nani} wo suru koto ni shimashita ka. {結婚|kekkon} suru koto ni shimashita.",
+    "verb-うこと/noun + に + した = (I have decided to) ~"
 ]
 ])
