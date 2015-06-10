@@ -4236,7 +4236,7 @@ Flashcards.initialize([
 ],
 [
     "(You) should study as hard as you can.",
-    "isshoukenmei {勉強|benkyou} shita {方|hou} ga ii desu yo.",
+    "{一生懸命|isshoukenmei} {勉強|benkyou} shita {方|hou} ga ii desu yo.",
     "verb-た + {方|ほう} + が + いい = you'd better do ~, you should do ~"
 ],
 [
@@ -4481,12 +4481,12 @@ Flashcards.initialize([
 ],
 [
     "Technique and a knack is necessary. You don't have either.",
-    "{技術|gijutsu} to _kotsu_ ga {必要|hitsuyou} desu. anata ni {両方|ryouhou} to mo arimasen.",
+    "{技術|gijutsu} to _kotsu_ ga {必要|hitsuyou} desu. {貴方|anata} ni {両方|ryouhou} to mo arimasen.",
     ""
 ],
 [
     "Experience is also important. Anyway, you can't do (it).",
-    "{経験|keiken} mo {大事|daiji} desu. tonikaku, anata ni wa dekimasen.",
+    "{経験|keiken} mo {大事|daiji} desu. tonikaku, {貴方|anata} ni wa dekimasen.",
     "noun + できる = can (do) noun"
 ],
 [
