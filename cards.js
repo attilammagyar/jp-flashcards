@@ -4653,5 +4653,40 @@ Flashcards.initialize([
         "What have Miki and Mr. Yamada (decided to) do? (They decided to) get married.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u3068{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u4f55|\u306a\u306b}\u3092\u3059\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u304b\u3002{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}\u3059\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
         "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u305f = (I have decided to) ~"
+    ],
+    [
+        "That person has skill.",
+        "\u3042\u306e{\u4eba|\u3072\u3068}\u306f{\u6280\u8853|\u304e\u3058\u3085\u3064}\u304c\u3042\u308a\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Both of the parents are working.",
+        "{\u89aa|\u304a\u3084}\u306f{\u4e21\u65b9|\u308a\u3087\u3046\u307b\u3046}\u3068\u3082{\u50cd\u3044\u3066|\u306f\u305f\u3089\u3044\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "In Okinawa, (I) had an interesting experience.",
+        "\u304a\u304d\u306a\u308f\u3067{\u9762\u767d\u3044|\u304a\u3082\u3057\u308d\u3044}{\u7d4c\u9a13|\u3051\u3044\u3051\u3093}\u3092\u3057\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "(I) don't have an experience to travel abroad.",
+        "{\u6d77\u5916\u65c5\u884c|\u304b\u3044\u304c\u3044\u308a\u3087\u3053\u3046}\u306e{\u7d4c\u9a13|\u3051\u3044\u3051\u3093}\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
+        ""
+    ],
+    [
+        "In Japan, this year seems to become hot as well.",
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306f\u3001{\u4eca\u5e74|\u3053\u3068\u3057}\u3082{\u6691\u304f|\u3042\u3064\u304f}\u306a\u308a\u305d\u3046\u3067\u3059\u3002",
+        "adj. stem/verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+    ],
+    [
+        "(I've) been reading the lyrics while listening to music (I) like.",
+        "{\u597d\u304d|\u3059\u304d}\u306a{\u97f3\u697d|\u304a\u3093\u304c\u304f}\u3092{\u805e\u304d\u306a\u304c\u3089|\u304d\u304d\u306a\u304c\u3089}{\u6b4c\u8a5e|\u304b\u3057}\u3092{\u8aad\u3093\u3067|\u3088\u3093\u3067}\u3044\u307e\u3057\u305f\u3002",
+        "verb stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
+    ],
+    [
+        "(I'm) not very good at singing, but (I) often tried singing as well.",
+        "{\u6b4c\u3046|\u3046\u305f\u3046}\u3053\u3068\u306f\u3042\u307e\u308a{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3058\u3083\u3042\u308a\u307e\u305b\u3093\u304c\u3001\u3088\u304f{\u6b4c\u3063\u3066|\u3046\u305f\u3063\u3066}\u307f\u308b\u3053\u3068\u3082\u3057\u307e\u3057\u305f\u3002",
+        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\nverb-\u3066 + \u307f\u308b = try doing ~"
     ]
 ])

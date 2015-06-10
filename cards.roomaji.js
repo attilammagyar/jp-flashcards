@@ -4653,5 +4653,40 @@ Flashcards.initialize([
     "What have Miki and Mr. Yamada (decided to) do? (They decided to) get married.",
     "{三木|miki} san to {山田|yamada} san wa {何|nani} wo suru koto ni shimashita ka. {結婚|kekkon} suru koto ni shimashita.",
     "verb-うこと/noun + に + した = (I have decided to) ~"
+],
+[
+    "That person has skill.",
+    "Ano {人|hito} wa {技術|gijutsu} ga arimasu.",
+    ""
+],
+[
+    "Both of the parents are working.",
+    "{親|oya} wa {両方|ryouhou} to mo {働いて|hataraite} imasu.",
+    "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "In Okinawa, (I) had an interesting experience.",
+    "Okinawa de {面白い|omoshiroi} {経験|keiken} wo shimashita.",
+    ""
+],
+[
+    "(I) don't have an experience to travel abroad.",
+    "{海外旅行|kaigairyokou} no {経験|keiken} ga arimasen.",
+    ""
+],
+[
+    "In Japan, this year seems to become hot as well.",
+    "{日本|nihon} wa, {今年|kotoshi} mo {暑く|atsuku} narisou desu.",
+    "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+],
+[
+    "(I've) been reading the lyrics while listening to music (I) like.",
+    "{好き|suki} na {音楽|ongaku} wo {聞きながら|kikinagara} {歌詞|kashi} wo {読んで|yonde} imashita.",
+    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-て + いました = was (in the state of) doing ~, emphasize regular habitual action"
+],
+[
+    "(I'm) not very good at singing, but (I) often tried singing as well.",
+    "{歌う|utau} koto wa amari {上手|jouzu} ja arimasen ga, yoku {歌って|utatte} miru koto mo shimashita.",
+    "verb-う + こと = doing ~ (nominalize)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverb-て + みる = try doing ~"
 ]
 ])
