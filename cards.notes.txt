@@ -122,6 +122,7 @@ verb-う + {時|とき} = when doing ~
 verb-う + でしょう/だろう = probably (will) do ~
 verb-う + ん + じゃない + でしょう + か = politeness
 verb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~
+verb-う + よう + に + なる = change in habitual action
 
 Stem
 ----

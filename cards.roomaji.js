@@ -4688,5 +4688,10 @@ Flashcards.initialize([
     "(I'm) not very good at singing, but (I) often tried singing as well.",
     "{歌う|utau} koto wa amari {上手|jouzu} ja arimasen ga, yoku {歌って|utatte} miru koto mo shimashita.",
     "verb-う + こと = doing ~ (nominalize)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverb-て + みる = try doing ~"
+],
+[
+    "Since (I) became an adult, it seems that a lot of things that looked boring as a child, (I) became interested in. Probably because (I) don't have to take exams anymore, right?",
+    "{大人|otona} ni natte kara, dou yara {子供|kodomo} no {頃|koro} ni wa tsumaranaku {思えた|omoeta} {沢山|takusan} no koto ni {興味|kyoumi} ga {持てる|moteru} you ni narimashita. mou {試験|shiken} wo {受けなくて|ukenakute} mo ii kara deshou ne.",
+    "noun/な adj + に + なる = become ~\nverb-て + から = after doing ~, since doing ~\nverb-う + よう + に + なる = change in habitual action\nverb-て + も + いい = doing verb is allowed, (you) may do verb\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ]
 ])
