@@ -4161,7 +4161,7 @@ Flashcards.initialize([
 ],
 [
     "(I) totally lost (my) camera. {plain}",
-    "_kamera_ wo otoshite shimatta.",
+    "_kamera_ wo {落として|otoshite} shimatta.",
     "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)\nverb-た + {後|あと} + で = after (finished) doing ~"
 ],
 [
@@ -4176,7 +4176,7 @@ Flashcards.initialize([
 ],
 [
     "I'm not a university student. (I've) graduated 3 years ago. Then for 2 years, (I) taught Japanese and travelled in America.",
-    "{私|watashi} wa {大学生|daigakusei} ja nai desu. {三年|san nen} {前|mae} ni sotsugyou shite imashita. soshite {二年間|ni nen kan} _amerika_ de {日本語|nihongo} wo {教えたり|oshietari}, {旅行|ryokou} shitari shimashita.",
+    "{私|watashi} wa {大学生|daigakusei} ja nai desu. {三年|san nen} {前|mae} ni {卒業|sotsugyou} shite imashita. soshite {二年間|ni nen kan} _amerika_ de {日本語|nihongo} wo {教えたり|oshietari}, {旅行|ryokou} shitari shimashita.",
     "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
 ],
 [
@@ -4206,7 +4206,7 @@ Flashcards.initialize([
 ],
 [
     "Where did (you) perform?",
-    "{何処|doko} de ensou shimashita ka.",
+    "{何処|doko} de {演奏|ensou} shimashita ka.",
     ""
 ],
 [
