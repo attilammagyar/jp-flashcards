@@ -4635,7 +4635,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Roger has been living in Japan since 2 years.",
+        "Roger has been living in Japan for 2 years.",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u4e8c\u5e74\u9593|\u306b\u306d\u3093\u304b\u3093}{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u307e\u3059\u3002",
         "verb-\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
@@ -4670,7 +4670,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "(I) don't have an experience to travel abroad.",
+        "(I) don't have an experience to travel overseas.",
         "{\u6d77\u5916\u65c5\u884c|\u304b\u3044\u304c\u3044\u308a\u3087\u3053\u3046}\u306e{\u7d4c\u9a13|\u3051\u3044\u3051\u3093}\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
         ""
     ],

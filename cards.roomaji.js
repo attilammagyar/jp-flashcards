@@ -4635,7 +4635,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Roger has been living in Japan since 2 years.",
+    "Roger has been living in Japan for 2 years.",
     "_rojaa_ san wa {二年間|ni nen kan} {日本|nihon} ni {住んで|sunde} imasu.",
     "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
@@ -4670,7 +4670,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "(I) don't have an experience to travel abroad.",
+    "(I) don't have an experience to travel overseas.",
     "{海外旅行|kaigairyokou} no {経験|keiken} ga arimasen.",
     ""
 ],
