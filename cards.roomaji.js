@@ -2366,7 +2366,7 @@ Flashcards.initialize([
 ],
 [
     "I love Izu, and (I'm) also interested in cars.",
-    "{私|watashi} wa izu ga {大好き|daisuki} de, {車|kuruma} ni mo kyoumi ga arimasu.",
+    "{私|watashi} wa izu ga {大好き|daisuki} de, {車|kuruma} ni mo {興味|kyoumi} ga arimasu.",
     "な-adj. + で = adj. and ..."
 ],
 [
@@ -3371,7 +3371,7 @@ Flashcards.initialize([
 ],
 [
     "(I) have an interest in South America so (I) want to go. {の で}",
-    "{南|minami} _amerika_ ni kyoumi ga aru no de {行きたい|ikitai} desu.",
+    "{南|minami} _amerika_ ni {興味|kyoumi} ga aru no de {行きたい|ikitai} desu.",
     "verb stem + たい = want to ~\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ],
 [
@@ -3546,12 +3546,12 @@ Flashcards.initialize([
 ],
 [
     "(I) have an interest in Japanese things.",
-    "{日本|nihon} no {事|koto} ni kyoumi ga arimasu.",
+    "{日本|nihon} no {事|koto} ni {興味|kyoumi} ga arimasu.",
     ""
 ],
 [
     "(I) have no interest in sports at all.",
-    "_supootsu_ ni {全然|zenzen} kyoumi ga arimasen.",
+    "_supootsu_ ni {全然|zenzen} {興味|kyoumi} ga arimasen.",
     ""
 ],
 [
@@ -3641,12 +3641,12 @@ Flashcards.initialize([
 ],
 [
     "(It's) strange but I can somehow understand.",
-    "okashii desu kedo, {私|watashi} wa {何となく|nantonaku} rikai dekimasu.",
+    "{可笑しい|okashii} desu kedo, {私|watashi} wa {何となく|nantonaku} rikai dekimasu.",
     "noun + できる = can (do) noun"
 ],
 [
     "The zookeeper caught (it). Poor penguin.",
-    "{動物園|doubutsuen} no {人|hito} ga tsukamaemashita. kawaisouna _pengin_ desu.",
+    "{動物園|doubutsuen} no {人|hito} ga {捕まえました|tsukamaemashita}. kawaisou na _pengin_ desu.",
     ""
 ],
 [
@@ -3766,7 +3766,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) not very good at speaking Japanese yet, but (I'm) interested in Japanese things.",
-    "{日本語|nihongo} wo {話すこと|hanasukoto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {日本|nihon} no {事|koto} ni kyoumi ga arimasu.",
+    "{日本語|nihongo} wo {話すこと|hanasukoto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {日本|nihon} no {事|koto} ni {興味|kyoumi} ga arimasu.",
     "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverb-う + こと = doing ~ (nominalize)"
 ],
 [
@@ -4693,5 +4693,15 @@ Flashcards.initialize([
     "Since (I) became an adult, it seems that a lot of things that looked boring as a child, (I) became interested in. Probably because (I) don't have to take exams anymore, right?",
     "{大人|otona} ni natte kara, dou yara {子供|kodomo} no {頃|koro} ni wa tsumaranaku {思えた|omoeta} {沢山|takusan} no koto ni {興味|kyoumi} ga {持てる|moteru} you ni narimashita. mou {試験|shiken} wo {受けなくて|ukenakute} mo ii kara deshou ne.",
     "noun/な adj + に + なる = become ~\nverb-て + から = after doing ~, since doing ~\nverb-う + よう + に + なる = change in habitual action\nverb-て + も + いい = doing verb is allowed, (you) may do verb\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "The computer acts weird.",
+    "_konpyuutaa_ no {調子|choushi} ga {可笑しい|okashii} desu.",
+    ""
+],
+[
+    "There are a lot of things (I) can't say yet.",
+    "{未だ|mada} {言う|iu} koto ga {出来ない|dekinai} koto ga ippai arimasu.",
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
 ]
 ])
