@@ -3461,7 +3461,7 @@ Flashcards.initialize([
 ],
 [
     "I still don't have a driver's license. From next year, (I'll) go to driving school.",
-    "{私|watashi} wa {未だ|mada} unten menkyo wa arimasen. {来年|rainen} kara {自動車学校|jidoushagakkou} he kayoimasu.",
+    "{私|watashi} wa {未だ|mada} {運転免許|untenmenkyo} wa arimasen. {来年|rainen} kara {自動車学校|jidoushagakkou} he kayoimasu.",
     ""
 ],
 [
@@ -4738,5 +4738,20 @@ Flashcards.initialize([
     "Before (you) go, let's make a party, right? In Japan, before being transferred, (you're supposed to) hold a \"Goodbye party\", you know.",
     "{行く|iku} {前|mae} ni パーティー wo shimashou ne. {日本|nihon} de wa tenkin suru {前|mae} ni 「sayounara パーティー」 wo {行う|okonau} koto ni natte imasu.",
     "verb-う + {前|まえ} に = before doing ~\nverb-うこと + に + なって + いる = rules, customs, how things are supposed to be done"
+],
+[
+    "(I've) got the hang of driving.",
+    "{運転|unten} no _kotsu_ wo {掴みました|tsukamimashita}.",
+    ""
+],
+[
+    "(You) can do various things in the library that can't be done in the classroom. {plain}",
+    "{図書館|toshokan} de wa, {教室|kyoushitsu} de dekinai {色々|iroiro} na koto ga dekiru.",
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
+],
+[
+    "(I) like Korean food because (it's) spicey. {の で}",
+    "{辛い|karai} no de {韓国料理|kankokuryouri} ga {好き|suki} desu.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ]
 ])
