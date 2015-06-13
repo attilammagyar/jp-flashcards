@@ -671,7 +671,7 @@ Flashcards.initialize([
 ],
 [
     "Hello everyone!",
-    "{皆さん|minasan} kon ni chi wa.",
+    "{皆さん|minasan} kon'ni chi wa.",
     ""
 ],
 [
@@ -1481,7 +1481,7 @@ Flashcards.initialize([
 ],
 [
     "I think (she's) not especially shy, you know.",
-    "son na ni hazukashigari ja nai to {思います|omoimasu} yo.",
+    "son'na ni hazukashigari ja nai to {思います|omoimasu} yo.",
     ""
 ],
 [
@@ -1511,7 +1511,7 @@ Flashcards.initialize([
 ],
 [
     "I think that Ms. Natsuko is not especially shy.",
-    "{夏子|natsuko} san wa son na ni hazukashigari ja nai to {思います|omoimasu}.",
+    "{夏子|natsuko} san wa son'na ni hazukashigari ja nai to {思います|omoimasu}.",
     ""
 ],
 [
@@ -1716,7 +1716,7 @@ Flashcards.initialize([
 ],
 [
     "I don't think (she) is especially shy.",
-    "son na ni hazukashigari ja nai to {思います|omoimasu}.",
+    "son'na ni hazukashigari ja nai to {思います|omoimasu}.",
     ""
 ],
 [
@@ -2031,7 +2031,7 @@ Flashcards.initialize([
 ],
 [
     "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
-    "{お天気|otenki} wa dou deshita ka. mou sugu {春|haru} ni narimasu ga son na ni {暖かくなかった|atatakakunakatta} desu.",
+    "{お天気|otenki} wa dou deshita ka. mou sugu {春|haru} ni narimasu ga son'na ni {暖かくなかった|atatakakunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -3796,7 +3796,7 @@ Flashcards.initialize([
 ],
 [
     "Did (you) stay out until late? (It) wasn't especially late.",
-    "{遅く|osoku} made {遊びました|asobimashita} ka. son na ni {遅くなかった|osokunakatta} desu.",
+    "{遅く|osoku} made {遊びました|asobimashita} ka. son'na ni {遅くなかった|osokunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -4176,7 +4176,7 @@ Flashcards.initialize([
 ],
 [
     "I'm not a university student. (I've) graduated 3 years ago. Then for 2 years, (I) taught Japanese and travelled in America.",
-    "{私|watashi} wa {大学生|daigakusei} ja nai desu. {三年|san nen} {前|mae} ni {卒業|sotsugyou} shite imashita. soshite {二年間|ni nen kan} _amerika_ de {日本語|nihongo} wo {教えたり|oshietari}, {旅行|ryokou} shitari shimashita.",
+    "{私|watashi} wa {大学生|daigakusei} ja nai desu. {三年|san'nen} {前|mae} ni {卒業|sotsugyou} shite imashita. soshite {二年間|ni nen kan} _amerika_ de {日本語|nihongo} wo {教えたり|oshietari}, {旅行|ryokou} shitari shimashita.",
     "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
 ],
 [
@@ -4496,12 +4496,12 @@ Flashcards.initialize([
 ],
 [
     "What kind of person is good? Anyone is okay.",
-    "don na {人|hito} ga ii desu ka. {誰|dare} de mo ii desu.",
+    "don'na {人|hito} ga ii desu ka. {誰|dare} de mo ii desu.",
     ""
 ],
 [
     "Anyone can understand such a problem.",
-    "Son na {問題|mondai}, {誰|dare} de mo {分かります|wakarimasu}.",
+    "Son'na {問題|mondai}, {誰|dare} de mo {分かります|wakarimasu}.",
     ""
 ],
 [
@@ -4516,7 +4516,7 @@ Flashcards.initialize([
 ],
 [
     "What kind of omlet do (you) like? Anything is okay.",
-    "don na _omuretsu_ ga {好き|suki} desu ka. {何|nan} de mo ii desu.",
+    "don'na _omuretsu_ ga {好き|suki} desu ka. {何|nan} de mo ii desu.",
     ""
 ],
 [
@@ -4646,7 +4646,7 @@ Flashcards.initialize([
 ],
 [
     "What does Rie think about Mr. Yamada going to China? (It's) a pity, but a good opportunity.",
-    "rie san wa {山田|yamada} san ga {中国|chuugoku} ni {行く|iku} koto ni tsuite dou {思います|omoimasu} ka. zan nen desu ga ii _chansu_ desu.",
+    "rie san wa {山田|yamada} san ga {中国|chuugoku} ni {行く|iku} koto ni tsuite dou {思います|omoimasu} ka. zan'nen desu ga ii _chansu_ desu.",
     ""
 ],
 [
@@ -4703,5 +4703,40 @@ Flashcards.initialize([
     "There are a lot of things (I) can't say yet.",
     "{未だ|mada} {言う|iu} koto ga {出来ない|dekinai} koto ga ippai arimasu.",
     "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
+],
+[
+    "Suddenly the phone rang. {plain}",
+    "{突然|totsuzen} {電話|denwa} ga {鳴った|natta}.",
+    ""
+],
+[
+    "Sadly, (it has been decided that) Mr. Yamada will transfer to China soon.",
+    "zan'nen desu ga {山田|yamada} san ha mou sugu {中国|chuugoku} ni tenkin suru koto ni narimashita.",
+    "verb-うこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+],
+[
+    "(I) tried to find another job in Tokyo, but there weren't any.",
+    "{東京|toukyou} de {他|hoka} no {仕事|shigoto} wo {見付けよう|mitsukeyou} to shimashita ga {仕事|shigoto} wa {全然|zenzen} arimasen deshita.",
+    "verb-おう/よう + と + する = struggle with ~, tried ~ but failed"
+],
+[
+    "(I) still want to work in Japan, but (I) think I'll also go to China.",
+    "mada {日本|nihon} de {働きたい|hatarakitai} desu ga {私|watashi} mo {中国|chuugoku} ni {行こう|ikou} to {思います|omoimasu}.",
+    "~たい is usually used only in first person or in questions for the second person\nverb-おう/よう + と + {思う|おもう} = I think I _will_ ~"
+],
+[
+    "Since how many years have (you) been living in Japan? Around 3 (I) think.",
+    "{何年間|nan'nenkan} {日本|nihon} ni {住んで|sunde} imashita ka. {三年|san'nen} kurai to {思います|omoimasu}.",
+    "verb-て + いました = was (in the state of) doing ~, emphasize regular habitual action"
+],
+[
+    "When will (you) transfer? (I'll) possibly go to China next month, but (I) don't know clearly yet.",
+    "itsu tenkin shimasu ka. {来月|raigetsu} {中国|chuugoku} ni {行く|iku} ka mo shiremasen ga mada hakkiri {分かりません|wakarimasen}.",
+    "verb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~\n"
+],
+[
+    "Before (you) go, let's make a party, right? In Japan, before being transferred, (you're supposed to) hold a \"Goodbye party\", you know.",
+    "{行く|iku} {前|mae} ni パーティー wo shimashou ne. {日本|nihon} de wa tenkin suru {前|mae} ni 「sayounara パーティー」 wo {行う|okonau} koto ni natte imasu.",
+    "verb-う + {前|まえ} に = before doing ~\nverb-うこと + に + なって + いる = rules, customs, how things are supposed to be done"
 ]
 ])
