@@ -1157,7 +1157,7 @@ Flashcards.initialize([
 [
     "(I) want to drink a beer.",
     "_biiru_ wo {飲みたい|nomitai} desu.",
-    "~たい is usually used only in first person or in questions for the second person"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Last night (I) didn't drink (any) beer at all.",
@@ -1352,12 +1352,12 @@ Flashcards.initialize([
 [
     "(I) want to eat rice with chopsticks.",
     "{お箸|ohashi} de {ご飯|gohan} wo {食べたい|tabetai} desu.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\n~たい is usually used only in first person or in questions for the second person"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to buy a Japanese camera.",
     "{日本|nihon} no _kamera_ wo {買いたい|kaitai} desu.",
-    "~たい is usually used only in first person or in questions for the second person"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "What is (your) hobby? (My) hobby is paper folding.",
@@ -1487,7 +1487,7 @@ Flashcards.initialize([
 [
     "Do (you) want to meet again?",
     "mata {会いたい|aitai} desu ka.",
-    "~たい is usually used only in first person or in questions for the second person"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "I hope to play tennis together next week.",
@@ -1522,7 +1522,7 @@ Flashcards.initialize([
 [
     "Next year I hope to go to Japan again.",
     "{来年|rainen} mata {日本|nihon} ni {行きたい|ikitai} to {思います|omoimasu}.",
-    "~たい is usually used only in first person or in questions for the second person"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "I have a headache.",
@@ -1642,7 +1642,7 @@ Flashcards.initialize([
 [
     "(I) hope to eat sushi in Japan and I hope to see Mount Fuji.",
     "{日本|nihon} de sushi wo {食べたい|tabetai} to {思います|omoimasu}. soshite fuji san wo {見たい|mitai} to {思います|omoimasu}.",
-    "~たい is usually used only in first person or in questions for the second person"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(It) isn't good.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
     "oosaka ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. oosaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa tsumaranakatta desu.",
-    "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\n~たい is usually used only in first person or in questions for the second person\n{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
+    "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\n{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -2227,7 +2227,7 @@ Flashcards.initialize([
 [
     "(I) want to eat a banana. (I) want to eat a banana.",
     "_banana_ wo {食べたい|tabetai} desu. _banana_ ga {食べたい|tabetai} desu.",
-    "~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person"
+    "verb stem + たい = want to ~ (verb --> い adj.)\n~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(My) mom's cooking is the most delicious in the world.",
@@ -2752,7 +2752,7 @@ Flashcards.initialize([
 [
     "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
     "{先生|sensei} to {話したい|hanashitai} {場合|baai} wa, shokuinshitsu ni {入って|haitte} mo ii desu.",
-    "verb-て + も + いい = doing verb is allowed, (you) may do verb"
+    "verb stem + たい = want to ~ (verb --> い adj.)\nverb-て + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "(It's) not allowed to go to the toilet during class.",
@@ -3687,7 +3687,7 @@ Flashcards.initialize([
 [
     "Next year (I) want to go to South America so (I'm) learning Spanish now. {の で}",
     "{来年|rainen} {南|minami} _amerika_ ni {行きたい|ikitai} no de {今|ima} _supein_ {語|go} wo {習って|naratte} imasu.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+    "verb stem + たい = want to ~ (verb --> い adj.)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ],
 [
     "(I'm) not very good at speaking Spanish yet but (I) think that speaking with South American people will be very interesting.",
@@ -4352,7 +4352,7 @@ Flashcards.initialize([
 [
     "(I) hope to go to South America. (I) think (I) will go to South America. (I) plan to go to South America.",
     "{南|minami} _amerika_ ni {行きたい|ikitai} to {思います|omoimasu}. {南|minami} _amerika_ ni {行こう|ikou} to {思います|omoimasu}. {南|minami} _amerika_ ni {行く|iku} tsumori desu.",
-    "~たい is usually used only in first person or in questions for the second person\nverb-おう/よう + と + {思う|おもう} = I think I _will_ ~\nverb-う + つもり = intend to ~"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-おう/よう + と + {思う|おもう} = I think I _will_ ~\nverb-う + つもり = intend to ~"
 ],
 [
     "(I) think (I) will go to Japan next year. (My) mom thinks (she) will go to Europe next year.",
@@ -4622,12 +4622,12 @@ Flashcards.initialize([
 [
     "The weather was sunny all day long and too hot, and I'd want to spend time in the fridge.",
     "{一日中|ichinichijuu} {良く|yoku} {晴れた|hareta} {天気|tenki} de, amarinimo {暑く|atsuku}, {冷蔵庫|reizouko} no {中|naka} de {過ごしたい|sugoshitai} {気分|kibun} desu.",
-    "な-adj. + で = adj. and ...\n~たい is usually used only in first person or in questions for the second person"
+    "な-adj. + で = adj. and ...\nverb stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "The weather is sunny all day long, and too hot, and (I) want to sit into the fridge.",
     "{天気|tenki} wa {一日中|ichinichijuu} {晴れ|hare} de, {暑過ぎて|atsusugite}, {冷蔵庫|reizouko} no {中|naka} ni {入りたい|hairitai} desu.",
-    "な-adj. + で = adj. and ...\nstem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~\n~たい is usually used only in first person or in questions for the second person"
+    "な-adj. + で = adj. and ...\nstem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Mr. Yamada will soon be transferred to America.",
@@ -4722,7 +4722,7 @@ Flashcards.initialize([
 [
     "(I) still want to work in Japan, but (I) think I'll also go to China.",
     "mada {日本|nihon} de {働きたい|hatarakitai} desu ga {私|watashi} mo {中国|chuugoku} ni {行こう|ikou} to {思います|omoimasu}.",
-    "~たい is usually used only in first person or in questions for the second person\nverb-おう/よう + と + {思う|おもう} = I think I _will_ ~"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-おう/よう + と + {思う|おもう} = I think I _will_ ~"
 ],
 [
     "Since how many years have (you) been living in Japan? Around 3 (I) think.",
@@ -4803,5 +4803,40 @@ Flashcards.initialize([
     "(I) make it a rule to learn a few kanji every day.",
     "{毎日|mainichi} {漢字|kanji} wo {少し|sukoshi} {習う|narau} koto ni shite imasu.",
     "verb-うこと/noun + に + して + いる = (I make it a rule to) ~"
+],
+[
+    "(I) hope to buy a new camera. (I) think (I) will go to China next year.",
+    "{新しい|atarashii} _kamera_ wo {買いたい|kaitai} to {思います|omoimasu}. {来年|rainen} {中国|chuugoku} ni {行こう|ikou} to {思います|omoimasu}.",
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-おう/よう + と + {思う|おもう} = I think I _will_ ~"
+],
+[
+    "(I) intend to meet (my) friend tomorrow. (I) tried to meet (my) friend yesterday.",
+    "{明日|ashita} {友達|tomodachi} ni {会う|au} tsumori desu. {昨日|kinou} {友達|tomodachi} to {会おう|aou} to shimashita.",
+    "verb-う + つもり = intend to ~\nverb-おう/よう + と + する = struggle with ~, tried ~ but failed"
+],
+[
+    "(I) decided to learn Italian.",
+    "_itaria_ {語|go} wo {習う|narau} koto ni shimasu.",
+    "verb-うこと/noun + に + する = (I have decided I will do) ~"
+],
+[
+    "This film isn't interesting so (he) might go home. {の で}",
+    "kono {映画|eiga} wa {面白くない|omoshirokunai} no de {家|uchi} ni {帰る|kaeru} ka mo shiremasen.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~"
+],
+[
+    "(I) bet (he) goes to see the baseball match tomorrow.",
+    "kitto {明日|ashita} no yakyuu no shiai wo {見|mi} ni {行く|iku} deshou.",
+    "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverb-う + でしょう/だろう = probably (will) do ~"
+],
+[
+    "(I) think (I) will come to play today.",
+    "{今日|kyou} {遊び|asobi} ni {来よう|koyou} to {思います|omoimasu}.",
+    "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverb-おう/よう + と + {思う|おもう} = I think I _will_ ~"
+],
+[
+    "(I) don't plan to be off work next week.",
+    "{来週|raishuu} {仕事|shigoto} wo {休む|yasumu} tsumori de wa arimasen.",
+    "verb-う + つもり = intend to ~"
 ]
 ])

@@ -1157,7 +1157,7 @@ Flashcards.initialize([
     [
         "(I) want to drink a beer.",
         "\u30d3\u30fc\u30eb\u3092{\u98f2\u307f\u305f\u3044|\u306e\u307f\u305f\u3044}\u3067\u3059\u3002",
-        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "Last night (I) didn't drink (any) beer at all.",
@@ -1352,12 +1352,12 @@ Flashcards.initialize([
     [
         "(I) want to eat rice with chopsticks.",
         "{\u304a\u7bb8|\u304a\u306f\u3057}\u3067{\u3054\u98ef|\u3054\u306f\u3093}\u3092{\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}\u3067\u3059\u3002",
-        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to buy a Japanese camera.",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u306e\u30ab\u30e1\u30e9\u3092{\u8cb7\u3044\u305f\u3044|\u304b\u3044\u305f\u3044}\u3067\u3059\u3002",
-        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "What is (your) hobby? (My) hobby is paper folding.",
@@ -1487,7 +1487,7 @@ Flashcards.initialize([
     [
         "Do (you) want to meet again?",
         "\u307e\u305f{\u4f1a\u3044\u305f\u3044|\u3042\u3044\u305f\u3044}\u3067\u3059\u304b\u3002",
-        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "I hope to play tennis together next week.",
@@ -1522,7 +1522,7 @@ Flashcards.initialize([
     [
         "Next year I hope to go to Japan again.",
         "{\u6765\u5e74|\u3089\u3044\u306d\u3093}\u307e\u305f{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "I have a headache.",
@@ -1642,7 +1642,7 @@ Flashcards.initialize([
     [
         "(I) hope to eat sushi in Japan and I hope to see Mount Fuji.",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u3067\u3059\u3057\u3092{\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002\u305d\u3057\u3066\u3075\u3058\u3055\u3093\u3092{\u898b\u305f\u3044|\u307f\u305f\u3044}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(It) isn't good.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
     [
         "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
         "\u304a\u304a\u3055\u304b\u306b{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u3067\u3059\u3002{\u9762\u767d\u304f\u306a\u3044|\u304a\u3082\u3057\u308d\u304f\u306a\u3044}{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304b\u3002\u304a\u304a\u3055\u304b\u306f\u3059\u3070\u3089\u3057\u3044{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304c{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306f\u3064\u307e\u3089\u306a\u304b\u3063\u305f\u3067\u3059\u3002",
-        "\u304f\u306a\u3044 = negative of \u3044 adj.\n\u304b\u3063\u305f = past tense of \u3044 adj.\n\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location"
+        "\u304f\u306a\u3044 = negative of \u3044 adj.\n\u304b\u3063\u305f = past tense of \u3044 adj.\n\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj.\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location"
     ],
     [
         "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -2227,7 +2227,7 @@ Flashcards.initialize([
     [
         "(I) want to eat a banana. (I) want to eat a banana.",
         "\u30d0\u30ca\u30ca\u3092{\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}\u3067\u3059\u3002\u30d0\u30ca\u30ca\u304c{\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}\u3067\u3059\u3002",
-        "~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(My) mom's cooking is the most delicious in the world.",
@@ -2752,7 +2752,7 @@ Flashcards.initialize([
     [
         "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
         "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u3068{\u8a71\u3057\u305f\u3044|\u306f\u306a\u3057\u305f\u3044}{\u5834\u5408|\u3070\u3042\u3044}\u306f\u3001\u3057\u3087\u304f\u3044\u3093\u3057\u3064\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u3002",
-        "verb-\u3066 + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
+        "verb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb-\u3066 + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
         "(It's) not allowed to go to the toilet during class.",
@@ -3687,7 +3687,7 @@ Flashcards.initialize([
     [
         "Next year (I) want to go to South America so (I'm) learning Spanish now. {\u306e \u3067}",
         "{\u6765\u5e74|\u3089\u3044\u306d\u3093}{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u306e\u3067{\u4eca|\u3044\u307e}\u30b9\u30da\u30a4\u30f3{\u8a9e|\u3054}\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)"
+        "verb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)"
     ],
     [
         "(I'm) not very good at speaking Spanish yet but (I) think that speaking with South American people will be very interesting.",
@@ -4352,7 +4352,7 @@ Flashcards.initialize([
     [
         "(I) hope to go to South America. (I) think (I) will go to South America. (I) plan to go to South America.",
         "{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002{\u5357|\u307f\u306a\u307f}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u304f|\u3044\u304f}\u3064\u3082\u308a\u3067\u3059\u3002",
-        "~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\nverb-\u3046 + \u3064\u3082\u308a = intend to ~"
+        "verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\nverb-\u3046 + \u3064\u3082\u308a = intend to ~"
     ],
     [
         "(I) think (I) will go to Japan next year. (My) mom thinks (she) will go to Europe next year.",
@@ -4622,12 +4622,12 @@ Flashcards.initialize([
     [
         "The weather was sunny all day long and too hot, and I'd want to spend time in the fridge.",
         "{\u4e00\u65e5\u4e2d|\u3044\u3061\u306b\u3061\u3058\u3085\u3046}{\u826f\u304f|\u3088\u304f}{\u6674\u308c\u305f|\u306f\u308c\u305f}{\u5929\u6c17|\u3066\u3093\u304d}\u3067\u3001\u3042\u307e\u308a\u306b\u3082{\u6691\u304f|\u3042\u3064\u304f}\u3001{\u51b7\u8535\u5eab|\u308c\u3044\u305e\u3046\u3053}\u306e{\u4e2d|\u306a\u304b}\u3067{\u904e\u3054\u3057\u305f\u3044|\u3059\u3054\u3057\u305f\u3044}{\u6c17\u5206|\u304d\u3076\u3093}\u3067\u3059\u3002",
-        "\u306a-adj. + \u3067 = adj. and ...\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "\u306a-adj. + \u3067 = adj. and ...\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "The weather is sunny all day long, and too hot, and (I) want to sit into the fridge.",
         "{\u5929\u6c17|\u3066\u3093\u304d}\u306f{\u4e00\u65e5\u4e2d|\u3044\u3061\u306b\u3061\u3058\u3085\u3046}{\u6674\u308c|\u306f\u308c}\u3067\u3001{\u6691\u904e\u304e\u3066|\u3042\u3064\u3059\u304e\u3066}\u3001{\u51b7\u8535\u5eab|\u308c\u3044\u305e\u3046\u3053}\u306e{\u4e2d|\u306a\u304b}\u306b{\u5165\u308a\u305f\u3044|\u306f\u3044\u308a\u305f\u3044}\u3067\u3059\u3002",
-        "\u306a-adj. + \u3067 = adj. and ...\nstem of adj. or continuative base of verb + ~{\u904e\u304e\u308b|\u3059\u304e\u308b} = too much ~, over~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "\u306a-adj. + \u3067 = adj. and ...\nstem of adj. or continuative base of verb + ~{\u904e\u304e\u308b|\u3059\u304e\u308b} = too much ~, over~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "Mr. Yamada will soon be transferred to America.",
@@ -4722,7 +4722,7 @@ Flashcards.initialize([
     [
         "(I) still want to work in Japan, but (I) think I'll also go to China.",
         "\u307e\u3060{\u65e5\u672c|\u306b\u307b\u3093}\u3067{\u50cd\u304d\u305f\u3044|\u306f\u305f\u3089\u304d\u305f\u3044}\u3067\u3059\u304c{\u79c1|\u308f\u305f\u3057}\u3082{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~"
+        "verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~"
     ],
     [
         "Since how many years have (you) been living in Japan? Around 3 (I) think.",
@@ -4803,5 +4803,40 @@ Flashcards.initialize([
         "(I) make it a rule to learn a few kanji every day.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u6f22\u5b57|\u304b\u3093\u3058}\u3092{\u5c11\u3057|\u3059\u3053\u3057}{\u7fd2\u3046|\u306a\u3089\u3046}\u3053\u3068\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
         "verb-\u3046\u3053\u3068/noun + \u306b + \u3057\u3066 + \u3044\u308b = (I make it a rule to) ~"
+    ],
+    [
+        "(I) hope to buy a new camera. (I) think (I) will go to China next year.",
+        "{\u65b0\u3057\u3044|\u3042\u305f\u3089\u3057\u3044}\u30ab\u30e1\u30e9\u3092{\u8cb7\u3044\u305f\u3044|\u304b\u3044\u305f\u3044}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002{\u6765\u5e74|\u3089\u3044\u306d\u3093}{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u884c\u3053\u3046|\u3044\u3053\u3046}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
+        "verb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~"
+    ],
+    [
+        "(I) intend to meet (my) friend tomorrow. (I) tried to meet (my) friend yesterday.",
+        "{\u660e\u65e5|\u3042\u3057\u305f}{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306b{\u4f1a\u3046|\u3042\u3046}\u3064\u3082\u308a\u3067\u3059\u3002{\u6628\u65e5|\u304d\u306e\u3046}{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3068{\u4f1a\u304a\u3046|\u3042\u304a\u3046}\u3068\u3057\u307e\u3057\u305f\u3002",
+        "verb-\u3046 + \u3064\u3082\u308a = intend to ~\nverb-\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = struggle with ~, tried ~ but failed"
+    ],
+    [
+        "(I) decided to learn Italian.",
+        "\u30a4\u30bf\u30ea\u30a2{\u8a9e|\u3054}\u3092{\u7fd2\u3046|\u306a\u3089\u3046}\u3053\u3068\u306b\u3057\u307e\u3059\u3002",
+        "verb-\u3046\u3053\u3068/noun + \u306b + \u3059\u308b = (I have decided I will do) ~"
+    ],
+    [
+        "This film isn't interesting so (he) might go home. {\u306e \u3067}",
+        "\u3053\u306e{\u6620\u753b|\u3048\u3044\u304c}\u306f{\u9762\u767d\u304f\u306a\u3044|\u304a\u3082\u3057\u308d\u304f\u306a\u3044}\u306e\u3067{\u5bb6|\u3046\u3061}\u306b{\u5e30\u308b|\u304b\u3048\u308b}\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3002",
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb-\u3046 + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might do ~, possibly (will) do ~"
+    ],
+    [
+        "(I) bet (he) goes to see the baseball match tomorrow.",
+        "\u304d\u3063\u3068{\u660e\u65e5|\u3042\u3057\u305f}\u306e\u3084\u304d\u3085\u3046\u306e\u3057\u3042\u3044\u3092{\u898b|\u307f}\u306b{\u884c\u304f|\u3044\u304f}\u3067\u3057\u3087\u3046\u3002",
+        "(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb-\u3046 + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably (will) do ~"
+    ],
+    [
+        "(I) think (I) will come to play today.",
+        "{\u4eca\u65e5|\u304d\u3087\u3046}{\u904a\u3073|\u3042\u305d\u3073}\u306b{\u6765\u3088\u3046|\u3053\u3088\u3046}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
+        "(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb-\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~"
+    ],
+    [
+        "(I) don't plan to be off work next week.",
+        "{\u6765\u9031|\u3089\u3044\u3057\u3085\u3046}{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092{\u4f11\u3080|\u3084\u3059\u3080}\u3064\u3082\u308a\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+        "verb-\u3046 + \u3064\u3082\u308a = intend to ~"
     ]
 ])
