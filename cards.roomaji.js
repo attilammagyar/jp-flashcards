@@ -4750,8 +4750,58 @@ Flashcards.initialize([
     "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
 ],
 [
-    "(I) like Korean food because (it's) spicey. {の で}",
+    "(I) like Korean food because (it's) spicy. {の で}",
     "{辛い|karai} no de {韓国料理|kankokuryouri} ga {好き|suki} desu.",
     "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+],
+[
+    "(I'm) sorry, but this week (I) haven't had much time for piano practice.",
+    "sumimasen ga {今週|konshuu} _piano_ no {練習|renshuu} {時間|jikan} wa amari arimasen deshita.",
+    ""
+],
+[
+    "(I) was about to practice, but (I) had various problems.",
+    "{練習|renshuu} wo shiyou to shite imashita ga {色々|iroiro} na {問題|mondai} ga arimashita.",
+    "verb-おう/よう + と + して + いる = to be about to do ~"
+],
+[
+    "On Tuesday and Wednesday (I) had a lot of homework.",
+    "{火曜日|kayoubi} mo {水曜日|suiyoubi} mo {宿題|shukudai} ga {沢山|takusan} arimashita.",
+    ""
+],
+[
+    "On Thursday it was unexpectedly arranged for me to take part in a judo contest.",
+    "{木曜日|mokuyoubi} ni totsuzen {私|watashi} wa juudou no shiai ni sanka suru koto ni narimashita.",
+    "verb-うこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+],
+[
+    "Next week (I) think (I) will be surely free all week. Therefore, (I) think (I) will practice every day for about 1 hour.",
+    "{来週|raishuu} wa {一週間|isshuukan} kitto {暇|hima} da to {思います|omoimasu}. dakara {毎日|mainichi} {一時間|ichijikan} gurai wa {練習|renshuu} wo shiyou to {思います|omoimasu}.",
+    "verb-おう/よう + と + {思う|おもう} = I think I _will_ ~"
+],
+[
+    "(I) didn't do much Japanese study this week. (I) meant to, but (I) was very busy.",
+    "{今週|konshuu} {日本語|nihongo} wa amari {勉強|benkyou} shimasen deshita. {勉強|benkyou} wo shiyou to shite imashita ga totemo {忙しかった|isogashikatta} desu.",
+    "verb-おう/よう + と + して + いる = to be about to do ~"
+],
+[
+    "On Thursday, it was unexpectedly decided for me to go on a business trip to Tokyo.",
+    "{木曜日|mokuyoubi} ni totsuzen {私|watashi} wa {東京|toukyou} ni shucchou suru koto ni narimashita.",
+    "verb-うこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+],
+[
+    "On Monday (it was arranged for me to) have a meal with the sales manager.",
+    "{月曜日|getsuyoubi} ni eigyou buchou to {食事|shokuji} wo suru koto ni narimashita.",
+    "verb-うこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+],
+[
+    "Before eating a meal, (you're) supposed to wash (your) hands.",
+    "{食事|shokuji} wo {食べる|taberu} {前|mae} ni {手|te} wo {洗う|arau} koto ni natte imasu.",
+    "verb-うこと + に + なって + いる = rules, customs, how things are supposed to be done"
+],
+[
+    "(I) make it a rule to learn a few kanji every day.",
+    "{毎日|mainichi} {漢字|kanji} wo {少し|sukoshi} {習う|narau} koto ni shite imasu.",
+    "verb-うこと/noun + に + して + いる = (I make it a rule to) ~"
 ]
 ])
