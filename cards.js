@@ -4840,7 +4840,7 @@ Flashcards.initialize([
         "verb-\u3046 + \u3064\u3082\u308a = intend to ~"
     ],
     [
-        "This is a writing for an exercise from my Japanese textbook.",
+        "This is a writing for an exercise from (my) Japanese textbook.",
         "\u3053\u308c\u306f{\u6559\u79d1\u66f8|\u304d\u3087\u3046\u304b\u3057\u3087}\u306e{\u554f\u984c|\u3082\u3093\u3060\u3044}\u306e\u305f\u3081\u306b{\u66f8\u3044\u305f|\u304b\u3044\u305f}{\u6587\u7ae0|\u3076\u3093\u3057\u3087\u3046}\u3067\u3059\u3002",
         "noun + \u306e + \u305f\u3081 + \u306b + verb = do verb for the benefit of / in order to noun"
     ],

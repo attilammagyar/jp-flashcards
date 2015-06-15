@@ -4840,7 +4840,7 @@ Flashcards.initialize([
     "verb-う + つもり = intend to ~"
 ],
 [
-    "This is a writing for an exercise from my Japanese textbook.",
+    "This is a writing for an exercise from (my) Japanese textbook.",
     "kore wa {教科書|kyoukasho} no {問題|mondai} no tame ni {書いた|kaita} {文章|bunshou} desu.",
     "noun + の + ため + に + verb = do verb for the benefit of / in order to noun"
 ],
