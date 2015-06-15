@@ -4838,5 +4838,20 @@ Flashcards.initialize([
     "(I) don't plan to be off work next week.",
     "{来週|raishuu} {仕事|shigoto} wo {休む|yasumu} tsumori de wa arimasen.",
     "verb-う + つもり = intend to ~"
+],
+[
+    "This is a writing for an exercise from my Japanese textbook.",
+    "kore wa {教科書|kyoukasho} no {問題|mondai} no tame ni {書いた|kaita} {文章|bunshou} desu.",
+    "noun + の + ため + に + verb = do verb for the benefit of / in order to noun"
+],
+[
+    "This week, (I) didn't progress much with (my) Japanese studies.",
+    "{今週|konshuu} wa {日本語|nihongo} no {勉強|benkyou} ga amari {進みません|susumimasen} deshita.",
+    ""
+],
+[
+    "Today (I've) heard the news of the earthquake. (I) hope everyone is safe.",
+    "{今日|kyou} no {地震|jishin} no _nyuusu_ wo {聞きました|kikimashita}. {皆さん|minasan} no {無事|buji} wo {願って|negatte} imasu.",
+    "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ]
 ])

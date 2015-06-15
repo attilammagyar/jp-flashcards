@@ -4838,5 +4838,20 @@ Flashcards.initialize([
         "(I) don't plan to be off work next week.",
         "{\u6765\u9031|\u3089\u3044\u3057\u3085\u3046}{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092{\u4f11\u3080|\u3084\u3059\u3080}\u3064\u3082\u308a\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
         "verb-\u3046 + \u3064\u3082\u308a = intend to ~"
+    ],
+    [
+        "This is a writing for an exercise from my Japanese textbook.",
+        "\u3053\u308c\u306f{\u6559\u79d1\u66f8|\u304d\u3087\u3046\u304b\u3057\u3087}\u306e{\u554f\u984c|\u3082\u3093\u3060\u3044}\u306e\u305f\u3081\u306b{\u66f8\u3044\u305f|\u304b\u3044\u305f}{\u6587\u7ae0|\u3076\u3093\u3057\u3087\u3046}\u3067\u3059\u3002",
+        "noun + \u306e + \u305f\u3081 + \u306b + verb = do verb for the benefit of / in order to noun"
+    ],
+    [
+        "This week, (I) didn't progress much with (my) Japanese studies.",
+        "{\u4eca\u9031|\u3053\u3093\u3057\u3085\u3046}\u306f{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u306e{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u304c\u3042\u307e\u308a{\u9032\u307f\u307e\u305b\u3093|\u3059\u3059\u307f\u307e\u305b\u3093}\u3067\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "Today (I've) heard the news of the earthquake. (I) hope everyone is safe.",
+        "{\u4eca\u65e5|\u304d\u3087\u3046}\u306e{\u5730\u9707|\u3058\u3057\u3093}\u306e\u30cb\u30e5\u30fc\u30b9\u3092{\u805e\u304d\u307e\u3057\u305f|\u304d\u304d\u307e\u3057\u305f}\u3002{\u7686\u3055\u3093|\u307f\u306a\u3055\u3093}\u306e{\u7121\u4e8b|\u3076\u3058}\u3092{\u9858\u3063\u3066|\u306d\u304c\u3063\u3066}\u3044\u307e\u3059\u3002",
+        "verb-\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ]
 ])
