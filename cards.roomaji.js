@@ -3441,7 +3441,7 @@ Flashcards.initialize([
 ],
 [
     "(I) looked up the meaning of that word in the dictionary.",
-    "{其の|sono} {語|go} no {意味|imi} wo {辞書|jisho} de shirabemashita.",
+    "{其の|sono} {語|go} no {意味|imi} wo {辞書|jisho} de {調べました|shirabemashita}.",
     ""
 ],
 [
