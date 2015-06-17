@@ -3357,7 +3357,7 @@ Flashcards.initialize([
 [
     "Eri can already swim.",
     "eri chan wa mou {泳ぐこと|oyogukoto} dekimasu.",
-    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "Roger likes to drink beer with (his) friends.",
@@ -3397,12 +3397,12 @@ Flashcards.initialize([
 [
     "Naoe can speak English a little.",
     "Naoe san wa {少し|sukoshi} {英語|eigo} wo {話すこと|hanasukoto} ga dekimasu.",
-    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "I can't eat raw fish.",
     "{私|watashi} wa sashimi wo {食べること|taberukoto} ga dekimasen.",
-    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "Rie likes doing cooking.",
@@ -3642,7 +3642,7 @@ Flashcards.initialize([
 [
     "(It's) strange but I can somehow understand.",
     "{可笑しい|okashii} desu kedo, {私|watashi} wa {何となく|nantonaku} rikai dekimasu.",
-    "noun + できる = can (do) noun"
+    "noun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "The zookeeper caught (it). Poor penguin.",
@@ -3657,7 +3657,7 @@ Flashcards.initialize([
 [
     "Why can't Roger eat meat? Because (he's) vegetarian. {から}",
     "_rojaa_ san wa doushite {肉|niku} wo {食べること|taberukoto} ga dekimasen ka. _bejitarian_ da kara desu.",
-    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "Erm... are (you) free tonight?",
@@ -3697,7 +3697,7 @@ Flashcards.initialize([
 [
     "(I) also like Spanish food very much but (I) can't make (it).",
     "_supein_ no {料理|ryouri} mo totemo {好き|suki} desu ga {作ること|tsukurukoto} wa dekimasen.",
-    "noun + できる = can (do) noun"
+    "noun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "Tonight (I) plan to meet a friend in town and eat Spanish food in a tasty restaurant.",
@@ -3772,7 +3772,7 @@ Flashcards.initialize([
 [
     "(I) also like Japanese food very much, but (I) can't make (it).",
     "{日本|nihon} no {料理|ryouri} mo totemo {好き|suki} desu ga {作ること|tsukurukoto} wa dekimasen.",
-    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "(I) think Roger doesn't like sushi very much. Because (he) didn't eat (it) only a little. {から}",
@@ -4242,7 +4242,7 @@ Flashcards.initialize([
 [
     "When (I) lived in Australia, (I) spoke English well.",
     "_oosutoraria_ ni {住んで|sunde} ita {時|toki} {英語|eigo} ga yoku dekimashita.",
-    "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-た + {時|とき} = when did/have done ~\nnoun + できる = can (do) noun"
+    "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-た + {時|とき} = when did/have done ~\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "(I) went to bed late last night, so (I'm) totally exhausted. {plain}",
@@ -4467,12 +4467,12 @@ Flashcards.initialize([
 [
     "(You) definitely can't do (it).",
     "{絶対|zettai} dekimasen.",
-    "noun + できる = can (do) noun"
+    "noun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "Anybody can do (it).",
     "{誰|dare} de mo dekimasu.",
-    "noun + できる = can (do) noun"
+    "noun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "(I) experienced (working as a) volunteer in the hospital last year. {plain}",
@@ -4487,7 +4487,7 @@ Flashcards.initialize([
 [
     "Experience is also important. Anyway, you can't do (it).",
     "{経験|keiken} mo {大事|daiji} desu. tonikaku, {貴方|anata} ni wa dekimasen.",
-    "noun + できる = can (do) noun"
+    "noun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "(I) messed up. {plain}",
@@ -4602,7 +4602,7 @@ Flashcards.initialize([
 [
     "Cute baby, isn't he? Can (he) walk? No, (he) can't. But (he) can crawl.",
     "{可愛い|kawaii} {赤ちゃん|akachan} desu ne. {歩く|aruku} koto wa dekimasu ka. iie, dekimasen. demo, _haihai_ suru koto ga dekimasu.",
-    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "He's about my size.",
@@ -4702,7 +4702,7 @@ Flashcards.initialize([
 [
     "There are a lot of things (I) can't say yet.",
     "{未だ|mada} {言う|iu} koto ga {出来ない|dekinai} koto ga ippai arimasu.",
-    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "Suddenly the phone rang. {plain}",
@@ -4747,7 +4747,7 @@ Flashcards.initialize([
 [
     "(You) can do various things in the library that can't be done in the classroom. {plain}",
     "{図書館|toshokan} de wa, {教室|kyoushitsu} de dekinai {色々|iroiro} na koto ga dekiru.",
-    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun"
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "(I) like Korean food because (it's) spicy. {の で}",
@@ -4853,5 +4853,30 @@ Flashcards.initialize([
     "Today (I've) heard the news of the earthquake. (I) hope everyone is safe.",
     "{今日|kyou} no {地震|jishin} no _nyuusu_ wo {聞きました|kikimashita}. {皆さん|minasan} no {無事|buji} wo {願って|negatte} imasu.",
     "verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I) can speak Japanese better. {plain}",
+    "motto {上手|jouzu} ni {日本語|nihongo} wo {話す|hanasu} koto ga dekiru.",
+    "noun + できる = can (do) noun (or request, request permission)"
+],
+[
+    "Are (you) ready to order sir/ma'am? (Not) yet. Please (give me) some (more) time. For starters, 3 bottles of beer please.",
+    "{お客様|okyakusama}, {ご注文|gochuumon} wa? mada desu. mou {少し|sukoshi} {時間|jikan} wo kudasai. toriaezu _biiru_ wo {三本|sanbon} kudasai.",
+    ""
+],
+[
+    "Excuse me. (I'd like to) order please. Yes, understood. One margarita pizza please. That's all.",
+    "sumimasen. {注文|chuumon} {お願い|onegai} shimasu. hai, kashikomarimashita. _marugariita piza_ {一つ|hitotsu} {お願い|onegai} shimasu. ijou desu.",
+    ""
+],
+[
+    "Would (you) like something to drink? Water is fine. Two please.",
+    "{お飲み物|onomimono} wa ikaga desu ka. {お水|omizu} de ii desu. {二つ|futatsu} {お願い|onegai} shimasu.",
+    ""
+],
+[
+    "Can (you) add anchovies to the toppings? Can (you) also add eggplant?",
+    "_toppingu_ ni _anchoobi_ no tsuika ha dekimasu ka. nasu mo tsuika dekimasu ka.",
+    "verb stem + {方|kata} = how to do verb (verb --> noun)"
 ]
 ])
