@@ -4878,5 +4878,25 @@ Flashcards.initialize([
         "Can (you) add anchovies to the toppings? Can (you) also add eggplant?",
         "\u30c8\u30c3\u30d4\u30f3\u30b0\u306b\u30a2\u30f3\u30c1\u30e7\u30fc\u30d3\u306e\u3064\u3044\u304b\u306f\u3067\u304d\u307e\u3059\u304b\u3002\u306a\u3059\u3082\u3064\u3044\u304b\u3067\u304d\u307e\u3059\u304b\u3002",
         "verb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)"
+    ],
+    [
+        "One more margarita pizza please.",
+        "\u30de\u30eb\u30ac\u30ea\u30fc\u30bf\u30fb\u30d4\u30b6\u3082\u3046{\u4e00\u3064|\u3072\u3068\u3064}{\u304a\u9858\u3044|\u304a\u306d\u304c\u3044}\u3057\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Can (you) eat (it) all?",
+        "{\u5168\u90e8|\u305c\u3093\u3076}{\u98df\u3079\u308b|\u305f\u3079\u308b}\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u304b\u3002",
+        "verb-\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)"
+    ],
+    [
+        "(I'll) add new data.",
+        "{\u65b0\u3057\u3044|\u3042\u305f\u3089\u3057\u3044}\u30c7\u30fc\u30bf\u3092\u3064\u3044\u304b\u3057\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "Please add two more bottles of beer.",
+        "\u30d3\u30fc\u30eb\u3092\u3042\u3068{\u4e8c\u672c|\u306b\u307b\u3093}\u3064\u3044\u304b\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "verb-\u3066 + \u304f\u3060\u3055\u3044 = request"
     ]
 ])

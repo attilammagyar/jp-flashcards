@@ -4878,5 +4878,25 @@ Flashcards.initialize([
     "Can (you) add anchovies to the toppings? Can (you) also add eggplant?",
     "_toppingu_ ni _anchoobi_ no tsuika ha dekimasu ka. nasu mo tsuika dekimasu ka.",
     "verb stem + {方|kata} = how to do verb (verb --> noun)"
+],
+[
+    "One more margarita pizza please.",
+    "_marugariita piza_ mou {一つ|hitotsu} {お願い|onegai} shimasu.",
+    ""
+],
+[
+    "Can (you) eat (it) all?",
+    "{全部|zenbu} {食べる|taberu} koto ga dekimasu ka.",
+    "verb-う + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
+],
+[
+    "(I'll) add new data.",
+    "{新しい|atarashii} _deeta_ wo tsuika shimasu.",
+    ""
+],
+[
+    "Please add two more bottles of beer.",
+    "_biiru_ wo ato {二本|nihon} tsuika shite kudasai.",
+    "verb-て + ください = request"
 ]
 ])
