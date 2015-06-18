@@ -4898,5 +4898,20 @@ Flashcards.initialize([
     "Please add two more bottles of beer.",
     "_biiru_ wo ato {二本|nihon} tsuika shite kudasai.",
     "verb-て + ください = request"
+],
+[
+    "He gave me a dictionary. {plain}",
+    "{彼|kare} wa {私|watashi} ni {辞書|jisho} wo kureta.",
+    ""
+],
+[
+    "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
+    "{片仮名|katakana} de {読み方|yomikata} wo {書いて|kaite} kurete arigatou. dou itashimashite.",
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {方|kata} = how to do verb (verb --> noun)\nverb-て + くれる = a favor done by equals/subordinates"
+],
+[
+    "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but the first sentence includes the possibility of \"other people may be students as well\".",
+    "tatoeba 「{私|watashi} wa {学生|gakusei} desu」 to 「{私|watashi} ga {学生|gakusei} desu」 no {場合|baai} {二つ目|futatsume} no {文章|bunshou} no {意味|imi} wa 「{他|hoka} no {人|hito} wa {学生|gakusei} ja nai」 desu ga, {一番目|ichibanme} no {文章|bunshou} wa 「{他|hoka} no {人|hito} mo {学生|gakusei} ka mo shirenai」 to iu {可能性|kanousei} ga {含まれます|fukumaremasu}.",
+    "と: complete list\nverb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~"
 ]
 ])

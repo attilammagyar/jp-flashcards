@@ -150,6 +150,7 @@ verb-て + は + だめ = must not do verb
 verb-て + ください = request
 verb-て + も + いい = doing verb is allowed, (you) may do verb
 verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)
+verb-て + くれる = a favor done by equals/subordinates
 
 た-form
 -------
