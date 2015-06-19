@@ -4141,7 +4141,7 @@ Flashcards.initialize([
     ],
     [
         "(I've) gone and broken (my) camera. {plain}",
-        "\u30ab\u30e1\u30e9\u3092\u3053\u308f\u3057\u3066\u3057\u307e\u3063\u305f\u3002",
+        "\u30ab\u30e1\u30e9\u3092{\u58ca\u3057\u3066|\u3053\u308f\u3057\u3066}\u3057\u307e\u3063\u305f\u3002",
         "verb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
     ],
     [

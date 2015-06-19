@@ -4141,7 +4141,7 @@ Flashcards.initialize([
 ],
 [
     "(I've) gone and broken (my) camera. {plain}",
-    "_kamera_ wo kowashite shimatta.",
+    "_kamera_ wo {壊して|kowashite} shimatta.",
     "verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
