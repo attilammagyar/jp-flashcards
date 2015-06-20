@@ -168,3 +168,7 @@ verb-おう/よう + と + {思う|おもう} = I think I _will_ ~
 verb-おう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~
 verb-おう/よう + と + する = struggle with ~, tried ~ but failed
 verb-おう/よう + と + して + いる = to be about to do ~
+
+~ない
+----
+verb-ない + で + ください = please don't ~

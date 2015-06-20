@@ -4913,5 +4913,10 @@ Flashcards.initialize([
     "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but the first sentence includes the possibility of \"other people may be students as well\".",
     "tatoeba 「{私|watashi} wa {学生|gakusei} desu」 to 「{私|watashi} ga {学生|gakusei} desu」 no {場合|baai} {二つ目|futatsume} no {文章|bunshou} no {意味|imi} wa 「{他|hoka} no {人|hito} wa {学生|gakusei} ja nai」 desu ga, {一番目|ichibanme} no {文章|bunshou} wa 「{他|hoka} no {人|hito} mo {学生|gakusei} ka mo shirenai」 to iu {可能性|kanousei} ga {含まれます|fukumaremasu}.",
     "と: complete list\nverb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~"
+],
+[
+    "Please make (it). Please don't make (it). Please use (it). Please don't use (it).",
+    "{作って|tsukutte} kudasai. {作らない|tsukuranai} de kudasai. {使って|tsukatte} kudasai. {使わない|tsukawanai} de kudasai.",
+    "verb-て + ください = request\nverb-ない + で + ください = please don't ~"
 ]
 ])
