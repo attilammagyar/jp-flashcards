@@ -4111,7 +4111,7 @@ Flashcards.initialize([
 ],
 [
     "The moment the door opened, (my) heart stopped. {plain} When the door opened, (my) heart stopped. {plain}",
-    "_doa_ ga {開いた|aita} shunkan shinzou ga {止まった|tomatta}. _doa_ ga {開いた|aita} {時|toki} shinzou ga {止まった|tomatta}.",
+    "_doa_ ga {開いた|aita} {瞬間|shunkan} {心臓|shinzou} ga {止まった|tomatta}. _doa_ ga {開いた|aita} {時|toki} {心臓|shinzou} ga {止まった|tomatta}.",
     "verb-た + {時|とき} = when did/have done ~"
 ],
 [
