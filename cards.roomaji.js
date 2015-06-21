@@ -1,7 +1,7 @@
 Flashcards.initialize([
 [
     "This is very delicious.",
-    "{此れ|kore} wa totemo oishii desu.",
+    "{此れ|kore} wa totemo {美味しい|oishii} desu.",
     ""
 ],
 [
@@ -111,7 +111,7 @@ Flashcards.initialize([
 ],
 [
     "Is this cold-medicine the strongest?",
-    "{此の|kono} kazegusuri wa {一番|ichiban} {強い|tsuyoi} desu ka.",
+    "{此の|kono} {風邪薬|kazegusuri} wa {一番|ichiban} {強い|tsuyoi} desu ka.",
     ""
 ],
 [
@@ -1361,7 +1361,7 @@ Flashcards.initialize([
 ],
 [
     "What is (your) hobby? (My) hobby is paper folding.",
-    "shumi wa {何|nan} desu ka. shumi wa origami desu.",
+    "{趣味|shumi} wa {何|nan} desu ka. {趣味|shumi} wa origami desu.",
     ""
 ],
 [
@@ -2231,7 +2231,7 @@ Flashcards.initialize([
 ],
 [
     "(My) mom's cooking is the most delicious in the world.",
-    "{母|haha} no {料理|ryouri} wa sekai {一|ichi} oishii desu.",
+    "{母|haha} no {料理|ryouri} wa sekai {一|ichi} {美味しい|oishii} desu.",
     ""
 ],
 [
@@ -2341,7 +2341,7 @@ Flashcards.initialize([
 ],
 [
     "What do (you) do in (your) free time? For example, what are (your) hobbies?",
-    "{暇|hima} na {時|toki} ni wa {何|nani} wo shimasu ka. tatoeba, goshumi wa {何|nan} desu ka.",
+    "{暇|hima} na {時|toki} ni wa {何|nani} wo shimasu ka. tatoeba, {ご趣味|goshumi} wa {何|nan} desu ka.",
     ""
 ],
 [
@@ -3496,7 +3496,7 @@ Flashcards.initialize([
 ],
 [
     "Food is delicious and work is easy and (I'm) popular... More than anything, (it's) safe.",
-    "{食べ物|tabemono} ga oishikute {仕事|shigoto} wa {楽|raku} de {人気者|ninkimono} desu shi. {何|nani} yori mo {安全|anzen} desu.",
+    "{食べ物|tabemono} ga {美味しくて|oishikute} {仕事|shigoto} wa {楽|raku} de {人気者|ninkimono} desu shi. {何|nani} yori mo {安全|anzen} desu.",
     "な-adj. + で = adj. and ...\nし at end of sentence = ..., etc., among other things"
 ],
 [
@@ -3571,7 +3571,7 @@ Flashcards.initialize([
 ],
 [
     "(It's) cramped here, hot, the food is not delicious, and (it's) not (our) real home.",
-    "{此処|koko} wa {狭くて|semakute}, {暑くて|atsukute}, {食べ物|tabemono} mo oishikunakute, {本当|hontou} no {家|ie} de wa nai desu.",
+    "{此処|koko} wa {狭くて|semakute}, {暑くて|atsukute}, {食べ物|tabemono} mo {美味しくなくて|oishikunakute}, {本当|hontou} no {家|ie} de wa nai desu.",
     ""
 ],
 [
@@ -3701,7 +3701,7 @@ Flashcards.initialize([
 ],
 [
     "Tonight (I) plan to meet a friend in town and eat Spanish food in a tasty restaurant.",
-    "{今晩|konban} {町|machi} de {友達|tomodachi} to {会って|atte}, oishii _resutoran_ de _supein_ no {料理|ryouri} wo {食べる|taberu} tsumori desu.",
+    "{今晩|konban} {町|machi} de {友達|tomodachi} to {会って|atte}, {美味しい|oishii} _resutoran_ de _supein_ no {料理|ryouri} wo {食べる|taberu} tsumori desu.",
     "verb-う + つもり = intend to ~"
 ],
 [
@@ -3946,7 +3946,7 @@ Flashcards.initialize([
 ],
 [
     "(You) should take this medicine.",
-    "kono kusuri wo {飲んだ|nonda} {方|hou} ga ii desu yo.",
+    "kono {薬|kusuri} wo {飲んだ|nonda} {方|hou} ga ii desu yo.",
     "verb-た + {方|ほう} + が + いい = you'd better do ~, you should do ~"
 ],
 [
