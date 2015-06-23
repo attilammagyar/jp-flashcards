@@ -3846,7 +3846,7 @@ Flashcards.initialize([
     ],
     [
         "How many centimeters tall (are you)?",
-        "\u3057\u3093\u3061\u3087\u3046\u306f{\u4f55|\u306a\u3093}\u30bb\u30f3\u30c1\u3067\u3059\u304b\u3002",
+        "{\u8eab\u9577|\u3057\u3093\u3061\u3087\u3046}\u306f{\u4f55|\u306a\u3093}\u30bb\u30f3\u30c1\u3067\u3059\u304b\u3002",
         ""
     ],
     [

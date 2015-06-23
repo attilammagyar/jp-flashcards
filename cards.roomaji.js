@@ -3846,7 +3846,7 @@ Flashcards.initialize([
 ],
 [
     "How many centimeters tall (are you)?",
-    "shinchou wa {何|nan} _senchi_ desu ka.",
+    "{身長|shinchou} wa {何|nan} _senchi_ desu ka.",
     ""
 ],
 [
