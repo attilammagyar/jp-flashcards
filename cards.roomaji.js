@@ -4918,5 +4918,15 @@ Flashcards.initialize([
     "Please make (it). Please don't make (it). Please use (it). Please don't use (it).",
     "{作って|tsukutte} kudasai. {作らない|tsukuranai} de kudasai. {使って|tsukatte} kudasai. {使わない|tsukawanai} de kudasai.",
     "verb-て + ください = request\nverb-ない + で + ください = please don't ~"
+],
+[
+    "(It's) not a camera. {middle polite} (It) wasn't a newspapor. {almost plain} (It) wasn't a camera. {plain}",
+    "_kamera_ de wa nai desu. {新聞|shinbun} ja nakatta desu. _kamera_ ja nakatta.",
+    ""
+],
+[
+    "Please don't go into that meeting room.",
+    "ano kaigishitsu ni {入らない|hairanai} de kudasai.",
+    "verb-ない + で + ください = please don't ~"
 ]
 ])
