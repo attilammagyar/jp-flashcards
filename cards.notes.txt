@@ -50,7 +50,7 @@ Verb-A-plain {方|ほう} が Verb-B-plain-nonpast より X = Doing A is X'er th
 方がいい
 ====
 な-adj. + な + {方|ほう} + が + いい = ~ is better (than ...)
-verb-た + {方|ほう} + が + いい = you'd better do ~, you should do ~
+verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~
 
 Because
 =======
@@ -58,6 +58,13 @@ Because
 の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)
 when answering {何故|なぜ} and どうして, から is more common than の で
 verb-plain + の/ん + です = justification, explanation (softer than から)
+
+Must
+====
+verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)
+noun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request)
+noun/な-adj. + で + ない + と + いけない = I must be ~, social obligations (never advice/request)
+spoken: なくては --> なくちゃ, なければ --> なくや
 
 Nouns
 =====
@@ -68,17 +75,17 @@ noun + の + {時|とき} = when ~, as a ~
 
 Nominalization
 ==============
-verb-う + こと = doing ~ (nominalize)
+verbう + こと = doing ~ (nominalize)
 noun + できる = can (do) noun (or request, request permission)
 verb stem + {方|kata} = how to do verb (verb --> noun)
 noun を verb --> noun の verb stem + {方|kata}
-verb-う/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)
+verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)
 な-adj. + な + の = (the) ~ one/thing, (clause --> generic noun)
-verb-うこと/noun + に + する = (I have decided I will do) ~
-verb-うこと/noun + に + した = (I have decided to) ~
-verb-うこと/noun + に + して + いる = (I make it a rule to) ~
-verb-うこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)
-verb-うこと + に + なって + いる = rules, customs, how things are supposed to be done
+verbうこと/noun + に + する = (I have decided I will do) ~
+verbうこと/noun + に + した = (I have decided to) ~
+verbうこと/noun + に + して + いる = (I make it a rule to) ~
+verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)
+verbうこと + に + なって + いる = rules, customs, how things are supposed to be done
 い-adj. - い + さ = ~ness
 な-adj. + さ = ~ness
 
@@ -90,17 +97,17 @@ verb A (dictionary form) + ため + に + verb B = do verb B in order to verb A
 
 欲しい
 ===
-(A に) verb-て + {欲しい|ほしい} = I want (A) to do verb (for me)
+(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)
 noun + が + {欲しい|ほしい} = (I) want a noun
 
 未だ, もう
 ======
-{未だ|まだ} + verb-て + いません = not done ~ yet, not doing ~ yet
-{未だ|まだ} + verb-て + います = still doing ~ (incomplete action)
+{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet
+{未だ|まだ} + verbて + います = still doing ~ (incomplete action)
 {未だ|まだ}/もう + place に + います/あります = still/already being at ~
 もう + verb-past = already completed doing ~
 もう + verb-present-negative = no longer doing ~ (complete action)
-もう + verb-て + いません = discontinued habitual action (no longer)
+もう + verbて + いません = discontinued habitual action (no longer)
 
 Verbs
 =====
@@ -113,16 +120,16 @@ noun + で + verb = do verb with/using/at noun (place of action or by-means-of)
 
 Plain
 -----
-verb-う + {前|まえ} に = before doing ~
-verb-う + つもり = intend to ~
-verb-う + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})
-verb-う + とか + verb-う + とか + する = representative examples of a class
-verb-う + noun = the ~ing noun
-verb-う + {時|とき} = when doing ~
-verb-う + でしょう/だろう = probably (will) do ~
-verb-う + ん + じゃない + でしょう + か = politeness
-verb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~
-verb-う + よう + に + なる = change in habitual action
+verbう + {前|まえ} に = before doing ~
+verbう + つもり = intend to ~
+verbう + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})
+verbう + とか + verbう + とか + する = representative examples of a class
+verbう + noun = the ~ing noun
+verbう + {時|とき} = when doing ~
+verbう + でしょう/だろう = probably (will) do ~
+verbう + ん + じゃない + でしょう + か = politeness
+verbう + か + も + しれません/しれない = might do ~, possibly (will) do ~
+verbう + よう + に + なる = change in habitual action
 
 Stem
 ----
@@ -140,37 +147,37 @@ verb-stem + verb = compound verb (action + qualifier)
 て-form
 ------
 verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence
-verb-て + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result
-motion-verb-て + いる = (temporarily) moved and is still there (never continuous present!)
-verb-て + いました = was (in the state of) doing ~, emphasize regular habitual action
-verb-て + みる = try doing ~
-verb-て + から = after doing ~, since doing ~
-verb-て + は + いけません = doing verb is not allowed
-verb-て + は + だめ = must not do verb
-verb-て + ください = request
-verb-て + も + いい = doing verb is allowed, (you) may do verb
-verb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)
-verb-て + くれる = a favor done by equals/subordinates
+verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result
+motion-verbて + いる = (temporarily) moved and is still there (never continuous present!)
+verbて + いました = was (in the state of) doing ~, emphasize regular habitual action
+verbて + みる = try doing ~
+verbて + から = after doing ~, since doing ~
+verbて + は + いけません = doing verb is not allowed
+verbて + は + だめ = must not do verb
+verbて + ください = request
+verbて + も + いい = doing verb is allowed, (you) may do verb
+verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)
+verbて + くれる = a favor done by equals/subordinates
 
 た-form
 -------
-verb-た + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences
-verb-た + {後|あと} + で = after (finished) doing ~
+verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences
+verbた + {後|あと} + で = after (finished) doing ~
 verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order
-verb-た + {時|とき} = when did/have done ~
-verb-た + か + も + しれません/しれない = might have done ~
-verb-た + でしょう/だろう = probably did ~
+verbた + {時|とき} = when did/have done ~
+verbた + か + も + しれません/しれない = might have done ~
+verbた + でしょう/だろう = probably did ~
 
 おう/よう form
 ------------
-verb-おう/よう = talking about/to self, I _will_, shall I?
-verb-おう/よう + と + {思う|おもう} = I think I _will_ ~
-verb-おう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~
-verb-おう/よう + と + する = struggle with ~, tried ~ but failed
-verb-おう/よう + と + して + いる = to be about to do ~
+verbおう/よう = talking about/to self, I _will_, shall I?
+verbおう/よう + と + {思う|おもう} = I think I _will_ ~
+verbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~
+verbおう/よう + と + する = struggle with ~, tried ~ but failed
+verbおう/よう + と + して + いる = to be about to do ~
 
 ~ない
 ----
-verb-ない + で + ください = please don't ~
-verb-ない + で + X = (did/happened) X without (doing) ~
-verb-ない + で + {欲しい|ほしい} + です = (I) want (you) not to ~
+verbない + で + ください = please don't ~
+verbない + で + X = (did/happened) X without (doing) ~
+verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~
