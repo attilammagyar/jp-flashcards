@@ -3346,7 +3346,7 @@ Flashcards.initialize([
 ],
 [
     "That exam was easy, wasn't it? Anyway, (it) wasn't enough.",
-    "ano {試験|shiken} wa yasashikatta desu ne. tonikaku {物|mono} {足りなかった|tarinakatta} desu.",
+    "ano {試験|shiken} wa {易しかった|yasashikatta} desu ne. tonikaku {物|mono} {足りなかった|tarinakatta} desu.",
     "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
 ],
 [
@@ -3836,7 +3836,7 @@ Flashcards.initialize([
 ],
 [
     "As expected, (you) fail (the test).",
-    "yappari fugoukaku desu.",
+    "yappari {不合格|fugoukaku} desu.",
     ""
 ],
 [
