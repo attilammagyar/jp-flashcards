@@ -766,7 +766,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) have this watch and this bag please?",
-        "{\u6b64\u306e|\u3053\u306e}\u3068\u3051\u3044\u3068{\u6b64\u306e|\u3053\u306e}{\u9784|\u304b\u3070\u3093}\u3092\u304f\u3060\u3055\u3044\u3002",
+        "{\u6b64\u306e|\u3053\u306e}{\u6642\u8a08|\u3068\u3051\u3044}\u3068{\u6b64\u306e|\u3053\u306e}{\u9784|\u304b\u3070\u3093}\u3092\u304f\u3060\u3055\u3044\u3002",
         "\u3068: complete list\n\u3084: incomplete list\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nA \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc."
     ],
     [
@@ -836,7 +836,7 @@ Flashcards.initialize([
     ],
     [
         "4 watches",
-        "\u3068\u3051\u3044{\u56db\u3064|\u3088\u3063\u3064}",
+        "{\u6642\u8a08|\u3068\u3051\u3044}{\u56db\u3064|\u3088\u3063\u3064}",
         ""
     ],
     [
@@ -856,7 +856,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) have 5 watches please?",
-        "\u3068\u3051\u3044\u3092{\u4e94\u3064|\u3044\u3064\u3064}\u304f\u3060\u3055\u3044\u3002",
+        "{\u6642\u8a08|\u3068\u3051\u3044}\u3092{\u4e94\u3064|\u3044\u3064\u3064}\u304f\u3060\u3055\u3044\u3002",
         ""
     ],
     [
@@ -4910,7 +4910,7 @@ Flashcards.initialize([
         "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nverb-\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
     ],
     [
-        "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but the first sentence includes the possibility of \"other people may be students as well\".",
+        "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
         "\u305f\u3068\u3048\u3070\u300c{\u79c1|\u308f\u305f\u3057}\u306f{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u3067\u3059\u300d\u3068\u300c{\u79c1|\u308f\u305f\u3057}\u304c{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u3067\u3059\u300d\u306e{\u5834\u5408|\u3070\u3042\u3044}{\u4e8c\u3064\u76ee|\u3075\u305f\u3064\u3081}\u306e{\u6587\u7ae0|\u3076\u3093\u3057\u3087\u3046}\u306e{\u610f\u5473|\u3044\u307f}\u306f\u300c{\u4ed6|\u307b\u304b}\u306e{\u4eba|\u3072\u3068}\u306f{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u3058\u3083\u306a\u3044\u300d\u3067\u3059\u304c\u3001{\u4e00\u756a\u76ee|\u3044\u3061\u3070\u3093\u3081}\u306e{\u6587\u7ae0|\u3076\u3093\u3057\u3087\u3046}\u306f\u300c{\u4ed6|\u307b\u304b}\u306e{\u4eba|\u3072\u3068}\u3082{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u304b\u3082\u3057\u308c\u306a\u3044\u300d\u3068\u3044\u3046{\u53ef\u80fd\u6027|\u304b\u306e\u3046\u305b\u3044}\u304c{\u542b\u307e\u308c\u307e\u3059|\u3075\u304f\u307e\u308c\u307e\u3059}\u3002",
         "\u3068: complete list\nverb-\u3046 + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might do ~, possibly (will) do ~"
     ],
@@ -4928,5 +4928,35 @@ Flashcards.initialize([
         "Please don't go into that meeting room.",
         "\u3042\u306e\u304b\u3044\u304e\u3057\u3064\u306b{\u5165\u3089\u306a\u3044|\u306f\u3044\u3089\u306a\u3044}\u3067\u304f\u3060\u3055\u3044\u3002",
         "verb-\u306a\u3044 + \u3067 + \u304f\u3060\u3055\u3044 = please don't ~"
+    ],
+    [
+        "(I) think that film wasn't interesting.",
+        "\u305d\u306e{\u6620\u753b|\u3048\u3044\u304c}\u306f{\u9762\u767d\u304f\u306a\u304b\u3063\u305f|\u304a\u3082\u3057\u308d\u304f\u306a\u304b\u3063\u305f}\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
+        ""
+    ],
+    [
+        "(I) went to the company without eating breakfast.",
+        "{\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}\u3067{\u4f1a\u793e|\u304b\u3044\u3057\u3083}\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "verb-\u306a\u3044 + \u3067 + X = (did/happened) X without (doing) ~"
+    ],
+    [
+        "(I) played the piano without practising.",
+        "{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046}\u3092\u3057\u306a\u3044\u3067\u30d4\u30a2\u30ce\u3092{\u5f3e\u304d\u307e\u3057\u305f|\u3072\u304d\u307e\u3057\u305f}\u3002",
+        "verb-\u306a\u3044 + \u3067 + X = (did/happened) X without (doing) ~"
+    ],
+    [
+        "(I) want (you) not to write that report.",
+        "\u305d\u306e\u30ec\u30dd\u30fc\u30c8{\u66f8\u304b\u306a\u3044|\u304b\u304b\u306a\u3044}\u3067{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
+        "verb-\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~"
+    ],
+    [
+        "(I) want (you) not to smoke cigarettes.",
+        "{\u7159\u8349|\u305f\u3070\u3053}\u3092{\u5438\u308f\u306a\u3044|\u3059\u308f\u306a\u3044}\u3067{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
+        "verb-\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~"
+    ],
+    [
+        "(I) want (you) not to drink up all the beer.",
+        "\u30d3\u30fc\u30eb\u3092{\u5168\u90e8|\u305c\u3093\u3076}{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u3057\u307e\u308f\u306a\u3044\u3067{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
+        "verb-\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~\nverb-\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
     ]
 ])

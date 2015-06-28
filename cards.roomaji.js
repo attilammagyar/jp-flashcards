@@ -766,7 +766,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have this watch and this bag please?",
-    "{此の|kono} tokei to {此の|kono} {鞄|kaban} wo kudasai.",
+    "{此の|kono} {時計|tokei} to {此の|kono} {鞄|kaban} wo kudasai.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -836,7 +836,7 @@ Flashcards.initialize([
 ],
 [
     "4 watches",
-    "tokei {四つ|yottsu}",
+    "{時計|tokei} {四つ|yottsu}",
     ""
 ],
 [
@@ -856,7 +856,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 5 watches please?",
-    "tokei wo {五つ|itsutsu} kudasai.",
+    "{時計|tokei} wo {五つ|itsutsu} kudasai.",
     ""
 ],
 [
@@ -4910,7 +4910,7 @@ Flashcards.initialize([
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {方|kata} = how to do verb (verb --> noun)\nverb-て + くれる = a favor done by equals/subordinates"
 ],
 [
-    "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but the first sentence includes the possibility of \"other people may be students as well\".",
+    "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
     "tatoeba 「{私|watashi} wa {学生|gakusei} desu」 to 「{私|watashi} ga {学生|gakusei} desu」 no {場合|baai} {二つ目|futatsume} no {文章|bunshou} no {意味|imi} wa 「{他|hoka} no {人|hito} wa {学生|gakusei} ja nai」 desu ga, {一番目|ichibanme} no {文章|bunshou} wa 「{他|hoka} no {人|hito} mo {学生|gakusei} ka mo shirenai」 to iu {可能性|kanousei} ga {含まれます|fukumaremasu}.",
     "と: complete list\nverb-う + か + も + しれません/しれない = might do ~, possibly (will) do ~"
 ],
@@ -4928,5 +4928,35 @@ Flashcards.initialize([
     "Please don't go into that meeting room.",
     "ano kaigishitsu ni {入らない|hairanai} de kudasai.",
     "verb-ない + で + ください = please don't ~"
+],
+[
+    "(I) think that film wasn't interesting.",
+    "sono {映画|eiga} wa {面白くなかった|omoshirokunakatta} to {思います|omoimasu}.",
+    ""
+],
+[
+    "(I) went to the company without eating breakfast.",
+    "{朝ご飯|asagohan} wo {食べない|tabenai} de {会社|kaisha} ni {行きました|ikimashita}.",
+    "verb-ない + で + X = (did/happened) X without (doing) ~"
+],
+[
+    "(I) played the piano without practising.",
+    "{練習|renshuu} wo shinai de _piano_ wo {弾きました|hikimashita}.",
+    "verb-ない + で + X = (did/happened) X without (doing) ~"
+],
+[
+    "(I) want (you) not to write that report.",
+    "sono _repooto_ {書かない|kakanai} de {欲しい|hoshii} desu.",
+    "verb-ない + で + {欲しい|ほしい} + です = (I) want (you) not to ~"
+],
+[
+    "(I) want (you) not to smoke cigarettes.",
+    "{煙草|tabako} wo {吸わない|suwanai} de {欲しい|hoshii} desu.",
+    "verb-ない + で + {欲しい|ほしい} + です = (I) want (you) not to ~"
+],
+[
+    "(I) want (you) not to drink up all the beer.",
+    "_biiru_ wo {全部|zenbu} {飲んで|nonde} shimawanai de {欲しい|hoshii} desu.",
+    "verb-ない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverb-て + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ]
 ])

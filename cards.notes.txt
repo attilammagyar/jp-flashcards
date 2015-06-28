@@ -172,3 +172,5 @@ verb-おう/よう + と + して + いる = to be about to do ~
 ~ない
 ----
 verb-ない + で + ください = please don't ~
+verb-ない + で + X = (did/happened) X without (doing) ~
+verb-ない + で + {欲しい|ほしい} + です = (I) want (you) not to ~
