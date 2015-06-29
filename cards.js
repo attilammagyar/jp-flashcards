@@ -2656,7 +2656,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) enter this room?",
-        "{\u6b64\u306e|\u3053\u306e}{\u90e8\u5c4b|\u3078\u3084}\u306b{\u5165\u3063\u305f|\u306f\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
+        "{\u6b64\u306e|\u3053\u306e}{\u90e8\u5c4b|\u3078\u3084}\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
         "verb\u3066 + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
@@ -4051,7 +4051,7 @@ Flashcards.initialize([
     ],
     [
         "Last night (I) watched TV, made phone calls and did some cleaning.",
-        "{\u6628\u591c|\u3086\u3046\u3079}\u30c6\u30ec\u30d3\u3092{\u898b\u305f\u308a|\u307f\u305f\u308a}\u3001{\u6383\u9664|\u305d\u3046\u3058}\u3092\u3057\u305f\u308a\u3057\u307e\u3057\u305f\u3002",
+        "{\u6628\u591c|\u3086\u3046\u3079}\u30c6\u30ec\u30d3\u3092{\u898b\u305f\u308a|\u307f\u305f\u308a}\u3001{\u96fb\u8a71|\u3067\u3093\u308f}\u3092\u3057\u305f\u308a\u3001{\u6383\u9664|\u305d\u3046\u3058}\u3092\u3057\u305f\u308a\u3057\u307e\u3057\u305f\u3002",
         "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
     ],
     [
@@ -4946,7 +4946,7 @@ Flashcards.initialize([
     ],
     [
         "(I) want (you) not to write that report.",
-        "\u305d\u306e\u30ec\u30dd\u30fc\u30c8{\u66f8\u304b\u306a\u3044|\u304b\u304b\u306a\u3044}\u3067{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
+        "\u305d\u306e\u30ec\u30dd\u30fc\u30c8\u3092{\u66f8\u304b\u306a\u3044|\u304b\u304b\u306a\u3044}\u3067{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
         "verb\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~"
     ],
     [

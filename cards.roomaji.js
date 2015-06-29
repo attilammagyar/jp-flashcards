@@ -2656,7 +2656,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) enter this room?",
-    "{此の|kono} {部屋|heya} ni {入った|haitte} mo ii desu ka.",
+    "{此の|kono} {部屋|heya} ni {入って|haitte} mo ii desu ka.",
     "verbて + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
@@ -4051,7 +4051,7 @@ Flashcards.initialize([
 ],
 [
     "Last night (I) watched TV, made phone calls and did some cleaning.",
-    "{昨夜|yuube} _terebi_ wo {見たり|mitari}, {掃除|souji} wo shitari shimashita.",
+    "{昨夜|yuube} _terebi_ wo {見たり|mitari}, {電話|denwa} wo shitari, {掃除|souji} wo shitari shimashita.",
     "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
 ],
 [
@@ -4946,7 +4946,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want (you) not to write that report.",
-    "sono _repooto_ {書かない|kakanai} de {欲しい|hoshii} desu.",
+    "sono _repooto_ wo {書かない|kakanai} de {欲しい|hoshii} desu.",
     "verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~"
 ],
 [
