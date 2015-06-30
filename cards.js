@@ -4920,7 +4920,7 @@ Flashcards.initialize([
         "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u306a\u3044 + \u3067 + \u304f\u3060\u3055\u3044 = please don't ~"
     ],
     [
-        "(It's) not a camera. {middle polite} (It) wasn't a newspapor. {almost plain} (It) wasn't a camera. {plain}",
+        "(It's) not a camera. {middle polite} (It) wasn't a newspaper. {almost plain} (It) wasn't a camera. {plain}",
         "\u30ab\u30e1\u30e9\u3067\u306f\u306a\u3044\u3067\u3059\u3002{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3058\u3083\u306a\u304b\u3063\u305f\u3067\u3059\u3002\u30ab\u30e1\u30e9\u3058\u3083\u306a\u304b\u3063\u305f\u3002",
         ""
     ],

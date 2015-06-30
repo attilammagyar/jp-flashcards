@@ -4920,7 +4920,7 @@ Flashcards.initialize([
     "verbて + ください = request\nverbない + で + ください = please don't ~"
 ],
 [
-    "(It's) not a camera. {middle polite} (It) wasn't a newspapor. {almost plain} (It) wasn't a camera. {plain}",
+    "(It's) not a camera. {middle polite} (It) wasn't a newspaper. {almost plain} (It) wasn't a camera. {plain}",
     "_kamera_ de wa nai desu. {新聞|shinbun} ja nakatta desu. _kamera_ ja nakatta.",
     ""
 ],
