@@ -3831,7 +3831,7 @@ Flashcards.initialize([
 ],
 [
     "Pardon. {\"Leave me alone\", \"Let's change topic\", ...}",
-    "kanben shite kudasai.",
+    "{勘弁|kanben} shite kudasai.",
     "verbて + ください = request"
 ],
 [

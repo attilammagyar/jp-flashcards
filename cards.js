@@ -3831,7 +3831,7 @@ Flashcards.initialize([
     ],
     [
         "Pardon. {\"Leave me alone\", \"Let's change topic\", ...}",
-        "\u304b\u3093\u3079\u3093\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "{\u52d8\u5f01|\u304b\u3093\u3079\u3093}\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
         "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
     ],
     [
