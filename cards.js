@@ -4877,7 +4877,7 @@ Flashcards.initialize([
     [
         "Can (you) add anchovies to the toppings? Can (you) also add eggplant?",
         "\u30c8\u30c3\u30d4\u30f3\u30b0\u306b\u30a2\u30f3\u30c1\u30e7\u30fc\u30d3\u306e\u3064\u3044\u304b\u306f\u3067\u304d\u307e\u3059\u304b\u3002\u306a\u3059\u3082\u3064\u3044\u304b\u3067\u304d\u307e\u3059\u304b\u3002",
-        "verb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)"
+        "verb\u3046 + \u3053\u3068 = doing ~ (nominalize)\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)"
     ],
     [
         "One more margarita pizza please.",

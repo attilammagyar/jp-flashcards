@@ -4876,8 +4876,8 @@ Flashcards.initialize([
 ],
 [
     "Can (you) add anchovies to the toppings? Can (you) also add eggplant?",
-    "_toppingu_ ni _anchoobi_ no tsuika ha dekimasu ka. nasu mo tsuika dekimasu ka.",
-    "verb stem + {方|kata} = how to do verb (verb --> noun)"
+    "_toppingu_ ni _anchoobi_ no tsuika wa dekimasu ka. nasu mo tsuika dekimasu ka.",
+    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "One more margarita pizza please.",
