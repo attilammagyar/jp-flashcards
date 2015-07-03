@@ -4987,5 +4987,20 @@ Flashcards.initialize([
     "An English teacher must be British.",
     "{英語|eigo} no {先生|sensei} wa _igirisu_ {人|jin} de nakereba narimasen.",
     "noun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request)"
+],
+[
+    "The \"Hitchhiker's Guide to the Galaxy\" has arrived safely.",
+    "「{銀河|ginga} _hicchihaiku gaido_ 」 wa {無事|buji} {届きました|todokimashita}.",
+    ""
+],
+[
+    "(I) still must learn a lot of things.",
+    "mada {学ばなければ|manabanakereba} naranai koto ga {沢山|takusan} arimasu.",
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)"
+],
+[
+    "Thank you for the cute and heart-warming presents as well.",
+    "{可愛くて|kawakute}, {心|kokoro} {温まる|atatamaru} _purezento_ mo arigatou gozaimasu.",
+    ""
 ]
 ])
