@@ -321,7 +321,7 @@ Flashcards.initialize([
 ],
 [
     "For breakfast (I) usually eat toast, and then (I) drink coffee.",
-    "{朝ご飯|asagohan} ni taitei _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo {飲みます|nomimasu}.",
+    "{朝ご飯|asagohan} ni {大抵|taitei} _toosuto_ wo {食べます|tabemasu}. soshite _koohii_ wo {飲みます|nomimasu}.",
     ""
 ],
 [
@@ -346,7 +346,7 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) play golf with (my) colleagues, but usually (I) chill out with (my) family at home.",
-    "{時々|tokidoki} jimusho no {人|hito} to _gorufu_ wo shimasu ga taitei {家族|kazokoku} to {家|uchi} de gorogoro shimasu.",
+    "{時々|tokidoki} jimusho no {人|hito} to _gorufu_ wo shimasu ga {大抵|taitei} {家族|kazokoku} to {家|uchi} de gorogoro shimasu.",
     ""
 ],
 [
@@ -401,7 +401,7 @@ Flashcards.initialize([
 ],
 [
     "In the afternoon (I) usually read the newspaper. Sometimes (I) watch the news.",
-    "{午後|gogo} taitei {新聞|shinbun} wo {読みます|yomimasu}. {時々|tokidoki} _nyuusu_ wo {見ます|mimasu}.",
+    "{午後|gogo} {大抵|taitei} {新聞|shinbun} wo {読みます|yomimasu}. {時々|tokidoki} _nyuusu_ wo {見ます|mimasu}.",
     ""
 ],
 [
@@ -561,7 +561,7 @@ Flashcards.initialize([
 ],
 [
     "usually, frequently, occasionally, sometimes, always",
-    "taitei, {度々|tabitabi}, tamani, {時々|tokidoki}, {何時も|itsumo}",
+    "{大抵|taitei}, {度々|tabitabi}, tamani, {時々|tokidoki}, {何時も|itsumo}",
     ""
 ],
 [
@@ -2371,7 +2371,7 @@ Flashcards.initialize([
 ],
 [
     "Won't (we) go for a drive together this weekend?",
-    "konshuumatsu {一緒|issho} ni _doraibu_ he {行きません|ikimasen} ka.",
+    "{今週末|konshuumatsu} {一緒|issho} ni _doraibu_ he {行きません|ikimasen} ka.",
     ""
 ],
 [
@@ -2626,7 +2626,7 @@ Flashcards.initialize([
 ],
 [
     "After (I've) studied Japanese, (I) usually relax.",
-    "{日本語|nihongo} wo {勉強|benkyou} shite kara, taitei gorogoro shimasu.",
+    "{日本語|nihongo} wo {勉強|benkyou} shite kara, {大抵|taitei} gorogoro shimasu.",
     "verbて + から = after doing ~, since doing ~"
 ],
 [
@@ -3266,7 +3266,7 @@ Flashcards.initialize([
 ],
 [
     "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
-    "shuumatsu ni taitei {何|nani} wo shite imasu ka. {時々|tokidoki} sofu to {散歩|sanpo} shimasu.",
+    "{週末|shuumatsu} ni {大抵|taitei} {何|nani} wo shite imasu ka. {時々|tokidoki} sofu to {散歩|sanpo} shimasu.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -3391,7 +3391,7 @@ Flashcards.initialize([
 ],
 [
     "Before taking a shower (I) usually eat breakfast.",
-    "taitei _shawaa_ wo {浴びる|abiru} {前|mae} ni {朝ご飯|asagohan} wo {食べます|tabemasu}.",
+    "{大抵|taitei} _shawaa_ wo {浴びる|abiru} {前|mae} ni {朝ご飯|asagohan} wo {食べます|tabemasu}.",
     "verbう + {前|まえ} に = before doing ~"
 ],
 [
@@ -5002,5 +5002,40 @@ Flashcards.initialize([
     "Thank you for the cute and heart-warming presents as well.",
     "{可愛くて|kawakute}, {心|kokoro} {温まる|atatamaru} _purezento_ mo arigatou gozaimasu.",
     ""
+],
+[
+    "(You) don't have to attend the meeting.",
+    "kaigi ni shusseki shinakute mo ii desu.",
+    "verbない - い + くて + も + いい + です = don't have to ~"
+],
+[
+    "(You) don't have to buy that expensive camera.",
+    "sono {高い|takai} _kamera_ wo {買わなくて|kawanakute} mo ii desu.",
+    "verbない - い + くて + も + いい + です = don't have to ~"
+],
+[
+    "(I'm) feeling sick, so is it okay (for me) to not go to the company?",
+    "{気分|kibun} ga {悪い|warui} kara {会社|kaisha} ni {行かなくて|ikanakute} mo ii desu ka.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbない - い + くて + も + いい + です = don't have to ~"
+],
+[
+    "(You) shouldn't smoke cigarettes.",
+    "{煙草|tabako} wo {吸わない|suwanai} hou ga ii desu.",
+    "verbない + {方|ほう} + が + いい + です = shouldn't ~"
+],
+[
+    "It's better not to go home late.",
+    "{遅く|osoku} {家|uchi} ni {帰らない|kaeranai} hou ga ii desu.",
+    "verbない + {方|ほう} + が + いい + です = shouldn't ~"
+],
+[
+    "(You) shouldn't take a day off work today.",
+    "{今日|kyou} {仕事|shigoto} wo {休まない|yasumanai} hou ga ii desu.",
+    "verbない + {方|ほう} + が + いい + です = shouldn't ~"
+],
+[
+    "(You) shouldn't phone Mr. Hondo late.",
+    "hondou san ni {遅く|osoku} {電話|denwa} shinai hou ga ii desu.",
+    "verbない + {方|ほう} + が + いい + です = shouldn't ~"
 ]
 ])

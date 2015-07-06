@@ -181,3 +181,5 @@ verbおう/よう + と + して + いる = to be about to do ~
 verbない + で + ください = please don't ~
 verbない + で + X = (did/happened) X without (doing) ~
 verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~
+verbない - い + くて + も + いい + です = don't have to ~
+verbない + {方|ほう} + が + いい + です = shouldn't ~
