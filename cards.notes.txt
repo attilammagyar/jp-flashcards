@@ -50,7 +50,6 @@ Verb-A-plain {方|ほう} が Verb-B-plain-nonpast より X = Doing A is X'er th
 方がいい
 ====
 な-adj. + な + {方|ほう} + が + いい = ~ is better (than ...)
-verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~
 
 Because
 =======
@@ -97,7 +96,6 @@ verb A (dictionary form) + ため + に + verb B = do verb B in order to verb A
 
 欲しい
 ===
-(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)
 noun + が + {欲しい|ほしい} = (I) want a noun
 
 未だ, もう
@@ -158,6 +156,7 @@ verbて + ください = request
 verbて + も + いい = doing verb is allowed, (you) may do verb
 verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)
 verbて + くれる = a favor done by equals/subordinates
+(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)
 
 た-form
 -------
@@ -167,6 +166,7 @@ verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) 
 verbた + {時|とき} = when did/have done ~
 verbた + か + も + しれません/しれない = might have done ~
 verbた + でしょう/だろう = probably did ~
+verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~
 
 おう/よう form
 ------------

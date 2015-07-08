@@ -1151,7 +1151,7 @@ Flashcards.initialize([
 ],
 [
     "At the front of the department store there is a bus stop.",
-    "_depaato_ no {前|mae} ni _basu_ tei ga arimasu.",
+    "_depaato_ no {前|mae} ni _basu_ {停|tei} ga arimasu.",
     ""
 ],
 [
@@ -1176,7 +1176,7 @@ Flashcards.initialize([
 ],
 [
     "The bus stop is to the side of the bank.",
-    "_basu_ tei wa {銀行|ginkou} no yoko ni arimasu.",
+    "_basu_ {停|tei} wa {銀行|ginkou} no yoko ni arimasu.",
     ""
 ],
 [
@@ -1796,7 +1796,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't like rude people.",
-    "shitsurei na {人|hito} wa {好き|suki} deha arimasen.",
+    "{失礼|shitsurei} na {人|hito} wa {好き|suki} deha arimasen.",
     ""
 ],
 [
@@ -2396,7 +2396,7 @@ Flashcards.initialize([
 ],
 [
     "Hello. {Phone.} Excuse me for interrupting. {Entering workroom, end of phone call.} Excuse me for interrupting. {Leaving room.}",
-    "moshi moshi. shitsurei shimasu. shitsurei shimashita.",
+    "moshi moshi. {失礼|shitsurei} shimasu. {失礼|shitsurei} shimashita.",
     ""
 ],
 [
@@ -5037,5 +5037,10 @@ Flashcards.initialize([
     "(You) shouldn't phone Mr. Hondo late.",
     "hondou san ni {遅く|osoku} {電話|denwa} shinai hou ga ii desu.",
     "verbない + {方|ほう} + が + いい + です = shouldn't ~"
+],
+[
+    "(You) may eat. (You) are not allowed to eat. Please eat. (I) want (you) to eat. (You) should eat. (You) shouldn't eat. Please don't eat. (I) want (you) not to eat. (You) must eat. (You) don't have to eat.",
+    "{食べて|tabete} mo ii desu. {食べて|tabete} wa ikemasen. {食べて|tabete} kudasai. {食べて|tabete} {欲しい|hoshii} desu. {食べた|tabeta} hou ga ii desu. {食べない|tabenai} hou ga ii desu. {食べない|tabenai} de kudasai. {食べない|tabenai} de {欲しい|hoshii} desu. {食べなければ|tabenakereba} narimasen. {食べなくて|tabenakute} mo ii desu.",
+    "verbて + も + いい = doing verb is allowed, (you) may do verb\nverbて + は + いけません = doing verb is not allowed\n(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~\nverbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)\nverbない - い + くて + も + いい + です = don't have to ~"
 ]
 ])
