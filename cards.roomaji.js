@@ -5042,5 +5042,25 @@ Flashcards.initialize([
     "(You) may eat. (You) are not allowed to eat. Please eat. (I) want (you) to eat. (You) should eat. (You) shouldn't eat. Please don't eat. (I) want (you) not to eat. (You) must eat. (You) don't have to eat.",
     "{食べて|tabete} mo ii desu. {食べて|tabete} wa ikemasen. {食べて|tabete} kudasai. {食べて|tabete} {欲しい|hoshii} desu. {食べた|tabeta} hou ga ii desu. {食べない|tabenai} hou ga ii desu. {食べない|tabenai} de kudasai. {食べない|tabenai} de {欲しい|hoshii} desu. {食べなければ|tabenakereba} narimasen. {食べなくて|tabenakute} mo ii desu.",
     "verbて + も + いい = doing verb is allowed, (you) may do verb\nverbて + は + いけません = doing verb is not allowed\n(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~\nverbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)\nverbない - い + くて + も + いい + です = don't have to ~"
+],
+[
+    "The laundry fell off the balcony. {plain}",
+    "_beranda_ kara {洗濯物|sentakumono} ga {落ちた|ochita}.",
+    ""
+],
+[
+    "The hot, feel-good Tokyo is okay.",
+    "{暑くて|atsukute}, {気持ち|kimochi} ga ii {東京|toukyou} ga ii desu.",
+    ""
+],
+[
+    "From when to when is rainy season? From the middle of June to about the middle of July.",
+    "{梅雨|tsuyu} ha itsu kara itsu made desu ka. {六月|rokugatsu} no {半ば|nakaba} kara {七月|shichigatsu} no {半ば|nakaba} kurai made desu.",
+    ""
+],
+[
+    "There are many people who hate rainy season, but (I) like it.",
+    "{梅雨|tsuyu} ga {嫌い|kirai} na {人|hito} ga {多い|ooi} desu kedo, {私|watashi} ha {好き|suki} desu.",
+    ""
 ]
 ])
