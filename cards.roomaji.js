@@ -2500,9 +2500,9 @@ Flashcards.initialize([
     "verbう + こと = doing ~ (nominalize)"
 ],
 [
-    "Because (I) liked shopping very much, (I) always went to shopping to the town.",
+    "Because (I) liked shopping very much, (I) always went to shopping to the town. {の で}",
     "{買い物|kaimono} ga totemo {好き|suki} deshita no de, {何時も|itsumo} {町|machi} ni {買い物|kaimono} ni {行きました|ikimashita}.",
-    ""
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
 ],
 [
     "Please eat (your) breakfast.",
@@ -2971,7 +2971,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) really sorry.",
-    "honto ni gomen nasai.",
+    "{本当|hontou} ni gomen nasai.",
     ""
 ],
 [

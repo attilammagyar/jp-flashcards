@@ -2500,9 +2500,9 @@ Flashcards.initialize([
         "verb\u3046 + \u3053\u3068 = doing ~ (nominalize)"
     ],
     [
-        "Because (I) liked shopping very much, (I) always went to shopping to the town.",
+        "Because (I) liked shopping very much, (I) always went to shopping to the town. {\u306e \u3067}",
         "{\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e}\u304c\u3068\u3066\u3082{\u597d\u304d|\u3059\u304d}\u3067\u3057\u305f\u306e\u3067\u3001{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u753a|\u307e\u3061}\u306b{\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e}\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        ""
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)"
     ],
     [
         "Please eat (your) breakfast.",
@@ -2971,7 +2971,7 @@ Flashcards.initialize([
     ],
     [
         "(I'm) really sorry.",
-        "\u307b\u3093\u3068\u306b\u3054\u3081\u3093\u306a\u3055\u3044\u3002",
+        "{\u672c\u5f53|\u307b\u3093\u3068\u3046}\u306b\u3054\u3081\u3093\u306a\u3055\u3044\u3002",
         ""
     ],
     [
