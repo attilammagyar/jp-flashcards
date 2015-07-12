@@ -5068,5 +5068,75 @@ Flashcards.initialize([
         "There are many people who hate rainy season, but (I) like it.",
         "{\u6885\u96e8|\u3064\u3086}\u304c{\u5acc\u3044|\u304d\u3089\u3044}\u306a{\u4eba|\u3072\u3068}\u304c{\u591a\u3044|\u304a\u304a\u3044}\u3067\u3059\u3051\u3069\u3001{\u79c1|\u308f\u305f\u3057}\u306f{\u597d\u304d|\u3059\u304d}\u3067\u3059\u3002",
         ""
+    ],
+    [
+        "While Mr. Yamada was cooking, Ms. Natsuko was reading a book. During the time that Mr. Yamada is in China, Ms. Natsuko will (be) looking for a job. During the time Miki was in America, (she) did (some) travelling.",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3092\u3057\u3066\u3044\u308b{\u9593|\u3042\u3044\u3060}\u3001{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306f{\u672c|\u307b\u3093}\u3092{\u8aad\u3093\u3067|\u3088\u3093\u3067}\u3044\u307e\u3057\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b\u3044\u308b{\u9593|\u3042\u3044\u3060}\u306b\u3001{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306f{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092\u3055\u304c\u3057\u307e\u3059\u3002{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30a2\u30e1\u30ea\u30ab\u306b\u3044\u308b{\u9593|\u3042\u3044\u3060}\u306b{\u65c5\u884c|\u308a\u3087\u3053\u3046}\u3092\u3057\u3066\u3044\u307e\u3057\u305f\u3002",
+        "(PersonA + \u304c) (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} (+ PersonB + \u306f) ... = throughout the whole time that A does/did ~, B does/did ~\n(PersonA + \u304c) (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} + \u306b (+ PersonB + \u306f) ... = at some point during A does/did ~, B does/did ~\nPerson + \u306f + (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} + \u306b = during A does/did ~, (he/she) does/did ~"
+    ],
+    [
+        "Leave a little space between the lines.",
+        "{\u884c|\u304e\u3087\u3046}\u3068{\u884c|\u304e\u3087\u3046}\u306e{\u9593|\u3042\u3044\u3060}{\u7a7a\u3051|\u3042\u3051}\u306a\u3055\u3044\u3002",
+        "nounA + \u3068 + nounB + \u306e + {\u9593|\u3042\u3044\u3060} + \u306b = between A and B\nverb-stem + \u306a\u3055\u3044 = imperative"
+    ],
+    [
+        "Can (you) spare (me) a little time?",
+        "\u3061\u3087\u3063\u3068{\u6642\u9593|\u3058\u304b\u3093}\u3092{\u7a7a\u3051\u3066|\u3042\u3051\u3066}\u3044\u305f\u3060\u3051\u307e\u3059\u304b\u3002",
+        ""
+    ],
+    [
+        "(I) played golf before it rained.",
+        "{\u96e8|\u3042\u3081}\u304c{\u964d\u3089\u306a\u3044|\u3075\u3089\u306a\u3044}\u3046\u3061\u306b\u30b4\u30eb\u30d5\u3092\u3057\u307e\u3057\u305f\u3002",
+        "verb\u306a\u3044 + {\u5185|\u3046\u3061} + \u306b = before ~, while not ~"
+    ],
+    [
+        "Please drink the tea while (it's) warm.",
+        "{\u7d05\u8336|\u3053\u3046\u3061\u3083}\u304c{\u6696\u304b\u3044|\u3042\u305f\u305f\u304b\u3044}\u3046\u3061\u306b{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u304f\u3060\u3055\u3044\u3002",
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+    ],
+    [
+        "Let's go home before it gets dark.",
+        "{\u6697\u304f|\u304f\u3089\u304f}\u306a\u3089\u306a\u3044\u3046\u3061\u306b{\u5e30\u308a\u307e\u3057\u3087\u3046|\u304b\u3048\u308a\u307e\u3057\u3087\u3046}\u3002",
+        "verb\u306a\u3044 + {\u5185|\u3046\u3061} + \u306b = before ~, while not ~"
+    ],
+    [
+        "Take one out of these five.",
+        "\u3053\u306e{\u4e94\u3064|\u3044\u3064\u3064}\u306e\u3046\u3061\u304b\u3089{\u4e00\u3064|\u3072\u3068\u3064}{\u53d6\u308a|\u3068\u308a}\u306a\u3055\u3044\u3002",
+        "{\u5185|\u3046\u3061} + \u304b\u3089 = out of ~\nverb-stem + \u306a\u3055\u3044 = imperative"
+    ],
+    [
+        "If (you) come to China, please make contact.",
+        "\u3082\u3057{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u6765\u305f\u3089|\u304d\u305f\u3089}\u3001\u308c\u3093\u3089\u304f\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+    ],
+    [
+        "When (I) drank the sake, (I) got a headache.",
+        "{\u9152|\u3055\u3051}\u3092{\u98f2\u3093\u3060\u3089|\u306e\u3093\u3060\u3089}\u3001{\u982d|\u3042\u305f\u307e}\u304c{\u75db\u304f|\u3044\u305f\u304f}\u306a\u308a\u307e\u3057\u305f\u3002",
+        "(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)"
+    ],
+    [
+        "If it's not interesting, (I) don't want to read it. {plain}",
+        "{\u9762\u767d\u304f\u306a\u304b\u3063\u305f\u3089|\u304a\u3082\u3057\u308d\u304f\u306a\u304b\u3063\u305f\u3089}\u3001{\u8aad\u307f\u305f\u304f\u306a\u3044|\u3088\u307f\u305f\u304f\u306a\u3044}\u3088\u3002",
+        "(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)"
+    ],
+    [
+        "If (she's) not beautiful, (I) don't want to date (her).",
+        "{\u5947\u9e97|\u304d\u308c\u3044}\u3058\u3083\u306a\u304b\u3063\u305f\u3089\u3001\u30c7\u30fc\u30c8\u3092\u3057\u305f\u304f\u306a\u3044\u3067\u3059\u3002",
+        "(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)"
+    ],
+    [
+        "If (you) don't eat (it), it won't do.",
+        "{\u98df\u3079\u306a\u304b\u3063\u305f\u3089|\u305f\u3079\u306a\u304b\u3063\u305f\u3089}\u3001{\u826f\u304f\u306a\u3044|\u3088\u304f\u306a\u3044}\u3067\u3059\u3002",
+        "(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)"
+    ],
+    [
+        "If that film had been interesting, (I) would have watched (it) all.",
+        "\u305d\u306e{\u6620\u753b|\u3048\u3044\u304c}\u306f{\u9762\u767d\u304b\u3063\u305f\u3089|\u304a\u3082\u3057\u308d\u304b\u3063\u305f\u3089}\u3001{\u5168\u90e8|\u305c\u3093\u3076}{\u898b\u307e\u3057\u305f|\u307f\u307e\u3057\u305f}\u3002",
+        "(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)"
+    ],
+    [
+        "If (you) like sumo, please watch tonight's tournament.",
+        "\u3059\u3082\u3046\u304c{\u597d\u304d|\u3059\u304d}\u3060\u3063\u305f\u3089\u3001{\u4eca\u6669|\u3053\u3093\u3070\u3093}\u306e\u3057\u3042\u3044\u3092{\u898b\u3066|\u307f\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
     ]
 ])

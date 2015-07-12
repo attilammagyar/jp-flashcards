@@ -5062,5 +5062,75 @@ Flashcards.initialize([
     "There are many people who hate rainy season, but (I) like it.",
     "{梅雨|tsuyu} ga {嫌い|kirai} na {人|hito} ga {多い|ooi} desu kedo, {私|watashi} ha {好き|suki} desu.",
     ""
+],
+[
+    "While Mr. Yamada was cooking, Ms. Natsuko was reading a book. During the time that Mr. Yamada is in China, Ms. Natsuko will (be) looking for a job. During the time Miki was in America, (she) did (some) travelling.",
+    "{山田|yamada} san ga {料理|ryouri} wo shite iru {間|aida}, {夏子|natsuko} san wa {本|hon} wo {読んで|yonde} imashita. {山田|yamada} san ga {中国|chuugoku} ni iru {間|aida} ni, {夏子|natsuko} san wa {仕事|shigoto} wo sagashimasu. {三木|miki} san wa _amerika_ ni iru {間|aida} ni {旅行|ryokou} wo shite imashita.",
+    "(PersonA + が) (verbて +) いる + {間|あいだ} (+ PersonB + は) ... = throughout the whole time that A does/did ~, B does/did ~\n(PersonA + が) (verbて +) いる + {間|あいだ} + に (+ PersonB + は) ... = at some point during A does/did ~, B does/did ~\nPerson + は + (verbて +) いる + {間|あいだ} + に = during A does/did ~, (he/she) does/did ~"
+],
+[
+    "Leave a little space between the lines.",
+    "{行|gyou} to {行|gyou} no {間|aida} {空け|ake} nasai.",
+    "nounA + と + nounB + の + {間|あいだ} + に = between A and B\nverb-stem + なさい = imperative"
+],
+[
+    "Can (you) spare (me) a little time?",
+    "chotto {時間|jikan} wo {空けて|akete} itadakemasu ka.",
+    ""
+],
+[
+    "(I) played golf before it rained.",
+    "{雨|ame} ga {降らない|furanai} uchi ni _gorufu_ wo shimashita.",
+    "verbない + {内|うち} + に = before ~, while not ~"
+],
+[
+    "Please drink the tea while (it's) warm.",
+    "{紅茶|koucha} ga {暖かい|atatakai} uchi ni {飲んで|nonde} kudasai.",
+    "verbて + ください = request"
+],
+[
+    "Let's go home before it gets dark.",
+    "{暗く|kuraku} naranai uchi ni {帰りましょう|kaerimashou}.",
+    "verbない + {内|うち} + に = before ~, while not ~"
+],
+[
+    "Take one out of these five.",
+    "kono {五つ|itsutsu} no uchi kara {一つ|hitotsu} {取り|tori} nasai.",
+    "{内|うち} + から = out of ~\nverb-stem + なさい = imperative"
+],
+[
+    "If (you) come to China, please make contact.",
+    "moshi {中国|chuugoku} ni {来たら|kitara}, renraku shite kudasai.",
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
+],
+[
+    "When (I) drank the sake, (I) got a headache.",
+    "{酒|sake} wo {飲んだら|nondara}, {頭|atama} ga {痛く|itaku} narimashita.",
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+],
+[
+    "If it's not interesting, (I) don't want to read it. {plain}",
+    "{面白くなかったら|omoshirokunakattara}, {読みたくない|yomitakunai} yo.",
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverb stem + たい = want to ~ (verb --> い adj.)"
+],
+[
+    "If (she's) not beautiful, (I) don't want to date (her).",
+    "{奇麗|kirei} janakattara, _deeto_ wo shitakunai desu.",
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverb stem + たい = want to ~ (verb --> い adj.)"
+],
+[
+    "If (you) don't eat (it), it won't do.",
+    "{食べなかったら|tabenakattara}, {良くない|yokunai} desu.",
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+],
+[
+    "If that film had been interesting, (I) would have watched (it) all.",
+    "sono {映画|eiga} wa {面白かったら|omoshirokattara}, {全部|zenbu} {見ました|mimashita}.",
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+],
+[
+    "If (you) like sumo, please watch tonight's tournament.",
+    "sumou ga {好き|suki} dattara, {今晩|konban} no shiai wo {見て|mite} kudasai.",
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
 ]
 ])

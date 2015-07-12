@@ -71,6 +71,7 @@ noun + に + ついて = about noun
 noun + とか + noun + とか = representative examples of a class
 noun + の + {頃|ころ} = when ~, as a ~
 noun + の + {時|とき} = when ~, as a ~
+nounA + と + nounB + の + {間|あいだ} + に = between A and B
 
 Nominalization
 ==============
@@ -107,12 +108,24 @@ noun + が + {欲しい|ほしい} = (I) want a noun
 もう + verb-present-negative = no longer doing ~ (complete action)
 もう + verbて + いません = discontinued habitual action (no longer)
 
+During/while
+============
+verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same
+(PersonA + が) (verbて +) いる + {間|あいだ} (+ PersonB + は) ... = throughout the whole time that A does/did ~, B does/did ~
+(PersonA + が) (verbて +) いる + {間|あいだ} + に (+ PersonB + は) ... = at some point during A does/did ~, B does/did ~
+Person + は + (verbて +) いる + {間|あいだ} + に = during A does/did ~, (he/she) does/did ~
+verbない + {内|うち} + に = before ~, while not ~
+
+If/when
+=======
+verb-A-う + と + verb-B = if A then B
+(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)
+
 Verbs
 =====
 
 Verbs + particles
 -----------------
-verb-A-う + と + verb-B = if A then B
 noun + で + verb = do verb with/using/at noun (place of action or by-means-of)
 (place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb
 
@@ -131,10 +144,10 @@ verbう + よう + に + なる = change in habitual action
 
 Stem
 ----
-verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same
 verb stem + たい = want to ~
 verb stem + たい = want to ~ (verb --> い adj.)
 verb-stem + verb = compound verb (action + qualifier)
+verb-stem + なさい = imperative
 
 ~たい
 ----
@@ -148,6 +161,7 @@ verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last ver
 verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result
 motion-verbて + いる = (temporarily) moved and is still there (never continuous present!)
 verbて + いました = was (in the state of) doing ~, emphasize regular habitual action
+verbて + いる + {内|うち} = while doing ~ (unspecified time period)
 verbて + みる = try doing ~
 verbて + から = after doing ~, since doing ~
 verbて + は + いけません = doing verb is not allowed
