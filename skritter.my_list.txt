@@ -251,3 +251,6 @@
 梅雨明け tsuyuake
 梅雨入り tsuyuiri
 落ちる ochiru
+行 gyou
+空ける akeru
+内 uchi
