@@ -1036,7 +1036,7 @@ Flashcards.initialize([
 ],
 [
     "In which month is (your) birthday?",
-    "otanjoubi wa {何月|nangatsu} desu ka.",
+    "{お誕生日|otanjoubi} wa {何月|nangatsu} desu ka.",
     ""
 ],
 [
@@ -2441,12 +2441,12 @@ Flashcards.initialize([
 ],
 [
     "I'm not very good at golf, but I'll give it a try.",
-    "boku wa _gorufu_ ga {余り|amari} {上手|jouzu} deha arimasen ga yatte mimashou.",
+    "{僕|boku} wa _gorufu_ ga {余り|amari} {上手|jouzu} deha arimasen ga yatte mimashou.",
     "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
 ],
 [
     "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
-    "boku no {車|kuruma} de {行きましょう|ikimashou}. {十二時|juuniji} ni {貴方|anata} no _apaato_ he mukae ni {行きます|ikimasu}.",
+    "{僕|boku} no {車|kuruma} de {行きましょう|ikimashou}. {十二時|juuniji} ni {貴方|anata} no _apaato_ he mukae ni {行きます|ikimasu}.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
@@ -3681,7 +3681,7 @@ Flashcards.initialize([
 ],
 [
     "I'm vegetarian so (I) can't eat meat. {の で} But fish is OK. (Because I) can eat (that).",
-    "boku wa _bejitarian_ na no de {肉|niku} wo {食べること|taberukoto} ga dekimasen. demo {魚|sakana} wa {大丈夫|daijoubu} desu. {食べること|taberukoto} ga dekiru n desu.",
+    "{僕|boku} wa _bejitarian_ na no de {肉|niku} wo {食べること|taberukoto} ga dekimasen. demo {魚|sakana} wa {大丈夫|daijoubu} desu. {食べること|taberukoto} ga dekiru n desu.",
     "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-plain + の/ん + です = justification, explanation (softer than から)"
 ],
 [
@@ -4221,7 +4221,7 @@ Flashcards.initialize([
 ],
 [
     "Miki likes jazz, so (we) went together to a jazz club (I) like. {plain}",
-    "{三木|miki} san wa _jazu_ ga {好き|suki} da kara, {一緒|issho} ni boku no {好き|suki} na _jazu kurabu_ ni {行った|itta}.",
+    "{三木|miki} san wa _jazu_ ga {好き|suki} da kara, {一緒|issho} ni {僕|boku} no {好き|suki} na _jazu kurabu_ ni {行った|itta}.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -4286,7 +4286,7 @@ Flashcards.initialize([
 ],
 [
     "I _will_ go to Kyoto next week.",
-    "boku wa {来週|raishuu} kyouto ni {行こう|ikou}.",
+    "{僕|boku} wa {来週|raishuu} kyouto ni {行こう|ikou}.",
     "verbおう/よう = talking about/to self, I _will_, shall I?"
 ],
 [
