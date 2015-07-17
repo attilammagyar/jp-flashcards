@@ -201,7 +201,7 @@ Flashcards.initialize([
 ],
 [
     "Action movies are not boring.",
-    "_akushon_ {映画|eiga} wa tsumaranakunai desu.",
+    "_akushon_ {映画|eiga} wa {詰まらなくない|tsumaranakunai} desu.",
     ""
 ],
 [
@@ -1451,7 +1451,7 @@ Flashcards.initialize([
 ],
 [
     "That person is kind.",
-    "ano {人|hito} wa yasashii desu.",
+    "ano {人|hito} wa {優しい|yasashii} desu.",
     ""
 ],
 [
@@ -1496,7 +1496,7 @@ Flashcards.initialize([
 ],
 [
     "She is very kind but a bit serious.",
-    "{彼女|kanojo} wa totemo yasashii desu ga {少し|sukoshi} majime desu.",
+    "{彼女|kanojo} wa totemo {優しい|yasashii} desu ga {少し|sukoshi} majime desu.",
     ""
 ],
 [
@@ -1626,7 +1626,7 @@ Flashcards.initialize([
 ],
 [
     "He is serious but kind.",
-    "{彼|kare} wa majime desu ga yasashii desu.",
+    "{彼|kare} wa majime desu ga {優しい|yasashii} desu.",
     ""
 ],
 [
@@ -1711,7 +1711,7 @@ Flashcards.initialize([
 ],
 [
     "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
-    "{私|watashi} wa {少し|sukoshi} {大人しい|otonashii} desu ga yasashikute {明るい|akarui} to {思います|omoimasu}. _rokku_ to _metaru_ ga {好き|suki} desu ga _supootsu_ ga {余り|amari} {好き|suki} deha arimasen.",
+    "{私|watashi} wa {少し|sukoshi} {大人しい|otonashii} desu ga {優しくて|yasashikute} {明るい|akarui} to {思います|omoimasu}. _rokku_ to _metaru_ ga {好き|suki} desu ga _supootsu_ ga {余り|amari} {好き|suki} deha arimasen.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -1726,7 +1726,7 @@ Flashcards.initialize([
 ],
 [
     "That person is serious but kind.",
-    "ano {人|hito} wa majime desu ga yasashii desu.",
+    "ano {人|hito} wa majime desu ga {優しい|yasashii} desu.",
     ""
 ],
 [
@@ -1756,7 +1756,7 @@ Flashcards.initialize([
 ],
 [
     "This book was boring and disagreeable.",
-    "{此の|kono} {本|hon} wa tsumaranakute fuyukai deshita.",
+    "{此の|kono} {本|hon} wa {詰まらなくて|tsumaranakute} fuyukai deshita.",
     ""
 ],
 [
@@ -1876,7 +1876,7 @@ Flashcards.initialize([
 ],
 [
     "Natsuko speaks English softly/kindly.",
-    "{夏子|natsuko} san wa yasashiku {英語|eigo} wo {話します|hanashimasu}.",
+    "{夏子|natsuko} san wa {優しく|yasashiku} {英語|eigo} wo {話します|hanashimasu}.",
     "い adj. - い + く = adverb"
 ],
 [
@@ -2016,7 +2016,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
-    "oosaka ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. oosaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa tsumaranakatta desu.",
+    "oosaka ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. oosaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa {詰まらなかった|tsumaranakatta} desu.",
     "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\n{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ],
 [
@@ -2326,7 +2326,7 @@ Flashcards.initialize([
 ],
 [
     "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
-    "{有名そう|yuumeisou} desu. {此の|kono} {映画|eiga} wa tsumaranasou desu. {頭|atama} ga {痛そう|itasou} desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
+    "{有名そう|yuumeisou} desu. {此の|kono} {映画|eiga} wa {詰まらなそう|tsumaranasou} desu. {頭|atama} ga {痛そう|itasou} desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
     "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
@@ -2391,7 +2391,7 @@ Flashcards.initialize([
 ],
 [
     "(I) hate tennis the most, but baseball is the most boring.",
-    "_tenisu_ ga {一番|ichiban} {嫌い|kirai} desu ga yakyuu wa {一番|ichiban} tsumaranai desu.",
+    "_tenisu_ ga {一番|ichiban} {嫌い|kirai} desu ga yakyuu wa {一番|ichiban} {詰まらない|tsumaranai} desu.",
     ""
 ],
 [
@@ -3511,7 +3511,7 @@ Flashcards.initialize([
 ],
 [
     "The teacher is kind so (I) like English. {から}",
-    "{先生|sensei} ga yasashii kara {英語|eigo} ga {好き|suki} desu.",
+    "{先生|sensei} ga {優しい|yasashii} kara {英語|eigo} ga {好き|suki} desu.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -4691,7 +4691,7 @@ Flashcards.initialize([
 ],
 [
     "Since (I) became an adult, it seems that a lot of things that looked boring as a child, (I) became interested in. Probably because (I) don't have to take exams anymore, right?",
-    "{大人|otona} ni natte kara, dou yara {子供|kodomo} no {頃|koro} ni wa tsumaranaku {思えた|omoeta} {沢山|takusan} no koto ni {興味|kyoumi} ga {持てる|moteru} you ni narimashita. mou {試験|shiken} wo {受けなくて|ukenakute} mo ii kara deshou ne.",
+    "{大人|otona} ni natte kara, dou yara {子供|kodomo} no {頃|koro} ni wa {詰まらなく|tsumaranaku} {思えた|omoeta} {沢山|takusan} no koto ni {興味|kyoumi} ga {持てる|moteru} you ni narimashita. mou {試験|shiken} wo {受けなくて|ukenakute} mo ii kara deshou ne.",
     "noun/な adj + に + なる = become ~\nverbて + から = after doing ~, since doing ~\nverbう + よう + に + なる = change in habitual action\nverbて + も + いい = doing verb is allowed, (you) may do verb\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
