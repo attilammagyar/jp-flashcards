@@ -666,7 +666,7 @@ Flashcards.initialize([
 ],
 [
     "Tonight (I'll) be in Harajuku. (It's) fun, lively and (I) love Harajuku.",
-    "{今夜|kon ya} wa harajuku ni imasu. {楽しくて|tanoshikute}, nigiyakade, harajuku wa {大好き|daisuki} desu.",
+    "{今夜|kon ya} wa harajuku ni imasu. {楽しくて|tanoshikute}, {賑やか|nigiyaka} de, harajuku wa {大好き|daisuki} desu.",
     ""
 ],
 [
@@ -1501,7 +1501,7 @@ Flashcards.initialize([
 ],
 [
     "Tokyo is a big and busy place.",
-    "{東京|toukyou} wa {広くて|hirokute} nigiyaka na {所|tokoro} desu.",
+    "{東京|toukyou} wa {広くて|hirokute} {賑やか|nigiyaka} na {所|tokoro} desu.",
     "{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ],
 [
@@ -1546,7 +1546,7 @@ Flashcards.initialize([
 ],
 [
     "This is a lively place, isn't it?",
-    "{此処|koko} wa nigiyaka na {所|tokoro} desu ne.",
+    "{此処|koko} wa {賑やか|nigiyaka} na {所|tokoro} desu ne.",
     "{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ],
 [
@@ -1621,7 +1621,7 @@ Flashcards.initialize([
 ],
 [
     "Tokyo is lively and big (spacious).",
-    "{東京|toukyou} wa nigiyaka de {広い|hiroi} desu.",
+    "{東京|toukyou} wa {賑やか|nigiyaka} de {広い|hiroi} desu.",
     ""
 ],
 [
@@ -1721,7 +1721,7 @@ Flashcards.initialize([
 ],
 [
     "This department store is very busy, isn't it!",
-    "{此の|kono} _depaato_ wa totemo nigiyaka desu ne.",
+    "{此の|kono} _depaato_ wa totemo {賑やか|nigiyaka} desu ne.",
     ""
 ],
 [
