@@ -254,3 +254,7 @@
 行 gyou
 空ける akeru
 内 uchi
+手伝う tetsudau
+送る okuru
+列 retsu
+電気屋 denkiya
