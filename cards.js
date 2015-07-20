@@ -4907,7 +4907,7 @@ Flashcards.initialize([
     [
         "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
         "{\u7247\u4eee\u540d|\u304b\u305f\u304b\u306a}\u3067{\u8aad\u307f\u65b9|\u3088\u307f\u304b\u305f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u304f\u308c\u3066\u3042\u308a\u304c\u3068\u3046\u3002\u3069\u3046\u3044\u305f\u3057\u307e\u3057\u3066\u3002",
-        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates\nX \u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)"
     ],
     [
         "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
@@ -5138,5 +5138,45 @@ Flashcards.initialize([
         "If (you) like sumo, please watch tonight's tournament.",
         "\u3059\u3082\u3046\u304c{\u597d\u304d|\u3059\u304d}\u3060\u3063\u305f\u3089\u3001{\u4eca\u6669|\u3053\u3093\u3070\u3093}\u306e\u3057\u3042\u3044\u3092{\u898b\u3066|\u307f\u3066}\u304f\u3060\u3055\u3044\u3002",
         "(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+    ],
+    [
+        "I gave a book to Mr. Yamada. {plain} I gave flowers to my older sister. {plain} Mr. Yamada gave flowers to Ms. Natsuko. {plain} My older sister gave Mr. Yamada a book. {plain}",
+        "{\u79c1|\u308f\u305f\u3057}\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u672c|\u307b\u3093}\u3092\u3042\u3052\u305f\u3002{\u79c1|\u308f\u305f\u3057}\u306f{\u59c9|\u3042\u306d}\u306b{\u82b1|\u306f\u306a}\u3092\u3042\u3052\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306b{\u82b1|\u306f\u306a}\u3092\u3042\u3052\u305f\u3002{\u59c9|\u3042\u306d}\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u672c|\u307b\u3093}\u3092\u3042\u3052\u305f\u3002",
+        "X \u306f Y \u306b Z \u3092 \u3042\u3052\u308b = X(out/in) gives Z to Y(out) (never to superiors)"
+    ],
+    [
+        "Mr. Yamada gave me a book. {plain} My older sister gave me a book. {plain} Mr. Yamada gave flowers to my older sister. {plain}",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u79c1|\u308f\u305f\u3057}\u306b{\u672c|\u307b\u3093}\u3092\u304f\u308c\u305f\u3002{\u59c9|\u3042\u306d}\u306f{\u79c1|\u308f\u305f\u3057}\u306b{\u672c|\u307b\u3093}\u3092\u304f\u308c\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u59c9|\u3042\u306d}\u306b{\u82b1|\u306f\u306a}\u3092\u304f\u308c\u305f\u3002",
+        "X \u306f Y \u306b Z \u3092 \u304f\u308c\u308b = X(out) gives Z to Y(in)"
+    ],
+    [
+        "Mr. Yamada got a book from my older sister. {plain} I got a book from Mr. Yamada. {plain}",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u59c9|\u3042\u306d}\u306b{\u672c|\u307b\u3093}\u3092\u3082\u3089\u3063\u305f\u3002{\u79c1|\u308f\u305f\u3057}\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u672c|\u307b\u3093}\u3092\u3082\u3089\u3063\u305f\u3002",
+        "X \u306f Y \u306b Z \u3092 \u3082\u3089\u3046 = X receives Z from Y"
+    ],
+    [
+        "(My) friends waited for me. {grateful, plain} Mr. Yamada helped my younger brother. {grateful, plain}",
+        "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u304f\u308c\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u5f1f|\u304a\u3068\u3046\u3068}\u3092{\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066}\u304f\u308c\u305f\u3002",
+        "X \u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
+    ],
+    [
+        "Would (you) be so kind to wait (for me)? Thank (you) very much for waiting (for me).",
+        "{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u304f\u308c\u307e\u305b\u3093\u304b\u3002{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u304f\u308c\u3066\u3001\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\u3002",
+        "X \u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
+    ],
+    [
+        "My younger brother waited for (his) friends. {plain} (I) helped my younger brother.",
+        "{\u5f1f|\u304a\u3068\u3046\u3068}\u304c{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3092{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3042\u3052\u305f\u3002{\u5f1f|\u304a\u3068\u3046\u3068}\u3092{\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066}\u3042\u3052\u305f\u3002",
+        "X \u304c (Y \u3092) verb\u3066 \u3042\u3052\u308b = X(in) does ~ for Y(out) (never to superiors)"
+    ],
+    [
+        "I got (my) friends to wait (for me). {plain} My younger brother got Mr. Yamada for a ride. {plain} Mr. Yamada got my older sister to help (him). {plain} Mr. Yamada got Ms. Natsuko to wait (for him). {plain}",
+        "{\u79c1|\u308f\u305f\u3057}\u304c{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306b{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3082\u3089\u3063\u305f\u3002{\u5f1f|\u304a\u3068\u3046\u3068}\u304c{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u9001\u3063\u3066|\u304a\u304f\u3063\u3066}\u3082\u3089\u3063\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u59c9|\u3042\u306d}\u306b{\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066}\u3082\u3089\u3063\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306b{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3082\u3089\u3063\u305f\u3002",
+        "X \u304c Y \u306b verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+    ],
+    [
+        "Could (I) get (you) to wait for me?",
+        "{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3082\u3089\u3048\u307e\u305b\u3093\u304b\u3002",
+        "X \u304c Y \u306b verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ]
 ])

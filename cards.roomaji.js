@@ -4907,7 +4907,7 @@ Flashcards.initialize([
 [
     "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
     "{片仮名|katakana} de {読み方|yomikata} wo {書いて|kaite} kurete arigatou. dou itashimashite.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {方|kata} = how to do verb (verb --> noun)\nverbて + くれる = a favor done by equals/subordinates"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {方|kata} = how to do verb (verb --> noun)\nverbて + くれる = a favor done by equals/subordinates\nX が (Y を) verbて くれる = X(out) does ~ for Y(in)"
 ],
 [
     "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
@@ -5132,5 +5132,45 @@ Flashcards.initialize([
     "If (you) like sumo, please watch tonight's tournament.",
     "sumou ga {好き|suki} dattara, {今晩|konban} no shiai wo {見て|mite} kudasai.",
     "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
+],
+[
+    "I gave a book to Mr. Yamada. {plain} I gave flowers to my older sister. {plain} Mr. Yamada gave flowers to Ms. Natsuko. {plain} My older sister gave Mr. Yamada a book. {plain}",
+    "{私|watashi} wa {山田|yamada} san ni {本|hon} wo ageta. {私|watashi} wa {姉|ane} ni {花|hana} wo ageta. {山田|yamada} san wa {夏子|natsuko} san ni {花|hana} wo ageta. {姉|ane} wa {山田|yamada} san ni {本|hon} wo ageta.",
+    "X は Y に Z を あげる = X(out/in) gives Z to Y(out) (never to superiors)"
+],
+[
+    "Mr. Yamada gave me a book. {plain} My older sister gave me a book. {plain} Mr. Yamada gave flowers to my older sister. {plain}",
+    "{山田|yamada} san wa {私|watashi} ni {本|hon} wo kureta. {姉|ane} wa {私|watashi} ni {本|hon} wo kureta. {山田|yamada} san wa {姉|ane} ni {花|hana} wo kureta.",
+    "X は Y に Z を くれる = X(out) gives Z to Y(in)"
+],
+[
+    "Mr. Yamada got a book from my older sister. {plain} I got a book from Mr. Yamada. {plain}",
+    "{山田|yamada} san wa {姉|ane} ni {本|hon} wo moratta. {私|watashi} wa {山田|yamada} san ni {本|hon} wo moratta.",
+    "X は Y に Z を もらう = X receives Z from Y"
+],
+[
+    "(My) friends waited for me. {grateful, plain} Mr. Yamada helped my younger brother. {grateful, plain}",
+    "{友達|tomodachi} ga {待って|matte} kureta. {山田|yamada} san ga {弟|otouto} wo {手伝って|tetsudatte} kureta.",
+    "X が (Y を) verbて くれる = X(out) does ~ for Y(in)\nverbて + くれる = a favor done by equals/subordinates"
+],
+[
+    "Would (you) be so kind to wait (for me)? Thank (you) very much for waiting (for me).",
+    "{待って|matte} kuremasen ka. {待って|matte} kurete, arigatou gozaimashita.",
+    "X が (Y を) verbて くれる = X(out) does ~ for Y(in)\nverbて + くれる = a favor done by equals/subordinates"
+],
+[
+    "My younger brother waited for (his) friends. {plain} (I) helped my younger brother.",
+    "{弟|otouto} ga {友達|tomodachi} wo {待って|matte} ageta. {弟|otouto} wo {手伝って|tetsudatte} ageta.",
+    "X が (Y を) verbて あげる = X(in) does ~ for Y(out) (never to superiors)"
+],
+[
+    "I got (my) friends to wait (for me). {plain} My younger brother got Mr. Yamada for a ride. {plain} Mr. Yamada got my older sister to help (him). {plain} Mr. Yamada got Ms. Natsuko to wait (for him). {plain}",
+    "{私|watashi} ga {友達|tomodachi} ni {待って|matte} moratta. {弟|otouto} ga {山田|yamada} san ni {送って|okutte} moratta. {山田|yamada} san ga {姉|ane} ni {手伝って|tetsudatte} moratta. {山田|yamada} san ga {夏子|natsuko} san ni {待って|matte} moratta.",
+    "X が Y に verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+],
+[
+    "Could (I) get (you) to wait for me?",
+    "{待って|matte} moraemasen ka.",
+    "X が Y に verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ]
 ])

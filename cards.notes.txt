@@ -121,6 +121,16 @@ If/when
 verb-A-う + と + verb-B = if A then B
 (もし +) ~た + ら = if/when ~, (then) ~ (もし = if)
 
+Give/receive
+============
+X は Y に Z を もらう = X receives Z from Y
+X は Y に Z を くれる = X(out) gives Z to Y(in)
+X は Y に Z を あげる = X(out/in) gives Z to Y(out) (never to superiors)
+X が (Y を) verbて くれる = X(out) does ~ for Y(in)
+verbて + くれる = a favor done by equals/subordinates
+X が (Y を) verbて あげる = X(in) does ~ for Y(out) (never to superiors)
+X が Y に verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})
+
 Verbs
 =====
 
@@ -169,7 +179,6 @@ verbて + は + だめ = must not do verb
 verbて + ください = request
 verbて + も + いい = doing verb is allowed, (you) may do verb
 verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)
-verbて + くれる = a favor done by equals/subordinates
 (A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)
 
 た-form
