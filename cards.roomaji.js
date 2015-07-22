@@ -5172,5 +5172,45 @@ Flashcards.initialize([
     "Could (I) get (you) to wait for me?",
     "{待って|matte} moraemasen ka.",
     "X が Y に verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+],
+[
+    "If (I) have a chance, may (I) go to China to have fun? If (you) have a chance, please surely come to China to have fun, with your family.",
+    "_chansu_ ga attara, {中国|chuugoku} he {遊び|asobi} ni {行って|itte} mo ii desu ka. moshi_chansu_ ga attara, zehi {ご家族|gokazoku} de {中国|chuugoku} he {遊び|asobi} ni {来て|kite} kudasai.",
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbて + も + いい = doing verb is allowed, (you) may do verb\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbて + ください = request"
+],
+[
+    "(I'm) looking forward to it.",
+    "{楽しみ|tanoshimi} ni shite imasu.",
+    ""
+],
+[
+    "If (you) want to go to China, before that, (you) must practice the piano every day.",
+    "{中国|chuugoku} ni {行きたかったら|ikitakattara}, sono {前|mae} ni {毎日|mainichi} _piano_ wo {練習|renshuu} shinakereba narimasen yo.",
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)"
+],
+[
+    "When do (you) plan to get married? (We) don't know yet clearly, but (we) hope to get married before going to China if (we) can.",
+    "itsu {結婚|kekkon} wo suru tsumori desu ka. mada hakkiri {分かりません|wakarimasen} ga, dekitara, {中国|chuugoku} ni {行く|iku} {前|mae} ni {結婚|kekkon} shitai to {思います|omoimasu}.",
+    "verbう + つもり = intend to ~\n(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbう + {前|まえ} に = before doing ~\n~たい is usually used only in first person or in questions for the second person"
+],
+[
+    "(You) should get married while the weather isn't hot, shouldn't you? But (I) think if (you) do (it) suddenly, (that's) not good. Don't make excuses.",
+    "{天気|tenki} ga {暑くない|atsukunai} uchi ni {結婚|kekkon} shita hou ga ii desu ne. shikashi, kyuu ni shitara yokunai to {思います|omoimasu}. iiwake shinai de kudasai.",
+    "verbない + {内|うち} + に = before ~, while not ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\n(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbない + で + ください = please don't ~"
+],
+[
+    "Both Roger and Robert are nice people. (We) always spend fun times. {plain, female}",
+    "_rojaa_ san mo _robaato_ san mo totemo ii {人|hito} da to {思う|omou}. itsumo {楽しく|tanoshiku} {過ごして|sugoshite} iru wa.",
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "But Roger really loves (you) Miki. (I) think (you) must tell hib about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
+    "demo _rojaa_ san wa {三木|miki} san ga {本当|hontou} ni {好き|suki} yo. _robaato_ san no koto wo {言わなければ|iwanakereba} naranai to {思う|omou} wa. {大丈夫|daijoubu} yo. {昨夜|yuube} {三人|san'nin} de {遊んだ|asonda} kara.",
+    "な adj. + に = adverb\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "(You) shouldn't date two people. It's cool. Don't worry. {plain}",
+    "{二人|futari} no {人|hito} to _deeto_ wo shinai hou ga ii yo. {平気|heiki} yo. shinpai shinai de.",
+    "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~"
 ]
 ])
