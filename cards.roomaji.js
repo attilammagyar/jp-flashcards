@@ -2661,7 +2661,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) take a bath?",
-    "ofuro ni {入って|haitte} mo ii desu ka.",
+    "{お風呂|ofuro} ni {入って|haitte} mo ii desu ka.",
     "verbて + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
@@ -2676,7 +2676,7 @@ Flashcards.initialize([
 ],
 [
     "(You are) not allowed to take a bath.",
-    "ofuro ni {入って|haitte} wa ikemasen.",
+    "{お風呂|ofuro} ni {入って|haitte} wa ikemasen.",
     "verbて + は + いけません = doing verb is not allowed"
 ],
 [
@@ -4331,7 +4331,7 @@ Flashcards.initialize([
 ],
 [
     "In Japan, before getting into the bath, (you're supposed to) wash (yourself).",
-    "{日本|nihon} de wa ofuro ni {入る|hairu} {前|mae} ni {洗う|arau} koto ni natte imasu.",
+    "{日本|nihon} de wa {お風呂|ofuro} ni {入る|hairu} {前|mae} ni {洗う|arau} koto ni natte imasu.",
     "verbう + {前|まえ} に = before doing ~\nverbうこと + に + なって + いる = rules, customs, how things are supposed to be done"
 ],
 [

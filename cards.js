@@ -2661,7 +2661,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) take a bath?",
-        "\u304a\u3075\u308d\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
+        "{\u304a\u98a8\u5442|\u304a\u3075\u308d}\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u304b\u3002",
         "verb\u3066 + \u3082 + \u3044\u3044 = doing verb is allowed, (you) may do verb"
     ],
     [
@@ -2676,7 +2676,7 @@ Flashcards.initialize([
     ],
     [
         "(You are) not allowed to take a bath.",
-        "\u304a\u3075\u308d\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u306f\u3044\u3051\u307e\u305b\u3093\u3002",
+        "{\u304a\u98a8\u5442|\u304a\u3075\u308d}\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u306f\u3044\u3051\u307e\u305b\u3093\u3002",
         "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
     ],
     [
@@ -4331,7 +4331,7 @@ Flashcards.initialize([
     ],
     [
         "In Japan, before getting into the bath, (you're supposed to) wash (yourself).",
-        "{\u65e5\u672c|\u306b\u307b\u3093}\u3067\u306f\u304a\u3075\u308d\u306b{\u5165\u308b|\u306f\u3044\u308b}{\u524d|\u307e\u3048}\u306b{\u6d17\u3046|\u3042\u3089\u3046}\u3053\u3068\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002",
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u3067\u306f{\u304a\u98a8\u5442|\u304a\u3075\u308d}\u306b{\u5165\u308b|\u306f\u3044\u308b}{\u524d|\u307e\u3048}\u306b{\u6d17\u3046|\u3042\u3089\u3046}\u3053\u3068\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002",
         "verb\u3046 + {\u524d|\u307e\u3048} \u306b = before doing ~\nverb\u3046\u3053\u3068 + \u306b + \u306a\u3063\u3066 + \u3044\u308b = rules, customs, how things are supposed to be done"
     ],
     [
