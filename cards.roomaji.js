@@ -1771,7 +1771,7 @@ Flashcards.initialize([
 ],
 [
     "First, (we'll) eat.",
-    "saisho wa {食べます|tabemasu}.",
+    "{最初|saisho} wa {食べます|tabemasu}.",
     ""
 ],
 [
@@ -2381,7 +2381,7 @@ Flashcards.initialize([
 ],
 [
     "I hated dogs at first.",
-    "saisho, {私|watashi} wa {犬|inu} ga {嫌い|kirai} deshita.",
+    "{最初|saisho}, {私|watashi} wa {犬|inu} ga {嫌い|kirai} deshita.",
     ""
 ],
 [
@@ -5204,7 +5204,7 @@ Flashcards.initialize([
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
-    "But Roger really loves (you) Miki. (I) think (you) must tell hib about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
+    "But Roger really loves (you) Miki. (I) think (you) must tell him about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
     "demo _rojaa_ san wa {三木|miki} san ga {本当|hontou} ni {好き|suki} yo. _robaato_ san no koto wo {言わなければ|iwanakereba} naranai to {思う|omou} wa. {大丈夫|daijoubu} yo. {昨夜|yuube} {三人|san'nin} de {遊んだ|asonda} kara.",
     "な adj. + に = adverb\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
@@ -5212,5 +5212,35 @@ Flashcards.initialize([
     "(You) shouldn't date two people. It's cool. Don't worry. {plain}",
     "{二人|futari} no {人|hito} to _deeto_ wo shinai hou ga ii yo. {平気|heiki} yo. shinpai shinai de.",
     "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~"
+],
+[
+    "I wish you a happy New Year! Please be kind to each other this year as well.",
+    "{明けまして|akemashite} omedetou gozaimasu. {今年|kotoshi} mo yoroshiku {お願いします|onegaishimasu}.",
+    ""
+],
+[
+    "New Year's Day: January 1",
+    "{元旦|gantan}: {一月|ichigatsu} {一日|tsuitachi}",
+    ""
+],
+[
+    "New Year's Card: Year's first greeting postcard",
+    "{年賀状|nengajou}: {年|toshi} no {最初|saisho} no aisatsu no {葉書|hagaki}",
+    ""
+],
+[
+    "One's first visit to a Shinto shrine in the New Year",
+    "{初詣|hatsumoude}: {年|toshi} no {最初|saisho} ni {神社|jinja} nado ni {行きます|ikimasu}.",
+    ""
+],
+[
+    "New Year's gift: money children get from adults on New Year's Day",
+    "{お年玉|otoshidama}: {お正月|oshougatsu} ni {子供|kodomo} ga {大人|otona} ni morau {お金|okane}",
+    "X は Y に Z を もらう = X receives Z from Y"
+],
+[
+    "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. Higher prices come.",
+    "{福袋|fukubukuro}: {お正月|oshougatsu} ni _depaato_ ya {店|mise} nado de {売ります|urimasu}. {値段|nedan} yori {高い物|takaimono} ga {入って|haitte} imasu.",
+    "A や B や C など = A, B, C, etc.\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!)"
 ]
 ])

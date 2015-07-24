@@ -271,3 +271,11 @@
 親切 shinsetsu
 お世話 osewa
 お世話になる osewa ni naru
+お正月 oshougatsu
+挨拶 aisatsu
+元旦 gantan
+年賀状 nengajou
+初詣 hatsumoude
+神社 jinja
+お年玉 otoshidama
+福袋 fukubukuro

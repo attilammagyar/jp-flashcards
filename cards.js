@@ -1771,7 +1771,7 @@ Flashcards.initialize([
     ],
     [
         "First, (we'll) eat.",
-        "\u3055\u3044\u3057\u3087\u306f{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
+        "{\u6700\u521d|\u3055\u3044\u3057\u3087}\u306f{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -2381,7 +2381,7 @@ Flashcards.initialize([
     ],
     [
         "I hated dogs at first.",
-        "\u3055\u3044\u3057\u3087\u3001{\u79c1|\u308f\u305f\u3057}\u306f{\u72ac|\u3044\u306c}\u304c{\u5acc\u3044|\u304d\u3089\u3044}\u3067\u3057\u305f\u3002",
+        "{\u6700\u521d|\u3055\u3044\u3057\u3087}\u3001{\u79c1|\u308f\u305f\u3057}\u306f{\u72ac|\u3044\u306c}\u304c{\u5acc\u3044|\u304d\u3089\u3044}\u3067\u3057\u305f\u3002",
         ""
     ],
     [
@@ -5210,7 +5210,7 @@ Flashcards.initialize([
         "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
     [
-        "But Roger really loves (you) Miki. (I) think (you) must tell hib about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
+        "But Roger really loves (you) Miki. (I) think (you) must tell him about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
         "\u3067\u3082\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u304c{\u672c\u5f53|\u307b\u3093\u3068\u3046}\u306b{\u597d\u304d|\u3059\u304d}\u3088\u3002\u30ed\u30d0\u30fc\u30c8\u3055\u3093\u306e\u3053\u3068\u3092{\u8a00\u308f\u306a\u3051\u308c\u3070|\u3044\u308f\u306a\u3051\u308c\u3070}\u306a\u3089\u306a\u3044\u3068{\u601d\u3046|\u304a\u3082\u3046}\u308f\u3002{\u5927\u4e08\u592b|\u3060\u3044\u3058\u3087\u3046\u3076}\u3088\u3002{\u6628\u591c|\u3086\u3046\u3079}{\u4e09\u4eba|\u3055\u3093\u306b\u3093}\u3067{\u904a\u3093\u3060|\u3042\u305d\u3093\u3060}\u304b\u3089\u3002",
         "\u306a adj. + \u306b = adverb\nverb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request)\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
@@ -5218,5 +5218,35 @@ Flashcards.initialize([
         "(You) shouldn't date two people. It's cool. Don't worry. {plain}",
         "{\u4e8c\u4eba|\u3075\u305f\u308a}\u306e{\u4eba|\u3072\u3068}\u3068\u30c7\u30fc\u30c8\u3092\u3057\u306a\u3044\u307b\u3046\u304c\u3044\u3044\u3088\u3002{\u5e73\u6c17|\u3078\u3044\u304d}\u3088\u3002\u3057\u3093\u3071\u3044\u3057\u306a\u3044\u3067\u3002",
         "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~\nverb\u306a\u3044 + \u3067 + \u304f\u3060\u3055\u3044 = please don't ~"
+    ],
+    [
+        "I wish you a happy New Year! Please be kind to each other this year as well.",
+        "{\u660e\u3051\u307e\u3057\u3066|\u3042\u3051\u307e\u3057\u3066}\u304a\u3081\u3067\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002{\u4eca\u5e74|\u3053\u3068\u3057}\u3082\u3088\u308d\u3057\u304f{\u304a\u9858\u3044\u3057\u307e\u3059|\u304a\u306d\u304c\u3044\u3057\u307e\u3059}\u3002",
+        ""
+    ],
+    [
+        "New Year's Day: January 1",
+        "{\u5143\u65e6|\u304c\u3093\u305f\u3093}:{\u4e00\u6708|\u3044\u3061\u304c\u3064}{\u4e00\u65e5|\u3064\u3044\u305f\u3061}",
+        ""
+    ],
+    [
+        "New Year's Card: Year's first greeting postcard",
+        "{\u5e74\u8cc0\u72b6|\u306d\u3093\u304c\u3058\u3087\u3046}:{\u5e74|\u3068\u3057}\u306e{\u6700\u521d|\u3055\u3044\u3057\u3087}\u306e\u3042\u3044\u3055\u3064\u306e{\u8449\u66f8|\u306f\u304c\u304d}",
+        ""
+    ],
+    [
+        "One's first visit to a Shinto shrine in the New Year",
+        "{\u521d\u8a63|\u306f\u3064\u3082\u3046\u3067}:{\u5e74|\u3068\u3057}\u306e{\u6700\u521d|\u3055\u3044\u3057\u3087}\u306b{\u795e\u793e|\u3058\u3093\u3058\u3083}\u306a\u3069\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
+        ""
+    ],
+    [
+        "New Year's gift: money children get from adults on New Year's Day",
+        "{\u304a\u5e74\u7389|\u304a\u3068\u3057\u3060\u307e}:{\u304a\u6b63\u6708|\u304a\u3057\u3087\u3046\u304c\u3064}\u306b{\u5b50\u4f9b|\u3053\u3069\u3082}\u304c{\u5927\u4eba|\u304a\u3068\u306a}\u306b\u3082\u3089\u3046{\u304a\u91d1|\u304a\u304b\u306d}",
+        "X \u306f Y \u306b Z \u3092 \u3082\u3089\u3046 = X receives Z from Y"
+    ],
+    [
+        "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. Higher prices come.",
+        "{\u798f\u888b|\u3075\u304f\u3076\u304f\u308d}:{\u304a\u6b63\u6708|\u304a\u3057\u3087\u3046\u304c\u3064}\u306b\u30c7\u30d1\u30fc\u30c8\u3084{\u5e97|\u307f\u305b}\u306a\u3069\u3067{\u58f2\u308a\u307e\u3059|\u3046\u308a\u307e\u3059}\u3002{\u5024\u6bb5|\u306d\u3060\u3093}\u3088\u308a{\u9ad8\u3044\u7269|\u305f\u304b\u3044\u3082\u306e}\u304c{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
+        "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
     ]
 ])
