@@ -5195,7 +5195,7 @@ Flashcards.initialize([
 ],
 [
     "(You) should get married while the weather isn't hot, shouldn't you? But (I) think if (you) do (it) suddenly, (that's) not good. Don't make excuses.",
-    "{天気|tenki} ga {暑くない|atsukunai} uchi ni {結婚|kekkon} shita hou ga ii desu ne. shikashi, kyuu ni shitara yokunai to {思います|omoimasu}. iiwake shinai de kudasai.",
+    "{天気|tenki} ga {暑くない|atsukunai} uchi ni {結婚|kekkon} shita hou ga ii desu ne. shikashi, {急|kyuu} ni shitara yokunai to {思います|omoimasu}. iiwake shinai de kudasai.",
     "verbない + {内|うち} + に = before ~, while not ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\n(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbない + で + ください = please don't ~"
 ],
 [
