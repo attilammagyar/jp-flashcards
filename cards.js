@@ -5256,8 +5256,8 @@ Flashcards.initialize([
     ],
     [
         "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
-        "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f\u30b1\u30fc\u30c6\u30a3\u3068{\u79c1\u9054|\u308f\u305f\u3057\u305f\u3061}\u306e\u305f\u3081\u306b\u3053\u3093\u306a\u305b\u3044\u3060\u3044\u306a\u305d\u3046\u3079\u3064\u304b\u3044\u3068{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}\u305c\u3093\u3084\u3055\u308a\u3092\u3072\u3089\u3044\u3066\u304f\u3060\u3055\u3063\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002\u3068\u3066\u3082\u304b\u3093\u3057\u3083\u3057\u3066\u3044\u307e\u3059\u3002",
-        "\u3068: complete list\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f\u30b1\u30fc\u30c6\u30a3\u3068{\u79c1\u9054|\u308f\u305f\u3057\u305f\u3061}\u306e\u305f\u3081\u306b\u3053\u3093\u306a\u306b\u305b\u3044\u3060\u3044\u306a\u305d\u3046\u3079\u3064\u304b\u3044\u3068{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}\u305c\u3093\u3084\u3055\u308a\u3092\u3072\u3089\u3044\u3066\u304f\u3060\u3055\u3063\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002\u3068\u3066\u3082\u304b\u3093\u3057\u3083\u3057\u3066\u3044\u307e\u3059\u3002",
+        "\u306a adj. + \u306b = adverb\n\u3068: complete list\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
     [
         "While (we) were in Japan, (we) met many people and learned many things. People in Japan were very kind and have really looked after us.",

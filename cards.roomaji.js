@@ -5250,8 +5250,8 @@ Flashcards.initialize([
 ],
 [
     "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
-    "{今日|kyou} wa ケーティ to {私達|watashitachi} no tame ni kon'na seidai na soubetsukai to {結婚|kekkon} zen'yasari wo hiraite kudasatte arigatou gozaimasu. totemo kansha shiteimasu.",
-    "と: complete list\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "{今日|kyou} wa ケーティ to {私達|watashitachi} no tame ni kon'na ni seidai na soubetsukai to {結婚|kekkon} zen'yasari wo hiraite kudasatte arigatou gozaimasu. totemo kansha shiteimasu.",
+    "な adj. + に = adverb\nと: complete list\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
     "While (we) were in Japan, (we) met many people and learned many things. People in Japan were very kind and have really looked after us.",
