@@ -4581,7 +4581,7 @@ Flashcards.initialize([
 ],
 [
     "How many months? 2 months.",
-    "{何カ月|nankagetsu}? {二カ月|nikagetsu}",
+    "{何ヶ月|nankagetsu}? {二ヶ月|nikagetsu}",
     ""
 ],
 [
@@ -5204,7 +5204,7 @@ Flashcards.initialize([
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
-    "But Roger really loves (you) Miki. (I) think (you) must tell him about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
+    "But Roger really loves (you) Miki. (I) think (you) must tell (him) about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
     "demo _rojaa_ san wa {三木|miki} san ga {本当|hontou} ni {好き|suki} yo. _robaato_ san no koto wo {言わなければ|iwanakereba} naranai to {思う|omou} wa. {大丈夫|daijoubu} yo. {昨夜|yuube} {三人|san'nin} de {遊んだ|asonda} kara.",
     "な adj. + に = adverb\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
@@ -5242,5 +5242,35 @@ Flashcards.initialize([
     "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. Higher prices come.",
     "{福袋|fukubukuro}: {お正月|oshougatsu} ni _depaato_ ya {店|mise} nado de {売ります|urimasu}. {値段|nedan} yori {高い物|takaimono} ga {入って|haitte} imasu.",
     "A や B や C など = A, B, C, etc.\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!)"
+],
+[
+    "Sometimes (I) make Japanese cousine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
+    "{時々|tokidoki} {日本料理|nihon ryouri} wo {作る|tsukuru} koto ga arimasu. {一ヶ月|ikkagetsu}, {雨|ame} ga {降らない|furanai} koto ga arimasu. itsumo _jiinzu_ dakedo, {時々|tokidoki} _sukaato_ wo haku koto ga arimasu.",
+    "verbう + こと + が + ある = sometimes/occasionally ~\nverbない + こと + が + ある = sometimes/occasionally not ~"
+],
+[
+    "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
+    "{今日|kyou} wa ケーティ to {私達|watashitachi} no tame ni kon'na seidai na soubetsukai to {結婚|kekkon} zen'yasari wo hiraite kudasatte arigatou gozaimasu. totemo kansha shiteimasu.",
+    "と: complete list\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "While (we) were in Japan, (we) met many people and learned many things. People in Japan were very kind and have really looked after us.",
+    "{日本|nihon} ni iru {間|aida}, {沢山|takusan} no {人達|hitotachi} ni {会い|ai}, {沢山|takusan} no koto wo {勉強|benkyou} shimashita. {日本|nihon} no {皆さん|minasan} wa totemo {親切|shinsetsu} de {大変|taihen} osewa ni narimashita.",
+    "(PersonA + が) (verbて +) いる + {間|あいだ} (+ PersonB + は) ... = throughout the whole time that A does/did ~, B does/did ~\nな-adj. + で = adj. and ..."
+],
+[
+    "(We) will go to China next month, but (we) still had lots of things (we) want to do and places (we) want to see, so it's a bit of a shame. But one day (we) want to come to Japan again and see everybody.",
+    "{来月|raigetsu} {中国|chuugoku} he {行く|iku} koto ni narimashita ga mada shitai koto ya {見たい|mitai} {所|tokoro} ga atta no de, {少し|sukoshi} zan'nen desu. demo, mata itsuka {日本|nihon} ni {来て|kite}, {皆さん|minasan} to {会いたい|aitai} desu.",
+    "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)\nverb stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nや: incomplete list\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "Thank you for everything.",
+    "iroiro to arigatou gozaimashita.",
+    ""
+],
+[
+    "If (you) have a chance to come to China, please be sure to contact (us).",
+    "moshi {中国|chuugoku} ni {来る|kuru} _chansu_ ga attara, zehi renraku shite kudasai.",
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
 ]
 ])

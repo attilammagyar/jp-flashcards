@@ -151,6 +151,7 @@ verbう + でしょう/だろう = probably (will) do ~
 verbう + ん + じゃない + でしょう + か = politeness
 verbう + か + も + しれません/しれない = might do ~, possibly (will) do ~
 verbう + よう + に + なる = change in habitual action
+verbう + こと + が + ある = sometimes/occasionally ~
 
 Stem
 ----
@@ -206,3 +207,4 @@ verbない + で + X = (did/happened) X without (doing) ~
 verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~
 verbない - い + くて + も + いい + です = don't have to ~
 verbない + {方|ほう} + が + いい + です = shouldn't ~
+verbない + こと + が + ある = sometimes/occasionally not ~

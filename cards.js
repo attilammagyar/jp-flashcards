@@ -4581,7 +4581,7 @@ Flashcards.initialize([
     ],
     [
         "How many months? 2 months.",
-        "{\u4f55\u30ab\u6708|\u306a\u3093\u304b\u3052\u3064}?{\u4e8c\u30ab\u6708|\u306b\u304b\u3052\u3064}",
+        "{\u4f55\u30f6\u6708|\u306a\u3093\u304b\u3052\u3064}?{\u4e8c\u30f6\u6708|\u306b\u304b\u3052\u3064}",
         ""
     ],
     [
@@ -5210,7 +5210,7 @@ Flashcards.initialize([
         "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
     [
-        "But Roger really loves (you) Miki. (I) think (you) must tell him about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
+        "But Roger really loves (you) Miki. (I) think (you) must tell (him) about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
         "\u3067\u3082\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u304c{\u672c\u5f53|\u307b\u3093\u3068\u3046}\u306b{\u597d\u304d|\u3059\u304d}\u3088\u3002\u30ed\u30d0\u30fc\u30c8\u3055\u3093\u306e\u3053\u3068\u3092{\u8a00\u308f\u306a\u3051\u308c\u3070|\u3044\u308f\u306a\u3051\u308c\u3070}\u306a\u3089\u306a\u3044\u3068{\u601d\u3046|\u304a\u3082\u3046}\u308f\u3002{\u5927\u4e08\u592b|\u3060\u3044\u3058\u3087\u3046\u3076}\u3088\u3002{\u6628\u591c|\u3086\u3046\u3079}{\u4e09\u4eba|\u3055\u3093\u306b\u3093}\u3067{\u904a\u3093\u3060|\u3042\u305d\u3093\u3060}\u304b\u3089\u3002",
         "\u306a adj. + \u306b = adverb\nverb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request)\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
@@ -5248,5 +5248,35 @@ Flashcards.initialize([
         "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. Higher prices come.",
         "{\u798f\u888b|\u3075\u304f\u3076\u304f\u308d}:{\u304a\u6b63\u6708|\u304a\u3057\u3087\u3046\u304c\u3064}\u306b\u30c7\u30d1\u30fc\u30c8\u3084{\u5e97|\u307f\u305b}\u306a\u3069\u3067{\u58f2\u308a\u307e\u3059|\u3046\u308a\u307e\u3059}\u3002{\u5024\u6bb5|\u306d\u3060\u3093}\u3088\u308a{\u9ad8\u3044\u7269|\u305f\u304b\u3044\u3082\u306e}\u304c{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
         "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+    ],
+    [
+        "Sometimes (I) make Japanese cousine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
+        "{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u65e5\u672c\u6599\u7406|\u306b\u307b\u3093\u308a\u3087\u3046\u308a}\u3092{\u4f5c\u308b|\u3064\u304f\u308b}\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002{\u4e00\u30f6\u6708|\u3044\u3063\u304b\u3052\u3064}\u3001{\u96e8|\u3042\u3081}\u304c{\u964d\u3089\u306a\u3044|\u3075\u3089\u306a\u3044}\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002\u3044\u3064\u3082\u30b8\u30fc\u30f3\u30ba\u3060\u3051\u3069\u3001{\u6642\u3005|\u3068\u304d\u3069\u304d}\u30b9\u30ab\u30fc\u30c8\u3092\u306f\u304f\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002",
+        "verb\u3046 + \u3053\u3068 + \u304c + \u3042\u308b = sometimes/occasionally ~\nverb\u306a\u3044 + \u3053\u3068 + \u304c + \u3042\u308b = sometimes/occasionally not ~"
+    ],
+    [
+        "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
+        "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f\u30b1\u30fc\u30c6\u30a3\u3068{\u79c1\u9054|\u308f\u305f\u3057\u305f\u3061}\u306e\u305f\u3081\u306b\u3053\u3093\u306a\u305b\u3044\u3060\u3044\u306a\u305d\u3046\u3079\u3064\u304b\u3044\u3068{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}\u305c\u3093\u3084\u3055\u308a\u3092\u3072\u3089\u3044\u3066\u304f\u3060\u3055\u3063\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002\u3068\u3066\u3082\u304b\u3093\u3057\u3083\u3057\u3066\u3044\u307e\u3059\u3002",
+        "\u3068: complete list\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "While (we) were in Japan, (we) met many people and learned many things. People in Japan were very kind and have really looked after us.",
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306b\u3044\u308b{\u9593|\u3042\u3044\u3060}\u3001{\u6ca2\u5c71|\u305f\u304f\u3055\u3093}\u306e{\u4eba\u9054|\u3072\u3068\u305f\u3061}\u306b{\u4f1a\u3044|\u3042\u3044}\u3001{\u6ca2\u5c71|\u305f\u304f\u3055\u3093}\u306e\u3053\u3068\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u307e\u3057\u305f\u3002{\u65e5\u672c|\u306b\u307b\u3093}\u306e{\u7686\u3055\u3093|\u307f\u306a\u3055\u3093}\u306f\u3068\u3066\u3082{\u89aa\u5207|\u3057\u3093\u305b\u3064}\u3067{\u5927\u5909|\u305f\u3044\u3078\u3093}\u304a\u305b\u308f\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
+        "(PersonA + \u304c) (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} (+ PersonB + \u306f) ... = throughout the whole time that A does/did ~, B does/did ~\n\u306a-adj. + \u3067 = adj. and ..."
+    ],
+    [
+        "(We) will go to China next month, but (we) still had lots of things (we) want to do and places (we) want to see, so it's a bit of a shame. But one day (we) want to come to Japan again and see everybody.",
+        "{\u6765\u6708|\u3089\u3044\u3052\u3064}{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u3078{\u884c\u304f|\u3044\u304f}\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u304c\u307e\u3060\u3057\u305f\u3044\u3053\u3068\u3084{\u898b\u305f\u3044|\u307f\u305f\u3044}{\u6240|\u3068\u3053\u308d}\u304c\u3042\u3063\u305f\u306e\u3067\u3001{\u5c11\u3057|\u3059\u3053\u3057}\u3056\u3093\u306d\u3093\u3067\u3059\u3002\u3067\u3082\u3001\u307e\u305f\u3044\u3064\u304b{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3001{\u7686\u3055\u3093|\u307f\u306a\u3055\u3093}\u3068{\u4f1a\u3044\u305f\u3044|\u3042\u3044\u305f\u3044}\u3067\u3059\u3002",
+        "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u3084: incomplete list\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    ],
+    [
+        "Thank you for everything.",
+        "\u3044\u308d\u3044\u308d\u3068\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "If (you) have a chance to come to China, please be sure to contact (us).",
+        "\u3082\u3057{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u6765\u308b|\u304f\u308b}\u30c1\u30e3\u30f3\u30b9\u304c\u3042\u3063\u305f\u3089\u3001\u305c\u3072\u308c\u3093\u3089\u304f\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
     ]
 ])
