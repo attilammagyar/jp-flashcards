@@ -279,3 +279,8 @@
 神社 jinja
 お年玉 otoshidama
 福袋 fukubukuro
+皮膚 hifu
+制服 seifuku
+着替える kigaeru
+むかし mukashi
+正しい tadashii

@@ -5220,7 +5220,7 @@ Flashcards.initialize([
         "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~\nverb\u306a\u3044 + \u3067 + \u304f\u3060\u3055\u3044 = please don't ~"
     ],
     [
-        "I wish you a happy New Year! Please be kind to each other this year as well.",
+        "(I) wish (you) a happy New Year! Please be kind to each other this year as well.",
         "{\u660e\u3051\u307e\u3057\u3066|\u3042\u3051\u307e\u3057\u3066}\u304a\u3081\u3067\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002{\u4eca\u5e74|\u3053\u3068\u3057}\u3082\u3088\u308d\u3057\u304f{\u304a\u9858\u3044\u3057\u307e\u3059|\u304a\u306d\u304c\u3044\u3057\u307e\u3059}\u3002",
         ""
     ],
@@ -5278,5 +5278,20 @@ Flashcards.initialize([
         "If (you) have a chance to come to China, please be sure to contact (us).",
         "\u3082\u3057{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u6765\u308b|\u304f\u308b}\u30c1\u30e3\u30f3\u30b9\u304c\u3042\u3063\u305f\u3089\u3001\u305c\u3072\u308c\u3093\u3089\u304f\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
         "(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+    ],
+    [
+        "(I) start work after changing into (my) uniform.",
+        "{\u5236\u670d|\u305b\u3044\u3075\u304f}\u306b{\u7740\u66ff\u3048\u3066|\u304d\u304c\u3048\u3066}\u304b\u3089{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092{\u59cb\u3081\u307e\u3059|\u306f\u3058\u3081\u307e\u3059}\u3002",
+        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
+    ],
+    [
+        "I went to Hiroshima long ago.",
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u3080\u304b\u3057{\u5e83\u5cf6|\u3072\u308d\u3057\u307e}\u306b{\u884c\u3063\u305f|\u3044\u3063\u305f}\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002",
+        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+    ],
+    [
+        "(I) haven't even once climbed Mt. Fuji yet.",
+        "\u307e\u3060{\u4e00\u5ea6|\u3044\u3061\u3069}\u3082{\u5bcc\u58eb\u5c71|\u3075\u3058\u3055\u3093}\u306b{\u767b\u3063\u305f|\u306e\u307c\u3063\u305f}\u3053\u3068\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
+        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
     ]
 ])

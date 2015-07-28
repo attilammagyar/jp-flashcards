@@ -5214,7 +5214,7 @@ Flashcards.initialize([
     "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~"
 ],
 [
-    "I wish you a happy New Year! Please be kind to each other this year as well.",
+    "(I) wish (you) a happy New Year! Please be kind to each other this year as well.",
     "{明けまして|akemashite} omedetou gozaimasu. {今年|kotoshi} mo yoroshiku {お願いします|onegaishimasu}.",
     ""
 ],
@@ -5272,5 +5272,20 @@ Flashcards.initialize([
     "If (you) have a chance to come to China, please be sure to contact (us).",
     "moshi {中国|chuugoku} ni {来る|kuru} _chansu_ ga attara, zehi renraku shite kudasai.",
     "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
+],
+[
+    "(I) start work after changing into (my) uniform.",
+    "{制服|seifuku} ni {着替えて|kigaete} kara {仕事|shigoto} wo {始めます|hajimemasu}.",
+    "verbて + から = after doing ~, since doing ~"
+],
+[
+    "I went to Hiroshima long ago.",
+    "{私|watashi} wa mukashi {広島|hiroshima} ni {行った|itta} koto ga arimasu.",
+    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+],
+[
+    "(I) haven't even once climbed Mt. Fuji yet.",
+    "mada {一度|ichido} mo {富士山|fujisan} ni {登った|nobotta} koto ga arimasen.",
+    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
 ]
 ])
