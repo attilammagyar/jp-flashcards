@@ -1131,7 +1131,7 @@ Flashcards.initialize([
 ],
 [
     "Turn right at those traffic lights and go straight ahead please.",
-    "ano shingou wo {右|migi} ni {曲がって|magatte}, massugu {行って|itte} kudasai.",
+    "ano {信号|shingou} wo {右|migi} ni {曲がって|magatte}, massugu {行って|itte} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -1256,7 +1256,7 @@ Flashcards.initialize([
 ],
 [
     "Please turn right at the traffic lights.",
-    "shingou wo {右|migi} ni {曲がって|magatte} kudasai.",
+    "{信号|shingou} wo {右|migi} ni {曲がって|magatte} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -1266,27 +1266,27 @@ Flashcards.initialize([
 ],
 [
     "Please cross the footbridge.",
-    "hodou kyou wo {渡って|watatte} kudasai.",
+    "{歩道橋|hodoukyou} wo {渡って|watatte} kudasai.",
     "verbて + ください = request"
 ],
 [
     "Please cross the road.",
-    "michi wo {渡って|watatte} kudasai.",
+    "{道|michi} wo {渡って|watatte} kudasai.",
     "verbて + ください = request"
 ],
 [
     "Please turn left at the first traffic lights.",
-    "{一つ目|hitotsume} no shingou wo {左|hidari} ni {曲がって|magatte} kudasai.",
+    "{一つ目|hitotsume} no {信号|shingou} wo {左|hidari} ni {曲がって|magatte} kudasai.",
     "verbて + ください = request"
 ],
 [
     "Please turn left at the next traffic lights.",
-    "{次|tsugi} no shingou wo {左|hidari} ni {曲がって|magatte} kudasai.",
+    "{次|tsugi} no {信号|shingou} wo {左|hidari} ni {曲がって|magatte} kudasai.",
     "verbて + ください = request"
 ],
 [
     "Go straight ahead, (then) turn right at the second traffic lights.",
-    "massugu {行って|itte}, {二つ目|futatsume} no shingou wo {右|migi} ni {曲がって|magatte} kudasai.",
+    "massugu {行って|itte}, {二つ目|futatsume} no {信号|shingou} wo {右|migi} ni {曲がって|magatte} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -1296,12 +1296,12 @@ Flashcards.initialize([
 ],
 [
     "Turn right at the second traffic lights please.",
-    "{二つ目|futatsume} no shingou wo {右|migi} ni {曲がって|magatte} kudasai.",
+    "{二つ目|futatsume} no {信号|shingou} wo {右|migi} ni {曲がって|magatte} kudasai.",
     "verbて + ください = request"
 ],
 [
     "Cross the footbridge, (then) turn left at the corner please.",
-    "hodou kyou wo {渡って|watatte}, {角|kado} wo {左|hidari} ni {曲がって|magatte} kudasai.",
+    "{歩道橋|hodoukyou} wo {渡って|watatte}, {角|kado} wo {左|hidari} ni {曲がって|magatte} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -1426,12 +1426,12 @@ Flashcards.initialize([
 ],
 [
     "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
-    "{二つ目|futatsume} no shingou wo {左|hidari} ni {曲がって|magatte} kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. gekijou no {隣|tonari} desu.",
+    "{二つ目|futatsume} no {信号|shingou} wo {左|hidari} ni {曲がって|magatte} kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. gekijou no {隣|tonari} desu.",
     "verbて + ください = request"
 ],
 [
     "Cross (over) the footbridge (and) turn left at the corner please.",
-    "hodou kyou wo {渡って|watatte}, {角|kado} wo {左|hidari} ni {曲がって|magatte} kudasai.",
+    "{歩道橋|hodoukyou} wo {渡って|watatte}, {角|kado} wo {左|hidari} ni {曲がって|magatte} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -2006,7 +2006,7 @@ Flashcards.initialize([
 ],
 [
     "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
-    "oosaka {行き|yuki} no {切符|kippu} wo {ニ|ni} {枚|mai} kudasai. katamichi desu ka. oufuku desu ka. katamichi desu.",
+    "oosaka {行き|yuki} no {切符|kippu} wo {ニ|ni} {枚|mai} kudasai. {片道|katamichi} desu ka. oufuku desu ka. {片道|katamichi} desu.",
     ""
 ],
 [
@@ -2021,7 +2021,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-    "oosaka made shinkansen de {行きました|ikimashita}. katamichi no {切符|kippu} wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
+    "oosaka made shinkansen de {行きました|ikimashita}. {片道|katamichi} no {切符|kippu} wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
