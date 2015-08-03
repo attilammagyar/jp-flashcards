@@ -5287,5 +5287,10 @@ Flashcards.initialize([
     "(I) haven't even once climbed Mt. Fuji yet.",
     "mada {一度|ichido} mo {富士山|fujisan} ni {登った|nobotta} koto ga arimasen.",
     "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+],
+[
+    "How did you come? (I) came by bus. {plain} Why did you come? Because (I'm) free. {plain, colloquial}",
+    "{何|nani} de kita? _basu_ de kita. {何で|nande} kita? {暇|hima} da kara.",
+    "{何で|なんで}: colloquial \"why\", {何|なに}で: by what, with what?"
 ]
 ])

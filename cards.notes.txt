@@ -10,6 +10,7 @@ A や B や C など = A, B, C, etc.
 わ at end of sentence = women make informal statement softer or emotional, men may use it after ~ます/です
 の at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)
 とか links representative examples of a class (A and B, and other things)
+{何で|なんで}: colloquial "why", {何|なに}で: by what, with what?
 
 Adjectives
 ==========
