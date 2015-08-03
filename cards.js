@@ -5295,7 +5295,7 @@ Flashcards.initialize([
         "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
     ],
     [
-        "How did you come? (I) came by bus. {plain} Why did you come? Because (I'm) free. {plain, colloquial}",
+        "How did (you) come? (I) came by bus. {plain} Why did (you) come? Because (I'm) free. {plain, colloquial}",
         "{\u4f55|\u306a\u306b}\u3067\u304d\u305f?\u30d0\u30b9\u3067\u304d\u305f\u3002{\u4f55\u3067|\u306a\u3093\u3067}\u304d\u305f?{\u6687|\u3072\u307e}\u3060\u304b\u3089\u3002",
         "{\u4f55\u3067|\u306a\u3093\u3067}: colloquial \"why\", {\u4f55|\u306a\u306b}\u3067: by what, with what?"
     ]
