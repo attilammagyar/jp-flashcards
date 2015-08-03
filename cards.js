@@ -1586,7 +1586,7 @@ Flashcards.initialize([
     ],
     [
         "hair, long, short, shoulder-length",
-        "\u304b\u307f\u3001{\u9577\u3044|\u306a\u304c\u3044}\u3001{\u77ed\u3044|\u307f\u3058\u304b\u3044}\u3001\u304b\u305f\u3050\u3089\u3044",
+        "{\u9aea|\u304b\u307f}\u3001{\u9577\u3044|\u306a\u304c\u3044}\u3001{\u77ed\u3044|\u307f\u3058\u304b\u3044}\u3001\u304b\u305f\u3050\u3089\u3044",
         ""
     ],
     [
@@ -1601,7 +1601,7 @@ Flashcards.initialize([
     ],
     [
         "I am tall (with) blue eyes and blonde hair.",
-        "{\u79c1|\u308f\u305f\u3057}\u306f{\u80cc|\u305b}\u304c{\u9ad8\u304f\u3066|\u305f\u304b\u304f\u3066}\u3001{\u76ee|\u3081}\u304c{\u9752\u304f\u3066|\u3042\u304a\u304f\u3066}\u3001\u304b\u307f\u304c\u304d\u3093\u3071\u3064\u3067\u3059\u3002",
+        "{\u79c1|\u308f\u305f\u3057}\u306f{\u80cc|\u305b}\u304c{\u9ad8\u304f\u3066|\u305f\u304b\u304f\u3066}\u3001{\u76ee|\u3081}\u304c{\u9752\u304f\u3066|\u3042\u304a\u304f\u3066}\u3001{\u9aea|\u304b\u307f}\u304c\u304d\u3093\u3071\u3064\u3067\u3059\u3002",
         ""
     ],
     [
@@ -1611,7 +1611,7 @@ Flashcards.initialize([
     ],
     [
         "(She) has long, black hair.",
-        "\u304b\u307f\u304c{\u9577\u304f\u3066|\u306a\u304c\u304f\u3066}\u3001{\u9ed2\u3044|\u304f\u308d\u3044}\u3067\u3059\u3002",
+        "{\u9aea|\u304b\u307f}\u304c{\u9577\u304f\u3066|\u306a\u304c\u304f\u3066}\u3001{\u9ed2\u3044|\u304f\u308d\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -1706,7 +1706,7 @@ Flashcards.initialize([
     ],
     [
         "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
-        "{\u80cc|\u305b}\u304c\u3075\u3064\u3046\u3067\u3001\u304b\u307f\u304c{\u9577\u304f\u3066|\u306a\u304c\u304f\u3066}{\u8336\u8272|\u3061\u3083\u3044\u308d}\u3067\u3059\u3002{\u76ee|\u3081}\u3082{\u8336\u8272|\u3061\u3083\u3044\u308d}\u3067\u3059\u3002{\u9854|\u304b\u304a}\u304c{\u4e38\u304f\u3066|\u307e\u308b\u304f\u3066}\u3001{\u9f3b|\u306f\u306a}\u304c{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}\u3067\u3059\u3002",
+        "{\u80cc|\u305b}\u304c\u3075\u3064\u3046\u3067\u3001{\u9aea|\u304b\u307f}\u304c{\u9577\u304f\u3066|\u306a\u304c\u304f\u3066}{\u8336\u8272|\u3061\u3083\u3044\u308d}\u3067\u3059\u3002{\u76ee|\u3081}\u3082{\u8336\u8272|\u3061\u3083\u3044\u308d}\u3067\u3059\u3002{\u9854|\u304b\u304a}\u304c{\u4e38\u304f\u3066|\u307e\u308b\u304f\u3066}\u3001{\u9f3b|\u306f\u306a}\u304c{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}\u3067\u3059\u3002",
         "{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044} = physically big, {\u5927\u304d\u306a|\u304a\u304a\u304d\u306a} = physical or abstract size (noun modifier, only before nouns)"
     ],
     [
@@ -3231,7 +3231,7 @@ Flashcards.initialize([
     ],
     [
         "grandfather {In-group, out-group}",
-        "\u305d\u3075\u3001\u304a\u3058\u3044\u3055\u3093",
+        "{\u7956\u7236|\u305d\u3075}\u3001{\u304a\u7956\u7236\u3055\u3093|\u304a\u3058\u3044\u3055\u3093}",
         ""
     ],
     [
@@ -3266,7 +3266,7 @@ Flashcards.initialize([
     ],
     [
         "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
-        "{\u9031\u672b|\u3057\u3085\u3046\u307e\u3064}\u306b{\u5927\u62b5|\u305f\u3044\u3066\u3044}{\u4f55|\u306a\u306b}\u3092\u3057\u3066\u3044\u307e\u3059\u304b\u3002{\u6642\u3005|\u3068\u304d\u3069\u304d}\u305d\u3075\u3068{\u6563\u6b69|\u3055\u3093\u307d}\u3057\u307e\u3059\u3002",
+        "{\u9031\u672b|\u3057\u3085\u3046\u307e\u3064}\u306b{\u5927\u62b5|\u305f\u3044\u3066\u3044}{\u4f55|\u306a\u306b}\u3092\u3057\u3066\u3044\u307e\u3059\u304b\u3002{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u7956\u7236|\u305d\u3075}\u3068{\u6563\u6b69|\u3055\u3093\u307d}\u3057\u307e\u3059\u3002",
         "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
     [
@@ -5250,7 +5250,7 @@ Flashcards.initialize([
         "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
     ],
     [
-        "Sometimes (I) make Japanese cousine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
+        "Sometimes (I) make Japanese cuisine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
         "{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u65e5\u672c\u6599\u7406|\u306b\u307b\u3093\u308a\u3087\u3046\u308a}\u3092{\u4f5c\u308b|\u3064\u304f\u308b}\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002{\u4e00\u30f6\u6708|\u3044\u3063\u304b\u3052\u3064}\u3001{\u96e8|\u3042\u3081}\u304c{\u964d\u3089\u306a\u3044|\u3075\u3089\u306a\u3044}\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002\u3044\u3064\u3082\u30b8\u30fc\u30f3\u30ba\u3060\u3051\u3069\u3001{\u6642\u3005|\u3068\u304d\u3069\u304d}\u30b9\u30ab\u30fc\u30c8\u3092\u306f\u304f\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002",
         "verb\u3046 + \u3053\u3068 + \u304c + \u3042\u308b = sometimes/occasionally ~\nverb\u306a\u3044 + \u3053\u3068 + \u304c + \u3042\u308b = sometimes/occasionally not ~"
     ],

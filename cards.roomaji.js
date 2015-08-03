@@ -1586,7 +1586,7 @@ Flashcards.initialize([
 ],
 [
     "hair, long, short, shoulder-length",
-    "kami, {長い|nagai}, {短い|mijikai}, kata gurai",
+    "{髪|kami}, {長い|nagai}, {短い|mijikai}, kata gurai",
     ""
 ],
 [
@@ -1601,7 +1601,7 @@ Flashcards.initialize([
 ],
 [
     "I am tall (with) blue eyes and blonde hair.",
-    "{私|watashi} wa {背|se} ga {高くて|takakute}, {目|me} ga {青くて|aokute}, kami ga kinpatsu desu.",
+    "{私|watashi} wa {背|se} ga {高くて|takakute}, {目|me} ga {青くて|aokute}, {髪|kami} ga kinpatsu desu.",
     ""
 ],
 [
@@ -1611,7 +1611,7 @@ Flashcards.initialize([
 ],
 [
     "(She) has long, black hair.",
-    "kami ga {長くて|nagakute}, {黒い|kuroi} desu.",
+    "{髪|kami} ga {長くて|nagakute}, {黒い|kuroi} desu.",
     ""
 ],
 [
@@ -1706,7 +1706,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
-    "{背|se} ga futsuu de, kami ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga {丸くて|marukute}, {鼻|hana} ga {大きい|ookii} desu.",
+    "{背|se} ga futsuu de, {髪|kami} ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga {丸くて|marukute}, {鼻|hana} ga {大きい|ookii} desu.",
     "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
@@ -3231,7 +3231,7 @@ Flashcards.initialize([
 ],
 [
     "grandfather {In-group, out-group}",
-    "sofu, ojiisan",
+    "{祖父|sofu}, {お祖父さん|ojiisan}",
     ""
 ],
 [
@@ -3266,7 +3266,7 @@ Flashcards.initialize([
 ],
 [
     "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
-    "{週末|shuumatsu} ni {大抵|taitei} {何|nani} wo shite imasu ka. {時々|tokidoki} sofu to {散歩|sanpo} shimasu.",
+    "{週末|shuumatsu} ni {大抵|taitei} {何|nani} wo shite imasu ka. {時々|tokidoki} {祖父|sofu} to {散歩|sanpo} shimasu.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -5244,7 +5244,7 @@ Flashcards.initialize([
     "A や B や C など = A, B, C, etc.\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!)"
 ],
 [
-    "Sometimes (I) make Japanese cousine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
+    "Sometimes (I) make Japanese cuisine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
     "{時々|tokidoki} {日本料理|nihon ryouri} wo {作る|tsukuru} koto ga arimasu. {一ヶ月|ikkagetsu}, {雨|ame} ga {降らない|furanai} koto ga arimasu. itsumo _jiinzu_ dakedo, {時々|tokidoki} _sukaato_ wo haku koto ga arimasu.",
     "verbう + こと + が + ある = sometimes/occasionally ~\nverbない + こと + が + ある = sometimes/occasionally not ~"
 ],
