@@ -3601,7 +3601,7 @@ Flashcards.initialize([
 ],
 [
     "(You're) busy, (you're) drained, (you) always make excuses, don't you?",
-    "{忙しくて|isogashikute} toka, darukute toka, {何時も|itsumo} {言いわけ|iiwake} wo {言います|iimasu} ne.",
+    "{忙しくて|isogashikute} toka, darukute toka, {何時も|itsumo} {言い訳|iiwake} wo {言います|iimasu} ne.",
     "とか links representative examples of a class (A and B, and other things)"
 ],
 [
@@ -3621,7 +3621,7 @@ Flashcards.initialize([
 ],
 [
     "to make an excuse {2}",
-    "{言いわけ|iiwake} suru, {言いわけ|iiwake} {言う|iu}",
+    "{言い訳|iiwake} suru, {言い訳|iiwake} {言う|iu}",
     ""
 ],
 [
@@ -5195,7 +5195,7 @@ Flashcards.initialize([
 ],
 [
     "(You) should get married while the weather isn't hot, shouldn't you? But (I) think if (you) do (it) suddenly, (that's) not good. Don't make excuses.",
-    "{天気|tenki} ga {暑くない|atsukunai} uchi ni {結婚|kekkon} shita hou ga ii desu ne. shikashi, {急|kyuu} ni shitara yokunai to {思います|omoimasu}. iiwake shinai de kudasai.",
+    "{天気|tenki} ga {暑くない|atsukunai} uchi ni {結婚|kekkon} shita hou ga ii desu ne. shikashi, {急|kyuu} ni shitara yokunai to {思います|omoimasu}. {言い訳|iiwake} shinai de kudasai.",
     "verbない + {内|うち} + に = before ~, while not ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\n(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbない + で + ください = please don't ~"
 ],
 [
@@ -5292,5 +5292,20 @@ Flashcards.initialize([
     "How did (you) come? (I) came by bus. {plain} Why did (you) come? Because (I'm) free. {plain, colloquial}",
     "{何|nani} de kita? _basu_ de kita. {何で|nande} kita? {暇|hima} da kara.",
     "{何で|なんで}: colloquial \"why\", {何|なに}で: by what, with what?"
+],
+[
+    "In Hungarian, (this character) is read as \"kukac\" which means \"worm\".",
+    "_hangarii_ {語|go} de wa, 「{虫|mushi}」 to iu {意味|imi} no 「*kukac*」 to {読みます|yomimasu}.",
+    ""
+],
+[
+    "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
+    "{一生懸命|isshoukenmei} {作文|sakubun} wo {書いて|kaite} imasu ga, yappari mada {多く|ooku} no {言葉|kotoba} wo {知らない|shiranai} shi, {時間|jikan} mo {少し|sukoshi} dake shika arimasen. Aa, itsumo {言い訳|iiwake} desu ne.",
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I) might have gained around 2 kilos. (I've) gained even 2 kilos. (I) might have gained as much as 2 kilos. (I've) gained as much as 2 kilos. (I've) gained at least 2 kilos.",
+    "2 _kiro_ gurai {太った|futotta} ka mo shiremasen. 2 _kiro_ mo {太りました|futorimashita}. 2 _kiro_ hodo {太った|futotta} ka mo shiremasen. 2 _kiro_ hodo {太りました|futorimashita}. 2 _kiro_ wa {太りました|futorimashita}.",
+    "verbた + か + も + しれません/しれない = might have done ~"
 ]
 ])
