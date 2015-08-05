@@ -2706,7 +2706,7 @@ Flashcards.initialize([
 ],
 [
     "Inside the youth hostel, wearing shoes is not allowed.",
-    "_yuusu hosuteru_ no {中|naka} de wa {靴|kutsu} wo haite wa ikemasen.",
+    "_yuusu hosuteru_ no {中|naka} de wa {靴|kutsu} wo {佩いて|haite} wa ikemasen.",
     "verbて + は + いけません = doing verb is not allowed\nはく -> はいて"
 ],
 [
@@ -5245,7 +5245,7 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) make Japanese cuisine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
-    "{時々|tokidoki} {日本料理|nihon ryouri} wo {作る|tsukuru} koto ga arimasu. {一ヶ月|ikkagetsu}, {雨|ame} ga {降らない|furanai} koto ga arimasu. itsumo _jiinzu_ dakedo, {時々|tokidoki} _sukaato_ wo haku koto ga arimasu.",
+    "{時々|tokidoki} {日本料理|nihon ryouri} wo {作る|tsukuru} koto ga arimasu. {一ヶ月|ikkagetsu}, {雨|ame} ga {降らない|furanai} koto ga arimasu. itsumo _jiinzu_ dakedo, {時々|tokidoki} _sukaato_ wo {佩く|haku} koto ga arimasu.",
     "verbう + こと + が + ある = sometimes/occasionally ~\nverbない + こと + が + ある = sometimes/occasionally not ~"
 ],
 [
