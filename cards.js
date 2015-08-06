@@ -5091,7 +5091,7 @@ Flashcards.initialize([
     ],
     [
         "Please drink the tea while (it's) warm.",
-        "{\u7d05\u8336|\u3053\u3046\u3061\u3083}\u304c{\u6696\u304b\u3044|\u3042\u305f\u305f\u304b\u3044}\u3046\u3061\u306b{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u304f\u3060\u3055\u3044\u3002",
+        "{\u7d05\u8336|\u3053\u3046\u3061\u3083}\u304c{\u6e29\u304b\u3044|\u3042\u305f\u305f\u304b\u3044}\u3046\u3061\u306b{\u98f2\u3093\u3067|\u306e\u3093\u3067}\u304f\u3060\u3055\u3044\u3002",
         "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
     ],
     [
@@ -5142,17 +5142,17 @@ Flashcards.initialize([
     [
         "I gave a book to Mr. Yamada. {plain} I gave flowers to my older sister. {plain} Mr. Yamada gave flowers to Ms. Natsuko. {plain} My older sister gave Mr. Yamada a book. {plain}",
         "{\u79c1|\u308f\u305f\u3057}\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u672c|\u307b\u3093}\u3092\u3042\u3052\u305f\u3002{\u79c1|\u308f\u305f\u3057}\u306f{\u59c9|\u3042\u306d}\u306b{\u82b1|\u306f\u306a}\u3092\u3042\u3052\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306b{\u82b1|\u306f\u306a}\u3092\u3042\u3052\u305f\u3002{\u59c9|\u3042\u306d}\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u672c|\u307b\u3093}\u3092\u3042\u3052\u305f\u3002",
-        "X \u306f Y \u306b Z \u3092 \u3042\u3052\u308b = X(out/in) gives Z to Y(out) (never to superiors)"
+        "X \u306f/\u304c Y \u306b Z \u3092 \u3042\u3052\u308b = X(out/in) gives Z to Y(out) (never to superiors)"
     ],
     [
         "Mr. Yamada gave me a book. {plain} My older sister gave me a book. {plain} Mr. Yamada gave flowers to my older sister. {plain}",
         "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u79c1|\u308f\u305f\u3057}\u306b{\u672c|\u307b\u3093}\u3092\u304f\u308c\u305f\u3002{\u59c9|\u3042\u306d}\u306f{\u79c1|\u308f\u305f\u3057}\u306b{\u672c|\u307b\u3093}\u3092\u304f\u308c\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u59c9|\u3042\u306d}\u306b{\u82b1|\u306f\u306a}\u3092\u304f\u308c\u305f\u3002",
-        "X \u306f Y \u306b Z \u3092 \u304f\u308c\u308b = X(out) gives Z to Y(in)"
+        "X \u306f/\u304c Y \u306b Z \u3092 \u304f\u308c\u308b = X(out) gives Z to Y(in)"
     ],
     [
         "Mr. Yamada got a book from my older sister. {plain} I got a book from Mr. Yamada. {plain}",
         "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u59c9|\u3042\u306d}\u306b{\u672c|\u307b\u3093}\u3092\u3082\u3089\u3063\u305f\u3002{\u79c1|\u308f\u305f\u3057}\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u672c|\u307b\u3093}\u3092\u3082\u3089\u3063\u305f\u3002",
-        "X \u306f Y \u306b Z \u3092 \u3082\u3089\u3046 = X receives Z from Y"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 Z \u3092 \u3082\u3089\u3046 = X receives Z from Y"
     ],
     [
         "(My) friends waited for me. {grateful, plain} Mr. Yamada helped my younger brother. {grateful, plain}",
@@ -5242,7 +5242,7 @@ Flashcards.initialize([
     [
         "New Year's gift: money children get from adults on New Year's Day",
         "{\u304a\u5e74\u7389|\u304a\u3068\u3057\u3060\u307e}:{\u304a\u6b63\u6708|\u304a\u3057\u3087\u3046\u304c\u3064}\u306b{\u5b50\u4f9b|\u3053\u3069\u3082}\u304c{\u5927\u4eba|\u304a\u3068\u306a}\u306b\u3082\u3089\u3046{\u304a\u91d1|\u304a\u304b\u306d}",
-        "X \u306f Y \u306b Z \u3092 \u3082\u3089\u3046 = X receives Z from Y"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 Z \u3092 \u3082\u3089\u3046 = X receives Z from Y"
     ],
     [
         "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. Higher prices come.",
@@ -5313,5 +5313,25 @@ Flashcards.initialize([
         "(I) might have gained around 2 kilos. (I've) gained even 2 kilos. (I) might have gained as much as 2 kilos. (I've) gained as much as 2 kilos. (I've) gained at least 2 kilos.",
         "2\u30ad\u30ed\u3050\u3089\u3044{\u592a\u3063\u305f|\u3075\u3068\u3063\u305f}\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u30022\u30ad\u30ed\u3082{\u592a\u308a\u307e\u3057\u305f|\u3075\u3068\u308a\u307e\u3057\u305f}\u30022\u30ad\u30ed\u307b\u3069{\u592a\u3063\u305f|\u3075\u3068\u3063\u305f}\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u30022\u30ad\u30ed\u307b\u3069{\u592a\u308a\u307e\u3057\u305f|\u3075\u3068\u308a\u307e\u3057\u305f}\u30022\u30ad\u30ed\u306f{\u592a\u308a\u307e\u3057\u305f|\u3075\u3068\u308a\u307e\u3057\u305f}\u3002",
         "verb\u305f + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might have done ~"
+    ],
+    [
+        "(I) got this notebook from the school. (I) received a scholarship from the Brazilian government.",
+        "\u3053\u306e\u30ce\u30fc\u30c8\u306f\u3001{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u304b\u3089\u3082\u3089\u3044\u307e\u3057\u305f\u3002\u30d6\u30e9\u30b8\u30eb\u305b\u3044\u3075\u304b\u3089\u3001{\u5968\u5b66\u91d1|\u3057\u3087\u3046\u304c\u304f\u304d\u3093}\u3092\u3082\u3089\u3044\u307e\u3057\u305f\u3002",
+        "X \u306f/\u304c Y \u304b\u3089 Z \u3092 \u3082\u3089\u3046 = X(in) receives Z from Y (school, workplace, organization, etc.)"
+    ],
+    [
+        "(I) water the flowers twice every day. \"Have (you) fed Tama, the cat already?\" \"Oh, not yet.\" {plain}",
+        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u4e8c\u56de|\u306b\u304b\u3044}\u3001{\u82b1|\u306f\u306a}\u306b{\u6c34|\u307f\u305a}\u3084\u308a\u307e\u3059\u3002\u300c\u3082\u3046{\u732b|\u306d\u3053}\u306e\u30bf\u30de\u306b\u3048\u3055\u3092\u3084\u3063\u305f?\u300d\u300c\u3042\u3001\u307e\u3060\u300d",
+        "X \u306f/\u304c Y \u306b Z \u3092 \u3084\u308b = X gives Z to Y(animal, plant)"
+    ],
+    [
+        "The book (I) got from (my) friend is very interesting. {plain}",
+        "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304b\u3089\u3082\u3089\u3063\u305f{\u672c|\u307b\u3093}\u306f\u3068\u3066\u3082{\u9762\u767d\u3044|\u304a\u3082\u3057\u308d\u3044}\u3002",
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 Z \u3092 \u3082\u3089\u3046 = X receives Z from Y"
+    ],
+    [
+        "(I) have not drawn a written fortune at a shrine yet.",
+        "\u307e\u3060{\u795e\u793e|\u3058\u3093\u3058\u3083}\u3067\u304a\u307f\u304f\u3058\u3092{\u5f15\u3044\u305f|\u3072\u3044\u305f}\u3053\u3068\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
+        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
     ]
 ])

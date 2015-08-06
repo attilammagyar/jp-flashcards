@@ -5085,7 +5085,7 @@ Flashcards.initialize([
 ],
 [
     "Please drink the tea while (it's) warm.",
-    "{紅茶|koucha} ga {暖かい|atatakai} uchi ni {飲んで|nonde} kudasai.",
+    "{紅茶|koucha} ga {温かい|atatakai} uchi ni {飲んで|nonde} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -5136,17 +5136,17 @@ Flashcards.initialize([
 [
     "I gave a book to Mr. Yamada. {plain} I gave flowers to my older sister. {plain} Mr. Yamada gave flowers to Ms. Natsuko. {plain} My older sister gave Mr. Yamada a book. {plain}",
     "{私|watashi} wa {山田|yamada} san ni {本|hon} wo ageta. {私|watashi} wa {姉|ane} ni {花|hana} wo ageta. {山田|yamada} san wa {夏子|natsuko} san ni {花|hana} wo ageta. {姉|ane} wa {山田|yamada} san ni {本|hon} wo ageta.",
-    "X は Y に Z を あげる = X(out/in) gives Z to Y(out) (never to superiors)"
+    "X は/が Y に Z を あげる = X(out/in) gives Z to Y(out) (never to superiors)"
 ],
 [
     "Mr. Yamada gave me a book. {plain} My older sister gave me a book. {plain} Mr. Yamada gave flowers to my older sister. {plain}",
     "{山田|yamada} san wa {私|watashi} ni {本|hon} wo kureta. {姉|ane} wa {私|watashi} ni {本|hon} wo kureta. {山田|yamada} san wa {姉|ane} ni {花|hana} wo kureta.",
-    "X は Y に Z を くれる = X(out) gives Z to Y(in)"
+    "X は/が Y に Z を くれる = X(out) gives Z to Y(in)"
 ],
 [
     "Mr. Yamada got a book from my older sister. {plain} I got a book from Mr. Yamada. {plain}",
     "{山田|yamada} san wa {姉|ane} ni {本|hon} wo moratta. {私|watashi} wa {山田|yamada} san ni {本|hon} wo moratta.",
-    "X は Y に Z を もらう = X receives Z from Y"
+    "X は/が Y に/から Z を もらう = X receives Z from Y"
 ],
 [
     "(My) friends waited for me. {grateful, plain} Mr. Yamada helped my younger brother. {grateful, plain}",
@@ -5236,7 +5236,7 @@ Flashcards.initialize([
 [
     "New Year's gift: money children get from adults on New Year's Day",
     "{お年玉|otoshidama}: {お正月|oshougatsu} ni {子供|kodomo} ga {大人|otona} ni morau {お金|okane}",
-    "X は Y に Z を もらう = X receives Z from Y"
+    "X は/が Y に/から Z を もらう = X receives Z from Y"
 ],
 [
     "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. Higher prices come.",
@@ -5307,5 +5307,25 @@ Flashcards.initialize([
     "(I) might have gained around 2 kilos. (I've) gained even 2 kilos. (I) might have gained as much as 2 kilos. (I've) gained as much as 2 kilos. (I've) gained at least 2 kilos.",
     "2 _kiro_ gurai {太った|futotta} ka mo shiremasen. 2 _kiro_ mo {太りました|futorimashita}. 2 _kiro_ hodo {太った|futotta} ka mo shiremasen. 2 _kiro_ hodo {太りました|futorimashita}. 2 _kiro_ wa {太りました|futorimashita}.",
     "verbた + か + も + しれません/しれない = might have done ~"
+],
+[
+    "(I) got this notebook from the school. (I) received a scholarship from the Brazilian government.",
+    "kono _nooto_ wa, {学校|gakkou} kara moraimashita. _burajiru_ seifu kara, {奨学金|shougakukin} wo moraimashita.",
+    "X は/が Y から Z を もらう = X(in) receives Z from Y (school, workplace, organization, etc.)"
+],
+[
+    "(I) water the flowers twice every day. \"Have (you) fed Tama, the cat already?\" \"Oh, not yet.\" {plain}",
+    "{毎日|mainichi} {二回|nikai}, {花|hana} ni {水|mizu} yarimasu. 「mou {猫|neko} no _tama_ ni esa wo yatta?」 「a, mada」",
+    "X は/が Y に Z を やる = X gives Z to Y(animal, plant)"
+],
+[
+    "The book (I) got from (my) friend is very interesting. {plain}",
+    "{友達|tomodachi} kara moratta {本|hon} wa totemo {面白い|omoshiroi}.",
+    "X は/が Y に/から Z を もらう = X receives Z from Y"
+],
+[
+    "(I) have not drawn a written fortune at a shrine yet.",
+    "mada {神社|jinja} de omikuji wo {引いた|hiita} koto ga arimasen.",
+    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
 ]
 ])
