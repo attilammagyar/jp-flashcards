@@ -4125,7 +4125,7 @@ Flashcards.initialize([
     "verbた + {時|とき} = when did/have done ~"
 ],
 [
-    "(I) pain 2 million yen for the car. {plain}",
+    "(I) paid 2 million yen for the car. {plain}",
     "{車|kuruma} ni {二百万円|nihyakumanen} {払った|haratta}.",
     ""
 ],
@@ -5315,7 +5315,7 @@ Flashcards.initialize([
 ],
 [
     "(I) water the flowers twice every day. \"Have (you) fed Tama, the cat already?\" \"Oh, not yet.\" {plain}",
-    "{毎日|mainichi} {二回|nikai}, {花|hana} ni {水|mizu} yarimasu. 「mou {猫|neko} no _tama_ ni esa wo yatta?」 「a, mada」",
+    "{毎日|mainichi} {二回|nikai}, {花|hana} ni {水|mizu} wo yarimasu. 「mou {猫|neko} no _tama_ ni esa wo yatta?」 「a, mada」",
     "X は/が Y に Z を やる = X gives Z to Y(animal, plant)"
 ],
 [

@@ -4125,7 +4125,7 @@ Flashcards.initialize([
         "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
     ],
     [
-        "(I) pain 2 million yen for the car. {plain}",
+        "(I) paid 2 million yen for the car. {plain}",
         "{\u8eca|\u304f\u308b\u307e}\u306b{\u4e8c\u767e\u4e07\u5186|\u306b\u3072\u3083\u304f\u307e\u306d\u3093}{\u6255\u3063\u305f|\u306f\u3089\u3063\u305f}\u3002",
         ""
     ],
@@ -5321,7 +5321,7 @@ Flashcards.initialize([
     ],
     [
         "(I) water the flowers twice every day. \"Have (you) fed Tama, the cat already?\" \"Oh, not yet.\" {plain}",
-        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u4e8c\u56de|\u306b\u304b\u3044}\u3001{\u82b1|\u306f\u306a}\u306b{\u6c34|\u307f\u305a}\u3084\u308a\u307e\u3059\u3002\u300c\u3082\u3046{\u732b|\u306d\u3053}\u306e\u30bf\u30de\u306b\u3048\u3055\u3092\u3084\u3063\u305f?\u300d\u300c\u3042\u3001\u307e\u3060\u300d",
+        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u4e8c\u56de|\u306b\u304b\u3044}\u3001{\u82b1|\u306f\u306a}\u306b{\u6c34|\u307f\u305a}\u3092\u3084\u308a\u307e\u3059\u3002\u300c\u3082\u3046{\u732b|\u306d\u3053}\u306e\u30bf\u30de\u306b\u3048\u3055\u3092\u3084\u3063\u305f?\u300d\u300c\u3042\u3001\u307e\u3060\u300d",
         "X \u306f/\u304c Y \u306b Z \u3092 \u3084\u308b = X gives Z to Y(animal, plant)"
     ],
     [
