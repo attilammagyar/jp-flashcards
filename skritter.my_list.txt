@@ -314,3 +314,9 @@
 住所 juusho
 餌 esa
 御神籤 omikuji
+禿げ頭 hageatama
+禿げる hageru
+警備員 keibiin
+発音 hatsuon
+代わり kawari
+人力車 jinrikisha
