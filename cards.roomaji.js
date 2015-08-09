@@ -2721,7 +2721,7 @@ Flashcards.initialize([
 ],
 [
     "Rooms are separated? I can't believe it!",
-    "{部屋|heya} wa betsubetsu desu ka. shinjirarenai.",
+    "{部屋|heya} wa {別々|betsubetsu} desu ka. shinjirarenai.",
     ""
 ],
 [
@@ -2981,7 +2981,7 @@ Flashcards.initialize([
 ],
 [
     "Today (I) had other plans.",
-    "{今日|kyou}, betsu no yotei ga arimashita.",
+    "{今日|kyou}, {別|betsu} no yotei ga arimashita.",
     ""
 ],
 [
@@ -5250,7 +5250,7 @@ Flashcards.initialize([
 ],
 [
     "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
-    "{今日|kyou} wa ケーティ to {私達|watashitachi} no tame ni kon'na ni seidai na soubetsukai to {結婚|kekkon} zen'yasari wo hiraite kudasatte arigatou gozaimasu. totemo kansha shiteimasu.",
+    "{今日|kyou} wa ケーティ to {私達|watashitachi} no tame ni kon'na ni seidai na {送別会|soubetsukai} to {結婚|kekkon} zen'yasari wo hiraite kudasatte arigatou gozaimasu. totemo kansha shiteimasu.",
     "な adj. + に = adverb\nと: complete list\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
