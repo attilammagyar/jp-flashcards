@@ -1586,7 +1586,7 @@ Flashcards.initialize([
 ],
 [
     "hair, long, short, shoulder-length",
-    "{髪|kami}, {長い|nagai}, {短い|mijikai}, kata gurai",
+    "{髪|kami}, {長い|nagai}, {短い|mijikai}, {肩|kata} gurai",
     ""
 ],
 [
@@ -1681,7 +1681,7 @@ Flashcards.initialize([
 ],
 [
     "(My) shoulders ache.",
-    "kata ga {痛い|itai} desu.",
+    "{肩|kata} ga {痛い|itai} desu.",
     ""
 ],
 [
@@ -1822,7 +1822,7 @@ Flashcards.initialize([
 [
     "Mr. Yamada went to Osaka by bullet train.",
     "{山田|yamada} san wa shinkansen de oosaka ni {行きました|ikimashita}.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で {行く|いく} = B で A に {行く|いく}"
 ],
 [
     "Soon it will be Summer. It will gradually get hotter.",
@@ -1992,17 +1992,17 @@ Flashcards.initialize([
 [
     "(I) went to the town by bus.",
     "{町|machi} ni _basu_ de {行きました|ikimashita}.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で {行く|いく} = B で A に {行く|いく}"
 ],
 [
     "(I) went to (my) mom's house by car.",
     "{母|haha} no {家|uchi} ni {車|kuruma} de {行きました|ikimashita}.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で {行く|いく} = B で A に {行く|いく}"
 ],
 [
     "(I) went to New York by train.",
     "{電車|densha} de _nyuu yooku_ ni {行きました|ikimashita}.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で いく = B で A に いく"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で {行く|いく} = B で A に {行く|いく}"
 ],
 [
     "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
@@ -5327,5 +5327,35 @@ Flashcards.initialize([
     "(I) have not drawn a written fortune at a shrine yet.",
     "mada {神社|jinja} de omikuji wo {引いた|hiita} koto ga arimasen.",
     "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+],
+[
+    "(My) friend and (I) have decided to go to Shinjuku tomorrow. {plain}",
+    "{明日|ashita}, {友達|tomodachi} to {新宿|shinjuku} he {行く|iku} koto ni natta.",
+    "A と B と C = A, B and C (and nothing else)\nverbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+],
+[
+    "(I'm) worried if (I) can make friends.",
+    "{友達|tomodachi} ga dekiru ka dou ka shinpai desu.",
+    "verbう/いadj/なadj/noun + かどうか = whether/if"
+],
+[
+    "(I'll) watch the weather forecast whether it'll rain tomorrow. (I) don't know if the school is close to the station. (I'll) try to ask Natsuko if (she's) free tomorrow.",
+    "{明日|ashita}, {雨|ame} ga {降る|furu} ka dou ka, {天気|tenki} yohou wo {見ます|mimasu}. {学校|gakkou} ga {駅|eki} kara {近い|chikai} ka dou ka {分かりません|wakarimasen}. {明日|ashita}, {暇|hima} ka dou ka, {夏子|natsuko} san ni {聞いて|kiite} mimasu.",
+    "verbう/いadj/なadj/noun + かどうか = whether/if\nverbて + みる = try doing ~"
+],
+[
+    "(I've) repaired the computer, so (now it) works. {の で} {plain} (I) don't catch cold since taking to running every morning.",
+    "_pasokon_ wo {直した|naoshita} no de {働く|hataraku} you ni natta. {毎朝|maiasa}, {走る|hashiru} you ni natte kara, {風邪|kaze} wo {引きません|hikimasen}.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverbう + よう + に + なる = change in habitual action\nverbて + から = after doing ~, since doing ~"
+],
+[
+    "On the way home, it suddenly started to rain. The baby suddenly started crying loudly. {plain}",
+    "{帰る|kaeru} {途中|tochuu}, {急|kyuu} ni {雨|ame} ga {降り出しました|furidashimashita}. {赤ちゃん|akachan} ga totsuzen, {大きい|ookii} {声|koe} de {泣き出した|nakidashita}.",
+    "な adj. + に = adverb\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
+],
+[
+    "(My) younger brother, who was reading a manga, suddenly burst out laughing. {plain} The father lost his temper with the children who just wouldn't stop (playing) video games. {plain}",
+    "_manga_ wo {読んで|yonde} ita {弟|otouto} ga, {急|kyuu} ni {笑い出した|waraidashita}. itsumade mo _terebi geemu_ wo {止めない|yamenai} {子供達|kodomotachi} ni {父親|chichioya} ga {怒り出した|okoridashita}.",
+    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nな adj. + に = adverb"
 ]
 ])

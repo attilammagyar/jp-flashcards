@@ -1,6 +1,6 @@
 Particles
 =========
-A に B で いく = B で A に いく
+A に B で {行く|いく} = B で A に {行く|いく}
 A と B と C = A, B and C (and nothing else)
 A や B や C など = A, B, C, etc.
 と: complete list
@@ -17,13 +17,17 @@ Adjectives
 な-adj. + で = adj. and ...
 な adj. + に = adverb
 い adj. - い + く = adverb
-い adj. - い + く + なる = become ~
 adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)
 stem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~
 くなかった = past negative of い adj.
 かった = past tense of い adj.
 くない = negative of い adj
+
+Become
+======
+い adj. - い + く + なる = become ~
 noun/な adj + に + なる = become ~
+verbう + よう + に + なる = to come to be that ~/to become (able to) ~
 
 Location
 ========
@@ -121,6 +125,7 @@ If/when
 =======
 verb-A-う + と + verb-B = if A then B
 (もし +) ~た + ら = if/when ~, (then) ~ (もし = if)
+verbう/いadj/なadj/noun + かどうか = whether/if
 
 Give/receive
 ============

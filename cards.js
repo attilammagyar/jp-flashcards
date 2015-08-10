@@ -1586,7 +1586,7 @@ Flashcards.initialize([
     ],
     [
         "hair, long, short, shoulder-length",
-        "{\u9aea|\u304b\u307f}\u3001{\u9577\u3044|\u306a\u304c\u3044}\u3001{\u77ed\u3044|\u307f\u3058\u304b\u3044}\u3001\u304b\u305f\u3050\u3089\u3044",
+        "{\u9aea|\u304b\u307f}\u3001{\u9577\u3044|\u306a\u304c\u3044}\u3001{\u77ed\u3044|\u307f\u3058\u304b\u3044}\u3001{\u80a9|\u304b\u305f}\u3050\u3089\u3044",
         ""
     ],
     [
@@ -1681,7 +1681,7 @@ Flashcards.initialize([
     ],
     [
         "(My) shoulders ache.",
-        "\u304b\u305f\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002",
+        "{\u80a9|\u304b\u305f}\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -1822,7 +1822,7 @@ Flashcards.initialize([
     [
         "Mr. Yamada went to Osaka by bullet train.",
         "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3057\u3093\u304b\u3093\u305b\u3093\u3067\u304a\u304a\u3055\u304b\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 {\u884c\u304f|\u3044\u304f} = B \u3067 A \u306b {\u884c\u304f|\u3044\u304f}"
     ],
     [
         "Soon it will be Summer. It will gradually get hotter.",
@@ -1992,17 +1992,17 @@ Flashcards.initialize([
     [
         "(I) went to the town by bus.",
         "{\u753a|\u307e\u3061}\u306b\u30d0\u30b9\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 {\u884c\u304f|\u3044\u304f} = B \u3067 A \u306b {\u884c\u304f|\u3044\u304f}"
     ],
     [
         "(I) went to (my) mom's house by car.",
         "{\u6bcd|\u306f\u306f}\u306e{\u5bb6|\u3046\u3061}\u306b{\u8eca|\u304f\u308b\u307e}\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 {\u884c\u304f|\u3044\u304f} = B \u3067 A \u306b {\u884c\u304f|\u3044\u304f}"
     ],
     [
         "(I) went to New York by train.",
         "{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u3067\u30cb\u30e5\u30fc\u30fb\u30e8\u30fc\u30af\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 \u3044\u304f = B \u3067 A \u306b \u3044\u304f"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 {\u884c\u304f|\u3044\u304f} = B \u3067 A \u306b {\u884c\u304f|\u3044\u304f}"
     ],
     [
         "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
@@ -5333,5 +5333,35 @@ Flashcards.initialize([
         "(I) have not drawn a written fortune at a shrine yet.",
         "\u307e\u3060{\u795e\u793e|\u3058\u3093\u3058\u3083}\u3067\u304a\u307f\u304f\u3058\u3092{\u5f15\u3044\u305f|\u3072\u3044\u305f}\u3053\u3068\u304c\u3042\u308a\u307e\u305b\u3093\u3002",
         "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+    ],
+    [
+        "(My) friend and (I) have decided to go to Shinjuku tomorrow. {plain}",
+        "{\u660e\u65e5|\u3042\u3057\u305f}\u3001{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3068{\u65b0\u5bbf|\u3057\u3093\u3058\u3085\u304f}\u3078{\u884c\u304f|\u3044\u304f}\u3053\u3068\u306b\u306a\u3063\u305f\u3002",
+        "A \u3068 B \u3068 C = A, B and C (and nothing else)\nverb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+    ],
+    [
+        "(I'm) worried if (I) can make friends.",
+        "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c\u3067\u304d\u308b\u304b\u3069\u3046\u304b\u3057\u3093\u3071\u3044\u3067\u3059\u3002",
+        "verb\u3046/\u3044adj/\u306aadj/noun + \u304b\u3069\u3046\u304b = whether/if"
+    ],
+    [
+        "(I'll) watch the weather forecast whether it'll rain tomorrow. (I) don't know if the school is close to the station. (I'll) try to ask Natsuko if (she's) free tomorrow.",
+        "{\u660e\u65e5|\u3042\u3057\u305f}\u3001{\u96e8|\u3042\u3081}\u304c{\u964d\u308b|\u3075\u308b}\u304b\u3069\u3046\u304b\u3001{\u5929\u6c17|\u3066\u3093\u304d}\u3088\u307b\u3046\u3092{\u898b\u307e\u3059|\u307f\u307e\u3059}\u3002{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u304c{\u99c5|\u3048\u304d}\u304b\u3089{\u8fd1\u3044|\u3061\u304b\u3044}\u304b\u3069\u3046\u304b{\u5206\u304b\u308a\u307e\u305b\u3093|\u308f\u304b\u308a\u307e\u305b\u3093}\u3002{\u660e\u65e5|\u3042\u3057\u305f}\u3001{\u6687|\u3072\u307e}\u304b\u3069\u3046\u304b\u3001{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306b{\u805e\u3044\u3066|\u304d\u3044\u3066}\u307f\u307e\u3059\u3002",
+        "verb\u3046/\u3044adj/\u306aadj/noun + \u304b\u3069\u3046\u304b = whether/if\nverb\u3066 + \u307f\u308b = try doing ~"
+    ],
+    [
+        "(I've) repaired the computer, so (now it) works. {\u306e \u3067} {plain} (I) don't catch cold since taking to running every morning.",
+        "\u30d1\u30bd\u30b3\u30f3\u3092{\u76f4\u3057\u305f|\u306a\u304a\u3057\u305f}\u306e\u3067{\u50cd\u304f|\u306f\u305f\u3089\u304f}\u3088\u3046\u306b\u306a\u3063\u305f\u3002{\u6bce\u671d|\u307e\u3044\u3042\u3055}\u3001{\u8d70\u308b|\u306f\u3057\u308b}\u3088\u3046\u306b\u306a\u3063\u3066\u304b\u3089\u3001{\u98a8\u90aa|\u304b\u305c}\u3092{\u5f15\u304d\u307e\u305b\u3093|\u3072\u304d\u307e\u305b\u3093}\u3002",
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb\u3046 + \u3088\u3046 + \u306b + \u306a\u308b = change in habitual action\nverb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
+    ],
+    [
+        "On the way home, it suddenly started to rain. The baby suddenly started crying loudly. {plain}",
+        "{\u5e30\u308b|\u304b\u3048\u308b}{\u9014\u4e2d|\u3068\u3061\u3085\u3046}\u3001{\u6025|\u304d\u3085\u3046}\u306b{\u96e8|\u3042\u3081}\u304c{\u964d\u308a\u51fa\u3057\u307e\u3057\u305f|\u3075\u308a\u3060\u3057\u307e\u3057\u305f}\u3002{\u8d64\u3061\u3083\u3093|\u3042\u304b\u3061\u3083\u3093}\u304c\u3068\u3064\u305c\u3093\u3001{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}{\u58f0|\u3053\u3048}\u3067{\u6ce3\u304d\u51fa\u3057\u305f|\u306a\u304d\u3060\u3057\u305f}\u3002",
+        "\u306a adj. + \u306b = adverb\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)"
+    ],
+    [
+        "(My) younger brother, who was reading a manga, suddenly burst out laughing. {plain} The father lost his temper with the children who just wouldn't stop (playing) video games. {plain}",
+        "\u30de\u30f3\u30ac\u3092{\u8aad\u3093\u3067|\u3088\u3093\u3067}\u3044\u305f{\u5f1f|\u304a\u3068\u3046\u3068}\u304c\u3001{\u6025|\u304d\u3085\u3046}\u306b{\u7b11\u3044\u51fa\u3057\u305f|\u308f\u3089\u3044\u3060\u3057\u305f}\u3002\u3044\u3064\u307e\u3067\u3082\u30c6\u30ec\u30d3\u30fb\u30b2\u30fc\u30e0\u3092{\u6b62\u3081\u306a\u3044|\u3084\u3081\u306a\u3044}{\u5b50\u4f9b\u9054|\u3053\u3069\u3082\u305f\u3061}\u306b{\u7236\u89aa|\u3061\u3061\u304a\u3084}\u304c{\u6012\u308a\u51fa\u3057\u305f|\u304a\u3053\u308a\u3060\u3057\u305f}\u3002",
+        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\n\u306a adj. + \u306b = adverb"
     ]
 ])
