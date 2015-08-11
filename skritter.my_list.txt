@@ -327,3 +327,12 @@
 怒る okoru
 動く ugoku
 足りる tariru
+名詞 meishi
+辞書形 jishokei
+否定形 hiteikei
+幼稚園 youchien
+中学校 chuugakkou
+順番 junban
+続き tsuzuki
+続ける tsuzukeru
+投稿 toukou
