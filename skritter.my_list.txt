@@ -325,3 +325,5 @@
 泣く naku
 いつまでも itsumademo
 怒る okoru
+動く ugoku
+足りる tariru

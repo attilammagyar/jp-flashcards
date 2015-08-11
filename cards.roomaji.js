@@ -5345,7 +5345,7 @@ Flashcards.initialize([
 ],
 [
     "(I've) repaired the computer, so (now it) works. {の で} {plain} (I) don't catch cold since taking to running every morning.",
-    "_pasokon_ wo {直した|naoshita} no de {働く|hataraku} you ni natta. {毎朝|maiasa}, {走る|hashiru} you ni natte kara, {風邪|kaze} wo {引きません|hikimasen}.",
+    "_pasokon_ wo {直した|naoshita} no de {動く|ugoku} you ni natta. {毎朝|maiasa}, {走る|hashiru} you ni natte kara, {風邪|kaze} wo {引きません|hikimasen}.",
     "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverbう + よう + に + なる = change in habitual action\nverbて + から = after doing ~, since doing ~"
 ],
 [
@@ -5357,5 +5357,15 @@ Flashcards.initialize([
     "(My) younger brother, who was reading a manga, suddenly burst out laughing. {plain} The father lost his temper with the children who just wouldn't stop (playing) video games. {plain}",
     "_manga_ wo {読んで|yonde} ita {弟|otouto} ga, {急|kyuu} ni {笑い出した|waraidashita}. itsumade mo _terebi geemu_ wo {止めない|yamenai} {子供達|kodomotachi} ni {父親|chichioya} ga {怒り出した|okoridashita}.",
     "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nな adj. + に = adverb"
+],
+[
+    "(I) want to buy this all, but (I'm) worried if (my) money is enough.",
+    "kore wo {全部|zenbu} {買いたい|kaitai} keredo, {お金|okane} ga {足りる|tariru} ka dou ka shinpai desu.",
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbう/いadj/なadj/noun + かどうか = whether/if"
+],
+[
+    "(I) was surprised, because the car suddenly started moving. {から}",
+    "{急|kyuu} ni {車|kuruma} ga {動き出した|ugokidashita} kara, bikkuri shita.",
+    "な adj. + に = adverb\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ]
 ])
