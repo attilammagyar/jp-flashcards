@@ -336,3 +336,5 @@
 続き tsuzuki
 続ける tsuzukeru
 投稿 toukou
+言語 gengo
+検出 kenshutsu
