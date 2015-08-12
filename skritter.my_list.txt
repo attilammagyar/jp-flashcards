@@ -338,3 +338,12 @@
 投稿 toukou
 言語 gengo
 検出 kenshutsu
+呼び出す yobidasu
+受付 uketsuke
+飛び出す tobidasu
+とおり toori
+出社 shussha
+返る kaeru
+変える kaeru
+代える kaeru
+転ぶ korobu

@@ -46,7 +46,7 @@ Flashcards.initialize([
     ],
     [
         "Where is (your) hometown?",
-        "\u3054\u3057\u3085\u3063\u3057\u3093\u306f{\u4f55\u51e6|\u3069\u3053}\u3067\u3059\u304b\u3002",
+        "{\u5fa1\u51fa\u8eab|\u3054\u3057\u3085\u3063\u3057\u3093}\u306f{\u4f55\u51e6|\u3069\u3053}\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -5373,5 +5373,25 @@ Flashcards.initialize([
         "(I) was surprised, because the car suddenly started moving. {\u304b\u3089}",
         "{\u6025|\u304d\u3085\u3046}\u306b{\u8eca|\u304f\u308b\u307e}\u304c{\u52d5\u304d\u51fa\u3057\u305f|\u3046\u3054\u304d\u3060\u3057\u305f}\u304b\u3089\u3001\u3073\u3063\u304f\u308a\u3057\u305f\u3002",
         "\u306a adj. + \u306b = adverb\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+    ],
+    [
+        "He came to work at 9 o'clock as usual. {plain}",
+        "{\u5f7c|\u304b\u308c}\u306f\u3044\u3064\u3082\u306e\u3068\u304a\u308a{\u4e5d\u6642|\u304f\u3058}\u306b{\u51fa\u793e|\u3057\u3085\u3063\u3057\u3083}\u3057\u305f\u3002",
+        ""
+    ],
+    [
+        "As (in the) weather forecast, it started to rain. {plain}",
+        "{\u5929\u6c17|\u3066\u3093\u304d}\u3088\u307b\u3046\u306e\u3068\u304a\u308a\u3001{\u96e8|\u3042\u3081}\u304c{\u964d\u308a\u51fa\u3057\u305f|\u3075\u308a\u3060\u3057\u305f}\u3002",
+        ""
+    ],
+    [
+        "(I) was in a hurry, and (I) rushed out, and (I) fell on the stairs. {plain}",
+        "{\u6025\u3044\u3067|\u3044\u305d\u3044\u3067}\u3001{\u5bb6|\u3044\u3048}\u3092{\u98db\u3073\u51fa\u3057\u3066|\u3068\u3073\u3060\u3057\u3066}\u3001{\u968e\u6bb5|\u304b\u3044\u3060\u3093}\u3067{\u8ee2\u3093\u3060|\u3053\u308d\u3093\u3060}\u3002",
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    ],
+    [
+        "Let's get (him) called at the reception!",
+        "{\u53d7\u4ed8|\u3046\u3051\u3064\u3051}\u3067{\u547c\u3073\u51fa\u3057\u3066|\u3088\u3073\u3060\u3057\u3066}\u3082\u3089\u3044\u307e\u3057\u3087\u3046\u3002",
+        "X \u304c Y \u306b verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ]
 ])

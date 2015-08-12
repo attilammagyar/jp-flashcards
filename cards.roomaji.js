@@ -46,7 +46,7 @@ Flashcards.initialize([
 ],
 [
     "Where is (your) hometown?",
-    "goshusshin wa {何処|doko} desu ka.",
+    "{御出身|goshusshin} wa {何処|doko} desu ka.",
     ""
 ],
 [
@@ -5367,5 +5367,25 @@ Flashcards.initialize([
     "(I) was surprised, because the car suddenly started moving. {から}",
     "{急|kyuu} ni {車|kuruma} ga {動き出した|ugokidashita} kara, bikkuri shita.",
     "な adj. + に = adverb\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "He came to work at 9 o'clock as usual. {plain}",
+    "{彼|kare} wa itsumono toori {九時|kuji} ni {出社|shussha} shita.",
+    ""
+],
+[
+    "As (in the) weather forecast, it started to rain. {plain}",
+    "{天気|tenki} yohou no toori, {雨|ame} ga {降り出した|furidashita}.",
+    ""
+],
+[
+    "(I) was in a hurry, and (I) rushed out, and (I) fell on the stairs. {plain}",
+    "{急いで|isoide}, {家|ie} wo {飛び出して|tobidashite}, {階段|kaidan} de {転んだ|koronda}.",
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "Let's get (him) called at the reception!",
+    "{受付|uketsuke} de {呼び出して|yobidashite} moraimashou.",
+    "X が Y に verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ]
 ])
