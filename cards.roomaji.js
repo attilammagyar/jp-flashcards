@@ -2041,7 +2041,7 @@ Flashcards.initialize([
 ],
 [
     "Did (you) hear the weather forecast for Tokyo? Not yet.",
-    "{東京|toukyou} no {天気|tenki} yohou wo {聞きました|kikimashita} ka. iie, {未だ|mada} desu.",
+    "{東京|toukyou} no {天気予報|tenkiyohou} wo {聞きました|kikimashita} ka. iie, {未だ|mada} desu.",
     ""
 ],
 [
@@ -2246,7 +2246,7 @@ Flashcards.initialize([
 ],
 [
     "(There) are (more than) 600 channels. I like the weather forecast. Let's look at the world weather. Are (you) serious?",
-    "{六百|roppyaku} _chan__neru_ mo arimasu. {私|watashi} wa {天気|tenki} yohou ga {好き|suki} desu. sekai no {天気|tenki} wo {見ましょう|mimashou}. {本気|honki} desu ka.",
+    "{六百|roppyaku} _chan__neru_ mo arimasu. {私|watashi} wa {天気予報|tenkiyohou} ga {好き|suki} desu. sekai no {天気|tenki} wo {見ましょう|mimashou}. {本気|honki} desu ka.",
     ""
 ],
 [
@@ -2686,7 +2686,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went from Tokyo to Kyoto by bullet train.",
-    "{東京|toukyou} kara kyouto made shinkansen de {行きました|ikimashita}.",
+    "{東京|toukyou} kara {京都|kyouto} made shinkansen de {行きました|ikimashita}.",
     ""
 ],
 [
@@ -4286,7 +4286,7 @@ Flashcards.initialize([
 ],
 [
     "I _will_ go to Kyoto next week.",
-    "{僕|boku} wa {来週|raishuu} kyouto ni {行こう|ikou}.",
+    "{僕|boku} wa {来週|raishuu} {京都|kyouto} ni {行こう|ikou}.",
     "verbおう/よう = talking about/to self, I _will_, shall I?"
 ],
 [
@@ -5340,7 +5340,7 @@ Flashcards.initialize([
 ],
 [
     "(I'll) watch the weather forecast whether it'll rain tomorrow. (I) don't know if the school is close to the station. (I'll) try to ask Natsuko if (she's) free tomorrow.",
-    "{明日|ashita}, {雨|ame} ga {降る|furu} ka dou ka, {天気|tenki} yohou wo {見ます|mimasu}. {学校|gakkou} ga {駅|eki} kara {近い|chikai} ka dou ka {分かりません|wakarimasen}. {明日|ashita}, {暇|hima} ka dou ka, {夏子|natsuko} san ni {聞いて|kiite} mimasu.",
+    "{明日|ashita}, {雨|ame} ga {降る|furu} ka dou ka, {天気予報|tenkiyohou} wo {見ます|mimasu}. {学校|gakkou} ga {駅|eki} kara {近い|chikai} ka dou ka {分かりません|wakarimasen}. {明日|ashita}, {暇|hima} ka dou ka, {夏子|natsuko} san ni {聞いて|kiite} mimasu.",
     "verbう/いadj/なadj/noun + かどうか = whether/if\nverbて + みる = try doing ~"
 ],
 [
@@ -5375,7 +5375,7 @@ Flashcards.initialize([
 ],
 [
     "As (in the) weather forecast, it started to rain. {plain}",
-    "{天気|tenki} yohou no toori, {雨|ame} ga {降り出した|furidashita}.",
+    "{天気予報|tenkiyohou} no toori, {雨|ame} ga {降り出した|furidashita}.",
     ""
 ],
 [
