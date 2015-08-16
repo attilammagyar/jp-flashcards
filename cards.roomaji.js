@@ -5387,5 +5387,10 @@ Flashcards.initialize([
     "Let's get (him) called at the reception!",
     "{受付|uketsuke} de {呼び出して|yobidashite} moraimashou.",
     "X が Y に verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+],
+[
+    "You're lying, aren't you? {plain}",
+    "uso wo tsuite iru ne.",
+    ""
 ]
 ])

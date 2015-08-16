@@ -5393,5 +5393,10 @@ Flashcards.initialize([
         "Let's get (him) called at the reception!",
         "{\u53d7\u4ed8|\u3046\u3051\u3064\u3051}\u3067{\u547c\u3073\u51fa\u3057\u3066|\u3088\u3073\u3060\u3057\u3066}\u3082\u3089\u3044\u307e\u3057\u3087\u3046\u3002",
         "X \u304c Y \u306b verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+    ],
+    [
+        "You're lying, aren't you? {plain}",
+        "\u3046\u305d\u3092\u3064\u3044\u3066\u3044\u308b\u306d\u3002",
+        ""
     ]
 ])
