@@ -130,14 +130,19 @@ verbう/いadj/なadj/noun + かどうか = whether/if
 Give/receive
 ============
 X は/が Y に/から Z を もらう = X receives Z from Y
+X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})
 X は/が Y から Z を もらう = X(in) receives Z from Y (school, workplace, organization, etc.)
+X は/が Y から verbて もらう = X(in) has Y (school, workplace, organization, etc.) to do ~
+
 X は/が Y に Z を くれる = X(out) gives Z to Y(in)
-X は/が Y に Z を あげる = X(out/in) gives Z to Y(out) (never to superiors)
-X が (Y を) verbて くれる = X(out) does ~ for Y(in)
+X は/が (Y を) verbて くれる = X(out) does ~ for Y(in)
 verbて + くれる = a favor done by equals/subordinates
-X が (Y を) verbて あげる = X(in) does ~ for Y(out) (never to superiors)
-X が Y に verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})
+
+X は/が Y に Z を あげる = X(out/in) gives Z to Y(out) (never to superiors)
+X は/が (Y を) verbて あげる = X(in) does ~ for Y(out) (never to superiors)
+
 X は/が Y に Z を やる = X gives Z to Y(animal, plant)
+X は/が Y に verbて やる = X does ~ for Y (animal, plant)
 
 Verbs
 =====
@@ -167,6 +172,9 @@ verb stem + たい = want to ~
 verb stem + たい = want to ~ (verb --> い adj.)
 verb-stem + verb = compound verb (action + qualifier)
 verb-stem + なさい = imperative
+verb-stem + {始める|はじめる} = start doing ~
+verb-stem + {出す|だす} = burst out doing ~, start doing ~
+verb-stem + {終わる|おわる} = finish doing ~
 
 ~たい
 ----

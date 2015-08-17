@@ -351,3 +351,12 @@
 嘘 uso
 吐く tsuku
 嘘を吐く uso wo tsuku
+おごる ogoru
+指輪 yubiwa
+夫 otto
+残る nokoru
+引っ越し hikkoshi
+やっと yatto
+濡れる nureru
+濡らす nurasu
+助ける tasukeru

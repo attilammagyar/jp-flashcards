@@ -4226,7 +4226,7 @@ Flashcards.initialize([
 ],
 [
     "What's wrong? (My) throat has dried. Well, (you) should probably drink water.",
-    "dou shita n desu ka. nodo ga kawaita n desu. jaa, {水|mizu} wo {飲んだ|nonda} {方|hou} ga ii deshou.",
+    "dou shita n desu ka. nodo ga {乾いた|kawaita} n desu. jaa, {水|mizu} wo {飲んだ|nonda} {方|hou} ga ii deshou.",
     "verb-plain + の/ん + です = justification, explanation (softer than から)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~"
 ],
 [
@@ -4646,7 +4646,7 @@ Flashcards.initialize([
 ],
 [
     "What does Rie think about Mr. Yamada going to China? (It's) a pity, but a good opportunity.",
-    "rie san wa {山田|yamada} san ga {中国|chuugoku} ni {行く|iku} koto ni tsuite dou {思います|omoimasu} ka. zan'nen desu ga ii _chansu_ desu.",
+    "rie san wa {山田|yamada} san ga {中国|chuugoku} ni {行く|iku} koto ni tsuite dou {思います|omoimasu} ka. {残念|zan'nen} desu ga ii _chansu_ desu.",
     ""
 ],
 [
@@ -4711,7 +4711,7 @@ Flashcards.initialize([
 ],
 [
     "Sadly, (it has been decided that) Mr. Yamada will transfer to China soon.",
-    "zan'nen desu ga {山田|yamada} san ha mou sugu {中国|chuugoku} ni tenkin suru koto ni narimashita.",
+    "{残念|zan'nen} desu ga {山田|yamada} san ha mou sugu {中国|chuugoku} ni tenkin suru koto ni narimashita.",
     "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
@@ -4907,7 +4907,7 @@ Flashcards.initialize([
 [
     "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
     "{片仮名|katakana} de {読み方|yomikata} wo {書いて|kaite} kurete arigatou. dou itashimashite.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {方|kata} = how to do verb (verb --> noun)\nverbて + くれる = a favor done by equals/subordinates\nX が (Y を) verbて くれる = X(out) does ~ for Y(in)"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {方|kata} = how to do verb (verb --> noun)\nverbて + くれる = a favor done by equals/subordinates\nX は/が (Y を) verbて くれる = X(out) does ~ for Y(in)"
 ],
 [
     "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
@@ -5151,27 +5151,27 @@ Flashcards.initialize([
 [
     "(My) friends waited for me. {grateful, plain} Mr. Yamada helped my younger brother. {grateful, plain}",
     "{友達|tomodachi} ga {待って|matte} kureta. {山田|yamada} san ga {弟|otouto} wo {手伝って|tetsudatte} kureta.",
-    "X が (Y を) verbて くれる = X(out) does ~ for Y(in)\nverbて + くれる = a favor done by equals/subordinates"
+    "X は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nverbて + くれる = a favor done by equals/subordinates"
 ],
 [
     "Would (you) be so kind to wait (for me)? Thank (you) very much for waiting (for me).",
     "{待って|matte} kuremasen ka. {待って|matte} kurete, arigatou gozaimashita.",
-    "X が (Y を) verbて くれる = X(out) does ~ for Y(in)\nverbて + くれる = a favor done by equals/subordinates"
+    "X は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nverbて + くれる = a favor done by equals/subordinates"
 ],
 [
     "My younger brother waited for (his) friends. {plain} (I) helped my younger brother.",
     "{弟|otouto} ga {友達|tomodachi} wo {待って|matte} ageta. {弟|otouto} wo {手伝って|tetsudatte} ageta.",
-    "X が (Y を) verbて あげる = X(in) does ~ for Y(out) (never to superiors)"
+    "X は/が (Y を) verbて あげる = X(in) does ~ for Y(out) (never to superiors)"
 ],
 [
     "I got (my) friends to wait (for me). {plain} My younger brother got Mr. Yamada for a ride. {plain} Mr. Yamada got my older sister to help (him). {plain} Mr. Yamada got Ms. Natsuko to wait (for him). {plain}",
     "{私|watashi} ga {友達|tomodachi} ni {待って|matte} moratta. {弟|otouto} ga {山田|yamada} san ni {送って|okutte} moratta. {山田|yamada} san ga {姉|ane} ni {手伝って|tetsudatte} moratta. {山田|yamada} san ga {夏子|natsuko} san ni {待って|matte} moratta.",
-    "X が Y に verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ],
 [
     "Could (I) get (you) to wait for me?",
     "{待って|matte} moraemasen ka.",
-    "X が Y に verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ],
 [
     "If (I) have a chance, may (I) go to China to have fun? If (you) have a chance, please surely come to China to have fun, with your family.",
@@ -5260,7 +5260,7 @@ Flashcards.initialize([
 ],
 [
     "(We) will go to China next month, but (we) still had lots of things (we) want to do and places (we) want to see, so it's a bit of a shame. But one day (we) want to come to Japan again and see everybody.",
-    "{来月|raigetsu} {中国|chuugoku} he {行く|iku} koto ni narimashita ga mada shitai koto ya {見たい|mitai} {所|tokoro} ga atta no de, {少し|sukoshi} zan'nen desu. demo, mata itsuka {日本|nihon} ni {来て|kite}, {皆さん|minasan} to {会いたい|aitai} desu.",
+    "{来月|raigetsu} {中国|chuugoku} he {行く|iku} koto ni narimashita ga mada shitai koto ya {見たい|mitai} {所|tokoro} ga atta no de, {少し|sukoshi} {残念|zan'nen} desu. demo, mata itsuka {日本|nihon} ni {来て|kite}, {皆さん|minasan} to {会いたい|aitai} desu.",
     "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)\nverb stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nや: incomplete list\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -5386,11 +5386,51 @@ Flashcards.initialize([
 [
     "Let's get (him) called at the reception!",
     "{受付|uketsuke} de {呼び出して|yobidashite} moraimashou.",
-    "X が Y に verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ],
 [
-    "You're lying, aren't you? {plain}",
+    "(You're) lying, aren't (you)? {plain}",
     "uso wo tsuite iru ne.",
     ""
+],
+[
+    "Carlos treated (me) to ramen. {plain}",
+    "_karurosu_ ni _ramen_ wo ogotte moratta.",
+    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+],
+[
+    "(My) husband finishes all the leftover food (for me).",
+    "{残った|nokotta} {料理|ryouri} wa, {夫|otto} ga {全部|zenbu} {食べて|tabete} kuremasu.",
+    "X は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nverbて + くれる = a favor done by equals/subordinates"
+],
+[
+    "(I'll) have (my) friend lend (me) a CD. {plain}",
+    "{友達|tomodachi} ni *CD* wo {貸して|kashite} morau.",
+    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+],
+[
+    "(I'll) carry the children's luggage.",
+    "{子供|kodomo} no {荷物|nimotsu} wo {持って|motte} yarimasu.",
+    "X は/が Y に verbて やる = X does ~ for Y (animal, plant)"
+],
+[
+    "(We) finished cooking at last. (We) started eating right away.",
+    "yatto {作り終わりました|tsukuriowarimashita}. sugu ni {食べ始めました|tabehajimemashita}.",
+    "verb-stem + {始める|はじめる} = start doing ~\nverb-stem + {終わる|おわる} = finish doing ~"
+],
+[
+    "(I) started learning Japanese last week. {plain}",
+    "{先週|senshuu} kara {日本語|nihongo} wo {習い始めた|naraihajimeta}.",
+    "verb-stem + {始める|はじめる} = start doing ~"
+],
+[
+    "Please wait until everyone has finished eating.",
+    "{皆|minna} ga {食べ終わる|tabeowaru} made, {待って|matte} kudasai.",
+    "verb-stem + {終わる|おわる} = finish doing ~"
+],
+[
+    "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
+    "nurete inai ne. {友達|tomodachi} ga {車|kuruma} de {送って|okutte} kureta kara, tasukatta yo.",
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nX は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ]
 ])

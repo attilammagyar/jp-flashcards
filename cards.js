@@ -4226,7 +4226,7 @@ Flashcards.initialize([
     ],
     [
         "What's wrong? (My) throat has dried. Well, (you) should probably drink water.",
-        "\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3002\u306e\u3069\u304c\u304b\u308f\u3044\u305f\u3093\u3067\u3059\u3002\u3058\u3083\u3042\u3001{\u6c34|\u307f\u305a}\u3092{\u98f2\u3093\u3060|\u306e\u3093\u3060}{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3057\u3087\u3046\u3002",
+        "\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3002\u306e\u3069\u304c{\u4e7e\u3044\u305f|\u304b\u308f\u3044\u305f}\u3093\u3067\u3059\u3002\u3058\u3083\u3042\u3001{\u6c34|\u307f\u305a}\u3092{\u98f2\u3093\u3060|\u306e\u3093\u3060}{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3057\u3087\u3046\u3002",
         "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nverb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
     ],
     [
@@ -4646,7 +4646,7 @@ Flashcards.initialize([
     ],
     [
         "What does Rie think about Mr. Yamada going to China? (It's) a pity, but a good opportunity.",
-        "\u308a\u3048\u3055\u3093\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u884c\u304f|\u3044\u304f}\u3053\u3068\u306b\u3064\u3044\u3066\u3069\u3046{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u304b\u3002\u3056\u3093\u306d\u3093\u3067\u3059\u304c\u3044\u3044\u30c1\u30e3\u30f3\u30b9\u3067\u3059\u3002",
+        "\u308a\u3048\u3055\u3093\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u884c\u304f|\u3044\u304f}\u3053\u3068\u306b\u3064\u3044\u3066\u3069\u3046{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u304b\u3002{\u6b8b\u5ff5|\u3056\u3093\u306d\u3093}\u3067\u3059\u304c\u3044\u3044\u30c1\u30e3\u30f3\u30b9\u3067\u3059\u3002",
         ""
     ],
     [
@@ -4711,7 +4711,7 @@ Flashcards.initialize([
     ],
     [
         "Sadly, (it has been decided that) Mr. Yamada will transfer to China soon.",
-        "\u3056\u3093\u306d\u3093\u3067\u3059\u304c{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3082\u3046\u3059\u3050{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b\u3066\u3093\u304d\u3093\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
+        "{\u6b8b\u5ff5|\u3056\u3093\u306d\u3093}\u3067\u3059\u304c{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3082\u3046\u3059\u3050{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b\u3066\u3093\u304d\u3093\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
         "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
@@ -4907,7 +4907,7 @@ Flashcards.initialize([
     [
         "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
         "{\u7247\u4eee\u540d|\u304b\u305f\u304b\u306a}\u3067{\u8aad\u307f\u65b9|\u3088\u307f\u304b\u305f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u304f\u308c\u3066\u3042\u308a\u304c\u3068\u3046\u3002\u3069\u3046\u3044\u305f\u3057\u307e\u3057\u3066\u3002",
-        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates\nX \u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates\nX \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)"
     ],
     [
         "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
@@ -5157,27 +5157,27 @@ Flashcards.initialize([
     [
         "(My) friends waited for me. {grateful, plain} Mr. Yamada helped my younger brother. {grateful, plain}",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u304f\u308c\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u5f1f|\u304a\u3068\u3046\u3068}\u3092{\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066}\u304f\u308c\u305f\u3002",
-        "X \u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
     ],
     [
         "Would (you) be so kind to wait (for me)? Thank (you) very much for waiting (for me).",
         "{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u304f\u308c\u307e\u305b\u3093\u304b\u3002{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u304f\u308c\u3066\u3001\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\u3002",
-        "X \u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
     ],
     [
         "My younger brother waited for (his) friends. {plain} (I) helped my younger brother.",
         "{\u5f1f|\u304a\u3068\u3046\u3068}\u304c{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3092{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3042\u3052\u305f\u3002{\u5f1f|\u304a\u3068\u3046\u3068}\u3092{\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066}\u3042\u3052\u305f\u3002",
-        "X \u304c (Y \u3092) verb\u3066 \u3042\u3052\u308b = X(in) does ~ for Y(out) (never to superiors)"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 \u3042\u3052\u308b = X(in) does ~ for Y(out) (never to superiors)"
     ],
     [
         "I got (my) friends to wait (for me). {plain} My younger brother got Mr. Yamada for a ride. {plain} Mr. Yamada got my older sister to help (him). {plain} Mr. Yamada got Ms. Natsuko to wait (for him). {plain}",
         "{\u79c1|\u308f\u305f\u3057}\u304c{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306b{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3082\u3089\u3063\u305f\u3002{\u5f1f|\u304a\u3068\u3046\u3068}\u304c{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u9001\u3063\u3066|\u304a\u304f\u3063\u3066}\u3082\u3089\u3063\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u59c9|\u3042\u306d}\u306b{\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066}\u3082\u3089\u3063\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306b{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3082\u3089\u3063\u305f\u3002",
-        "X \u304c Y \u306b verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ],
     [
         "Could (I) get (you) to wait for me?",
         "{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3082\u3089\u3048\u307e\u305b\u3093\u304b\u3002",
-        "X \u304c Y \u306b verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ],
     [
         "If (I) have a chance, may (I) go to China to have fun? If (you) have a chance, please surely come to China to have fun, with your family.",
@@ -5266,7 +5266,7 @@ Flashcards.initialize([
     ],
     [
         "(We) will go to China next month, but (we) still had lots of things (we) want to do and places (we) want to see, so it's a bit of a shame. But one day (we) want to come to Japan again and see everybody.",
-        "{\u6765\u6708|\u3089\u3044\u3052\u3064}{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u3078{\u884c\u304f|\u3044\u304f}\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u304c\u307e\u3060\u3057\u305f\u3044\u3053\u3068\u3084{\u898b\u305f\u3044|\u307f\u305f\u3044}{\u6240|\u3068\u3053\u308d}\u304c\u3042\u3063\u305f\u306e\u3067\u3001{\u5c11\u3057|\u3059\u3053\u3057}\u3056\u3093\u306d\u3093\u3067\u3059\u3002\u3067\u3082\u3001\u307e\u305f\u3044\u3064\u304b{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3001{\u7686\u3055\u3093|\u307f\u306a\u3055\u3093}\u3068{\u4f1a\u3044\u305f\u3044|\u3042\u3044\u305f\u3044}\u3067\u3059\u3002",
+        "{\u6765\u6708|\u3089\u3044\u3052\u3064}{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u3078{\u884c\u304f|\u3044\u304f}\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u304c\u307e\u3060\u3057\u305f\u3044\u3053\u3068\u3084{\u898b\u305f\u3044|\u307f\u305f\u3044}{\u6240|\u3068\u3053\u308d}\u304c\u3042\u3063\u305f\u306e\u3067\u3001{\u5c11\u3057|\u3059\u3053\u3057}{\u6b8b\u5ff5|\u3056\u3093\u306d\u3093}\u3067\u3059\u3002\u3067\u3082\u3001\u307e\u305f\u3044\u3064\u304b{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3001{\u7686\u3055\u3093|\u307f\u306a\u3055\u3093}\u3068{\u4f1a\u3044\u305f\u3044|\u3042\u3044\u305f\u3044}\u3067\u3059\u3002",
         "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u3084: incomplete list\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
     ],
     [
@@ -5392,11 +5392,51 @@ Flashcards.initialize([
     [
         "Let's get (him) called at the reception!",
         "{\u53d7\u4ed8|\u3046\u3051\u3064\u3051}\u3067{\u547c\u3073\u51fa\u3057\u3066|\u3088\u3073\u3060\u3057\u3066}\u3082\u3089\u3044\u307e\u3057\u3087\u3046\u3002",
-        "X \u304c Y \u306b verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ],
     [
-        "You're lying, aren't you? {plain}",
+        "(You're) lying, aren't (you)? {plain}",
         "\u3046\u305d\u3092\u3064\u3044\u3066\u3044\u308b\u306d\u3002",
         ""
+    ],
+    [
+        "Carlos treated (me) to ramen. {plain}",
+        "\u30ab\u30eb\u30ed\u30b9\u306b\u30e9\u30e1\u30f3\u3092\u304a\u3054\u3063\u3066\u3082\u3089\u3063\u305f\u3002",
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+    ],
+    [
+        "(My) husband finishes all the leftover food (for me).",
+        "{\u6b8b\u3063\u305f|\u306e\u3053\u3063\u305f}{\u6599\u7406|\u308a\u3087\u3046\u308a}\u306f\u3001{\u592b|\u304a\u3063\u3068}\u304c{\u5168\u90e8|\u305c\u3093\u3076}{\u98df\u3079\u3066|\u305f\u3079\u3066}\u304f\u308c\u307e\u3059\u3002",
+        "X \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
+    ],
+    [
+        "(I'll) have (my) friend lend (me) a CD. {plain}",
+        "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306bCD\u3092{\u8cb8\u3057\u3066|\u304b\u3057\u3066}\u3082\u3089\u3046\u3002",
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+    ],
+    [
+        "(I'll) carry the children's luggage.",
+        "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e{\u8377\u7269|\u306b\u3082\u3064}\u3092{\u6301\u3063\u3066|\u3082\u3063\u3066}\u3084\u308a\u307e\u3059\u3002",
+        "X \u306f/\u304c Y \u306b verb\u3066 \u3084\u308b = X does ~ for Y (animal, plant)"
+    ],
+    [
+        "(We) finished cooking at last. (We) started eating right away.",
+        "\u3084\u3063\u3068{\u4f5c\u308a\u7d42\u308f\u308a\u307e\u3057\u305f|\u3064\u304f\u308a\u304a\u308f\u308a\u307e\u3057\u305f}\u3002\u3059\u3050\u306b{\u98df\u3079\u59cb\u3081\u307e\u3057\u305f|\u305f\u3079\u306f\u3058\u3081\u307e\u3057\u305f}\u3002",
+        "verb-stem + {\u59cb\u3081\u308b|\u306f\u3058\u3081\u308b} = start doing ~\nverb-stem + {\u7d42\u308f\u308b|\u304a\u308f\u308b} = finish doing ~"
+    ],
+    [
+        "(I) started learning Japanese last week. {plain}",
+        "{\u5148\u9031|\u305b\u3093\u3057\u3085\u3046}\u304b\u3089{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u7fd2\u3044\u59cb\u3081\u305f|\u306a\u3089\u3044\u306f\u3058\u3081\u305f}\u3002",
+        "verb-stem + {\u59cb\u3081\u308b|\u306f\u3058\u3081\u308b} = start doing ~"
+    ],
+    [
+        "Please wait until everyone has finished eating.",
+        "{\u7686|\u307f\u3093\u3042}\u304c{\u98df\u3079\u7d42\u308f\u308b|\u305f\u3079\u304a\u308f\u308b}\u307e\u3067\u3001{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "verb-stem + {\u7d42\u308f\u308b|\u304a\u308f\u308b} = finish doing ~"
+    ],
+    [
+        "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
+        "\u306c\u308c\u3066\u3044\u306a\u3044\u306d\u3002{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c{\u8eca|\u304f\u308b\u307e}\u3067{\u9001\u3063\u3066|\u304a\u304f\u3063\u3066}\u304f\u308c\u305f\u304b\u3089\u3001\u305f\u3059\u304b\u3063\u305f\u3088\u3002",
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nX \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ]
 ])
