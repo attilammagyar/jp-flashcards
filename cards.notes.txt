@@ -147,6 +147,9 @@ X は/が Y に verbて やる = X does ~ for Y (animal, plant)
 Verbs
 =====
 
+transitive verb: active agent acting directly on an object (を)
+intransitive verb: never has direct object (を) except for motion verbs
+
 Verbs + particles
 -----------------
 noun + で + verb = do verb with/using/at noun (place of action or by-means-of)

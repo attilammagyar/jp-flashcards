@@ -5432,5 +5432,40 @@ Flashcards.initialize([
     "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
     "nurete inai ne. {友達|tomodachi} ga {車|kuruma} de {送って|okutte} kureta kara, tasukatta yo.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nX は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "I turned on the lights. The lights turned on. {plain}",
+    "{私|watashi} ga {電気|denki} wo tsuketa. {電気|denki} ga tsuita.",
+    "transitive verb: active agent acting directly on an object (を)\nintransitive verb: never has direct object (を) except for motion verbs"
+],
+[
+    "(I) turn off the lights. The lights turn off. {plain}",
+    "{電気|denki} wo {消す|kesu}. {電気|denki} ga {消える|kieru}.",
+    "transitive verb: active agent acting directly on an object (を)\nintransitive verb: never has direct object (を) except for motion verbs"
+],
+[
+    "Who opened the window? Why has the window opened? {plain}",
+    "{誰|dare} ga {窓|mado} wo {開けた|aketa}? {窓|mado} ga doushite {開いた|aita}?",
+    "transitive verb: active agent acting directly on an object (を)\nintransitive verb: never has direct object (を) except for motion verbs"
+],
+[
+    "(I) left the room. {plain}",
+    "{部屋|heya} wo {出た|deta}.",
+    "intransitive verb: never has direct object (を) except for motion verbs"
+],
+[
+    "(I) aimlessly walk (through) town. {plain}",
+    "{街|machi} wo burabura {歩く|aruku}.",
+    "intransitive verb: never has direct object (を) except for motion verbs"
+],
+[
+    "(I) run (through) the expressway. {plain}",
+    "{高速道路|kousokudouro} wo {走る|hashiru}.",
+    "intransitive verb: never has direct object (を) except for motion verbs"
+],
+[
+    "(I) registered an email address. {plain}",
+    "_meeru adoresu_ wo {登録|touroku} shita.",
+    ""
 ]
 ])

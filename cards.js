@@ -5438,5 +5438,40 @@ Flashcards.initialize([
         "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
         "\u306c\u308c\u3066\u3044\u306a\u3044\u306d\u3002{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c{\u8eca|\u304f\u308b\u307e}\u3067{\u9001\u3063\u3066|\u304a\u304f\u3063\u3066}\u304f\u308c\u305f\u304b\u3089\u3001\u305f\u3059\u304b\u3063\u305f\u3088\u3002",
         "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nX \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+    ],
+    [
+        "I turned on the lights. The lights turned on. {plain}",
+        "{\u79c1|\u308f\u305f\u3057}\u304c{\u96fb\u6c17|\u3067\u3093\u304d}\u3092\u3064\u3051\u305f\u3002{\u96fb\u6c17|\u3067\u3093\u304d}\u304c\u3064\u3044\u305f\u3002",
+        "transitive verb: active agent acting directly on an object (\u3092)\nintransitive verb: never has direct object (\u3092) except for motion verbs"
+    ],
+    [
+        "(I) turn off the lights. The lights turn off. {plain}",
+        "{\u96fb\u6c17|\u3067\u3093\u304d}\u3092{\u6d88\u3059|\u3051\u3059}\u3002{\u96fb\u6c17|\u3067\u3093\u304d}\u304c{\u6d88\u3048\u308b|\u304d\u3048\u308b}\u3002",
+        "transitive verb: active agent acting directly on an object (\u3092)\nintransitive verb: never has direct object (\u3092) except for motion verbs"
+    ],
+    [
+        "Who opened the window? Why has the window opened? {plain}",
+        "{\u8ab0|\u3060\u308c}\u304c{\u7a93|\u307e\u3069}\u3092{\u958b\u3051\u305f|\u3042\u3051\u305f}?{\u7a93|\u307e\u3069}\u304c\u3069\u3046\u3057\u3066{\u958b\u3044\u305f|\u3042\u3044\u305f}?",
+        "transitive verb: active agent acting directly on an object (\u3092)\nintransitive verb: never has direct object (\u3092) except for motion verbs"
+    ],
+    [
+        "(I) left the room. {plain}",
+        "{\u90e8\u5c4b|\u3078\u3084}\u3092{\u51fa\u305f|\u3067\u305f}\u3002",
+        "intransitive verb: never has direct object (\u3092) except for motion verbs"
+    ],
+    [
+        "(I) aimlessly walk (through) town. {plain}",
+        "{\u8857|\u307e\u3061}\u3092\u3076\u3089\u3076\u3089{\u6b69\u304f|\u3042\u308b\u304f}\u3002",
+        "intransitive verb: never has direct object (\u3092) except for motion verbs"
+    ],
+    [
+        "(I) run (through) the expressway. {plain}",
+        "{\u9ad8\u901f\u9053\u8def|\u3053\u3046\u305d\u304f\u3069\u3046\u308d}\u3092{\u8d70\u308b|\u306f\u3057\u308b}\u3002",
+        "intransitive verb: never has direct object (\u3092) except for motion verbs"
+    ],
+    [
+        "(I) registered an email address. {plain}",
+        "\u30e1\u30fc\u30eb\u30fb\u30a2\u30c9\u30ec\u30b9\u3092{\u767b\u9332|\u3068\u3046\u308d\u304f}\u3057\u305f\u3002",
+        ""
     ]
 ])

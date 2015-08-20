@@ -365,3 +365,9 @@
 提供 teikyou
 感じ kanji
 感じる kanjiru
+ぶらぶら burabura
+街 machi
+高速 kousoku
+道路 douro
+高速道路 kousokudouro
+登録 touroku
