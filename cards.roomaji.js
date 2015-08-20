@@ -1461,7 +1461,7 @@ Flashcards.initialize([
 ],
 [
     "That person is embarrassed.",
-    "ano {人|hito} wa hazukashii desu.",
+    "ano {人|hito} wa {恥ずかしい|hazukashii} desu.",
     ""
 ],
 [
@@ -1481,7 +1481,7 @@ Flashcards.initialize([
 ],
 [
     "I think (she's) not especially shy, you know.",
-    "son'na ni hazukashigari ja nai to {思います|omoimasu} yo.",
+    "son'na ni {恥ずかしがり|hazukashigari} ja nai to {思います|omoimasu} yo.",
     ""
 ],
 [
@@ -1511,7 +1511,7 @@ Flashcards.initialize([
 ],
 [
     "I think that Ms. Natsuko is not especially shy.",
-    "{夏子|natsuko} san wa son'na ni hazukashigari ja nai to {思います|omoimasu}.",
+    "{夏子|natsuko} san wa son'na ni {恥ずかしがり|hazukashigari} ja nai to {思います|omoimasu}.",
     ""
 ],
 [
@@ -1716,7 +1716,7 @@ Flashcards.initialize([
 ],
 [
     "I don't think (she) is especially shy.",
-    "son'na ni hazukashigari ja nai to {思います|omoimasu}.",
+    "son'na ni {恥ずかしがり|hazukashigari} ja nai to {思います|omoimasu}.",
     ""
 ],
 [
@@ -2706,7 +2706,7 @@ Flashcards.initialize([
 ],
 [
     "Inside the youth hostel, wearing shoes is not allowed.",
-    "_yuusu hosuteru_ no {中|naka} de wa {靴|kutsu} wo {佩いて|haite} wa ikemasen.",
+    "_yuusu hosuteru_ no {中|naka} de wa {靴|kutsu} wo {履いて|haite} wa ikemasen.",
     "verbて + は + いけません = doing verb is not allowed\nはく -> はいて"
 ],
 [
@@ -2906,7 +2906,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) sorry (I'm) late. From now on, let's keep the curfew.",
-    "{遅れて|okurete} sumimasen. {此れから|korekara} wa mongen wo mamorimashou.",
+    "{遅れて|okurete} sumimasen. {此れから|korekara} wa mongen wo {守りましょう|mamorimashou}.",
     ""
 ],
 [
@@ -3476,7 +3476,7 @@ Flashcards.initialize([
 ],
 [
     "But you promised!",
-    "demo {貴方|anata} wa yakusoku shimashita yo.",
+    "demo {貴方|anata} wa {約束|yakusoku} shimashita yo.",
     ""
 ],
 [
@@ -3561,7 +3561,7 @@ Flashcards.initialize([
 ],
 [
     "Miki isn't shy.  {plain, soft}",
-    "{三木|miki} san wa hazukashigari ja nai wa.",
+    "{三木|miki} san wa {恥ずかしがり|hazukashigari} ja nai wa.",
     "わ at end of sentence = women make informal statement softer or emotional, men may use it after ~ます/です"
 ],
 [
@@ -5245,7 +5245,7 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) make Japanese cuisine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
-    "{時々|tokidoki} {日本料理|nihon ryouri} wo {作る|tsukuru} koto ga arimasu. {一ヶ月|ikkagetsu}, {雨|ame} ga {降らない|furanai} koto ga arimasu. itsumo _jiinzu_ dakedo, {時々|tokidoki} _sukaato_ wo {佩く|haku} koto ga arimasu.",
+    "{時々|tokidoki} {日本料理|nihon ryouri} wo {作る|tsukuru} koto ga arimasu. {一ヶ月|ikkagetsu}, {雨|ame} ga {降らない|furanai} koto ga arimasu. itsumo _jiinzu_ dakedo, {時々|tokidoki} _sukaato_ wo {履く|haku} koto ga arimasu.",
     "verbう + こと + が + ある = sometimes/occasionally ~\nverbない + こと + が + ある = sometimes/occasionally not ~"
 ],
 [
