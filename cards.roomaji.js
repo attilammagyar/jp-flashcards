@@ -3081,7 +3081,7 @@ Flashcards.initialize([
 ],
 [
     "(I) commute to work by train. {emphasize habit}",
-    "{仕事|shigoto} ni {電車|densha} de kayotte imasu.",
+    "{仕事|shigoto} ni {電車|densha} de {通って|kayotte} imasu.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nかよう -> かよって"
 ],
 [
@@ -3461,12 +3461,12 @@ Flashcards.initialize([
 ],
 [
     "I still don't have a driver's license. From next year, (I'll) go to driving school.",
-    "{私|watashi} wa {未だ|mada} {運転免許|untenmenkyo} wa arimasen. {来年|rainen} kara {自動車学校|jidoushagakkou} he kayoimasu.",
+    "{私|watashi} wa {未だ|mada} {運転免許|untenmenkyo} wa arimasen. {来年|rainen} kara {自動車学校|jidoushagakkou} he {通います|kayoimasu}.",
     ""
 ],
 [
     "Let's go to preview wedding halls today! [plain]",
-    "{今日|kyou} wa {結婚|kekkon} shikijou no {下見|shitami} ni {行こう|ikou}.",
+    "{今日|kyou} wa {結婚|kekkon} {式場|shikijou} no {下見|shitami} ni {行こう|ikou}.",
     "へ = to, towards, pronounced as え"
 ],
 [
