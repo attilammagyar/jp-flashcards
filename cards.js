@@ -5473,5 +5473,20 @@ Flashcards.initialize([
         "(I) registered an email address. {plain}",
         "\u30e1\u30fc\u30eb\u30fb\u30a2\u30c9\u30ec\u30b9\u3092{\u767b\u9332|\u3068\u3046\u308d\u304f}\u3057\u305f\u3002",
         ""
+    ],
+    [
+        "(You) shouldn't have eaten breakfast. How come? {plain}",
+        "{\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}\u3093\u3058\u3083\u306a\u304b\u3063\u305f\u3002\u3069\u3046\u3057\u3066?",
+        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "Don't (you) have a class now? No, there's no (class) now. {plain}",
+        "{\u4eca|\u3044\u307e}\u3001{\u6388\u696d|\u3058\u3085\u304e\u3087\u3046}\u304c\u3042\u308b\u3093\u3058\u3083\u306a\u3044?{\u4eca|\u3044\u307e}\u306f\u3001\u306a\u3044\u3093\u3060\u3002",
+        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "Don't (you) not have a class now? No, (I) do have (a class). {plain}",
+        "{\u4eca|\u3044\u307e}\u3001{\u6388\u696d|\u3058\u3085\u304e\u3087\u3046}\u304c\u306a\u3044\u3093\u3058\u3083\u306a\u3044?\u3046\u3046\u3093\u3001\u3042\u308b\u3002",
+        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ]
 ])

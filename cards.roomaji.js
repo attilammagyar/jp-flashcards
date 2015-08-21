@@ -5467,5 +5467,20 @@ Flashcards.initialize([
     "(I) registered an email address. {plain}",
     "_meeru adoresu_ wo {登録|touroku} shita.",
     ""
+],
+[
+    "(You) shouldn't have eaten breakfast. How come? {plain}",
+    "{朝ご飯|asagohan} wo {食べる|taberu} n janakatta. doushite?",
+    "verb-plain + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Don't (you) have a class now? No, there's no (class) now. {plain}",
+    "{今|ima}, {授業|jugyou} ga aru n ja nai? {今|ima} wa, nai n da.",
+    "verb-plain + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Don't (you) not have a class now? No, (I) do have (a class). {plain}",
+    "{今|ima}, {授業|jugyou} ga nai n ja nai? uun, aru.",
+    "verb-plain + の/ん + です = justification, explanation (softer than から)"
 ]
 ])
