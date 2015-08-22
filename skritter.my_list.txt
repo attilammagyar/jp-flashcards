@@ -371,3 +371,7 @@
 道路 douro
 高速道路 kousokudouro
 登録 touroku
+喜び yorokobi
+お疲れ様 otsukare sama
+世直し yonaoshi
+失敗 shippai
