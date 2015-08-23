@@ -1652,7 +1652,7 @@ Flashcards.initialize([
     [
         "What's wrong with him? What's wrong?",
         "{\u5f7c|\u304b\u308c}\u306f\u3069\u3046\u3057\u305f\u306e\u3067\u3059\u304b\u3002\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3002",
-        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
         "(My) throat is sore.",
@@ -3382,7 +3382,7 @@ Flashcards.initialize([
     [
         "What's the matter? Well, you see, (I've) got a headache.",
         "\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3002{\u982d|\u3042\u305f\u307e}\u304c{\u75db\u3044|\u3044\u305f\u3044}\u3093\u3067\u3059\u3002",
-        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
         "Every morning (I) drink coffee before taking a shower.",
@@ -3542,7 +3542,7 @@ Flashcards.initialize([
     [
         "Why do (you) get up late? (I) drink beer until late every night.",
         "\u3069\u3046\u3057\u3066{\u9045\u304f|\u304a\u305d\u304f}{\u8d77\u304d\u308b|\u304a\u304d\u308b}\u3093\u3067\u3059\u304b\u3002{\u6bce\u6669|\u307e\u3044\u3070\u3093}{\u9045\u304f|\u304a\u305d\u304f}\u307e\u3067\u30d3\u30fc\u30eb\u3092{\u98f2\u3080|\u306e\u3080}\u3093\u3067\u3059\u3002",
-        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
         "(I) have an interest in Japanese things.",
@@ -3567,7 +3567,7 @@ Flashcards.initialize([
     [
         "Why (are you) going home? {plain, soft explanation} ('Cos I've got) a headache.",
         "\u3069\u3046\u3057\u3066{\u5e30\u308b|\u304b\u3048\u308b}\u306e?{\u982d|\u3042\u305f\u307e}\u304c{\u75db\u3044|\u3044\u305f\u3044}\u306e\u3002",
-        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059 (\u306e/\u3093: female, \u306e\u3060/\u3093\u3060: male)"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059 (\u306e/\u3093: female, \u306e\u3060/\u3093\u3060: male)"
     ],
     [
         "(It's) cramped here, hot, the food is not delicious, and (it's) not (our) real home.",
@@ -3582,7 +3582,7 @@ Flashcards.initialize([
     [
         "Just as I thought, (you) don't want to go home, do you?",
         "\u3084\u3063\u3071\u308a{\u5e30\u308b\u6c17|\u304b\u3048\u308b\u304d}\u306f\u306a\u3044\u3093\u3067\u3059\u306d\u3002",
-        "verb\u3046 + {\u6c17|\u304d} = feel like doing ~, willing to do ~ (\u3084\u308b{\u6c17|\u304d})\nverb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "verb\u3046 + {\u6c17|\u304d} = feel like doing ~, willing to do ~ (\u3084\u308b{\u6c17|\u304d})\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
         "Do (you) feel like doing it?",
@@ -3682,7 +3682,7 @@ Flashcards.initialize([
     [
         "I'm vegetarian so (I) can't eat meat. {\u306e \u3067} But fish is OK. (Because I) can eat (that).",
         "{\u50d5|\u307c\u304f}\u306f\u30d9\u30b8\u30bf\u30ea\u30a2\u30f3\u306a\u306e\u3067{\u8089|\u306b\u304f}\u3092{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c\u3067\u304d\u307e\u305b\u3093\u3002\u3067\u3082{\u9b5a|\u3055\u304b\u306a}\u306f{\u5927\u4e08\u592b|\u3060\u3044\u3058\u3087\u3046\u3076}\u3067\u3059\u3002{\u98df\u3079\u308b\u3053\u3068|\u305f\u3079\u308b\u3053\u3068}\u304c\u3067\u304d\u308b\u3093\u3067\u3059\u3002",
-        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
         "Next year (I) want to go to South America so (I'm) learning Spanish now. {\u306e \u3067}",
@@ -4227,7 +4227,7 @@ Flashcards.initialize([
     [
         "What's wrong? (My) throat has dried. Well, (you) should probably drink water.",
         "\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3002\u306e\u3069\u304c{\u4e7e\u3044\u305f|\u304b\u308f\u3044\u305f}\u3093\u3067\u3059\u3002\u3058\u3083\u3042\u3001{\u6c34|\u307f\u305a}\u3092{\u98f2\u3093\u3060|\u306e\u3093\u3060}{\u65b9|\u307b\u3046}\u304c\u3044\u3044\u3067\u3057\u3087\u3046\u3002",
-        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nverb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nverb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
     ],
     [
         "When (I) was a student, (I) went to lots of concerts.",
@@ -4377,7 +4377,7 @@ Flashcards.initialize([
     [
         "The teacher was (just) testing you.",
         "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u306f{\u541b\u305f\u3061|\u304d\u307f\u305f\u3061}\u3092{\u8a66\u3057\u305f|\u305f\u3081\u3057\u305f}\u3093\u3060\u3002",
-        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
         "Here, the class will end.",
@@ -5477,16 +5477,51 @@ Flashcards.initialize([
     [
         "(You) shouldn't have eaten breakfast. How come? {plain}",
         "{\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}\u3093\u3058\u3083\u306a\u304b\u3063\u305f\u3002\u3069\u3046\u3057\u3066?",
-        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
         "Don't (you) have a class now? No, there's no (class) now. {plain}",
         "{\u4eca|\u3044\u307e}\u3001{\u6388\u696d|\u3058\u3085\u304e\u3087\u3046}\u304c\u3042\u308b\u3093\u3058\u3083\u306a\u3044?{\u4eca|\u3044\u307e}\u306f\u3001\u306a\u3044\u3093\u3060\u3002",
-        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
         "Don't (you) not have a class now? No, (I) do have (a class). {plain}",
         "{\u4eca|\u3044\u307e}\u3001{\u6388\u696d|\u3058\u3085\u304e\u3087\u3046}\u304c\u306a\u3044\u3093\u3058\u3083\u306a\u3044?\u3046\u3046\u3093\u3001\u3042\u308b\u3002",
-        "verb-plain + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "Bob's voice is fairly large. {plain}",
+        "\u30dc\u30d6\u306e{\u58f0|\u3053\u3048}\u306f\u3001{\u7d50\u69cb|\u3051\u3063\u3053\u3046}{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}\u3002",
+        ""
+    ],
+    [
+        "This town has changed greatly lately. {plain}",
+        "\u3053\u306e{\u753a|\u307e\u3061}\u306f\u3001{\u6700\u8fd1|\u3055\u3044\u304d\u3093}{\u5927\u304d\u304f|\u304a\u304a\u304d\u304f}{\u5909\u308f\u3063\u305f|\u304b\u308f\u3063\u305f}\u3002",
+        "\u3044 adj. - \u3044 + \u304f = adverb"
+    ],
+    [
+        "Within the library, (we) do (things) quietly. {plain}",
+        "{\u56f3\u66f8\u9928|\u3068\u3057\u3087\u304b\u3093}\u306e{\u4e2d|\u306a\u304b}\u3067\u306f\u3001{\u9759\u304b|\u3057\u305a\u304b}\u306b\u3059\u308b\u3002",
+        "\u306a adj. + \u306b = adverb"
+    ],
+    [
+        "Bob, (you) like fish, don't you? That is so, huh? {plain}",
+        "\u30dc\u30d6\u306f\u3001{\u9b5a|\u3055\u304b\u306a}\u304c{\u597d\u304d|\u3059\u304d}\u306a\u3093\u3060\u3088\u306d\u3002\u305d\u3046\u3060\u306d\u3002",
+        "noun/\u306a-adj. + \u306a + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "It was that there was no time yesterday.",
+        "{\u6628\u65e5|\u304d\u306e\u3046}\u3001{\u6642\u9593|\u3058\u304b\u3093}\u304c\u306a\u304b\u3063\u305f\u3093\u3067\u3059\u3002",
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "Hey, isn't it late? {plain}",
+        "{\u9045\u3044|\u304a\u305d\u3044}\u3093\u3058\u3083\u306a\u3044?",
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "(Cos' he's) a student. {plain}",
+        "{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u306a\u3093\u3060\u3002",
+        "noun/\u306a-adj. + \u306a + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ]
 ])

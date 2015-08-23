@@ -1652,7 +1652,7 @@ Flashcards.initialize([
 [
     "What's wrong with him? What's wrong?",
     "{彼|kare} wa dou shita no desu ka. dou shita n desu ka.",
-    "verb-plain + の/ん + です = justification, explanation (softer than から)"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "(My) throat is sore.",
@@ -3382,7 +3382,7 @@ Flashcards.initialize([
 [
     "What's the matter? Well, you see, (I've) got a headache.",
     "dou shita n desu ka. {頭|atama} ga {痛い|itai} n desu.",
-    "verb-plain + の/ん + です = justification, explanation (softer than から)"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "Every morning (I) drink coffee before taking a shower.",
@@ -3542,7 +3542,7 @@ Flashcards.initialize([
 [
     "Why do (you) get up late? (I) drink beer until late every night.",
     "doushite {遅く|osoku} {起きる|okiru} n desu ka. {毎晩|maiban} {遅く|osoku} made _biiru_ wo {飲む|nomu} n desu.",
-    "verb-plain + の/ん + です = justification, explanation (softer than から)"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "(I) have an interest in Japanese things.",
@@ -3567,7 +3567,7 @@ Flashcards.initialize([
 [
     "Why (are you) going home? {plain, soft explanation} ('Cos I've got) a headache.",
     "doushite {帰る|kaeru} no? {頭|atama} ga {痛い|itai} no.",
-    "verb-plain + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)"
 ],
 [
     "(It's) cramped here, hot, the food is not delicious, and (it's) not (our) real home.",
@@ -3582,7 +3582,7 @@ Flashcards.initialize([
 [
     "Just as I thought, (you) don't want to go home, do you?",
     "yappari {帰る気|kaeruki} wa nai n desu ne.",
-    "verbう + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})\nverb-plain + の/ん + です = justification, explanation (softer than から)"
+    "verbう + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "Do (you) feel like doing it?",
@@ -3682,7 +3682,7 @@ Flashcards.initialize([
 [
     "I'm vegetarian so (I) can't eat meat. {の で} But fish is OK. (Because I) can eat (that).",
     "{僕|boku} wa _bejitarian_ na no de {肉|niku} wo {食べること|taberukoto} ga dekimasen. demo {魚|sakana} wa {大丈夫|daijoubu} desu. {食べること|taberukoto} ga dekiru n desu.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-plain + の/ん + です = justification, explanation (softer than から)"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "Next year (I) want to go to South America so (I'm) learning Spanish now. {の で}",
@@ -4227,7 +4227,7 @@ Flashcards.initialize([
 [
     "What's wrong? (My) throat has dried. Well, (you) should probably drink water.",
     "dou shita n desu ka. nodo ga {乾いた|kawaita} n desu. jaa, {水|mizu} wo {飲んだ|nonda} {方|hou} ga ii deshou.",
-    "verb-plain + の/ん + です = justification, explanation (softer than から)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~"
 ],
 [
     "When (I) was a student, (I) went to lots of concerts.",
@@ -4377,7 +4377,7 @@ Flashcards.initialize([
 [
     "The teacher was (just) testing you.",
     "{先生|sensei} wa {君たち|kimitachi} wo {試した|tameshita} n da.",
-    "verb-plain + の/ん + です = justification, explanation (softer than から)"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "Here, the class will end.",
@@ -5471,16 +5471,51 @@ Flashcards.initialize([
 [
     "(You) shouldn't have eaten breakfast. How come? {plain}",
     "{朝ご飯|asagohan} wo {食べる|taberu} n janakatta. doushite?",
-    "verb-plain + の/ん + です = justification, explanation (softer than から)"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "Don't (you) have a class now? No, there's no (class) now. {plain}",
     "{今|ima}, {授業|jugyou} ga aru n ja nai? {今|ima} wa, nai n da.",
-    "verb-plain + の/ん + です = justification, explanation (softer than から)"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "Don't (you) not have a class now? No, (I) do have (a class). {plain}",
     "{今|ima}, {授業|jugyou} ga nai n ja nai? uun, aru.",
-    "verb-plain + の/ん + です = justification, explanation (softer than から)"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Bob's voice is fairly large. {plain}",
+    "_bobu_ no {声|koe} wa, {結構|kekkou} {大きい|ookii}.",
+    ""
+],
+[
+    "This town has changed greatly lately. {plain}",
+    "kono {町|machi} wa, {最近|saikin} {大きく|ookiku} {変わった|kawatta}.",
+    "い adj. - い + く = adverb"
+],
+[
+    "Within the library, (we) do (things) quietly. {plain}",
+    "{図書館|toshokan} no {中|naka} de wa, {静か|shizuka} ni suru.",
+    "な adj. + に = adverb"
+],
+[
+    "Bob, (you) like fish, don't you? That is so, huh? {plain}",
+    "_bobu_ wa, {魚|sakana} ga {好き|suki} na n da yo ne. sou da ne.",
+    "noun/な-adj. + な + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "It was that there was no time yesterday.",
+    "{昨日|kinou}, {時間|jikan} ga nakatta n desu.",
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Hey, isn't it late? {plain}",
+    "{遅い|osoi} n ja nai?",
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "(Cos' he's) a student. {plain}",
+    "{学生|gakusei} na n da.",
+    "noun/な-adj. + な + の/ん + です = justification, explanation (softer than から)"
 ]
 ])

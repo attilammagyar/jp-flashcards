@@ -375,3 +375,13 @@
 お疲れ様 otsukare sama
 世直し yonaoshi
 失敗 shippai
+切り替える kirikaeru
+丁寧語 teineigo
+尊敬語 sonkeigo
+謙譲語 kenjougo
+鉄拳 tekken
+楽しむ tanoshimu
+加える kuwaeru
+付け加える tsukekuwaeru
+言い出す iidasu
+初心者 shoshinsha
