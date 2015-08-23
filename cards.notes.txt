@@ -40,11 +40,11 @@ Size, amount
 {大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)
 {小さい|chiisai} = い-adj., {小さな|chiisana} = noun modifier, only before nouns
 
-とくい, にがて, 上手, 下手
+得意, 苦手, 上手, 下手
 ===================
 {上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.
-とくい/にがて: talents, academic/professional skills, strong/weak points
-とくい is more modest than {上手|じょうず}
+{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points
+{得意|とくい} is more modest than {上手|じょうず}
 
 Comparatives
 ============

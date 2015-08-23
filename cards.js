@@ -681,13 +681,13 @@ Flashcards.initialize([
     ],
     [
         "Peter, (you) are good at English, aren't you?",
-        "\u30d4\u30fc\u30bf\u30fc\u306f{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u3068\u304f\u3044\u3067\u3059\u306d\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "\u30d4\u30fc\u30bf\u30fc\u306f{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c{\u5f97\u610f|\u3068\u304f\u3044}\u3067\u3059\u306d\u3002",
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "She is good at cooking.",
-        "{\u5f7c\u5973|\u304b\u306e\u3058\u3087}\u306f{\u6599\u7406|\u308a\u3087\u3046\u308a}\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "{\u5f7c\u5973|\u304b\u306e\u3058\u3087}\u306f{\u6599\u7406|\u308a\u3087\u3046\u308a}\u304c{\u5f97\u610f|\u3068\u304f\u3044}\u3067\u3059\u3002",
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Tomorrow (I) have an English exam.",
@@ -771,8 +771,8 @@ Flashcards.initialize([
     ],
     [
         "I'm not good at waking up early.",
-        "{\u79c1|\u308f\u305f\u3057}\u306f{\u65e9\u8d77\u304d|\u306f\u3084\u304a\u304d}\u304c\u306b\u304c\u3066\u3067\u3059\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "{\u79c1|\u308f\u305f\u3057}\u306f{\u65e9\u8d77\u304d|\u306f\u3084\u304a\u304d}\u304c{\u82e6\u624b|\u306b\u304c\u3066}\u3067\u3059\u3002",
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "8 pairs of shoes",
@@ -1542,7 +1542,7 @@ Flashcards.initialize([
     [
         "Mr. Roger is good at bowling, isn't he?",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3067\u3059\u306d\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "This is a lively place, isn't it?",
@@ -1567,7 +1567,7 @@ Flashcards.initialize([
     [
         "Ms. Miki is bad at bowling.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c{\u4e0b\u624b|\u3078\u305f}\u3067\u3059\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "eyes, big, small, round",
@@ -1632,7 +1632,7 @@ Flashcards.initialize([
     [
         "(I'm) poor at sports, but (I'm) goot at origami.",
         "\u30b9\u30dd\u30fc\u30c4\u304c{\u4e0b\u624b|\u3078\u305f}\u3067\u3059\u304c\u304a\u308a\u304c\u307f\u306f{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3067\u3059\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "I think he's famous.",
@@ -1732,7 +1732,7 @@ Flashcards.initialize([
     [
         "I am poor at sports but good at origami.",
         "{\u79c1|\u308f\u305f\u3057}\u306f\u30b9\u30dd\u30fc\u30c4\u304c{\u4e0b\u624b|\u3078\u305f}\u3067\u3059\u304c\u304a\u308a\u304c\u307f\u306f{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3067\u3059\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "(It) was wonderful and interesting.",
@@ -1756,17 +1756,17 @@ Flashcards.initialize([
     ],
     [
         "This book was boring and disagreeable.",
-        "{\u6b64\u306e|\u3053\u306e}{\u672c|\u307b\u3093}\u306f{\u8a70\u307e\u3089\u306a\u304f\u3066|\u3064\u307e\u3089\u306a\u304f\u3066}\u3075\u3086\u304b\u3044\u3067\u3057\u305f\u3002",
+        "{\u6b64\u306e|\u3053\u306e}{\u672c|\u307b\u3093}\u306f{\u8a70\u307e\u3089\u306a\u304f\u3066|\u3064\u307e\u3089\u306a\u304f\u3066}{\u4e0d\u6109\u5feb|\u3075\u3086\u304b\u3044}\u3067\u3057\u305f\u3002",
         ""
     ],
     [
         "Last week (I) did a business trip to Osaka. It wasn't interesting.",
-        "{\u5148\u9031|\u305b\u3093\u3057\u3085\u3046}\u304a\u304a\u3055\u304b\u306b\u3057\u3085\u3063\u3061\u3087\u3046\u3057\u307e\u3057\u305f\u3002{\u9762\u767d\u304f\u306a\u304b\u3063\u305f|\u304a\u3082\u3057\u308d\u304f\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
+        "{\u5148\u9031|\u305b\u3093\u3057\u3085\u3046}{\u5927\u962a|\u304a\u304a\u3055\u304b}\u306b{\u51fa\u5f35|\u3057\u3085\u3063\u3061\u3087\u3046}\u3057\u307e\u3057\u305f\u3002{\u9762\u767d\u304f\u306a\u304b\u3063\u305f|\u304a\u3082\u3057\u308d\u304f\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
         ""
     ],
     [
         "arrival, departure",
-        "\u3068\u3046\u3061\u3083\u304f\u3001\u3057\u3085\u3063\u3071\u3064",
+        "{\u5230\u7740|\u3068\u3046\u3061\u3083\u304f}\u3001{\u51fa\u767a|\u3057\u3085\u3063\u3071\u3064}",
         ""
     ],
     [
@@ -1786,7 +1786,7 @@ Flashcards.initialize([
     ],
     [
         "What time is the departure?",
-        "\u3057\u3085\u3063\u3071\u3064\u306f{\u4f55\u6642|\u306a\u3093\u3058}\u3067\u3059\u304b\u3002",
+        "{\u51fa\u767a|\u3057\u3085\u3063\u3071\u3064}\u306f{\u4f55\u6642|\u306a\u3093\u3058}\u3067\u3059\u304b\u3002",
         ""
     ],
     [
@@ -1806,7 +1806,7 @@ Flashcards.initialize([
     ],
     [
         "(I) don't know numbers above 1000.",
-        "{\u4e00\u5343|\u3044\u3063\u305b\u3093}\u3044\u3058\u3087\u3046\u306e\u3059\u3046\u3058{\u5206\u304b\u308a\u307e\u305b\u3093|\u308f\u304b\u308a\u307e\u305b\u3093}\u3002",
+        "{\u4e00\u5343|\u3044\u3063\u305b\u3093}\u3044\u3058\u3087\u3046\u306e{\u6570\u5b57|\u3059\u3046\u3058}{\u5206\u304b\u308a\u307e\u305b\u3093|\u308f\u304b\u308a\u307e\u305b\u3093}\u3002",
         ""
     ],
     [
@@ -1821,7 +1821,7 @@ Flashcards.initialize([
     ],
     [
         "Mr. Yamada went to Osaka by bullet train.",
-        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3057\u3093\u304b\u3093\u305b\u3093\u3067\u304a\u304a\u3055\u304b\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3057\u3093\u304b\u3093\u305b\u3093\u3067{\u5927\u962a|\u304a\u304a\u3055\u304b}\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
         "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nA \u306b B \u3067 {\u884c\u304f|\u3044\u304f} = B \u3067 A \u306b {\u884c\u304f|\u3044\u304f}"
     ],
     [
@@ -1836,7 +1836,7 @@ Flashcards.initialize([
     ],
     [
         "May (I) have 2 tickets for Osaka please?",
-        "\u304a\u304a\u3055\u304b{\u884c\u304d|\u3086\u304d}\u306e{\u5207\u7b26|\u304d\u3063\u3077}\u3092{\u4e8c|\u306b}{\u679a|\u307e\u3044}\u304f\u3060\u3055\u3044\u3002",
+        "{\u5927\u962a|\u304a\u304a\u3055\u304b}{\u884c\u304d|\u3086\u304d}\u306e{\u5207\u7b26|\u304d\u3063\u3077}\u3092{\u4e8c|\u306b}{\u679a|\u307e\u3044}\u304f\u3060\u3055\u3044\u3002",
         ""
     ],
     [
@@ -1857,7 +1857,7 @@ Flashcards.initialize([
     [
         "Miki writes kanji skillfully.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u306b{\u6f22\u5b57|\u304b\u3093\u3058}\u3092{\u66f8\u304d\u307e\u3059|\u304b\u304d\u307e\u3059}\u3002",
-        "\u306a adj. + \u306b = adverb\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "\u306a adj. + \u306b = adverb\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Robert speaks Japanese well.",
@@ -1892,7 +1892,7 @@ Flashcards.initialize([
     [
         "Miki has got good at bowling.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Happy New Year!",
@@ -1907,7 +1907,7 @@ Flashcards.initialize([
     [
         "If (you) study every day, (your) Japanese will get skilled.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3059\u308b\u3068{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u304c{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u306b\u306a\u308a\u307e\u3059\u3002",
-        "verb-A-\u3046 + \u3068 + verb-B = if A then B\nnoun/\u306a adj. + \u306b + \u306a\u308b = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "verb-A-\u3046 + \u3068 + verb-B = if A then B\nnoun/\u306a adj. + \u306b + \u306a\u308b = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Since (I) saw photos of Japan, (I) got wanting to go. {\u306e \u3067}",
@@ -2006,7 +2006,7 @@ Flashcards.initialize([
     ],
     [
         "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
-        "\u304a\u304a\u3055\u304b{\u884c\u304d|\u3086\u304d}\u306e{\u5207\u7b26|\u304d\u3063\u3077}\u3092{\u30cb|\u306b}{\u679a|\u307e\u3044}\u304f\u3060\u3055\u3044\u3002{\u7247\u9053|\u304b\u305f\u307f\u3061}\u3067\u3059\u304b\u3002\u304a\u3046\u3075\u304f\u3067\u3059\u304b\u3002{\u7247\u9053|\u304b\u305f\u307f\u3061}\u3067\u3059\u3002",
+        "{\u5927\u962a|\u304a\u304a\u3055\u304b}{\u884c\u304d|\u3086\u304d}\u306e{\u5207\u7b26|\u304d\u3063\u3077}\u3092{\u30cb|\u306b}{\u679a|\u307e\u3044}\u304f\u3060\u3055\u3044\u3002{\u7247\u9053|\u304b\u305f\u307f\u3061}\u3067\u3059\u304b\u3002\u304a\u3046\u3075\u304f\u3067\u3059\u304b\u3002{\u7247\u9053|\u304b\u305f\u307f\u3061}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -2016,12 +2016,12 @@ Flashcards.initialize([
     ],
     [
         "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
-        "\u304a\u304a\u3055\u304b\u306b{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u3067\u3059\u3002{\u9762\u767d\u304f\u306a\u3044|\u304a\u3082\u3057\u308d\u304f\u306a\u3044}{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304b\u3002\u304a\u304a\u3055\u304b\u306f\u3059\u3070\u3089\u3057\u3044{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304c{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306f{\u8a70\u307e\u3089\u306a\u304b\u3063\u305f|\u3064\u307e\u3089\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
+        "{\u5927\u962a|\u304a\u304a\u3055\u304b}\u306b{\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044}\u3067\u3059\u3002{\u9762\u767d\u304f\u306a\u3044|\u304a\u3082\u3057\u308d\u304f\u306a\u3044}{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304b\u3002{\u5927\u962a|\u304a\u304a\u3055\u304b}\u306f\u3059\u3070\u3089\u3057\u3044{\u6240|\u3068\u3053\u308d}\u3067\u3059\u304c{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306f{\u8a70\u307e\u3089\u306a\u304b\u3063\u305f|\u3064\u307e\u3089\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
         "\u304f\u306a\u3044 = negative of \u3044 adj.\n\u304b\u3063\u305f = past tense of \u3044 adj.\n\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj.\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location"
     ],
     [
         "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-        "\u304a\u304a\u3055\u304b\u307e\u3067\u3057\u3093\u304b\u3093\u305b\u3093\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002{\u7247\u9053|\u304b\u305f\u307f\u3061}\u306e{\u5207\u7b26|\u304d\u3063\u3077}\u3092{\u8cb7\u3044\u307e\u3057\u305f|\u304b\u3044\u307e\u3057\u305f}\u3002\u3069\u3046\u308a\u3087\u3046\u306e{\u8eca|\u304f\u308b\u307e}\u3067{\u5e30\u308a\u307e\u3057\u305f|\u304b\u3048\u308a\u307e\u3057\u305f}\u3002{\u5176\u308c|\u305d\u308c}\u3082{\u697d\u3057\u304f\u306a\u304b\u3063\u305f|\u305f\u306e\u3057\u304f\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
+        "{\u5927\u962a|\u304a\u304a\u3055\u304b}\u307e\u3067\u3057\u3093\u304b\u3093\u305b\u3093\u3067{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002{\u7247\u9053|\u304b\u305f\u307f\u3061}\u306e{\u5207\u7b26|\u304d\u3063\u3077}\u3092{\u8cb7\u3044\u307e\u3057\u305f|\u304b\u3044\u307e\u3057\u305f}\u3002\u3069\u3046\u308a\u3087\u3046\u306e{\u8eca|\u304f\u308b\u307e}\u3067{\u5e30\u308a\u307e\u3057\u305f|\u304b\u3048\u308a\u307e\u3057\u305f}\u3002{\u5176\u308c|\u305d\u308c}\u3082{\u697d\u3057\u304f\u306a\u304b\u3063\u305f|\u305f\u306e\u3057\u304f\u306a\u304b\u3063\u305f}\u3067\u3059\u3002",
         "\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj."
     ],
     [
@@ -2036,7 +2036,7 @@ Flashcards.initialize([
     ],
     [
         "On Thursday, (it) snowed all day. (It) was unpleasant.",
-        "{\u6728\u66dc\u65e5|\u3082\u304f\u3088\u3046\u3073}\u306f{\u4e00\u65e5|\u3044\u3061\u306b\u3061}{\u96ea|\u3086\u304d}\u3067\u3057\u305f\u3002\u3075\u3086\u304b\u3044\u3067\u3057\u305f\u3002",
+        "{\u6728\u66dc\u65e5|\u3082\u304f\u3088\u3046\u3073}\u306f{\u4e00\u65e5|\u3044\u3061\u306b\u3061}{\u96ea|\u3086\u304d}\u3067\u3057\u305f\u3002{\u4e0d\u6109\u5feb|\u3075\u3086\u304b\u3044}\u3067\u3057\u305f\u3002",
         ""
     ],
     [
@@ -2122,7 +2122,7 @@ Flashcards.initialize([
     [
         "Miki is bad at both bowling and tennis.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u3082\u30c6\u30cb\u30b9\u3082{\u4e0b\u624b|\u3078\u305f}\u3067\u3059\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
@@ -2286,13 +2286,13 @@ Flashcards.initialize([
     ],
     [
         "I'm bad at bowling. He's good at bowling. I'm poor at English. He's good at Japanese.",
-        "{\u79c1|\u308f\u305f\u3057}\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c{\u4e0b\u624b|\u3078\u305f}\u3067\u3059\u3002{\u5f7c|\u304b\u308c}\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3067\u3059\u3002{\u79c1|\u308f\u305f\u3057}\u306f{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u306b\u304c\u3066\u3067\u3059\u3002{\u5f7c|\u304b\u308c}\u306f{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "{\u79c1|\u308f\u305f\u3057}\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c{\u4e0b\u624b|\u3078\u305f}\u3067\u3059\u3002{\u5f7c|\u304b\u308c}\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3067\u3059\u3002{\u79c1|\u308f\u305f\u3057}\u306f{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c{\u82e6\u624b|\u306b\u304c\u3066}\u3067\u3059\u3002{\u5f7c|\u304b\u308c}\u306f{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u304c{\u5f97\u610f|\u3068\u304f\u3044}\u3067\u3059\u3002",
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "I'm good at Mathematics.",
-        "{\u79c1|\u308f\u305f\u3057}\u306f\u3059\u3046\u304c\u304f\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "{\u79c1|\u308f\u305f\u3057}\u306f{\u6570\u5b66|\u3059\u3046\u304c\u304f}\u304c{\u5f97\u610f|\u3068\u304f\u3044}\u3067\u3059\u3002",
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Ms. Natsuko drank green tea while listening to the news.",
@@ -2442,7 +2442,7 @@ Flashcards.initialize([
     [
         "I'm not very good at golf, but I'll give it a try.",
         "{\u50d5|\u307c\u304f}\u306f\u30b4\u30eb\u30d5\u304c{\u4f59\u308a|\u3042\u307e\u308a}{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u304c\u3084\u3063\u3066\u307f\u307e\u3057\u3087\u3046\u3002",
-        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
@@ -2481,7 +2481,7 @@ Flashcards.initialize([
     ],
     [
         "A filmstar's lifestyle looks unpleasant, doesn't it?",
-        "{\u6620\u753b|\u3048\u3044\u304c}\u30b9\u30bf\u30fc\u306e\u305b\u3044\u304b\u3064\u306f\u3075\u3086\u304b\u3044\u305d\u3046\u3067\u3059\u306d\u3002",
+        "{\u6620\u753b|\u3048\u3044\u304c}\u30b9\u30bf\u30fc\u306e\u305b\u3044\u304b\u3064\u306f{\u4e0d\u6109\u5feb\u305d\u3046|\u3075\u3086\u304b\u3044\u305d\u3046}\u3067\u3059\u306d\u3002",
         "adj. stem/verb stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
     ],
     [
@@ -3256,7 +3256,7 @@ Flashcards.initialize([
     ],
     [
         "Twice every week (I) go to cram school and (I) learn Maths and English (etc.). {habit}",
-        "{\u6bce\u9031|\u307e\u3044\u3057\u3085\u3046}{\u4e8c\u56de|\u306b\u304b\u3044}\u3058\u3085\u304f\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001\u3059\u3046\u304c\u304f\u3084{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u3066\u3044\u307e\u3059\u3002",
+        "{\u6bce\u9031|\u307e\u3044\u3057\u3085\u3046}{\u4e8c\u56de|\u306b\u304b\u3044}\u3058\u3085\u304f\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001{\u6570\u5b66|\u3059\u3046\u304c\u304f}\u3084{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u3066\u3044\u307e\u3059\u3002",
         "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u3084: incomplete list"
     ],
     [
@@ -3411,8 +3411,8 @@ Flashcards.initialize([
     ],
     [
         "Yuki is good at studying Maths but bad at English.",
-        "\u3086\u304d\u3055\u3093\u306f\u3059\u3046\u304c\u304f\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3059\u308b{\u4e8b|\u3053\u3068}\u304c\u3068\u304f\u3044\u3067\u3059\u304c{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u306b\u304c\u3066\u3067\u3059\u3002",
-        "verb\u3046 + \u3053\u3068 = doing ~ (nominalize)\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "\u3086\u304d\u3055\u3093\u306f{\u6570\u5b66|\u3059\u3046\u304c\u304f}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3059\u308b{\u4e8b|\u3053\u3068}\u304c{\u5f97\u610f|\u3068\u304f\u3044}\u3067\u3059\u304c{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c{\u82e6\u624b|\u306b\u304c\u3066}\u3067\u3059\u3002",
+        "verb\u3046 + \u3053\u3068 = doing ~ (nominalize)\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Speaking with Japanese people is interesting.",
@@ -3421,12 +3421,12 @@ Flashcards.initialize([
     ],
     [
         "Roger is good at writing kanji.",
-        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u6f22\u5b57|\u304b\u3093\u3058}\u3092{\u66f8\u304f\u3053\u3068|\u304b\u304f\u3053\u3068}\u304c\u3068\u304f\u3044\u3067\u3059\u3002",
-        "verb\u3046 + \u3053\u3068 = doing ~ (nominalize)\n\u3068\u304f\u3044/\u306b\u304c\u3066: talents, academic/professional skills, strong/weak points\n\u3068\u304f\u3044 is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u6f22\u5b57|\u304b\u3093\u3058}\u3092{\u66f8\u304f\u3053\u3068|\u304b\u304f\u3053\u3068}\u304c{\u5f97\u610f|\u3068\u304f\u3044}\u3067\u3059\u3002",
+        "verb\u3046 + \u3053\u3068 = doing ~ (nominalize)\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Recently (I'm) learning judo.",
-        "\u3055\u3044\u304d\u3093\u3058\u3085\u3046\u3069\u3046\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u307e\u3059\u3002",
+        "{\u6700\u8fd1|\u3055\u3044\u304d\u3093}\u3058\u3085\u3046\u3069\u3046\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u307e\u3059\u3002",
         "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
     [
@@ -3711,12 +3711,12 @@ Flashcards.initialize([
     ],
     [
         "Which has the larger population, Osaka or Tokyo?",
-        "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u3001\u304a\u304a\u3055\u304b\u306f{\u4f55\u65b9|\u3069\u3061\u3089}\u306e{\u4eba\u53e3|\u3058\u3093\u3053\u3046}\u304c{\u591a\u3044|\u304a\u304a\u3044}\u3067\u3059\u304b\u3002",
+        "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u3001{\u5927\u962a|\u304a\u304a\u3055\u304b}\u306f{\u4f55\u65b9|\u3069\u3061\u3089}\u306e{\u4eba\u53e3|\u3058\u3093\u3053\u3046}\u304c{\u591a\u3044|\u304a\u304a\u3044}\u3067\u3059\u304b\u3002",
         ""
     ],
     [
         "Tokyo's population is larger than Osaka's.",
-        "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306e{\u4eba\u53e3|\u3058\u3093\u3053\u3046}\u306f\u304a\u304a\u3055\u304b\u3088\u308a{\u591a\u3044|\u304a\u304a\u3044}\u3067\u3059\u3002",
+        "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306e{\u4eba\u53e3|\u3058\u3093\u3053\u3046}\u306f{\u5927\u962a|\u304a\u304a\u3055\u304b}\u3088\u308a{\u591a\u3044|\u304a\u304a\u3044}\u3067\u3059\u3002",
         "A \u306f B\u3088\u308a X = B\u3088\u308a A \u306f X = A is X'er than B"
     ],
     [
@@ -3746,7 +3746,7 @@ Flashcards.initialize([
     ],
     [
         "The next station is Osaka.",
-        "{\u6b21|\u3064\u304e}\u306e{\u99c5|\u3048\u304d}\u306f\u304a\u304a\u3055\u304b\u3067\u3059\u3002",
+        "{\u6b21|\u3064\u304e}\u306e{\u99c5|\u3048\u304d}\u306f{\u5927\u962a|\u304a\u304a\u3055\u304b}\u3067\u3059\u3002",
         ""
     ],
     [
@@ -4066,7 +4066,7 @@ Flashcards.initialize([
     ],
     [
         "Last week (I) studied Japanese, did shopping and went to Osaka.",
-        "{\u5148\u9031|\u305b\u3093\u3057\u3085\u3046}{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u305f\u308a\u3001{\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e}\u3092\u3057\u305f\u308a\u3001\u304a\u304a\u3055\u304b\u306b{\u884c\u3063\u305f\u308a|\u3044\u3063\u305f\u308a}\u3057\u307e\u3057\u305f\u3002",
+        "{\u5148\u9031|\u305b\u3093\u3057\u3085\u3046}{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u305f\u308a\u3001{\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e}\u3092\u3057\u305f\u308a\u3001{\u5927\u962a|\u304a\u304a\u3055\u304b}\u306b{\u884c\u3063\u305f\u308a|\u3044\u3063\u305f\u308a}\u3057\u307e\u3057\u305f\u3002",
         "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
     ],
     [
@@ -4556,7 +4556,7 @@ Flashcards.initialize([
     ],
     [
         "(It has been decided that I) will go on a business trip to Osaka next week.",
-        "{\u6765\u9031|\u3089\u3044\u3057\u3085\u3046}\u304a\u304a\u3055\u304b\u306b\u3057\u3085\u3063\u3061\u3087\u3046\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
+        "{\u6765\u9031|\u3089\u3044\u3057\u3085\u3046}{\u5927\u962a|\u304a\u304a\u3055\u304b}\u306b{\u51fa\u5f35|\u3057\u3085\u3063\u3061\u3087\u3046}\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
         "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
@@ -4786,7 +4786,7 @@ Flashcards.initialize([
     ],
     [
         "On Thursday, it was unexpectedly decided for me to go on a business trip to Tokyo.",
-        "{\u6728\u66dc\u65e5|\u3082\u304f\u3088\u3046\u3073}\u306b\u3068\u3064\u305c\u3093{\u79c1|\u308f\u305f\u3057}\u306f{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306b\u3057\u3085\u3063\u3061\u3087\u3046\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
+        "{\u6728\u66dc\u65e5|\u3082\u304f\u3088\u3046\u3073}\u306b\u3068\u3064\u305c\u3093{\u79c1|\u308f\u305f\u3057}\u306f{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306b{\u51fa\u5f35|\u3057\u3085\u3063\u3061\u3087\u3046}\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
         "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [

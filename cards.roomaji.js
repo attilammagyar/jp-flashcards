@@ -681,13 +681,13 @@ Flashcards.initialize([
 ],
 [
     "Peter, (you) are good at English, aren't you?",
-    "_piitaa_ wa {英語|eigo} ga tokui desu ne.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "_piitaa_ wa {英語|eigo} ga {得意|tokui} desu ne.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "She is good at cooking.",
-    "{彼女|kanojo} wa {料理|ryouri} ga tokui desu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "{彼女|kanojo} wa {料理|ryouri} ga {得意|tokui} desu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Tomorrow (I) have an English exam.",
@@ -771,8 +771,8 @@ Flashcards.initialize([
 ],
 [
     "I'm not good at waking up early.",
-    "{私|watashi} wa {早起き|hayaoki} ga nigate desu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "{私|watashi} wa {早起き|hayaoki} ga {苦手|nigate} desu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "8 pairs of shoes",
@@ -1542,7 +1542,7 @@ Flashcards.initialize([
 [
     "Mr. Roger is good at bowling, isn't he?",
     "_rojaa_ san wa _booringu_ ga {上手|jouzu} desu ne.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "This is a lively place, isn't it?",
@@ -1567,7 +1567,7 @@ Flashcards.initialize([
 [
     "Ms. Miki is bad at bowling.",
     "{三木|miki} san wa _booringu_ ga {下手|heta} desu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "eyes, big, small, round",
@@ -1632,7 +1632,7 @@ Flashcards.initialize([
 [
     "(I'm) poor at sports, but (I'm) goot at origami.",
     "_supootsu_ ga {下手|heta} desu ga origami wa {上手|jouzu} desu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "I think he's famous.",
@@ -1732,7 +1732,7 @@ Flashcards.initialize([
 [
     "I am poor at sports but good at origami.",
     "{私|watashi} wa _supootsu_ ga {下手|heta} desu ga origami wa {上手|jouzu} desu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "(It) was wonderful and interesting.",
@@ -1756,17 +1756,17 @@ Flashcards.initialize([
 ],
 [
     "This book was boring and disagreeable.",
-    "{此の|kono} {本|hon} wa {詰まらなくて|tsumaranakute} fuyukai deshita.",
+    "{此の|kono} {本|hon} wa {詰まらなくて|tsumaranakute} {不愉快|fuyukai} deshita.",
     ""
 ],
 [
     "Last week (I) did a business trip to Osaka. It wasn't interesting.",
-    "{先週|senshuu} oosaka ni shucchou shimashita. {面白くなかった|omoshirokunakatta} desu.",
+    "{先週|senshuu} {大阪|oosaka} ni {出張|shucchou} shimashita. {面白くなかった|omoshirokunakatta} desu.",
     ""
 ],
 [
     "arrival, departure",
-    "touchaku, shuppatsu",
+    "{到着|touchaku}, {出発|shuppatsu}",
     ""
 ],
 [
@@ -1786,7 +1786,7 @@ Flashcards.initialize([
 ],
 [
     "What time is the departure?",
-    "shuppatsu wa {何時|nan ji} desu ka.",
+    "{出発|shuppatsu} wa {何時|nan ji} desu ka.",
     ""
 ],
 [
@@ -1806,7 +1806,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't know numbers above 1000.",
-    "{一千|issen} ijou no suuji {分かりません|wakarimasen}.",
+    "{一千|issen} ijou no {数字|suuji} {分かりません|wakarimasen}.",
     ""
 ],
 [
@@ -1821,7 +1821,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada went to Osaka by bullet train.",
-    "{山田|yamada} san wa shinkansen de oosaka ni {行きました|ikimashita}.",
+    "{山田|yamada} san wa shinkansen de {大阪|oosaka} ni {行きました|ikimashita}.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で {行く|いく} = B で A に {行く|いく}"
 ],
 [
@@ -1836,7 +1836,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 2 tickets for Osaka please?",
-    "oosaka {行き|yuki} no {切符|kippu} wo {二|ni} {枚|mai} kudasai.",
+    "{大阪|oosaka} {行き|yuki} no {切符|kippu} wo {二|ni} {枚|mai} kudasai.",
     ""
 ],
 [
@@ -1857,7 +1857,7 @@ Flashcards.initialize([
 [
     "Miki writes kanji skillfully.",
     "{三木|miki} san wa {上手|jouzu} ni {漢字|kanji} wo {書きます|kakimasu}.",
-    "な adj. + に = adverb\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "な adj. + に = adverb\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Robert speaks Japanese well.",
@@ -1892,7 +1892,7 @@ Flashcards.initialize([
 [
     "Miki has got good at bowling.",
     "{三木|miki} san wa _booringu_ ga {上手|jouzu} ni narimashita.",
-    "noun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "noun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Happy New Year!",
@@ -1907,7 +1907,7 @@ Flashcards.initialize([
 [
     "If (you) study every day, (your) Japanese will get skilled.",
     "{毎日|mainichi} {勉強|benkyou} suru to {日本語|nihongo} ga {上手|jouzu} ni narimasu.",
-    "verb-A-う + と + verb-B = if A then B\nnoun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "verb-A-う + と + verb-B = if A then B\nnoun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go. {の で}",
@@ -2006,7 +2006,7 @@ Flashcards.initialize([
 ],
 [
     "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
-    "oosaka {行き|yuki} no {切符|kippu} wo {ニ|ni} {枚|mai} kudasai. {片道|katamichi} desu ka. oufuku desu ka. {片道|katamichi} desu.",
+    "{大阪|oosaka} {行き|yuki} no {切符|kippu} wo {ニ|ni} {枚|mai} kudasai. {片道|katamichi} desu ka. oufuku desu ka. {片道|katamichi} desu.",
     ""
 ],
 [
@@ -2016,12 +2016,12 @@ Flashcards.initialize([
 ],
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
-    "oosaka ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. oosaka wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa {詰まらなかった|tsumaranakatta} desu.",
+    "{大阪|oosaka} ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. {大阪|oosaka} wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa {詰まらなかった|tsumaranakatta} desu.",
     "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\n{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-    "oosaka made shinkansen de {行きました|ikimashita}. {片道|katamichi} no {切符|kippu} wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
+    "{大阪|oosaka} made shinkansen de {行きました|ikimashita}. {片道|katamichi} no {切符|kippu} wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2036,7 +2036,7 @@ Flashcards.initialize([
 ],
 [
     "On Thursday, (it) snowed all day. (It) was unpleasant.",
-    "{木曜日|mokuyoubi} wa {一日|ichinichi} {雪|yuki} deshita. fuyukai deshita.",
+    "{木曜日|mokuyoubi} wa {一日|ichinichi} {雪|yuki} deshita. {不愉快|fuyukai} deshita.",
     ""
 ],
 [
@@ -2122,7 +2122,7 @@ Flashcards.initialize([
 [
     "Miki is bad at both bowling and tennis.",
     "{三木|miki} san wa _booringu_ mo _tenisu_ mo {下手|heta} desu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
@@ -2286,13 +2286,13 @@ Flashcards.initialize([
 ],
 [
     "I'm bad at bowling. He's good at bowling. I'm poor at English. He's good at Japanese.",
-    "{私|watashi} wa _booringu_ ga {下手|heta} desu. {彼|kare} wa _booringu_ ga {上手|jouzu} desu. {私|watashi} wa {英語|eigo} ga nigate desu. {彼|kare} wa {日本語|nihongo} ga tokui desu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "{私|watashi} wa _booringu_ ga {下手|heta} desu. {彼|kare} wa _booringu_ ga {上手|jouzu} desu. {私|watashi} wa {英語|eigo} ga {苦手|nigate} desu. {彼|kare} wa {日本語|nihongo} ga {得意|tokui} desu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "I'm good at Mathematics.",
-    "{私|watashi} wa suugaku ga tokui desu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "{私|watashi} wa {数学|suugaku} ga {得意|tokui} desu.",
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Ms. Natsuko drank green tea while listening to the news.",
@@ -2442,7 +2442,7 @@ Flashcards.initialize([
 [
     "I'm not very good at golf, but I'll give it a try.",
     "{僕|boku} wa _gorufu_ ga {余り|amari} {上手|jouzu} deha arimasen ga yatte mimashou.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
@@ -2481,7 +2481,7 @@ Flashcards.initialize([
 ],
 [
     "A filmstar's lifestyle looks unpleasant, doesn't it?",
-    "{映画|eiga} _sutaa_ no seikatsu wa fuyukaisou desu ne.",
+    "{映画|eiga} _sutaa_ no seikatsu wa {不愉快そう|fuyukaisou} desu ne.",
     "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
@@ -3256,7 +3256,7 @@ Flashcards.initialize([
 ],
 [
     "Twice every week (I) go to cram school and (I) learn Maths and English (etc.). {habit}",
-    "{毎週|maishuu} {二回|nikai} juku ni {行って|itte}, suugaku ya {英語|eigo} wo {勉強|benkyou} shite imasu.",
+    "{毎週|maishuu} {二回|nikai} juku ni {行って|itte}, {数学|suugaku} ya {英語|eigo} wo {勉強|benkyou} shite imasu.",
     "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nや: incomplete list"
 ],
 [
@@ -3411,8 +3411,8 @@ Flashcards.initialize([
 ],
 [
     "Yuki is good at studying Maths but bad at English.",
-    "yuki san wa suugaku wo {勉強|benkyou} suru {事|koto} ga tokui desu ga {英語|eigo} ga nigate desu.",
-    "verbう + こと = doing ~ (nominalize)\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "yuki san wa {数学|suugaku} wo {勉強|benkyou} suru {事|koto} ga {得意|tokui} desu ga {英語|eigo} ga {苦手|nigate} desu.",
+    "verbう + こと = doing ~ (nominalize)\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Speaking with Japanese people is interesting.",
@@ -3421,12 +3421,12 @@ Flashcards.initialize([
 ],
 [
     "Roger is good at writing kanji.",
-    "_rojaa_ san wa {漢字|kanji} wo {書くこと|kakukoto} ga tokui desu.",
-    "verbう + こと = doing ~ (nominalize)\nとくい/にがて: talents, academic/professional skills, strong/weak points\nとくい is more modest than {上手|じょうず}"
+    "_rojaa_ san wa {漢字|kanji} wo {書くこと|kakukoto} ga {得意|tokui} desu.",
+    "verbう + こと = doing ~ (nominalize)\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Recently (I'm) learning judo.",
-    "saikin juudou wo {習って|naratte} imasu.",
+    "{最近|saikin} juudou wo {習って|naratte} imasu.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -3711,12 +3711,12 @@ Flashcards.initialize([
 ],
 [
     "Which has the larger population, Osaka or Tokyo?",
-    "{東京|toukyou}, oosaka wa {何方|dochira} no {人口|jinkou} ga {多い|ooi} desu ka.",
+    "{東京|toukyou}, {大阪|oosaka} wa {何方|dochira} no {人口|jinkou} ga {多い|ooi} desu ka.",
     ""
 ],
 [
     "Tokyo's population is larger than Osaka's.",
-    "{東京|toukyou} no {人口|jinkou} wa oosaka yori {多い|ooi} desu.",
+    "{東京|toukyou} no {人口|jinkou} wa {大阪|oosaka} yori {多い|ooi} desu.",
     "A は Bより X = Bより A は X = A is X'er than B"
 ],
 [
@@ -3746,7 +3746,7 @@ Flashcards.initialize([
 ],
 [
     "The next station is Osaka.",
-    "{次|tsugi} no {駅|eki} wa oosaka desu.",
+    "{次|tsugi} no {駅|eki} wa {大阪|oosaka} desu.",
     ""
 ],
 [
@@ -4066,7 +4066,7 @@ Flashcards.initialize([
 ],
 [
     "Last week (I) studied Japanese, did shopping and went to Osaka.",
-    "{先週|senshuu} {日本語|nihongo} wo {勉強|benkyou} shitari, {買い物|kaimono} wo shitari, oosaka ni {行ったり|ittari} shimashita.",
+    "{先週|senshuu} {日本語|nihongo} wo {勉強|benkyou} shitari, {買い物|kaimono} wo shitari, {大阪|oosaka} ni {行ったり|ittari} shimashita.",
     "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
 ],
 [
@@ -4556,7 +4556,7 @@ Flashcards.initialize([
 ],
 [
     "(It has been decided that I) will go on a business trip to Osaka next week.",
-    "{来週|raishuu} oosaka ni shucchou suru koto ni narimashita.",
+    "{来週|raishuu} {大阪|oosaka} ni {出張|shucchou} suru koto ni narimashita.",
     "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
@@ -4786,7 +4786,7 @@ Flashcards.initialize([
 ],
 [
     "On Thursday, it was unexpectedly decided for me to go on a business trip to Tokyo.",
-    "{木曜日|mokuyoubi} ni totsuzen {私|watashi} wa {東京|toukyou} ni shucchou suru koto ni narimashita.",
+    "{木曜日|mokuyoubi} ni totsuzen {私|watashi} wa {東京|toukyou} ni {出張|shucchou} suru koto ni narimashita.",
     "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
