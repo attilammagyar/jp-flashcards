@@ -1701,7 +1701,7 @@ Flashcards.initialize([
 ],
 [
     "It's not cold. It's a hangover!",
-    "{風邪|kaze} deha arimasen. {二日yoi|futsukayoi} desu yo.",
+    "{風邪|kaze} deha arimasen. {二日酔い|futsukayoi} desu yo.",
     ""
 ],
 [
