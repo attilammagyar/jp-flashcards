@@ -1131,7 +1131,7 @@ Flashcards.initialize([
 ],
 [
     "Turn right at those traffic lights and go straight ahead please.",
-    "ano {信号|shingou} wo {右|migi} ni {曲がって|magatte}, massugu {行って|itte} kudasai.",
+    "ano {信号|shingou} wo {右|migi} ni {曲がって|magatte}, {真っ直ぐ|massugu} {行って|itte} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -1241,7 +1241,7 @@ Flashcards.initialize([
 ],
 [
     "Go straight ahead please.",
-    "massugu {行って|itte} kudasai.",
+    "{真っ直ぐ|massugu} {行って|itte} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -1286,7 +1286,7 @@ Flashcards.initialize([
 ],
 [
     "Go straight ahead, (then) turn right at the second traffic lights.",
-    "massugu {行って|itte}, {二つ目|futatsume} no {信号|shingou} wo {右|migi} ni {曲がって|magatte} kudasai.",
+    "{真っ直ぐ|massugu} {行って|itte}, {二つ目|futatsume} no {信号|shingou} wo {右|migi} ni {曲がって|magatte} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -1421,7 +1421,7 @@ Flashcards.initialize([
 ],
 [
     "Go straight ahead (then) cross the pedestrian crossing please.",
-    "massugu {行って|itte}, oudan hodou wo {渡って|watatte} kudasai.",
+    "{真っ直ぐ|massugu} {行って|itte}, oudan hodou wo {渡って|watatte} kudasai.",
     "verbて + ください = request"
 ],
 [
