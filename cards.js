@@ -5245,7 +5245,7 @@ Flashcards.initialize([
         "X \u306f/\u304c Y \u306b/\u304b\u3089 Z \u3092 \u3082\u3089\u3046 = X receives Z from Y"
     ],
     [
-        "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. Higher prices come.",
+        "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. It contains things of higher price than itself.",
         "{\u798f\u888b|\u3075\u304f\u3076\u304f\u308d}:{\u304a\u6b63\u6708|\u304a\u3057\u3087\u3046\u304c\u3064}\u306b\u30c7\u30d1\u30fc\u30c8\u3084{\u5e97|\u307f\u305b}\u306a\u3069\u3067{\u58f2\u308a\u307e\u3059|\u3046\u308a\u307e\u3059}\u3002{\u5024\u6bb5|\u306d\u3060\u3093}\u3088\u308a{\u9ad8\u3044\u7269|\u305f\u304b\u3044\u3082\u306e}\u304c{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
         "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
     ],

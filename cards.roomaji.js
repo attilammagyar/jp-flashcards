@@ -5239,7 +5239,7 @@ Flashcards.initialize([
     "X は/が Y に/から Z を もらう = X receives Z from Y"
 ],
 [
-    "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. Higher prices come.",
+    "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. It contains things of higher price than itself.",
     "{福袋|fukubukuro}: {お正月|oshougatsu} ni _depaato_ ya {店|mise} nado de {売ります|urimasu}. {値段|nedan} yori {高い物|takaimono} ga {入って|haitte} imasu.",
     "A や B や C など = A, B, C, etc.\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!)"
 ],
