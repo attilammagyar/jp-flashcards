@@ -426,3 +426,7 @@
 翻訳 hon'yaku
 冠詞 kanshi
 概念 gainen
+主人 shujin
+盗む nusumu
+犯人 hannin
+遅れる okureru
