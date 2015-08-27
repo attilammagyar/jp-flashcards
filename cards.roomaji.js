@@ -96,7 +96,7 @@ Flashcards.initialize([
 ],
 [
     "Grilled chicken, how about it?",
-    "yakitori, ikaga desu ka.",
+    "{焼き鳥|yakitori}, ikaga desu ka.",
     ""
 ],
 [
@@ -2256,7 +2256,7 @@ Flashcards.initialize([
 ],
 [
     "I eat barbequed meat every day. But (I) always eat vegetables together with the barbequed meat, so (it's) no problem. {から, Polite.}",
-    "{私|watashi} wa {毎日|mainichi} yakiniku wo {食べます|tabemasu}. demo, {何時も|itsumo} {野菜|yasai} wo yakiniku to {一緒|issho} ni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
+    "{私|watashi} wa {毎日|mainichi} {焼肉|yakiniku} wo {食べます|tabemasu}. demo, {何時も|itsumo} {野菜|yasai} wo {焼肉|yakiniku} to {一緒|issho} ni {食べます|tabemasu} kara, {問題|mondai} gozaimasen.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -2691,7 +2691,7 @@ Flashcards.initialize([
 ],
 [
     "(We) have a booking for today.",
-    "{今日|kyou} yoyaku wo shimashita.",
+    "{今日|kyou} {予約|yoyaku} wo shimashita.",
     ""
 ],
 [
