@@ -121,7 +121,7 @@ Flashcards.initialize([
 ],
 [
     "Shall (we) eat sushi together?",
-    "{一緒|issho} ni sushi wo {食べません|tabemasen} ka.",
+    "{一緒|issho} ni {寿司|sushi} wo {食べません|tabemasen} ka.",
     ""
 ],
 [
@@ -1641,7 +1641,7 @@ Flashcards.initialize([
 ],
 [
     "(I) hope to eat sushi in Japan and I hope to see Mount Fuji.",
-    "{日本|nihon} de sushi wo {食べたい|tabetai} to {思います|omoimasu}. soshite fuji san wo {見たい|mitai} to {思います|omoimasu}.",
+    "{日本|nihon} de {寿司|sushi} wo {食べたい|tabetai} to {思います|omoimasu}. soshite fuji san wo {見たい|mitai} to {思います|omoimasu}.",
     "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2216,7 +2216,7 @@ Flashcards.initialize([
 ],
 [
     "I don't want to eat sushi. (I) don't want to eat sushi.",
-    "{私|watashi} wa sushi wo {食べたくない|tabetakunai} desu. sushi wa {食べたくない|tabetakunai} desu.",
+    "{私|watashi} wa {寿司|sushi} wo {食べたくない|tabetakunai} desu. {寿司|sushi} wa {食べたくない|tabetakunai} desu.",
     "~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2316,7 +2316,7 @@ Flashcards.initialize([
 ],
 [
     "Rie taught Roger how to make sushi.",
-    "rie san wa _rojaa_ san ni sushi no {作り方|tsukurikata} wo {教えました|oshiemashita}.",
+    "rie san wa _rojaa_ san ni {寿司|sushi} no {作り方|tsukurikata} wo {教えました|oshiemashita}.",
     "verb stem + {方|kata} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|kata}"
 ],
 [
@@ -2491,7 +2491,7 @@ Flashcards.initialize([
 ],
 [
     "Miki looks like (she) will eat that sushi, doesn't she?",
-    "{三木|miki} san wa {其の|sono} sushi wo {食べそう|tabesou} desu ne.",
+    "{三木|miki} san wa {其の|sono} {寿司|sushi} wo {食べそう|tabesou} desu ne.",
     "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
@@ -3046,7 +3046,7 @@ Flashcards.initialize([
 ],
 [
     "Let's try this sushi!",
-    "{此の|kono} sushi wo {食べて|tabete} {見ましょう|mimashou}.",
+    "{此の|kono} {寿司|sushi} wo {食べて|tabete} {見ましょう|mimashou}.",
     ""
 ],
 [
@@ -3076,7 +3076,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always eat sushi on Saturdays. {emphasize habit}",
-    "{土曜日|doyoubi} ni {何時も|itsumo} sushi wo {食べて|tabete} imasu.",
+    "{土曜日|doyoubi} ni {何時も|itsumo} {寿司|sushi} wo {食べて|tabete} imasu.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -3776,7 +3776,7 @@ Flashcards.initialize([
 ],
 [
     "(I) think Roger doesn't like sushi very much. Because (he) didn't eat (it) only a little. {から}",
-    "_rojaa_ san wa sushi ga {余り|amari} {好き|suki} ja nai to {思います|omoimasu}. {少し|sukoshi} shika {食べなかった|tabenakatta} kara desu.",
+    "_rojaa_ san wa {寿司|sushi} ga {余り|amari} {好き|suki} ja nai to {思います|omoimasu}. {少し|sukoshi} shika {食べなかった|tabenakatta} kara desu.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -3931,7 +3931,7 @@ Flashcards.initialize([
 ],
 [
     "Last night (I) ate a lot of sushi at the sushi bar. {plain}",
-    "{昨夜|yuube} sushiyasan de sushi wo ippai {食べた|tabeta}.",
+    "{昨夜|yuube} {寿司屋さん|sushiyasan} de {寿司|sushi} wo ippai {食べた|tabeta}.",
     ""
 ],
 [
