@@ -71,7 +71,7 @@ Flashcards.initialize([
 ],
 [
     "(My) younger brother is interesting and good-looking.",
-    "{弟|otouto} wa {面白くて|omoshirokute}, kakkoii desu.",
+    "{弟|otouto} wa {面白くて|omoshirokute}, {格好いい|kakkoii} desu.",
     ""
 ],
 [
@@ -196,7 +196,7 @@ Flashcards.initialize([
 ],
 [
     "Romantic movies are not useless.",
-    "_romanchikku_ na {映画|eiga} wa kudaranakunai desu.",
+    "_romanchikku_ na {映画|eiga} wa {下らなくない|kudaranakunai} desu.",
     ""
 ],
 [
@@ -226,12 +226,12 @@ Flashcards.initialize([
 ],
 [
     "(I) will go to the office tomorrow",
-    "{明日|ashita} jimusho ni {行きます|ikimasu}.",
+    "{明日|ashita} {事務所|jimusho} ni {行きます|ikimasu}.",
     ""
 ],
 [
     "(I) will go to the supermarket with (my) son.",
-    "musuko to _suupaa_ ni {行きます|ikimasu}.",
+    "{息子|musuko} to _suupaa_ ni {行きます|ikimasu}.",
     ""
 ],
 [
@@ -256,7 +256,7 @@ Flashcards.initialize([
 ],
 [
     "Of course (I'm) going!",
-    "mochiron {行きます|ikimasu}.",
+    "{勿論|mochiron} {行きます|ikimasu}.",
     ""
 ],
 [
@@ -266,7 +266,7 @@ Flashcards.initialize([
 ],
 [
     "Tonight (it's) quiet and warm.",
-    "{今夜|kon ya} wa {静か|shizuka} de {暖かい|atatakai} desu.",
+    "{今夜|kon'ya} wa {静か|shizuka} de {暖かい|atatakai} desu.",
     ""
 ],
 [
@@ -276,7 +276,7 @@ Flashcards.initialize([
 ],
 [
     "(I) drink coffee at the office every day.",
-    "{毎日|mainichi} jimusho de _koohii_ wo {飲みます|nomimasu}.",
+    "{毎日|mainichi} {事務所|jimusho} de _koohii_ wo {飲みます|nomimasu}.",
     ""
 ],
 [
@@ -286,7 +286,7 @@ Flashcards.initialize([
 ],
 [
     "(My) son will play football at the college next week.",
-    "musuko wa {来週|raishuu} _koreji_ de _sakkaa_ wo shimasu.",
+    "{息子|musuko} wa {来週|raishuu} _koreji_ de _sakkaa_ wo shimasu.",
     ""
 ],
 [
@@ -301,7 +301,7 @@ Flashcards.initialize([
 ],
 [
     "(My) wife does not clean the house.",
-    "tsuma wa {家|uchi} wo {掃除|souji} wo shimasen.",
+    "{妻|tsuma} wa {家|uchi} wo {掃除|souji} wo shimasen.",
     ""
 ],
 [
@@ -326,7 +326,7 @@ Flashcards.initialize([
 ],
 [
     "(I) go to the office by train.",
-    "{電車|densha} de jimusho ni {行きます|ikimasu}.",
+    "{電車|densha} de {事務所|jimusho} ni {行きます|ikimasu}.",
     ""
 ],
 [
@@ -341,12 +341,12 @@ Flashcards.initialize([
 ],
 [
     "And then (I) frequently eat dinner with (my) colleagues at a restaurant.",
-    "soshite {度々|tabitabi} jimusho no {人|hito} to _resutoran_ de {晩ご飯|bangohan} wo {食べます|tabemasu}.",
+    "soshite {度々|tabitabi} {事務所|jimusho} no {人|hito} to _resutoran_ de {晩ご飯|bangohan} wo {食べます|tabemasu}.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
     "Sometimes (I) play golf with (my) colleagues, but usually (I) chill out with (my) family at home.",
-    "{時々|tokidoki} jimusho no {人|hito} to _gorufu_ wo shimasu ga {大抵|taitei} {家族|kazokoku} to {家|uchi} de gorogoro shimasu.",
+    "{時々|tokidoki} {事務所|jimusho} no {人|hito} to _gorufu_ wo shimasu ga {大抵|taitei} {家族|kazokoku} to {家|uchi} de _gorogoro_ shimasu.",
     ""
 ],
 [
@@ -371,7 +371,7 @@ Flashcards.initialize([
 ],
 [
     "Today is Claude Monet's exhibition. There are many famous works. {Less formal.}",
-    "kyou wa _kuroodo mone_ no tenrankai desu. {有名|yuumei} na sakuhin ga ippai arimasu.",
+    "{今日|kyou} wa _kuroodo mone_ no tenrankai desu. {有名|yuumei} na sakuhin ga ippai arimasu.",
     ""
 ],
 [
@@ -551,7 +551,7 @@ Flashcards.initialize([
 ],
 [
     "Is (your) father in that office over there?",
-    "ano jimusho ni {お父さん|otousan} ga imasu ka.",
+    "ano {事務所|jimusho} ni {お父さん|otousan} ga imasu ka.",
     ""
 ],
 [
@@ -596,12 +596,12 @@ Flashcards.initialize([
 ],
 [
     "son {In-group, out-group.}",
-    "musuko, musukosan",
+    "{息子|musuko}, {息子さん|musukosan}",
     ""
 ],
 [
     "daughter {In-group, out-group.}",
-    "musume, musumesan",
+    "{娘|musume}, {娘さん|musumesan}",
     ""
 ],
 [
@@ -610,8 +610,8 @@ Flashcards.initialize([
     ""
 ],
 [
-    "wife {In-group, in-group, out-group.}",
-    "tsuma, kanai, okusan",
+    "wife {In-group, in-group (non-PC), out-group.}",
+    "{妻|tsuma}, {家内|kanai}, {奥さん|okusan}",
     ""
 ],
 [
@@ -641,7 +641,7 @@ Flashcards.initialize([
 ],
 [
     "boy, Mr/Mrs/Ms, child, teacher, Mr/Mrs/Ms {Formal.}",
-    "kun, san, chan, {先生|sensei}, {様|sama}",
+    "{君|kun}, san, chan, {先生|sensei}, {様|sama}",
     ""
 ],
 [
@@ -666,12 +666,12 @@ Flashcards.initialize([
 ],
 [
     "Tonight (I'll) be in Harajuku. (It's) fun, lively and (I) love Harajuku.",
-    "{今夜|kon ya} wa harajuku ni imasu. {楽しくて|tanoshikute}, {賑やか|nigiyaka} de, harajuku wa {大好き|daisuki} desu.",
+    "{今夜|kon'ya} wa harajuku ni imasu. {楽しくて|tanoshikute}, {賑やか|nigiyaka} de, harajuku wa {大好き|daisuki} desu.",
     ""
 ],
 [
     "Hello everyone!",
-    "{皆さん|minasan} kon'ni chi wa.",
+    "{皆さん|minasan} kon'nichi wa.",
     ""
 ],
 [
@@ -696,7 +696,7 @@ Flashcards.initialize([
 ],
 [
     "I'm very worried. Tonight, shall we study English together?",
-    "totemo shinpai desu. {今夜|kon ya} {一緒|issho} ni {英語|eigo} wo {勉強|benkyou} shimasen ka.",
+    "totemo shinpai desu. {今夜|kon'ya} {一緒|issho} ni {英語|eigo} wo {勉強|benkyou} shimasen ka.",
     ""
 ],
 [
@@ -711,12 +711,12 @@ Flashcards.initialize([
 ],
 [
     "(That's) good. (We'll) do that. Tonight what time is OK?",
-    "ii desu ne. sou shimasu. {今夜|kon ya} {何時|nanji} ga ii desu ka.",
+    "ii desu ne. sou shimasu. {今夜|kon'ya} {何時|nanji} ga ii desu ka.",
     ""
 ],
 [
     "How about 7 tonight?",
-    "{今夜|kon ya} {七時|shichiji} wa dou desu ka.",
+    "{今夜|kon'ya} {七時|shichiji} wa dou desu ka.",
     ""
 ],
 [
@@ -911,7 +911,7 @@ Flashcards.initialize([
 ],
 [
     "(There) are French and English journalists in that office over there.",
-    "ano jimusho ni _furansu_ {人|jin} to _igirisu_ {人|jin} no _jaanarisuto_ ga imasu.",
+    "ano {事務所|jimusho} ni _furansu_ {人|jin} to _igirisu_ {人|jin} no _jaanarisuto_ ga imasu.",
     "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
 ],
 [
@@ -926,7 +926,7 @@ Flashcards.initialize([
 ],
 [
     "Who's in this office?",
-    "{此の|kono} jimusho ni {誰|dare} ga imasu ka.",
+    "{此の|kono} {事務所|jimusho} ni {誰|dare} ga imasu ka.",
     ""
 ],
 [
@@ -1596,12 +1596,12 @@ Flashcards.initialize([
 ],
 [
     "blue, black/dark, brown, blonde",
-    "{青い|aoi}, {黒い|kuroi}, {茶色|chairo}, kinpatsu",
+    "{青い|aoi}, {黒い|kuroi}, {茶色|chairo}, {金髪|kinpatsu}",
     ""
 ],
 [
     "I am tall (with) blue eyes and blonde hair.",
-    "{私|watashi} wa {背|se} ga {高くて|takakute}, {目|me} ga {青くて|aokute}, {髪|kami} ga kinpatsu desu.",
+    "{私|watashi} wa {背|se} ga {高くて|takakute}, {目|me} ga {青くて|aokute}, {髪|kami} ga {金髪|kinpatsu} desu.",
     ""
 ],
 [
@@ -1676,7 +1676,7 @@ Flashcards.initialize([
 ],
 [
     "(I've) caught a cold.",
-    "{風邪|kaze} wo {引いて|hiite} shimaimashita.",
+    "{風邪|kaze} wo {引いて|hiite} {仕舞いました|shimaimashita}.",
     "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
@@ -1686,7 +1686,7 @@ Flashcards.initialize([
 ],
 [
     "Have (you) caught a cold?",
-    "{風邪|kaze} {引いて|hiite} shimaimashita ka.",
+    "{風邪|kaze} {引いて|hiite} {仕舞いました|shimaimashita} ka.",
     "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
@@ -1826,7 +1826,7 @@ Flashcards.initialize([
 ],
 [
     "Soon it will be Summer. It will gradually get hotter.",
-    "mou sugu {夏|natsu} ni narimasu. {段々|dandan} {暑く|atsuku} narimasu.",
+    "mou {直ぐ|sugu} {夏|natsu} ni narimasu. {段々|dandan} {暑く|atsuku} narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
@@ -1896,7 +1896,7 @@ Flashcards.initialize([
 ],
 [
     "Happy New Year!",
-    "{明|a}kemashite omedetou.",
+    "{明けまして|akemashite} {お目出度う|omedetou}.",
     ""
 ],
 [
@@ -1966,22 +1966,22 @@ Flashcards.initialize([
 ],
 [
     "Soon (it) will be spring. (It) will gradually get warm.",
-    "mou sugu {春|haru} ni narimasu. {段々|dandan} {暖かく|atatakaku} narimasu.",
+    "mou {直ぐ|sugu} {春|haru} ni narimasu. {段々|dandan} {暖かく|atatakaku} narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be summer. (It) will gradually get hot.",
-    "mou sugu {夏|natsu} ni narimasu. {段々|dandan} {暑く|atsuku} narimasu.",
+    "mou {直ぐ|sugu} {夏|natsu} ni narimasu. {段々|dandan} {暑く|atsuku} narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be winter. (It) will gradually get cold.",
-    "mou sugu {冬|fuyu} ni narimasu. {段々|dandan} {寒く|samuku} narimasu.",
+    "mou {直ぐ|sugu} {冬|fuyu} ni narimasu. {段々|dandan} {寒く|samuku} narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
     "Soon (it) will be autumn. (It) will gradually get cool.",
-    "mou sugu {秋|aki} ni narimasu. {段々|dandan} {涼しく|suzushiku} narimasu.",
+    "mou {直ぐ|sugu} {秋|aki} ni narimasu. {段々|dandan} {涼しく|suzushiku} narimasu.",
     "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
 ],
 [
@@ -2031,7 +2031,7 @@ Flashcards.initialize([
 ],
 [
     "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
-    "{お天気|otenki} wa dou deshita ka. mou sugu {春|haru} ni narimasu ga son'na ni {暖かくなかった|atatakakunakatta} desu.",
+    "{お天気|otenki} wa dou deshita ka. mou {直ぐ|sugu} {春|haru} ni narimasu ga son'na ni {暖かくなかった|atatakakunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2081,7 +2081,7 @@ Flashcards.initialize([
 ],
 [
     "Temperature will probably be 12°C.",
-    "kion wa {十二度|juunido} deshou.",
+    "{気温|kion} wa {十二度|juunido} deshou.",
     ""
 ],
 [
@@ -2626,7 +2626,7 @@ Flashcards.initialize([
 ],
 [
     "After (I've) studied Japanese, (I) usually relax.",
-    "{日本語|nihongo} wo {勉強|benkyou} shite kara, {大抵|taitei} gorogoro shimasu.",
+    "{日本語|nihongo} wo {勉強|benkyou} shite kara, {大抵|taitei} _gorogoro_ shimasu.",
     "verbて + から = after doing ~, since doing ~"
 ],
 [
@@ -2711,7 +2711,7 @@ Flashcards.initialize([
 ],
 [
     "Men may take a bath from 5 o'clock until 7 o'clock, women from 7 o'clock until 9 o'clock.",
-    "dansei wa {五時|goji} kara {七時|shichiji} made ohuro ni {入って|haitte} mo ii desu. josei wa {七時|shichiji} kara {九時|kuji} made desu.",
+    "{男性|dansei} wa {五時|goji} kara {七時|shichiji} made {お風呂|ofuro} ni {入って|haitte} mo ii desu. {女性|josei} wa {七時|shichiji} kara {九時|kuji} made desu.",
     "verbて + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
@@ -2921,7 +2921,7 @@ Flashcards.initialize([
 ],
 [
     "I'm home! Welcome back!",
-    "tadaima. {お帰り|okaeri}.",
+    "{ただ今|tadaima}. {お帰り|okaeri}.",
     ""
 ],
 [
@@ -2971,7 +2971,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) really sorry.",
-    "{本当|hontou} ni gomen nasai.",
+    "{本当|hontou} ni {御免|gomen} nasai.",
     ""
 ],
 [
@@ -3161,7 +3161,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want (you) to do (your) homework.",
-    "{宿題|shukudai} wo site {欲しい|hoshii} desu.",
+    "{宿題|shukudai} wo shite {欲しい|hoshii} desu.",
     "(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)"
 ],
 [
@@ -3226,7 +3226,7 @@ Flashcards.initialize([
 ],
 [
     "grandmother {In-group, out-group}",
-    "sobo, obaasan",
+    "{祖母|sobo}, {お祖母さん|obaasan}",
     ""
 ],
 [
@@ -3286,7 +3286,7 @@ Flashcards.initialize([
 ],
 [
     "(My) husband has already set off to (his) company but grandpa is still sleeping.",
-    "{主人|shujin} wa mou {会社|kaisha} ni {出掛けました|dekakemashita} ga ojiichan wa {未だ|mada} {寝て|nete} imasu.",
+    "{主人|shujin} wa mou {会社|kaisha} ni {出掛けました|dekakemashita} ga {お祖父ちゃん|ojiichan} wa {未だ|mada} {寝て|nete} imasu.",
     "もう + verb-past = already completed doing ~\n{未だ|まだ} + verbて + います = still doing ~ (incomplete action)"
 ],
 [
@@ -3436,7 +3436,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) writing a letter to grandma while drinking coffee.",
-    "_koohii_ wo {飲みながら|nominagara} sobo ni {手紙|tegami} wo {書いて|kaite} imasu.",
+    "_koohii_ wo {飲みながら|nominagara} {祖母|sobo} ni {手紙|tegami} wo {書いて|kaite} imasu.",
     "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -3966,7 +3966,7 @@ Flashcards.initialize([
 ],
 [
     "(I) have completely forgotten all (my) kanji. {plain}",
-    "{漢字|kanji} wo {全部|zenbu} {忘れて|wasurete} shimatta.",
+    "{漢字|kanji} wo {全部|zenbu} {忘れて|wasurete} {仕舞った|shimatta}.",
     "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
@@ -3991,7 +3991,7 @@ Flashcards.initialize([
 ],
 [
     "(I) haven't been to South America.",
-    "minami _amerika_ ni {行った|itta} koto ga arimasen.",
+    "{南|minami} _amerika_ ni {行った|itta} koto ga arimasen.",
     "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
 ],
 [
@@ -4006,7 +4006,7 @@ Flashcards.initialize([
 ],
 [
     "After (I) drank a beer, (I) went to bed right away.",
-    "_biiru_ wo {飲んだ|nonda} {後|ato} de sugu {寝ました|nemashita}.",
+    "_biiru_ wo {飲んだ|nonda} {後|ato} de {直ぐ|sugu} {寝ました|nemashita}.",
     "verbた + {後|あと} + で = after (finished) doing ~"
 ],
 [
@@ -4131,22 +4131,22 @@ Flashcards.initialize([
 ],
 [
     "(I've) already finished (my) homework.",
-    "{宿題|shukudai} wa mou yatte shimaimashita.",
+    "{宿題|shukudai} wa mou yatte {仕舞いました|shimaimashita}.",
     "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
     "The little bird went and died. {plain} The little bird went and died. {plain, spoken}",
-    "{小鳥|kotori} ga {死んで|shinde} shimatta. {小鳥|kotori} ga {死んじゃった|shinjatta}.",
+    "{小鳥|kotori} ga {死んで|shinde} {仕舞った|shimatta}. {小鳥|kotori} ga {死んじゃった|shinjatta}.",
     "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
     "(I've) gone and broken (my) camera. {plain}",
-    "_kamera_ wo {壊して|kowashite} shimatta.",
+    "_kamera_ wo {壊して|kowashite} {仕舞った|shimatta}.",
     "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
     "Have (you) finished eating all (your) vegetables?",
-    "{野菜|yasai} wo {全部|zenbu} {食べて|tabete} shimaimashita ka.",
+    "{野菜|yasai} wo {全部|zenbu} {食べて|tabete} {仕舞いました|shimaimashita} ka.",
     "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
@@ -4156,12 +4156,12 @@ Flashcards.initialize([
 ],
 [
     "(I'm) totally exhausted. {plain}",
-    "{疲れて|tsukarete} shimatta.",
+    "{疲れて|tsukarete} {仕舞った|shimatta}.",
     "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)\nverbた + {後|あと} + で = after (finished) doing ~"
 ],
 [
     "(I) totally lost (my) camera. {plain}",
-    "_kamera_ wo {落として|otoshite} shimatta.",
+    "_kamera_ wo {落として|otoshite} {仕舞った|shimatta}.",
     "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)\nverbた + {後|あと} + で = after (finished) doing ~"
 ],
 [
@@ -4246,12 +4246,12 @@ Flashcards.initialize([
 ],
 [
     "(I) went to bed late last night, so (I'm) totally exhausted. {plain}",
-    "{夕べ|yuube} {遅く|osoku} {寝た|neta} kara {疲れて|tsukarete} shimatta.",
+    "{夕べ|yuube} {遅く|osoku} {寝た|neta} kara {疲れて|tsukarete} {仕舞った|shimatta}.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
     "(I) have finished all the cooking. {plain}",
-    "{料理|ryouri} wo {全部|zenbu} shite shimatta.",
+    "{料理|ryouri} wo {全部|zenbu} shite {仕舞った|shimatta}.",
     "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
@@ -4491,7 +4491,7 @@ Flashcards.initialize([
 ],
 [
     "(I) messed up. {plain}",
-    "shimatta.",
+    "{仕舞った|shimatta}.",
     ""
 ],
 [
@@ -4631,7 +4631,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada will soon be transferred to America.",
-    "{山田|yamada} san wa mou sugu _amerika_ ni tenkin shimasu.",
+    "{山田|yamada} san wa mou {直ぐ|sugu} _amerika_ ni {転勤|tenkin} shimasu.",
     ""
 ],
 [
@@ -4641,7 +4641,7 @@ Flashcards.initialize([
 ],
 [
     "Why is Miki going to China? Because (it's been arranged for her to) be transferred.",
-    "{三木|miki} san wa doushite {中国|chuugoku} ni {行きます|ikimasu} ka. tenkin suru koto ni natta kara desu.",
+    "{三木|miki} san wa doushite {中国|chuugoku} ni {行きます|ikimasu} ka. {転勤|tenkin} suru koto ni natta kara desu.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
@@ -4711,7 +4711,7 @@ Flashcards.initialize([
 ],
 [
     "Sadly, (it has been decided that) Mr. Yamada will transfer to China soon.",
-    "{残念|zan'nen} desu ga {山田|yamada} san ha mou sugu {中国|chuugoku} ni tenkin suru koto ni narimashita.",
+    "{残念|zan'nen} desu ga {山田|yamada} san ha mou {直ぐ|sugu} {中国|chuugoku} ni {転勤|tenkin} suru koto ni narimashita.",
     "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
@@ -4731,12 +4731,12 @@ Flashcards.initialize([
 ],
 [
     "When will (you) transfer? (I'll) possibly go to China next month, but (I) don't know clearly yet.",
-    "itsu tenkin shimasu ka. {来月|raigetsu} {中国|chuugoku} ni {行く|iku} ka mo shiremasen ga mada hakkiri {分かりません|wakarimasen}.",
+    "itsu {転勤|tenkin} shimasu ka. {来月|raigetsu} {中国|chuugoku} ni {行く|iku} ka mo shiremasen ga mada hakkiri {分かりません|wakarimasen}.",
     "verbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\n"
 ],
 [
     "Before (you) go, let's make a party, right? In Japan, before being transferred, (you're supposed to) hold a \"Goodbye party\", you know.",
-    "{行く|iku} {前|mae} ni パーティー wo shimashou ne. {日本|nihon} de wa tenkin suru {前|mae} ni 「sayounara パーティー」 wo {行う|okonau} koto ni natte imasu.",
+    "{行く|iku} {前|mae} ni パーティー wo shimashou ne. {日本|nihon} de wa {転勤|tenkin} suru {前|mae} ni 「sayounara パーティー」 wo {行う|okonau} koto ni natte imasu.",
     "verbう + {前|まえ} に = before doing ~\nverbうこと + に + なって + いる = rules, customs, how things are supposed to be done"
 ],
 [
@@ -4956,7 +4956,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want (you) not to drink up all the beer.",
-    "_biiru_ wo {全部|zenbu} {飲んで|nonde} shimawanai de {欲しい|hoshii} desu.",
+    "_biiru_ wo {全部|zenbu} {飲んで|nonde} {仕舞わない|shimawanai} de {欲しい|hoshii} desu.",
     "verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
 ],
 [
@@ -5195,7 +5195,7 @@ Flashcards.initialize([
 ],
 [
     "(You) should get married while the weather isn't hot, shouldn't you? But (I) think if (you) do (it) suddenly, (that's) not good. Don't make excuses.",
-    "{天気|tenki} ga {暑くない|atsukunai} uchi ni {結婚|kekkon} shita hou ga ii desu ne. shikashi, {急|kyuu} ni shitara yokunai to {思います|omoimasu}. {言い訳|iiwake} shinai de kudasai.",
+    "{天気|tenki} ga {暑くない|atsukunai} uchi ni {結婚|kekkon} shita hou ga ii desu ne. {然し|shikashi}, {急|kyuu} ni shitara yokunai to {思います|omoimasu}. {言い訳|iiwake} shinai de kudasai.",
     "verbない + {内|うち} + に = before ~, while not ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\n(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbない + で + ください = please don't ~"
 ],
 [
@@ -5215,7 +5215,7 @@ Flashcards.initialize([
 ],
 [
     "(I) wish (you) a happy New Year! Please be kind to each other this year as well.",
-    "{明けまして|akemashite} omedetou gozaimasu. {今年|kotoshi} mo yoroshiku {お願いします|onegaishimasu}.",
+    "{明けまして|akemashite} {お目出度う|omedetou} {御座います|gozaimasu}. {今年|kotoshi} mo yoroshiku {お願いします|onegaishimasu}.",
     ""
 ],
 [
@@ -5415,7 +5415,7 @@ Flashcards.initialize([
 ],
 [
     "(We) finished cooking at last. (We) started eating right away.",
-    "yatto {作り終わりました|tsukuriowarimashita}. sugu ni {食べ始めました|tabehajimemashita}.",
+    "yatto {作り終わりました|tsukuriowarimashita}. {直ぐ|sugu} ni {食べ始めました|tabehajimemashita}.",
     "verb-stem + {始める|はじめる} = start doing ~\nverb-stem + {終わる|おわる} = finish doing ~"
 ],
 [
@@ -5435,7 +5435,7 @@ Flashcards.initialize([
 ],
 [
     "I turned on the lights. The lights turned on. {plain}",
-    "{私|watashi} ga {電気|denki} wo tsuketa. {電気|denki} ga tsuita.",
+    "{私|watashi} ga {電気|denki} wo {点けた|tsuketa}. {電気|denki} ga {点いた|tsuita}.",
     "transitive verb: active agent acting directly on an object (を)\nintransitive verb: never has direct object (を) except for motion verbs"
 ],
 [
