@@ -62,7 +62,6 @@ kurai
 kureru
 kyuushuu
 majime
-makemashita
 manga
 meishi
 mongen
@@ -97,7 +96,6 @@ seikatsu
 sekai
 sensu
 setsumei
-shiai
 shikakui
 shimau
 shinjirarenai
@@ -110,8 +108,6 @@ shourai
 shuuden
 subarashii
 sumou
-suteki
-takeshi
 tamani
 tame
 tasukatta

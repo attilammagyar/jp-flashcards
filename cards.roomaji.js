@@ -351,12 +351,12 @@ Flashcards.initialize([
 ],
 [
     "I lost the game.",
-    "{私|watashi} wa shiai ni makemashita.",
+    "{私|watashi} wa {試合|shiai} ni {負けました|makemashita}.",
     ""
 ],
 [
     "Are these red shoes nice?",
-    "{此の|kono} {赤い|akai} {靴|kutsu} wa suteki desu ka.",
+    "{此の|kono} {赤い|akai} {靴|kutsu} wa {素敵|suteki} desu ka.",
     ""
 ],
 [
@@ -1106,7 +1106,7 @@ Flashcards.initialize([
 ],
 [
     "(This) is (my) first time at a sports game.",
-    "_supootsu_ no shiai wa {初めて|hajimete} desu.",
+    "_supootsu_ no {試合|shiai} wa {初めて|hajimete} desu.",
     ""
 ],
 [
@@ -1841,7 +1841,7 @@ Flashcards.initialize([
 ],
 [
     "Because today's game is cancelled, what shall we do? {から}",
-    "{今日|kyou} no shiai wa chuushi desu kara, dou shimashou ka.",
+    "{今日|kyou} no {試合|shiai} wa chuushi desu kara, dou shimashou ka.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -2951,7 +2951,7 @@ Flashcards.initialize([
 ],
 [
     "(It's) a romantic encounter.",
-    "suteki na {出会い|deai} desu.",
+    "{素敵|suteki} na {出会い|deai} desu.",
     ""
 ],
 [
@@ -4771,7 +4771,7 @@ Flashcards.initialize([
 ],
 [
     "On Thursday it was unexpectedly arranged for me to take part in a judo contest.",
-    "{木曜日|mokuyoubi} ni totsuzen {私|watashi} wa juudou no shiai ni sanka suru koto ni narimashita.",
+    "{木曜日|mokuyoubi} ni totsuzen {私|watashi} wa juudou no {試合|shiai} ni sanka suru koto ni narimashita.",
     "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
@@ -4826,7 +4826,7 @@ Flashcards.initialize([
 ],
 [
     "(I) bet (he) goes to see the baseball match tomorrow.",
-    "kitto {明日|ashita} no yakyuu no shiai wo {見|mi} ni {行く|iku} deshou.",
+    "kitto {明日|ashita} no yakyuu no {試合|shiai} wo {見|mi} ni {行く|iku} deshou.",
     "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbう + でしょう/だろう = probably (will) do ~"
 ],
 [
@@ -5130,7 +5130,7 @@ Flashcards.initialize([
 ],
 [
     "If (you) like sumo, please watch tonight's tournament.",
-    "sumou ga {好き|suki} dattara, {今晩|konban} no shiai wo {見て|mite} kudasai.",
+    "sumou ga {好き|suki} dattara, {今晩|konban} no {試合|shiai} wo {見て|mite} kudasai.",
     "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
 ],
 [
