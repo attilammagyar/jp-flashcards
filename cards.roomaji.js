@@ -281,7 +281,7 @@ Flashcards.initialize([
 ],
 [
     "(I) occasionally buy a newspaper at the supermarket",
-    "tamani _suupaa_ de {新聞|shinbun} wo {買います|kaimasu}.",
+    "{偶|tama} ni _suupaa_ de {新聞|shinbun} wo {買います|kaimasu}.",
     ""
 ],
 [
@@ -406,7 +406,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always return home late. Occasionally (I) eat dinner with (my) family.",
-    "{何時も|itsumo} {遅く|osoku} {家|uchi} ni {帰ります|kaerimasu}. tamani {家族|kazoku} to {晩ご飯|bangohan} wo {食べます|tabemasu}.",
+    "{何時も|itsumo} {遅く|osoku} {家|uchi} ni {帰ります|kaerimasu}. {偶|tama} ni {家族|kazoku} to {晩ご飯|bangohan} wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -481,7 +481,7 @@ Flashcards.initialize([
 ],
 [
     "The last train is at 11:59.",
-    "shuuden wa {十一時五十九分|juuichiji gojuukyuufun} desu yo. ",
+    "{終電|shuuden} wa {十一時五十九分|juuichiji gojuukyuufun} desu yo. ",
     ""
 ],
 [
@@ -561,7 +561,7 @@ Flashcards.initialize([
 ],
 [
     "usually, frequently, occasionally, sometimes, always",
-    "{大抵|taitei}, {度々|tabitabi}, tamani, {時々|tokidoki}, {何時も|itsumo}",
+    "{大抵|taitei}, {度々|tabitabi}, {偶|tama} ni, {時々|tokidoki}, {何時も|itsumo}",
     ""
 ],
 [
@@ -1736,7 +1736,7 @@ Flashcards.initialize([
 ],
 [
     "(It) was wonderful and interesting.",
-    "subarashikute {面白かった|omoshirokatta} desu.",
+    "{素晴らしくて|subarashikute} {面白かった|omoshirokatta} desu.",
     ""
 ],
 [
@@ -1841,7 +1841,7 @@ Flashcards.initialize([
 ],
 [
     "Because today's game is cancelled, what shall we do? {から}",
-    "{今日|kyou} no {試合|shiai} wa chuushi desu kara, dou shimashou ka.",
+    "{今日|kyou} no {試合|shiai} wa {中止|chuushi} desu kara, dou shimashou ka.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -2016,7 +2016,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
-    "{大阪|oosaka} ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. {大阪|oosaka} wa subarashii {所|tokoro} desu ga {仕事|shigoto} wa {詰まらなかった|tsumaranakatta} desu.",
+    "{大阪|oosaka} ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. {大阪|oosaka} wa {素晴らしい|subarashii} {所|tokoro} desu ga {仕事|shigoto} wa {詰まらなかった|tsumaranakatta} desu.",
     "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\n{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
 ],
 [
@@ -2361,7 +2361,7 @@ Flashcards.initialize([
 ],
 [
     "(I) often go till Mt. Fuji, but occasionally (I) also go to Izu, you know.",
-    "yoku fujisan made {行きます|ikimasu} kedo, tamani wa izu ni mo {行きます|ikimasu} yo.",
+    "yoku fujisan made {行きます|ikimasu} kedo, {偶|tama} ni wa izu ni mo {行きます|ikimasu} yo.",
     ""
 ],
 [
@@ -2416,7 +2416,7 @@ Flashcards.initialize([
 ],
 [
     "Please wait a moment. {Polite.} Sorry to have kept you waiting. {Polite.} Sorry to have kept you waiting. {Informal.}",
-    "{少々|shoushou} {お待ち|omachi} kudasai. {お待たせ|omatase} shimashita. {お待ち|omachi} doosama.",
+    "{少々|shoushou} {お待ち|omachi} kudasai. {お待たせ|omatase} shimashita. {お待ち遠様|omachidoosama}.",
     ""
 ],
 [
@@ -2736,7 +2736,7 @@ Flashcards.initialize([
 ],
 [
     "After returning home (I) occasionally clean up the house.",
-    "{家|uchi} ni {帰って|kaette} kara tamani {家|uchi} wo {掃除|souji} shimasu.",
+    "{家|uchi} ni {帰って|kaette} kara {偶|tama} ni {家|uchi} wo {掃除|souji} shimasu.",
     "verbて + から = after doing ~, since doing ~"
 ],
 [
@@ -2771,7 +2771,7 @@ Flashcards.initialize([
 ],
 [
     "Occasionally (I) meet with a university teacher and (we) talk about studies.",
-    "tamani {大学|daigaku} no {先生|sensei} to {会って|atte}, {勉強|benkyou} ni tsuite {話します|hanashimasu}.",
+    "{偶|tama} ni {大学|daigaku} no {先生|sensei} to {会って|atte}, {勉強|benkyou} ni tsuite {話します|hanashimasu}.",
     "noun + に + ついて = about noun\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -4691,7 +4691,7 @@ Flashcards.initialize([
 ],
 [
     "Since (I) became an adult, it seems that a lot of things that looked boring as a child, (I) became interested in. Probably because (I) don't have to take exams anymore, right?",
-    "{大人|otona} ni natte kara, dou yara {子供|kodomo} no {頃|koro} ni wa {詰まらなく|tsumaranaku} {思えた|omoeta} {沢山|takusan} no koto ni {興味|kyoumi} ga {持てる|moteru} you ni narimashita. mou {試験|shiken} wo {受けなくて|ukenakute} mo ii kara deshou ne.",
+    "{大人|otona} ni natte kara, douyara {子供|kodomo} no {頃|koro} ni wa {詰まらなく|tsumaranaku} {思えた|omoeta} {沢山|takusan} no koto ni {興味|kyoumi} ga {持てる|moteru} you ni narimashita. mou {試験|shiken} wo {受けなくて|ukenakute} mo ii kara deshou ne.",
     "noun/な adj + に + なる = become ~\nverbて + から = after doing ~, since doing ~\nverbう + よう + に + なる = change in habitual action\nverbて + も + いい = doing verb is allowed, (you) may do verb\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -4791,7 +4791,7 @@ Flashcards.initialize([
 ],
 [
     "On Monday (it was arranged for me to) have a meal with the sales manager.",
-    "{月曜日|getsuyoubi} ni eigyou buchou to {食事|shokuji} wo suru koto ni narimashita.",
+    "{月曜日|getsuyoubi} ni eigyou {部長|buchou} to {食事|shokuji} wo suru koto ni narimashita.",
     "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
@@ -5250,7 +5250,7 @@ Flashcards.initialize([
 ],
 [
     "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
-    "{今日|kyou} wa ケーティ to {私達|watashitachi} no tame ni kon'na ni seidai na {送別会|soubetsukai} to {結婚|kekkon} zen'yasari wo hiraite kudasatte arigatou gozaimasu. totemo kansha shiteimasu.",
+    "{今日|kyou} wa ケーティ to {私達|watashitachi} no tame ni kon'na ni seidai na {送別会|soubetsukai} to {結婚|kekkon} {前夜|zen'ya} {去り|sari} wo hiraite kudasatte arigatou gozaimasu. totemo kansha shiteimasu.",
     "な adj. + に = adverb\nと: complete list\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
