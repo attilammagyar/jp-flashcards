@@ -2,7 +2,6 @@ ageta
 aisatsu
 asanebou
 baremashita
-bijutsukan
 bikkuri
 buchou
 burabura
@@ -85,7 +84,6 @@ rikai
 rikon
 ringo
 sagasu
-sakuhin
 sanka
 sapporo
 sarani
@@ -112,7 +110,6 @@ tamani
 tame
 tasukatta
 tatoeba
-tenrankai
 tochou
 tokorode
 tonikaku
@@ -124,7 +121,6 @@ tsuika
 tsuku
 tsumori
 ukkari
-utsukushii
 washoku
 yakyuu
 yakyuujou

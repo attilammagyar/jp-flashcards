@@ -366,12 +366,12 @@ Flashcards.initialize([
 ],
 [
     "(This is my) first time at a Japanese art museum.",
-    "{日本|nihon} no bijutsukan wa {初めて|hajimete} desu.",
+    "{日本|nihon} no {美術館|bijutsukan} wa {初めて|hajimete} desu.",
     ""
 ],
 [
     "Today is Claude Monet's exhibition. There are many famous works. {Less formal.}",
-    "{今日|kyou} wa _kuroodo mone_ no tenrankai desu. {有名|yuumei} na sakuhin ga ippai arimasu.",
+    "{今日|kyou} wa _kuroodo mone_ no {展覧会|tenrankai} desu. {有名|yuumei} na {作品|sakuhin} ga ippai arimasu.",
     ""
 ],
 [
@@ -381,7 +381,7 @@ Flashcards.initialize([
 ],
 [
     "This is my favorite artwork!",
-    "{此れ|kore} wa {私|watashi} no {一番|ichiban} {好き|suki} na sakuhin desu.",
+    "{此れ|kore} wa {私|watashi} no {一番|ichiban} {好き|suki} na {作品|sakuhin} desu.",
     ""
 ],
 [
@@ -646,7 +646,7 @@ Flashcards.initialize([
 ],
 [
     "Today is Claude Monet's exhibition. There are many famous works. {More formal.}",
-    "{今日|kyou} wa _kuroodo mone_ no tenrankai desu. {有名|yuumei} na sakuhin ga {沢山|takusan} arimasu.",
+    "{今日|kyou} wa _kuroodo mone_ no {展覧会|tenrankai} desu. {有名|yuumei} na {作品|sakuhin} ga {沢山|takusan} arimasu.",
     ""
 ],
 [
@@ -1126,7 +1126,7 @@ Flashcards.initialize([
 ],
 [
     "The hotel is behind the art gallery.",
-    "_hoteru_ wa bijutsukan no {後ろ|ushiro} ni arimasu.",
+    "_hoteru_ wa {美術館|bijutsukan} no {後ろ|ushiro} ni arimasu.",
     ""
 ],
 [
@@ -1141,7 +1141,7 @@ Flashcards.initialize([
 ],
 [
     "The art gallery is next door to the hotel.",
-    "bijutsukan wa _hoteru_ no {隣|tonari} ni arimasu.",
+    "{美術館|bijutsukan} wa _hoteru_ no {隣|tonari} ni arimasu.",
     ""
 ],
 [
@@ -1441,7 +1441,7 @@ Flashcards.initialize([
 ],
 [
     "That person is beautiful.",
-    "ano {人|hito} wa utsukushii desu.",
+    "ano {人|hito} wa {美しい|utsukushii} desu.",
     ""
 ],
 [
@@ -1561,7 +1561,7 @@ Flashcards.initialize([
 ],
 [
     "That person is beautiful. That is a beautiful person.",
-    "ano {人|hito} wa utsukushii desu. are wa utsukushii {人|hito} desu.",
+    "ano {人|hito} wa {美しい|utsukushii} desu. are wa {美しい|utsukushii} {人|hito} desu.",
     ""
 ],
 [
@@ -2331,7 +2331,7 @@ Flashcards.initialize([
 ],
 [
     "(She) looks very beautiful, doesn't she?",
-    "totemo utsukushisou desu ne.",
+    "totemo {美しそう|utsukushisou} desu ne.",
     "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
