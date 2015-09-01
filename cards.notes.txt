@@ -211,6 +211,7 @@ verbた + {時|とき} = when did/have done ~
 verbた + か + も + しれません/しれない = might have done ~
 verbた + でしょう/だろう = probably did ~
 verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~
+verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is
 
 おう/よう form
 ------------

@@ -5523,5 +5523,55 @@ Flashcards.initialize([
         "(Cos' he's) a student. {plain}",
         "{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u306a\u3093\u3060\u3002",
         "noun/\u306a-adj. + \u306a + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "At the training, (we) kick the ball and run.",
+        "{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046}\u3067\u306f\u3001\u30dc\u30fc\u30eb\u3092{\u8e74\u3063\u305f\u308a|\u3051\u3063\u305f\u308a}\u3001{\u8d70\u3063\u305f\u308a|\u306f\u3057\u3063\u305f\u308a}\u3057\u307e\u3059\u3002",
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    ],
+    [
+        "(I) learned Japanese by listening to Japanese CDs and watching TV.",
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306eCD\u3092{\u805e\u3044\u305f\u308a|\u304d\u3044\u305f\u308a}\u3001\u30c6\u30ec\u30d3\u3092{\u898b\u305f\u308a|\u307f\u305f\u308a}\u3057\u3066{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u899a\u3048\u307e\u3057\u305f|\u304a\u307c\u3048\u307e\u3057\u305f}\u3002",
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    ],
+    [
+        "That kid has been playing going up and down the stairs for a while now.",
+        "\u3042\u306e{\u5b50\u4f9b|\u3053\u3069\u3082}\u306f\u3001\u3055\u3063\u304d\u304b\u3089{\u968e\u6bb5|\u304b\u3044\u3060\u3093}\u3092{\u4e0a\u3063\u305f\u308a|\u306e\u307c\u3063\u305f\u308a}{\u4e0b\u308a\u305f\u308a|\u304a\u308a\u3063\u305f\u308a}\u3057\u3066{\u904a\u3093\u3067|\u3042\u305d\u3093\u3067}\u3044\u307e\u3059\u3002",
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "Yesterday (my) father had slept leaving the TV on.",
+        "{\u7236|\u3061\u3061}\u306f\u3001{\u6628\u65e5|\u304d\u306e\u3046}\u3001\u30c6\u30ec\u30d3\u3092\u3064\u3051\u305f\u307e\u307e{\u5bdd\u3066|\u306d\u3066}\u3044\u307e\u3057\u305f\u3002",
+        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "(You'll) catch a cold if (you) stay wet. {plain}",
+        "{\u96e8|\u3042\u3081}\u306b\u306c\u308c\u305f\u307e\u307e\u3060\u3068\u3001{\u98a8\u90aa|\u304b\u305c}\u3092{\u5f15\u304f|\u3072\u304f}\u3088\u3002",
+        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb-A-\u3046 + \u3068 + verb-B = if A then B"
+    ],
+    [
+        "That T-shirt suits (you) well. Why don't you buy it?",
+        "\u305d\u306eT\u30b7\u30e3\u30c4\u3001\u3088\u304f{\u4f3c\u5408\u3046|\u306b\u3042\u3046}\u3088\u3002{\u8cb7\u3063\u305f\u3089|\u304b\u3063\u305f\u3089}\u3069\u3046?",
+        "\u3044 adj. - \u3044 + \u304f = adverb\n(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)"
+    ],
+    [
+        "(He) went shopping and has not come back yet.",
+        "{\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e}\u306b{\u884c\u3063\u305f|\u3044\u3063\u305f}\u307e\u307e\u3001\u307e\u3060{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066}\u304d\u307e\u305b\u3093\u3002",
+        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\n(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+    ],
+    [
+        "Don't eat in (your) pajamas. {plain}",
+        "\u30d1\u30b8\u30e3\u30de\u3092{\u7740\u305f|\u304d\u305f}\u307e\u307e\u3001{\u98df\u4e8b|\u3057\u3087\u304f\u3058}\u3092\u3057\u306a\u3044\u3067\u3002",
+        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u306a\u3044 + \u3067 + \u304f\u3060\u3055\u3044 = please don't ~"
+    ],
+    [
+        "(You) have fever? Why don't (you) take (some) medicine? {plain}",
+        "{\u71b1|\u306d\u3064}\u304c\u3042\u308b\u306e?{\u85ac|\u304f\u3059\u308a}\u3092{\u98f2\u3093\u3060\u3089|\u306e\u3093\u3060\u3089}\u3069\u3046?",
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)"
+    ],
+    [
+        "Even if (I) work every day, (my) savings don't increase. {plain}",
+        "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u50cd\u3044\u3066|\u306f\u305f\u3089\u3044\u3066}\u3082\u3001{\u8caf\u91d1|\u3061\u3087\u304d\u3093}\u304c{\u5897\u3048\u306a\u3044|\u3075\u3048\u306a\u3044}\u3002",
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ]
 ])

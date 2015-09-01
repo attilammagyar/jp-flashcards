@@ -5517,5 +5517,55 @@ Flashcards.initialize([
     "(Cos' he's) a student. {plain}",
     "{学生|gakusei} na n da.",
     "noun/な-adj. + な + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "At the training, (we) kick the ball and run.",
+    "{練習|renshuu} de wa, _booru_ wo {蹴ったり|kettari}, {走ったり|hashittari} shimasu.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+],
+[
+    "(I) learned Japanese by listening to Japanese CDs and watching TV.",
+    "{日本|nihon} no *CD* wo {聞いたり|kiitari}, _terebi_ wo {見たり|mitari} shite {日本語|nihongo} wo {覚えました|oboemashita}.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+],
+[
+    "That kid has been playing going up and down the stairs for a while now.",
+    "ano {子供|kodomo} wa, sakki kara {階段|kaidan} wo {上ったり|nobottari} {下りたり|orittari} shite {遊んで|asonde} imasu.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "Yesterday (my) father had slept leaving the TV on.",
+    "{父|chichi} wa, {昨日|kinou}, _terebi_ wo tsuketa mama {寝て|nete} imashita.",
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(You'll) catch a cold if (you) stay wet. {plain}",
+    "{雨|ame} ni nureta mama da to, {風邪|kaze} wo {引く|hiku} yo.",
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverb-A-う + と + verb-B = if A then B"
+],
+[
+    "That T-shirt suits (you) well. Why don't you buy it?",
+    "sono *T* _shatsu_, yoku {似合う|niau} yo. {買ったら|kattara} dou?",
+    "い adj. - い + く = adverb\n(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+],
+[
+    "(He) went shopping and has not come back yet.",
+    "{買い物|kaimono} ni {行った|itta} mama, mada {帰って|kaette} kimasen.",
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
+],
+[
+    "Don't eat in (your) pajamas. {plain}",
+    "_pajama_ wo {着た|kita} mama, {食事|shokuji} wo shinai de.",
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbない + で + ください = please don't ~"
+],
+[
+    "(You) have fever? Why don't (you) take (some) medicine? {plain}",
+    "{熱|netsu} ga aru no? {薬|kusuri} wo {飲んだら|nondara} dou?",
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\n(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+],
+[
+    "Even if (I) work every day, (my) savings don't increase. {plain}",
+    "{毎日|mainichi} {働いて|hataraite} mo, {貯金|chokin} ga {増えない|fuenai}.",
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ]
 ])
