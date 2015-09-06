@@ -2771,7 +2771,7 @@ Flashcards.initialize([
     ],
     [
         "Occasionally (I) meet with a university teacher and (we) talk about studies.",
-        "{\u5076|\u305f\u307e}\u306b{\u5927\u5b66|\u3060\u3044\u304c\u304f}\u306e{\u5148\u751f|\u305b\u3093\u305b\u3044}\u3068{\u4f1a\u3063\u3066|\u3042\u3063\u3066}\u3001{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u306b\u3064\u3044\u3066{\u8a71\u3057\u307e\u3059|\u306f\u306a\u3057\u307e\u3059}\u3002",
+        "{\u5076|\u305f\u307e}\u306b{\u5927\u5b66|\u3060\u3044\u304c\u304f}\u306e{\u5148\u751f|\u305b\u3093\u305b\u3044}\u3068{\u4f1a\u3063\u3066|\u3042\u3063\u3066}\u3001{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u306b{\u5c31\u3044\u3066|\u3064\u3044\u3066}{\u8a71\u3057\u307e\u3059|\u306f\u306a\u3057\u307e\u3059}\u3002",
         "noun + \u306b + \u3064\u3044\u3066 = about noun\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
     ],
     [
@@ -3241,7 +3241,7 @@ Flashcards.initialize([
     ],
     [
         "Please tell (me) about a day of your's.",
-        "{\u81ea\u5206|\u3058\u3076\u3093}\u306e{\u4e00\u65e5|\u3044\u3061\u306b\u3061}\u306b\u3064\u3044\u3066{\u6559\u3048\u3066|\u304a\u3057\u3048\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "{\u81ea\u5206|\u3058\u3076\u3093}\u306e{\u4e00\u65e5|\u3044\u3061\u306b\u3061}\u306b{\u5c31\u3044\u3066|\u3064\u3044\u3066}{\u6559\u3048\u3066|\u304a\u3057\u3048\u3066}\u304f\u3060\u3055\u3044\u3002",
         "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nnoun + \u306b + \u3064\u3044\u3066 = about noun"
     ],
     [
@@ -3791,7 +3791,7 @@ Flashcards.initialize([
     ],
     [
         "(We) talked about various interesting things and (it) was very fun.",
-        "{\u8272\u3005|\u3044\u308d\u3044\u308d}{\u9762\u767d\u3044|\u304a\u3082\u3057\u308d\u3044}{\u4e8b|\u3053\u3068}\u306b\u3064\u3044\u3066{\u8a71\u3057\u3066|\u306f\u306a\u3057\u3066}\u3001\u3068\u3066\u3082{\u697d\u3057\u304b\u3063\u305f|\u305f\u306e\u3057\u304b\u3063\u305f}\u3067\u3059\u3002",
+        "{\u8272\u3005|\u3044\u308d\u3044\u308d}{\u9762\u767d\u3044|\u304a\u3082\u3057\u308d\u3044}{\u4e8b|\u3053\u3068}\u306b{\u5c31\u3044\u3066|\u3064\u3044\u3066}{\u8a71\u3057\u3066|\u306f\u306a\u3057\u3066}\u3001\u3068\u3066\u3082{\u697d\u3057\u304b\u3063\u305f|\u305f\u306e\u3057\u304b\u3063\u305f}\u3067\u3059\u3002",
         "noun + \u306b + \u3064\u3044\u3066 = about noun\n\u304b\u3063\u305f = past tense of \u3044 adj."
     ],
     [
@@ -4646,7 +4646,7 @@ Flashcards.initialize([
     ],
     [
         "What does Rie think about Mr. Yamada going to China? (It's) a pity, but a good opportunity.",
-        "\u308a\u3048\u3055\u3093\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u884c\u304f|\u3044\u304f}\u3053\u3068\u306b\u3064\u3044\u3066\u3069\u3046{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u304b\u3002{\u6b8b\u5ff5|\u3056\u3093\u306d\u3093}\u3067\u3059\u304c\u3044\u3044\u30c1\u30e3\u30f3\u30b9\u3067\u3059\u3002",
+        "\u308a\u3048\u3055\u3093\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u884c\u304f|\u3044\u304f}\u3053\u3068\u306b{\u5c31\u3044\u3066|\u3064\u3044\u3066}\u3069\u3046{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u304b\u3002{\u6b8b\u5ff5|\u3056\u3093\u306d\u3093}\u3067\u3059\u304c\u3044\u3044\u30c1\u30e3\u30f3\u30b9\u3067\u3059\u3002",
         ""
     ],
     [
@@ -5573,5 +5573,45 @@ Flashcards.initialize([
         "Even if (I) work every day, (my) savings don't increase. {plain}",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u50cd\u3044\u3066|\u306f\u305f\u3089\u3044\u3066}\u3082\u3001{\u8caf\u91d1|\u3061\u3087\u304d\u3093}\u304c{\u5897\u3048\u306a\u3044|\u3075\u3048\u306a\u3044}\u3002",
         "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "In the restaurant, (they) wash and cut the vegetables.",
+        "\u30ec\u30b9\u30c8\u30e9\u30f3\u3067{\u91ce\u83dc|\u3084\u3055\u3044}\u3092{\u6d17\u3063\u305f\u308a|\u3042\u3089\u3063\u305f\u308a}\u3001{\u5207\u3063\u305f\u308a|\u304d\u3063\u305f\u308a}\u3057\u3066\u3044\u307e\u3059\u3002",
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "Even if it rains, (I'll) go out by bike.",
+        "{\u96e8|\u3042\u3081}\u304c{\u964d\u3063\u3066|\u3075\u3063\u3066}\u3082\u3001{\u81ea\u8ee2\u8eca|\u3058\u3066\u3093\u3057\u3083}\u3067{\u51fa\u304b\u3051\u307e\u3059|\u3067\u304b\u3051\u307e\u3059}\u3002",
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)"
+    ],
+    [
+        "Even if (I) have a toothache, (I) won't go to the dentist because it's scary.",
+        "{\u6016\u3044|\u3053\u308f\u3044}\u304b\u3089\u3001{\u6b6f|\u306f}\u304c{\u75db\u304f\u3066|\u3044\u305f\u304f\u3066}\u3082{\u6b6f\u533b\u8005|\u306f\u3044\u3057\u3083}\u306b{\u884c\u304d\u307e\u305b\u3093|\u3044\u304d\u307e\u305b\u3093}\u3002",
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+    ],
+    [
+        "Even if (I'm) bad at characters, (I) write carefully. {plain}",
+        "{\u5b57|\u3058}\u304c{\u4e0b\u624b|\u3078\u305f}\u3067\u3082\u3001\u3066\u3044\u306d\u3044\u306b{\u66f8\u304f|\u304b\u304f}\u3002",
+        "\u306a adj. + \u306b = adverb"
+    ],
+    [
+        "to cough",
+        "{\u54b3|\u305b\u304d}\u3092{\u51fa\u308b|\u3067\u308b}",
+        ""
+    ],
+    [
+        "to have a fever",
+        "{\u71b1|\u306d\u3064}\u3092{\u51fa\u308b|\u3067\u308b}",
+        ""
+    ],
+    [
+        "to cut a finger",
+        "{\u6307|\u3086\u3073}\u3092{\u5207\u308b|\u304d\u308b}",
+        ""
+    ],
+    [
+        "to break a bone",
+        "{\u9aa8\u6298|\u3053\u3063\u305b\u3064}\u3059\u308b",
+        ""
     ]
 ])

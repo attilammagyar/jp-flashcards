@@ -485,3 +485,27 @@
 似合う niau
 貯金 chokin
 増える fueru
+丁寧 tenei
+歯医者 haisha
+咳 seki
+怪我をする kega wo suru
+火傷 yakedo
+火傷する yakedo suru
+骨 hone
+骨折 kossetsu
+痒い kayui
+診察する shinsatsu suru
+入院する nyuuin suru
+検札 kensatsu
+手術 shujutsu
+手術する shujutsu
+治る naoru
+病気が治る byouki ga naoru
+退院 taiin
+退院する taiin suru
+薬局 yakkyoku
+錠剤 jouzai
+粉 kona
+粉薬 konagusuri
+塗る nuru
+塗り薬 nurigusuri

@@ -2771,7 +2771,7 @@ Flashcards.initialize([
 ],
 [
     "Occasionally (I) meet with a university teacher and (we) talk about studies.",
-    "{偶|tama} ni {大学|daigaku} no {先生|sensei} to {会って|atte}, {勉強|benkyou} ni tsuite {話します|hanashimasu}.",
+    "{偶|tama} ni {大学|daigaku} no {先生|sensei} to {会って|atte}, {勉強|benkyou} ni {就いて|tsuite} {話します|hanashimasu}.",
     "noun + に + ついて = about noun\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
@@ -3241,7 +3241,7 @@ Flashcards.initialize([
 ],
 [
     "Please tell (me) about a day of your's.",
-    "{自分|jibun} no {一日|ichinichi} ni tsuite {教えて|oshiete} kudasai.",
+    "{自分|jibun} no {一日|ichinichi} ni {就いて|tsuite} {教えて|oshiete} kudasai.",
     "verbて + ください = request\nnoun + に + ついて = about noun"
 ],
 [
@@ -3791,7 +3791,7 @@ Flashcards.initialize([
 ],
 [
     "(We) talked about various interesting things and (it) was very fun.",
-    "{色々|iroiro} {面白い|omoshiroi} {事|koto} ni tsuite {話して|hanashite}, totemo {楽しかった|tanoshikatta} desu.",
+    "{色々|iroiro} {面白い|omoshiroi} {事|koto} ni {就いて|tsuite} {話して|hanashite}, totemo {楽しかった|tanoshikatta} desu.",
     "noun + に + ついて = about noun\nかった = past tense of い adj."
 ],
 [
@@ -4646,7 +4646,7 @@ Flashcards.initialize([
 ],
 [
     "What does Rie think about Mr. Yamada going to China? (It's) a pity, but a good opportunity.",
-    "rie san wa {山田|yamada} san ga {中国|chuugoku} ni {行く|iku} koto ni tsuite dou {思います|omoimasu} ka. {残念|zan'nen} desu ga ii _chansu_ desu.",
+    "rie san wa {山田|yamada} san ga {中国|chuugoku} ni {行く|iku} koto ni {就いて|tsuite} dou {思います|omoimasu} ka. {残念|zan'nen} desu ga ii _chansu_ desu.",
     ""
 ],
 [
@@ -5567,5 +5567,45 @@ Flashcards.initialize([
     "Even if (I) work every day, (my) savings don't increase. {plain}",
     "{毎日|mainichi} {働いて|hataraite} mo, {貯金|chokin} ga {増えない|fuenai}.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "In the restaurant, (they) wash and cut the vegetables.",
+    "_resutoran_ de {野菜|yasai} wo {洗ったり|arattari}, {切ったり|kittari} shite imasu.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "Even if it rains, (I'll) go out by bike.",
+    "{雨|ame} ga {降って|futte} mo, {自転車|jitensha} de {出かけます|dekakemasu}.",
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
+],
+[
+    "Even if (I) have a toothache, (I) won't go to the dentist because it's scary.",
+    "{怖い|kowai} kara, {歯|ha} ga {痛くて|itakute} mo {歯医者|haisha} ni {行きません|ikimasen}.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "Even if (I'm) bad at characters, (I) write carefully. {plain}",
+    "{字|ji} ga {下手|heta} de mo, teinei ni {書く|kaku}.",
+    "な adj. + に = adverb"
+],
+[
+    "to cough",
+    "{咳|seki} wo {出る|deru}",
+    ""
+],
+[
+    "to have a fever",
+    "{熱|netsu} wo {出る|deru}",
+    ""
+],
+[
+    "to cut a finger",
+    "{指|yubi} wo {切る|kiru}",
+    ""
+],
+[
+    "to break a bone",
+    "{骨折|kossetsu} suru",
+    ""
 ]
 ])
