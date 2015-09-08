@@ -96,7 +96,7 @@ Flashcards.initialize([
 ],
 [
     "Grilled chicken, how about it?",
-    "{焼き鳥|yakitori}, ikaga desu ka.",
+    "{焼き鳥|yakitori}, {如何|ikaga} desu ka.",
     ""
 ],
 [
@@ -2076,7 +2076,7 @@ Flashcards.initialize([
 ],
 [
     "(In) Sapporo, the wind will probably be strong and sometimes (it) will snow. (It) will probably be 0°C.",
-    "Sapporo wa {風|kaze} ga {強くて|tsuyokute} {時々|tokidoki} {雪|yuki} deshou. rei {度|do} deshou.",
+    "Sapporo wa {風|kaze} ga {強くて|tsuyokute} {時々|tokidoki} {雪|yuki} deshou. {零度|reido} deshou.",
     ""
 ],
 [
@@ -4871,7 +4871,7 @@ Flashcards.initialize([
 ],
 [
     "Would (you) like something to drink? Water is fine. Two please.",
-    "{お飲み物|onomimono} wa ikaga desu ka. {お水|omizu} de ii desu. {二つ|futatsu} {お願い|onegai} shimasu.",
+    "{お飲み物|onomimono} wa {如何|ikaga} desu ka. {お水|omizu} de ii desu. {二つ|futatsu} {お願い|onegai} shimasu.",
     ""
 ],
 [
