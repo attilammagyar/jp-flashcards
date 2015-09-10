@@ -297,7 +297,7 @@
 理由 ryuu
 事故 jiko
 手短 temijika
-表現 byougen
+表現 hyougen
 以下 ika
 見落とす miotosu
 助かる tasukaru
@@ -541,3 +541,35 @@
 母語 bogo
 存在 sonzai
 心象 shinshou
+学習 gakushou
+遠慮 enryo
+サボる saboru
+記録 kiroku
+残す nokosu
+考察 kousatsu
+口語 kougo
+堅い katai
+実感 jikkan
+思考 shikou
+入れ替わる irekawaru
+入れ替え irekawae
+入れ換える irekawaeru
+のんびり nonbiri
+不味い mazui
+顔写真 kaoshashin
+不躾 bushitsuke
+斜視 shashi
+髭 hige
+本人 hon'nin
+特に toku ni
+あたり atari
+それ故に sore yue ni
+活用 katsuyou
+話者 washa
+数 kazu
+だいたい daitai
+東京都 toukyouto
+本名 honmyou
+値 atai
+純 jun
+通 tsuu

@@ -5607,5 +5607,10 @@ Flashcards.initialize([
     "to break a bone",
     "{骨折|kossetsu} suru",
     ""
+],
+[
+    "Have a nice day!",
+    "{良い|ii} {一日|ichinichi} wo {お過ごし|osugoshi} kudasai.",
+    ""
 ]
 ])
