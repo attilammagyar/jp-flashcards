@@ -573,3 +573,4 @@
 値 atai
 純 jun
 通 tsuu
+入力 nyuuryoku
