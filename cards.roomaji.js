@@ -1176,7 +1176,7 @@ Flashcards.initialize([
 ],
 [
     "The bus stop is to the side of the bank.",
-    "_basu_ {停|tei} wa {銀行|ginkou} no yoko ni arimasu.",
+    "_basu_ {停|tei} wa {銀行|ginkou} no {横|yoko} ni arimasu.",
     ""
 ],
 [
@@ -5370,12 +5370,12 @@ Flashcards.initialize([
 ],
 [
     "He came to work at 9 o'clock as usual. {plain}",
-    "{彼|kare} wa itsumono toori {九時|kuji} ni {出社|shussha} shita.",
+    "{彼|kare} wa itsumono {通り|toori} {九時|kuji} ni {出社|shussha} shita.",
     ""
 ],
 [
     "As (in the) weather forecast, it started to rain. {plain}",
-    "{天気予報|tenkiyohou} no toori, {雨|ame} ga {降り出した|furidashita}.",
+    "{天気予報|tenkiyohou} no {通り|toori}, {雨|ame} ga {降り出した|furidashita}.",
     ""
 ],
 [
