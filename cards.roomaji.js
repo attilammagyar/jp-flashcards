@@ -5612,5 +5612,10 @@ Flashcards.initialize([
     "Have a nice day!",
     "{良い|ii} {一日|ichinichi} wo {お過ごし|osugoshi} kudasai.",
     ""
+],
+[
+    "It's hot toda, isn't it?",
+    "{今日|kyou} wa {暑いっす|atsuissu} ne.",
+    "っす = です"
 ]
 ])
