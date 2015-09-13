@@ -282,7 +282,7 @@
 皮膚 hifu
 制服 seifuku
 着替える kigaeru
-むかし mukashi
+昔 mukashi
 正しい tadashii
 大統領 daitouryou
 小学校 shougakkou
@@ -323,7 +323,7 @@
 直す naosu
 途中 tochuu
 泣く naku
-いつまでも itsumademo
+何時までも itsumademo
 怒る okoru
 動く ugoku
 足りる tariru
@@ -351,7 +351,7 @@
 嘘 uso
 吐く tsuku
 嘘を吐く uso wo tsuku
-おごる ogoru
+奢る ogoru
 指輪 yubiwa
 夫 otto
 残る nokoru
@@ -416,10 +416,10 @@
 必ずしも kanarazushimo
 限る kagiru
 要は youha
-にとって ni totte
+に取って ni totte
 結局 kekkyoku
 無駄 muda
-づく zuku
+付く zuku
 品物 shinamono
 直訳 chokuyaku
 意訳 iyaku
@@ -561,12 +561,12 @@
 髭 hige
 本人 hon'nin
 特に toku ni
-あたり atari
+当たり atari
 それ故に sore yue ni
 活用 katsuyou
 話者 washa
 数 kazu
-だいたい daitai
+大体 daitai
 東京都 toukyouto
 本名 honmyou
 値 atai
@@ -588,3 +588,31 @@
 打つかる butsukaru
 単語表 tangohyou
 馬鹿 baka
+拙い tsutanai
+写す utsusu
+書き写す kakiutsusu
+通り toori
+補足 hosoku
+微妙 byoumyou
+一まず hitomazu
+流す nagasu
+風貌 fuubou
+物言い monoii
+奥深い okufukai
+内面 taimen
+にじみ出る nijimideru
+味わい ajiwai
+深さ fukasa
+褒め言葉 homekotoba
+に対して ni taishite
+醸し出す kamoshidasu
+換える kaeru
+言い換える iikaeru
+喜ぶ yorokobu
+お世辞 oseji
+具合 guai
+完全 kanzen
+年齢 nenrei
+年齢層 nenreisou
+驚く odoroku
+お互い otagai
