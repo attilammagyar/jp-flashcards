@@ -5175,7 +5175,7 @@ Flashcards.initialize([
 ],
 [
     "If (I) have a chance, may (I) go to China to have fun? If (you) have a chance, please surely come to China to have fun, with your family.",
-    "_chansu_ ga attara, {中国|chuugoku} he {遊び|asobi} ni {行って|itte} mo ii desu ka. moshi_chansu_ ga attara, zehi {ご家族|gokazoku} de {中国|chuugoku} he {遊び|asobi} ni {来て|kite} kudasai.",
+    "_chansu_ ga attara, {中国|chuugoku} he {遊び|asobi} ni {行って|itte} mo ii desu ka. moshi_chansu_ ga attara, {是非|zehi} {ご家族|gokazoku} de {中国|chuugoku} he {遊び|asobi} ni {来て|kite} kudasai.",
     "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbて + も + いい = doing verb is allowed, (you) may do verb\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbて + ください = request"
 ],
 [
@@ -5270,7 +5270,7 @@ Flashcards.initialize([
 ],
 [
     "If (you) have a chance to come to China, please be sure to contact (us).",
-    "moshi {中国|chuugoku} ni {来る|kuru} _chansu_ ga attara, zehi renraku shite kudasai.",
+    "moshi {中国|chuugoku} ni {来る|kuru} _chansu_ ga attara, {是非|zehi} renraku shite kudasai.",
     "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
 ],
 [
