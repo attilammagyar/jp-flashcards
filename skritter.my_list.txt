@@ -616,3 +616,10 @@
 年齢層 nenreisou
 驚く odoroku
 お互い otagai
+恐らく osoraku
+汲む kumu
+汲み取る kumitoru
+後者 kousha
+前者 zensha
+文字通り mojidoori
+現す arawasu
