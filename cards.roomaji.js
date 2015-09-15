@@ -5000,7 +5000,7 @@ Flashcards.initialize([
 ],
 [
     "Thank you for the cute and heart-warming presents as well.",
-    "{可愛くて|kawakute}, {心|kokoro} {温まる|atatamaru} _purezento_ mo arigatou gozaimasu.",
+    "{可愛くて|kawaikute}, {心|kokoro} {温まる|atatamaru} _purezento_ mo arigatou gozaimasu.",
     ""
 ],
 [
@@ -5614,7 +5614,7 @@ Flashcards.initialize([
     ""
 ],
 [
-    "It's hot toda, isn't it?",
+    "It's hot today, isn't it?",
     "{今日|kyou} wa {暑いっす|atsuissu} ne.",
     "っす = です"
 ]

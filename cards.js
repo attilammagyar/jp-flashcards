@@ -5006,7 +5006,7 @@ Flashcards.initialize([
     ],
     [
         "Thank you for the cute and heart-warming presents as well.",
-        "{\u53ef\u611b\u304f\u3066|\u304b\u308f\u304f\u3066}\u3001{\u5fc3|\u3053\u3053\u308d}{\u6e29\u307e\u308b|\u3042\u305f\u305f\u307e\u308b}\u30d7\u30ec\u30bc\u30f3\u30c8\u3082\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002",
+        "{\u53ef\u611b\u304f\u3066|\u304b\u308f\u3044\u304f\u3066}\u3001{\u5fc3|\u3053\u3053\u308d}{\u6e29\u307e\u308b|\u3042\u305f\u305f\u307e\u308b}\u30d7\u30ec\u30bc\u30f3\u30c8\u3082\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002",
         ""
     ],
     [
@@ -5620,7 +5620,7 @@ Flashcards.initialize([
         ""
     ],
     [
-        "It's hot toda, isn't it?",
+        "It's hot today, isn't it?",
         "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f{\u6691\u3044\u3063\u3059|\u3042\u3064\u3044\u3063\u3059}\u306d\u3002",
         "\u3063\u3059 = \u3067\u3059"
     ]
