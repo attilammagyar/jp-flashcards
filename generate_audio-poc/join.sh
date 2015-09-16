@@ -13,6 +13,7 @@ ls -1 ?.wav ??.wav ???.wav \
             i=$(($i+1))
             grep "^$n[.] " kanji.txt >>lyrics.txt
             grep "^$n[.] " kana.txt >>lyrics.txt
+            grep "^$n[.] " english.txt >>lyrics.txt
             echo >>lyrics.txt
             if [[ $i -eq 10 ]]
             then
