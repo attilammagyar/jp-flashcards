@@ -5617,5 +5617,20 @@ Flashcards.initialize([
     "It's hot today, isn't it?",
     "{今日|kyou} wa {暑いっす|atsuissu} ne.",
     "っす = です"
+],
+[
+    "A pine tree stands in front of his house. {plain}",
+    "{彼|kare} no {家|ie} no {前|mae} ni wa {松|matsu} no {木|ki} ga {立って|tatte} iru.",
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "There's an old cherry tree in the garden.",
+    "{庭|niwa} ni {古い|furui} {桜|sakura} no {木|ki} ga {一本|ippon} arimasu. ",
+    ""
+],
+[
+    "The roses are in bloom. {plain}",
+    "{薔薇|_bara_} ga {咲いて|saite} iru.",
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ]
 ])

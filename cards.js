@@ -5623,5 +5623,20 @@ Flashcards.initialize([
         "It's hot today, isn't it?",
         "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f{\u6691\u3044\u3063\u3059|\u3042\u3064\u3044\u3063\u3059}\u306d\u3002",
         "\u3063\u3059 = \u3067\u3059"
+    ],
+    [
+        "A pine tree stands in front of his house. {plain}",
+        "{\u5f7c|\u304b\u308c}\u306e{\u5bb6|\u3044\u3048}\u306e{\u524d|\u307e\u3048}\u306b\u306f{\u677e|\u307e\u3064}\u306e{\u6728|\u304d}\u304c{\u7acb\u3063\u3066|\u305f\u3063\u3066}\u3044\u308b\u3002",
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "There's an old cherry tree in the garden.",
+        "{\u5ead|\u306b\u308f}\u306b{\u53e4\u3044|\u3075\u308b\u3044}{\u685c|\u3055\u304f\u3089}\u306e{\u6728|\u304d}\u304c{\u4e00\u672c|\u3044\u3063\u307d\u3093}\u3042\u308a\u307e\u3059\u3002",
+        ""
+    ],
+    [
+        "The roses are in bloom. {plain}",
+        "{\u8594\u8587|\u30d0\u30e9}\u304c{\u54b2\u3044\u3066|\u3055\u3044\u3066}\u3044\u308b\u3002",
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ]
 ])

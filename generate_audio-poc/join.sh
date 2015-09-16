@@ -4,7 +4,7 @@ i=0
 w=""
 g=""
 rm lyrics.txt
-ls -1 ?.wav ??.wav \
+ls -1 ?.wav ??.wav ???.wav \
     | sort -n \
     | while read
         do
