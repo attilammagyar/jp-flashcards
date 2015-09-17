@@ -628,3 +628,10 @@
 医学 igaku
 入院 nyuuin
 集まる atsumaru
+欧州連合 oushuurengou
+移民 imin
+手助け tedasuke
+滞在 seizai
+政治屋 seijiya
+政治家 seijika
+国境 kokkyou
