@@ -5638,5 +5638,15 @@ Flashcards.initialize([
         "The roses are in bloom. {plain}",
         "{\u8594\u8587|\u30d0\u30e9}\u304c{\u54b2\u3044\u3066|\u3055\u3044\u3066}\u3044\u308b\u3002",
         "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "Take your time. There's no need to hurry. It's okay any time. There's no need to hurry, so please do it when (you) have the time. As long as you wish.",
+        "\u3054\u3086\u3063\u304f\u308a\u3069\u3046\u305e\u3002{\u6025\u3050|\u3044\u305d\u3050}{\u5fc5\u8981|\u3072\u3064\u3088\u3046}\u306f\u3042\u308a\u307e\u305b\u3093\u3002\u3044\u3064\u3067\u3082\u3044\u3044\u3067\u3059\u3088\u3002{\u6025\u304e|\u3044\u305d\u304e}\u306e{\u7528|\u3088\u3046}\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u306e\u3067\u3001{\u304a\u6642\u9593|\u304a\u3058\u304b\u3093}\u3042\u308b\u3068\u304d\u306b{\u304a\u9858\u3044|\u304a\u306d\u304c\u3044}\u3057\u307e\u3059\u3002\u3069\u3046\u305e\u3054\u3086\u3063\u304f\u308a\u3002",
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb\u3046 + {\u6642|\u3068\u304d} = when doing ~"
+    ],
+    [
+        "You couldn't ask for a better chance.",
+        "{\u9858\u3063\u3066|\u306d\u304c\u3063\u3066}\u3082\u306a\u3044\u3053\u3068\u3067\u3059!",
+        ""
     ]
 ])

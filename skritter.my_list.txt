@@ -635,3 +635,34 @@
 政治屋 seijiya
 政治家 seijika
 国境 kokkyou
+役 yaku
+役に立つ yaku ni tatsu
+真 shin
+真ん中 man'naka
+運ぶ hakobu
+沸かす wakasu
+お湯 oyu
+腕 ude
+天才 tensai
+解く toku
+成績 seiseki
+気が合う ki ga au
+折角 sekkaku
+性格 seikaku
+筈 hazu
+紹介 shoukai
+復旧 fukkyuu
+作業 sagyou
+復旧作業 fukkyuusagyou
+具体的 gutaiteki
+失敗 shippai
+失敗する shippai suru
+再起動 saikidou
+状態 joudai
+出荷 shukka
+戻す modosu
+用 you
+前後 zengo
+逆 gyaku
+対する tai suru
+に対する ni tai suru

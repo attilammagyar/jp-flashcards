@@ -5632,5 +5632,15 @@ Flashcards.initialize([
     "The roses are in bloom. {plain}",
     "{薔薇|_bara_} ga {咲いて|saite} iru.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "Take your time. There's no need to hurry. It's okay any time. There's no need to hurry, so please do it when (you) have the time. As long as you wish.",
+    "goyukkuri douzo. {急ぐ|isogu} {必要|hitsuyou} wa arimasen. itsu de mo ii desu yo. {急ぎ|isogi} no {用|you} de wa arimasen no de, {お時間|ojikan} aru toki ni {お願い|onegai} shimasu. douzo goyukkuri.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverbう + {時|とき} = when doing ~"
+],
+[
+    "You couldn't ask for a better chance.",
+    "{願って|negatte} mo nai koto desu!",
+    ""
 ]
 ])
