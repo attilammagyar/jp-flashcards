@@ -1496,7 +1496,7 @@ Flashcards.initialize([
 ],
 [
     "She is very kind but a bit serious.",
-    "{彼女|kanojo} wa totemo {優しい|yasashii} desu ga {少し|sukoshi} majime desu.",
+    "{彼女|kanojo} wa totemo {優しい|yasashii} desu ga {少し|sukoshi} {真面目|majime} desu.",
     ""
 ],
 [
@@ -1551,7 +1551,7 @@ Flashcards.initialize([
 ],
 [
     "I think Mr. Yamada is a serious person.",
-    "{山田|yamada} san wa majime na {人|hito} da to {思います|omoimasu}.",
+    "{山田|yamada} san wa {真面目|majime} na {人|hito} da to {思います|omoimasu}.",
     ""
 ],
 [
@@ -1576,7 +1576,7 @@ Flashcards.initialize([
 ],
 [
     "back/height, high/tall, low/short, average",
-    "{背|se}, {高い|takai}, {低い|hikui}, futsuu (na)",
+    "{背|se}, {高い|takai}, {低い|hikui}, {普通|futsuu} (na)",
     ""
 ],
 [
@@ -1616,7 +1616,7 @@ Flashcards.initialize([
 ],
 [
     "He is a serious and quiet/gentle person.",
-    "{彼|kare} wa majime de {大人しい|otonashii} {人|hito} desu.",
+    "{彼|kare} wa {真面目|majime} de {大人しい|otonashii} {人|hito} desu.",
     ""
 ],
 [
@@ -1626,7 +1626,7 @@ Flashcards.initialize([
 ],
 [
     "He is serious but kind.",
-    "{彼|kare} wa majime desu ga {優しい|yasashii} desu.",
+    "{彼|kare} wa {真面目|majime} desu ga {優しい|yasashii} desu.",
     ""
 ],
 [
@@ -1706,7 +1706,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
-    "{背|se} ga futsuu de, {髪|kami} ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga {丸くて|marukute}, {鼻|hana} ga {大きい|ookii} desu.",
+    "{背|se} ga {普通|futsuu} de, {髪|kami} ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga {丸くて|marukute}, {鼻|hana} ga {大きい|ookii} desu.",
     "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
@@ -1726,7 +1726,7 @@ Flashcards.initialize([
 ],
 [
     "That person is serious but kind.",
-    "ano {人|hito} wa majime desu ga {優しい|yasashii} desu.",
+    "ano {人|hito} wa {真面目|majime} desu ga {優しい|yasashii} desu.",
     ""
 ],
 [
@@ -1866,7 +1866,7 @@ Flashcards.initialize([
 ],
 [
     "Hondo does his work seriously.",
-    "hondou san wa majime ni {仕事|shigoto} wo shimasu.",
+    "hondou san wa {真面目|majime} ni {仕事|shigoto} wo shimasu.",
     "な adj. + に = adverb"
 ],
 [
@@ -2716,8 +2716,8 @@ Flashcards.initialize([
 ],
 [
     "Don't eat at the rooms. Please eat at the canteen.",
-    "{部屋|heya} de {食べて|tabete} wa dame desu. {食堂|shokudou} de {食べて|tabete} kudasai.",
-    "verbて + は + だめ = must not do verb\nverbて + も + いい = doing verb is allowed, (you) may do verb"
+    "{部屋|heya} de {食べて|tabete} wa {駄目|dame} desu. {食堂|shokudou} de {食べて|tabete} kudasai.",
+    "verbて + は + {駄目|だめ} = must not do verb\nverbて + も + いい = doing verb is allowed, (you) may do verb"
 ],
 [
     "Rooms are separated? I can't believe it!",
@@ -3281,7 +3281,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want (my) older sister to do (my) homework. No way! Try to do (it) on your own please.",
-    "{お姉ちゃん|oneechan} ni {宿題|shukudai} wo shite {欲しい|hoshii} desu. dame desu yo. {自分|jibun} de shite mite kudasai.",
+    "{お姉ちゃん|oneechan} ni {宿題|shukudai} wo shite {欲しい|hoshii} desu. {駄目|dame} desu yo. {自分|jibun} de shite mite kudasai.",
     "(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbて + みる = try doing ~\nverbて + ください = request\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
