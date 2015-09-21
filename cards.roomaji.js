@@ -5624,7 +5624,7 @@ Flashcards.initialize([
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
-    "There's an old cherry tree in the garden.",
+    "There's one old cherry tree in the garden.",
     "{庭|niwa} ni {古い|furui} {桜|sakura} no {木|ki} ga {一本|ippon} arimasu. ",
     ""
 ],

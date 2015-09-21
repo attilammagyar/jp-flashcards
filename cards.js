@@ -5630,7 +5630,7 @@ Flashcards.initialize([
         "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
     [
-        "There's an old cherry tree in the garden.",
+        "There's one old cherry tree in the garden.",
         "{\u5ead|\u306b\u308f}\u306b{\u53e4\u3044|\u3075\u308b\u3044}{\u685c|\u3055\u304f\u3089}\u306e{\u6728|\u304d}\u304c{\u4e00\u672c|\u3044\u3063\u307d\u3093}\u3042\u308a\u307e\u3059\u3002",
         ""
     ],

@@ -93,8 +93,28 @@
 93. to break a bone
 94. Have a nice day!
 95. It's hot today, isn't it?
-96. A pine tree stands in front of his house. (plain) There's an old cherry tree in the garden. The roses are in bloom. (plain)
+96. A pine tree stands in front of his house. (plain) There's one old cherry tree in the garden. The roses are in bloom. (plain)
 97. The big one is better than the small one. The train is quicker than the bus. (It is) quicker to go by train than by bus.
 98. Pay (just before) when (you) get off the bus please. Pay when (you) have gotten off the bus please.
 99. The moment the door opened, (my) heart stopped. (plain) When the door opened, (my) heart stopped. (plain)
 100. (I've) already finished (my) homework. The little bird went and died. (plain) The little bird went and died. (plain, spoken) (I'm) totally exhausted. (plain)
+101. Take your time.
+102. There's no need to hurry.
+103. It's okay any time.
+104. There's no need to hurry, so please do it when (you) have the time.
+105. As long as you wish.
+106. You couldn't ask for a better chance.
+107. I got (my) friends to wait (for me). (plain)
+108. My younger brother got Mr. Yamada for a ride. (plain)
+109. Mr. Yamada got my older sister to help (him). (plain)
+110. Mr. Yamada got Ms. Natsuko to wait (for him). (plain)
+111. Could (I) get (you) to wait for me?
+112. My younger brother waited for (his) friends. (plain)
+113. (I) helped my younger brother.
+114. Would (you) be so kind to wait (for me)?
+115. Thank (you) very much for waiting (for me).
+116. (My) friends waited for me. (grateful, plain)
+117. Mr. Yamada helped my younger brother. (grateful, plain)
+118. Mr. Yamada got a book from my older sister. (plain)
+119. I got a book from Mr. Yamada. (plain)
+120. Let's go home before it gets dark.
