@@ -696,12 +696,12 @@ Flashcards.initialize([
 ],
 [
     "I'm very worried. Tonight, shall we study English together?",
-    "totemo shinpai desu. {今夜|kon'ya} {一緒|issho} ni {英語|eigo} wo {勉強|benkyou} shimasen ka.",
+    "totemo {心配|shinpai} desu. {今夜|kon'ya} {一緒|issho} ni {英語|eigo} wo {勉強|benkyou} shimasen ka.",
     ""
 ],
 [
     "(I) have a Japanese language exam the day after tomorrow. I'm also very worried.",
-    "{明後日|asatte} {日本語|nihongo} no {試験|shiken} ga arimasu. {私|watashi} mo totemo shinpai desu.",
+    "{明後日|asatte} {日本語|nihongo} no {試験|shiken} ga arimasu. {私|watashi} mo totemo {心配|shinpai} desu.",
     ""
 ],
 [
@@ -726,7 +726,7 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, do (you) have (any) summer kimonos?",
-    "sumimasen, yukata ga arimasu ka.",
+    "sumimasen, {浴衣|yukata} ga arimasu ka.",
     ""
 ],
 [
@@ -796,7 +796,7 @@ Flashcards.initialize([
 ],
 [
     "3 summer kimonos",
-    "yukata {三|san} {枚|mai}",
+    "{浴衣|yukata} {三|san} {枚|mai}",
     ""
 ],
 [
@@ -2567,12 +2567,12 @@ Flashcards.initialize([
 [
     "May (I) watch the tv?",
     "_terebi_ wo {見て|mite} mo ii desu ka.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "(You) may eat here.",
     "{此処|koko} de {食べて|tabete} mo ii desu.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "(You) are not allowed to eat here.",
@@ -2642,27 +2642,27 @@ Flashcards.initialize([
 [
     "May (I) go to the toilet?",
     "_toire_ ni {行って|itte} mo ii desu ka.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "May (I) listen to music here?",
     "{此処|koko} de {音楽|ongaku} wo {聞いて|kiite} mo ii desu ka.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "May (I) open the window? May (I) close the window?",
     "{窓|mado} wo {開けて|akete} mo ii desu ka. {窓|mado} wo {閉めて|shimete} mo ii desu ka.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "May (I) enter this room?",
     "{此の|kono} {部屋|heya} ni {入って|haitte} mo ii desu ka.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "May (I) take a bath?",
     "{お風呂|ofuro} ni {入って|haitte} mo ii desu ka.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "(You are) not allowed to open that door.",
@@ -2712,12 +2712,12 @@ Flashcards.initialize([
 [
     "Men may take a bath from 5 o'clock until 7 o'clock, women from 7 o'clock until 9 o'clock.",
     "{男性|dansei} wa {五時|goji} kara {七時|shichiji} made {お風呂|ofuro} ni {入って|haitte} mo ii desu. {女性|josei} wa {七時|shichiji} kara {九時|kuji} made desu.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "Don't eat at the rooms. Please eat at the canteen.",
     "{部屋|heya} de {食べて|tabete} wa {駄目|dame} desu. {食堂|shokudou} de {食べて|tabete} kudasai.",
-    "verbて + は + {駄目|だめ} = must not do verb\nverbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + は + {駄目|だめ} = must not do verb\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "Rooms are separated? I can't believe it!",
@@ -2752,7 +2752,7 @@ Flashcards.initialize([
 [
     "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
     "{先生|sensei} to {話したい|hanashitai} {場合|baai} wa, shokuinshitsu ni {入って|haitte} mo ii desu.",
-    "verb stem + たい = want to ~ (verb --> い adj.)\nverbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verb stem + たい = want to ~ (verb --> い adj.)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "(It's) not allowed to go to the toilet during class.",
@@ -2762,7 +2762,7 @@ Flashcards.initialize([
 [
     "(You) may eat (your) lunch in the classroom.",
     "{教室|kyoushitsu} de {昼ご飯|hirugohan} wo {食べて|tabete} mo ii desu.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "Wearing accessories, earrings, etc. is not allowed.",
@@ -2787,7 +2787,7 @@ Flashcards.initialize([
 [
     "May (I) switch on the lights? Please switch off the lights.",
     "{電気|denki} wo {点けて|tsukete} mo ii desu ka. {電気|denki} wo {消して|keshite} kudasai.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb\nverbて + ください = request"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて + ください = request"
 ],
 [
     "(You are) not allowed to sing in here.",
@@ -2802,12 +2802,12 @@ Flashcards.initialize([
 [
     "(You) may play (your) guitar in this room.",
     "{此の|kono} {部屋|heya} de _gitaa_ wo {弾いて|hiite} mo ii desu.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "May (I) take a rest?",
     "{休んで|yasunde} mo ii desu ka.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "Please take off (your) shoes.",
@@ -3152,7 +3152,7 @@ Flashcards.initialize([
 [
     "May (I) try phoning Mr. Yamada?",
     "{山田|yamada} san ni {電話|denwa} wo shite mite mo ii desu ka.",
-    "verbて + みる = try doing ~\nverbて + も + いい = doing verb is allowed, (you) may do verb"
+    "verbて + みる = try doing ~\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
     "(I) want to try on this jacket.",
@@ -3307,7 +3307,7 @@ Flashcards.initialize([
 [
     "May (I) try this jacket?",
     "{此の|kono} _jaketto_ wo {着て|kite} mite mo ii desu ka.",
-    "verbて + みる = try doing ~\nverbて + も + いい = doing verb is allowed, (you) may do verb\n{着る|きる} -> {着て|きて}"
+    "verbて + みる = try doing ~\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n{着る|きる} -> {着て|きて}"
 ],
 [
     "(I) no longer live in Tokyo.",
@@ -4692,7 +4692,7 @@ Flashcards.initialize([
 [
     "Since (I) became an adult, it seems that a lot of things that looked boring as a child, (I) became interested in. Probably because (I) don't have to take exams anymore, right?",
     "{大人|otona} ni natte kara, douyara {子供|kodomo} no {頃|koro} ni wa {詰まらなく|tsumaranaku} {思えた|omoeta} {沢山|takusan} no koto ni {興味|kyoumi} ga {持てる|moteru} you ni narimashita. mou {試験|shiken} wo {受けなくて|ukenakute} mo ii kara deshou ne.",
-    "noun/な adj + に + なる = become ~\nverbて + から = after doing ~, since doing ~\nverbう + よう + に + なる = change in habitual action\nverbて + も + いい = doing verb is allowed, (you) may do verb\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "noun/な adj + に + なる = become ~\nverbて + から = after doing ~, since doing ~\nverbう + よう + に + なる = change in habitual action\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "The computer acts weird.",
@@ -5041,7 +5041,7 @@ Flashcards.initialize([
 [
     "(You) may eat. (You) are not allowed to eat. Please eat. (I) want (you) to eat. (You) should eat. (You) shouldn't eat. Please don't eat. (I) want (you) not to eat. (You) must eat. (You) don't have to eat.",
     "{食べて|tabete} mo ii desu. {食べて|tabete} wa ikemasen. {食べて|tabete} kudasai. {食べて|tabete} {欲しい|hoshii} desu. {食べた|tabeta} hou ga ii desu. {食べない|tabenai} hou ga ii desu. {食べない|tabenai} de kudasai. {食べない|tabenai} de {欲しい|hoshii} desu. {食べなければ|tabenakereba} narimasen. {食べなくて|tabenakute} mo ii desu.",
-    "verbて + も + いい = doing verb is allowed, (you) may do verb\nverbて + は + いけません = doing verb is not allowed\n(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~\nverbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)\nverbない - い + くて + も + いい + です = don't have to ~"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて + は + いけません = doing verb is not allowed\n(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~\nverbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)\nverbない - い + くて + も + いい + です = don't have to ~"
 ],
 [
     "The laundry fell off the balcony. {plain}",
@@ -5176,7 +5176,7 @@ Flashcards.initialize([
 [
     "If (I) have a chance, may (I) go to China to have fun? If (you) have a chance, please surely come to China to have fun, with your family.",
     "_chansu_ ga attara, {中国|chuugoku} he {遊び|asobi} ni {行って|itte} mo ii desu ka. moshi_chansu_ ga attara, {是非|zehi} {ご家族|gokazoku} de {中国|chuugoku} he {遊び|asobi} ni {来て|kite} kudasai.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbて + も + いい = doing verb is allowed, (you) may do verb\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbて + ください = request"
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbて + ください = request"
 ],
 [
     "(I'm) looking forward to it.",
@@ -5210,7 +5210,7 @@ Flashcards.initialize([
 ],
 [
     "(You) shouldn't date two people. It's cool. Don't worry. {plain}",
-    "{二人|futari} no {人|hito} to _deeto_ wo shinai hou ga ii yo. {平気|heiki} yo. shinpai shinai de.",
+    "{二人|futari} no {人|hito} to _deeto_ wo shinai hou ga ii yo. {平気|heiki} yo. {心配|shinpai} shinai de.",
     "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~"
 ],
 [
@@ -5335,7 +5335,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) worried if (I) can make friends.",
-    "{友達|tomodachi} ga dekiru ka dou ka shinpai desu.",
+    "{友達|tomodachi} ga dekiru ka dou ka {心配|shinpai} desu.",
     "verbう/いadj/なadj/noun + かどうか = whether/if"
 ],
 [
@@ -5360,7 +5360,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to buy this all, but (I'm) worried if (my) money is enough.",
-    "kore wo {全部|zenbu} {買いたい|kaitai} keredo, {お金|okane} ga {足りる|tariru} ka dou ka shinpai desu.",
+    "kore wo {全部|zenbu} {買いたい|kaitai} keredo, {お金|okane} ga {足りる|tariru} ka dou ka {心配|shinpai} desu.",
     "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbう/いadj/なadj/noun + かどうか = whether/if"
 ],
 [
@@ -5642,5 +5642,40 @@ Flashcards.initialize([
     "You couldn't ask for a better chance.",
     "{願って|negatte} mo nai koto desu!",
     ""
+],
+[
+    "(I'll) take a spot for Hanami.",
+    "{お花見|ohanami} no {場所|basho} wo totte okimasu.",
+    "verbて + {置く|おく} = leave as it is, do something in advance"
+],
+[
+    "Please leave as it is without putting it away.",
+    "sore, {片付けない|かたづけない} de, sono mama {出して|dashite} oite kudasai.",
+    "verbない + で + ください = please don't ~\nverbて + {置く|おく} = leave as it is, do something in advance\n"
+],
+[
+    "Should (I) turn off the air conditioner? It's hot, so leave it on. {plain}",
+    "「_eakon_ {消しましょう|keshimashou} ka.」 「{暑い|atsui} kara, tsukete oite.」",
+    "verbて + {置く|おく} = leave as it is, do something in advance\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "It's OK to be a bit loud at Hanami.",
+    "{お花見|ohanami} wa, {少し|sukoshi} {騒いで|sawaide} mo ii n desu.",
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+],
+[
+    "Mom, (I) have finished (my) homework, so can (I) go to play? {plain}",
+    "{お母さん|okaasan}, {宿題|shukudai} wa {済んだ|sunda} kara, {遊び|asobi} ni {行って|itte} mo ii?",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
+],
+[
+    "Would it be a problem if (I) took next week's Friday off?",
+    "{来週|raishuu} no {金曜日|kin'youbi}, {休んで|yasunde} mo {構いません|kamaimasen} ka.",
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+],
+[
+    "The room is spacious, so it's not a problem if many come.",
+    "{部屋|heya} ga {広い|hiroi} kara, {大勢|oozei} {来て|kite} mo {構いません|kamaimasen} yo.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ]
 ])

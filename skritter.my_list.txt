@@ -711,3 +711,9 @@
 組 kumi
 立てる tateru
 組み立てる kumitateru
+準備 junbi
+録画 rokuga
+片付ける katadzukeru
+騒ぐ sawagu
+済む sumu
+構う kamau

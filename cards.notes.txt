@@ -198,9 +198,10 @@ verbて + から = after doing ~, since doing ~
 verbて + は + いけません = doing verb is not allowed
 verbて + は + {駄目|だめ} = must not do verb
 verbて + ください = request
-verbて + も + いい = doing verb is allowed, (you) may do verb
+verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem
 verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)
 (A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)
+verbて + {置く|おく} = leave as it is, do something in advance
 
 た-form
 -------
