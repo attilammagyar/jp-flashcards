@@ -5655,13 +5655,13 @@ Flashcards.initialize([
         "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance"
     ],
     [
-        "Please leave as it is without putting it away.",
+        "Please leave that as it is without putting it away.",
         "\u305d\u308c\u3001{\u7247\u4ed8\u3051\u306a\u3044|\u304b\u305f\u3065\u3051\u306a\u3044}\u3067\u3001\u305d\u306e\u307e\u307e{\u51fa\u3057\u3066|\u3060\u3057\u3066}\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
         "verb\u306a\u3044 + \u3067 + \u304f\u3060\u3055\u3044 = please don't ~\nverb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance\n"
     ],
     [
         "Should (I) turn off the air conditioner? It's hot, so leave it on. {plain}",
-        "\u300c\u30a8\u30a2\u30b3\u30f3{\u6d88\u3057\u307e\u3057\u3087\u3046|\u3051\u3057\u307e\u3057\u3087\u3046}\u304b\u3002\u300d\u300c{\u6691\u3044|\u3042\u3064\u3044}\u304b\u3089\u3001\u3064\u3051\u3066\u304a\u3044\u3066\u3002\u300d",
+        "\u300c\u30a8\u30a2\u30b3\u30f3\u3001{\u6d88\u3057\u307e\u3057\u3087\u3046|\u3051\u3057\u307e\u3057\u3087\u3046}\u304b\u3002\u300d\u300c{\u6691\u3044|\u3042\u3064\u3044}\u304b\u3089\u3001\u3064\u3051\u3066\u304a\u3044\u3066\u3002\u300d",
         "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [

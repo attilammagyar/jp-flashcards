@@ -1,8 +1,9 @@
 #!/bin/bash
 
-app_id="TfUXvOCtHY8cyDeZ9llFBrYrhY0BT3XvftmYZv7ki5gA*"
+app_id="TsR0gnJY8OZg5iAPpJl8-HldSCIFhKgGQFrdLxJZApsg*"
 
 cat readings.txt \
+    | grep '1..[.] '  \
     | while read
       do
         i=$(echo "$REPLY" | cut -d'.' -f1)

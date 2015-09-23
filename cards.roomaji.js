@@ -5649,13 +5649,13 @@ Flashcards.initialize([
     "verbて + {置く|おく} = leave as it is, do something in advance"
 ],
 [
-    "Please leave as it is without putting it away.",
+    "Please leave that as it is without putting it away.",
     "sore, {片付けない|かたづけない} de, sono mama {出して|dashite} oite kudasai.",
     "verbない + で + ください = please don't ~\nverbて + {置く|おく} = leave as it is, do something in advance\n"
 ],
 [
     "Should (I) turn off the air conditioner? It's hot, so leave it on. {plain}",
-    "「_eakon_ {消しましょう|keshimashou} ka.」 「{暑い|atsui} kara, tsukete oite.」",
+    "「_eakon_, {消しましょう|keshimashou} ka.」 「{暑い|atsui} kara, tsukete oite.」",
     "verbて + {置く|おく} = leave as it is, do something in advance\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
