@@ -4906,7 +4906,7 @@ Flashcards.initialize([
     ],
     [
         "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
-        "{\u7247\u4eee\u540d|\u304b\u305f\u304b\u306a}\u3067{\u8aad\u307f\u65b9|\u3088\u307f\u304b\u305f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u304f\u308c\u3066\u3042\u308a\u304c\u3068\u3046\u3002\u3069\u3046\u3044\u305f\u3057\u307e\u3057\u3066\u3002",
+        "{\u7247\u4eee\u540d|\u304b\u305f\u304b\u306a}\u3067{\u8aad\u307f\u65b9|\u3088\u307f\u304b\u305f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u304f\u308c\u3066\u3042\u308a\u304c\u3068\u3046\u3002\u3069\u3046{\u81f4\u3057\u307e\u3057\u3066|\u3044\u305f\u3057\u307e\u3057\u3066}\u3002",
         "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates\nX \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)"
     ],
     [
@@ -5396,7 +5396,7 @@ Flashcards.initialize([
     ],
     [
         "(You're) lying, aren't (you)? {plain}",
-        "\u3046\u305d\u3092\u3064\u3044\u3066\u3044\u308b\u306d\u3002",
+        "{\u5618|\u3046\u305d}\u3092\u3064\u3044\u3066\u3044\u308b\u306d\u3002",
         ""
     ],
     [

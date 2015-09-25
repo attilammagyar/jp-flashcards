@@ -4906,7 +4906,7 @@ Flashcards.initialize([
 ],
 [
     "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
-    "{片仮名|katakana} de {読み方|yomikata} wo {書いて|kaite} kurete arigatou. dou itashimashite.",
+    "{片仮名|katakana} de {読み方|yomikata} wo {書いて|kaite} kurete arigatou. dou {致しまして|itashimashite}.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {方|kata} = how to do verb (verb --> noun)\nverbて + くれる = a favor done by equals/subordinates\nX は/が (Y を) verbて くれる = X(out) does ~ for Y(in)"
 ],
 [
@@ -5390,7 +5390,7 @@ Flashcards.initialize([
 ],
 [
     "(You're) lying, aren't (you)? {plain}",
-    "uso wo tsuite iru ne.",
+    "{嘘|uso} wo tsuite iru ne.",
     ""
 ],
 [
