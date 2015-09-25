@@ -723,3 +723,5 @@
 寝坊 nebou
 どうせ douse
 飲食物 inshokubutsu
+祈る inoru
+夢 yume
