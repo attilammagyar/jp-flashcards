@@ -746,7 +746,7 @@ Flashcards.initialize([
 ],
 [
     "How much is this folding fan?",
-    "{此の|kono} sensu wa {幾ら|ikura} desu ka.",
+    "{此の|kono} {扇子|sensu} wa {幾ら|ikura} desu ka.",
     ""
 ],
 [
@@ -1361,7 +1361,7 @@ Flashcards.initialize([
 ],
 [
     "What is (your) hobby? (My) hobby is paper folding.",
-    "{趣味|shumi} wa {何|nan} desu ka. {趣味|shumi} wa origami desu.",
+    "{趣味|shumi} wa {何|nan} desu ka. {趣味|shumi} wa {折り紙|origami} desu.",
     ""
 ],
 [
@@ -1631,7 +1631,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) poor at sports, but (I'm) goot at origami.",
-    "_supootsu_ ga {下手|heta} desu ga origami wa {上手|jouzu} desu.",
+    "_supootsu_ ga {下手|heta} desu ga {折り紙|origami} wa {上手|jouzu} desu.",
     "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
@@ -1731,7 +1731,7 @@ Flashcards.initialize([
 ],
 [
     "I am poor at sports but good at origami.",
-    "{私|watashi} wa _supootsu_ ga {下手|heta} desu ga origami wa {上手|jouzu} desu.",
+    "{私|watashi} wa _supootsu_ ga {下手|heta} desu ga {折り紙|origami} wa {上手|jouzu} desu.",
     "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [

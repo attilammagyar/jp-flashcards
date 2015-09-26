@@ -655,7 +655,6 @@
 作業 sagyou
 復旧作業 fukkyuusagyou
 具体的 gutaiteki
-失敗 shippai
 失敗する shippai suru
 再起動 saikidou
 状態 joudai
@@ -694,7 +693,6 @@
 議論 giron
 とりわけ toriwake
 集団 shuudan
-的 teki
 自衛 jiei
 集団的自衛権 shuudantekijieiken
 関心事 kanshinji
@@ -725,3 +723,10 @@
 飲食物 inshokubutsu
 祈る inoru
 夢 yume
+彼岸 higan
+墓地 bochi
+蝋燭 rousoku
+鶴 tsuru
+含める fukumeru
+表紙 hyoushi
+最も motto mo
