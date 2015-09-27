@@ -756,7 +756,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) see that doll over there?",
-    "ano ningyou wo {見せて|misete} kudasai.",
+    "ano {人形|ningyou} wo {見せて|misete} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -781,7 +781,7 @@ Flashcards.initialize([
 ],
 [
     "6 apples",
-    "ringo {六個|rokko}",
+    "{林檎|ringo} {六個|rokko}",
     ""
 ],
 [
@@ -876,7 +876,7 @@ Flashcards.initialize([
 ],
 [
     "May (I) have 3 apples please?",
-    "ringo wo {三個|sanko} kudasai.",
+    "{林檎|ringo} wo {三個|sanko} kudasai.",
     ""
 ],
 [
@@ -956,7 +956,7 @@ Flashcards.initialize([
 ],
 [
     "The doll is 6800 yen.",
-    "ningyou wa {六千八百円|rokusen happyaku en} desu.",
+    "{人形|ningyou} wa {六千八百円|rokusen happyaku en} desu.",
     ""
 ],
 [
@@ -966,7 +966,7 @@ Flashcards.initialize([
 ],
 [
     "Why were (you) late today? Because (I) overslept. {から}",
-    "doushite {今日|kyou} {遅く|osoku} narimashita ka. asanebou shimashita kara.",
+    "doushite {今日|kyou} {遅く|osoku} narimashita ka. {朝寝坊|asanebou} shimashita kara.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -1001,7 +1001,7 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, how much is 1 kg from that apple over there?",
-    "sumimasen, ano ringo wa {一|ichi} _kiro_ {幾ら|ikura} desu ka.",
+    "sumimasen, ano {林檎|ringo} wa {一|ichi} _kiro_ {幾ら|ikura} desu ka.",
     ""
 ],
 [
@@ -2206,7 +2206,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to be a doctor in the future.",
-    "shourai {医者|isha} ni naritai desu.",
+    "{将来|shourai} {医者|isha} ni naritai desu.",
     "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2281,7 +2281,7 @@ Flashcards.initialize([
 ],
 [
     "(I) will study Japanese in order to read manga.",
-    "manga wo {読む|yomu} tame ni {日本語|nihongo} wo {勉強|benkyou} shimasu.",
+    "{漫画|manga} wo {読む|yomu} tame ni {日本語|nihongo} wo {勉強|benkyou} shimasu.",
     "verb A (dictionary form) + ため + に + verb B = do verb B in order to verb A"
 ],
 [
@@ -2466,7 +2466,7 @@ Flashcards.initialize([
 ],
 [
     "(I) want to work in America in the future.",
-    "shourai _amerika_ de {働きたい|hatarakitai} desu.",
+    "{将来|shourai} _amerika_ de {働きたい|hatarakitai} desu.",
     "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -3911,7 +3911,7 @@ Flashcards.initialize([
 ],
 [
     "(I) read a Japanese comic book. {plain past}",
-    "{日本語|nihongo} no manga wo {読んだ|yonda}.",
+    "{日本語|nihongo} no {漫画|manga} wo {読んだ|yonda}.",
     ""
 ],
 [
@@ -5355,7 +5355,7 @@ Flashcards.initialize([
 ],
 [
     "(My) younger brother, who was reading a manga, suddenly burst out laughing. {plain} The father lost his temper with the children who just wouldn't stop (playing) video games. {plain}",
-    "_manga_ wo {読んで|yonde} ita {弟|otouto} ga, {急|kyuu} ni {笑い出した|waraidashita}. itsumade mo _terebi geemu_ wo {止めない|yamenai} {子供達|kodomotachi} ni {父親|chichioya} ga {怒り出した|okoridashita}.",
+    "{漫画|manga} wo {読んで|yonde} ita {弟|otouto} ga, {急|kyuu} ni {笑い出した|waraidashita}. itsumade mo _terebi geemu_ wo {止めない|yamenai} {子供達|kodomotachi} ni {父親|chichioya} ga {怒り出した|okoridashita}.",
     "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nな adj. + に = adverb"
 ],
 [
@@ -5677,5 +5677,15 @@ Flashcards.initialize([
     "The room is spacious, so it's not a problem if many come.",
     "{部屋|heya} ga {広い|hiroi} kara, {大勢|oozei} {来て|kite} mo {構いません|kamaimasen} yo.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+],
+[
+    "No heat or cold lasts beyond the equinox.",
+    "{暑さ|atsusa} {寒さ|samusa} mo {彼岸|higan} made.",
+    ""
+],
+[
+    "That is the most worrisome thing. That is the most worrisome thing.",
+    "sore wa {最|motto} mo  {気|ki} ni narimasu. sore wa {最|motto} mo {気がかり|kigakari} desu.",
+    ""
 ]
 ])
