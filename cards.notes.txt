@@ -179,6 +179,7 @@ verb-stem + なさい = imperative
 verb-stem + {始める|はじめる} = start doing ~
 verb-stem + {出す|だす} = burst out doing ~, start doing ~
 verb-stem + {終わる|おわる} = finish doing ~
+verb-stem + {続ける|つづける} = continue doing ~
 
 ~たい
 ----

@@ -333,8 +333,8 @@
 幼稚園 youchien
 中学校 chuugakkou
 順番 junban
-続き tsuzuki
-続ける tsuzukeru
+続き tsudzuki
+続ける tsudzukeru
 投稿 toukou
 言語 gengo
 検出 kenshutsu
@@ -733,3 +733,8 @@
 機会 kikai
 気になる ki ni naru
 気掛かり kigakari
+完了 kanryou
+日記 nikki
+流行る hayaru
+選手 senshu
+どんどん dondon

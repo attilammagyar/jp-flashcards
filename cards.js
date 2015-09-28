@@ -821,7 +821,7 @@ Flashcards.initialize([
     ],
     [
         "2 mobile phones",
-        "\u3051\u3044\u305f\u3044{\u96fb\u8a71|\u3067\u3093\u308f}{\u4e8c\u3064|\u3075\u305f\u3064}",
+        "{\u643a\u5e2f|\u3051\u3044\u305f\u3044}{\u96fb\u8a71|\u3067\u3093\u308f}{\u4e8c\u3064|\u3075\u305f\u3064}",
         ""
     ],
     [
@@ -2961,7 +2961,7 @@ Flashcards.initialize([
     ],
     [
         "Preparations are complete.",
-        "\u3058\u3085\u3093\u3073\u304b\u3093\u308a\u3087\u3046\u3067\u3059\u3002",
+        "{\u6e96\u5099|\u3058\u3085\u3093\u3073}\u304b\u3093\u308a\u3087\u3046\u3067\u3059\u3002",
         ""
     ],
     [
@@ -5692,6 +5692,26 @@ Flashcards.initialize([
     [
         "That is the most worrisome thing. That is the most worrisome thing.",
         "\u305d\u308c\u306f{\u6700|\u3082\u3063\u3068}\u3082{\u6c17|\u304d}\u306b\u306a\u308a\u307e\u3059\u3002\u305d\u308c\u306f{\u6700|\u3082\u3063\u3068}\u3082{\u6c17\u304c\u304b\u308a|\u304d\u304c\u304b\u308a}\u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "(The number of) foreigners living in Japan keeps increasing steadily.",
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u4f4f\u3080|\u3059\u3080}{\u5916\u56fd\u4eba|\u304c\u3044\u3053\u304f\u3058\u3093}\u306f\u3001\u3069\u3093\u3069\u3093{\u5897\u3048\u7d9a\u3051\u3066|\u3075\u3048\u3064\u3065\u3051\u3066}\u3044\u307e\u3059\u3002",
+        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "(I've) kept calling for a while now, but no one is answering. {plain}",
+        "\u3055\u3063\u304d\u304b\u3089{\u96fb\u8a71|\u3067\u3093\u308f}\u3092{\u639b\u3051\u7d9a\u3051\u3066|\u304b\u3051\u3064\u3065\u3051\u3066}\u3044\u308b\u3051\u3069\u3001{\u8ab0|\u3060\u308c}\u3082{\u51fa\u306a\u3044|\u3067\u306a\u3044}\u3002",
+        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    ],
+    [
+        "(My) fet hurt a great deal. But (I) kept walking for 2 hours. {plain}",
+        "{\u8db3|\u3042\u3057}\u304c\u3068\u3066\u3082{\u75db\u304b\u3063\u305f|\u3044\u305f\u304b\u3063\u305f}\u3002\u3067\u3082\u3001{\u4e8c\u6642\u9593|\u306b\u3058\u304b\u3093}{\u6b69\u304d\u7d9a\u3051\u305f|\u3042\u308b\u304d\u3064\u3065\u3051\u305f}\u3002",
+        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~"
+    ],
+    [
+        "There's a cute girl named Noriko at the volunteer class.",
+        "\u30dc\u30e9\u30f3\u30c6\u30a3\u30a2{\u6559\u5ba4|\u304d\u3087\u3046\u3057\u3064}\u306b\u3001{\u610f\u5b50|\u306e\u308a\u3053}\u3068\u3044\u3046{\u53ef\u611b\u3044|\u304b\u308f\u3044\u3044}{\u5973|\u304a\u3093\u3042}\u306e{\u5b50|\u3053}\u304c\u3044\u307e\u3059\u3002",
         ""
     ]
 ])

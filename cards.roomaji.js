@@ -821,7 +821,7 @@ Flashcards.initialize([
 ],
 [
     "2 mobile phones",
-    "keitai {電話|denwa} {二つ|futatsu}",
+    "{携帯|keitai} {電話|denwa} {二つ|futatsu}",
     ""
 ],
 [
@@ -2961,7 +2961,7 @@ Flashcards.initialize([
 ],
 [
     "Preparations are complete.",
-    "junbi kanryou desu.",
+    "{準備|junbi} kanryou desu.",
     ""
 ],
 [
@@ -5686,6 +5686,26 @@ Flashcards.initialize([
 [
     "That is the most worrisome thing. That is the most worrisome thing.",
     "sore wa {最|motto} mo  {気|ki} ni narimasu. sore wa {最|motto} mo {気がかり|kigakari} desu.",
+    ""
+],
+[
+    "(The number of) foreigners living in Japan keeps increasing steadily.",
+    "{日本|nihon} ni {住む|sumu} {外国人|gaikokujin} wa, dondon {増え続けて|ふえつづけて} imasu.",
+    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(I've) kept calling for a while now, but no one is answering. {plain}",
+    "sakki kara {電話|denwa} wo {掛け続けて|かけつづけて} iru kedo, {誰|dare} mo {出ない|denai}.",
+    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+],
+[
+    "(My) fet hurt a great deal. But (I) kept walking for 2 hours. {plain}",
+    "{足|ashi} ga totemo {痛かった|itakatta}. demo, {二時間|nijikan} {歩き続けた|あるきつづけた}.",
+    "verb-stem + {続ける|つづける} = continue doing ~"
+],
+[
+    "There's a cute girl named Noriko at the volunteer class.",
+    "ボランティア {教室|kyoushitsu} ni, {意子|noriko} to iu {可愛い|kawaii} {女|onna} no {子|ko} ga imasu.",
     ""
 ]
 ])
