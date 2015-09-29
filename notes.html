@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Flashcards</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <style>
+    ruby {
+        border-radius: 0.2em;
+        border: solid 1px #ddd;
+    }
+
+    ruby rt {
+        font-size: 59%;
+    }
+
+    h1  {
+        font-weight: bold;
+        font-size: 107%;
+    }
+
+    ol {
+        margin-left: 1em;
+    }
+
+    dt, dd {
+        display: block;
+        margin: 0.2em;
+        padding: 0;
+    }
+
+    ol li {
+        margin: 0.1em;
+        padding: 0.1em;
+        break-inside: avoid;
+        page-break-inside: avoid;
+        -webkit-column-break-inside: avoid;
+    }
+    </style>
+</head>
+<body>
+    <div id="cards"></div>
+    <script type="text/javascript" src="flashcards.js"></script>
+    <script type="text/javascript">
+    <!--
+    Flashcards.noteToKey = function (note)
+    {
+        return "_" + String(note);
+    };
+
+    Flashcards.initialize = function (cards)
+    {
+        var html = [],
+            settings = String(window.location.href).match(/#(.*)$/),
+            indices_by_notes = {},
+            notes = [],
+            cn,
+            cs, c, i, l, j, ll, n;
+
+        Flashcards.cards = Flashcards.formatCards(cards);
+        cs = Flashcards.closedRange(0, Flashcards.cards.length - 1);
+
+        if (settings) {
+            Flashcards.parseSettings(settings[1]);
+
+            if (Flashcards.focus.length > 0) {
+                cs = Flashcards.focus;
+            }
+        }
+
+        for (i = 0, l = cs.length; i < l; ++i) {
+            c = Flashcards.cards[cs[i]];
+            cn = c[2].match(/<li>(.*?)<\/li>/g);
+
+            if (!cn) {
+                cn = [""];
+            }
+
+            for (j = 0, ll = cn.length; j < ll; ++j) {
+                n = cn[j].replace(/<\/*li>/g, "");
+
+                if (!indices_by_notes.hasOwnProperty(Flashcards.noteToKey(n))) {
+                    indices_by_notes[Flashcards.noteToKey(n)] = []
+                    notes.push(n);
+                }
+
+                indices_by_notes[Flashcards.noteToKey(n)].push(cs[i]);
+            }
+        }
+
+        notes.sort(function (a, b) { if (a === b) return 0; return (a < b) ? -1 : 1; });
+
+        for (j = 0, ll = notes.length; j < ll; ++j) {
+            n = notes[j];
+            cs = indices_by_notes[Flashcards.noteToKey(n)];
+            html = html.concat([
+                "<li>",
+                    "<h1>",
+                        n,
+                    "</h1>",
+                    "<ol>"
+            ]);
+
+            for (i = 0, l = cs.length; i < l; ++i) {
+                c = Flashcards.cards[cs[i]];
+                html = html.concat([
+                    "<li value=\"", String(cs[i] + 1), "\">",
+                    "<dt>",
+                        c[1],
+                    "</dt>",
+                    "<dd>",
+                        c[0],
+                    "</dd>",
+                    "</li>"
+                ]);
+            }
+
+            html = html.concat([
+                    "</ol>",
+                "</li>"
+            ]);
+        }
+
+        document.getElementById("cards").innerHTML = "<ol>" + html.join("") + "</ol>";
+    };
+    //-->
+    </script>
+    <script type="text/javascript" src="cards.js"></script>
+</body>
+</html>
