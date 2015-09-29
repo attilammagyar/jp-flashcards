@@ -1061,7 +1061,7 @@ Flashcards.initialize([
 ],
 [
     "Are (you) free tomorrow? Umm, tomorrow also, (I) have a little business to attend to.",
-    "{明日|ashita} wa {暇|hima} desu ka. sou desu ne. {明日|ashita} mo chotto youji ga arimasu.",
+    "{明日|ashita} wa {暇|hima} desu ka. sou desu ne. {明日|ashita} mo chotto {用事|youji} ga arimasu.",
     ""
 ],
 [
@@ -1121,7 +1121,7 @@ Flashcards.initialize([
 ],
 [
     "Where's the hotel? Do (you) know?",
-    "_hoteru_ wa {何処|doko} ni arimasu ka. gozonji desu ka.",
+    "_hoteru_ wa {何処|doko} ni arimasu ka. {御存知|gozonji} desu ka.",
     ""
 ],
 [
@@ -1181,7 +1181,7 @@ Flashcards.initialize([
 ],
 [
     "Ms. Natsuko is inside the theatre. Ms. Natsuko is in the theatre",
-    "{夏子|natsuko} san wa gekijou no {中|naka} ni imasu. {夏子|natsuko} san wa gekijou ni imasu.",
+    "{夏子|natsuko} san wa {劇場|gekijou} no {中|naka} ni imasu. {夏子|natsuko} san wa {劇場|gekijou} ni imasu.",
     ""
 ],
 [
@@ -1191,7 +1191,7 @@ Flashcards.initialize([
 ],
 [
     "The restaurant is above the museum.",
-    "_resutoran_ wa hakubutsukan no {上|ue} ni arimasu.",
+    "_resutoran_ wa {博物館|hakubutsukan} no {上|ue} ni arimasu.",
     ""
 ],
 [
@@ -1206,12 +1206,12 @@ Flashcards.initialize([
 ],
 [
     "The school is near the museum. The teacher is in the school.",
-    "{学校|gakkou} wa hakubutsukan no {近く|chikaku} ni arimasu. {先生|sensei} wa {学校|gakkou} ni imasu.",
+    "{学校|gakkou} wa {博物館|hakubutsukan} no {近く|chikaku} ni arimasu. {先生|sensei} wa {学校|gakkou} ni imasu.",
     ""
 ],
 [
     "My business card is in (my) bag.",
-    "{私|watashi} no meishi wa {鞄|kaban} no {中|naka} ni arimasu.",
+    "{私|watashi} no {名刺|meishi} wa {鞄|kaban} no {中|naka} ni arimasu.",
     ""
 ],
 [
@@ -1386,7 +1386,7 @@ Flashcards.initialize([
 ],
 [
     "Let's meet in front of the museum!",
-    "hakubutsukan no {前|mae} de {会いましょう|aimashou}.",
+    "{博物館|hakubutsukan} no {前|mae} de {会いましょう|aimashou}.",
     ""
 ],
 [
@@ -1416,7 +1416,7 @@ Flashcards.initialize([
 ],
 [
     "Excuse me, where is the supermarket? Do you know? {Polite.} Yes, (I) know.",
-    "sumimasen, _suupaa_ wa {何処|doko} ni arimasu ka. gozonji desu ka. hai, {知って|shitte} imasu.",
+    "sumimasen, _suupaa_ wa {何処|doko} ni arimasu ka. {御存知|gozonji} desu ka. hai, {知って|shitte} imasu.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
@@ -1426,7 +1426,7 @@ Flashcards.initialize([
 ],
 [
     "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
-    "{二つ目|futatsume} no {信号|shingou} wo {左|hidari} ni {曲がって|magatte} kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. gekijou no {隣|tonari} desu.",
+    "{二つ目|futatsume} no {信号|shingou} wo {左|hidari} ni {曲がって|magatte} kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. {劇場|gekijou} no {隣|tonari} desu.",
     "verbて + ください = request"
 ],
 [
@@ -3641,7 +3641,7 @@ Flashcards.initialize([
 ],
 [
     "(It's) strange but I can somehow understand.",
-    "{可笑しい|okashii} desu kedo, {私|watashi} wa {何となく|nantonaku} rikai dekimasu.",
+    "{可笑しい|okashii} desu kedo, {私|watashi} wa {何となく|nantonaku} {理解|rikai} dekimasu.",
     "noun + できる = can (do) noun (or request, request permission)"
 ],
 [
