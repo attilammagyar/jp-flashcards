@@ -2055,24 +2055,24 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Spring is from September to November. The weather is clear, sometimes rainy.",
+    "Spring is from September to November. The weather is clear, sometimes rainy. {New Zealand}",
     "{春|haru} wa {九月|kugatsu} kara {十一月|juuichigatsu} made desu. {天気|tenki} wa {晴れ|hare}, {時々|tokidoki} {雨|ame} desu.",
-    "(New Zealand)"
+    ""
 ],
 [
-    "The Summer is from December to February. (It) gradually gets hot.",
+    "The Summer is from December to February. (It) gradually gets hot.  {New Zealand}",
     "{夏|natsu} wa {十二月|juunigatsu} kara {二月|nigatsu} made desu. {段々|dandan} {暑く|atsuku} narimasu.",
-    "(New Zealand)\nい adj. - い + く + なる = become ~"
+    "い adj. - い + く + なる = become ~"
 ],
 [
-    "Autumn is from March. The weather is clear, windy, rainy...",
+    "Autumn is from March. The weather is clear, windy, rainy...  {New Zealand}",
     "{秋|aki} wa {三月|sangatsu} kara desu. {天気|tenki} wa {晴れ|hare}, {風|kaze}, {雨|ame}...",
-    "(New Zealand)"
+    ""
 ],
 [
-    "Winter is from June. (It) is very cold. (It) snows a lot.",
+    "Winter is from June. (It) is very cold. (It) snows a lot. {New Zealand}",
     "{冬|fuyu} wa {六月|rokugatsu} kara desu. totemo {寒い|samui} desu. {雪|yuki} ga ippai {降ります|furimasu}.",
-    "(New Zealand)"
+    ""
 ],
 [
     "(In) Sapporo, the wind will probably be strong and sometimes (it) will snow. (It) will probably be 0°C.",
@@ -5699,7 +5699,7 @@ Flashcards.initialize([
     "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
 ],
 [
-    "(My) fet hurt a great deal. But (I) kept walking for 2 hours. {plain}",
+    "(My) feet hurt a great deal. But (I) kept walking for 2 hours. {plain}",
     "{足|ashi} ga totemo {痛かった|itakatta}. demo, {二時間|nijikan} {歩き続けた|あるきつづけた}.",
     "verb-stem + {続ける|つづける} = continue doing ~"
 ],

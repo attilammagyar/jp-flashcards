@@ -2055,24 +2055,24 @@ Flashcards.initialize([
         ""
     ],
     [
-        "Spring is from September to November. The weather is clear, sometimes rainy.",
+        "Spring is from September to November. The weather is clear, sometimes rainy. {New Zealand}",
         "{\u6625|\u306f\u308b}\u306f{\u4e5d\u6708|\u304f\u304c\u3064}\u304b\u3089{\u5341\u4e00\u6708|\u3058\u3085\u3046\u3044\u3061\u304c\u3064}\u307e\u3067\u3067\u3059\u3002{\u5929\u6c17|\u3066\u3093\u304d}\u306f{\u6674\u308c|\u306f\u308c}\u3001{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u96e8|\u3042\u3081}\u3067\u3059\u3002",
-        "(New Zealand)"
+        ""
     ],
     [
-        "The Summer is from December to February. (It) gradually gets hot.",
+        "The Summer is from December to February. (It) gradually gets hot.  {New Zealand}",
         "{\u590f|\u306a\u3064}\u306f{\u5341\u4e8c\u6708|\u3058\u3085\u3046\u306b\u304c\u3064}\u304b\u3089{\u4e8c\u6708|\u306b\u304c\u3064}\u307e\u3067\u3067\u3059\u3002{\u6bb5\u3005|\u3060\u3093\u3060\u3093}{\u6691\u304f|\u3042\u3064\u304f}\u306a\u308a\u307e\u3059\u3002",
-        "(New Zealand)\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
     ],
     [
-        "Autumn is from March. The weather is clear, windy, rainy...",
+        "Autumn is from March. The weather is clear, windy, rainy...  {New Zealand}",
         "{\u79cb|\u3042\u304d}\u306f{\u4e09\u6708|\u3055\u3093\u304c\u3064}\u304b\u3089\u3067\u3059\u3002{\u5929\u6c17|\u3066\u3093\u304d}\u306f{\u6674\u308c|\u306f\u308c}\u3001{\u98a8|\u304b\u305c}\u3001{\u96e8|\u3042\u3081}\u2026",
-        "(New Zealand)"
+        ""
     ],
     [
-        "Winter is from June. (It) is very cold. (It) snows a lot.",
+        "Winter is from June. (It) is very cold. (It) snows a lot. {New Zealand}",
         "{\u51ac|\u3075\u3086}\u306f{\u516d\u6708|\u308d\u304f\u304c\u3064}\u304b\u3089\u3067\u3059\u3002\u3068\u3066\u3082{\u5bd2\u3044|\u3055\u3080\u3044}\u3067\u3059\u3002{\u96ea|\u3086\u304d}\u304c\u3044\u3063\u3071\u3044{\u964d\u308a\u307e\u3059|\u3075\u308a\u307e\u3059}\u3002",
-        "(New Zealand)"
+        ""
     ],
     [
         "(In) Sapporo, the wind will probably be strong and sometimes (it) will snow. (It) will probably be 0\u00b0C.",
@@ -5705,7 +5705,7 @@ Flashcards.initialize([
         "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
     ],
     [
-        "(My) fet hurt a great deal. But (I) kept walking for 2 hours. {plain}",
+        "(My) feet hurt a great deal. But (I) kept walking for 2 hours. {plain}",
         "{\u8db3|\u3042\u3057}\u304c\u3068\u3066\u3082{\u75db\u304b\u3063\u305f|\u3044\u305f\u304b\u3063\u305f}\u3002\u3067\u3082\u3001{\u4e8c\u6642\u9593|\u306b\u3058\u304b\u3093}{\u6b69\u304d\u7d9a\u3051\u305f|\u3042\u308b\u304d\u3064\u3065\u3051\u305f}\u3002",
         "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~"
     ],
