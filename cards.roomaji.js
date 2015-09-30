@@ -1291,7 +1291,7 @@ Flashcards.initialize([
 ],
 [
     "Please cross at the pedestrian crossing.",
-    "oudan hodou wo {渡って|watatte} kudasai.",
+    "{横断歩道|oudan hodou} wo {渡って|watatte} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -1411,7 +1411,7 @@ Flashcards.initialize([
 ],
 [
     "What's the opposite of divorce?",
-    "rikon no hantai wa {何|nan} desu ka.",
+    "{離婚|rikon} no {反対|hantai} wa {何|nan} desu ka.",
     ""
 ],
 [
@@ -1421,7 +1421,7 @@ Flashcards.initialize([
 ],
 [
     "Go straight ahead (then) cross the pedestrian crossing please.",
-    "{真っ直ぐ|massugu} {行って|itte}, oudan hodou wo {渡って|watatte} kudasai.",
+    "{真っ直ぐ|massugu} {行って|itte}, {横断歩道|oudan hodou} wo {渡って|watatte} kudasai.",
     "verbて + ください = request"
 ],
 [
