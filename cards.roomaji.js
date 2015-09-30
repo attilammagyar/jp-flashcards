@@ -1591,7 +1591,7 @@ Flashcards.initialize([
 ],
 [
     "face, long/narrow, square, round",
-    "{顔|kao}, {長い|nagai}, shikakui, {丸い||marui}",
+    "{顔|kao}, {長い|nagai}, {四角い|shikakui}, {丸い||marui}",
     ""
 ],
 [
@@ -5685,7 +5685,7 @@ Flashcards.initialize([
 ],
 [
     "That is the most worrisome thing. That is the most worrisome thing.",
-    "sore wa {最|motto} mo  {気|ki} ni narimasu. sore wa {最|motto} mo {気がかり|kigakari} desu.",
+    "sore wa {最|motto} mo  {気|ki} ni narimasu. sore wa {最|motto} mo {気掛かり|kigakari} desu.",
     ""
 ],
 [
