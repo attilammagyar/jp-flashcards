@@ -2796,7 +2796,7 @@ Flashcards.initialize([
 ],
 [
     "Please choose one.",
-    "{一つ|hitotsu} erande kudasai.",
+    "{一つ|hitotsu} {選んで|erande} kudasai.",
     "verbて + ください = request"
 ],
 [
@@ -2851,7 +2851,7 @@ Flashcards.initialize([
 ],
 [
     "select",
-    "erabu, erabimasu, erande",
+    "{選ぶ|erabu}, {選びます|erabimasu}, {選んで|erande}",
     ""
 ],
 [
