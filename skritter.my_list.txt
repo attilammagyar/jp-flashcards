@@ -763,3 +763,5 @@
 偶然 guuzen
 意識する ishiki suru
 目撃 mokugeki
+現象 genshou
+字幕 jimaku
