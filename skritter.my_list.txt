@@ -765,3 +765,7 @@
 目撃 mokugeki
 現象 genshou
 字幕 jimaku
+内容 naiyou
+深い fukai
+興味深い kyoumibukai
+返事する henji suru

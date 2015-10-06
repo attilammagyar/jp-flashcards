@@ -1656,7 +1656,7 @@ Flashcards.initialize([
 ],
 [
     "(My) throat is sore.",
-    "nodo ga {痛い|itai} desu.",
+    "{喉|nodo} ga {痛い|itai} desu.",
     ""
 ],
 [
@@ -1696,7 +1696,7 @@ Flashcards.initialize([
 ],
 [
     "Does (your) throat hurt? Hurts a little bit.",
-    "nodo ga {痛い|itai} desu ka. chotto {痛い|itai} desu.",
+    "{喉|nodo} ga {痛い|itai} desu ka. chotto {痛い|itai} desu.",
     ""
 ],
 [
@@ -4226,7 +4226,7 @@ Flashcards.initialize([
 ],
 [
     "What's wrong? (My) throat has dried. Well, (you) should probably drink water.",
-    "dou shita n desu ka. nodo ga {乾いた|kawaita} n desu. jaa, {水|mizu} wo {飲んだ|nonda} {方|hou} ga ii deshou.",
+    "dou shita n desu ka. {喉|nodo} ga {乾いた|kawaita} n desu. jaa, {水|mizu} wo {飲んだ|nonda} {方|hou} ga ii deshou.",
     "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~"
 ],
 [
