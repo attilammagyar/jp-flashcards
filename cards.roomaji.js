@@ -1806,7 +1806,7 @@ Flashcards.initialize([
 ],
 [
     "(I) don't know numbers above 1000.",
-    "{一千|issen} ijou no {数字|suuji} {分かりません|wakarimasen}.",
+    "{一千|issen} {以上|ijou} no {数字|suuji} {分かりません|wakarimasen}.",
     ""
 ],
 [
@@ -1821,7 +1821,7 @@ Flashcards.initialize([
 ],
 [
     "Mr. Yamada went to Osaka by bullet train.",
-    "{山田|yamada} san wa shinkansen de {大阪|oosaka} ni {行きました|ikimashita}.",
+    "{山田|yamada} san wa {新幹線|shinkansen} de {大阪|oosaka} ni {行きました|ikimashita}.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nA に B で {行く|いく} = B で A に {行く|いく}"
 ],
 [
@@ -2021,7 +2021,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-    "{大阪|oosaka} made shinkansen de {行きました|ikimashita}. {片道|katamichi} no {切符|kippu} wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
+    "{大阪|oosaka} made {新幹線|shinkansen} de {行きました|ikimashita}. {片道|katamichi} no {切符|kippu} wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2686,7 +2686,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went from Tokyo to Kyoto by bullet train.",
-    "{東京|toukyou} kara {京都|kyouto} made shinkansen de {行きました|ikimashita}.",
+    "{東京|toukyou} kara {京都|kyouto} made {新幹線|shinkansen} de {行きました|ikimashita}.",
     ""
 ],
 [
@@ -4866,7 +4866,7 @@ Flashcards.initialize([
 ],
 [
     "Excuse me. (I'd like to) order please. Yes, understood. One margarita pizza please. That's all.",
-    "sumimasen. {注文|chuumon} {お願い|onegai} shimasu. hai, kashikomarimashita. _marugariita piza_ {一つ|hitotsu} {お願い|onegai} shimasu. ijou desu.",
+    "sumimasen. {注文|chuumon} {お願い|onegai} shimasu. hai, kashikomarimashita. _marugariita piza_ {一つ|hitotsu} {お願い|onegai} shimasu. {以上|ijou} desu.",
     ""
 ],
 [
