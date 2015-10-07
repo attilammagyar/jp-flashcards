@@ -9,13 +9,13 @@ ls -1 ?.wav ??.wav ???.wav \
     | while read
         do
             n=$(echo "$REPLY" | cut -d. -f1)
-            w="$w$n.wav "
+            w="$w$n.wav $n.wav $n.wav "
             i=$(($i+1))
             grep "^$n[.] " kanji.txt >>lyrics.txt
             grep "^$n[.] " kana.txt >>lyrics.txt
             grep "^$n[.] " english.txt >>lyrics.txt
             echo >>lyrics.txt
-            if [[ $i -eq 10 ]]
+            if [[ $i -eq 5 ]]
             then
                 i=0
                 jn=$(echo "$w" | sed 's/[^0-9][^0-9]*/_/g ; s/_$// ; s/^\([0-9][0-9]*\)_.*_\([0-9][0-9]*\)$/\1_\2/')

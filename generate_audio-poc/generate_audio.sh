@@ -1,9 +1,15 @@
 #!/bin/bash
 
-app_id="TsR0gnJY8OZg5iAPpJl8-HldSCIFhKgGQFrdLxJZApsg*"
+app_id="TA8Ghe_PxlgpyautAXXm7RtR1invD-D4EiPV3SgGM3b0*"
+filter=".*"
+
+if [[ "$1" != "" ]]
+then
+    filter="$1"
+fi
 
 cat readings.txt \
-    | grep '1..[.] '  \
+    | grep "$filter"  \
     | while read
       do
         i=$(echo "$REPLY" | cut -d'.' -f1)
