@@ -1,6 +1,6 @@
 #!/bin/bash
 
-app_id="TA8Ghe_PxlgpyautAXXm7RtR1invD-D4EiPV3SgGM3b0*"
+app_id="T-2WpyjlIBjg0NDx6fbK2rhT8dvVjokF2Xd8fmBOgus4*"
 filter=".*"
 
 if [[ "$1" != "" ]]
