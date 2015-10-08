@@ -737,12 +737,12 @@ Flashcards.initialize([
 [
     "Excuse me, do (you) sell stamps?",
     "sumimasen, {切手|kitte} wo {売って|utte} imasu ka.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Do (you) sell camera batteries?",
     "_kamera_ no {電池|denchi} wo {売って|utte} imasu ka.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "How much is this folding fan?",
@@ -1417,7 +1417,7 @@ Flashcards.initialize([
 [
     "Excuse me, where is the supermarket? Do you know? {Polite.} Yes, (I) know.",
     "sumimasen, _suupaa_ wa {何処|doko} ni arimasu ka. {御存知|gozonji} desu ka. hai, {知って|shitte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Go straight ahead (then) cross the pedestrian crossing please.",
@@ -1956,7 +1956,7 @@ Flashcards.initialize([
 ],
 [
     "(It will) probably be cloudy, sometimes foggy.",
-    "{曇り|kumori} {時々|tokidoki} kiri deshou.",
+    "{曇り|kumori} {時々|tokidoki} {霧|kiri} deshou.",
     ""
 ],
 [
@@ -2882,22 +2882,22 @@ Flashcards.initialize([
 [
     "What (are you) doing at the moment?",
     "{今|ima} {何|nani} wo shite imasu ka.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I am) reading a Japanese newspaper.",
     "{日本語|nihongo} no {新聞|shinbun} wo {読んで|yonde} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I am) writing a letter to (my) friend.",
     "{友達|tomodachi} ni {手紙|tegami} wo {書いて|kaite} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I am) resting now.",
     "{今|ima} {休んで|yasunde} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Let's go in through the window quietly.",
@@ -3032,17 +3032,17 @@ Flashcards.initialize([
 [
     "(I'm) learning the guitar.",
     "_gitaa_ wo {習って|naratte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nならう -> ならって"
 ],
 [
     "(My) older sister is married.",
     "{姉|ane} wa {結婚|kekkon} shite imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(My) dad has gone to (and is in) America at the moment.",
     "{父|chichi} wa {今|ima} _amerika_ ni {行って|itte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
 ],
 [
     "Let's try this sushi!",
@@ -3067,22 +3067,22 @@ Flashcards.initialize([
 [
     "(I'm) reading a very good book currently.",
     "{今|ima} totemo ii {本|hon} wo {読んで|yonde} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I) eat dinner with (my) family every day. (I) eat dinner with (my) family every day. {emphasize habit}",
     "{毎日|mainichi} {家族|kazoku} to {晩ご飯|bangohan} wo {食べます|tabemasu}. {毎日|mainichi} {家族|kazoku} to {晩ご飯|bangohan} wo {食べて|tabete} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I) always eat sushi on Saturdays. {emphasize habit}",
     "{土曜日|doyoubi} ni {何時も|itsumo} {寿司|sushi} wo {食べて|tabete} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I) commute to work by train. {emphasize habit}",
     "{仕事|shigoto} ni {電車|densha} de {通って|kayotte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nかよう -> かよって"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nかよう -> かよって"
 ],
 [
     "Miki was teaching Japanese in America. {emphasize habit}",
@@ -3092,47 +3092,47 @@ Flashcards.initialize([
 [
     "Roger has entered the room. {and is still there}",
     "_rojaa_ san wa {部屋|heya} ni {入って|haitte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(My) parents live in Tokyo.",
     "{両親|ryoushin} wa {東京|toukyou} ni {住んで|sunde} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I) know Tokyo well.",
     "{東京|toukyou} wo {良く|yoku} {知って|shitte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I) always return home at 6 o'clock. Mr. Yamada has gone home. {and is there now}",
     "{何時も|itsumo} {六時|rokuji} ni {家|uchi} ni {帰って|kaette} imasu. {山田|yamada} san wa {家|uchi} ni {帰って|kaette} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
 ],
 [
     "A friend has come. {and is still here}",
     "{友達|tomodachi} ga {来て|kite} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
 ],
 [
     "(My) parents have gone to Japan. {and are still there} (My) parents have returned to England. {and are staying there permanently}",
     "{両親|ryoushin} wa {日本|nihon} ni {行って|itte} imasu. {両親|ryoushin} wa _igirisu_ ni {帰りました|kaerimashita}.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
 ],
 [
     "Both Robert and Roger teach English in Japan.",
     "_robaato_ san mo _rojaa_ san mo {日本|nihon} de {英語|eigo} wo {教えて|oshiete} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Robert has come to Japan from England.",
     "_robaato_ san wa _igirisu_ kara {日本|nihon} ni {来て|kite} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I) am currently learning flower arrangement.",
     "{今|ima} {生け花|ikebana} wo {習って|naratte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nならう -> ならって"
 ],
 [
     "(I) want to try going to Japan by myself.",
@@ -3247,27 +3247,27 @@ Flashcards.initialize([
 [
     "I go to school every day on foot. {habit}",
     "{私|watashi} wa {毎日|mainichi} {歩いて|aruite} {学校|gakkou} ni {行って|itte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "After school, (I) take part in a tennis club. {habit}",
     "{学校|gakkou} no {後|ato} de _tenisu kurabu_ ni sanka shite imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Twice every week (I) go to cram school and (I) learn Maths and English (etc.). {habit}",
     "{毎週|maishuu} {二回|nikai} juku ni {行って|itte}, {数学|suugaku} ya {英語|eigo} wo {勉強|benkyou} shite imasu.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nや: incomplete list"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nや: incomplete list"
 ],
 [
     "Because (I'm) learning the piano now, (I) practise every day. {から, habit}",
     "{今|ima} _piano_ wo {習って|naratte} imasu kara {毎日|mainichi} {練習|renshuu} wo shite imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nならう -> ならって\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nならう -> ならって\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
     "{週末|shuumatsu} ni {大抵|taitei} {何|nani} wo shite imasu ka. {時々|tokidoki} {祖父|sofu} to {散歩|sanpo} shimasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Sunday, (I) always spend time with (my) family.",
@@ -3277,7 +3277,7 @@ Flashcards.initialize([
 [
     "When do (you) do (your) homework? (I) do a little every day, but this week, (I) haven't done (it) yet.",
     "{何時|itsu} {宿題|shukudai} wo shimasu ka. {毎日|mainichi} {少し|sukoshi} shite imasu ga {今週|konshuu} wa {未だ|mada} shite imasen.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet"
 ],
 [
     "(I) want (my) older sister to do (my) homework. No way! Try to do (it) on your own please.",
@@ -3377,7 +3377,7 @@ Flashcards.initialize([
 [
     "(I) am learning Japanese therefore (I) have come to Japan. {から}",
     "{日本語|nihongo} wo {習って|naratte} imasu kara {日本|nihon} ni {来て|kite} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "What's the matter? Well, you see, (I've) got a headache.",
@@ -3427,17 +3427,17 @@ Flashcards.initialize([
 [
     "Recently (I'm) learning judo.",
     "{最近|saikin} juudou wo {習って|naratte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Every night (I) teach English at the company.",
     "{毎晩|maiban} {会社|kaisha} de {英語|eigo} wo {教えて|oshiete} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I'm) writing a letter to grandma while drinking coffee.",
     "_koohii_ wo {飲みながら|nominagara} {祖母|sobo} ni {手紙|tegami} wo {書いて|kaite} imasu.",
-    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I) looked up the meaning of that word in the dictionary.",
@@ -3817,7 +3817,7 @@ Flashcards.initialize([
 [
     "(I) am off work because (I'm) sick. {から, の で}",
     "{病気|byouki} da kara {仕事|shigoto} wo {休んで|yasunde} imasu. {病気|byouki} na no de {仕事|shigoto} wo {休んで|yasunde} imasu.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Roger is good at playing tennis because (he) practices every day. {の で}",
@@ -3962,7 +3962,7 @@ Flashcards.initialize([
 [
     "When (I) lived in America, (I) spoke English every day. {plain}",
     "_amerika_ ni {住んで|sunde} ita {時|toki} {毎日|mainichi} {英語|eigo} wo {話した|hanashita}.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverbた + {時|とき} = when did/have done ~"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + {時|とき} = when did/have done ~"
 ],
 [
     "(I) have completely forgotten all (my) kanji. {plain}",
@@ -3972,7 +3972,7 @@ Flashcards.initialize([
 [
     "(I) have lived abroad.",
     "{外国|gaikoku} ni {住んで|sunde} ita koto ga arimasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
 ],
 [
     "(I) have never seen Mount Fuji.",
@@ -3997,7 +3997,7 @@ Flashcards.initialize([
 [
     "Since (I) came to Japan, (I) have been studying Japanese. After (I) arrived to Japan, (I) wrote a letter to (my) mom.",
     "{日本|nihon} ni {来て|kite} kara, {日本語|nihongo} wo {勉強|benkyou} shite imasu. {日本|nihon} ni {着いた|tsuita} {後|ato} de {母|haha} ni {手紙|tegami} wo {書きました|kakimashita}.",
-    "verbて + から = after doing ~, since doing ~\nverbた + {後|あと} + で = after (finished) doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + から = after doing ~, since doing ~\nverbた + {後|あと} + で = after (finished) doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "After (I) took a shower, (I) ate breakfast.",
@@ -4177,7 +4177,7 @@ Flashcards.initialize([
 [
     "I'm not a university student. (I've) graduated 3 years ago. Then for 2 years, (I) taught Japanese and travelled in America.",
     "{私|watashi} wa {大学生|daigakusei} ja nai desu. {三年|san'nen} {前|mae} ni {卒業|sotsugyou} shite imashita. soshite {二年間|ni nen kan} _amerika_ de {日本語|nihongo} wo {教えたり|oshietari}, {旅行|ryokou} shitari shimashita.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
 ],
 [
     "The white (one) is cute.",
@@ -4212,7 +4212,7 @@ Flashcards.initialize([
 [
     "When (I) lived in Chicago, (I) went to various concerts.",
     "_shikago_ ni {住んで|sunde} ita {時|toki} {色々|iroiro} na _konsaato_ ni {行きました|ikimashita}.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverbた + {時|とき} = when did/have done ~"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + {時|とき} = when did/have done ~"
 ],
 [
     "(I) like jazz more than pop.",
@@ -4242,7 +4242,7 @@ Flashcards.initialize([
 [
     "When (I) lived in Australia, (I) spoke English well.",
     "_oosutoraria_ ni {住んで|sunde} ita {時|toki} {英語|eigo} ga yoku dekimashita.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverbた + {時|とき} = when did/have done ~\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + {時|とき} = when did/have done ~\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "(I) went to bed late last night, so (I'm) totally exhausted. {plain}",
@@ -4586,7 +4586,7 @@ Flashcards.initialize([
 ],
 [
     "How many years? 2 years.",
-    "{何年|nannen} ({間|kan})? {二年|ninen} ({間|kan})",
+    "{何年|nan'nen} ({間|kan})? {二年|ninen} ({間|kan})",
     ""
 ],
 [
@@ -4637,7 +4637,7 @@ Flashcards.initialize([
 [
     "Roger has been living in Japan for 2 years.",
     "_rojaa_ san wa {二年間|ni nen kan} {日本|nihon} ni {住んで|sunde} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Why is Miki going to China? Because (it's been arranged for her to) be transferred.",
@@ -4662,7 +4662,7 @@ Flashcards.initialize([
 [
     "Both of the parents are working.",
     "{親|oya} wa {両方|ryouhou} to mo {働いて|hataraite} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "In Okinawa, (I) had an interesting experience.",
@@ -4852,7 +4852,7 @@ Flashcards.initialize([
 [
     "Today (I've) heard the news of the earthquake. (I) hope everyone is safe.",
     "{今日|kyou} no {地震|jishin} no _nyuusu_ wo {聞きました|kikimashita}. {皆さん|minasan} no {無事|buji} wo {願って|negatte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I) can speak Japanese better. {plain}",
@@ -5201,7 +5201,7 @@ Flashcards.initialize([
 [
     "Both Roger and Robert are nice people. (We) always spend fun times. {plain, female}",
     "_rojaa_ san mo _robaato_ san mo totemo ii {人|hito} da to {思う|omou}. itsumo {楽しく|tanoshiku} {過ごして|sugoshite} iru wa.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "But Roger really loves (you) Miki. (I) think (you) must tell (him) about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
@@ -5241,7 +5241,7 @@ Flashcards.initialize([
 [
     "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. It contains things of higher price than itself.",
     "{福袋|fukubukuro}: {お正月|oshougatsu} ni _depaato_ ya {店|mise} nado de {売ります|urimasu}. {値段|nedan} yori {高い物|takaimono} ga {入って|haitte} imasu.",
-    "A や B や C など = A, B, C, etc.\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!)"
+    "A や B や C など = A, B, C, etc.\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
 ],
 [
     "Sometimes (I) make Japanese cuisine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
@@ -5251,7 +5251,7 @@ Flashcards.initialize([
 [
     "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
     "{今日|kyou} wa ケーティ to {私達|watashitachi} no tame ni kon'na ni seidai na {送別会|soubetsukai} to {結婚|kekkon} {前夜|zen'ya} {去り|sari} wo hiraite kudasatte arigatou gozaimasu. totemo kansha shiteimasu.",
-    "な adj. + に = adverb\nと: complete list\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "な adj. + に = adverb\nと: complete list\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "While (we) were in Japan, (we) met many people and learned many things. People in Japan were very kind and have really looked after us.",
@@ -5301,7 +5301,7 @@ Flashcards.initialize([
 [
     "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
     "{一生懸命|isshoukenmei} {作文|sakubun} wo {書いて|kaite} imasu ga, yappari mada {多く|ooku} no {言葉|kotoba} wo {知らない|shiranai} shi, {時間|jikan} mo {少し|sukoshi} dake shika arimasen. Aa, itsumo {言い訳|iiwake} desu ne.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I) might have gained around 2 kilos. (I've) gained even 2 kilos. (I) might have gained as much as 2 kilos. (I've) gained as much as 2 kilos. (I've) gained at least 2 kilos.",
@@ -5431,7 +5431,7 @@ Flashcards.initialize([
 [
     "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
     "nurete inai ne. {友達|tomodachi} ga {車|kuruma} de {送って|okutte} kureta kara, tasukatta yo.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nX は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nX は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "I turned on the lights. The lights turned on. {plain}",
@@ -5531,12 +5531,12 @@ Flashcards.initialize([
 [
     "That kid has been playing going up and down the stairs for a while now.",
     "ano {子供|kodomo} wa, sakki kara {階段|kaidan} wo {上ったり|nobottari} {下りたり|orittari} shite {遊んで|asonde} imasu.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Yesterday (my) father had slept leaving the TV on.",
     "{父|chichi} wa, {昨日|kinou}, _terebi_ wo tsuketa mama {寝て|nete} imashita.",
-    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(You'll) catch a cold if (you) stay wet. {plain}",
@@ -5566,12 +5566,12 @@ Flashcards.initialize([
 [
     "Even if (I) work every day, (my) savings don't increase. {plain}",
     "{毎日|mainichi} {働いて|hataraite} mo, {貯金|chokin} ga {増えない|fuenai}.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "In the restaurant, (they) wash and cut the vegetables.",
     "_resutoran_ de {野菜|yasai} wo {洗ったり|arattari}, {切ったり|kittari} shite imasu.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Even if it rains, (I'll) go out by bike.",
@@ -5621,7 +5621,7 @@ Flashcards.initialize([
 [
     "A pine tree stands in front of his house. {plain}",
     "{彼|kare} no {家|ie} no {前|mae} ni wa {松|matsu} no {木|ki} ga {立って|tatte} iru.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "There's one old cherry tree in the garden.",
@@ -5631,7 +5631,7 @@ Flashcards.initialize([
 [
     "The roses are in bloom. {plain}",
     "{薔薇|_bara_} ga {咲いて|saite} iru.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Take your time. There's no need to hurry. It's okay any time. There's no need to hurry, so please do it when (you) have the time. As long as you wish.",
@@ -5645,18 +5645,18 @@ Flashcards.initialize([
 ],
 [
     "(I'll) take a spot for Hanami.",
-    "{お花見|ohanami} no {場所|basho} wo totte okimasu.",
-    "verbて + {置く|おく} = leave as it is, do something in advance"
+    "{お花見|ohanami} no {場所|basho} wo {取って|totte} okimasu.",
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
 ],
 [
     "Please leave that as it is without putting it away.",
     "sore, {片付けない|かたづけない} de, sono mama {出して|dashite} oite kudasai.",
-    "verbない + で + ください = please don't ~\nverbて + {置く|おく} = leave as it is, do something in advance\n"
+    "verbない + で + ください = please don't ~\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\n"
 ],
 [
     "Should (I) turn off the air conditioner? It's hot, so leave it on. {plain}",
     "「_eakon_, {消しましょう|keshimashou} ka.」 「{暑い|atsui} kara, tsukete oite.」",
-    "verbて + {置く|おく} = leave as it is, do something in advance\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "It's OK to be a bit loud at Hanami.",
@@ -5691,12 +5691,12 @@ Flashcards.initialize([
 [
     "(The number of) foreigners living in Japan keeps increasing steadily.",
     "{日本|nihon} ni {住む|sumu} {外国人|gaikokujin} wa, dondon {増え続けて|ふえつづけて} imasu.",
-    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(I've) kept calling for a while now, but no one is answering. {plain}",
     "sakki kara {電話|denwa} wo {掛け続けて|かけつづけて} iru kedo, {誰|dare} mo {出ない|denai}.",
-    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "(My) feet hurt a great deal. But (I) kept walking for 2 hours. {plain}",
@@ -5704,8 +5704,38 @@ Flashcards.initialize([
     "verb-stem + {続ける|つづける} = continue doing ~"
 ],
 [
-    "There's a cute girl named Noriko at the volunteer class.",
-    "ボランティア {教室|kyoushitsu} ni, {意子|noriko} to iu {可愛い|kawaii} {女|onna} no {子|ko} ga imasu.",
+    "There's a cute girl named Noriko at the volunteer class. {polite} There's a cute girl named Noriko at the volunteer class. {casual, spoken}",
+    "ボランティア {教室|kyoushitsu} ni, {意子|noriko} to iu {可愛い|kawaii} {女|onna} no {子|ko} ga imasu. ボランティア {教室|kyoushitsu} ni, {意子って|norikotte} iu {可愛い|kawaii} {女|onna} no {子|ko} ga irunda.",
+    ""
+],
+[
+    "(I'll) drink it later so please leave the cup as it is. {から}",
+    "{後|ato} de {飲む|nomu} kara _koppu_ wo sono mama ni shite oite kudasai.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
+],
+[
+    "(We'll) record the football match on video, won't we. {casual speech}",
+    "_sakkaa_ no {試合|shiai}, _bideo_ ni {録画|rokuga} shitoku ne.",
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
+],
+[
+    "(Please) put the beverages into the fridge. {casual speech}",
+    "{飲み物|nomimono}, {冷蔵庫|reizouko} ni {入れといて|iretoite}.",
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて + ください = request"
+],
+[
+    "Please read the mail that came from the teacher immediately. {casual speech}",
+    "{先生|sensei} kara {来た|kita} _meeru_ wo {直ぐ|sugu} {読んどいて|yondoite} kudasai.",
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて + ください = request"
+],
+[
+    "set the alarm clock",
+    "{目覚まし時計|mezamashidokei} wo kakeru",
+    ""
+],
+[
+    "take a seat",
+    "{席|seki} wo {取る|toru}",
     ""
 ]
 ])

@@ -190,8 +190,8 @@ verb-stem + {続ける|つづける} = continue doing ~
 て-form
 ------
 verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence
-verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result
-motion-verbて + いる = (temporarily) moved and is still there (never continuous present!)
+verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)
+motion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)
 verbて + いました = was (in the state of) doing ~, emphasize regular habitual action
 verbて + いる + {内|うち} = while doing ~ (unspecified time period)
 verbて + みる = try doing ~
@@ -202,7 +202,7 @@ verbて + ください = request
 verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem
 verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)
 (A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)
-verbて + {置く|おく} = leave as it is, do something in advance
+verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)
 
 た-form
 -------

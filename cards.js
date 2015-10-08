@@ -737,12 +737,12 @@ Flashcards.initialize([
     [
         "Excuse me, do (you) sell stamps?",
         "\u3059\u307f\u307e\u305b\u3093\u3001{\u5207\u624b|\u304d\u3063\u3066}\u3092{\u58f2\u3063\u3066|\u3046\u3063\u3066}\u3044\u307e\u3059\u304b\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Do (you) sell camera batteries?",
         "\u30ab\u30e1\u30e9\u306e{\u96fb\u6c60|\u3067\u3093\u3061}\u3092{\u58f2\u3063\u3066|\u3046\u3063\u3066}\u3044\u307e\u3059\u304b\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "How much is this folding fan?",
@@ -1417,7 +1417,7 @@ Flashcards.initialize([
     [
         "Excuse me, where is the supermarket? Do you know? {Polite.} Yes, (I) know.",
         "\u3059\u307f\u307e\u305b\u3093\u3001\u30b9\u30fc\u30d1\u30fc\u306f{\u4f55\u51e6|\u3069\u3053}\u306b\u3042\u308a\u307e\u3059\u304b\u3002{\u5fa1\u5b58\u77e5|\u3054\u305e\u3093\u3058}\u3067\u3059\u304b\u3002\u306f\u3044\u3001{\u77e5\u3063\u3066|\u3057\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Go straight ahead (then) cross the pedestrian crossing please.",
@@ -1956,7 +1956,7 @@ Flashcards.initialize([
     ],
     [
         "(It will) probably be cloudy, sometimes foggy.",
-        "{\u66c7\u308a|\u304f\u3082\u308a}{\u6642\u3005|\u3068\u304d\u3069\u304d}\u304d\u308a\u3067\u3057\u3087\u3046\u3002",
+        "{\u66c7\u308a|\u304f\u3082\u308a}{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u9727|\u304d\u308a}\u3067\u3057\u3087\u3046\u3002",
         ""
     ],
     [
@@ -2882,22 +2882,22 @@ Flashcards.initialize([
     [
         "What (are you) doing at the moment?",
         "{\u4eca|\u3044\u307e}{\u4f55|\u306a\u306b}\u3092\u3057\u3066\u3044\u307e\u3059\u304b\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I am) reading a Japanese newspaper.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u306e{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u3092{\u8aad\u3093\u3067|\u3088\u3093\u3067}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I am) writing a letter to (my) friend.",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306b{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I am) resting now.",
         "{\u4eca|\u3044\u307e}{\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Let's go in through the window quietly.",
@@ -3032,17 +3032,17 @@ Flashcards.initialize([
     [
         "(I'm) learning the guitar.",
         "\u30ae\u30bf\u30fc\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
     ],
     [
         "(My) older sister is married.",
         "{\u59c9|\u3042\u306d}\u306f{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}\u3057\u3066\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(My) dad has gone to (and is in) America at the moment.",
         "{\u7236|\u3061\u3061}\u306f{\u4eca|\u3044\u307e}\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Let's try this sushi!",
@@ -3067,22 +3067,22 @@ Flashcards.initialize([
     [
         "(I'm) reading a very good book currently.",
         "{\u4eca|\u3044\u307e}\u3068\u3066\u3082\u3044\u3044{\u672c|\u307b\u3093}\u3092{\u8aad\u3093\u3067|\u3088\u3093\u3067}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I) eat dinner with (my) family every day. (I) eat dinner with (my) family every day. {emphasize habit}",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u5bb6\u65cf|\u304b\u305e\u304f}\u3068{\u6669\u3054\u98ef|\u3070\u3093\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u5bb6\u65cf|\u304b\u305e\u304f}\u3068{\u6669\u3054\u98ef|\u3070\u3093\u3054\u306f\u3093}\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I) always eat sushi on Saturdays. {emphasize habit}",
         "{\u571f\u66dc\u65e5|\u3069\u3088\u3046\u3073}\u306b{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u5bff\u53f8|\u3059\u3057}\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I) commute to work by train. {emphasize habit}",
         "{\u4ed5\u4e8b|\u3057\u3054\u3068}\u306b{\u96fb\u8eca|\u3067\u3093\u3057\u3083}\u3067{\u901a\u3063\u3066|\u304b\u3088\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u304b\u3088\u3046 -> \u304b\u3088\u3063\u3066"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u304b\u3088\u3046 -> \u304b\u3088\u3063\u3066"
     ],
     [
         "Miki was teaching Japanese in America. {emphasize habit}",
@@ -3092,47 +3092,47 @@ Flashcards.initialize([
     [
         "Roger has entered the room. {and is still there}",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u90e8\u5c4b|\u3078\u3084}\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(My) parents live in Tokyo.",
         "{\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093}\u306f{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I) know Tokyo well.",
         "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u3092{\u826f\u304f|\u3088\u304f}{\u77e5\u3063\u3066|\u3057\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I) always return home at 6 o'clock. Mr. Yamada has gone home. {and is there now}",
         "{\u4f55\u6642\u3082|\u3044\u3064\u3082}{\u516d\u6642|\u308d\u304f\u3058}\u306b{\u5bb6|\u3046\u3061}\u306b{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066}\u3044\u307e\u3059\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u5bb6|\u3046\u3061}\u306b{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "A friend has come. {and is still here}",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c{\u6765\u3066|\u304d\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(My) parents have gone to Japan. {and are still there} (My) parents have returned to England. {and are staying there permanently}",
         "{\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093}\u306f{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3044\u307e\u3059\u3002{\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093}\u306f\u30a4\u30ae\u30ea\u30b9\u306b{\u5e30\u308a\u307e\u3057\u305f|\u304b\u3048\u308a\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Both Robert and Roger teach English in Japan.",
         "\u30ed\u30d0\u30fc\u30c8\u3055\u3093\u3082\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u3082{\u65e5\u672c|\u306b\u307b\u3093}\u3067{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u6559\u3048\u3066|\u304a\u3057\u3048\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Robert has come to Japan from England.",
         "\u30ed\u30d0\u30fc\u30c8\u3055\u3093\u306f\u30a4\u30ae\u30ea\u30b9\u304b\u3089{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I) am currently learning flower arrangement.",
         "{\u4eca|\u3044\u307e}{\u751f\u3051\u82b1|\u3044\u3051\u3070\u306a}\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
     ],
     [
         "(I) want to try going to Japan by myself.",
@@ -3247,27 +3247,27 @@ Flashcards.initialize([
     [
         "I go to school every day on foot. {habit}",
         "{\u79c1|\u308f\u305f\u3057}\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u6b69\u3044\u3066|\u3042\u308b\u3044\u3066}{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "After school, (I) take part in a tennis club. {habit}",
         "{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306e{\u5f8c|\u3042\u3068}\u3067\u30c6\u30cb\u30b9\u30fb\u30af\u30e9\u30d6\u306b\u3055\u3093\u304b\u3057\u3066\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Twice every week (I) go to cram school and (I) learn Maths and English (etc.). {habit}",
         "{\u6bce\u9031|\u307e\u3044\u3057\u3085\u3046}{\u4e8c\u56de|\u306b\u304b\u3044}\u3058\u3085\u304f\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001{\u6570\u5b66|\u3059\u3046\u304c\u304f}\u3084{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u3066\u3044\u307e\u3059\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u3084: incomplete list"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u3084: incomplete list"
     ],
     [
         "Because (I'm) learning the piano now, (I) practise every day. {\u304b\u3089, habit}",
         "{\u4eca|\u3044\u307e}\u30d4\u30a2\u30ce\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u307e\u3059\u304b\u3089{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046}\u3092\u3057\u3066\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
         "{\u9031\u672b|\u3057\u3085\u3046\u307e\u3064}\u306b{\u5927\u62b5|\u305f\u3044\u3066\u3044}{\u4f55|\u306a\u306b}\u3092\u3057\u3066\u3044\u307e\u3059\u304b\u3002{\u6642\u3005|\u3068\u304d\u3069\u304d}{\u7956\u7236|\u305d\u3075}\u3068{\u6563\u6b69|\u3055\u3093\u307d}\u3057\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Sunday, (I) always spend time with (my) family.",
@@ -3277,7 +3277,7 @@ Flashcards.initialize([
     [
         "When do (you) do (your) homework? (I) do a little every day, but this week, (I) haven't done (it) yet.",
         "{\u4f55\u6642|\u3044\u3064}{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044}\u3092\u3057\u307e\u3059\u304b\u3002{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u5c11\u3057|\u3059\u3053\u3057}\u3057\u3066\u3044\u307e\u3059\u304c{\u4eca\u9031|\u3053\u3093\u3057\u3085\u3046}\u306f{\u672a\u3060|\u307e\u3060}\u3057\u3066\u3044\u307e\u305b\u3093\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet"
     ],
     [
         "(I) want (my) older sister to do (my) homework. No way! Try to do (it) on your own please.",
@@ -3377,7 +3377,7 @@ Flashcards.initialize([
     [
         "(I) am learning Japanese therefore (I) have come to Japan. {\u304b\u3089}",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u307e\u3059\u304b\u3089{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "What's the matter? Well, you see, (I've) got a headache.",
@@ -3427,17 +3427,17 @@ Flashcards.initialize([
     [
         "Recently (I'm) learning judo.",
         "{\u6700\u8fd1|\u3055\u3044\u304d\u3093}\u3058\u3085\u3046\u3069\u3046\u3092{\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Every night (I) teach English at the company.",
         "{\u6bce\u6669|\u307e\u3044\u3070\u3093}{\u4f1a\u793e|\u304b\u3044\u3057\u3083}\u3067{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u6559\u3048\u3066|\u304a\u3057\u3048\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I'm) writing a letter to grandma while drinking coffee.",
         "\u30b3\u30fc\u30d2\u30fc\u3092{\u98f2\u307f\u306a\u304c\u3089|\u306e\u307f\u306a\u304c\u3089}{\u7956\u6bcd|\u305d\u307c}\u306b{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u3044\u307e\u3059\u3002",
-        "verb stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I) looked up the meaning of that word in the dictionary.",
@@ -3817,7 +3817,7 @@ Flashcards.initialize([
     [
         "(I) am off work because (I'm) sick. {\u304b\u3089, \u306e \u3067}",
         "{\u75c5\u6c17|\u3073\u3087\u3046\u304d}\u3060\u304b\u3089{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092{\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067}\u3044\u307e\u3059\u3002{\u75c5\u6c17|\u3073\u3087\u3046\u304d}\u306a\u306e\u3067{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092{\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067}\u3044\u307e\u3059\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Roger is good at playing tennis because (he) practices every day. {\u306e \u3067}",
@@ -3962,7 +3962,7 @@ Flashcards.initialize([
     [
         "When (I) lived in America, (I) spoke English every day. {plain}",
         "\u30a2\u30e1\u30ea\u30ab\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u305f{\u6642|\u3068\u304d}{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u82f1\u8a9e|\u3048\u3044\u3054}\u3092{\u8a71\u3057\u305f|\u306f\u306a\u3057\u305f}\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
     ],
     [
         "(I) have completely forgotten all (my) kanji. {plain}",
@@ -3972,7 +3972,7 @@ Flashcards.initialize([
     [
         "(I) have lived abroad.",
         "{\u5916\u56fd|\u304c\u3044\u3053\u304f}\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u305f\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
     ],
     [
         "(I) have never seen Mount Fuji.",
@@ -3997,7 +3997,7 @@ Flashcards.initialize([
     [
         "Since (I) came to Japan, (I) have been studying Japanese. After (I) arrived to Japan, (I) wrote a letter to (my) mom.",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u304b\u3089\u3001{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3057\u3066\u3044\u307e\u3059\u3002{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u7740\u3044\u305f|\u3064\u3044\u305f}{\u5f8c|\u3042\u3068}\u3067{\u6bcd|\u306f\u306f}\u306b{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u304d\u307e\u3057\u305f|\u304b\u304d\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "After (I) took a shower, (I) ate breakfast.",
@@ -4177,7 +4177,7 @@ Flashcards.initialize([
     [
         "I'm not a university student. (I've) graduated 3 years ago. Then for 2 years, (I) taught Japanese and travelled in America.",
         "{\u79c1|\u308f\u305f\u3057}\u306f{\u5927\u5b66\u751f|\u3060\u3044\u304c\u304f\u305b\u3044}\u3058\u3083\u306a\u3044\u3067\u3059\u3002{\u4e09\u5e74|\u3055\u3093\u306d\u3093}{\u524d|\u307e\u3048}\u306b{\u5352\u696d|\u305d\u3064\u304e\u3087\u3046}\u3057\u3066\u3044\u307e\u3057\u305f\u3002\u305d\u3057\u3066{\u4e8c\u5e74\u9593|\u306b\u306d\u3093\u304b\u3093}\u30a2\u30e1\u30ea\u30ab\u3067{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u3092{\u6559\u3048\u305f\u308a|\u304a\u3057\u3048\u305f\u308a}\u3001{\u65c5\u884c|\u308a\u3087\u3053\u3046}\u3057\u305f\u308a\u3057\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
     ],
     [
         "The white (one) is cute.",
@@ -4212,7 +4212,7 @@ Flashcards.initialize([
     [
         "When (I) lived in Chicago, (I) went to various concerts.",
         "\u30b7\u30ab\u30b4\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u305f{\u6642|\u3068\u304d}{\u8272\u3005|\u3044\u308d\u3044\u308d}\u306a\u30b3\u30f3\u30b5\u30fc\u30c8\u306b{\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
     ],
     [
         "(I) like jazz more than pop.",
@@ -4242,7 +4242,7 @@ Flashcards.initialize([
     [
         "When (I) lived in Australia, (I) spoke English well.",
         "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u305f{\u6642|\u3068\u304d}{\u82f1\u8a9e|\u3048\u3044\u3054}\u304c\u3088\u304f\u3067\u304d\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)"
     ],
     [
         "(I) went to bed late last night, so (I'm) totally exhausted. {plain}",
@@ -4586,7 +4586,7 @@ Flashcards.initialize([
     ],
     [
         "How many years? 2 years.",
-        "{\u4f55\u5e74|\u306a\u3093\u3048\u3093}({\u9593|\u304b\u3093})?{\u4e8c\u5e74|\u306b\u306d\u3093}({\u9593|\u304b\u3093})",
+        "{\u4f55\u5e74|\u306a\u3093\u306d\u3093}({\u9593|\u304b\u3093})?{\u4e8c\u5e74|\u306b\u306d\u3093}({\u9593|\u304b\u3093})",
         ""
     ],
     [
@@ -4637,7 +4637,7 @@ Flashcards.initialize([
     [
         "Roger has been living in Japan for 2 years.",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u306f{\u4e8c\u5e74\u9593|\u306b\u306d\u3093\u304b\u3093}{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u4f4f\u3093\u3067|\u3059\u3093\u3067}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Why is Miki going to China? Because (it's been arranged for her to) be transferred.",
@@ -4662,7 +4662,7 @@ Flashcards.initialize([
     [
         "Both of the parents are working.",
         "{\u89aa|\u304a\u3084}\u306f{\u4e21\u65b9|\u308a\u3087\u3046\u307b\u3046}\u3068\u3082{\u50cd\u3044\u3066|\u306f\u305f\u3089\u3044\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "In Okinawa, (I) had an interesting experience.",
@@ -4852,7 +4852,7 @@ Flashcards.initialize([
     [
         "Today (I've) heard the news of the earthquake. (I) hope everyone is safe.",
         "{\u4eca\u65e5|\u304d\u3087\u3046}\u306e{\u5730\u9707|\u3058\u3057\u3093}\u306e\u30cb\u30e5\u30fc\u30b9\u3092{\u805e\u304d\u307e\u3057\u305f|\u304d\u304d\u307e\u3057\u305f}\u3002{\u7686\u3055\u3093|\u307f\u306a\u3055\u3093}\u306e{\u7121\u4e8b|\u3076\u3058}\u3092{\u9858\u3063\u3066|\u306d\u304c\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I) can speak Japanese better. {plain}",
@@ -5207,7 +5207,7 @@ Flashcards.initialize([
     [
         "Both Roger and Robert are nice people. (We) always spend fun times. {plain, female}",
         "\u30ed\u30b8\u30e3\u30fc\u3055\u3093\u3082\u30ed\u30d0\u30fc\u30c8\u3055\u3093\u3082\u3068\u3066\u3082\u3044\u3044{\u4eba|\u3072\u3068}\u3060\u3068{\u601d\u3046|\u304a\u3082\u3046}\u3002\u3044\u3064\u3082{\u697d\u3057\u304f|\u305f\u306e\u3057\u304f}{\u904e\u3054\u3057\u3066|\u3059\u3054\u3057\u3066}\u3044\u308b\u308f\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "But Roger really loves (you) Miki. (I) think (you) must tell (him) about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
@@ -5247,7 +5247,7 @@ Flashcards.initialize([
     [
         "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. It contains things of higher price than itself.",
         "{\u798f\u888b|\u3075\u304f\u3076\u304f\u308d}:{\u304a\u6b63\u6708|\u304a\u3057\u3087\u3046\u304c\u3064}\u306b\u30c7\u30d1\u30fc\u30c8\u3084{\u5e97|\u307f\u305b}\u306a\u3069\u3067{\u58f2\u308a\u307e\u3059|\u3046\u308a\u307e\u3059}\u3002{\u5024\u6bb5|\u306d\u3060\u3093}\u3088\u308a{\u9ad8\u3044\u7269|\u305f\u304b\u3044\u3082\u306e}\u304c{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3044\u307e\u3059\u3002",
-        "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!)"
+        "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Sometimes (I) make Japanese cuisine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
@@ -5257,7 +5257,7 @@ Flashcards.initialize([
     [
         "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
         "{\u4eca\u65e5|\u304d\u3087\u3046}\u306f\u30b1\u30fc\u30c6\u30a3\u3068{\u79c1\u9054|\u308f\u305f\u3057\u305f\u3061}\u306e\u305f\u3081\u306b\u3053\u3093\u306a\u306b\u305b\u3044\u3060\u3044\u306a{\u9001\u5225\u4f1a|\u305d\u3046\u3079\u3064\u304b\u3044}\u3068{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}{\u524d\u591c|\u305c\u3093\u3084}{\u53bb\u308a|\u3055\u308a}\u3092\u3072\u3089\u3044\u3066\u304f\u3060\u3055\u3063\u3066\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002\u3068\u3066\u3082\u304b\u3093\u3057\u3083\u3057\u3066\u3044\u307e\u3059\u3002",
-        "\u306a adj. + \u306b = adverb\n\u3068: complete list\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "\u306a adj. + \u306b = adverb\n\u3068: complete list\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "While (we) were in Japan, (we) met many people and learned many things. People in Japan were very kind and have really looked after us.",
@@ -5307,7 +5307,7 @@ Flashcards.initialize([
     [
         "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
         "{\u4e00\u751f\u61f8\u547d|\u3044\u3063\u3057\u3087\u3046\u3051\u3093\u3081\u3044}{\u4f5c\u6587|\u3055\u304f\u3076\u3093}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u3044\u307e\u3059\u304c\u3001\u3084\u3063\u3071\u308a\u307e\u3060{\u591a\u304f|\u304a\u304a\u304f}\u306e{\u8a00\u8449|\u3053\u3068\u3070}\u3092{\u77e5\u3089\u306a\u3044|\u3057\u3089\u306a\u3044}\u3057\u3001{\u6642\u9593|\u3058\u304b\u3093}\u3082{\u5c11\u3057|\u3059\u3053\u3057}\u3060\u3051\u3057\u304b\u3042\u308a\u307e\u305b\u3093\u3002\u3042\u3042\u3001\u3044\u3064\u3082{\u8a00\u3044\u8a33|\u3044\u3044\u308f\u3051}\u3067\u3059\u306d\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I) might have gained around 2 kilos. (I've) gained even 2 kilos. (I) might have gained as much as 2 kilos. (I've) gained as much as 2 kilos. (I've) gained at least 2 kilos.",
@@ -5437,7 +5437,7 @@ Flashcards.initialize([
     [
         "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
         "\u306c\u308c\u3066\u3044\u306a\u3044\u306d\u3002{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c{\u8eca|\u304f\u308b\u307e}\u3067{\u9001\u3063\u3066|\u304a\u304f\u3063\u3066}\u304f\u308c\u305f\u304b\u3089\u3001\u305f\u3059\u304b\u3063\u305f\u3088\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nX \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nX \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "I turned on the lights. The lights turned on. {plain}",
@@ -5537,12 +5537,12 @@ Flashcards.initialize([
     [
         "That kid has been playing going up and down the stairs for a while now.",
         "\u3042\u306e{\u5b50\u4f9b|\u3053\u3069\u3082}\u306f\u3001\u3055\u3063\u304d\u304b\u3089{\u968e\u6bb5|\u304b\u3044\u3060\u3093}\u3092{\u4e0a\u3063\u305f\u308a|\u306e\u307c\u3063\u305f\u308a}{\u4e0b\u308a\u305f\u308a|\u304a\u308a\u3063\u305f\u308a}\u3057\u3066{\u904a\u3093\u3067|\u3042\u305d\u3093\u3067}\u3044\u307e\u3059\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Yesterday (my) father had slept leaving the TV on.",
         "{\u7236|\u3061\u3061}\u306f\u3001{\u6628\u65e5|\u304d\u306e\u3046}\u3001\u30c6\u30ec\u30d3\u3092\u3064\u3051\u305f\u307e\u307e{\u5bdd\u3066|\u306d\u3066}\u3044\u307e\u3057\u305f\u3002",
-        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(You'll) catch a cold if (you) stay wet. {plain}",
@@ -5572,12 +5572,12 @@ Flashcards.initialize([
     [
         "Even if (I) work every day, (my) savings don't increase. {plain}",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u50cd\u3044\u3066|\u306f\u305f\u3089\u3044\u3066}\u3082\u3001{\u8caf\u91d1|\u3061\u3087\u304d\u3093}\u304c{\u5897\u3048\u306a\u3044|\u3075\u3048\u306a\u3044}\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "In the restaurant, (they) wash and cut the vegetables.",
         "\u30ec\u30b9\u30c8\u30e9\u30f3\u3067{\u91ce\u83dc|\u3084\u3055\u3044}\u3092{\u6d17\u3063\u305f\u308a|\u3042\u3089\u3063\u305f\u308a}\u3001{\u5207\u3063\u305f\u308a|\u304d\u3063\u305f\u308a}\u3057\u3066\u3044\u307e\u3059\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Even if it rains, (I'll) go out by bike.",
@@ -5627,7 +5627,7 @@ Flashcards.initialize([
     [
         "A pine tree stands in front of his house. {plain}",
         "{\u5f7c|\u304b\u308c}\u306e{\u5bb6|\u3044\u3048}\u306e{\u524d|\u307e\u3048}\u306b\u306f{\u677e|\u307e\u3064}\u306e{\u6728|\u304d}\u304c{\u7acb\u3063\u3066|\u305f\u3063\u3066}\u3044\u308b\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "There's one old cherry tree in the garden.",
@@ -5637,7 +5637,7 @@ Flashcards.initialize([
     [
         "The roses are in bloom. {plain}",
         "{\u8594\u8587|\u30d0\u30e9}\u304c{\u54b2\u3044\u3066|\u3055\u3044\u3066}\u3044\u308b\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "Take your time. There's no need to hurry. It's okay any time. There's no need to hurry, so please do it when (you) have the time. As long as you wish.",
@@ -5651,18 +5651,18 @@ Flashcards.initialize([
     ],
     [
         "(I'll) take a spot for Hanami.",
-        "{\u304a\u82b1\u898b|\u304a\u306f\u306a\u307f}\u306e{\u5834\u6240|\u3070\u3057\u3087}\u3092\u3068\u3063\u3066\u304a\u304d\u307e\u3059\u3002",
-        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance"
+        "{\u304a\u82b1\u898b|\u304a\u306f\u306a\u307f}\u306e{\u5834\u6240|\u3070\u3057\u3087}\u3092{\u53d6\u3063\u3066|\u3068\u3063\u3066}\u304a\u304d\u307e\u3059\u3002",
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
     ],
     [
         "Please leave that as it is without putting it away.",
         "\u305d\u308c\u3001{\u7247\u4ed8\u3051\u306a\u3044|\u304b\u305f\u3065\u3051\u306a\u3044}\u3067\u3001\u305d\u306e\u307e\u307e{\u51fa\u3057\u3066|\u3060\u3057\u3066}\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
-        "verb\u306a\u3044 + \u3067 + \u304f\u3060\u3055\u3044 = please don't ~\nverb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance\n"
+        "verb\u306a\u3044 + \u3067 + \u304f\u3060\u3055\u3044 = please don't ~\nverb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\n"
     ],
     [
         "Should (I) turn off the air conditioner? It's hot, so leave it on. {plain}",
         "\u300c\u30a8\u30a2\u30b3\u30f3\u3001{\u6d88\u3057\u307e\u3057\u3087\u3046|\u3051\u3057\u307e\u3057\u3087\u3046}\u304b\u3002\u300d\u300c{\u6691\u3044|\u3042\u3064\u3044}\u304b\u3089\u3001\u3064\u3051\u3066\u304a\u3044\u3066\u3002\u300d",
-        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "It's OK to be a bit loud at Hanami.",
@@ -5697,12 +5697,12 @@ Flashcards.initialize([
     [
         "(The number of) foreigners living in Japan keeps increasing steadily.",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u4f4f\u3080|\u3059\u3080}{\u5916\u56fd\u4eba|\u304c\u3044\u3053\u304f\u3058\u3093}\u306f\u3001\u3069\u3093\u3069\u3093{\u5897\u3048\u7d9a\u3051\u3066|\u3075\u3048\u3064\u3065\u3051\u3066}\u3044\u307e\u3059\u3002",
-        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(I've) kept calling for a while now, but no one is answering. {plain}",
         "\u3055\u3063\u304d\u304b\u3089{\u96fb\u8a71|\u3067\u3093\u308f}\u3092{\u639b\u3051\u7d9a\u3051\u3066|\u304b\u3051\u3064\u3065\u3051\u3066}\u3044\u308b\u3051\u3069\u3001{\u8ab0|\u3060\u308c}\u3082{\u51fa\u306a\u3044|\u3067\u306a\u3044}\u3002",
-        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result"
+        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
         "(My) feet hurt a great deal. But (I) kept walking for 2 hours. {plain}",
@@ -5710,8 +5710,38 @@ Flashcards.initialize([
         "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~"
     ],
     [
-        "There's a cute girl named Noriko at the volunteer class.",
-        "\u30dc\u30e9\u30f3\u30c6\u30a3\u30a2{\u6559\u5ba4|\u304d\u3087\u3046\u3057\u3064}\u306b\u3001{\u610f\u5b50|\u306e\u308a\u3053}\u3068\u3044\u3046{\u53ef\u611b\u3044|\u304b\u308f\u3044\u3044}{\u5973|\u304a\u3093\u3042}\u306e{\u5b50|\u3053}\u304c\u3044\u307e\u3059\u3002",
+        "There's a cute girl named Noriko at the volunteer class. {polite} There's a cute girl named Noriko at the volunteer class. {casual, spoken}",
+        "\u30dc\u30e9\u30f3\u30c6\u30a3\u30a2{\u6559\u5ba4|\u304d\u3087\u3046\u3057\u3064}\u306b\u3001{\u610f\u5b50|\u306e\u308a\u3053}\u3068\u3044\u3046{\u53ef\u611b\u3044|\u304b\u308f\u3044\u3044}{\u5973|\u304a\u3093\u3042}\u306e{\u5b50|\u3053}\u304c\u3044\u307e\u3059\u3002\u30dc\u30e9\u30f3\u30c6\u30a3\u30a2{\u6559\u5ba4|\u304d\u3087\u3046\u3057\u3064}\u306b\u3001{\u610f\u5b50\u3063\u3066|\u306e\u308a\u3053\u3063\u3066}\u3044\u3046{\u53ef\u611b\u3044|\u304b\u308f\u3044\u3044}{\u5973|\u304a\u3093\u3042}\u306e{\u5b50|\u3053}\u304c\u3044\u308b\u3093\u3060\u3002",
+        ""
+    ],
+    [
+        "(I'll) drink it later so please leave the cup as it is. {\u304b\u3089}",
+        "{\u5f8c|\u3042\u3068}\u3067{\u98f2\u3080|\u306e\u3080}\u304b\u3089\u30b3\u30c3\u30d7\u3092\u305d\u306e\u307e\u307e\u306b\u3057\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
+    ],
+    [
+        "(We'll) record the football match on video, won't we. {casual speech}",
+        "\u30b5\u30c3\u30ab\u30fc\u306e{\u8a66\u5408|\u3057\u3042\u3044}\u3001\u30d3\u30c7\u30aa\u306b{\u9332\u753b|\u308d\u304f\u304c}\u3057\u3068\u304f\u306d\u3002",
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
+    ],
+    [
+        "(Please) put the beverages into the fridge. {casual speech}",
+        "{\u98f2\u307f\u7269|\u306e\u307f\u3082\u306e}\u3001{\u51b7\u8535\u5eab|\u308c\u3044\u305e\u3046\u3053}\u306b{\u5165\u308c\u3068\u3044\u3066|\u3044\u308c\u3068\u3044\u3066}\u3002",
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+    ],
+    [
+        "Please read the mail that came from the teacher immediately. {casual speech}",
+        "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u304b\u3089{\u6765\u305f|\u304d\u305f}\u30e1\u30fc\u30eb\u3092{\u76f4\u3050|\u3059\u3050}{\u8aad\u3093\u3069\u3044\u3066|\u3088\u3093\u3069\u3044\u3066}\u304f\u3060\u3055\u3044\u3002",
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+    ],
+    [
+        "set the alarm clock",
+        "{\u76ee\u899a\u307e\u3057\u6642\u8a08|\u3081\u3056\u307e\u3057\u3069\u3051\u3044}\u3092\u304b\u3051\u308b",
+        ""
+    ],
+    [
+        "take a seat",
+        "{\u5e2d|\u305b\u304d}\u3092{\u53d6\u308b|\u3068\u308b}",
         ""
     ]
 ])

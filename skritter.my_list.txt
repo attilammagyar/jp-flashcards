@@ -801,3 +801,8 @@
 権利 kenri
 権力 kenryoku
 特権 tokken
+目覚める mezameru
+目覚まし mezamashi
+目覚まし時計 mezamashidokei
+席 seki
+工場 koujou
