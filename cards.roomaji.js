@@ -2006,7 +2006,7 @@ Flashcards.initialize([
 ],
 [
     "Two tickets to Osaka please. Is (it) one way or return? (It's) one way.",
-    "{大阪|oosaka} {行き|yuki} no {切符|kippu} wo {ニ|ni} {枚|mai} kudasai. {片道|katamichi} desu ka. oufuku desu ka. {片道|katamichi} desu.",
+    "{大阪|oosaka} {行き|yuki} no {切符|kippu} wo {ニ|ni} {枚|mai} kudasai. {片道|katamichi} desu ka. {往復|oufuku} desu ka. {片道|katamichi} desu.",
     ""
 ],
 [
@@ -2021,7 +2021,7 @@ Flashcards.initialize([
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
-    "{大阪|oosaka} made {新幹線|shinkansen} de {行きました|ikimashita}. {片道|katamichi} no {切符|kippu} wo {買いました|kaimashita}. douryou no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
+    "{大阪|oosaka} made {新幹線|shinkansen} de {行きました|ikimashita}. {片道|katamichi} no {切符|kippu} wo {買いました|kaimashita}. {同僚|douryou} no {車|kuruma} de {帰りました|kaerimashita}. {其れ|sore} mo {楽しくなかった|tanoshikunakatta} desu.",
     "くなかった = past negative of い adj."
 ],
 [
@@ -2051,7 +2051,7 @@ Flashcards.initialize([
 ],
 [
     "New Zealand has four seasons.",
-    "_nyuu jiirando_ wa kisetsu ga {四つ|yottsu} arimasu.",
+    "_nyuu jiirando_ wa {季節|kisetsu} ga {四つ|yottsu} arimasu.",
     ""
 ],
 [
@@ -5100,7 +5100,7 @@ Flashcards.initialize([
 ],
 [
     "If (you) come to China, please make contact.",
-    "moshi {中国|chuugoku} ni {来たら|kitara}, renraku shite kudasai.",
+    "moshi {中国|chuugoku} ni {来たら|kitara}, {連絡|renraku} shite kudasai.",
     "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
 ],
 [
@@ -5270,7 +5270,7 @@ Flashcards.initialize([
 ],
 [
     "If (you) have a chance to come to China, please be sure to contact (us).",
-    "moshi {中国|chuugoku} ni {来る|kuru} _chansu_ ga attara, {是非|zehi} renraku shite kudasai.",
+    "moshi {中国|chuugoku} ni {来る|kuru} _chansu_ ga attara, {是非|zehi} {連絡|renraku} shite kudasai.",
     "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
 ],
 [
