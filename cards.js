@@ -5725,7 +5725,7 @@ Flashcards.initialize([
         "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
     ],
     [
-        "(Please) put the beverages into the fridge. {casual speech}",
+        "(Please) put the drinks into the fridge. {casual speech}",
         "{\u98f2\u307f\u7269|\u306e\u307f\u3082\u306e}\u3001{\u51b7\u8535\u5eab|\u308c\u3044\u305e\u3046\u3053}\u306b{\u5165\u308c\u3068\u3044\u3066|\u3044\u308c\u3068\u3044\u3066}\u3002",
         "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
     ],

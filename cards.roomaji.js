@@ -5719,7 +5719,7 @@ Flashcards.initialize([
     "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
 ],
 [
-    "(Please) put the beverages into the fridge. {casual speech}",
+    "(Please) put the drinks into the fridge. {casual speech}",
     "{飲み物|nomimono}, {冷蔵庫|reizouko} ni {入れといて|iretoite}.",
     "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて + ください = request"
 ],
