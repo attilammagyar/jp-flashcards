@@ -805,3 +805,9 @@
 目覚まし時計 mezamashidokei
 席 seki
 工場 koujou
+文字 moji
+過激 kageki
+横浜 yokohama
+越す kosu
+引っ越す hikkosu
+間に合う ma ni au
