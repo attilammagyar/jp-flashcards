@@ -2941,12 +2941,12 @@ Flashcards.initialize([
 ],
 [
     "(So) in the end, (it's) a search for guys?",
-    "kekkyoku {男|otoko} wo sagashi desu ka.",
+    "kekkyoku {男|otoko} wo {探し|sagashi} desu ka.",
     ""
 ],
 [
     "(I) searched through the room for a pen.",
-    "_pen_ wo {部屋中|heyajuu} sagashimashita.",
+    "_pen_ wo {部屋中|heyajuu} {探しました|sagashimashita}.",
     ""
 ],
 [
@@ -5065,7 +5065,7 @@ Flashcards.initialize([
 ],
 [
     "While Mr. Yamada was cooking, Ms. Natsuko was reading a book. During the time that Mr. Yamada is in China, Ms. Natsuko will (be) looking for a job. During the time Miki was in America, (she) did (some) travelling.",
-    "{山田|yamada} san ga {料理|ryouri} wo shite iru {間|aida}, {夏子|natsuko} san wa {本|hon} wo {読んで|yonde} imashita. {山田|yamada} san ga {中国|chuugoku} ni iru {間|aida} ni, {夏子|natsuko} san wa {仕事|shigoto} wo sagashimasu. {三木|miki} san wa _amerika_ ni iru {間|aida} ni {旅行|ryokou} wo shite imashita.",
+    "{山田|yamada} san ga {料理|ryouri} wo shite iru {間|aida}, {夏子|natsuko} san wa {本|hon} wo {読んで|yonde} imashita. {山田|yamada} san ga {中国|chuugoku} ni iru {間|aida} ni, {夏子|natsuko} san wa {仕事|shigoto} wo {探します|sagashimasu}. {三木|miki} san wa _amerika_ ni iru {間|aida} ni {旅行|ryokou} wo shite imashita.",
     "(PersonA + が) (verbて +) いる + {間|あいだ} (+ PersonB + は) ... = throughout the whole time that A does/did ~, B does/did ~\n(PersonA + が) (verbて +) いる + {間|あいだ} + に (+ PersonB + は) ... = at some point during A does/did ~, B does/did ~\nPerson + は + (verbて +) いる + {間|あいだ} + に = during A does/did ~, (he/she) does/did ~"
 ],
 [
@@ -5737,5 +5737,30 @@ Flashcards.initialize([
     "take a seat",
     "{席|seki} wo {取る|toru}",
     ""
+],
+[
+    "Key: something to lock the door with when you leave. {plain}",
+    "{鍵|kagi}: {出掛ける|dekakeru} toki ni, _doa_ ni kakete oku mono.",
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
+],
+[
+    "Wallet: something to always put in your bag. {plain}",
+    "{財布|saifu}: itsumo {鞄|kaban} no {中|naka} ni {入れて|irete} oku mono.",
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
+],
+[
+    "Curtain: something to open in the morning and close in the night. {plain}",
+    "_kaaten_: {朝|asa}, {開けて|akete}, {夜|yoru}, {閉めて|shimete} oku mono.",
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
+],
+[
+    "When I was a child, (my) father often took (me) to the zoo. {plain}",
+    "{私|watashi} ga {子供|kodomo} no koro, {父|chich} wa yoku {動物園|doubutsuen} ni {連れて|tsurete} itte kureta.",
+    "X は/が (Y を) verbて くれる = X(out) does ~ for Y(in)"
+],
+[
+    "(I) got the policeman at the police box to tell (me) the way.",
+    "{交番|kouban} de {お巡りさん|omawarisan} ni {道|michi} wo {教えて|oshiete} moraimashita.",
+    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ]
 ])
