@@ -2126,7 +2126,7 @@ Flashcards.initialize([
 ],
 [
     "But there are still 2 minutes. Plenty of time. Ms. Natsuko will surely come.",
-    "Demo {未だ|mada} {二分|nihun} arimasu. yoyuu desu. {夏子|natsuko} san wa kitto {来ます|kimasu}.",
+    "Demo {未だ|mada} {二分|nihun} arimasu. {余裕|yoyuu} desu. {夏子|natsuko} san wa kitto {来ます|kimasu}.",
     ""
 ],
 [
@@ -2471,7 +2471,7 @@ Flashcards.initialize([
 ],
 [
     "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
-    "_amerika_ no seikatsu wa {面白そう|omoshirosou} desu ga {東京|toukyou} no seikatsu ga {一番|ichiban} {好き|suki} desu.",
+    "_amerika_ no {生活|seikatsu} wa {面白そう|omoshirosou} desu ga {東京|toukyou} no {生活|seikatsu} ga {一番|ichiban} {好き|suki} desu.",
     "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
@@ -2481,7 +2481,7 @@ Flashcards.initialize([
 ],
 [
     "A filmstar's lifestyle looks unpleasant, doesn't it?",
-    "{映画|eiga} _sutaa_ no seikatsu wa {不愉快そう|fuyukaisou} desu ne.",
+    "{映画|eiga} _sutaa_ no {生活|seikatsu} wa {不愉快そう|fuyukaisou} desu ne.",
     "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
 ],
 [
@@ -3341,7 +3341,7 @@ Flashcards.initialize([
 ],
 [
     "There's something missing (from my) life right now.",
-    "{今|ima} no seikatsu wa {何|nani} ka {物|mono} {足りない|tarinai} desu.",
+    "{今|ima} no {生活|seikatsu} wa {何|nani} ka {物|mono} {足りない|tarinai} desu.",
     "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
 ],
 [
