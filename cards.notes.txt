@@ -200,7 +200,7 @@ verbて + は + いけません = doing verb is not allowed
 verbて + は + {駄目|だめ} = must not do verb
 verbて + ください = request
 verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem
-verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)
+verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)
 (A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)
 verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)
 

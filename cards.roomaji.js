@@ -1677,7 +1677,7 @@ Flashcards.initialize([
 [
     "(I've) caught a cold.",
     "{風邪|kaze} wo {引いて|hiite} {仕舞いました|shimaimashita}.",
-    "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
 ],
 [
     "(My) shoulders ache.",
@@ -1687,7 +1687,7 @@ Flashcards.initialize([
 [
     "Have (you) caught a cold?",
     "{風邪|kaze} {引いて|hiite} {仕舞いました|shimaimashita} ka.",
-    "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
 ],
 [
     "(I) have a headache. (My) stomach also hurts.",
@@ -3967,7 +3967,7 @@ Flashcards.initialize([
 [
     "(I) have completely forgotten all (my) kanji. {plain}",
     "{漢字|kanji} wo {全部|zenbu} {忘れて|wasurete} {仕舞った|shimatta}.",
-    "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
 ],
 [
     "(I) have lived abroad.",
@@ -4132,37 +4132,37 @@ Flashcards.initialize([
 [
     "(I've) already finished (my) homework.",
     "{宿題|shukudai} wa mou yatte {仕舞いました|shimaimashita}.",
-    "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
 ],
 [
     "The little bird went and died. {plain} The little bird went and died. {plain, spoken}",
     "{小鳥|kotori} ga {死んで|shinde} {仕舞った|shimatta}. {小鳥|kotori} ga {死んじゃった|shinjatta}.",
-    "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
 ],
 [
     "(I've) gone and broken (my) camera. {plain}",
     "_kamera_ wo {壊して|kowashite} {仕舞った|shimatta}.",
-    "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
 ],
 [
     "Have (you) finished eating all (your) vegetables?",
     "{野菜|yasai} wo {全部|zenbu} {食べて|tabete} {仕舞いました|shimaimashita} ka.",
-    "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
 ],
 [
     "(I) will finish writing the letter after (I've) had (my) breakfast.",
     "{朝ご飯|asagohan} wo {食べた|tabeta} {後|ato} de {手紙|tegami} wo {書いて|kaite} shimaimasu.",
-    "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)\nverbた + {後|あと} + で = after (finished) doing ~"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた + {後|あと} + で = after (finished) doing ~"
 ],
 [
     "(I'm) totally exhausted. {plain}",
     "{疲れて|tsukarete} {仕舞った|shimatta}.",
-    "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)\nverbた + {後|あと} + で = after (finished) doing ~"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた + {後|あと} + で = after (finished) doing ~"
 ],
 [
     "(I) totally lost (my) camera. {plain}",
     "_kamera_ wo {落として|otoshite} {仕舞った|shimatta}.",
-    "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)\nverbた + {後|あと} + で = after (finished) doing ~"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた + {後|あと} + で = after (finished) doing ~"
 ],
 [
     "Sorry, (I'm) full.",
@@ -4247,12 +4247,12 @@ Flashcards.initialize([
 [
     "(I) went to bed late last night, so (I'm) totally exhausted. {plain}",
     "{夕べ|yuube} {遅く|osoku} {寝た|neta} kara {疲れて|tsukarete} {仕舞った|shimatta}.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
 ],
 [
     "(I) have finished all the cooking. {plain}",
     "{料理|ryouri} wo {全部|zenbu} shite {仕舞った|shimatta}.",
-    "verbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
 ],
 [
     "(I) think this camera is better than that camera.",
@@ -4957,7 +4957,7 @@ Flashcards.initialize([
 [
     "(I) want (you) not to drink up all the beer.",
     "_biiru_ wo {全部|zenbu} {飲んで|nonde} {仕舞わない|shimawanai} de {欲しい|hoshii} desu.",
-    "verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbて + しまう = finish doing ~, go and ~ (sometimes regretful; spoken: ~てしまう --> ~ちゃう, でしまう --> じゃう)"
+    "verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
 ],
 [
     "(I) must call Mr. Hondo. {plain}",

@@ -1677,7 +1677,7 @@ Flashcards.initialize([
     [
         "(I've) caught a cold.",
         "{\u98a8\u90aa|\u304b\u305c}\u3092{\u5f15\u3044\u3066|\u3072\u3044\u3066}{\u4ed5\u821e\u3044\u307e\u3057\u305f|\u3057\u307e\u3044\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
     ],
     [
         "(My) shoulders ache.",
@@ -1687,7 +1687,7 @@ Flashcards.initialize([
     [
         "Have (you) caught a cold?",
         "{\u98a8\u90aa|\u304b\u305c}{\u5f15\u3044\u3066|\u3072\u3044\u3066}{\u4ed5\u821e\u3044\u307e\u3057\u305f|\u3057\u307e\u3044\u307e\u3057\u305f}\u304b\u3002",
-        "verb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
     ],
     [
         "(I) have a headache. (My) stomach also hurts.",
@@ -3967,7 +3967,7 @@ Flashcards.initialize([
     [
         "(I) have completely forgotten all (my) kanji. {plain}",
         "{\u6f22\u5b57|\u304b\u3093\u3058}\u3092{\u5168\u90e8|\u305c\u3093\u3076}{\u5fd8\u308c\u3066|\u308f\u3059\u308c\u3066}{\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "verb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
     ],
     [
         "(I) have lived abroad.",
@@ -4132,37 +4132,37 @@ Flashcards.initialize([
     [
         "(I've) already finished (my) homework.",
         "{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044}\u306f\u3082\u3046\u3084\u3063\u3066{\u4ed5\u821e\u3044\u307e\u3057\u305f|\u3057\u307e\u3044\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
     ],
     [
         "The little bird went and died. {plain} The little bird went and died. {plain, spoken}",
         "{\u5c0f\u9ce5|\u3053\u3068\u308a}\u304c{\u6b7b\u3093\u3067|\u3057\u3093\u3067}{\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002{\u5c0f\u9ce5|\u3053\u3068\u308a}\u304c{\u6b7b\u3093\u3058\u3083\u3063\u305f|\u3057\u3093\u3058\u3083\u3063\u305f}\u3002",
-        "verb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
     ],
     [
         "(I've) gone and broken (my) camera. {plain}",
         "\u30ab\u30e1\u30e9\u3092{\u58ca\u3057\u3066|\u3053\u308f\u3057\u3066}{\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "verb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
     ],
     [
         "Have (you) finished eating all (your) vegetables?",
         "{\u91ce\u83dc|\u3084\u3055\u3044}\u3092{\u5168\u90e8|\u305c\u3093\u3076}{\u98df\u3079\u3066|\u305f\u3079\u3066}{\u4ed5\u821e\u3044\u307e\u3057\u305f|\u3057\u307e\u3044\u307e\u3057\u305f}\u304b\u3002",
-        "verb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
     ],
     [
         "(I) will finish writing the letter after (I've) had (my) breakfast.",
         "{\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093}\u3092{\u98df\u3079\u305f|\u305f\u3079\u305f}{\u5f8c|\u3042\u3068}\u3067{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u3057\u307e\u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
     ],
     [
         "(I'm) totally exhausted. {plain}",
         "{\u75b2\u308c\u3066|\u3064\u304b\u308c\u3066}{\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "verb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
     ],
     [
         "(I) totally lost (my) camera. {plain}",
         "\u30ab\u30e1\u30e9\u3092{\u843d\u3068\u3057\u3066|\u304a\u3068\u3057\u3066}{\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "verb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
     ],
     [
         "Sorry, (I'm) full.",
@@ -4247,12 +4247,12 @@ Flashcards.initialize([
     [
         "(I) went to bed late last night, so (I'm) totally exhausted. {plain}",
         "{\u5915\u3079|\u3086\u3046\u3079}{\u9045\u304f|\u304a\u305d\u304f}{\u5bdd\u305f|\u306d\u305f}\u304b\u3089{\u75b2\u308c\u3066|\u3064\u304b\u308c\u3066}{\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
     ],
     [
         "(I) have finished all the cooking. {plain}",
         "{\u6599\u7406|\u308a\u3087\u3046\u308a}\u3092{\u5168\u90e8|\u305c\u3093\u3076}\u3057\u3066{\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "verb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
     ],
     [
         "(I) think this camera is better than that camera.",
@@ -4957,7 +4957,7 @@ Flashcards.initialize([
     [
         "(I) want (you) not to drink up all the beer.",
         "\u30d3\u30fc\u30eb\u3092{\u5168\u90e8|\u305c\u3093\u3076}{\u98f2\u3093\u3067|\u306e\u3093\u3067}{\u4ed5\u821e\u308f\u306a\u3044|\u3057\u307e\u308f\u306a\u3044}\u3067{\u6b32\u3057\u3044|\u307b\u3057\u3044}\u3067\u3059\u3002",
-        "verb\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~\nverb\u3066 + \u3057\u307e\u3046 = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066\u3057\u307e\u3046 --> ~\u3061\u3083\u3046, \u3067\u3057\u307e\u3046 --> \u3058\u3083\u3046)"
+        "verb\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~\nverb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
     ],
     [
         "(I) must call Mr. Hondo. {plain}",
