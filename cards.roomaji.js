@@ -5255,7 +5255,7 @@ Flashcards.initialize([
 ],
 [
     "While (we) were in Japan, (we) met many people and learned many things. People in Japan were very kind and have really looked after us.",
-    "{日本|nihon} ni iru {間|aida}, {沢山|takusan} no {人達|hitotachi} ni {会い|ai}, {沢山|takusan} no koto wo {勉強|benkyou} shimashita. {日本|nihon} no {皆さん|minasan} wa totemo {親切|shinsetsu} de {大変|taihen} osewa ni narimashita.",
+    "{日本|nihon} ni iru {間|aida}, {沢山|takusan} no {人達|hitotachi} ni {会い|ai}, {沢山|takusan} no koto wo {勉強|benkyou} shimashita. {日本|nihon} no {皆さん|minasan} wa totemo {親切|shinsetsu} de {大変|taihen} {お世話|osewa} ni narimashita.",
     "(PersonA + が) (verbて +) いる + {間|あいだ} (+ PersonB + は) ... = throughout the whole time that A does/did ~, B does/did ~\nな-adj. + で = adj. and ..."
 ],
 [
