@@ -811,3 +811,5 @@
 越す kosu
 引っ越す hikkosu
 間に合う ma ni au
+締め切り shimekiri
+長い間 nagaiaida
