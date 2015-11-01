@@ -5425,7 +5425,7 @@ Flashcards.initialize([
 ],
 [
     "Please wait until everyone has finished eating.",
-    "{皆|minna} ga {食べ終わる|tabeowaru} made, {待って|matte} kudasai.",
+    "{皆|min'na} ga {食べ終わる|tabeowaru} made, {待って|matte} kudasai.",
     "verb-stem + {終わる|おわる} = finish doing ~"
 ],
 [
