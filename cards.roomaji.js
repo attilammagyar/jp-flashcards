@@ -2341,7 +2341,7 @@ Flashcards.initialize([
 ],
 [
     "What do (you) do in (your) free time? For example, what are (your) hobbies?",
-    "{暇|hima} na {時|toki} ni wa {何|nani} wo shimasu ka. tatoeba, {ご趣味|goshumi} wa {何|nan} desu ka.",
+    "{暇|hima} na {時|toki} ni wa {何|nani} wo shimasu ka. {例えば|tatoeba}, {ご趣味|goshumi} wa {何|nan} desu ka.",
     ""
 ],
 [
@@ -4911,7 +4911,7 @@ Flashcards.initialize([
 ],
 [
     "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
-    "tatoeba 「{私|watashi} wa {学生|gakusei} desu」 to 「{私|watashi} ga {学生|gakusei} desu」 no {場合|baai} {二つ目|futatsume} no {文章|bunshou} no {意味|imi} wa 「{他|hoka} no {人|hito} wa {学生|gakusei} ja nai」 desu ga, {一番目|ichibanme} no {文章|bunshou} wa 「{他|hoka} no {人|hito} mo {学生|gakusei} ka mo shirenai」 to iu {可能性|kanousei} ga {含まれます|fukumaremasu}.",
+    "{例えば|tatoeba} 「{私|watashi} wa {学生|gakusei} desu」 to 「{私|watashi} ga {学生|gakusei} desu」 no {場合|baai} {二つ目|futatsume} no {文章|bunshou} no {意味|imi} wa 「{他|hoka} no {人|hito} wa {学生|gakusei} ja nai」 desu ga, {一番目|ichibanme} no {文章|bunshou} wa 「{他|hoka} no {人|hito} mo {学生|gakusei} ka mo shirenai」 to iu {可能性|kanousei} ga {含まれます|fukumaremasu}.",
     "と: complete list\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~"
 ],
 [
