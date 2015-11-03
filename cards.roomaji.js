@@ -2981,7 +2981,7 @@ Flashcards.initialize([
 ],
 [
     "Today (I) had other plans.",
-    "{今日|kyou}, {別|betsu} no yotei ga arimashita.",
+    "{今日|kyou}, {別|betsu} no {予定|yotei} ga arimashita.",
     ""
 ],
 [
