@@ -814,3 +814,5 @@
 締め切り shimekiri
 長い間 nagaiaida
 差し上げる sashiageru
+古文 kobun
+市場 ichiba
