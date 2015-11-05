@@ -5436,7 +5436,7 @@ Flashcards.initialize([
     ],
     [
         "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
-        "\u306c\u308c\u3066\u3044\u306a\u3044\u306d\u3002{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c{\u8eca|\u304f\u308b\u307e}\u3067{\u9001\u3063\u3066|\u304a\u304f\u3063\u3066}\u304f\u308c\u305f\u304b\u3089\u3001\u305f\u3059\u304b\u3063\u305f\u3088\u3002",
+        "\u306c\u308c\u3066\u3044\u306a\u3044\u306d\u3002{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c{\u8eca|\u304f\u308b\u307e}\u3067{\u9001\u3063\u3066|\u304a\u304f\u3063\u3066}\u304f\u308c\u305f\u304b\u3089\u3001{\u52a9\u304b\u3063\u305f|\u305f\u3059\u304b\u3063\u305f}\u3088\u3002",
         "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nX \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [

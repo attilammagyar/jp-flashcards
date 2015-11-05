@@ -1532,7 +1532,7 @@ Flashcards.initialize([
 [
     "(My) mother is tall (and) has big eyes.",
     "{母|haha} wa {背|se} ga {高くて|takakute} {目|me} ga {大きい|ookii} desu.",
-    "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
+    "{大きい|おおきい} = physically big, {大きな|おおきな} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
     "That person is famous. That is a famous person.",
@@ -1572,7 +1572,7 @@ Flashcards.initialize([
 [
     "eyes, big, small, round",
     "{目|me}, {大きい|ookii}, {小さい|chiisai}, {丸い||marui}",
-    "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)\n{小さい|chiisai} = い-adj., {小さな|chiisana} = noun modifier, only before nouns"
+    "{大きい|おおきい} = physically big, {大きな|おおきな} = physical or abstract size (noun modifier, only before nouns)\n{小さい|ちいさい} = い-adj., {小さな|ちいさな} = noun modifier, only before nouns"
 ],
 [
     "back/height, high/tall, low/short, average",
@@ -1582,7 +1582,7 @@ Flashcards.initialize([
 [
     "nose, tall/big, small, wide",
     "{鼻|hana}, {高い|takai}, {小さい|chiisai}, {大きい|ookii}",
-    "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)\n{小さい|chiisai} = い-adj., {小さな|chiisana} = noun modifier, only before nouns"
+    "{大きい|おおきい} = physically big, {大きな|おおきな} = physical or abstract size (noun modifier, only before nouns)\n{小さい|ちいさい} = い-adj., {小さな|ちいさな} = noun modifier, only before nouns"
 ],
 [
     "hair, long, short, shoulder-length",
@@ -1707,7 +1707,7 @@ Flashcards.initialize([
 [
     "(I'm) average height and (my) hair is long and brown. (My) eyes are also brown. (My) face is round and (my) nose is big.",
     "{背|se} ga {普通|futsuu} de, {髪|kami} ga {長くて|nagakute} {茶色|chairo} desu. {目|me} mo {茶色|chairo} desu. {顔|kao} ga {丸くて|marukute}, {鼻|hana} ga {大きい|ookii} desu.",
-    "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
+    "{大きい|おおきい} = physically big, {大きな|おおきな} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
     "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
@@ -2187,7 +2187,7 @@ Flashcards.initialize([
 [
     "Roger taught Miki how to do bowling.",
     "_rojaa_ san wa {三木|miki} san ni _booringu_ no {仕方|shikata} wo {教えました|oshiemashita}.",
-    "verb stem + {方|kata} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|kata}"
+    "verb stem + {方|かた} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|かた}"
 ],
 [
     "Ms. Natsuko went to the town to meet Miki.",
@@ -2317,7 +2317,7 @@ Flashcards.initialize([
 [
     "Rie taught Roger how to make sushi.",
     "rie san wa _rojaa_ san ni {寿司|sushi} no {作り方|tsukurikata} wo {教えました|oshiemashita}.",
-    "verb stem + {方|kata} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|kata}"
+    "verb stem + {方|かた} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|かた}"
 ],
 [
     "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
@@ -2487,7 +2487,7 @@ Flashcards.initialize([
 [
     "(I) don't know how to make cakes.",
     "_keeki_ no {作り方|tsukurikata} ga {分かりません|wakarimasen}.",
-    "verb stem + {方|kata} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|kata}"
+    "verb stem + {方|かた} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|かた}"
 ],
 [
     "Miki looks like (she) will eat that sushi, doesn't she?",
@@ -3177,7 +3177,7 @@ Flashcards.initialize([
 [
     "(I) want a big car.",
     "{大きい|ookii} {車|kuruma} ga {欲しい|hoshii} desu.",
-    "noun + が + {欲しい|ほしい} = (I) want a noun\n{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
+    "noun + が + {欲しい|ほしい} = (I) want a noun\n{大きい|おおきい} = physically big, {大きな|おおきな} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
     "(I) haven't eaten breakfast yet. (I) am still eating breakfast. Mr. Yamada is still at the company.",
@@ -3722,7 +3722,7 @@ Flashcards.initialize([
 [
     "Out of Japan's 5 big islands, which is the biggest?",
     "{日本|nihon} no {五つ|itsutsu} {大きな|ookina} {島|shima} no {中|naka} de, dore ga {一番|ichiban} {大きい|ookii} desu ka.",
-    "{大きい|ookii} = physically big, {大きな|ookina} = physical or abstract size (noun modifier, only before nouns)"
+    "{大きい|おおきい} = physically big, {大きな|おおきな} = physical or abstract size (noun modifier, only before nouns)"
 ],
 [
     "Shikoku is bigger than Okinawa.",
@@ -4907,7 +4907,7 @@ Flashcards.initialize([
 [
     "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
     "{片仮名|katakana} de {読み方|yomikata} wo {書いて|kaite} kurete arigatou. dou {致しまして|itashimashite}.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {方|kata} = how to do verb (verb --> noun)\nverbて + くれる = a favor done by equals/subordinates\nX は/が (Y を) verbて くれる = X(out) does ~ for Y(in)"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {方|かた} = how to do verb (verb --> noun)\nverbて + くれる = a favor done by equals/subordinates\nX は/が (Y を) verbて くれる = X(out) does ~ for Y(in)"
 ],
 [
     "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
@@ -5430,7 +5430,7 @@ Flashcards.initialize([
 ],
 [
     "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
-    "nurete inai ne. {友達|tomodachi} ga {車|kuruma} de {送って|okutte} kureta kara, tasukatta yo.",
+    "nurete inai ne. {友達|tomodachi} ga {車|kuruma} de {送って|okutte} kureta kara, {助かった|tasukatta} yo.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nX は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
