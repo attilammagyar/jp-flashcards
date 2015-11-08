@@ -25,9 +25,9 @@ stem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~,
 
 Become
 ======
-い adj. - い + く + なる = become ~
-noun/な adj + に + なる = become ~
-verbう + よう + に + なる = to come to be that ~/to become (able to) ~
+い adj. - い + く + {成る|なる} = become ~
+noun/な adj + に + {成る|なる} = become ~
+verbう + よう + に + {成る|なる} = to come to be that ~/to become (able to) ~
 
 Location
 ========
@@ -90,7 +90,7 @@ verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)
 verbうこと/noun + に + する = (I have decided I will do) ~
 verbうこと/noun + に + した = (I have decided to) ~
 verbうこと/noun + に + して + いる = (I make it a rule to) ~
-verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)
+verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)
 verbうこと + に + なって + いる = rules, customs, how things are supposed to be done
 い-adj. - い + さ = ~ness
 な-adj. + さ = ~ness
@@ -167,7 +167,7 @@ verbう + {時|とき} = when doing ~
 verbう + でしょう/だろう = probably (will) do ~
 verbう + ん + じゃない + でしょう + か = politeness
 verbう + か + も + しれません/しれない = might do ~, possibly (will) do ~
-verbう + よう + に + なる = change in habitual action
+verbう + よう + に + {成る|なる} = change in habitual action
 verbう + こと + が + ある = sometimes/occasionally ~
 
 Stem

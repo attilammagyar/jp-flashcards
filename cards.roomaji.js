@@ -1827,7 +1827,7 @@ Flashcards.initialize([
 [
     "Soon it will be Summer. It will gradually get hotter.",
     "mou {直ぐ|sugu} {夏|natsu} ni narimasu. {段々|dandan} {暑く|atsuku} narimasu.",
-    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
+    "noun/な adj. + に + {成る|なる} = become ~\nい adj. - い + く + {成る|なる} = become ~"
 ],
 [
     "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -1882,17 +1882,17 @@ Flashcards.initialize([
 [
     "6 o'clock has come.",
     "{六時|rokuji} ni narimashita.",
-    "noun/な adj. + に + なる = become ~"
+    "noun/な adj. + に + {成る|なる} = become ~"
 ],
 [
     "(It) gradually gets hotter.",
     "{段々|dandan} {暑く|atsuku} narimasu.",
-    "い adj. - い + く + なる = become ~"
+    "い adj. - い + く + {成る|なる} = become ~"
 ],
 [
     "Miki has got good at bowling.",
     "{三木|miki} san wa _booringu_ ga {上手|jouzu} ni narimashita.",
-    "noun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
+    "noun/な adj. + に + {成る|なる} = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Happy New Year!",
@@ -1902,12 +1902,12 @@ Flashcards.initialize([
 [
     "The weather got cold.",
     "{天気|tenki} ga {寒く|samuku} narimashita.",
-    "い adj. - い + く + なる = become ~"
+    "い adj. - い + く + {成る|なる} = become ~"
 ],
 [
     "If (you) study every day, (your) Japanese will get skilled.",
     "{毎日|mainichi} {勉強|benkyou} suru to {日本語|nihongo} ga {上手|jouzu} ni narimasu.",
-    "verb-A-う + と + verb-B = if A then B\nnoun/な adj. + に + なる = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
+    "verb-A-う + と + verb-B = if A then B\nnoun/な adj. + に + {成る|なる} = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go. {の で}",
@@ -1967,22 +1967,22 @@ Flashcards.initialize([
 [
     "Soon (it) will be spring. (It) will gradually get warm.",
     "mou {直ぐ|sugu} {春|haru} ni narimasu. {段々|dandan} {暖かく|atatakaku} narimasu.",
-    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
+    "noun/な adj. + に + {成る|なる} = become ~\nい adj. - い + く + {成る|なる} = become ~"
 ],
 [
     "Soon (it) will be summer. (It) will gradually get hot.",
     "mou {直ぐ|sugu} {夏|natsu} ni narimasu. {段々|dandan} {暑く|atsuku} narimasu.",
-    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
+    "noun/な adj. + に + {成る|なる} = become ~\nい adj. - い + く + {成る|なる} = become ~"
 ],
 [
     "Soon (it) will be winter. (It) will gradually get cold.",
     "mou {直ぐ|sugu} {冬|fuyu} ni narimasu. {段々|dandan} {寒く|samuku} narimasu.",
-    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
+    "noun/な adj. + に + {成る|なる} = become ~\nい adj. - い + く + {成る|なる} = become ~"
 ],
 [
     "Soon (it) will be autumn. (It) will gradually get cool.",
     "mou {直ぐ|sugu} {秋|aki} ni narimasu. {段々|dandan} {涼しく|suzushiku} narimasu.",
-    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~"
+    "noun/な adj. + に + {成る|なる} = become ~\nい adj. - い + く + {成る|なる} = become ~"
 ],
 [
     "How did (you) go (there)? (I) went by train.",
@@ -2047,7 +2047,7 @@ Flashcards.initialize([
 [
     "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
     "{明日|ashita} wa {寒く|samuku} narimasu. {雨|ame} {後|nochi} {雪|yuki} deshou. {嫌|iya} desu ne.",
-    "い adj. - い + く + なる = become ~"
+    "い adj. - い + く + {成る|なる} = become ~"
 ],
 [
     "New Zealand has four seasons.",
@@ -2062,7 +2062,7 @@ Flashcards.initialize([
 [
     "The Summer is from December to February. (It) gradually gets hot.  {New Zealand}",
     "{夏|natsu} wa {十二月|juunigatsu} kara {二月|nigatsu} made desu. {段々|dandan} {暑く|atsuku} narimasu.",
-    "い adj. - い + く + なる = become ~"
+    "い adj. - い + く + {成る|なる} = become ~"
 ],
 [
     "Autumn is from March. The weather is clear, windy, rainy...  {New Zealand}",
@@ -2132,42 +2132,42 @@ Flashcards.initialize([
 [
     "(I) want to be a doctor.",
     "{医者|isha} ni naritai desu.",
-    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a writer.",
     "{作家|sakka} ni naritai desu.",
-    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a policeman.",
     "{警察官|keisatsukan} ni naritai desu.",
-    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a lawyer.",
     "{弁護士|bengoshi} ni naritai desu.",
-    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be an astronaut.",
     "{宇宙飛行士|uchuuhikoushi} ni naritai desu.",
-    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(I) want to be a bank-worker.",
     "{銀行員|ginkouin} ni naritai desu.",
-    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "When (I) was a child, (I) wanted to be a film star.",
     "{子供|kodomo} no {頃|koro}, {映画|eiga} _sutaa_ ni naritakatta desu.",
-    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~"
 ],
 [
     "When (I) was a child, (I) wanted to be a firefighter.",
     "{子供|kodomo} no {頃|koro}, shouboushi ni naritakatta desu.",
-    "noun/な adj. + に + なる = become ~\nverb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~"
 ],
 [
     "(I) didn't want to drink alcohol.",
@@ -2452,7 +2452,7 @@ Flashcards.initialize([
 [
     "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
     "{子供|kodomo} no {頃|koro}, shouboushi ni naritakatta desu ga, {実|jitsu} wa, _jaanarisuto_ ni narimashita.",
-    "noun/な adj. + に + なる = become ~\nい adj. - い + く + なる = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~"
+    "noun/な adj. + に + {成る|なる} = become ~\nい adj. - い + く + {成る|なる} = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~"
 ],
 [
     "Every day (I) work until late in the evening, but the work is very enjoyable.",
@@ -4327,7 +4327,7 @@ Flashcards.initialize([
 [
     "Tomorrow (it has been arranged for me to) meet Mr. Hondo.",
     "{明日|ashita} hondou san ni {会う|au} koto ni narimashita.",
-    "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
     "In Japan, before getting into the bath, (you're supposed to) wash (yourself).",
@@ -4557,12 +4557,12 @@ Flashcards.initialize([
 [
     "(It has been decided that I) will go on a business trip to Osaka next week.",
     "{来週|raishuu} {大阪|oosaka} ni {出張|shucchou} suru koto ni narimashita.",
-    "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
     "(It has been arranged for me to) travel to England with (my) family. {plain}",
     "{家族|kazoku} to _igirisu_ ni {旅行|ryokou} suru koto ni natta.",
-    "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
     "How many hours does (it) take? How long does (it) take? How long/far is (it)?",
@@ -4642,7 +4642,7 @@ Flashcards.initialize([
 [
     "Why is Miki going to China? Because (it's been arranged for her to) be transferred.",
     "{三木|miki} san wa doushite {中国|chuugoku} ni {行きます|ikimasu} ka. {転勤|tenkin} suru koto ni natta kara desu.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
     "What does Rie think about Mr. Yamada going to China? (It's) a pity, but a good opportunity.",
@@ -4692,7 +4692,7 @@ Flashcards.initialize([
 [
     "Since (I) became an adult, it seems that a lot of things that looked boring as a child, (I) became interested in. Probably because (I) don't have to take exams anymore, right?",
     "{大人|otona} ni natte kara, douyara {子供|kodomo} no {頃|koro} ni wa {詰まらなく|tsumaranaku} {思えた|omoeta} {沢山|takusan} no koto ni {興味|kyoumi} ga {持てる|moteru} you ni narimashita. mou {試験|shiken} wo {受けなくて|ukenakute} mo ii kara deshou ne.",
-    "noun/な adj + に + なる = become ~\nverbて + から = after doing ~, since doing ~\nverbう + よう + に + なる = change in habitual action\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "noun/な adj + に + {成る|なる} = become ~\nverbて + から = after doing ~, since doing ~\nverbう + よう + に + {成る|なる} = change in habitual action\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "The computer acts weird.",
@@ -4712,7 +4712,7 @@ Flashcards.initialize([
 [
     "Sadly, (it has been decided that) Mr. Yamada will transfer to China soon.",
     "{残念|zan'nen} desu ga {山田|yamada} san ha mou {直ぐ|sugu} {中国|chuugoku} ni {転勤|tenkin} suru koto ni narimashita.",
-    "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
     "(I) tried to find another job in Tokyo, but there weren't any.",
@@ -4772,7 +4772,7 @@ Flashcards.initialize([
 [
     "On Thursday it was unexpectedly arranged for me to take part in a judo contest.",
     "{木曜日|mokuyoubi} ni totsuzen {私|watashi} wa juudou no {試合|shiai} ni sanka suru koto ni narimashita.",
-    "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
     "Next week (I) think (I) will be surely free all week. Therefore, (I) think (I) will practice every day for about 1 hour.",
@@ -4787,12 +4787,12 @@ Flashcards.initialize([
 [
     "On Thursday, it was unexpectedly decided for me to go on a business trip to Tokyo.",
     "{木曜日|mokuyoubi} ni totsuzen {私|watashi} wa {東京|toukyou} ni {出張|shucchou} suru koto ni narimashita.",
-    "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
     "On Monday (it was arranged for me to) have a meal with the sales manager.",
     "{月曜日|getsuyoubi} ni eigyou {部長|buchou} to {食事|shokuji} wo suru koto ni narimashita.",
-    "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
     "Before eating a meal, (you're) supposed to wash (your) hands.",
@@ -5261,7 +5261,7 @@ Flashcards.initialize([
 [
     "(We) will go to China next month, but (we) still had lots of things (we) want to do and places (we) want to see, so it's a bit of a shame. But one day (we) want to come to Japan again and see everybody.",
     "{来月|raigetsu} {中国|chuugoku} he {行く|iku} koto ni narimashita ga mada shitai koto ya {見たい|mitai} {所|tokoro} ga atta no de, {少し|sukoshi} {残念|zan'nen} desu. demo, mata itsuka {日本|nihon} ni {来て|kite}, {皆さん|minasan} to {会いたい|aitai} desu.",
-    "verbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)\nverb stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nや: incomplete list\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)\nverb stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nや: incomplete list\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
     "Thank you for everything.",
@@ -5331,7 +5331,7 @@ Flashcards.initialize([
 [
     "(My) friend and (I) have decided to go to Shinjuku tomorrow. {plain}",
     "{明日|ashita}, {友達|tomodachi} to {新宿|shinjuku} he {行く|iku} koto ni natta.",
-    "A と B と C = A, B and C (and nothing else)\nverbうこと + に + なる/なった = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+    "A と B と C = A, B and C (and nothing else)\nverbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
     "(I'm) worried if (I) can make friends.",
@@ -5346,7 +5346,7 @@ Flashcards.initialize([
 [
     "(I've) repaired the computer, so (now it) works. {の で} {plain} (I) don't catch cold since taking to running every morning.",
     "_pasokon_ wo {直した|naoshita} no de {動く|ugoku} you ni natta. {毎朝|maiasa}, {走る|hashiru} you ni natte kara, {風邪|kaze} wo {引きません|hikimasen}.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverbう + よう + に + なる = change in habitual action\nverbて + から = after doing ~, since doing ~"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverbう + よう + に + {成る|なる} = change in habitual action\nverbて + から = after doing ~, since doing ~"
 ],
 [
     "On the way home, it suddenly started to rain. The baby suddenly started crying loudly. {plain}",
@@ -5535,7 +5535,7 @@ Flashcards.initialize([
 ],
 [
     "Yesterday (my) father had slept leaving the TV on.",
-    "{父|chichi} wa, {昨日|kinou}, _terebi_ wo tsuketa mama {寝て|nete} imashita.",
+    "{父|chichi} wa, {昨日|kinou}, _terebi_ wo {点けた|tsuketa} mama {寝て|nete} imashita.",
     "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
@@ -5655,7 +5655,7 @@ Flashcards.initialize([
 ],
 [
     "Should (I) turn off the air conditioner? It's hot, so leave it on. {plain}",
-    "「_eakon_, {消しましょう|keshimashou} ka.」 「{暑い|atsui} kara, tsukete oite.」",
+    "「_eakon_, {消しましょう|keshimashou} ka.」 「{暑い|atsui} kara, {点けて|tsukete} oite.」",
     "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [

@@ -1827,7 +1827,7 @@ Flashcards.initialize([
     [
         "Soon it will be Summer. It will gradually get hotter.",
         "\u3082\u3046{\u76f4\u3050|\u3059\u3050}{\u590f|\u306a\u3064}\u306b\u306a\u308a\u307e\u3059\u3002{\u6bb5\u3005|\u3060\u3093\u3060\u3093}{\u6691\u304f|\u3042\u3064\u304f}\u306a\u308a\u307e\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
     [
         "Tomorrow's weather will probably be cloudy, later (it will) rain.",
@@ -1882,17 +1882,17 @@ Flashcards.initialize([
     [
         "6 o'clock has come.",
         "{\u516d\u6642|\u308d\u304f\u3058}\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
     [
         "(It) gradually gets hotter.",
         "{\u6bb5\u3005|\u3060\u3093\u3060\u3093}{\u6691\u304f|\u3042\u3064\u304f}\u306a\u308a\u307e\u3059\u3002",
-        "\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
     [
         "Miki has got good at bowling.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30dc\u30fc\u30ea\u30f3\u30b0\u304c{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Happy New Year!",
@@ -1902,12 +1902,12 @@ Flashcards.initialize([
     [
         "The weather got cold.",
         "{\u5929\u6c17|\u3066\u3093\u304d}\u304c{\u5bd2\u304f|\u3055\u3080\u304f}\u306a\u308a\u307e\u3057\u305f\u3002",
-        "\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
     [
         "If (you) study every day, (your) Japanese will get skilled.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046}\u3059\u308b\u3068{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054}\u304c{\u4e0a\u624b|\u3058\u3087\u3046\u305a}\u306b\u306a\u308a\u307e\u3059\u3002",
-        "verb-A-\u3046 + \u3068 + verb-B = if A then B\nnoun/\u306a adj. + \u306b + \u306a\u308b = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
+        "verb-A-\u3046 + \u3068 + verb-B = if A then B\nnoun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\n{\u5f97\u610f|\u3068\u304f\u3044}/{\u82e6\u624b|\u306b\u304c\u3066}: talents, academic/professional skills, strong/weak points\n{\u5f97\u610f|\u3068\u304f\u3044} is more modest than {\u4e0a\u624b|\u3058\u3087\u3046\u305a}"
     ],
     [
         "Since (I) saw photos of Japan, (I) got wanting to go. {\u306e \u3067}",
@@ -1967,22 +1967,22 @@ Flashcards.initialize([
     [
         "Soon (it) will be spring. (It) will gradually get warm.",
         "\u3082\u3046{\u76f4\u3050|\u3059\u3050}{\u6625|\u306f\u308b}\u306b\u306a\u308a\u307e\u3059\u3002{\u6bb5\u3005|\u3060\u3093\u3060\u3093}{\u6696\u304b\u304f|\u3042\u305f\u305f\u304b\u304f}\u306a\u308a\u307e\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
     [
         "Soon (it) will be summer. (It) will gradually get hot.",
         "\u3082\u3046{\u76f4\u3050|\u3059\u3050}{\u590f|\u306a\u3064}\u306b\u306a\u308a\u307e\u3059\u3002{\u6bb5\u3005|\u3060\u3093\u3060\u3093}{\u6691\u304f|\u3042\u3064\u304f}\u306a\u308a\u307e\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
     [
         "Soon (it) will be winter. (It) will gradually get cold.",
         "\u3082\u3046{\u76f4\u3050|\u3059\u3050}{\u51ac|\u3075\u3086}\u306b\u306a\u308a\u307e\u3059\u3002{\u6bb5\u3005|\u3060\u3093\u3060\u3093}{\u5bd2\u304f|\u3055\u3080\u304f}\u306a\u308a\u307e\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
     [
         "Soon (it) will be autumn. (It) will gradually get cool.",
         "\u3082\u3046{\u76f4\u3050|\u3059\u3050}{\u79cb|\u3042\u304d}\u306b\u306a\u308a\u307e\u3059\u3002{\u6bb5\u3005|\u3060\u3093\u3060\u3093}{\u6dbc\u3057\u304f|\u3059\u305a\u3057\u304f}\u306a\u308a\u307e\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
     [
         "How did (you) go (there)? (I) went by train.",
@@ -2047,7 +2047,7 @@ Flashcards.initialize([
     [
         "Tomorrow (it) will get cold. (It) will probably rain, later snow. Awful, isn't it?",
         "{\u660e\u65e5|\u3042\u3057\u305f}\u306f{\u5bd2\u304f|\u3055\u3080\u304f}\u306a\u308a\u307e\u3059\u3002{\u96e8|\u3042\u3081}{\u5f8c|\u306e\u3061}{\u96ea|\u3086\u304d}\u3067\u3057\u3087\u3046\u3002{\u5acc|\u3044\u3084}\u3067\u3059\u306d\u3002",
-        "\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
     [
         "New Zealand has four seasons.",
@@ -2062,7 +2062,7 @@ Flashcards.initialize([
     [
         "The Summer is from December to February. (It) gradually gets hot.  {New Zealand}",
         "{\u590f|\u306a\u3064}\u306f{\u5341\u4e8c\u6708|\u3058\u3085\u3046\u306b\u304c\u3064}\u304b\u3089{\u4e8c\u6708|\u306b\u304c\u3064}\u307e\u3067\u3067\u3059\u3002{\u6bb5\u3005|\u3060\u3093\u3060\u3093}{\u6691\u304f|\u3042\u3064\u304f}\u306a\u308a\u307e\u3059\u3002",
-        "\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~"
+        "\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
     [
         "Autumn is from March. The weather is clear, windy, rainy...  {New Zealand}",
@@ -2132,42 +2132,42 @@ Flashcards.initialize([
     [
         "(I) want to be a doctor.",
         "{\u533b\u8005|\u3044\u3057\u3083}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a writer.",
         "{\u4f5c\u5bb6|\u3055\u3063\u304b}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a policeman.",
         "{\u8b66\u5bdf\u5b98|\u3051\u3044\u3055\u3064\u304b\u3093}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a lawyer.",
         "{\u5f01\u8b77\u58eb|\u3079\u3093\u3054\u3057}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be an astronaut.",
         "{\u5b87\u5b99\u98db\u884c\u58eb|\u3046\u3061\u3085\u3046\u3072\u3053\u3046\u3057}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "(I) want to be a bank-worker.",
         "{\u9280\u884c\u54e1|\u304e\u3093\u3053\u3046\u3044\u3093}\u306b\u306a\u308a\u305f\u3044\u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
     ],
     [
         "When (I) was a child, (I) wanted to be a film star.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e{\u9803|\u3053\u308d}\u3001{\u6620\u753b|\u3048\u3044\u304c}\u30b9\u30bf\u30fc\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~"
     ],
     [
         "When (I) was a child, (I) wanted to be a firefighter.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e{\u9803|\u3053\u308d}\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~"
     ],
     [
         "(I) didn't want to drink alcohol.",
@@ -2452,7 +2452,7 @@ Flashcards.initialize([
     [
         "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e{\u9803|\u3053\u308d}\u3001\u3057\u3087\u3046\u307c\u3046\u3057\u306b\u306a\u308a\u305f\u304b\u3063\u305f\u3067\u3059\u304c\u3001{\u5b9f|\u3058\u3064}\u306f\u3001\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "noun/\u306a adj. + \u306b + \u306a\u308b = become ~\n\u3044 adj. - \u3044 + \u304f + \u306a\u308b = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~\nverb stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~"
     ],
     [
         "Every day (I) work until late in the evening, but the work is very enjoyable.",
@@ -4327,7 +4327,7 @@ Flashcards.initialize([
     [
         "Tomorrow (it has been arranged for me to) meet Mr. Hondo.",
         "{\u660e\u65e5|\u3042\u3057\u305f}\u307b\u3093\u3069\u3046\u3055\u3093\u306b{\u4f1a\u3046|\u3042\u3046}\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+        "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
         "In Japan, before getting into the bath, (you're supposed to) wash (yourself).",
@@ -4557,12 +4557,12 @@ Flashcards.initialize([
     [
         "(It has been decided that I) will go on a business trip to Osaka next week.",
         "{\u6765\u9031|\u3089\u3044\u3057\u3085\u3046}{\u5927\u962a|\u304a\u304a\u3055\u304b}\u306b{\u51fa\u5f35|\u3057\u3085\u3063\u3061\u3087\u3046}\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+        "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
         "(It has been arranged for me to) travel to England with (my) family. {plain}",
         "{\u5bb6\u65cf|\u304b\u305e\u304f}\u3068\u30a4\u30ae\u30ea\u30b9\u306b{\u65c5\u884c|\u308a\u3087\u3053\u3046}\u3059\u308b\u3053\u3068\u306b\u306a\u3063\u305f\u3002",
-        "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+        "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
         "How many hours does (it) take? How long does (it) take? How long/far is (it)?",
@@ -4642,7 +4642,7 @@ Flashcards.initialize([
     [
         "Why is Miki going to China? Because (it's been arranged for her to) be transferred.",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u3069\u3046\u3057\u3066{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u304b\u3002{\u8ee2\u52e4|\u3066\u3093\u304d\u3093}\u3059\u308b\u3053\u3068\u306b\u306a\u3063\u305f\u304b\u3089\u3067\u3059\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
         "What does Rie think about Mr. Yamada going to China? (It's) a pity, but a good opportunity.",
@@ -4692,7 +4692,7 @@ Flashcards.initialize([
     [
         "Since (I) became an adult, it seems that a lot of things that looked boring as a child, (I) became interested in. Probably because (I) don't have to take exams anymore, right?",
         "{\u5927\u4eba|\u304a\u3068\u306a}\u306b\u306a\u3063\u3066\u304b\u3089\u3001\u3069\u3046\u3084\u3089{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e{\u9803|\u3053\u308d}\u306b\u306f{\u8a70\u307e\u3089\u306a\u304f|\u3064\u307e\u3089\u306a\u304f}{\u601d\u3048\u305f|\u304a\u3082\u3048\u305f}{\u6ca2\u5c71|\u305f\u304f\u3055\u3093}\u306e\u3053\u3068\u306b{\u8208\u5473|\u304d\u3087\u3046\u307f}\u304c{\u6301\u3066\u308b|\u3082\u3066\u308b}\u3088\u3046\u306b\u306a\u308a\u307e\u3057\u305f\u3002\u3082\u3046{\u8a66\u9a13|\u3057\u3051\u3093}\u3092{\u53d7\u3051\u306a\u304f\u3066|\u3046\u3051\u306a\u304f\u3066}\u3082\u3044\u3044\u304b\u3089\u3067\u3057\u3087\u3046\u306d\u3002",
-        "noun/\u306a adj + \u306b + \u306a\u308b = become ~\nverb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u3046 + \u3088\u3046 + \u306b + \u306a\u308b = change in habitual action\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "noun/\u306a adj + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u3046 + \u3088\u3046 + \u306b + {\u6210\u308b|\u306a\u308b} = change in habitual action\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "The computer acts weird.",
@@ -4712,7 +4712,7 @@ Flashcards.initialize([
     [
         "Sadly, (it has been decided that) Mr. Yamada will transfer to China soon.",
         "{\u6b8b\u5ff5|\u3056\u3093\u306d\u3093}\u3067\u3059\u304c{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u3082\u3046{\u76f4\u3050|\u3059\u3050}{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u306b{\u8ee2\u52e4|\u3066\u3093\u304d\u3093}\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+        "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
         "(I) tried to find another job in Tokyo, but there weren't any.",
@@ -4772,7 +4772,7 @@ Flashcards.initialize([
     [
         "On Thursday it was unexpectedly arranged for me to take part in a judo contest.",
         "{\u6728\u66dc\u65e5|\u3082\u304f\u3088\u3046\u3073}\u306b\u3068\u3064\u305c\u3093{\u79c1|\u308f\u305f\u3057}\u306f\u3058\u3085\u3046\u3069\u3046\u306e{\u8a66\u5408|\u3057\u3042\u3044}\u306b\u3055\u3093\u304b\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+        "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
         "Next week (I) think (I) will be surely free all week. Therefore, (I) think (I) will practice every day for about 1 hour.",
@@ -4787,12 +4787,12 @@ Flashcards.initialize([
     [
         "On Thursday, it was unexpectedly decided for me to go on a business trip to Tokyo.",
         "{\u6728\u66dc\u65e5|\u3082\u304f\u3088\u3046\u3073}\u306b\u3068\u3064\u305c\u3093{\u79c1|\u308f\u305f\u3057}\u306f{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306b{\u51fa\u5f35|\u3057\u3085\u3063\u3061\u3087\u3046}\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+        "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
         "On Monday (it was arranged for me to) have a meal with the sales manager.",
         "{\u6708\u66dc\u65e5|\u3052\u3064\u3088\u3046\u3073}\u306b\u3048\u3044\u304e\u3087\u3046{\u90e8\u9577|\u3076\u3061\u3087\u3046}\u3068{\u98df\u4e8b|\u3057\u3087\u304f\u3058}\u3092\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
-        "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+        "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
         "Before eating a meal, (you're) supposed to wash (your) hands.",
@@ -5267,7 +5267,7 @@ Flashcards.initialize([
     [
         "(We) will go to China next month, but (we) still had lots of things (we) want to do and places (we) want to see, so it's a bit of a shame. But one day (we) want to come to Japan again and see everybody.",
         "{\u6765\u6708|\u3089\u3044\u3052\u3064}{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f}\u3078{\u884c\u304f|\u3044\u304f}\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u304c\u307e\u3060\u3057\u305f\u3044\u3053\u3068\u3084{\u898b\u305f\u3044|\u307f\u305f\u3044}{\u6240|\u3068\u3053\u308d}\u304c\u3042\u3063\u305f\u306e\u3067\u3001{\u5c11\u3057|\u3059\u3053\u3057}{\u6b8b\u5ff5|\u3056\u3093\u306d\u3093}\u3067\u3059\u3002\u3067\u3082\u3001\u307e\u305f\u3044\u3064\u304b{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3001{\u7686\u3055\u3093|\u307f\u306a\u3055\u3093}\u3068{\u4f1a\u3044\u305f\u3044|\u3042\u3044\u305f\u3044}\u3067\u3059\u3002",
-        "verb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u3084: incomplete list\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)\nverb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u3084: incomplete list\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
     ],
     [
         "Thank you for everything.",
@@ -5337,7 +5337,7 @@ Flashcards.initialize([
     [
         "(My) friend and (I) have decided to go to Shinjuku tomorrow. {plain}",
         "{\u660e\u65e5|\u3042\u3057\u305f}\u3001{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3068{\u65b0\u5bbf|\u3057\u3093\u3058\u3085\u304f}\u3078{\u884c\u304f|\u3044\u304f}\u3053\u3068\u306b\u306a\u3063\u305f\u3002",
-        "A \u3068 B \u3068 C = A, B and C (and nothing else)\nverb\u3046\u3053\u3068 + \u306b + \u306a\u308b/\u306a\u3063\u305f = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
+        "A \u3068 B \u3068 C = A, B and C (and nothing else)\nverb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
         "(I'm) worried if (I) can make friends.",
@@ -5352,7 +5352,7 @@ Flashcards.initialize([
     [
         "(I've) repaired the computer, so (now it) works. {\u306e \u3067} {plain} (I) don't catch cold since taking to running every morning.",
         "\u30d1\u30bd\u30b3\u30f3\u3092{\u76f4\u3057\u305f|\u306a\u304a\u3057\u305f}\u306e\u3067{\u52d5\u304f|\u3046\u3054\u304f}\u3088\u3046\u306b\u306a\u3063\u305f\u3002{\u6bce\u671d|\u307e\u3044\u3042\u3055}\u3001{\u8d70\u308b|\u306f\u3057\u308b}\u3088\u3046\u306b\u306a\u3063\u3066\u304b\u3089\u3001{\u98a8\u90aa|\u304b\u305c}\u3092{\u5f15\u304d\u307e\u305b\u3093|\u3072\u304d\u307e\u305b\u3093}\u3002",
-        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb\u3046 + \u3088\u3046 + \u306b + \u306a\u308b = change in habitual action\nverb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067)\nverb\u3046 + \u3088\u3046 + \u306b + {\u6210\u308b|\u306a\u308b} = change in habitual action\nverb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
     ],
     [
         "On the way home, it suddenly started to rain. The baby suddenly started crying loudly. {plain}",
@@ -5541,7 +5541,7 @@ Flashcards.initialize([
     ],
     [
         "Yesterday (my) father had slept leaving the TV on.",
-        "{\u7236|\u3061\u3061}\u306f\u3001{\u6628\u65e5|\u304d\u306e\u3046}\u3001\u30c6\u30ec\u30d3\u3092\u3064\u3051\u305f\u307e\u307e{\u5bdd\u3066|\u306d\u3066}\u3044\u307e\u3057\u305f\u3002",
+        "{\u7236|\u3061\u3061}\u306f\u3001{\u6628\u65e5|\u304d\u306e\u3046}\u3001\u30c6\u30ec\u30d3\u3092{\u70b9\u3051\u305f|\u3064\u3051\u305f}\u307e\u307e{\u5bdd\u3066|\u306d\u3066}\u3044\u307e\u3057\u305f\u3002",
         "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
@@ -5661,7 +5661,7 @@ Flashcards.initialize([
     ],
     [
         "Should (I) turn off the air conditioner? It's hot, so leave it on. {plain}",
-        "\u300c\u30a8\u30a2\u30b3\u30f3\u3001{\u6d88\u3057\u307e\u3057\u3087\u3046|\u3051\u3057\u307e\u3057\u3087\u3046}\u304b\u3002\u300d\u300c{\u6691\u3044|\u3042\u3064\u3044}\u304b\u3089\u3001\u3064\u3051\u3066\u304a\u3044\u3066\u3002\u300d",
+        "\u300c\u30a8\u30a2\u30b3\u30f3\u3001{\u6d88\u3057\u307e\u3057\u3087\u3046|\u3051\u3057\u307e\u3057\u3087\u3046}\u304b\u3002\u300d\u300c{\u6691\u3044|\u3042\u3064\u3044}\u304b\u3089\u3001{\u70b9\u3051\u3066|\u3064\u3051\u3066}\u304a\u3044\u3066\u3002\u300d",
         "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
