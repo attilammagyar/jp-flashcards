@@ -816,3 +816,6 @@
 差し上げる sashiageru
 古文 kobun
 市場 ichiba
+慣れる nareru
+少しずつ sukoshi zutsu
+漸く youyaku
