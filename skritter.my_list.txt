@@ -819,3 +819,5 @@
 慣れる nareru
 少しずつ sukoshi zutsu
 漸く youyaku
+結露 ketsuro
+曇る kumoru
