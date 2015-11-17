@@ -5768,5 +5768,30 @@ Flashcards.initialize([
         "(I) got the policeman at the police box to tell (me) the way.",
         "{\u4ea4\u756a|\u3053\u3046\u3070\u3093}\u3067{\u304a\u5de1\u308a\u3055\u3093|\u304a\u307e\u308f\u308a\u3055\u3093}\u306b{\u9053|\u307f\u3061}\u3092{\u6559\u3048\u3066|\u304a\u3057\u3048\u3066}\u3082\u3089\u3044\u307e\u3057\u305f\u3002",
         "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+    ],
+    [
+        "Mr. Yamada wants to become pretty. {plain}",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u7dba\u9e97|\u304d\u308c\u3044}\u306b\u306a\u308a\u305f\u304c\u3063\u3066\u3044\u308b\u3002",
+        "verb\u305f\u3044 -> verb\u305f\u304c\u308b = someone else wants to do ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+    ],
+    [
+        "Mr. Yamada wants a camera. {plain}",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f\u30ab\u30e1\u30e9\u3092{\u6b32\u3057\u304c\u3063\u3066|\u307b\u3057\u304c\u3063\u3066}\u3044\u308b\u3002",
+        "noun \u304c {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+    ],
+    [
+        "Yamada wants Tanaka to deliver a letter to Natsuko. {plain}",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u7530\u4e2d|\u305f\u306a\u304b}\u3055\u3093\u304b\u3089{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306b{\u624b\u7d19|\u3066\u304c\u307f}\u3092{\u6e21\u3057\u3066|\u308f\u305f\u3057\u3066}{\u6b32\u3057\u304c\u3063\u3066|\u307b\u3057\u304c\u3063\u3066}\u3044\u308b\u3002",
+        "verb\u3066 {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~ to be done for her/him\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+    ],
+    [
+        "Yamada wants Tanaka to ask for her phone number. {plain}",
+        "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u7530\u4e2d|\u305f\u306a\u304b}\u3055\u3093\u304b\u3089{\u5f7c\u5973|\u304b\u306e\u3058\u3087}\u306e{\u96fb\u8a71\u756a\u53f7|\u3067\u3093\u308f\u3070\u3093\u3054\u3046}\u3092{\u805e\u3044\u3066|\u304d\u3044\u3066}{\u6b32\u3057\u304c\u3063\u3066|\u307b\u3057\u304c\u3063\u3066}\u3044\u308b\u3002",
+        "verb\u3066 {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~ to be done for her/him\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+    ],
+    [
+        "Tanaka wants something. {plain}",
+        "{\u7530\u4e2d|\u305f\u306a\u304b}\u3055\u3093\u306f{\u4f55|\u306a\u306b}\u304b\u3092{\u6b32\u3057\u304c\u3063\u3066|\u307b\u3057\u304c\u3063\u3066}\u3044\u308b\u3002",
+        "noun \u304c {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ]
 ])

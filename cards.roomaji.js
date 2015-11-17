@@ -5762,5 +5762,30 @@ Flashcards.initialize([
     "(I) got the policeman at the police box to tell (me) the way.",
     "{交番|kouban} de {お巡りさん|omawarisan} ni {道|michi} wo {教えて|oshiete} moraimashita.",
     "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+],
+[
+    "Mr. Yamada wants to become pretty. {plain}",
+    "{山田|yamada} san wa {綺麗|kirei} ni naritagatte iru.",
+    "verbたい -> verbたがる = someone else wants to do ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+],
+[
+    "Mr. Yamada wants a camera. {plain}",
+    "{山田|yamada} san wa _kamera_ wo {欲しがって|hoshigatte} iru.",
+    "noun が {欲しがる|ほしがる} = someone else wants ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+],
+[
+    "Yamada wants Tanaka to deliver a letter to Natsuko. {plain}",
+    "{山田|yamada} san wa {田中|tanaka} san kara {夏子|natsuko} san ni {手紙|tegami} wo {渡して|watashite} {欲しがって|hoshigatte} iru.",
+    "verbて {欲しがる|ほしがる} = someone else wants ~ to be done for her/him\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+],
+[
+    "Yamada wants Tanaka to ask for her phone number. {plain}",
+    "{山田|yamada} san wa {田中|tanaka} san kara {彼女|kanojo} no {電話番号|denwabangou} wo {聞いて|kiite} {欲しがって|hoshigatte} iru.",
+    "verbて {欲しがる|ほしがる} = someone else wants ~ to be done for her/him\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+],
+[
+    "Tanaka wants something. {plain}",
+    "{田中|tanaka} san wa {何|nani} ka wo {欲しがって|hoshigatte} iru.",
+    "noun が {欲しがる|ほしがる} = someone else wants ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ]
 ])

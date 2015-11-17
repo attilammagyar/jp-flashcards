@@ -104,6 +104,7 @@ verb A (dictionary form) + ため + に + verb B = do verb B in order to verb A
 欲しい
 ===
 noun + が + {欲しい|ほしい} = (I) want a noun
+noun が {欲しがる|ほしがる} = someone else wants ~
 
 未だ, もう
 ======
@@ -186,6 +187,7 @@ verb-stem + {続ける|つづける} = continue doing ~
 ~たい is usually used only in first person or in questions for the second person
 ~たい: may use が instead of を
 ~たい + negative: if topic is not mentioned then は can be used instead of が
+verbたい -> verbたがる = someone else wants to do ~
 
 て-form
 ------
@@ -203,6 +205,8 @@ verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you
 verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)
 (A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)
 verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)
+verbて {欲しがる|ほしがる} = someone else wants ~ to be done for her/him
+
 
 た-form
 -------
