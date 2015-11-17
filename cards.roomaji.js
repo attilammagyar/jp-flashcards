@@ -5755,7 +5755,7 @@ Flashcards.initialize([
 ],
 [
     "When I was a child, (my) father often took (me) to the zoo. {plain}",
-    "{私|watashi} ga {子供|kodomo} no koro, {父|chich} wa yoku {動物園|doubutsuen} ni {連れて|tsurete} itte kureta.",
+    "{私|watashi} ga {子供|kodomo} no koro, {父|chichi} wa yoku {動物園|doubutsuen} ni {連れて|tsurete} itte kureta.",
     "X は/が (Y を) verbて くれる = X(out) does ~ for Y(in)"
 ],
 [
