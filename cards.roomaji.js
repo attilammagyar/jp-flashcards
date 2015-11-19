@@ -4220,7 +4220,7 @@ Flashcards.initialize([
     "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
 ],
 [
-    "Miki likes jazz, so (we) went together to a jazz club (I) like. {plain}",
+    "Miki likes jazz, so (we) went together to a jazz club I like. {plain}",
     "{三木|miki} san wa _jazu_ ga {好き|suki} da kara, {一緒|issho} ni {僕|boku} no {好き|suki} na _jazu kurabu_ ni {行った|itta}.",
     "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],

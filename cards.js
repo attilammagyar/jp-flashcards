@@ -4220,7 +4220,7 @@ Flashcards.initialize([
         "Noun-A \u306e {\u65b9|\u307b\u3046} \u304c (Noun-B \u3088\u308a) X = Noun-A is X'er (than Noun-B, Noun-B \u3088\u308a can be omitted when known)"
     ],
     [
-        "Miki likes jazz, so (we) went together to a jazz club (I) like. {plain}",
+        "Miki likes jazz, so (we) went together to a jazz club I like. {plain}",
         "{\u4e09\u6728|\u307f\u304d}\u3055\u3093\u306f\u30b8\u30e3\u30ba\u304c{\u597d\u304d|\u3059\u304d}\u3060\u304b\u3089\u3001{\u4e00\u7dd2|\u3044\u3063\u3057\u3087}\u306b{\u50d5|\u307c\u304f}\u306e{\u597d\u304d|\u3059\u304d}\u306a\u30b8\u30e3\u30ba\u30fb\u30af\u30e9\u30d6\u306b{\u884c\u3063\u305f|\u3044\u3063\u305f}\u3002",
         "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
