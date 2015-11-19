@@ -5530,7 +5530,7 @@ Flashcards.initialize([
 ],
 [
     "That kid has been playing going up and down the stairs for a while now.",
-    "ano {子供|kodomo} wa, sakki kara {階段|kaidan} wo {上ったり|nobottari} {下りたり|orittari} shite {遊んで|asonde} imasu.",
+    "ano {子供|kodomo} wa, sakki kara {階段|kaidan} wo {上ったり|nobottari} {下りったり|orittari} shite {遊んで|asonde} imasu.",
     "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [

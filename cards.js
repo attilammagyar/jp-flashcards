@@ -5536,7 +5536,7 @@ Flashcards.initialize([
     ],
     [
         "That kid has been playing going up and down the stairs for a while now.",
-        "\u3042\u306e{\u5b50\u4f9b|\u3053\u3069\u3082}\u306f\u3001\u3055\u3063\u304d\u304b\u3089{\u968e\u6bb5|\u304b\u3044\u3060\u3093}\u3092{\u4e0a\u3063\u305f\u308a|\u306e\u307c\u3063\u305f\u308a}{\u4e0b\u308a\u305f\u308a|\u304a\u308a\u3063\u305f\u308a}\u3057\u3066{\u904a\u3093\u3067|\u3042\u305d\u3093\u3067}\u3044\u307e\u3059\u3002",
+        "\u3042\u306e{\u5b50\u4f9b|\u3053\u3069\u3082}\u306f\u3001\u3055\u3063\u304d\u304b\u3089{\u968e\u6bb5|\u304b\u3044\u3060\u3093}\u3092{\u4e0a\u3063\u305f\u308a|\u306e\u307c\u3063\u305f\u308a}{\u4e0b\u308a\u3063\u305f\u308a|\u304a\u308a\u3063\u305f\u308a}\u3057\u3066{\u904a\u3093\u3067|\u3042\u305d\u3093\u3067}\u3044\u307e\u3059\u3002",
         "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
     ],
     [
