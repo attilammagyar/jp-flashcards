@@ -821,3 +821,5 @@
 漸く youyaku
 結露 ketsuro
 曇る kumoru
+入場料 nyuujouryou
+無料 muryou

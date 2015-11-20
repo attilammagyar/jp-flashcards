@@ -5787,5 +5787,45 @@ Flashcards.initialize([
     "Tanaka wants something. {plain}",
     "{田中|tanaka} san wa {何|nani} ka wo {欲しがって|hoshigatte} iru.",
     "noun が {欲しがる|ほしがる} = someone else wants ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+],
+[
+    "(Do you think he) will really eat this type of thing? {plain} Are (you) really going to eat something like this? {plain}",
+    "kon'na no wo {本当|hontou} ni {食べる|taberu} ka? kon'na no wo {本当|hontou} ni {食べる|taberu}?",
+    "か in casual speech = rhetorical question, sarcasm, true or not\nな-adj. + な + の = (the) ~ one/thing, (clause --> generic noun)"
+],
+[
+    "(Do I look like I'd) have something like that? {plain} Do (you) have something like that? {plain}",
+    "son'na no wa, aru ka yo! son'na no wa, aru no?",
+    "か in casual speech = rhetorical question, sarcasm, true or not\nな-adj. + な + の = (the) ~ one/thing, (clause --> generic noun)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "(I) forgot what (I) ate yesterday. {plain}",
+    "{昨日|kinou} {何|nani} wo {食べた|tabeta} ka {忘れた|wasureta}.",
+    "か at end of relative clause = talking about a question"
+],
+[
+    "(I) don't understand what he said. {plain}",
+    "{彼|kare} wa {何|nani} wo {言った|itta} ka {分からない|wakaranai}.",
+    "か at end of relative clause = talking about a question"
+],
+[
+    "Won't (you) tell (me) if the teacher went to school? {plain} (I) don't know whether or not the teacher went to school. {plain} (I) don't know if the teacher went to school or didn't. {plain}",
+    "{先生|sensei} ga {学校|gakkou} ni {行った|itta} ka {教えない|oshienai}? {先生|sensei} ga {学校|gakkou} ni {行った|itta} ka  dou ka {知らない|shiranai}. {先生|sensei} ga {学校|gakkou} ni {行った|itta} ka {行かなかった|ikanakatta} ka {知らない|shiranai}.",
+    "か at end of relative clause = talking about a question\nverbう/いadj/なadj/noun + かどうか = whether/if"
+],
+[
+    "(I) had time and (I) watched a movie. {plain}",
+    "{時間|jikan} ga arimashite, {映画|eiga} wo {観ました|mimashita}.",
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "(I) went to cafeteria, ate lunch, and took a nap. {plain}",
+    "{食堂|shokudou} ni {行って|itte}, {昼ご飯|hirugohan} wo {食べて|tabete}, {昼寝|hirune} wo shita.",
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+],
+[
+    "If you're a student, then the entrance fee is free.",
+    "{学生|gakusei} dattara, {入場料|nyuujouryou} wa {無料|muryou} desu.",
+    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
 ]
 ])

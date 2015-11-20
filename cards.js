@@ -5793,5 +5793,45 @@ Flashcards.initialize([
         "Tanaka wants something. {plain}",
         "{\u7530\u4e2d|\u305f\u306a\u304b}\u3055\u3093\u306f{\u4f55|\u306a\u306b}\u304b\u3092{\u6b32\u3057\u304c\u3063\u3066|\u307b\u3057\u304c\u3063\u3066}\u3044\u308b\u3002",
         "noun \u304c {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+    ],
+    [
+        "(Do you think he) will really eat this type of thing? {plain} Are (you) really going to eat something like this? {plain}",
+        "\u3053\u3093\u306a\u306e\u3092{\u672c\u5f53|\u307b\u3093\u3068\u3046}\u306b{\u98df\u3079\u308b|\u305f\u3079\u308b}\u304b?\u3053\u3093\u306a\u306e\u3092{\u672c\u5f53|\u307b\u3093\u3068\u3046}\u306b{\u98df\u3079\u308b|\u305f\u3079\u308b}?",
+        "\u304b in casual speech = rhetorical question, sarcasm, true or not\n\u306a-adj. + \u306a + \u306e = (the) ~ one/thing, (clause --> generic noun)"
+    ],
+    [
+        "(Do I look like I'd) have something like that? {plain} Do (you) have something like that? {plain}",
+        "\u305d\u3093\u306a\u306e\u306f\u3001\u3042\u308b\u304b\u3088!\u305d\u3093\u306a\u306e\u306f\u3001\u3042\u308b\u306e?",
+        "\u304b in casual speech = rhetorical question, sarcasm, true or not\n\u306a-adj. + \u306a + \u306e = (the) ~ one/thing, (clause --> generic noun)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "(I) forgot what (I) ate yesterday. {plain}",
+        "{\u6628\u65e5|\u304d\u306e\u3046}{\u4f55|\u306a\u306b}\u3092{\u98df\u3079\u305f|\u305f\u3079\u305f}\u304b{\u5fd8\u308c\u305f|\u308f\u3059\u308c\u305f}\u3002",
+        "\u304b at end of relative clause = talking about a question"
+    ],
+    [
+        "(I) don't understand what he said. {plain}",
+        "{\u5f7c|\u304b\u308c}\u306f{\u4f55|\u306a\u306b}\u3092{\u8a00\u3063\u305f|\u3044\u3063\u305f}\u304b{\u5206\u304b\u3089\u306a\u3044|\u308f\u304b\u3089\u306a\u3044}\u3002",
+        "\u304b at end of relative clause = talking about a question"
+    ],
+    [
+        "Won't (you) tell (me) if the teacher went to school? {plain} (I) don't know whether or not the teacher went to school. {plain} (I) don't know if the teacher went to school or didn't. {plain}",
+        "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u304c{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306b{\u884c\u3063\u305f|\u3044\u3063\u305f}\u304b{\u6559\u3048\u306a\u3044|\u304a\u3057\u3048\u306a\u3044}?{\u5148\u751f|\u305b\u3093\u305b\u3044}\u304c{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306b{\u884c\u3063\u305f|\u3044\u3063\u305f}\u304b\u3069\u3046\u304b{\u77e5\u3089\u306a\u3044|\u3057\u3089\u306a\u3044}\u3002{\u5148\u751f|\u305b\u3093\u305b\u3044}\u304c{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u306b{\u884c\u3063\u305f|\u3044\u3063\u305f}\u304b{\u884c\u304b\u306a\u304b\u3063\u305f|\u3044\u304b\u306a\u304b\u3063\u305f}\u304b{\u77e5\u3089\u306a\u3044|\u3057\u3089\u306a\u3044}\u3002",
+        "\u304b at end of relative clause = talking about a question\nverb\u3046/\u3044adj/\u306aadj/noun + \u304b\u3069\u3046\u304b = whether/if"
+    ],
+    [
+        "(I) had time and (I) watched a movie. {plain}",
+        "{\u6642\u9593|\u3058\u304b\u3093}\u304c\u3042\u308a\u307e\u3057\u3066\u3001{\u6620\u753b|\u3048\u3044\u304c}\u3092{\u89b3\u307e\u3057\u305f|\u307f\u307e\u3057\u305f}\u3002",
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    ],
+    [
+        "(I) went to cafeteria, ate lunch, and took a nap. {plain}",
+        "{\u98df\u5802|\u3057\u3087\u304f\u3069\u3046}\u306b{\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001{\u663c\u3054\u98ef|\u3072\u308b\u3054\u306f\u3093}\u3092{\u98df\u3079\u3066|\u305f\u3079\u3066}\u3001{\u663c\u5bdd|\u3072\u308b\u306d}\u3092\u3057\u305f\u3002",
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    ],
+    [
+        "If you're a student, then the entrance fee is free.",
+        "{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u3060\u3063\u305f\u3089\u3001{\u5165\u5834\u6599|\u306b\u3085\u3046\u3058\u3087\u3046\u308a\u3087\u3046}\u306f{\u7121\u6599|\u3080\u308a\u3087\u3046}\u3067\u3059\u3002",
+        "(\u3082\u3057 +) ~\u305f + \u3089 = if/when ~, (then) ~ (\u3082\u3057 = if)"
     ]
 ])

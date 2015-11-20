@@ -11,6 +11,8 @@ A や B や C など = A, B, C, etc.
 の at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)
 とか links representative examples of a class (A and B, and other things)
 {何で|なんで}: colloquial "why", {何|なに}で: by what, with what?
+か in casual speech = rhetorical question, sarcasm, true or not
+か at end of relative clause = talking about a question
 
 Adjectives
 ==========

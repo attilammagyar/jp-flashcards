@@ -4,11 +4,12 @@ i=0
 w=""
 g=""
 rm lyrics.txt
-ls -1 ?.wav ??.wav ???.wav \
-    | sort -n \
+ls -1 ?????.wav \
+    | sort \
     | while read
         do
             n=$(echo "$REPLY" | cut -d. -f1)
+            p=$(echo "$n" | sed "s/^0*//")
             w="$w$n.wav $n.wav $n.wav "
             i=$(($i+1))
             grep "^$n[.] " kanji.txt >>lyrics.txt
