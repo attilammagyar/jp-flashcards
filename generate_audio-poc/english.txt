@@ -153,3 +153,13 @@
 153. Yamada wants Tanaka to deliver a letter to Natsuko. (plain)
 154. Yamada wants Tanaka to ask for her phone number. (plain)
 155. Tanaka wants something. (plain)
+156. (Do you think he) will really eat this type of thing? (plain) Are (you) really going to eat something like this? (plain)
+157. (Do I look like I'd) have something like that? (plain) Do (you) have something like that? (plain)
+158. (I) forgot what (I) ate yesterday. (plain)
+159. (I) don't understand what he said. (plain)
+160. Won't (you) tell (me) if the teacher went to school? (plain) (I) don't know whether or not the teacher went to school. (plain) (I) don't know if the teacher went to school or didn't. (plain)
+161. (I) had time and (I) watched a movie. (plain)
+162. (I) went to cafeteria, ate lunch, and took a nap. (plain)
+163. If you're a student, then the entrance fee is free.
+164. It probably depends on who you ask.
+165. We should not take advantage of the generosity of a friend. (plain)

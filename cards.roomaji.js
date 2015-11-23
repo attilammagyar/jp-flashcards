@@ -5830,7 +5830,12 @@ Flashcards.initialize([
 ],
 [
     "It probably depends on who you ask.",
-    "{誰|dare} ni {質問shitsumon} suru ka ni yoru deshou ne.",
+    "{誰|dare} ni {質問|shitsumon} suru ka ni yoru deshou ne.",
     "か at end of clause = talking about a question"
+],
+[
+    "We should not take advantage of the generosity of a friend. {plain}",
+    "{私達|watashitachi} wa {友人|yuujin} no {寛大さ|kandaisa} ni {付け込んで|tsukekonde} wa ikenai.",
+    "verbて + は + いけません = doing verb is not allowed"
 ]
 ])

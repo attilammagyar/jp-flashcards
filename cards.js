@@ -5836,7 +5836,12 @@ Flashcards.initialize([
     ],
     [
         "It probably depends on who you ask.",
-        "{\u8ab0|\u3060\u308c}\u306b{\u8cea\u554f\u3057\u3064\u3082\u3093}\u3059\u308b\u304b\u306b\u3088\u308b\u3067\u3057\u3087\u3046\u306d\u3002",
+        "{\u8ab0|\u3060\u308c}\u306b{\u8cea\u554f|\u3057\u3064\u3082\u3093}\u3059\u308b\u304b\u306b\u3088\u308b\u3067\u3057\u3087\u3046\u306d\u3002",
         "\u304b at end of clause = talking about a question"
+    ],
+    [
+        "We should not take advantage of the generosity of a friend. {plain}",
+        "{\u79c1\u9054|\u308f\u305f\u3057\u305f\u3061}\u306f{\u53cb\u4eba|\u3086\u3046\u3058\u3093}\u306e{\u5bdb\u5927\u3055|\u304b\u3093\u3060\u3044\u3055}\u306b{\u4ed8\u3051\u8fbc\u3093\u3067|\u3064\u3051\u3053\u3093\u3067}\u306f\u3044\u3051\u306a\u3044\u3002",
+        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
     ]
 ])
