@@ -2166,7 +2166,7 @@ Flashcards.initialize([
 ],
 [
     "When (I) was a child, (I) wanted to be a firefighter.",
-    "{子供|kodomo} no {頃|koro}, shouboushi ni naritakatta desu.",
+    "{子供|kodomo} no {頃|koro}, {消防士|shouboushi} ni naritakatta desu.",
     "noun/な adj. + に + {成る|なる} = become ~\nverb stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~"
 ],
 [
@@ -2231,7 +2231,7 @@ Flashcards.initialize([
 ],
 [
     "(My) mom's cooking is the most delicious in the world.",
-    "{母|haha} no {料理|ryouri} wa sekai {一|ichi} {美味しい|oishii} desu.",
+    "{母|haha} no {料理|ryouri} wa {世界|sekai} {一|ichi} {美味しい|oishii} desu.",
     ""
 ],
 [
@@ -2246,12 +2246,12 @@ Flashcards.initialize([
 ],
 [
     "(There) are (more than) 600 channels. I like the weather forecast. Let's look at the world weather. Are (you) serious?",
-    "{六百|roppyaku} _chan__neru_ mo arimasu. {私|watashi} wa {天気予報|tenkiyohou} ga {好き|suki} desu. sekai no {天気|tenki} wo {見ましょう|mimashou}. {本気|honki} desu ka.",
+    "{六百|roppyaku} _chan__neru_ mo arimasu. {私|watashi} wa {天気予報|tenkiyohou} ga {好き|suki} desu. {世界|sekai} no {天気|tenki} wo {見ましょう|mimashou}. {本気|honki} desu ka.",
     ""
 ],
 [
     "1 minute is 60 seconds.",
-    "{一分|ippun} wa {六十|rokujuu} byou desu.",
+    "{一分|ippun} wa {六十|rokujuu} {秒|byou} desu.",
     ""
 ],
 [
@@ -2321,7 +2321,7 @@ Flashcards.initialize([
 ],
 [
     "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
-    "{私|watashi} wa {夏子|natsuko} san to _resutoran_ he washoku wo {食べ|tabe} ni {行きました|ikimashita}.",
+    "{私|watashi} wa {夏子|natsuko} san to _resutoran_ he {和食|washoku} wo {食べ|tabe} ni {行きました|ikimashita}.",
     "へ = to, towards, pronounced as え\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
@@ -2451,7 +2451,7 @@ Flashcards.initialize([
 ],
 [
     "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
-    "{子供|kodomo} no {頃|koro}, shouboushi ni naritakatta desu ga, {実|jitsu} wa, _jaanarisuto_ ni narimashita.",
+    "{子供|kodomo} no {頃|koro}, {消防士|shouboushi} ni naritakatta desu ga, {実|jitsu} wa, _jaanarisuto_ ni narimashita.",
     "noun/な adj. + に + {成る|なる} = become ~\nい adj. - い + く + {成る|なる} = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~"
 ],
 [
@@ -2941,7 +2941,7 @@ Flashcards.initialize([
 ],
 [
     "(So) in the end, (it's) a search for guys?",
-    "kekkyoku {男|otoko} wo {探し|sagashi} desu ka.",
+    "{結局|kekkyoku} {男|otoko} wo {探し|sagashi} desu ka.",
     ""
 ],
 [
@@ -5801,17 +5801,17 @@ Flashcards.initialize([
 [
     "(I) forgot what (I) ate yesterday. {plain}",
     "{昨日|kinou} {何|nani} wo {食べた|tabeta} ka {忘れた|wasureta}.",
-    "か at end of relative clause = talking about a question"
+    "か at end of clause = talking about a question"
 ],
 [
     "(I) don't understand what he said. {plain}",
     "{彼|kare} wa {何|nani} wo {言った|itta} ka {分からない|wakaranai}.",
-    "か at end of relative clause = talking about a question"
+    "か at end of clause = talking about a question"
 ],
 [
     "Won't (you) tell (me) if the teacher went to school? {plain} (I) don't know whether or not the teacher went to school. {plain} (I) don't know if the teacher went to school or didn't. {plain}",
     "{先生|sensei} ga {学校|gakkou} ni {行った|itta} ka {教えない|oshienai}? {先生|sensei} ga {学校|gakkou} ni {行った|itta} ka  dou ka {知らない|shiranai}. {先生|sensei} ga {学校|gakkou} ni {行った|itta} ka {行かなかった|ikanakatta} ka {知らない|shiranai}.",
-    "か at end of relative clause = talking about a question\nverbう/いadj/なadj/noun + かどうか = whether/if"
+    "か at end of clause = talking about a question\nverbう/いadj/なadj/noun + かどうか = whether/if"
 ],
 [
     "(I) had time and (I) watched a movie. {plain}",
@@ -5827,5 +5827,10 @@ Flashcards.initialize([
     "If you're a student, then the entrance fee is free.",
     "{学生|gakusei} dattara, {入場料|nyuujouryou} wa {無料|muryou} desu.",
     "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+],
+[
+    "It probably depends on who you ask.",
+    "{誰|dare} ni {質問shitsumon} suru ka ni yoru deshou ne.",
+    "か at end of clause = talking about a question"
 ]
 ])
