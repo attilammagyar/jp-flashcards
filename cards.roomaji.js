@@ -2356,7 +2356,7 @@ Flashcards.initialize([
 ],
 [
     "(I) always drive in (my) free time. Almost every day, (I) go for a drive after work.",
-    "{暇|hima} na {時|toki} ni wa {何時も|itsumo} _doraibu_ shimasu. hotondo {毎日|mainichi}, {仕事|shigoto} no {後|ato} ni _doraibu_ ni {行きます|ikimasu}.",
+    "{暇|hima} na {時|toki} ni wa {何時も|itsumo} _doraibu_ shimasu. {殆ど|hotondo} {毎日|mainichi}, {仕事|shigoto} no {後|ato} ni _doraibu_ ni {行きます|ikimasu}.",
     ""
 ],
 [
