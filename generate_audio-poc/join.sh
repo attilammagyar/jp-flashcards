@@ -8,9 +8,9 @@ ls -1 ?????.wav \
     | sort \
     | while read
         do
-            n=$(echo "$REPLY" | cut -d. -f1)
-            p=$(echo "$n" | sed "s/^0*//")
-            w="$w$n.wav $n.wav $n.wav "
+            p=$(echo "$REPLY" | cut -d. -f1)
+            n=$(echo "$p" | sed "s/^0*//")
+            w="$w$p.wav $p.wav $p.wav "
             i=$(($i+1))
             grep "^$n[.] " kanji.txt >>lyrics.txt
             grep "^$n[.] " kana.txt >>lyrics.txt
