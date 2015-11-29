@@ -262,7 +262,7 @@ Flashcards.initialize([
 [
     "(I) like dogs but (I) hate that dog so much!",
     "{犬|inu} wa {好き|suki} desu kedo, ano {犬|inu} wa {大嫌い|daikirai} desu.",
-    ""
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Tonight (it's) quiet and warm.",
@@ -347,7 +347,7 @@ Flashcards.initialize([
 [
     "Sometimes (I) play golf with (my) colleagues, but usually (I) chill out with (my) family at home.",
     "{時々|tokidoki} {事務所|jimusho} no {人|hito} to _gorufu_ wo shimasu ga {大抵|taitei} {家族|kazokoku} to {家|uchi} de _gorogoro_ shimasu.",
-    ""
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "I lost the game.",
@@ -542,12 +542,12 @@ Flashcards.initialize([
 [
     "On the second floor there is nothing.",
     "{二階|nikai} ni {何|nani} mo arimasen.",
-    ""
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
 ],
 [
     "There is no one at home.",
     "{家|uchi} ni {誰|dare} mo imasen.",
-    ""
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
 ],
 [
     "Is (your) father in that office over there?",
@@ -932,27 +932,27 @@ Flashcards.initialize([
 [
     "Is there anything on the second floor?",
     "{二階|nikai} ni {何|nani} ka arimasu ka.",
-    ""
+    "{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
 ],
 [
     "Is anyone at home? Yes, there is somebody.",
     "{家|uchi} ni {誰|dare} ka imasu ka. hai, {誰|dare} ka imasu.",
-    ""
+    "{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
 ],
 [
     "There's nobody at home.",
     "{家|uchi} ni {誰|dare} mo imasen.",
-    ""
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
 ],
 [
     "There's nothing on the second floor.",
     "{二階|nikai} ni {何|nani} mo arimasen.",
-    ""
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
 ],
 [
     "There's nothing on the first floor.",
     "{一階|ikkai} ni {何|nani} mo arimasen.",
-    ""
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
 ],
 [
     "The doll is 6800 yen.",
@@ -1042,22 +1042,22 @@ Flashcards.initialize([
 [
     "There's someone in the house.",
     "{家|uchi} ni {誰|dare} ka imasu.",
-    ""
+    "{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
 ],
 [
     "There's no one in the house.",
     "{家|uchi} ni {誰|dare} mo imasen.",
-    ""
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
 ],
 [
     "Is there anything on the 3rd floor?",
     "{三階|sankai} ni {何|nani} ka arimasu ka.",
-    ""
+    "{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
 ],
 [
     "No, there isn't anything.",
     "iie, {何|nani} mo arimasen.",
-    ""
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
 ],
 [
     "Are (you) free tomorrow? Umm, tomorrow also, (I) have a little business to attend to.",
@@ -1332,7 +1332,7 @@ Flashcards.initialize([
 [
     "Tomorrow, won't (we) go somewhere together? Yes, where shall (we) go?",
     "{明日|ashita} {何処|doko} ka {一緒|issho} ni {行きません|ikimasen} ka. hai, {何処|doko} ni {行きましょう|ikimashou} ka.",
-    ""
+    "{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
 ],
 [
     "(I) ate breakfast.",
@@ -1497,7 +1497,7 @@ Flashcards.initialize([
 [
     "She is very kind but a bit serious.",
     "{彼女|kanojo} wa totemo {優しい|yasashii} desu ga {少し|sukoshi} {真面目|majime} desu.",
-    ""
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Tokyo is a big and busy place.",
@@ -1627,12 +1627,12 @@ Flashcards.initialize([
 [
     "He is serious but kind.",
     "{彼|kare} wa {真面目|majime} desu ga {優しい|yasashii} desu.",
-    ""
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "(I'm) poor at sports, but (I'm) goot at origami.",
     "_supootsu_ ga {下手|heta} desu ga {折り紙|origami} wa {上手|jouzu} desu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "I think he's famous.",
@@ -1712,7 +1712,7 @@ Flashcards.initialize([
 [
     "I'm a little quiet/gentle but kind and cheerful I think. (I) like rock and metal, but (I) don't like sports very much.",
     "{私|watashi} wa {少し|sukoshi} {大人しい|otonashii} desu ga {優しくて|yasashikute} {明るい|akarui} to {思います|omoimasu}. _rokku_ to _metaru_ ga {好き|suki} desu ga _supootsu_ ga {余り|amari} {好き|suki} deha arimasen.",
-    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc."
+    "と: complete list\nや: incomplete list\nA と B と C = A, B and C (and nothing else)\nA や B や C など = A, B, C, etc.\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "I don't think (she) is especially shy.",
@@ -1727,12 +1727,12 @@ Flashcards.initialize([
 [
     "That person is serious but kind.",
     "ano {人|hito} wa {真面目|majime} desu ga {優しい|yasashii} desu.",
-    ""
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "I am poor at sports but good at origami.",
     "{私|watashi} wa _supootsu_ ga {下手|heta} desu ga {折り紙|origami} wa {上手|jouzu} desu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "(It) was wonderful and interesting.",
@@ -1752,7 +1752,7 @@ Flashcards.initialize([
 [
     "The film was interesting but a bit long.",
     "{映画|eiga} wa {面白かった|omoshirokatta} desu ga chotto {長かった|nagakatta} desu.",
-    ""
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "This book was boring and disagreeable.",
@@ -1912,7 +1912,7 @@ Flashcards.initialize([
 [
     "Since (I) saw photos of Japan, (I) got wanting to go. {の で}",
     "{日本|ni hon} no {写真|shashin} wo {見た|mita} no de, {行きたく|ikitaku} narimashita.",
-    "~たい is usually used only in first person or in questions for the second person\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+    "~たい is usually used only in first person or in questions for the second person\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
 ],
 [
     "(I'm) full.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
     "{大阪|oosaka} ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. {大阪|oosaka} wa {素晴らしい|subarashii} {所|tokoro} desu ga {仕事|shigoto} wa {詰まらなかった|tsumaranakatta} desu.",
-    "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\n{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location"
+    "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\n{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -2032,7 +2032,7 @@ Flashcards.initialize([
 [
     "How was the weather? Soon (it) will be spring, but (it) was not especially warm.",
     "{お天気|otenki} wa dou deshita ka. mou {直ぐ|sugu} {春|haru} ni narimasu ga son'na ni {暖かくなかった|atatakakunakatta} desu.",
-    "くなかった = past negative of い adj."
+    "くなかった = past negative of い adj.\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "On Thursday, (it) snowed all day. (It) was unpleasant.",
@@ -2107,7 +2107,7 @@ Flashcards.initialize([
 [
     "(I) had a headache last night. (I) didn't eat anything.",
     "{昨夜|yuube} {頭|atama} ga {痛かった|itakatta} desu. {何|nani} mo {食べません|tabemasen} deshita.",
-    ""
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
 ],
 [
     "Miki went to the cinema with Natsuko.",
@@ -2362,7 +2362,7 @@ Flashcards.initialize([
 [
     "(I) often go till Mt. Fuji, but occasionally (I) also go to Izu, you know.",
     "yoku fujisan made {行きます|ikimasu} kedo, {偶|tama} ni wa izu ni mo {行きます|ikimasu} yo.",
-    ""
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "I love Izu, and (I'm) also interested in cars.",
@@ -2392,7 +2392,7 @@ Flashcards.initialize([
 [
     "(I) hate tennis the most, but baseball is the most boring.",
     "_tenisu_ ga {一番|ichiban} {嫌い|kirai} desu ga yakyuu wa {一番|ichiban} {詰まらない|tsumaranai} desu.",
-    ""
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Hello. {Phone.} Excuse me for interrupting. {Entering workroom, end of phone call.} Excuse me for interrupting. {Leaving room.}",
@@ -2452,17 +2452,17 @@ Flashcards.initialize([
 [
     "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
     "{子供|kodomo} no {頃|koro}, {消防士|shouboushi} ni naritakatta desu ga, {実|jitsu} wa, _jaanarisuto_ ni narimashita.",
-    "noun/な adj. + に + {成る|なる} = become ~\nい adj. - い + く + {成る|なる} = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~"
+    "noun/な adj. + に + {成る|なる} = become ~\nい adj. - い + く + {成る|なる} = become ~\nverb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Every day (I) work until late in the evening, but the work is very enjoyable.",
     "{毎日|mainichi} {夜|yoru} {遅く|osoku} made {働きます|hatarakimasu} ga {仕事|shigoto} wa totemo {楽しい|tanoshii} desu.",
-    ""
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "(I) frequently do my work at home while having a meal, but it can't be helped.",
     "{度々|tabitabi} {家|uchi} de {食事|shokuji} wo shinagara {仕事|shigoto} wo shimasu ga {仕方|shikata} ga arimasen.",
-    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+    "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "(I) want to work in America in the future.",
@@ -2472,7 +2472,7 @@ Flashcards.initialize([
 [
     "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
     "_amerika_ no {生活|seikatsu} wa {面白そう|omoshirosou} desu ga {東京|toukyou} no {生活|seikatsu} ga {一番|ichiban} {好き|suki} desu.",
-    "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
@@ -2502,7 +2502,7 @@ Flashcards.initialize([
 [
     "Because (I) liked shopping very much, (I) always went to shopping to the town. {の で}",
     "{買い物|kaimono} ga totemo {好き|suki} deshita no de, {何時も|itsumo} {町|machi} ni {買い物|kaimono} ni {行きました|ikimashita}.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
 ],
 [
     "Please eat (your) breakfast.",
@@ -3277,7 +3277,7 @@ Flashcards.initialize([
 [
     "When do (you) do (your) homework? (I) do a little every day, but this week, (I) haven't done (it) yet.",
     "{何時|itsu} {宿題|shukudai} wo shimasu ka. {毎日|mainichi} {少し|sukoshi} shite imasu ga {今週|konshuu} wa {未だ|mada} shite imasen.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "(I) want (my) older sister to do (my) homework. No way! Try to do (it) on your own please.",
@@ -3327,7 +3327,7 @@ Flashcards.initialize([
 [
     "That teacher's class is easy and not something of a challenge.",
     "ano {先生|sensei} no {授業|jugyou} wa {簡単|kantan} de {何|nani} ka {物|mono} {足りない|tarinai} desu.",
-    "な-adj. + で = adj. and ...\n{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
+    "な-adj. + で = adj. and ...\n{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
 ],
 [
     "(It) wasn't quite enough. Let's eat another (piece of) dessert!",
@@ -3337,12 +3337,12 @@ Flashcards.initialize([
 [
     "His pictures are nice, but (there's) something missing.",
     "{彼|kare} no {絵|e} wa {奇麗|kirei} desu ga, {何|nani} ka {物|mono} {足りない|tarinai} desu.",
-    "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
+    "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
 ],
 [
     "There's something missing (from my) life right now.",
     "{今|ima} no {生活|seikatsu} wa {何|nani} ka {物|mono} {足りない|tarinai} desu.",
-    "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something"
+    "{物|もの}{足りない|たりない}, {物|もの}{足りません|たりません} = be not enough, be not much of a challenge, be missing something\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
 ],
 [
     "That exam was easy, wasn't it? Anyway, (it) wasn't enough.",
@@ -3372,7 +3372,7 @@ Flashcards.initialize([
 [
     "(I) have an interest in South America so (I) want to go. {の で}",
     "{南|minami} _amerika_ ni {興味|kyoumi} ga aru no de {行きたい|ikitai} desu.",
-    "verb stem + たい = want to ~\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+    "verb stem + たい = want to ~\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
 ],
 [
     "(I) am learning Japanese therefore (I) have come to Japan. {から}",
@@ -3412,7 +3412,7 @@ Flashcards.initialize([
 [
     "Yuki is good at studying Maths but bad at English.",
     "yuki san wa {数学|suugaku} wo {勉強|benkyou} suru {事|koto} ga {得意|tokui} desu ga {英語|eigo} ga {苦手|nigate} desu.",
-    "verbう + こと = doing ~ (nominalize)\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
+    "verbう + こと = doing ~ (nominalize)\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Speaking with Japanese people is interesting.",
@@ -3507,7 +3507,7 @@ Flashcards.initialize([
 [
     "(I'll) go to Japan so (I) study Japanese every day. {の で}",
     "{日本|nihon} ni {行く|iku} no de {毎日|mainichi} {日本語|nihongo} wo {勉強|benkyou} shimasu.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
 ],
 [
     "The teacher is kind so (I) like English. {から}",
@@ -3517,7 +3517,7 @@ Flashcards.initialize([
 [
     "Miki is beautiful so Roger likes (her). {の で}",
     "{三木|miki} san wa {奇麗|kirei} na no de _rojaa_ san wa {好き|suki} desu.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
 ],
 [
     "(I) clean up the house every day so (it's) always clean. {から}",
@@ -3527,7 +3527,7 @@ Flashcards.initialize([
 [
     "Miki is a skillful teacher so (her) classes are enjoyable. {の で}",
     "{三木|miki} san wa {上手|jouzu} na {先生|sensei} na no de _kurasu_ ga {楽しい|tanoshii} desu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
 ],
 [
     "(My) parents will come to Japan tomorrow so (I) want to clean (my) apartment. {から}",
@@ -3642,7 +3642,7 @@ Flashcards.initialize([
 [
     "(It's) strange but I can somehow understand.",
     "{可笑しい|okashii} desu kedo, {私|watashi} wa {何となく|nantonaku} {理解|rikai} dekimasu.",
-    "noun + できる = can (do) noun (or request, request permission)"
+    "noun + できる = can (do) noun (or request, request permission)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "The zookeeper caught (it). Poor penguin.",
@@ -3682,12 +3682,12 @@ Flashcards.initialize([
 [
     "I'm vegetarian so (I) can't eat meat. {の で} But fish is OK. (Because I) can eat (that).",
     "{僕|boku} wa _bejitarian_ na no de {肉|niku} wo {食べること|taberukoto} ga dekimasen. demo {魚|sakana} wa {大丈夫|daijoubu} desu. {食べること|taberukoto} ga dekiru n desu.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "Next year (I) want to go to South America so (I'm) learning Spanish now. {の で}",
     "{来年|rainen} {南|minami} _amerika_ ni {行きたい|ikitai} no de {今|ima} _supein_ {語|go} wo {習って|naratte} imasu.",
-    "verb stem + たい = want to ~ (verb --> い adj.)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+    "verb stem + たい = want to ~ (verb --> い adj.)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
 ],
 [
     "(I'm) not very good at speaking Spanish yet but (I) think that speaking with South American people will be very interesting.",
@@ -3697,7 +3697,7 @@ Flashcards.initialize([
 [
     "(I) also like Spanish food very much but (I) can't make (it).",
     "_supein_ no {料理|ryouri} mo totemo {好き|suki} desu ga {作ること|tsukurukoto} wa dekimasen.",
-    "noun + できる = can (do) noun (or request, request permission)"
+    "noun + できる = can (do) noun (or request, request permission)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Tonight (I) plan to meet a friend in town and eat Spanish food in a tasty restaurant.",
@@ -3772,7 +3772,7 @@ Flashcards.initialize([
 [
     "(I) also like Japanese food very much, but (I) can't make (it).",
     "{日本|nihon} no {料理|ryouri} mo totemo {好き|suki} desu ga {作ること|tsukurukoto} wa dekimasen.",
-    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "(I) think Roger doesn't like sushi very much. Because (he) didn't eat (it) only a little. {から}",
@@ -3817,17 +3817,17 @@ Flashcards.initialize([
 [
     "(I) am off work because (I'm) sick. {から, の で}",
     "{病気|byouki} da kara {仕事|shigoto} wo {休んで|yasunde} imasu. {病気|byouki} na no de {仕事|shigoto} wo {休んで|yasunde} imasu.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Roger is good at playing tennis because (he) practices every day. {の で}",
     "_rojaa_ san wa {毎日|mainichi} {練習|renshuu} wo suru no de _tenisu_ wo suru {事|koto} ga {上手|jouzu} desu.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverbう + こと = doing ~ (nominalize)"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverbう + こと = doing ~ (nominalize)"
 ],
 [
     "(I) came to Japan because (I) want to study Japanese. {の で}",
     "{日本語|nihongo} wo {勉強|benkyou} shitai no de {日本|nihon} ni {来ました|kimashita}.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n~たい is usually used only in first person or in questions for the second person"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Pardon. {\"Leave me alone\", \"Let's change topic\", ...}",
@@ -3842,7 +3842,7 @@ Flashcards.initialize([
 [
     "You're taller than the previous person, but the truth is, (I) want 180 cm.",
     "{貴方|anata} wa {前|mae} no {人|hito} yori {背|se} ga {高い|takai} desu kedo, {本当|hontou} wa {百八十センチ|hyakuhachijuっ_senchi_} {欲しい|hoshii} desu.",
-    "A は Bより X = Bより A は X = A is X'er than B\nnoun + が + {欲しい|ほしい} = (I) want a noun"
+    "A は Bより X = Bより A は X = A is X'er than B\nnoun + が + {欲しい|ほしい} = (I) want a noun\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "How many centimeters tall (are you)?",
@@ -4117,7 +4117,7 @@ Flashcards.initialize([
 [
     "When (I) went to the school, no one was there. {plain}",
     "{学校|gakkou} ni {行った|itta} {時|toki} ni {誰|dare} mo inakatta.",
-    "verbた + {時|とき} = when did/have done ~"
+    "verbた + {時|とき} = when did/have done ~\n{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
 ],
 [
     "When (I) looked at the chat, (it) was already late. {plain}",
@@ -4307,7 +4307,7 @@ Flashcards.initialize([
 [
     "Today is fine but tomorrow (it) might rain.",
     "{今日|kyou} wa {晴れ|hare} desu ga {明日|ashita} wa {雨|ame} ga {降る|furu} ka mo shiremasen.",
-    "verbう + か + も + しれません/しれない = might do ~, possibly (will) do ~"
+    "verbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Isn't it probable that Mr. Hondo will come to the party? (Won't Mr. Hondo probably come to the party?) {polite}",
@@ -4472,7 +4472,7 @@ Flashcards.initialize([
 [
     "Anybody can do (it).",
     "{誰|dare} de mo dekimasu.",
-    "noun + できる = can (do) noun (or request, request permission)"
+    "noun + できる = can (do) noun (or request, request permission)\n{誰でも|だれでも} = anybody, {何でも|なんでも} = anything, {何時でも|いつでも} = anytime, {何処でも|どこでも} = anywhere, どれでも = whichever"
 ],
 [
     "(I) experienced (working as a) volunteer in the hospital last year. {plain}",
@@ -4497,12 +4497,12 @@ Flashcards.initialize([
 [
     "What kind of person is good? Anyone is okay.",
     "don'na {人|hito} ga ii desu ka. {誰|dare} de mo ii desu.",
-    ""
+    "{誰でも|だれでも} = anybody, {何でも|なんでも} = anything, {何時でも|いつでも} = anytime, {何処でも|どこでも} = anywhere, どれでも = whichever"
 ],
 [
     "Anyone can understand such a problem.",
     "Son'na {問題|mondai}, {誰|dare} de mo {分かります|wakarimasu}.",
-    ""
+    "{誰でも|だれでも} = anybody, {何でも|なんでも} = anything, {何時でも|いつでも} = anytime, {何処でも|どこでも} = anywhere, どれでも = whichever"
 ],
 [
     "(I) like both meat and fish.",
@@ -4517,7 +4517,7 @@ Flashcards.initialize([
 [
     "What kind of omlet do (you) like? Anything is okay.",
     "don'na _omuretsu_ ga {好き|suki} desu ka. {何|nan} de mo ii desu.",
-    ""
+    "{誰でも|だれでも} = anybody, {何でも|なんでも} = anything, {何時でも|いつでも} = anytime, {何処でも|どこでも} = anywhere, どれでも = whichever"
 ],
 [
     "(I've decided I'll) have a coffee.",
@@ -4647,7 +4647,7 @@ Flashcards.initialize([
 [
     "What does Rie think about Mr. Yamada going to China? (It's) a pity, but a good opportunity.",
     "rie san wa {山田|yamada} san ga {中国|chuugoku} ni {行く|iku} koto ni {就いて|tsuite} dou {思います|omoimasu} ka. {残念|zan'nen} desu ga ii _chansu_ desu.",
-    ""
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "What have Miki and Mr. Yamada (decided to) do? (They decided to) get married.",
@@ -4712,7 +4712,7 @@ Flashcards.initialize([
 [
     "Sadly, (it has been decided that) Mr. Yamada will transfer to China soon.",
     "{残念|zan'nen} desu ga {山田|yamada} san ha mou {直ぐ|sugu} {中国|chuugoku} ni {転勤|tenkin} suru koto ni narimashita.",
-    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
+    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "(I) tried to find another job in Tokyo, but there weren't any.",
@@ -4722,7 +4722,7 @@ Flashcards.initialize([
 [
     "(I) still want to work in Japan, but (I) think I'll also go to China.",
     "mada {日本|nihon} de {働きたい|hatarakitai} desu ga {私|watashi} mo {中国|chuugoku} ni {行こう|ikou} to {思います|omoimasu}.",
-    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Since how many years have (you) been living in Japan? Around 3 (I) think.",
@@ -4752,7 +4752,7 @@ Flashcards.initialize([
 [
     "(I) like Korean food because (it's) spicy. {の で}",
     "{辛い|karai} no de {韓国料理|kankokuryouri} ga {好き|suki} desu.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
 ],
 [
     "(I'm) sorry, but this week (I) haven't had much time for piano practice.",
@@ -4822,7 +4822,7 @@ Flashcards.initialize([
 [
     "This film isn't interesting so (he) might go home. {の で}",
     "kono {映画|eiga} wa {面白くない|omoshirokunai} no de {家|uchi} ni {帰る|kaeru} ka mo shiremasen.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~"
 ],
 [
     "(I) bet (he) goes to see the baseball match tomorrow.",
@@ -4912,7 +4912,7 @@ Flashcards.initialize([
 [
     "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
     "{例えば|tatoeba} 「{私|watashi} wa {学生|gakusei} desu」 to 「{私|watashi} ga {学生|gakusei} desu」 no {場合|baai} {二つ目|futatsume} no {文章|bunshou} no {意味|imi} wa 「{他|hoka} no {人|hito} wa {学生|gakusei} ja nai」 desu ga, {一番目|ichibanme} no {文章|bunshou} wa 「{他|hoka} no {人|hito} mo {学生|gakusei} ka mo shirenai」 to iu {可能性|kanousei} ga {含まれます|fukumaremasu}.",
-    "と: complete list\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~"
+    "と: complete list\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Please make (it). Please don't make (it). Please use (it). Please don't use (it).",
@@ -5061,7 +5061,7 @@ Flashcards.initialize([
 [
     "There are many people who hate rainy season, but (I) like it.",
     "{梅雨|tsuyu} ga {嫌い|kirai} na {人|hito} ga {多い|ooi} desu kedo, {私|watashi} ha {好き|suki} desu.",
-    ""
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "While Mr. Yamada was cooking, Ms. Natsuko was reading a book. During the time that Mr. Yamada is in China, Ms. Natsuko will (be) looking for a job. During the time Miki was in America, (she) did (some) travelling.",
@@ -5245,8 +5245,8 @@ Flashcards.initialize([
 ],
 [
     "Sometimes (I) make Japanese cuisine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
-    "{時々|tokidoki} {日本料理|nihon ryouri} wo {作る|tsukuru} koto ga arimasu. {一ヶ月|ikkagetsu}, {雨|ame} ga {降らない|furanai} koto ga arimasu. itsumo _jiinzu_ dakedo, {時々|tokidoki} _sukaato_ wo {履く|haku} koto ga arimasu.",
-    "verbう + こと + が + ある = sometimes/occasionally ~\nverbない + こと + が + ある = sometimes/occasionally not ~"
+    "{時々|tokidoki} {日本料理|nihon ryouri} wo {作る|tsukuru} koto ga arimasu. {一ヶ月|ikkagetsu}, {雨|ame} ga {降らない|furanai} koto ga arimasu. itsumo _jiinzu_ da kedo, {時々|tokidoki} _sukaato_ wo {履く|haku} koto ga arimasu.",
+    "verbう + こと + が + ある = sometimes/occasionally ~\nverbない + こと + が + ある = sometimes/occasionally not ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
@@ -5261,7 +5261,7 @@ Flashcards.initialize([
 [
     "(We) will go to China next month, but (we) still had lots of things (we) want to do and places (we) want to see, so it's a bit of a shame. But one day (we) want to come to Japan again and see everybody.",
     "{来月|raigetsu} {中国|chuugoku} he {行く|iku} koto ni narimashita ga mada shitai koto ya {見たい|mitai} {所|tokoro} ga atta no de, {少し|sukoshi} {残念|zan'nen} desu. demo, mata itsuka {日本|nihon} ni {来て|kite}, {皆さん|minasan} to {会いたい|aitai} desu.",
-    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)\nverb stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nや: incomplete list\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)\nverb stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nや: incomplete list\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
 ],
 [
     "Thank you for everything.",
@@ -5301,7 +5301,7 @@ Flashcards.initialize([
 [
     "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
     "{一生懸命|isshoukenmei} {作文|sakubun} wo {書いて|kaite} imasu ga, yappari mada {多く|ooku} no {言葉|kotoba} wo {知らない|shiranai} shi, {時間|jikan} mo {少し|sukoshi} dake shika arimasen. Aa, itsumo {言い訳|iiwake} desu ne.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "(I) might have gained around 2 kilos. (I've) gained even 2 kilos. (I) might have gained as much as 2 kilos. (I've) gained as much as 2 kilos. (I've) gained at least 2 kilos.",
@@ -5346,7 +5346,7 @@ Flashcards.initialize([
 [
     "(I've) repaired the computer, so (now it) works. {の で} {plain} (I) don't catch cold since taking to running every morning.",
     "_pasokon_ wo {直した|naoshita} no de {動く|ugoku} you ni natta. {毎朝|maiasa}, {走る|hashiru} you ni natte kara, {風邪|kaze} wo {引きません|hikimasen}.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverbう + よう + に + {成る|なる} = change in habitual action\nverbて + から = after doing ~, since doing ~"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbう + よう + に + {成る|なる} = change in habitual action\nverbて + から = after doing ~, since doing ~"
 ],
 [
     "On the way home, it suddenly started to rain. The baby suddenly started crying loudly. {plain}",
@@ -5361,7 +5361,7 @@ Flashcards.initialize([
 [
     "(I) want to buy this all, but (I'm) worried if (my) money is enough.",
     "kore wo {全部|zenbu} {買いたい|kaitai} keredo, {お金|okane} ga {足りる|tariru} ka dou ka {心配|shinpai} desu.",
-    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbう/いadj/なadj/noun + かどうか = whether/if"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbう/いadj/なadj/noun + かどうか = whether/if\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "(I) was surprised, because the car suddenly started moving. {から}",
@@ -5636,7 +5636,7 @@ Flashcards.initialize([
 [
     "Take your time. There's no need to hurry. It's okay any time. There's no need to hurry, so please do it when (you) have the time. As long as you wish.",
     "goyukkuri douzo. {急ぐ|isogu} {必要|hitsuyou} wa arimasen. itsu de mo ii desu yo. {急ぎ|isogi} no {用|you} de wa arimasen no de, {お時間|ojikan} aru toki ni {お願い|onegai} shimasu. douzo goyukkuri.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)\nverbう + {時|とき} = when doing ~"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbう + {時|とき} = when doing ~"
 ],
 [
     "You couldn't ask for a better chance.",
@@ -5696,7 +5696,7 @@ Flashcards.initialize([
 [
     "(I've) kept calling for a while now, but no one is answering. {plain}",
     "sakki kara {電話|denwa} wo {掛け続けて|かけつづけて} iru kedo, {誰|dare} mo {出ない|denai}.",
-    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\n{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
 ],
 [
     "(My) feet hurt a great deal. But (I) kept walking for 2 hours. {plain}",
@@ -5786,7 +5786,7 @@ Flashcards.initialize([
 [
     "Tanaka wants something. {plain}",
     "{田中|tanaka} san wa {何|nani} ka wo {欲しがって|hoshigatte} iru.",
-    "noun が {欲しがる|ほしがる} = someone else wants ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "noun が {欲しがる|ほしがる} = someone else wants ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
 ],
 [
     "(Do you think he) will really eat this type of thing? {plain} Are (you) really going to eat something like this? {plain}",
@@ -5837,5 +5837,110 @@ Flashcards.initialize([
     "We should not take advantage of the generosity of a friend. {plain}",
     "{私達|watashitachi} wa {友人|yuujin} no {寛大さ|kandaisa} ni {付け込んで|tsukekonde} wa ikenai.",
     "verbて + は + いけません = doing verb is not allowed"
+],
+[
+    "Because (I'm) a little busy, (I'll) be making my leave soon.",
+    "chotto {忙しい|isogashii} no de, sorosoro {失礼|shitsurei} shimasu.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
+],
+[
+    "(I) had no time, so (I) didn't go to the party. {plain}",
+    "{時間|jikan} ga nakatta n de パーティー ni {行かなかった|ikanakatta}.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
+],
+[
+    "Because it's quiet here, it's very peaceful.",
+    "koko wa {静か|shizuka} na n de, totemo {穏やか|odayaka} desu.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
+],
+[
+    "That's why there's no time to meet (my) friend. {plain}",
+    "na n de, {友達|tomodachi} ni {会う|au} {時間|jikan} ga nai.",
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
+],
+[
+    "Despite exercising every day, (I) didn't get thinner. {plain}",
+    "{毎日|mainichi} {運動|undou} shita no ni, {全然|zenzen} {痩せなかった|yasenakatta}.",
+    "の に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)"
+],
+[
+    "Despite being a student, she doesn't study. {plain}",
+    "{学生|gakusei} na no ni, {彼女|kanojo} wa {勉強|benkyou} shinai.",
+    "の に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)"
+],
+[
+    "(I) went to the department store, but there was nothing (I) wanted.",
+    "_depaato_ ni {行きました|ikimashita} ga, {何|nani}mo {欲しくなかった|hoshikunakatta} desu.",
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+],
+[
+    "(I) asked a friend, but (he) didn't know. {plain}",
+    "{友達|tomodachi} ni {聞いた|kiita} kedo, {知らなかった|shiranakatta}.",
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+],
+[
+    "That may be so, but (I) still like him. {plain}",
+    "da kedo, {彼|kare} ga mada {好き|suki} na no.",
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)"
+],
+[
+    "(I) went to the department store, and there was a lot of good stuff.",
+    "_depaato_ ni {行きました|ikimashita} ga, ii {物|mono} ga takusan arimashita.",
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+],
+[
+    "(I) watched the Matrix, and it was interesting. {plain}",
+    "_matorikkusu_ wo {見た|mita} kedo, {面白かった|omoshirokatta}.",
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+],
+[
+    "Someone ate all the delicious cookies. {plain}",
+    "{誰|dare} ka ga {美味しい|oishii} _kukkii_ wo {全部|zenbu} {食べた|tabeta}.",
+    "{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
+],
+[
+    "Doesn't anybody know who stole it?",
+    "{誰|dare} ga {盗んだ|nusunda} no ka, {誰|dare} ka {知りません|shirimasen} ka.",
+    "か at end of clause = talking about a question\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
+],
+[
+    "Did (you) see the criminal somewhere?",
+    "{犯人|han'nin} wo doko ka de {見ました|mimashita} ka.",
+    "{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
+],
+[
+    "(You) are to select a certain one from this. {plain}",
+    "kono {中|naka} kara dore ka wo {選ぶ|erabu} no?",
+    "{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)"
+],
+[
+    "Nobody knows the answer to this question. {plain}",
+    "kono {質問|shitsumon} no {答え|kotae} wa, {誰|dare} mo {知らない|shiranai}.",
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
+],
+[
+    "None of the restaurants that are here are tasty. {plain}",
+    "koko ni aru _resutoran_ wa dore mo {美味しくない|oishikunai}.",
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
+],
+[
+    "(I) went nowhere this weekend. {plain}",
+    "{今週末|konshuumatsu} wa, doko ni mo {行かなかった|ikanakatta}.",
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
+],
+[
+    "Anybody understands the answer of this question. {plain}",
+    "kono {質問|shitsumon} no {答え|kotae} wa {誰|dare} de mo {分かる|wakaru}.",
+    "{誰でも|だれでも} = anybody, {何でも|なんでも} = anything, {何時でも|いつでも} = anytime, {何処でも|どこでも} = anywhere, どれでも = whichever"
+],
+[
+    "About lunch, anywhere is good.",
+    "{昼ご飯|hirugohan} wa, doko de mo ii desu.",
+    "{誰でも|だれでも} = anybody, {何でも|なんでも} = anything, {何時でも|いつでも} = anytime, {何処でも|どこでも} = anywhere, どれでも = whichever"
+],
+[
+    "That person really eats anything. {plain}",
+    "ano {人|hito} wa, {本当|hontou} ni {何|nan} de mo {食べる|taberu}.",
+    "{誰でも|だれでも} = anybody, {何でも|なんでも} = anything, {何時でも|いつでも} = anytime, {何処でも|どこでも} = anywhere, どれでも = whichever"
 ]
 ])

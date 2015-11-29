@@ -428,7 +428,7 @@
 概念 gainen
 主人 shujin
 盗む nusumu
-犯人 hannin
+犯人 han'nin
 遅れる okureru
 お待ち遠様 omachidoosama
 吃驚 bikkuri
@@ -863,3 +863,4 @@
 段階 dankai
 計画 keikaku
 風景 fuukei
+穏やか odayaka

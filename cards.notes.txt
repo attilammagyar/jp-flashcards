@@ -14,6 +14,12 @@ A や B や C など = A, B, C, etc.
 か in casual speech = rhetorical question, sarcasm, true or not
 か at end of clause = talking about a question
 
+Question words
+==============
+{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many
+{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all
+{誰でも|だれでも} = anybody, {何でも|なんでも} = anything, {何時でも|いつでも} = anytime, {何処でも|どこでも} = anywhere, どれでも = whichever
+
 Adjectives
 ==========
 な-adj. + で = adj. and ...
@@ -61,10 +67,15 @@ Verb-A-plain {方|ほう} が Verb-B-plain-nonpast より X = Doing A is X'er th
 Because
 =======
 から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)
-の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で)
+の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)
 when answering {何故|なぜ} and どうして, から is more common than の で
 verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)
 noun/な-adj. + な + の/ん + です = justification, explanation (softer than から)
+
+Contradictions
+==============
+の に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)
+but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)
 
 Must
 ====
