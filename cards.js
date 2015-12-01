@@ -26,7 +26,7 @@ Flashcards.initialize([
     ],
     [
         "This newspaper is Ichirou's.",
-        "{\u6b64\u306e|\u3053\u306e}{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u306f\u3044\u3061\u308d\u3046\u306e\u3067\u3059\u3002",
+        "{\u6b64\u306e|\u3053\u306e}{\u65b0\u805e|\u3057\u3093\u3076\u3093}\u306f{\u4e00\u6d6a|\u3044\u3061\u308d\u3046}\u306e\u3067\u3059\u3002",
         ""
     ],
     [
@@ -56,7 +56,7 @@ Flashcards.initialize([
     ],
     [
         "Ichirou eats a meal every day.",
-        "\u3044\u3061\u308d\u3046\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u3054\u98ef|\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
+        "{\u4e00\u6d6a|\u3044\u3061\u308d\u3046}\u306f{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u3054\u98ef|\u3054\u306f\u3093}\u3092{\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
         ""
     ],
     [
@@ -5916,7 +5916,7 @@ Flashcards.initialize([
     ],
     [
         "(You) are to select a certain one from this. {plain}",
-        "\u3053\u306e{\u4e2d|\u306a\u304b}\u304b\u3089\u3069\u308c\u304b\u3092{\u9078\u3076|\u3048\u3089\u3076}\u306e?",
+        "\u3053\u306e{\u4e2d|\u306a\u304b}\u304b\u3089\u3069\u308c\u304b\u3092{\u9078\u3076|\u3048\u3089\u3076}\u306e\u3002",
         "{\u8ab0\u304b|\u3060\u308c\u304b} = somebody, {\u4f55\u304b|\u306a\u306b\u304b} = something, {\u4f55\u6642\u304b|\u3044\u3064\u304b} = sometime, {\u4f55\u51e6\u304b|\u3069\u3053\u304b} = somewhere, \u3069\u308c\u304b = a certain one from many\nnoun/\u306a-adj. + \u306a + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059 (\u306e/\u3093: female, \u306e\u3060/\u3093\u3060: male)"
     ],
     [

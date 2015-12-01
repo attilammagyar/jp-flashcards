@@ -26,7 +26,7 @@ Flashcards.initialize([
 ],
 [
     "This newspaper is Ichirou's.",
-    "{此の|kono} {新聞|shinbun} wa ichirou no desu.",
+    "{此の|kono} {新聞|shinbun} wa {一浪|ichirou} no desu.",
     ""
 ],
 [
@@ -56,7 +56,7 @@ Flashcards.initialize([
 ],
 [
     "Ichirou eats a meal every day.",
-    "ichirou wa {毎日|mainichi} {ご飯|gohan} wo {食べます|tabemasu}.",
+    "{一浪|ichirou} wa {毎日|mainichi} {ご飯|gohan} wo {食べます|tabemasu}.",
     ""
 ],
 [
@@ -5910,7 +5910,7 @@ Flashcards.initialize([
 ],
 [
     "(You) are to select a certain one from this. {plain}",
-    "kono {中|naka} kara dore ka wo {選ぶ|erabu} no?",
+    "kono {中|naka} kara dore ka wo {選ぶ|erabu} no.",
     "{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)"
 ],
 [
