@@ -3,3 +3,4 @@ py3
 __pycache__/
 *.pyc
 skritter.txt
+generate_audio-poc/tmp
