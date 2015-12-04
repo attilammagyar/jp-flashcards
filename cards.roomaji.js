@@ -3632,7 +3632,7 @@ Flashcards.initialize([
 [
     "That penguin jumped over the wall.",
     "ano _pengin_, kabe wo {飛びこえました|tobikoemashita}.",
-    "verb-stem + verb = compound verb (action + how)"
+    "verb-stem + verb = compound verb (action + qualifier)"
 ],
 [
     "(It) was (acting) all strange since about 10 minutes ago, (then it) suddenly took off running.",
