@@ -6,13 +6,13 @@ A や B や C など = A, B, C, etc.
 と: complete list
 や: incomplete list
 へ = to, towards, pronounced as え
-し at end of sentence = ..., etc., among other things
 わ at end of sentence = women make informal statement softer or emotional, men may use it after ~ます/です
 の at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)
 とか links representative examples of a class (A and B, and other things)
 {何で|なんで}: colloquial "why", {何|なに}で: by what, with what?
 か in casual speech = rhetorical question, sarcasm, true or not
 か at end of clause = talking about a question
+し at end of clause = multiple reasons, etc.
 
 Question words
 ==============
@@ -219,7 +219,8 @@ verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful;
 (A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)
 verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)
 verbて {欲しがる|ほしがる} = someone else wants ~ to be done for her/him
-
+verbて + ある = resultant state after completed action (often を --> も/は), (in preparation for sg. else)
+verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)
 
 た-form
 -------
@@ -248,3 +249,8 @@ verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~
 verbない - い + くて + も + いい + です = don't have to ~
 verbない + {方|ほう} + が + いい + です = shouldn't ~
 verbない + こと + が + ある = sometimes/occasionally not ~
+
+~える/~られる
+--------
+
+verbえる: を --> は/が

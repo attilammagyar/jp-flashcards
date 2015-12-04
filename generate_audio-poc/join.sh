@@ -27,4 +27,4 @@ ls -1 ?????.wav \
         done
 
 # for i in *_*.wav ; do n=$(echo "$i" | sed s/wav/mp3/) ; lame -b 192 -m m $i $n ; done
-# for i in *_*.mp3 ; do n=$(echo "$i" | sed s/mp3/txt/) ; eyeD3 --to-v2.3 --set-encoding=utf16-BE -a jp-flashcards -A jp-flashcards -t "$i" --lyrics=jpn:$n:"$(cat $n)" $i ; done
+# for i in *_*.mp3 ; do n=$(echo "$i" | sed s/mp3/txt/) ; eyeD3 --to-v2.3 --set-encoding=utf16-BE -a jp-flashcards -A jp-flashcards -t "$i" --lyrics=jpn:$n:"$(cat $n) " $i ; done

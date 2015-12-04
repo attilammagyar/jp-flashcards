@@ -1092,7 +1092,7 @@ Flashcards.initialize([
 [
     "The truth is, I don't watch sports, nor play sports.",
     "{実は|jitsu wa}, {私|watashi} wa _supootsu_ wo {見ません|mimasen} shi, shimasen.",
-    ""
+    "し at end of clause = multiple reasons, etc."
 ],
 [
     "But because (I) like you, I'm here. {から}",
@@ -2421,7 +2421,7 @@ Flashcards.initialize([
 ],
 [
     "How are you? I'm fine, thank you.",
-    "{お元気|ogenki} desu ka. okagesamade.",
+    "{お元気|ogenki} desu ka. {お陰様で|okagesamade}.",
     ""
 ],
 [
@@ -2446,7 +2446,7 @@ Flashcards.initialize([
 ],
 [
     "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
-    "{僕|boku} no {車|kuruma} de {行きましょう|ikimashou}. {十二時|juuniji} ni {貴方|anata} no _apaato_ he mukae ni {行きます|ikimasu}.",
+    "{僕|boku} no {車|kuruma} de {行きましょう|ikimashou}. {十二時|juuniji} ni {貴方|anata} no _apaato_ he {迎え|mukae} ni {行きます|ikimasu}.",
     "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
@@ -2721,7 +2721,7 @@ Flashcards.initialize([
 ],
 [
     "Rooms are separated? I can't believe it!",
-    "{部屋|heya} wa {別々|betsubetsu} desu ka. shinjirarenai.",
+    "{部屋|heya} wa {別々|betsubetsu} desu ka. {信じられない|shinjirarenai}.",
     ""
 ],
 [
@@ -2961,7 +2961,7 @@ Flashcards.initialize([
 ],
 [
     "Preparations are complete.",
-    "{準備|junbi} kanryou desu.",
+    "{準備|junbi} {完了|kanryou} desu.",
     ""
 ],
 [
@@ -3472,7 +3472,7 @@ Flashcards.initialize([
 [
     "(It's) humid today and (it's) summer...",
     "{今日|kyou} wa {mushi暑くて|mushiatsukute} {夏|natsu} desu shi.",
-    "し at end of sentence = ..., etc., among other things"
+    "し at end of clause = multiple reasons, etc."
 ],
 [
     "But you promised!",
@@ -3497,7 +3497,7 @@ Flashcards.initialize([
 [
     "Food is delicious and work is easy and (I'm) popular... More than anything, (it's) safe.",
     "{食べ物|tabemono} ga {美味しくて|oishikute} {仕事|shigoto} wa {楽|raku} de {人気者|ninkimono} desu shi. {何|nani} yori mo {安全|anzen} desu.",
-    "な-adj. + で = adj. and ...\nし at end of sentence = ..., etc., among other things"
+    "な-adj. + で = adj. and ...\nし at end of clause = multiple reasons, etc."
 ],
 [
     "(I'm) ill so (I) won't go to the company. {から}",
@@ -5280,7 +5280,7 @@ Flashcards.initialize([
 ],
 [
     "I went to Hiroshima long ago.",
-    "{私|watashi} wa mukashi {広島|hiroshima} ni {行った|itta} koto ga arimasu.",
+    "{私|watashi} wa {昔|mukashi} {広島|hiroshima} ni {行った|itta} koto ga arimasu.",
     "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
 ],
 [
@@ -5301,7 +5301,7 @@ Flashcards.initialize([
 [
     "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
     "{一生懸命|isshoukenmei} {作文|sakubun} wo {書いて|kaite} imasu ga, yappari mada {多く|ooku} no {言葉|kotoba} wo {知らない|shiranai} shi, {時間|jikan} mo {少し|sukoshi} dake shika arimasen. Aa, itsumo {言い訳|iiwake} desu ne.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nし at end of clause = multiple reasons, etc."
 ],
 [
     "(I) might have gained around 2 kilos. (I've) gained even 2 kilos. (I) might have gained as much as 2 kilos. (I've) gained as much as 2 kilos. (I've) gained at least 2 kilos.",
@@ -5942,5 +5942,145 @@ Flashcards.initialize([
     "That person really eats anything. {plain}",
     "ano {人|hito} wa, {本当|hontou} ni {何|nan} de mo {食べる|taberu}.",
     "{誰でも|だれでも} = anybody, {何でも|なんでも} = anything, {何時でも|いつでも} = anytime, {何処でも|どこでも} = anywhere, どれでも = whichever"
+],
+[
+    "Why isn't (she) a friend? / Well, (she's) a teacher, and older... {plain}",
+    "doushite {友達|tomodachi} ja nai n desu ka. {先生|sensei} da shi, {年上|toshiue} da shi...",
+    "し at end of clause = multiple reasons, etc.\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Why do (you) like him? / Because (he's) kind, attractive and interesting, etc. {plain}",
+    "doushite {彼|kare} ga {好き|suki} na no? {優しい|yasashii} shi, {格好いい|kakkoii} shi, {面白い|omoshiroi} kara.",
+    "し at end of clause = multiple reasons, etc.\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Classes at this university are sometimes easy, sometimes difficult. {plain}",
+    "kono {大学|daigaku} no {授業|jugyou} wa {簡単|kantan} dattari, {難しかったり|muzukashikattari} suru.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+],
+[
+    "(I) didn't do things like watching movies or reading books. {plain}",
+    "{映画|eiga} wo {見たり|mitari}, {本|hon} wo {読んだり|yondari} shinakatta.",
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+],
+[
+    "What are (you) reading? (I'm) reading a textbook.",
+    "{何|nani} wo {読んでる|yonderu}? {教科書|kyoukasho} wo {読んで|yonde} imasu.",
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+],
+[
+    "Are (you) listening to the story? No, (I'm) not listening.",
+    "{話|hanashi} wo {聞いて|kiite} imasu ka. uun, {聞いてない|kiitenai}.",
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+],
+[
+    "(I) found out about it today.",
+    "{今日|kyou}, {知りました|shirimashita}.",
+    "{知る|しる} vs. {分かる|わかる} = (get to) know vs. understand already"
+],
+[
+    "Do (you) know this song? Do (you) know the way?",
+    "kono {歌|uta} wo {知って|shitte} imasu ka. {道|michi} wa {分かります|wakarimasu} ka.",
+    "{知る|しる} vs. {分かる|わかる} = (get to) know vs. understand already"
+],
+[
+    "Yes, yes, (I) got it. {plain}",
+    "hai, hai, {分かった|wakatta}, {分かった|wakatta}.",
+    "{知る|しる} vs. {分かる|わかる} = (get to) know vs. understand already"
+],
+[
+    "Where is Suzuki? / (He's) already at home. {plain}",
+    "{鈴木|suzuki} san wa doko desu ka. mou, {家|uchi} ni {帰って|kaette} iru.",
+    "motion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+],
+[
+    "(I'll) go on ahead. {plain}",
+    "{先|saki} ni {行って|itte} iru yo.",
+    "motion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+],
+[
+    "Mie is already here, you know. {plain}",
+    "{美恵|mie} chan wa, mou {来て|kite} iru yo.",
+    "motion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+],
+[
+    "How are the preparations? / The preparations are already done. {plain}",
+    "{準備|junbi} wa dou desu ka. {準備|junbi} wa, mou shite aru yo.",
+    "verbて + ある = resultant state after completed action (often を --> も/は), (in preparation for sg. else)"
+],
+[
+    "Are the plans for the trip complete? / A-ha, not only did I buy the tickets, I also took care of the hotel reservations. {plain}",
+    "{旅行|ryokou} no {計画|keikaku} wa {終わった|owatta}? un, {切符|kippu} wo {買った|katta} shi, _hoteru_ no {予約|yoyaku} mo shite aru.",
+    "し at end of clause = multiple reasons, etc.\nverbて + ある = resultant state after completed action (often を --> も/は), (in preparation for sg. else)"
+],
+[
+    "Father came home early.",
+    "{お父さん|otousan} wa, {早く|hayaku} {帰って|kaette} kimashita.",
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nい adj. - い + く = adverb"
+],
+[
+    "(I) went running towards the station. {plain}",
+    "{駅|eki} no {方|hou} he {走って|hashitte} itta.",
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)"
+],
+[
+    "Entering Winter, the (number of) people wearing coat will increase.",
+    "{冬|fuyu} ni {入って|haitte}, _kooto_ wo {着て|kite} iru {人|hito} ga {増えて|fuete} ikimasu.",
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+],
+[
+    "(I) will try my hardest with all my might! {plain}",
+    "{一生懸命|isshoukenmei}, {頑張って|ganbatte} iku!",
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)"
+],
+[
+    "(I) went out with various people, but (I) haven't found a good person yet. {plain}",
+    "{色々|iroiro} na {人|hito} to {付き合って|tsukiatte} kita kedo, ii {人|hito} wa {未だ|mada} {見つからない|mitsukaranai}.",
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+],
+[
+    "(I) studied Spanish from way back before and eventually (I) quit. {plain}",
+    "_supein_ {語|go} wo zutto {前|mae} kara {勉強|benkyou} shite kite, {結局|kekkyoku} wa {止めた|yameta}.",
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)"
+],
+[
+    "Are (you) taking pencils to school? {plain}",
+    "{鉛筆|enpitsu} wo {学校|gakkou} he {持って|motte} iku?",
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)"
+],
+[
+    "Can (you) write kanji?",
+    "{漢字|kanji} wa {書けます|kakemasu} ka.",
+    "verbえる: を --> は/が"
+],
+[
+    "It's unfortunate, but (I) can't go this weekend. {plain}",
+    "{残念|zan'nen} da ga, {今週末|konshuumatsu} wa {行けない|ikenai}.",
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+],
+[
+    "(I) can't believe it already. {plain}",
+    "mou {信じられない|shinjirarenai}.",
+    ""
+],
+[
+    "(I) was able to climb Mt. Fuji. {plain}",
+    "{富士山|fujisan} ga {登れた|noboreta}.",
+    "verbえる: を --> は/が"
+],
+[
+    "(I) can hold heavy baggage.",
+    "{重い|omoi} {荷物|nimotsu} wa {持てます|motemasu}.",
+    "verbえる: を --> は/が"
+],
+[
+    "It cleared up today, and Mt. Fuji is visible. / Thanks to (my) friend, (I) could watch the movie for free. / Thanks to (my) friend, (I) could watch the movie for free. {plain}",
+    "{今日|kyou} wa {晴れて|harete}, {富士山|fujisan} ga {見える|mieru}. {友達|tomodachi} no okage de, {映画|eiga} wa tada {見られた|mirareta}. {友達|tomodachi} no okage de, {映画|eiga} wo tada {見る|miru} no ga dekita.",
+    "verbえる: を --> は/が\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun + できる = can (do) noun (or request, request permission)"
+],
+[
+    "(I) could hear his voice for the first time in a long time. / The surroundings were noisy and (I) couldn't hear what he was saying very well. {plain}",
+    "{久しぶり|hisashiburi} ni {彼|kare} no {声|koe} ga {聞けた|kiketa}. {周り|mawari} ga {煩くて|urusakute}, {彼|kare} ga {言って|itte} iru koto ga anmari {聞こえなかった|kikoenakatta}.",
+    "verbえる: を --> は/が"
 ]
 ])
