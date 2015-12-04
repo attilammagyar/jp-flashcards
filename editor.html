@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Flashcards editor</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <style>
+    html, body {
+        background-color: #ffffff;
+        padding: 0;
+        margin: 0;
+    }
+
+    body {
+        padding: 1vmin;
+    }
+
+    div.container {
+        clear: both;
+        margin: 1vmin;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    div.container label {
+        display: block;
+        float: left;
+        width: 10vw;
+        text-align: right;
+        margin-right: 2vmin;
+    }
+
+    div.container textarea,
+    div.container input {
+        width: 80vw;
+    }
+
+    div.container label,
+    div.container textarea,
+    div.container input {
+        height: 1.5em;
+        line-height: 1.5em;
+        font-size: 1.1em;
+    }
+
+    div.button button {
+        width: 50vw;
+        height: 2em;
+        line-height: 2em;
+        font-size: 1.1em;
+    }
+
+    div.container textarea {
+        height: 3em;
+        font-family: sans-serif;
+    }
+
+    div.container textarea#new-cards {
+        font-family: monospace;
+        height: 7em;
+    }
+
+    div.button {
+        text-align: center;
+    }
+    </style>
+</head>
+<body>
+    <form id="card-editor" action="#" method="get">
+        <div class="container">
+            <label for="new-cards">Cards: </label>
+            <textarea id="new-cards" name="new-cards" rows="3" cols="50" readonly="readonly"></textarea>
+        </div>
+        <div class="container">
+            <label for="english">English: </label>
+            <textarea id="english" name="english" rows="3" cols="50"></textarea>
+        </div>
+        <div class="container">
+            <label for="japanese">Japanese: </label>
+            <textarea id="japanese" name="japanese" rows="3" cols="50"></textarea>
+        </div>
+        <div id="notes-container">
+            <datalist id="notes"></datalist>
+            <div class="container">
+                <label for="japanese">Note #1: </label>
+                <input type="text" id="note-1" name="note-1" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #2: </label>
+                <input type="text" id="note-2" name="note-2" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #3: </label>
+                <input type="text" id="note-3" name="note-3" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #4: </label>
+                <input type="text" id="note-4" name="note-4" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #5: </label>
+                <input type="text" id="note-5" name="note-5" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #6: </label>
+                <input type="text" id="note-6" name="note-6" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #7: </label>
+                <input type="text" id="note-7" name="note-7" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #8: </label>
+                <input type="text" id="note-8" name="note-8" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #9: </label>
+                <input type="text" id="note-9" name="note-9" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #10: </label>
+                <input type="text" id="note-10" name="note-10" list="notes" />
+            </div>
+        </div>
+        <div class="button container">
+            <button id="add">Add</button>
+        </div>
+    </form>
+    <script type="text/javascript" src="flashcards.js"></script>
+    <script type="text/javascript">
+    <!--
+    Flashcards.noteToKey = function (note)
+    {
+        return "_" + String(note);
+    };
+
+    Flashcards.initialize = function (cards)
+    {
+        var i, j, l, ll, c, cs, cn;
+
+        Flashcards.cards = cards;
+        Flashcards.notes = {};
+        Flashcards.newCards = [];
+        cs = Flashcards.closedRange(0, Flashcards.cards.length - 1);
+
+        for (i = 0, l = cs.length; i < l; ++i) {
+            c = Flashcards.cards[cs[i]];
+            cn = c[2].split("\n");
+
+            for (j = 0, ll = cn.length; j < ll; ++j) {
+                Flashcards.addNote(cn[j]);
+            }
+        }
+
+        Flashcards.updateNoteSuggestions();
+        document.getElementById("card-editor").onsubmit = function () { return false; };
+        document.getElementById("add").onclick = Flashcards.addNewCard;
+        document.getElementById("new-cards").onfocus = function () {
+            document.getElementById("new-cards").select();
+        }
+    };
+
+    Flashcards.addNewCard = function () {
+        var en = Flashcards.getTextFromInput("english"),
+            jp = Flashcards.getTextFromInput("japanese"),
+            notes = [],
+            i, n;
+
+        if (!(en && jp)) {
+            return false;
+        }
+
+        for (i = 1; i < 11; ++i) {
+            n = Flashcards.getTextFromInput("note-" + String(i));
+
+            if (n) {
+                notes.push(n);
+                Flashcards.addNote(n);
+            }
+        }
+
+        Flashcards.newCards.push({
+            "en": en,
+            "jp": jp,
+            "notes": notes
+        });
+
+        Flashcards.updateNewCards();
+
+        Flashcards.clearInput("english");
+        Flashcards.clearInput("japanese");
+
+        for (i = 1; i < 11; ++i) {
+            Flashcards.clearInput("note-" + String(i));
+        }
+
+        return false;
+    };
+
+    Flashcards.updateNewCards = function () {
+        var cards = [],
+            i, l, c;
+
+        for (i = 0, l = Flashcards.newCards.length; i < l; ++i) {
+            c = Flashcards.newCards[i];
+            cards.push([
+                "[",
+                    "    " + Flashcards.quoteJsString(c["en"]) + ",",
+                    "    " + Flashcards.quoteJsString(c["jp"]) + ",",
+                    "    " + Flashcards.quoteJsString(c["notes"].join("\n")),
+                "]"
+            ].join("\n"));
+        }
+
+        document.getElementById("new-cards").value = cards.join(",\n");
+        Flashcards.updateNoteSuggestions();
+
+        setTimeout(function () { document.getElementById("english").focus(); }, 1);
+    };
+
+    Flashcards.quoteJsString = function (t) {
+        return "\"" + String(t).replace(/\\/g, "\\\\")
+            .replace(/\n/g, "\\n")
+            .replace(/\r/g, "\\r")
+            .replace(/"/g, "\\\"") + "\"";
+    };
+
+    Flashcards.getTextFromInput = function (input_id) {
+        return String(document.getElementById(input_id).value).trim();
+    }
+
+    Flashcards.clearInput = function (input_id) {
+        document.getElementById(input_id).value = "";
+    };
+
+    Flashcards.addNote = function (note) {
+        var k = Flashcards.noteToKey(note);
+
+        if (!Flashcards.notes.hasOwnProperty(k)) {
+            Flashcards.notes[k] = note;
+        }
+    };
+
+    Flashcards.updateNoteSuggestions = function ()
+    {
+        var html = [],
+            notes = [],
+            n, i, l;
+
+        for (i in Flashcards.notes) {
+            if (Flashcards.notes.hasOwnProperty(i)) {
+                notes.push(Flashcards.notes[i]);
+            }
+        }
+
+        notes.sort();
+
+        for (i = 0, l = notes.length; i < l; ++i) {
+            n = notes[i];
+            html.push(
+                "<option value=\"" + Flashcards.quoteHtml(n) + "\"></option>"
+            );
+        }
+
+        document.getElementById("notes").innerHTML = html.join("");
+    };
+    //-->
+    </script>
+    <script type="text/javascript" src="cards.js"></script>
+</body>
+</html>

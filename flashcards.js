@@ -232,17 +232,20 @@
             return Flashcards.formatFurigana(
                 "<ul><li>"
                 + (
-                    text.replace(/&/g, "&amp;")
-                        .replace(/>/g, "&gt;")
-                        .replace(/</g, "&lt;")
-                        .replace(/"/g, "&quot;")
-                        .replace(/'/g, "&#039;")
-                        .replace(/-+&gt;/g, "&rarr;")
+                    Flashcards.quoteHtml(text).replace(/-+&gt;/g, "&rarr;")
                         .replace(/\n/g, "</li><li>")
                         .replace(/_([^_]*)_/g, "<em>$1</em>")
                 )
                 + "</li></ul>"
             );
+        },
+
+        quoteHtml: function (text) {
+            return text.replace(/&/g, "&amp;")
+                .replace(/>/g, "&gt;")
+                .replace(/</g, "&lt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
         },
 
         parseSettings: function (settings_str)
