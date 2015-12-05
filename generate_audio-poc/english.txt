@@ -145,7 +145,7 @@
 145. set the alarm clock; take a seat
 146. Key: something to lock the door with when you leave. (plain)
 147. Wallet: something to always put in your bag. (plain)
-148. Curtain: something to open in the morning and close in the night. (plain)
+148. Curtain: something to leave open in the morning and leave closed in the night. (plain)
 149. When I was a child, (my) father often took (me) to the zoo. (plain)
 150. (I) got the policeman at the police box to tell (me) the way.
 151. Mr. Yamada wants to become pretty. (plain)

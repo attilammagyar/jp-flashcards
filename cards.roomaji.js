@@ -5749,7 +5749,7 @@ Flashcards.initialize([
     "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
 ],
 [
-    "Curtain: something to open in the morning and close in the night. {plain}",
+    "Curtain: something to leave open in the morning and leave closed in the night. {plain}",
     "_kaaten_: {朝|asa}, {開けて|akete}, {夜|yoru}, {閉めて|shimete} oku mono.",
     "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
 ],

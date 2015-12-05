@@ -5755,7 +5755,7 @@ Flashcards.initialize([
         "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
     ],
     [
-        "Curtain: something to open in the morning and close in the night. {plain}",
+        "Curtain: something to leave open in the morning and leave closed in the night. {plain}",
         "\u30ab\u30fc\u30c6\u30f3:{\u671d|\u3042\u3055}\u3001{\u958b\u3051\u3066|\u3042\u3051\u3066}\u3001{\u591c|\u3088\u308b}\u3001{\u9589\u3081\u3066|\u3057\u3081\u3066}\u304a\u304f\u3082\u306e\u3002",
         "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
     ],
