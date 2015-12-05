@@ -1137,7 +1137,7 @@ Flashcards.initialize([
 [
     "If (you) turn left at the crossroads, the bank will be on the right side.",
     "{交差点|kousaten} wo {左|hidari} ni {曲がる|magaru} to {銀行|ginkou} wa {右側|migigawa} ni arimasu.",
-    "verb-A-う + と + verb-B = if A then B"
+    "verb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
 ],
 [
     "The art gallery is next door to the hotel.",
@@ -1907,7 +1907,7 @@ Flashcards.initialize([
 [
     "If (you) study every day, (your) Japanese will get skilled.",
     "{毎日|mainichi} {勉強|benkyou} suru to {日本語|nihongo} ga {上手|jouzu} ni narimasu.",
-    "verb-A-う + と + verb-B = if A then B\nnoun/な adj. + に + {成る|なる} = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
+    "verb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nnoun/な adj. + に + {成る|なる} = become ~\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Since (I) saw photos of Japan, (I) got wanting to go. {の で}",
@@ -3142,7 +3142,7 @@ Flashcards.initialize([
 [
     "If (you) try (it, it's) easy.",
     "yatte miru to {簡単|kantan} desu.",
-    "verbて + みる = try doing ~\nverb-A-う + と + verb-B = if A then B"
+    "verbて + みる = try doing ~\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
 ],
 [
     "(I) want to try drinking Japanese beer.",
@@ -4282,7 +4282,7 @@ Flashcards.initialize([
 [
     "(I) think (I) _will_ return to America next year.",
     "{来年|rainen} _amerika_ ni {帰ろう|kaerou} to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "I _will_ go to Kyoto next week.",
@@ -4292,7 +4292,7 @@ Flashcards.initialize([
 [
     "(I) think (I) _will_ go to Europe next year.",
     "{来年|rainen} _yooroppa_ ni {行こう|ikou} to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "(I) tried to learn Spanish but (I) wasn't very good.",
@@ -4347,27 +4347,27 @@ Flashcards.initialize([
 [
     "(I) think (I) will go to South America. Miki is thinking (she) will go to South America.",
     "{南|minami} _amerika_ ni {行こう|ikou} to {思います|omoimasu}. {三木|miki} san wa {南|minami} _amerika_ ni {行こう|ikou} to {思って|omotte} imasu.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "(I) hope to go to South America. (I) think (I) will go to South America. (I) plan to go to South America.",
     "{南|minami} _amerika_ ni {行きたい|ikitai} to {思います|omoimasu}. {南|minami} _amerika_ ni {行こう|ikou} to {思います|omoimasu}. {南|minami} _amerika_ ni {行く|iku} tsumori desu.",
-    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\nverbう + つもり = intend to ~"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbう + つもり = intend to ~"
 ],
 [
     "(I) think (I) will go to Japan next year. (My) mom thinks (she) will go to Europe next year.",
     "{来年|rainen} {日本|nihon} ni {行こう|ikou} to {思います|omoimasu}. {母|haha} wa {来年|rainen} _yooroppa_ ni {行こう|ikou} to {思って|omotte} imasu.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "(I) think (I) will send that email.",
     "sono *e*_meeru_ wo {出そう|dasou} to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "Takeshi thinks (he) will meet with Miki again.",
     "takeshi san wa {三木|miki} san ni mata {会おう|aou} to {思って|omotte} imasu.",
-    "verbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~"
+    "verbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "(You're) sharp, aren't you?",
@@ -4692,7 +4692,7 @@ Flashcards.initialize([
 [
     "Since (I) became an adult, it seems that a lot of things that looked boring as a child, (I) became interested in. Probably because (I) don't have to take exams anymore, right?",
     "{大人|otona} ni natte kara, douyara {子供|kodomo} no {頃|koro} ni wa {詰まらなく|tsumaranaku} {思えた|omoeta} {沢山|takusan} no koto ni {興味|kyoumi} ga {持てる|moteru} you ni narimashita. mou {試験|shiken} wo {受けなくて|ukenakute} mo ii kara deshou ne.",
-    "noun/な adj + に + {成る|なる} = become ~\nverbて + から = after doing ~, since doing ~\nverbう + よう + に + {成る|なる} = change in habitual action\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "noun/な adj. + に + {成る|なる} = become ~\nverbて + から = after doing ~, since doing ~\nverbう + {様|よう} + に + {成る|なる} = change in habitual action\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "The computer acts weird.",
@@ -4722,7 +4722,7 @@ Flashcards.initialize([
 [
     "(I) still want to work in Japan, but (I) think I'll also go to China.",
     "mada {日本|nihon} de {働きたい|hatarakitai} desu ga {私|watashi} mo {中国|chuugoku} ni {行こう|ikou} to {思います|omoimasu}.",
-    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Since how many years have (you) been living in Japan? Around 3 (I) think.",
@@ -4777,7 +4777,7 @@ Flashcards.initialize([
 [
     "Next week (I) think (I) will be surely free all week. Therefore, (I) think (I) will practice every day for about 1 hour.",
     "{来週|raishuu} wa {一週間|isshuukan} kitto {暇|hima} da to {思います|omoimasu}. dakara {毎日|mainichi} {一時間|ichijikan} gurai wa {練習|renshuu} wo shiyou to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "(I) didn't do much Japanese study this week. (I) meant to, but (I) was very busy.",
@@ -4807,7 +4807,7 @@ Flashcards.initialize([
 [
     "(I) hope to buy a new camera. (I) think (I) will go to China next year.",
     "{新しい|atarashii} _kamera_ wo {買いたい|kaitai} to {思います|omoimasu}. {来年|rainen} {中国|chuugoku} ni {行こう|ikou} to {思います|omoimasu}.",
-    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "(I) intend to meet (my) friend tomorrow. (I) tried to meet (my) friend yesterday.",
@@ -4832,7 +4832,7 @@ Flashcards.initialize([
 [
     "(I) think (I) will come to play today.",
     "{今日|kyou} {遊び|asobi} ni {来よう|koyou} to {思います|omoimasu}.",
-    "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~"
+    "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "(I) don't plan to be off work next week.",
@@ -4912,7 +4912,7 @@ Flashcards.initialize([
 [
     "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
     "{例えば|tatoeba} 「{私|watashi} wa {学生|gakusei} desu」 to 「{私|watashi} ga {学生|gakusei} desu」 no {場合|baai} {二つ目|futatsume} no {文章|bunshou} no {意味|imi} wa 「{他|hoka} no {人|hito} wa {学生|gakusei} ja nai」 desu ga, {一番目|ichibanme} no {文章|bunshou} wa 「{他|hoka} no {人|hito} mo {学生|gakusei} ka mo shirenai」 to iu {可能性|kanousei} ga {含まれます|fukumaremasu}.",
-    "と: complete list\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "と: complete list\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "Please make (it). Please don't make (it). Please use (it). Please don't use (it).",
@@ -4962,31 +4962,31 @@ Flashcards.initialize([
 [
     "(I) must call Mr. Hondo. {plain}",
     "hondou san ni {電話|denwa} shinakereba naranai.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)"
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
 ],[
     "(I) must take the medicine.",
     "{薬|kusuri} wo {飲まなければ|nomanakereba} narimasen.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)"
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
 ],[
     "(I) must quit smoking.",
     "{煙草|tabako} wo {止めなければ|yamenakereba} narimasen.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)"
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
 ],[
     "The fish must be fresh.",
     "{魚|sakana} wa shinsen de nai to ikemasen.",
-    "noun/な-adj. + で + ない + と + いけない = I must be ~, social obligations (never advice/request)"
+    "noun/な-adj. + で + ない + と + いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
 ],[
     "(I) must go (home) already. {spoken plain, spoken plain}",
     "mou {帰らなきゃ|kaeranakya}. mou {帰らなくちゃ|kaeranakucha}.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)\nspoken: なくては --> なくちゃ, なければ --> なくや"
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nspoken: なくては --> なくちゃ, なければ --> なくや"
 ],[
     "(I) must go to Tokyo tomorrow.",
     "{明日|ashita} {東京|toukyou} he {行かなくて|ikanakute} wa narimasen.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)"
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)"
 ],[
     "An English teacher must be British.",
     "{英語|eigo} no {先生|sensei} wa _igirisu_ {人|jin} de nakereba narimasen.",
-    "noun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request)"
+    "noun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
 ],
 [
     "The \"Hitchhiker's Guide to the Galaxy\" has arrived safely.",
@@ -4996,7 +4996,7 @@ Flashcards.initialize([
 [
     "(I) still must learn a lot of things.",
     "mada {学ばなければ|manabanakereba} naranai koto ga {沢山|takusan} arimasu.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)"
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
 ],
 [
     "Thank you for the cute and heart-warming presents as well.",
@@ -5041,7 +5041,7 @@ Flashcards.initialize([
 [
     "(You) may eat. (You) are not allowed to eat. Please eat. (I) want (you) to eat. (You) should eat. (You) shouldn't eat. Please don't eat. (I) want (you) not to eat. (You) must eat. (You) don't have to eat.",
     "{食べて|tabete} mo ii desu. {食べて|tabete} wa ikemasen. {食べて|tabete} kudasai. {食べて|tabete} {欲しい|hoshii} desu. {食べた|tabeta} hou ga ii desu. {食べない|tabenai} hou ga ii desu. {食べない|tabenai} de kudasai. {食べない|tabenai} de {欲しい|hoshii} desu. {食べなければ|tabenakereba} narimasen. {食べなくて|tabenakute} mo ii desu.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて + は + いけません = doing verb is not allowed\n(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~\nverbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)\nverbない - い + くて + も + いい + です = don't have to ~"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて + は + いけません = doing verb is not allowed\n(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~\nverbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverbない - い + くて + も + いい + です = don't have to ~"
 ],
 [
     "The laundry fell off the balcony. {plain}",
@@ -5101,37 +5101,37 @@ Flashcards.initialize([
 [
     "If (you) come to China, please make contact.",
     "moshi {中国|chuugoku} ni {来たら|kitara}, {連絡|renraku} shite kudasai.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbて + ください = request"
 ],
 [
     "When (I) drank the sake, (I) got a headache.",
     "{酒|sake} wo {飲んだら|nondara}, {頭|atama} ga {痛く|itaku} narimashita.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
 ],
 [
     "If it's not interesting, (I) don't want to read it. {plain}",
     "{面白くなかったら|omoshirokunakattara}, {読みたくない|yomitakunai} yo.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverb stem + たい = want to ~ (verb --> い adj.)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverb stem + たい = want to ~ (verb --> い adj.)"
 ],
 [
     "If (she's) not beautiful, (I) don't want to date (her).",
     "{奇麗|kirei} janakattara, _deeto_ wo shitakunai desu.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverb stem + たい = want to ~ (verb --> い adj.)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverb stem + たい = want to ~ (verb --> い adj.)"
 ],
 [
     "If (you) don't eat (it), it won't do.",
     "{食べなかったら|tabenakattara}, {良くない|yokunai} desu.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
 ],
 [
     "If that film had been interesting, (I) would have watched (it) all.",
     "sono {映画|eiga} wa {面白かったら|omoshirokattara}, {全部|zenbu} {見ました|mimashita}.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
 ],
 [
     "If (you) like sumo, please watch tonight's tournament.",
     "sumou ga {好き|suki} dattara, {今晩|konban} no {試合|shiai} wo {見て|mite} kudasai.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbて + ください = request"
 ],
 [
     "I gave a book to Mr. Yamada. {plain} I gave flowers to my older sister. {plain} Mr. Yamada gave flowers to Ms. Natsuko. {plain} My older sister gave Mr. Yamada a book. {plain}",
@@ -5176,7 +5176,7 @@ Flashcards.initialize([
 [
     "If (I) have a chance, may (I) go to China to have fun? If (you) have a chance, please surely come to China to have fun, with your family.",
     "_chansu_ ga attara, {中国|chuugoku} he {遊び|asobi} ni {行って|itte} mo ii desu ka. moshi_chansu_ ga attara, {是非|zehi} {ご家族|gokazoku} de {中国|chuugoku} he {遊び|asobi} ni {来て|kite} kudasai.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbて + ください = request"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbて + ください = request"
 ],
 [
     "(I'm) looking forward to it.",
@@ -5186,17 +5186,17 @@ Flashcards.initialize([
 [
     "If (you) want to go to China, before that, (you) must practice the piano every day.",
     "{中国|chuugoku} ni {行きたかったら|ikitakattara}, sono {前|mae} ni {毎日|mainichi} _piano_ wo {練習|renshuu} shinakereba narimasen yo.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
 ],
 [
     "When do (you) plan to get married? (We) don't know yet clearly, but (we) hope to get married before going to China if (we) can.",
     "itsu {結婚|kekkon} wo suru tsumori desu ka. mada hakkiri {分かりません|wakarimasen} ga, dekitara, {中国|chuugoku} ni {行く|iku} {前|mae} ni {結婚|kekkon} shitai to {思います|omoimasu}.",
-    "verbう + つもり = intend to ~\n(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbう + {前|まえ} に = before doing ~\n~たい is usually used only in first person or in questions for the second person"
+    "verbう + つもり = intend to ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbう + {前|まえ} に = before doing ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "(You) should get married while the weather isn't hot, shouldn't you? But (I) think if (you) do (it) suddenly, (that's) not good. Don't make excuses.",
     "{天気|tenki} ga {暑くない|atsukunai} uchi ni {結婚|kekkon} shita hou ga ii desu ne. {然し|shikashi}, {急|kyuu} ni shitara yokunai to {思います|omoimasu}. {言い訳|iiwake} shinai de kudasai.",
-    "verbない + {内|うち} + に = before ~, while not ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\n(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbない + で + ください = please don't ~"
+    "verbない + {内|うち} + に = before ~, while not ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbない + で + ください = please don't ~"
 ],
 [
     "Both Roger and Robert are nice people. (We) always spend fun times. {plain, female}",
@@ -5206,7 +5206,7 @@ Flashcards.initialize([
 [
     "But Roger really loves (you) Miki. (I) think (you) must tell (him) about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
     "demo _rojaa_ san wa {三木|miki} san ga {本当|hontou} ni {好き|suki} yo. _robaato_ san no koto wo {言わなければ|iwanakereba} naranai to {思う|omou} wa. {大丈夫|daijoubu} yo. {昨夜|yuube} {三人|san'nin} de {遊んだ|asonda} kara.",
-    "な adj. + に = adverb\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "な adj. + に = adverb\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "(You) shouldn't date two people. It's cool. Don't worry. {plain}",
@@ -5271,7 +5271,7 @@ Flashcards.initialize([
 [
     "If (you) have a chance to come to China, please be sure to contact (us).",
     "moshi {中国|chuugoku} ni {来る|kuru} _chansu_ ga attara, {是非|zehi} {連絡|renraku} shite kudasai.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)\nverbて + ください = request"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbて + ください = request"
 ],
 [
     "(I) start work after changing into (my) uniform.",
@@ -5296,7 +5296,7 @@ Flashcards.initialize([
 [
     "In Hungarian, (this character) is read as \"kukac\" which means \"worm\".",
     "_hangarii_ {語|go} de wa, 「{虫|mushi}」 to iu {意味|imi} no 「*kukac*」 to {読みます|yomimasu}.",
-    ""
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
@@ -5346,7 +5346,7 @@ Flashcards.initialize([
 [
     "(I've) repaired the computer, so (now it) works. {の で} {plain} (I) don't catch cold since taking to running every morning.",
     "_pasokon_ wo {直した|naoshita} no de {動く|ugoku} you ni natta. {毎朝|maiasa}, {走る|hashiru} you ni natte kara, {風邪|kaze} wo {引きません|hikimasen}.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbう + よう + に + {成る|なる} = change in habitual action\nverbて + から = after doing ~, since doing ~"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbう + {様|よう} + に + {成る|なる} = change in habitual action\nverbて + から = after doing ~, since doing ~"
 ],
 [
     "On the way home, it suddenly started to rain. The baby suddenly started crying loudly. {plain}",
@@ -5541,12 +5541,12 @@ Flashcards.initialize([
 [
     "(You'll) catch a cold if (you) stay wet. {plain}",
     "{雨|ame} ni nureta mama da to, {風邪|kaze} wo {引く|hiku} yo.",
-    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverb-A-う + と + verb-B = if A then B"
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
 ],
 [
     "That T-shirt suits (you) well. Why don't you buy it?",
     "sono *T* _shatsu_, yoku {似合う|niau} yo. {買ったら|kattara} dou?",
-    "い adj. - い + く = adverb\n(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+    "い adj. - い + く = adverb\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
 ],
 [
     "(He) went shopping and has not come back yet.",
@@ -5561,7 +5561,7 @@ Flashcards.initialize([
 [
     "(You) have fever? Why don't (you) take (some) medicine? {plain}",
     "{熱|netsu} ga aru no? {薬|kusuri} wo {飲んだら|nondara} dou?",
-    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\n(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
 ],
 [
     "Even if (I) work every day, (my) savings don't increase. {plain}",
@@ -5706,7 +5706,7 @@ Flashcards.initialize([
 [
     "There's a cute girl named Noriko at the volunteer class. {polite} There's a cute girl named Noriko at the volunteer class. {casual, spoken}",
     "ボランティア {教室|kyoushitsu} ni, {意子|noriko} to iu {可愛い|kawaii} {女|onna} no {子|ko} ga imasu. ボランティア {教室|kyoushitsu} ni, {意子って|norikotte} iu {可愛い|kawaii} {女|onna} no {子|ko} ga irunda.",
-    ""
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
 ],
 [
     "(I'll) drink it later so please leave the cup as it is. {から}",
@@ -5826,7 +5826,7 @@ Flashcards.initialize([
 [
     "If you're a student, then the entrance fee is free.",
     "{学生|gakusei} dattara, {入場料|nyuujouryou} wa {無料|muryou} desu.",
-    "(もし +) ~た + ら = if/when ~, (then) ~ (もし = if)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
 ],
 [
     "It probably depends on who you ask.",
@@ -6082,5 +6082,145 @@ Flashcards.initialize([
     "(I) could hear his voice for the first time in a long time. / The surroundings were noisy and (I) couldn't hear what he was saying very well. {plain}",
     "{久しぶり|hisashiburi} ni {彼|kare} no {声|koe} ga {聞けた|kiketa}. {周り|mawari} ga {煩くて|urusakute}, {彼|kare} ga {言って|itte} iru koto ga anmari {聞こえなかった|kikoenakatta}.",
     "verbえる: を --> は/が"
+],
+[
+    "It's also possible that he overslept. {plain}",
+    "{彼|kare} ga {寝坊|nebou} shita koto mo ariuru ne.",
+    "{有り得る|ありえる、ありうる} = can possibly exist\nverbう + こと = doing ~ (nominalize)"
+],
+[
+    "That's an impossible story. {plain}",
+    "sore wa, arienai {話|hanashi} da yo.",
+    "{有り得る|ありえる、ありうる} = can possibly exist"
+],
+[
+    "Since (I) studied a lot, (I) became smarter. {plain}",
+    "{勉強|benkyou} wo {沢山|takusan} shita kara, {頭|atama} ga yoku natta.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nい adj. - い + く = adverb\nい adj. - い + く + {成る|なる} = become ~"
+],
+[
+    "(I'll) try to eat meat every day. {plain}",
+    "{毎日|mainichi}, {肉|niku} wo {食べる|taberu} you ni suru.",
+    "verbう + {様|よう} + に + する = to make an effort to ~"
+],
+[
+    "After coming to Japan, (I) became able to eat sushi. {plain}",
+    "{日本|nihon} ni {来て|kite}, {寿司|sushi} wo {食べられる|taberareru} you ni natta.",
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbえる + {様|よう} + に + なる = become able to ~"
+],
+[
+    "Because (I) practiced for one year, (I) became able to play the piano.",
+    "{一年間|ichinenkan} {練習|renshuu} shita kara, _piano_ wo {弾ける|hikeru} you ni natta.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbえる + {様|よう} + に + なる = become able to ~"
+],
+[
+    "If (you) drop the ball, it will fall. {plain}",
+    "_booru_ wo {落とす|otosu} to, {落ちる|ochiru}.",
+    "verb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
+],
+[
+    "If (you) turn off the lights, it will get dark. {plain}",
+    "{電気|denki} wo {消す|kesu} to, {暗く|kuraku} naru.",
+    "い adj. - い + く = adverb\nい adj. - い + く + {成る|なる} = become ~\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
+],
+[
+    "If (you) eat a lot, (you'll) get fat, for sure. {plain}",
+    "takusan {食べる|taberu} to, {太る|futoru} yo.",
+    "verb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
+],
+[
+    "If (he's) a teacher, (he) must be older for sure, right?",
+    "{先生|sensei} da to, kitto {年上|toshiue} na n ja nai desu ka.",
+    "verb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Given that everybody is going, I'll go too. {plain}",
+    "{皆|min'na} ga {行く|iku} nara, {私|watashi} mo {行く|iku}.",
+    "verb-plain/noun/い-adj./な-adj. + なら = if (given that X, Y will happen - contextual condition) (ならば = more formal)"
+],
+[
+    "Given that Alice says so, there's no problem. {plain}",
+    "_arisu_ san ga {言う|iu} nara, {問題|mondai} nai yo.",
+    "verb-plain/noun/い-adj./な-adj. + なら = if (given that X, Y will happen - contextual condition) (ならば = more formal)"
+],
+[
+    "If (I) had money, it would be good, huh? {plain}",
+    "{お金|okane} ga areba, ii ne.",
+    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
+],
+[
+    "If it's fun, I'll go too. {plain}",
+    "{楽しければ|tanoshikereba}, {私|watashi} mo {行く|iku}.",
+    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
+],
+[
+    "(We'll) go shopping, _if_ (I) can meet (my) friend. If I can meet (my) friend, (we'll) go shopping.",
+    "{友達|tomodachi} ni {会えれば|aereba}, {買い物|kaimono} ni {行きます|ikimasu}. {友達|tomodachi} ni {会えたら|aetara}, {買い物|kaimono} ni {行きます|ikimasu}.",
+    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+],
+[
+    "When (I) went home, there was no one there. {plain}",
+    "{家|uchi} ni {帰ったら|kaettara}, {誰も|daremo} inakatta.",
+    "verbたら + past = surprise, unexpected result\n{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+],
+[
+    "If given that there's no time, tomorrow is fine as well. {plain}",
+    "moshi {時間|jikan} ga nai nara, {明日|ashita} de mo ii yo.",
+    "verb-plain/noun/い-adj./な-adj. + なら = if (given that X, Y will happen - contextual condition) (ならば = more formal)"
+],
+[
+    "(I) must go to school every day. {x3}",
+    "{毎日|mainichi} {学校|gakkou} ni {行かなくて|ikanakute} wa narimasen. {毎日|mainichi} {学校|gakkou} ni {行かない|ikanai} to {駄目|dame} desu. {毎日|mainichi} {学校|gakkou} ni {行かなければ|ikanakereba} ikemasen.",
+    "noun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
+],
+[
+    "(I) had to do (my) homework. {plain} (I) have to do (my) homework. {plain} (I) had to do (my) homework. {plain}",
+    "{宿題|shukudai} wo shinakute wa ikenakatta. {宿題|shukudai} wo shinai to ikenai. {宿題|shukudai} wo shinakereba dame datta.",
+    "negative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nnoun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
+],
+[
+    "Gotta go to school. {plain}",
+    "{学校|gakkou} ni {行かない|ikanai} to.",
+    "と conditional: can imply {駄目|だめ}/いけない/ならない (spoken casual)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
+],
+[
+    "(I) want to be together (with you) forever. {plain}",
+    "zutto {一緒|issho} ni itai.",
+    "verb stem + たい = want to ~"
+],
+[
+    "How about talking with your parents once in a while? {plain}",
+    "{偶|tama} ni {ご両親|goryoushin} to {話せば|hanaseba} dou?",
+    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
+],
+[
+    "It's that (I) heard from the teacher: \"There's no class today.\" {plain} (I) heard from the teacher",
+    "「{今日|kyou} wa {授業|jugyou} ga nai」 to {先生|sensei} kara {聞いた|kiita} n da kedo. {先生|sensei} kara {今日|kyou} wa {授業|jugyou} ga nai to {聞いた|kiita} n da kedo.",
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "\"Cold\", Alice said to Tanaka. {plain}",
+    "「{寒い|samui}」 to _arisu_ ga {田中|tanaka} ni {言った|itta}.",
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+],
+[
+    "Now, (I'm) considering where to go. {plain}",
+    "{今|ima}, doko ni {行こう|ikou} ka to {考えて|kangaete} iru.",
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbおう/よう = talking about/to self, I _will_, shall I?\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~"
+],
+[
+    "What did he say this is? What did he say?",
+    "{彼|kare} wa, kore wa {何|nani} da to {言いました|iimashita} ka. {何|nani} to {言いました|iimashita} ka.",
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+],
+[
+    "(I) already told (you I) have no money. {casual}",
+    "mou {お金|okane} ga naitte.",
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+],
+[
+    "About tomorrow, (I) hear that it's going to rain. {casual}",
+    "{明日|ashita}, {雨|ame} ga {降る|furu} n datte.",
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ]
 ])
