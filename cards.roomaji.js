@@ -6105,13 +6105,13 @@ Flashcards.initialize([
 ],
 [
     "After coming to Japan, (I) became able to eat sushi. {plain}",
-    "{日本|nihon} ni {来て|kite}, {寿司|sushi} wo {食べられる|taberareru} you ni natta.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbえる + {様|よう} + に + なる = become able to ~"
+    "{日本|nihon} ni {来て|kite}, {寿司|sushi} ga {食べられる|taberareru} you ni natta.",
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbえる + {様|よう} + に + なる = become able to ~\nverbえる: を --> は/が"
 ],
 [
     "Because (I) practiced for one year, (I) became able to play the piano.",
-    "{一年間|ichinenkan} {練習|renshuu} shita kara, _piano_ wo {弾ける|hikeru} you ni natta.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbえる + {様|よう} + に + なる = become able to ~"
+    "{一年間|ichinenkan} {練習|renshuu} shita kara, _piano_ ga {弾ける|hikeru} you ni natta.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbえる + {様|よう} + に + なる = become able to ~\nverbえる: を --> は/が"
 ],
 [
     "If (you) drop the ball, it will fall. {plain}",

@@ -6111,13 +6111,13 @@ Flashcards.initialize([
     ],
     [
         "After coming to Japan, (I) became able to eat sushi. {plain}",
-        "{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3001{\u5bff\u53f8|\u3059\u3057}\u3092{\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}\u3088\u3046\u306b\u306a\u3063\u305f\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3048\u308b + {\u69d8|\u3088\u3046} + \u306b + \u306a\u308b = become able to ~"
+        "{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3001{\u5bff\u53f8|\u3059\u3057}\u304c{\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}\u3088\u3046\u306b\u306a\u3063\u305f\u3002",
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3048\u308b + {\u69d8|\u3088\u3046} + \u306b + \u306a\u308b = become able to ~\nverb\u3048\u308b: \u3092 --> \u306f/\u304c"
     ],
     [
         "Because (I) practiced for one year, (I) became able to play the piano.",
-        "{\u4e00\u5e74\u9593|\u3044\u3061\u306d\u3093\u304b\u3093}{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046}\u3057\u305f\u304b\u3089\u3001\u30d4\u30a2\u30ce\u3092{\u5f3e\u3051\u308b|\u3072\u3051\u308b}\u3088\u3046\u306b\u306a\u3063\u305f\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3048\u308b + {\u69d8|\u3088\u3046} + \u306b + \u306a\u308b = become able to ~"
+        "{\u4e00\u5e74\u9593|\u3044\u3061\u306d\u3093\u304b\u3093}{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046}\u3057\u305f\u304b\u3089\u3001\u30d4\u30a2\u30ce\u304c{\u5f3e\u3051\u308b|\u3072\u3051\u308b}\u3088\u3046\u306b\u306a\u3063\u305f\u3002",
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3048\u308b + {\u69d8|\u3088\u3046} + \u306b + \u306a\u308b = become able to ~\nverb\u3048\u308b: \u3092 --> \u306f/\u304c"
     ],
     [
         "If (you) drop the ball, it will fall. {plain}",
