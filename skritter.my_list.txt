@@ -874,3 +874,7 @@
 只 tada
 周り mawari
 不便 fuben
+再生 saisei
+見出す miidasu
+聴解 choukai
+読解 dokkai
