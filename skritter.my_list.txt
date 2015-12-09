@@ -878,3 +878,11 @@
 見出す miidasu
 聴解 choukai
 読解 dokkai
+受験 juken
+受かる ukaru
+専攻 senkou
+競争 kyousou
+講演会 kouenkai
+蒸れる mureru
+群れる mureru
+蒸す musu

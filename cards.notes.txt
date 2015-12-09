@@ -154,20 +154,20 @@ negative conditional + {駄目|だめ}/いけない/ならない = must,  have t
 
 Give/receive
 ============
-X は/が Y に/から Z を もらう = X receives Z from Y
-X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})
-X は/が Y から Z を もらう = X(in) receives Z from Y (school, workplace, organization, etc.)
-X は/が Y から verbて もらう = X(in) has Y (school, workplace, organization, etc.) to do ~
+X は/が Y に/から Z を {貰う|もらう} = X receives Z from Y
+X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})
+X は/が Y から Z を {貰う|もらう} = X(in) receives Z from Y (school, workplace, organization, etc.)
+X は/が Y から verbて {貰う|もらう} = X(in) has Y (school, workplace, organization, etc.) to do ~
 
-X は/が Y に Z を くれる = X(out) gives Z to Y(in)
-X は/が (Y を) verbて くれる = X(out) does ~ for Y(in)
-verbて + くれる = a favor done by equals/subordinates
+X は/が Y に Z を {呉れる|くれる} = X(out) gives Z to Y(in)
+X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)
+verbて + {呉れる|くれる} = a favor done by equals/subordinates
 
-X は/が Y に Z を あげる = X(out/in) gives Z to Y(out) (never to superiors)
-X は/が (Y を) verbて あげる = X(in) does ~ for Y(out) (never to superiors)
+X は/が Y に Z を {上げる|あげる} = X(out/in) gives Z to Y(out) (never to superiors)
+X は/が (Y を) verbて {上げる|あげる} = X(in) does ~ for Y(out) (never to superiors)
 
-X は/が Y に Z を やる = X gives Z to Y(animal, plant)
-X は/が Y に verbて やる = X does ~ for Y (animal, plant)
+X は/が Y に Z を {遣る|やる} = X gives Z to Y (animal, plant)
+X は/が Y に verbて {遣る|やる} = X does ~ for Y (animal, plant)
 
 Verbs
 =====

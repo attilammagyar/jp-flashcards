@@ -4907,7 +4907,7 @@ Flashcards.initialize([
     [
         "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
         "{\u7247\u4eee\u540d|\u304b\u305f\u304b\u306a}\u3067{\u8aad\u307f\u65b9|\u3088\u307f\u304b\u305f}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u304f\u308c\u3066\u3042\u308a\u304c\u3068\u3046\u3002\u3069\u3046{\u81f4\u3057\u307e\u3057\u3066|\u3044\u305f\u3057\u307e\u3057\u3066}\u3002",
-        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates\nX \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates\nX \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)"
     ],
     [
         "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
@@ -5142,42 +5142,42 @@ Flashcards.initialize([
     [
         "I gave a book to Mr. Yamada. {plain} I gave flowers to my older sister. {plain} Mr. Yamada gave flowers to Ms. Natsuko. {plain} My older sister gave Mr. Yamada a book. {plain}",
         "{\u79c1|\u308f\u305f\u3057}\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u672c|\u307b\u3093}\u3092\u3042\u3052\u305f\u3002{\u79c1|\u308f\u305f\u3057}\u306f{\u59c9|\u3042\u306d}\u306b{\u82b1|\u306f\u306a}\u3092\u3042\u3052\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306b{\u82b1|\u306f\u306a}\u3092\u3042\u3052\u305f\u3002{\u59c9|\u3042\u306d}\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u672c|\u307b\u3093}\u3092\u3042\u3052\u305f\u3002",
-        "X \u306f/\u304c Y \u306b Z \u3092 \u3042\u3052\u308b = X(out/in) gives Z to Y(out) (never to superiors)"
+        "X \u306f/\u304c Y \u306b Z \u3092 {\u4e0a\u3052\u308b|\u3042\u3052\u308b} = X(out/in) gives Z to Y(out) (never to superiors)"
     ],
     [
         "Mr. Yamada gave me a book. {plain} My older sister gave me a book. {plain} Mr. Yamada gave flowers to my older sister. {plain}",
         "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u79c1|\u308f\u305f\u3057}\u306b{\u672c|\u307b\u3093}\u3092\u304f\u308c\u305f\u3002{\u59c9|\u3042\u306d}\u306f{\u79c1|\u308f\u305f\u3057}\u306b{\u672c|\u307b\u3093}\u3092\u304f\u308c\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u59c9|\u3042\u306d}\u306b{\u82b1|\u306f\u306a}\u3092\u304f\u308c\u305f\u3002",
-        "X \u306f/\u304c Y \u306b Z \u3092 \u304f\u308c\u308b = X(out) gives Z to Y(in)"
+        "X \u306f/\u304c Y \u306b Z \u3092 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) gives Z to Y(in)"
     ],
     [
         "Mr. Yamada got a book from my older sister. {plain} I got a book from Mr. Yamada. {plain}",
         "{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306f{\u59c9|\u3042\u306d}\u306b{\u672c|\u307b\u3093}\u3092\u3082\u3089\u3063\u305f\u3002{\u79c1|\u308f\u305f\u3057}\u306f{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u672c|\u307b\u3093}\u3092\u3082\u3089\u3063\u305f\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 Z \u3092 \u3082\u3089\u3046 = X receives Z from Y"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 Z \u3092 {\u8cb0\u3046|\u3082\u3089\u3046} = X receives Z from Y"
     ],
     [
         "(My) friends waited for me. {grateful, plain} Mr. Yamada helped my younger brother. {grateful, plain}",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u304f\u308c\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u5f1f|\u304a\u3068\u3046\u3068}\u3092{\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066}\u304f\u308c\u305f\u3002",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates"
     ],
     [
         "Would (you) be so kind to wait (for me)? Thank (you) very much for waiting (for me).",
         "{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u304f\u308c\u307e\u305b\u3093\u304b\u3002{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u304f\u308c\u3066\u3001\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\u3002",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates"
     ],
     [
         "My younger brother waited for (his) friends. {plain} (I) helped my younger brother.",
         "{\u5f1f|\u304a\u3068\u3046\u3068}\u304c{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3092{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3042\u3052\u305f\u3002{\u5f1f|\u304a\u3068\u3046\u3068}\u3092{\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066}\u3042\u3052\u305f\u3002",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 \u3042\u3052\u308b = X(in) does ~ for Y(out) (never to superiors)"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u4e0a\u3052\u308b|\u3042\u3052\u308b} = X(in) does ~ for Y(out) (never to superiors)"
     ],
     [
         "I got (my) friends to wait (for me). {plain} My younger brother got Mr. Yamada for a ride. {plain} Mr. Yamada got my older sister to help (him). {plain} Mr. Yamada got Ms. Natsuko to wait (for him). {plain}",
         "{\u79c1|\u308f\u305f\u3057}\u304c{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306b{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3082\u3089\u3063\u305f\u3002{\u5f1f|\u304a\u3068\u3046\u3068}\u304c{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u306b{\u9001\u3063\u3066|\u304a\u304f\u3063\u3066}\u3082\u3089\u3063\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u59c9|\u3042\u306d}\u306b{\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066}\u3082\u3089\u3063\u305f\u3002{\u5c71\u7530|\u3084\u307e\u3060}\u3055\u3093\u304c{\u590f\u5b50|\u306a\u3064\u3053}\u3055\u3093\u306b{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3082\u3089\u3063\u305f\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ],
     [
         "Could (I) get (you) to wait for me?",
         "{\u5f85\u3063\u3066|\u307e\u3063\u3066}\u3082\u3089\u3048\u307e\u305b\u3093\u304b\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ],
     [
         "If (I) have a chance, may (I) go to China to have fun? If (you) have a chance, please surely come to China to have fun, with your family.",
@@ -5242,7 +5242,7 @@ Flashcards.initialize([
     [
         "New Year's gift: money children get from adults on New Year's Day",
         "{\u304a\u5e74\u7389|\u304a\u3068\u3057\u3060\u307e}:{\u304a\u6b63\u6708|\u304a\u3057\u3087\u3046\u304c\u3064}\u306b{\u5b50\u4f9b|\u3053\u3069\u3082}\u304c{\u5927\u4eba|\u304a\u3068\u306a}\u306b\u3082\u3089\u3046{\u304a\u91d1|\u304a\u304b\u306d}",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 Z \u3092 \u3082\u3089\u3046 = X receives Z from Y"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 Z \u3092 {\u8cb0\u3046|\u3082\u3089\u3046} = X receives Z from Y"
     ],
     [
         "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. It contains things of higher price than itself.",
@@ -5317,17 +5317,17 @@ Flashcards.initialize([
     [
         "(I) got this notebook from the school. (I) received a scholarship from the Brazilian government.",
         "\u3053\u306e\u30ce\u30fc\u30c8\u306f\u3001{\u5b66\u6821|\u304c\u3063\u3053\u3046}\u304b\u3089\u3082\u3089\u3044\u307e\u3057\u305f\u3002\u30d6\u30e9\u30b8\u30eb\u305b\u3044\u3075\u304b\u3089\u3001{\u5968\u5b66\u91d1|\u3057\u3087\u3046\u304c\u304f\u304d\u3093}\u3092\u3082\u3089\u3044\u307e\u3057\u305f\u3002",
-        "X \u306f/\u304c Y \u304b\u3089 Z \u3092 \u3082\u3089\u3046 = X(in) receives Z from Y (school, workplace, organization, etc.)"
+        "X \u306f/\u304c Y \u304b\u3089 Z \u3092 {\u8cb0\u3046|\u3082\u3089\u3046} = X(in) receives Z from Y (school, workplace, organization, etc.)"
     ],
     [
         "(I) water the flowers twice every day. \"Have (you) fed Tama, the cat already?\" \"Oh, not yet.\" {plain}",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}{\u4e8c\u56de|\u306b\u304b\u3044}\u3001{\u82b1|\u306f\u306a}\u306b{\u6c34|\u307f\u305a}\u3092\u3084\u308a\u307e\u3059\u3002\u300c\u3082\u3046{\u732b|\u306d\u3053}\u306e\u30bf\u30de\u306b\u3048\u3055\u3092\u3084\u3063\u305f?\u300d\u300c\u3042\u3001\u307e\u3060\u300d",
-        "X \u306f/\u304c Y \u306b Z \u3092 \u3084\u308b = X gives Z to Y(animal, plant)"
+        "X \u306f/\u304c Y \u306b Z \u3092 {\u9063\u308b|\u3084\u308b} = X gives Z to Y (animal, plant)"
     ],
     [
         "The book (I) got from (my) friend is very interesting. {plain}",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304b\u3089\u3082\u3089\u3063\u305f{\u672c|\u307b\u3093}\u306f\u3068\u3066\u3082{\u9762\u767d\u3044|\u304a\u3082\u3057\u308d\u3044}\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 Z \u3092 \u3082\u3089\u3046 = X receives Z from Y"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 Z \u3092 {\u8cb0\u3046|\u3082\u3089\u3046} = X receives Z from Y"
     ],
     [
         "(I) have not drawn a written fortune at a shrine yet.",
@@ -5392,7 +5392,7 @@ Flashcards.initialize([
     [
         "Let's get (him) called at the reception!",
         "{\u53d7\u4ed8|\u3046\u3051\u3064\u3051}\u3067{\u547c\u3073\u51fa\u3057\u3066|\u3088\u3073\u3060\u3057\u3066}\u3082\u3089\u3044\u307e\u3057\u3087\u3046\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ],
     [
         "(You're) lying, aren't (you)? {plain}",
@@ -5402,22 +5402,22 @@ Flashcards.initialize([
     [
         "Carlos treated (me) to ramen. {plain}",
         "\u30ab\u30eb\u30ed\u30b9\u306b\u30e9\u30e1\u30f3\u3092\u304a\u3054\u3063\u3066\u3082\u3089\u3063\u305f\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ],
     [
         "(My) husband finishes all the leftover food (for me).",
         "{\u6b8b\u3063\u305f|\u306e\u3053\u3063\u305f}{\u6599\u7406|\u308a\u3087\u3046\u308a}\u306f\u3001{\u592b|\u304a\u3063\u3068}\u304c{\u5168\u90e8|\u305c\u3093\u3076}{\u98df\u3079\u3066|\u305f\u3079\u3066}\u304f\u308c\u307e\u3059\u3002",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\nverb\u3066 + \u304f\u308c\u308b = a favor done by equals/subordinates"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates"
     ],
     [
         "(I'll) have (my) friend lend (me) a CD. {plain}",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u306bCD\u3092{\u8cb8\u3057\u3066|\u304b\u3057\u3066}\u3082\u3089\u3046\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ],
     [
         "(I'll) carry the children's luggage.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e{\u8377\u7269|\u306b\u3082\u3064}\u3092{\u6301\u3063\u3066|\u3082\u3063\u3066}\u3084\u308a\u307e\u3059\u3002",
-        "X \u306f/\u304c Y \u306b verb\u3066 \u3084\u308b = X does ~ for Y (animal, plant)"
+        "X \u306f/\u304c Y \u306b verb\u3066 {\u9063\u308b|\u3084\u308b} = X does ~ for Y (animal, plant)"
     ],
     [
         "(We) finished cooking at last. (We) started eating right away.",
@@ -5437,7 +5437,7 @@ Flashcards.initialize([
     [
         "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
         "\u306c\u308c\u3066\u3044\u306a\u3044\u306d\u3002{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u304c{\u8eca|\u304f\u308b\u307e}\u3067{\u9001\u3063\u3066|\u304a\u304f\u3063\u3066}\u304f\u308c\u305f\u304b\u3089\u3001{\u52a9\u304b\u3063\u305f|\u305f\u3059\u304b\u3063\u305f}\u3088\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nX \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nX \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
     ],
     [
         "I turned on the lights. The lights turned on. {plain}",
@@ -5762,12 +5762,12 @@ Flashcards.initialize([
     [
         "When I was a child, (my) father often took (me) to the zoo. {plain}",
         "{\u79c1|\u308f\u305f\u3057}\u304c{\u5b50\u4f9b|\u3053\u3069\u3082}\u306e\u3053\u308d\u3001{\u7236|\u3061\u3061}\u306f\u3088\u304f{\u52d5\u7269\u5712|\u3069\u3046\u3076\u3064\u3048\u3093}\u306b{\u9023\u308c\u3066|\u3064\u308c\u3066}\u3044\u3063\u3066\u304f\u308c\u305f\u3002",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 \u304f\u308c\u308b = X(out) does ~ for Y(in)"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)"
     ],
     [
         "(I) got the policeman at the police box to tell (me) the way.",
         "{\u4ea4\u756a|\u3053\u3046\u3070\u3093}\u3067{\u304a\u5de1\u308a\u3055\u3093|\u304a\u307e\u308f\u308a\u3055\u3093}\u306b{\u9053|\u307f\u3061}\u3092{\u6559\u3048\u3066|\u304a\u3057\u3048\u3066}\u3082\u3089\u3044\u307e\u3057\u305f\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 \u3082\u3089\u3046 = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ],
     [
         "Mr. Yamada wants to become pretty. {plain}",

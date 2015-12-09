@@ -4907,7 +4907,7 @@ Flashcards.initialize([
 [
     "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
     "{片仮名|katakana} de {読み方|yomikata} wo {書いて|kaite} kurete arigatou. dou {致しまして|itashimashite}.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {方|かた} = how to do verb (verb --> noun)\nverbて + くれる = a favor done by equals/subordinates\nX は/が (Y を) verbて くれる = X(out) does ~ for Y(in)"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb stem + {方|かた} = how to do verb (verb --> noun)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)"
 ],
 [
     "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
@@ -5136,42 +5136,42 @@ Flashcards.initialize([
 [
     "I gave a book to Mr. Yamada. {plain} I gave flowers to my older sister. {plain} Mr. Yamada gave flowers to Ms. Natsuko. {plain} My older sister gave Mr. Yamada a book. {plain}",
     "{私|watashi} wa {山田|yamada} san ni {本|hon} wo ageta. {私|watashi} wa {姉|ane} ni {花|hana} wo ageta. {山田|yamada} san wa {夏子|natsuko} san ni {花|hana} wo ageta. {姉|ane} wa {山田|yamada} san ni {本|hon} wo ageta.",
-    "X は/が Y に Z を あげる = X(out/in) gives Z to Y(out) (never to superiors)"
+    "X は/が Y に Z を {上げる|あげる} = X(out/in) gives Z to Y(out) (never to superiors)"
 ],
 [
     "Mr. Yamada gave me a book. {plain} My older sister gave me a book. {plain} Mr. Yamada gave flowers to my older sister. {plain}",
     "{山田|yamada} san wa {私|watashi} ni {本|hon} wo kureta. {姉|ane} wa {私|watashi} ni {本|hon} wo kureta. {山田|yamada} san wa {姉|ane} ni {花|hana} wo kureta.",
-    "X は/が Y に Z を くれる = X(out) gives Z to Y(in)"
+    "X は/が Y に Z を {呉れる|くれる} = X(out) gives Z to Y(in)"
 ],
 [
     "Mr. Yamada got a book from my older sister. {plain} I got a book from Mr. Yamada. {plain}",
     "{山田|yamada} san wa {姉|ane} ni {本|hon} wo moratta. {私|watashi} wa {山田|yamada} san ni {本|hon} wo moratta.",
-    "X は/が Y に/から Z を もらう = X receives Z from Y"
+    "X は/が Y に/から Z を {貰う|もらう} = X receives Z from Y"
 ],
 [
     "(My) friends waited for me. {grateful, plain} Mr. Yamada helped my younger brother. {grateful, plain}",
     "{友達|tomodachi} ga {待って|matte} kureta. {山田|yamada} san ga {弟|otouto} wo {手伝って|tetsudatte} kureta.",
-    "X は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nverbて + くれる = a favor done by equals/subordinates"
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates"
 ],
 [
     "Would (you) be so kind to wait (for me)? Thank (you) very much for waiting (for me).",
     "{待って|matte} kuremasen ka. {待って|matte} kurete, arigatou gozaimashita.",
-    "X は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nverbて + くれる = a favor done by equals/subordinates"
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates"
 ],
 [
     "My younger brother waited for (his) friends. {plain} (I) helped my younger brother.",
     "{弟|otouto} ga {友達|tomodachi} wo {待って|matte} ageta. {弟|otouto} wo {手伝って|tetsudatte} ageta.",
-    "X は/が (Y を) verbて あげる = X(in) does ~ for Y(out) (never to superiors)"
+    "X は/が (Y を) verbて {上げる|あげる} = X(in) does ~ for Y(out) (never to superiors)"
 ],
 [
     "I got (my) friends to wait (for me). {plain} My younger brother got Mr. Yamada for a ride. {plain} Mr. Yamada got my older sister to help (him). {plain} Mr. Yamada got Ms. Natsuko to wait (for him). {plain}",
     "{私|watashi} ga {友達|tomodachi} ni {待って|matte} moratta. {弟|otouto} ga {山田|yamada} san ni {送って|okutte} moratta. {山田|yamada} san ga {姉|ane} ni {手伝って|tetsudatte} moratta. {山田|yamada} san ga {夏子|natsuko} san ni {待って|matte} moratta.",
-    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ],
 [
     "Could (I) get (you) to wait for me?",
     "{待って|matte} moraemasen ka.",
-    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ],
 [
     "If (I) have a chance, may (I) go to China to have fun? If (you) have a chance, please surely come to China to have fun, with your family.",
@@ -5236,7 +5236,7 @@ Flashcards.initialize([
 [
     "New Year's gift: money children get from adults on New Year's Day",
     "{お年玉|otoshidama}: {お正月|oshougatsu} ni {子供|kodomo} ga {大人|otona} ni morau {お金|okane}",
-    "X は/が Y に/から Z を もらう = X receives Z from Y"
+    "X は/が Y に/から Z を {貰う|もらう} = X receives Z from Y"
 ],
 [
     "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. It contains things of higher price than itself.",
@@ -5311,17 +5311,17 @@ Flashcards.initialize([
 [
     "(I) got this notebook from the school. (I) received a scholarship from the Brazilian government.",
     "kono _nooto_ wa, {学校|gakkou} kara moraimashita. _burajiru_ seifu kara, {奨学金|shougakukin} wo moraimashita.",
-    "X は/が Y から Z を もらう = X(in) receives Z from Y (school, workplace, organization, etc.)"
+    "X は/が Y から Z を {貰う|もらう} = X(in) receives Z from Y (school, workplace, organization, etc.)"
 ],
 [
     "(I) water the flowers twice every day. \"Have (you) fed Tama, the cat already?\" \"Oh, not yet.\" {plain}",
     "{毎日|mainichi} {二回|nikai}, {花|hana} ni {水|mizu} wo yarimasu. 「mou {猫|neko} no _tama_ ni esa wo yatta?」 「a, mada」",
-    "X は/が Y に Z を やる = X gives Z to Y(animal, plant)"
+    "X は/が Y に Z を {遣る|やる} = X gives Z to Y (animal, plant)"
 ],
 [
     "The book (I) got from (my) friend is very interesting. {plain}",
     "{友達|tomodachi} kara moratta {本|hon} wa totemo {面白い|omoshiroi}.",
-    "X は/が Y に/から Z を もらう = X receives Z from Y"
+    "X は/が Y に/から Z を {貰う|もらう} = X receives Z from Y"
 ],
 [
     "(I) have not drawn a written fortune at a shrine yet.",
@@ -5386,7 +5386,7 @@ Flashcards.initialize([
 [
     "Let's get (him) called at the reception!",
     "{受付|uketsuke} de {呼び出して|yobidashite} moraimashou.",
-    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ],
 [
     "(You're) lying, aren't (you)? {plain}",
@@ -5396,22 +5396,22 @@ Flashcards.initialize([
 [
     "Carlos treated (me) to ramen. {plain}",
     "_karurosu_ ni _ramen_ wo ogotte moratta.",
-    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ],
 [
     "(My) husband finishes all the leftover food (for me).",
     "{残った|nokotta} {料理|ryouri} wa, {夫|otto} ga {全部|zenbu} {食べて|tabete} kuremasu.",
-    "X は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nverbて + くれる = a favor done by equals/subordinates"
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates"
 ],
 [
     "(I'll) have (my) friend lend (me) a CD. {plain}",
     "{友達|tomodachi} ni *CD* wo {貸して|kashite} morau.",
-    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ],
 [
     "(I'll) carry the children's luggage.",
     "{子供|kodomo} no {荷物|nimotsu} wo {持って|motte} yarimasu.",
-    "X は/が Y に verbて やる = X does ~ for Y (animal, plant)"
+    "X は/が Y に verbて {遣る|やる} = X does ~ for Y (animal, plant)"
 ],
 [
     "(We) finished cooking at last. (We) started eating right away.",
@@ -5431,7 +5431,7 @@ Flashcards.initialize([
 [
     "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
     "nurete inai ne. {友達|tomodachi} ga {車|kuruma} de {送って|okutte} kureta kara, {助かった|tasukatta} yo.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nX は/が (Y を) verbて くれる = X(out) does ~ for Y(in)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "I turned on the lights. The lights turned on. {plain}",
@@ -5756,12 +5756,12 @@ Flashcards.initialize([
 [
     "When I was a child, (my) father often took (me) to the zoo. {plain}",
     "{私|watashi} ga {子供|kodomo} no koro, {父|chichi} wa yoku {動物園|doubutsuen} ni {連れて|tsurete} itte kureta.",
-    "X は/が (Y を) verbて くれる = X(out) does ~ for Y(in)"
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)"
 ],
 [
     "(I) got the policeman at the police box to tell (me) the way.",
     "{交番|kouban} de {お巡りさん|omawarisan} ni {道|michi} wo {教えて|oshiete} moraimashita.",
-    "X は/が Y に/から verbて もらう = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ],
 [
     "Mr. Yamada wants to become pretty. {plain}",
