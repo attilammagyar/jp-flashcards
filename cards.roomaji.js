@@ -2696,7 +2696,7 @@ Flashcards.initialize([
 ],
 [
     "(I'll) explain the youth hostel's rules shortly.",
-    "{少し|sukoshi} _yuusu hosuteru_ no _ruuru_ wo setsumei shimasu.",
+    "{少し|sukoshi} _yuusu hosuteru_ no _ruuru_ wo {説明|setsumei} shimasu.",
     ""
 ],
 [
@@ -2746,7 +2746,7 @@ Flashcards.initialize([
 ],
 [
     "Now (I'll) explain the school's rules.",
-    "{此れから|korekara} {学校|gakkou} no kisoku wo setsumei shimasu.",
+    "{此れから|korekara} {学校|gakkou} no {規則|kisoku} wo {説明|setsumei} shimasu.",
     ""
 ],
 [
