@@ -953,3 +953,6 @@
 明らか akiraka
 延々 en'en
 保存 hozon
+師走 shiwasu
+代名詞 daimeishi
+夜勤 yakin
