@@ -8,7 +8,8 @@ then
     filter="$1"
 fi
 
-cat readings.txt \
+cat text.txt \
+    | grep "^[0-9]*[.] reading: " \
     | grep "$filter"  \
     | while read
       do

@@ -12,9 +12,7 @@ ls -1 ?????.wav \
             n=$(echo "$p" | sed "s/^0*//")
             w="$w$p.wav $p.wav $p.wav "
             i=$(($i+1))
-            grep "^$n[.] " kanji.txt >>lyrics.txt
-            grep "^$n[.] " kana.txt >>lyrics.txt
-            grep "^$n[.] " english.txt >>lyrics.txt
+            grep -v "^[0-9]*[.] reading: " text.txt | grep "^$n[.] " >>lyrics.txt
             echo >>lyrics.txt
             if [[ $i -eq 5 ]]
             then
