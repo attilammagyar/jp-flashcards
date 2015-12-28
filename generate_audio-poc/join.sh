@@ -4,6 +4,7 @@ i=0
 w=""
 g=""
 rm lyrics.txt
+l=$(ls -1 ?????.wav | sort | tail -n1)
 ls -1 ?????.wav \
     | sort \
     | while read
@@ -14,7 +15,7 @@ ls -1 ?????.wav \
             i=$(($i+1))
             grep -v "^[0-9]*[.] reading: " text.txt | grep "^$n[.] " >>lyrics.txt
             echo >>lyrics.txt
-            if [[ $i -eq 5 ]]
+            if [[ $i -eq 5 || "$REPLY" = "$l" ]]
             then
                 i=0
                 jn=$(echo "$w" | sed 's/[^0-9][^0-9]*/_/g ; s/_$// ; s/^\([0-9][0-9]*\)_.*_\([0-9][0-9]*\)$/\1_\2/')

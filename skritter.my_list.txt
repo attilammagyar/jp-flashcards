@@ -956,3 +956,7 @@
 師走 shiwasu
 代名詞 daimeishi
 夜勤 yakin
+心境 shinkyou
+生きる ikiru
+生きていかれない ikite ikarenai
+なんて nante

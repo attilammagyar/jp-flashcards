@@ -1,6 +1,6 @@
 #!/bin/bash
 
-app_id="To09Wuuza5tCNM7ufSb8xx1BrUQEB9HbSmVTd9toZsVk*"
+app_id="TBVTPzbBcNNnonHm4pDVwYN5wm8tCmJLQ1LdcYy7O4u8*"
 filter=".*"
 
 if [[ "$1" != "" ]]
@@ -15,7 +15,7 @@ cat text.txt \
       do
         i=$(echo "$REPLY" | cut -d'.' -f1)
         p=$(printf '%05d' "$i")
-        text=$(echo "$REPLY" | cut -d' ' -f2-)
+        text=$(echo "$REPLY" | cut -d' ' -f3-)
         gender="male"
         if [[ $(($i%2)) -eq 1 ]]
         then

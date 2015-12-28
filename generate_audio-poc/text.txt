@@ -1222,3 +1222,98 @@
 245. あした、　あめ　が　ふる　ん　だ　って。
 245. About tomorrow, (I) hear that it's going to rain. (casual)
 245. reading: あした、雨がふるんだって。
+
+246. 漢字でどう表すか考えました。
+246. かんじ　で　どう　あらわす　か　かんがえました。
+246. (I) was wondering how to represent (it) in kanji.
+246. reading: 漢字でどう表すか考えました。
+
+247. 漢字でどう表せば良いか考えてみました。
+247. かんじ　で　どう　あらわせば　よい　か　かんがえて　みました。
+247. (I) was trying to figure out how it would be if written in kanji.
+247. reading: 漢字でどう表せば　よい　か考えてみました。
+
+248. 漢字でどう表現したら良いかを考えてみました。
+248. かんじ　で　どう　ひょうげん　したら　よい　か　を　かんがえて　みました。
+248. (I) was trying to figure out how it would be if written in kanji.
+248. reading: 漢字でどう表現したら　よい　かを考えてみました。
+
+249. あとで確認するために、馴染みのない言葉に遭遇した時はいつもそうします。
+249. あと　で　かくにん　する　ため　に、　なじみ　の　ない　ことば　に　そうぐう　した　とき　は　いつも　そう　します。
+249. In order to review (them) later, (I) always do so when (I) encounter unfamiliar words.
+249. reading: あとで確認するために、馴染みのない言葉に遭遇した時はいつもそうします。
+
+250. 馴染みのない言葉に遭遇すると、あとで確認できるようにいつもそうしています。
+250. なじみ　の　ない　ことば　に　そうぐう　する　と、　あと　で　かくにん　できる　よう　に　いつも　そう　して　います。
+250. To be able to review (them) later, (I) always do so if (I) encounter unfamiliar words.
+250. reading: 馴染みのない言葉に遭遇すると、あとで確認できるようにいつもそうしています。
+
+251. 私のレベルではちょっと難しいですが、理解できるまで何度か読んでみるつもりです。
+251. わたし　の　レベル　で　は　ちょっと　むずかしい　です　が、　りかい　できる　まで　なんど　か　よんで　みる　つもり　です。
+251. It's a little difficult for my level, but (I'm) going to try reading it several times until (I become) able to to understand it.
+251. reading: 私のレベルではちょっと難しいですが、理解できるまで何度か読んでみるつもりです。
+
+252. 今の私のレベルでは少々難しく感じますが、理解できるよう何度か読んでみるつもりです。
+252. いま　の　わたし　の　レベル　で　は　しょうしょう　むずかしく　かんじます　が、　りかい　できる　よう　なんど　か　よんで　みる　つもり　です。
+252. It feels a little bit difficult for my current level, but (I'm) going to try reading it several times until (I become) able to to understand it.
+252. reading: 今の私のレベルでは少々難しく感じますが、理解できるよう何度か読んでみるつもりです。
+
+253. 私はもうすぐ30になりますが、まだまだ子どもの気分でいますよ。
+253. わたし　は　もうすぐ　30　に　なります　が、　まだまだ　こども　の　きぶん　で　います　よ。
+253. I'm going to get 30 soon, but (I) still feel like a child.
+253. reading: 私はもうすぐ30になりますが、まだまだ子どもの気分でいますよ。
+
+254. でも、思ったよりだいぶ日本語を話せて、とても楽しかったです。
+254. でも、　おもった　より　だいぶ　にほんご　を　はなせて、　とても　たのしかった　です。
+254. But, (I) could speak more Japanese than (I) thought, and it was fun.
+254. reading: でも、思ったよりだいぶ日本語を話せて、とても楽しかったです。
+
+255. 本当は、天気が悪くて曇りで霧でしたし、誰も散歩していませんでしたが、やっと日本語能力試験のN4が終わりました。
+255. ほんとう　は、　てんき　が　わるくて　くもり　で　きり　でした　し、　だれ　も　さんぽ　して　いません　でした　が、　やっと　にほんごのうりょくしけん　の　N4　が　おわりました。
+255. The truth is, the weather was bad, cloudy and foggy, and nobody was going for a walk, but finally the JLPT N4 is over.
+255. reading: 本当は、天気が悪くて曇りで霧でしたし、誰も散歩していませんでしたが、やっと日本語能力試験のN4が終わりました。
+
+256. 実際は、天気が悪く、曇りで霧でしたが、誰も散歩なんてしませんでしたが、やっと日本語能力試験のN4が終わりました。
+256. じっさい　は、　てんき　が　わるく、　くもり　で　きり　でした　が、　だれ　も　さんぽ　なんて　しません　でした　が、　やっと　にほんごのうりょくしけん　の　N4　が　おわりました。
+256. Actually, the weather was bad, cloudy and foggy, and nobody went to take a walk and such, but finally the JLPT N4 is over.
+256. reading: 実際は、天気が悪く、曇りで霧でしたが、誰も散歩なんてしませんでしたが、やっと日本語能力試験のN4が終わりました。
+
+257. 実際は、天気が悪く曇りで霧でしたし、誰も散歩していませんでした。とにかくやっと日本語能力試験のN4が終わりました。
+257. じっさい　は、　てんき　が　わるく　くもり　で　きり　でした　し、　だれ　も　さんぽ　して　いません　でした。　とにかく　やっと　にほんごのうりょくしけん　の　N4　が　おわりました。
+257. Actually, the weather was bad, cloudy and foggy, and nobody went for a walk. Anyway, finally the JLPT N4 is over.
+257. reading: 実際は、天気が悪く曇りで霧でしたし、誰も散歩していませんでした。とにかくやっと日本語能力試験のN4が終わりました。
+
+258. 実際の天気は悪く、曇っていて霧も出ていたので誰も散歩していませんでした。それはさておき、やっと日本語能力試験のN4が終わりました。
+258. じっさい　の　てんき　は　わるく、　くもって　いて　きり　も　でて　いた　の　で　だれ　も　さんぽ　して　いません　でした。　それ　は　さて　おき、　やっと　にほんごのうりょくしけん　の　N4　が　おわりました。
+258. Since the actual weather was bad and cloudy and it even went foggy, nobody went for a walk. Apart from that, finally, the JLPT N4 is over.
+258. reading: 実際の天気は悪く、曇っていて霧も出ていたので誰も散歩していませんでした。それはさておき、やっと日本語能力試験のN4が終わりました。
+
+259. 考える時間があまりなかったから、易しい問題も間違ってしまいました。
+259. かんがえる　じかん　が　あまり　なかった　から、　やさしい　もんだい　も　まちがって　しまいました。
+259. Since there was not very (much) time for thinking, (I) got even simple questions messed up.
+259. reading: 考える時間があまりなかったから、易しい問題も間違ってしまいました。
+
+260. 考える時間沢山あった訳ではないので、簡単な問題すらも間違えてしまいました。
+260. かんがえる　じかん　たくさん　あった　わけ　で　は　ない　の　で、　かんたん　な　もんだい　すら　も　まちがえて　しまいました。
+260. Since it was not like having a lot of time for thinking, (I) could even get simple questions messed up as well.
+260. reading: 考える時間沢山あった訳ではないので、簡単な問題すらも間違えてしまいました。
+
+261. 考える時間が少なかったので、易しい問題も間違えてしまいました。
+261. かんがえる　じかん　が　すくなかった　の　で、　やさしい　もんだい　も　まちがえて　しまいました。
+261. Since thinking time was short, (I) could even get simple questions messed up.
+261. reading: 考える時間が少なかったので、易しい問題も間違えてしまいました。
+
+262. 合格か不合格か、来年の二月ぐらいに発表されます。
+262. ごうかく　か　ふごうかく　か、　らいねん　の　にがつ　ぐらい　に　はっぴょう　されます。
+262. Pass or fail will be announced around February next year.
+262. reading: 合格か不合格か、来年の二月ぐらいに発表されます。
+
+263. 合格か不合格か、来年の二月ぐらいに明らかになります。
+263. ごうかく　か　ふごうかく　か、　らいねん　の　にがつ　ぐらい　に　あきらか　に　なります。
+263. Pass or fail will become clear around Feburary next year.
+263. reading: 合格か不合格か、来年の二月ぐらいに明らかになります。
+
+264. 合否は、来年の二月ぐらいに発表されるでしょう。
+264. ごうひ　は、　らいねん　の　にがつ　ぐらい　に　はっぴょう　される　でしょう。
+264. Pass or fail will probably be announced around February next year.
+264. reading: 合否は、来年の二月ぐらいに発表されるでしょう。

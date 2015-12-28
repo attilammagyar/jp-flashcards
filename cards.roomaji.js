@@ -6222,5 +6222,45 @@ Flashcards.initialize([
     "About tomorrow, (I) hear that it's going to rain. {casual}",
     "{明日|ashita}, {雨|ame} ga {降る|furu} n datte.",
     "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "(I) was wondering how to represent (it) in kanji. (I) was trying to figure out how it would be if written in kanji. (I) was trying to figure out how it would be if written in kanji.",
+    "{漢字|kanji} de dou {表す|arawasu} ka {考えました|kangaemashita}. {漢字|kanji} de dou {表せば|arawaseba} {良い|yoi} ka {考えて|kangaete} mimashita. {漢字|kanji} de dou {表現|hyougen} shitara {良い|yoi} ka wo {考えて|kangaete} mimashita.",
+    "か at end of clause = talking about a question\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nverbて + みる = try doing ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+],
+[
+    "In order to review (them) later, (I) always do so when (I) encounter unfamiliar words. To be able to review (them) later, (I) always do so if (I) encounter unfamiliar words.",
+    "ato de {確認|kakunin} suru tame ni, {馴染み|najimi} no nai {言葉|kotoba} ni {遭遇|souguu} shita {時|toki} wa itsumo sou shimasu. {馴染み|najimi} no nai {言葉|kotoba} ni {遭遇|souguu} suru to, ato de {確認|kakunin} dekiru you ni itsumo sou shite imasu.",
+    "verbた + {時|とき} = when did/have done ~\nverb A (dictionary form) + ため + に + verb B = do verb B in order to verb A\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nnoun + できる = can (do) noun (or request, request permission)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
+],
+[
+    "It's a little difficult for my level, but (I'm) going to try reading it several times until (I become) able to to understand it. It feels a little bit difficult for my current level, but (I'm) going to try reading it several times until (I become) able to to understand it.",
+    "{私|watashi} no _reberu_ de wa chotto {難しい|muzukashii} desu ga, {理解|rikai} dekiru made {何度か|nandoka} {読んで|yonde} miru tsumori desu. {今|ima} no {私|watashi} no _reberu_ de wa {少々|shoushou} {難しく|muzukashiku} {感じます|kanjimasu} ga, {理解|rikai} dekiru you {何度か|nandoka} {読んで|yonde} miru tsumori desu.",
+    "verbう + つもり = intend to ~\nverbて + みる = try doing ~\nnoun + できる = can (do) noun (or request, request permission)"
+],
+[
+    "I'm going to get 30 soon, but (I) still feel like a child.",
+    "{私|watashi} wa mou sugu 30 ni narimasu ga, madamada {子ども|kodomo} no {気分|kibun} de imasu yo.",
+    "noun/な adj. + に + {成る|なる} = become ~"
+],
+[
+    "But, (I) could speak more Japanese than (I) thought, and it was fun.",
+    "demo, {思った|omotta} yori daibu {日本語|nihongo} wo {話せて|hanasete}, totemo {楽しかった|tanoshikatta} desu.",
+    "Noun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+],
+[
+    "The truth is, the weather was bad, cloudy and foggy, and nobody was going for a walk, but finally the JLPT N4 is over. Actually, the weather was bad, cloudy and foggy, and nobody went to take a walk and such, but finally the JLPT N4 is over. Actually, the weather was bad, cloudy and foggy, and nobody went for a walk. Anyway, finally the JLPT N4 is over. Since the actual weather was bad and cloudy and it even went foggy, nobody went for a walk. Apart from that, finally, the JLPT N4 is over.",
+    "{本当|hontou} wa, {天気|tenki} ga {悪くて|warukute} {曇り|kumori} de {霧|kiri} deshita shi, {誰|dare} mo {散歩|sanpo} shite imasen deshita ga, yatto {日本語能力試験|nihongonouryokushiken} no *N4* ga {終わりました|owarimashita}. {実際|jissai} wa, {天気|tenki} ga {悪く|waruku}, {曇り|kumori} de {霧|kiri} deshita ga, {誰|dare} mo {散歩|sanpo} nante shimasen deshita ga, yatto {日本語能力試験|nihongonouryokushiken} no *N4* ga {終わりました|owarimashita}. {実際|jissai} wa, {天気|tenki} ga {悪く|waruku} {曇り|kumori} de {霧|kiri} deshita shi, {誰|dare} mo {散歩|sanpo} shite imasen deshita. tonikaku yatto {日本語能力試験|nihongonouryokushiken} no *N4* ga {終わりました|owarimashita}. {実際|jissai} no {天気|tenki} wa {悪く|waruku}, {曇って|kumotte} ite {霧|kiri} mo {出て|dete} ita no de {誰|dare} mo {散歩|sanpo} shite imasen deshita. sore wa sate oki, yatto {日本語能力試験|nihongonouryokushiken} no *N4* ga {終わりました|owarimashita}.",
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all\nverbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nし at end of clause = multiple reasons, etc.\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
+],
+[
+    "Since there was not very (much) time for thinking, (I) got even simple questions messed up. Since it was not like having a lot of time for thinking, (I) could even get simple questions messed up as well. Since thinking time was short, (I) could even get simple questions messed up.",
+    "{考える|kangaeru} {時間|jikan} ga amari nakatta kara, {易しい|yasashii} {問題|mondai} mo {間違って|machigatte} shimaimashita. {考える|kangaeru} {時間|jikan} {沢山|takusan} atta {訳|wake} de wa nai no de, {簡単|kantan} na {問題|mondai} sura mo {間違えて|machigaete} shimaimashita. {考える|kangaeru} {時間|jikan} ga {少なかった|sukunakatta} no de, {易しい|yasashii} {問題|mondai} mo {間違えて|machigaete} shimaimashita.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
+],
+[
+    "Pass or fail will be announced around February next year. Pass or fail will become clear around Feburary next year. Pass or fail will probably be announced around February next year.",
+    "{合格|goukaku} ka {不合格|fugoukaku} ka, {来年|rainen} no {二月|nigatsu} gurai ni {発表|happyou} saremasu.{合格|goukaku} ka {不合格|fugoukaku} ka, {来年|rainen} no {二月|nigatsu} gurai ni {明らか|akiraka} ni narimasu. {合否|gouhi} wa, {来年|rainen} no {二月|nigatsu} gurai ni {発表|happyou} sareru deshou.",
+    "か at end of clause = talking about a question\nnoun/な adj. + に + {成る|なる} = become ~\nverbう + でしょう/だろう = probably (will) do ~"
 ]
 ])
