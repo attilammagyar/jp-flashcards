@@ -1190,7 +1190,7 @@
 
 239. 先生から今日は授業がないと聞いたんだけど。
 239. せんせい　から　きょう　は　じゅぎょう　が　ない　と　きいた　ん　だ　けど。
-239. (I) heard from the teacher
+239. (I) heard from the teacher that there is no class today. (plain)
 239. reading: 先生から今日は授業がないと聞いたんだけど。
 
 240. 「寒い」とアリスが田中に言った。

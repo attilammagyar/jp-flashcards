@@ -2391,7 +2391,7 @@ Flashcards.initialize([
 ],
 [
     "(I) hate tennis the most, but baseball is the most boring.",
-    "_tenisu_ ga {一番|ichiban} {嫌い|kirai} desu ga yakyuu wa {一番|ichiban} {詰まらない|tsumaranai} desu.",
+    "_tenisu_ ga {一番|ichiban} {嫌い|kirai} desu ga {野球|yakyuu} wa {一番|ichiban} {詰まらない|tsumaranai} desu.",
     "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
@@ -3651,7 +3651,7 @@ Flashcards.initialize([
 ],
 [
     "Why does Miki want to watch baseball? Because (she) likes watching sports. {から}",
-    "{三木|miki} san wa doushite yakyuu wo {見たい|mitai} desu ka. _supootsu_ wo {見ること|mirukoto} ga {好き|suki} da kara desu.",
+    "{三木|miki} san wa doushite {野球|yakyuu} wo {見たい|mitai} desu ka. _supootsu_ wo {見ること|mirukoto} ga {好き|suki} da kara desu.",
     "verb stem + たい = want to ~ (verb --> い adj.)\nverbう + こと = doing ~ (nominalize)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -3671,12 +3671,12 @@ Flashcards.initialize([
 ],
 [
     "How about Saturday night? Shall (we) go to the baseball stadium to watch baseball on Saturday night?",
-    "{土曜日|doyoubi} no {晩|ban} wa dou desu ka. {土曜日|doyoubi} no {晩|ban} yakyuujou de yakyuu wo {見|mi} ni {行きましょう|ikimashou} ka.",
+    "{土曜日|doyoubi} no {晩|ban} wa dou desu ka. {土曜日|doyoubi} no {晩|ban} {野球場|yakyuujou} de {野球|yakyuu} wo {見|mi} ni {行きましょう|ikimashou} ka.",
     "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
 ],
 [
     "There are various restaurants near the baseball stadium.",
-    "yakyuujou no {近く|chikaku} ni {色々|iroiro} na _resutoran_ ga arimasu.",
+    "{野球場|yakyuujou} no {近く|chikaku} ni {色々|iroiro} na _resutoran_ ga arimasu.",
     ""
 ],
 [
@@ -4826,7 +4826,7 @@ Flashcards.initialize([
 ],
 [
     "(I) bet (he) goes to see the baseball match tomorrow.",
-    "kitto {明日|ashita} no yakyuu no {試合|shiai} wo {見|mi} ni {行く|iku} deshou.",
+    "kitto {明日|ashita} no {野球|yakyuu} no {試合|shiai} wo {見|mi} ni {行く|iku} deshou.",
     "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbう + でしょう/だろう = probably (will) do ~"
 ],
 [
@@ -6194,7 +6194,7 @@ Flashcards.initialize([
     "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
 ],
 [
-    "It's that (I) heard from the teacher: \"There's no class today.\" {plain} (I) heard from the teacher",
+    "It's that (I) heard from the teacher: \"There's no class today.\" {plain} (I) heard from the teacher that there is no class today. {plain}",
     "「{今日|kyou} wa {授業|jugyou} ga nai」 to {先生|sensei} kara {聞いた|kiita} n da kedo. {先生|sensei} kara {今日|kyou} wa {授業|jugyou} ga nai to {聞いた|kiita} n da kedo.",
     "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
