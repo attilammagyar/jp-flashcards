@@ -265,4 +265,4 @@ verbない + こと + が + ある = sometimes/occasionally not ~
 --------
 
 verbえる: を --> は/が
-verbえる + {様|よう} + に + なる = become able to ~
+verbえる + {様|よう} + に + {成る|なる} = become able to ~

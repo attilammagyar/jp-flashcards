@@ -960,3 +960,5 @@
 生きる ikiru
 生きていかれない ikite ikarenai
 なんて nante
+見付ける mitsukeru
+見付かる mitsukaru

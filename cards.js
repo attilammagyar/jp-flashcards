@@ -6040,7 +6040,7 @@ Flashcards.initialize([
         "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)"
     ],
     [
-        "(I) went out with various people, but (I) haven't found a good person yet. {plain}",
+        "(I) went out with various people, but a good person hasn't been found yet. {plain}",
         "{\u8272\u3005|\u3044\u308d\u3044\u308d}\u306a{\u4eba|\u3072\u3068}\u3068{\u4ed8\u304d\u5408\u3063\u3066|\u3064\u304d\u3042\u3063\u3066}\u304d\u305f\u3051\u3069\u3001\u3044\u3044{\u4eba|\u3072\u3068}\u306f{\u672a\u3060|\u307e\u3060}{\u898b\u3064\u304b\u3089\u306a\u3044|\u307f\u3064\u304b\u3089\u306a\u3044}\u3002",
         "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
     ],
@@ -6112,12 +6112,12 @@ Flashcards.initialize([
     [
         "After coming to Japan, (I) became able to eat sushi. {plain}",
         "{\u65e5\u672c|\u306b\u307b\u3093}\u306b{\u6765\u3066|\u304d\u3066}\u3001{\u5bff\u53f8|\u3059\u3057}\u304c{\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}\u3088\u3046\u306b\u306a\u3063\u305f\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3048\u308b + {\u69d8|\u3088\u3046} + \u306b + \u306a\u308b = become able to ~\nverb\u3048\u308b: \u3092 --> \u306f/\u304c"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3048\u308b + {\u69d8|\u3088\u3046} + \u306b + {\u6210\u308b|\u306a\u308b} = become able to ~\nverb\u3048\u308b: \u3092 --> \u306f/\u304c"
     ],
     [
         "Because (I) practiced for one year, (I) became able to play the piano.",
         "{\u4e00\u5e74\u9593|\u3044\u3061\u306d\u3093\u304b\u3093}{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046}\u3057\u305f\u304b\u3089\u3001\u30d4\u30a2\u30ce\u304c{\u5f3e\u3051\u308b|\u3072\u3051\u308b}\u3088\u3046\u306b\u306a\u3063\u305f\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3048\u308b + {\u69d8|\u3088\u3046} + \u306b + \u306a\u308b = become able to ~\nverb\u3048\u308b: \u3092 --> \u306f/\u304c"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3048\u308b + {\u69d8|\u3088\u3046} + \u306b + {\u6210\u308b|\u306a\u308b} = become able to ~\nverb\u3048\u308b: \u3092 --> \u306f/\u304c"
     ],
     [
         "If (you) drop the ball, it will fall. {plain}",
@@ -6268,5 +6268,10 @@ Flashcards.initialize([
         "Pass or fail will be announced around February next year. Pass or fail will become clear around Feburary next year. Pass or fail will probably be announced around February next year.",
         "{\u5408\u683c|\u3054\u3046\u304b\u304f}\u304b{\u4e0d\u5408\u683c|\u3075\u3054\u3046\u304b\u304f}\u304b\u3001{\u6765\u5e74|\u3089\u3044\u306d\u3093}\u306e{\u4e8c\u6708|\u306b\u304c\u3064}\u3050\u3089\u3044\u306b{\u767a\u8868|\u306f\u3063\u3074\u3087\u3046}\u3055\u308c\u307e\u3059\u3002{\u5408\u683c|\u3054\u3046\u304b\u304f}\u304b{\u4e0d\u5408\u683c|\u3075\u3054\u3046\u304b\u304f}\u304b\u3001{\u6765\u5e74|\u3089\u3044\u306d\u3093}\u306e{\u4e8c\u6708|\u306b\u304c\u3064}\u3050\u3089\u3044\u306b{\u660e\u3089\u304b|\u3042\u304d\u3089\u304b}\u306b\u306a\u308a\u307e\u3059\u3002{\u5408\u5426|\u3054\u3046\u3072}\u306f\u3001{\u6765\u5e74|\u3089\u3044\u306d\u3093}\u306e{\u4e8c\u6708|\u306b\u304c\u3064}\u3050\u3089\u3044\u306b{\u767a\u8868|\u306f\u3063\u3074\u3087\u3046}\u3055\u308c\u308b\u3067\u3057\u3087\u3046\u3002",
         "\u304b at end of clause = talking about a question\nnoun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb\u3046 + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably (will) do ~"
+    ],
+    [
+        "When (I) went to America, I got very fat.",
+        "\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u3063\u305f\u3089|\u3044\u3063\u305f\u3089}\u3001\u305f\u304f\u3055\u3093{\u592a\u308a\u307e\u3057\u305f|\u3075\u3068\u308a\u307e\u3057\u305f}\u3002",
+        "verb\u305f\u3089 + past = surprise, unexpected result"
     ]
 ])

@@ -1317,3 +1317,8 @@
 264. ごうひ　は、　らいねん　の　にがつ　ぐらい　に　はっぴょう　される　でしょう。
 264. Pass or fail will probably be announced around February next year.
 264. reading: 合否は、来年の二月ぐらいに発表されるでしょう。
+
+265. アメリカに行ったら、たくさん太りました。
+265. アメリカ　に　いったら、　たくさん　ふとりました。
+265. When (I) went to America, I got very fat.
+265. reading: アメリカに行ったら、たくさん太りました。

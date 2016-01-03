@@ -6034,7 +6034,7 @@ Flashcards.initialize([
     "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)"
 ],
 [
-    "(I) went out with various people, but (I) haven't found a good person yet. {plain}",
+    "(I) went out with various people, but a good person hasn't been found yet. {plain}",
     "{色々|iroiro} na {人|hito} to {付き合って|tsukiatte} kita kedo, ii {人|hito} wa {未だ|mada} {見つからない|mitsukaranai}.",
     "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
@@ -6106,12 +6106,12 @@ Flashcards.initialize([
 [
     "After coming to Japan, (I) became able to eat sushi. {plain}",
     "{日本|nihon} ni {来て|kite}, {寿司|sushi} ga {食べられる|taberareru} you ni natta.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbえる + {様|よう} + に + なる = become able to ~\nverbえる: を --> は/が"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbえる + {様|よう} + に + {成る|なる} = become able to ~\nverbえる: を --> は/が"
 ],
 [
     "Because (I) practiced for one year, (I) became able to play the piano.",
     "{一年間|ichinenkan} {練習|renshuu} shita kara, _piano_ ga {弾ける|hikeru} you ni natta.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbえる + {様|よう} + に + なる = become able to ~\nverbえる: を --> は/が"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbえる + {様|よう} + に + {成る|なる} = become able to ~\nverbえる: を --> は/が"
 ],
 [
     "If (you) drop the ball, it will fall. {plain}",
@@ -6262,5 +6262,10 @@ Flashcards.initialize([
     "Pass or fail will be announced around February next year. Pass or fail will become clear around Feburary next year. Pass or fail will probably be announced around February next year.",
     "{合格|goukaku} ka {不合格|fugoukaku} ka, {来年|rainen} no {二月|nigatsu} gurai ni {発表|happyou} saremasu.{合格|goukaku} ka {不合格|fugoukaku} ka, {来年|rainen} no {二月|nigatsu} gurai ni {明らか|akiraka} ni narimasu. {合否|gouhi} wa, {来年|rainen} no {二月|nigatsu} gurai ni {発表|happyou} sareru deshou.",
     "か at end of clause = talking about a question\nnoun/な adj. + に + {成る|なる} = become ~\nverbう + でしょう/だろう = probably (will) do ~"
+],
+[
+    "When (I) went to America, I got very fat.",
+    "_amerika_ ni {行ったら|ittara}, takusan {太りました|futorimashita}.",
+    "verbたら + past = surprise, unexpected result"
 ]
 ])
