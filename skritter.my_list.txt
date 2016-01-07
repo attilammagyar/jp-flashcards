@@ -540,7 +540,7 @@
 母語 bogo
 存在 sonzai
 心象 shinshou
-学習 gakushou
+学習 gakushuu
 遠慮 enryo
 サボる saboru
 記録 kiroku
@@ -835,7 +835,6 @@
 華やか hanayaka
 若者 wakamono
 人気 ninki
-恐らく osoraku
 辺り atari
 因る yoru
 依る yoru
@@ -967,3 +966,77 @@
 歌手 kashu
 作詞 sakushi
 作曲 sakkyoku
+本年 hon'nen
+新年 shin'nen
+半年 hantoshi, han'nen
+年内 nen'nai
+難民 nanmin
+普段 fudan
+語学 gogaku
+休憩 kyuukei
+数日 suujitsu
+以前 izen
+在宅 zaitaku
+転職 tenshoku
+機 hata
+形 katachi, you
+性能 seinou
+近々 chikachika
+開催 kaisai
+都市 toshi
+立候補 rikkouho
+騒ぎ出す sawagidasu
+知識 chishiki
+なかなか nakanaka
+参る mairu
+海岸 kaigan
+写る utsuru
+載る noru
+おそらく osoraku
+予め arakajime
+下調べ shitashirabe
+姿 sugata
+見かける mikakeru
+乗せる noseru
+訳す yakusu
+不思議 fushiki
+感覚 kankaku
+性 saga
+胃腸 ichou
+炎 honoo, homura
+当たる ataru
+熱意 netsui
+下がる sagaru
+比べる kuraberu
+英文 eibun
+自問 jimon
+進歩 shinpo
+強化 kyouka
+国会 kokkai
+議事堂 gijidou
+古城 kojou
+旧跡 furuato, kyuuseki, koseki
+河川 kasen
+地元 jimoto
+河口 kakou, kawagura
+遡る sakanoboro
+三脚 sankyaku
+積む tsumu
+走り回る hashirimawaru
+挿し絵 sashie
+流れる nagareru
+改めて aratamete
+沿い zoi
+異国 ikoku
+情緒 joucho, jousho
+たっぷり tappuri
+純粋 junsui
+世紀 seiki
+番外 bangai
+編 hen
+人妻 hitodzuma
+欧州 oushuu
+魅了 miryou
+奥様 okusama
+国民 kokumin
+長々 naganaga
