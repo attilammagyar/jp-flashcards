@@ -6273,5 +6273,10 @@ Flashcards.initialize([
         "When (I) went to America, I got very fat.",
         "\u30a2\u30e1\u30ea\u30ab\u306b{\u884c\u3063\u305f\u3089|\u3044\u3063\u305f\u3089}\u3001\u305f\u304f\u3055\u3093{\u592a\u308a\u307e\u3057\u305f|\u3075\u3068\u308a\u307e\u3057\u305f}\u3002",
         "verb\u305f\u3089 + past = surprise, unexpected result"
+    ],
+    [
+        "After going underground, we couldn't see Mt. Fuji. {plain}",
+        "{\u5730\u4e0b|\u3061\u304b}\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3001{\u5bcc\u58eb\u5c71|\u3075\u3058\u3055\u3093}\u304c{\u898b\u3048\u306a\u304f|\u307f\u3048\u306a\u304f}\u306a\u3063\u305f\u3002",
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~"
     ]
 ])

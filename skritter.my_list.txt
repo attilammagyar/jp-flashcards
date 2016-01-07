@@ -962,3 +962,8 @@
 なんて nante
 見付ける mitsukeru
 見付かる mitsukaru
+悟る satoru
+曲名 kyokumei
+歌手 kashu
+作詞 sakushi
+作曲 sakkyoku

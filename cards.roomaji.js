@@ -6267,5 +6267,10 @@ Flashcards.initialize([
     "When (I) went to America, I got very fat.",
     "_amerika_ ni {行ったら|ittara}, takusan {太りました|futorimashita}.",
     "verbたら + past = surprise, unexpected result"
+],
+[
+    "After going underground, we couldn't see Mt. Fuji. {plain}",
+    "{地下|chika} ni {入って|haitte}, {富士山|fujisan} ga {見えなく|mienaku} natta.",
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nい adj. - い + く + {成る|なる} = become ~"
 ]
 ])
