@@ -2172,7 +2172,7 @@ Flashcards.initialize([
 [
     "(I) didn't want to drink alcohol.",
     "{お酒|osake} wo {飲みたくなかった|nomitakunakatta} desu.",
-    "のむ -> のみたい -> のみたく -> のみたくない -> のみたくなかった\n~たい is usually used only in first person or in questions for the second person"
+    "~たい is usually used only in first person or in questions for the second person"
 ],
 [
     "Miki doesn't like beer very much.",
@@ -3567,7 +3567,7 @@ Flashcards.initialize([
 [
     "Why (are you) going home? {plain, soft explanation} ('Cos I've got) a headache.",
     "doushite {帰る|kaeru} no? {頭|atama} ga {痛い|itai} no.",
-    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
 ],
 [
     "(It's) cramped here, hot, the food is not delicious, and (it's) not (our) real home.",
@@ -4912,7 +4912,7 @@ Flashcards.initialize([
 [
     "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
     "{例えば|tatoeba} 「{私|watashi} wa {学生|gakusei} desu」 to 「{私|watashi} ga {学生|gakusei} desu」 no {場合|baai} {二つ目|futatsume} no {文章|bunshou} no {意味|imi} wa 「{他|hoka} no {人|hito} wa {学生|gakusei} ja nai」 desu ga, {一番目|ichibanme} no {文章|bunshou} wa 「{他|hoka} no {人|hito} mo {学生|gakusei} ka mo shirenai」 to iu {可能性|kanousei} ga {含まれます|fukumaremasu}.",
-    "と: complete list\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "と: complete list\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\n~ と {言う|いう} = called ~ (define)"
 ],
 [
     "Please make (it). Please don't make (it). Please use (it). Please don't use (it).",
@@ -5296,7 +5296,7 @@ Flashcards.initialize([
 [
     "In Hungarian, (this character) is read as \"kukac\" which means \"worm\".",
     "_hangarii_ {語|go} de wa, 「{虫|mushi}」 to iu {意味|imi} no 「*kukac*」 to {読みます|yomimasu}.",
-    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\n~ と {言う|いう} = called ~ (define)"
 ],
 [
     "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
@@ -5706,7 +5706,7 @@ Flashcards.initialize([
 [
     "There's a cute girl named Noriko at the volunteer class. {polite} There's a cute girl named Noriko at the volunteer class. {casual, spoken}",
     "ボランティア {教室|kyoushitsu} ni, {意子|noriko} to iu {可愛い|kawaii} {女|onna} no {子|ko} ga imasu. ボランティア {教室|kyoushitsu} ni, {意子って|norikotte} iu {可愛い|kawaii} {女|onna} no {子|ko} ga irunda.",
-    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\n~ と {言う|いう} = called ~ (define)"
 ],
 [
     "(I'll) drink it later so please leave the cup as it is. {から}",
@@ -5881,7 +5881,7 @@ Flashcards.initialize([
 [
     "That may be so, but (I) still like him. {plain}",
     "da kedo, {彼|kare} ga mada {好き|suki} na no.",
-    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)"
+    "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
 ],
 [
     "(I) went to the department store, and there was a lot of good stuff.",
@@ -5911,7 +5911,7 @@ Flashcards.initialize([
 [
     "(You) are to select a certain one from this. {plain}",
     "kono {中|naka} kara dore ka wo {選ぶ|erabu} no.",
-    "{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)"
+    "{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
 ],
 [
     "Nobody knows the answer to this question. {plain}",
@@ -6272,5 +6272,45 @@ Flashcards.initialize([
     "After going underground, we couldn't see Mt. Fuji. {plain}",
     "{地下|chika} ni {入って|haitte}, {富士山|fujisan} ga {見えなく|mienaku} natta.",
     "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nい adj. - い + く + {成る|なる} = become ~"
+],
+[
+    "What is this fish referred to as?",
+    "kore wa, nan to iu {魚|sakana} desu ka.",
+    "~ と {言う|いう} = called ~ (define)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+],
+[
+    "The most interesting thing was that the main character was the criminal. {plain}",
+    "{主人公|shujinkou} ga {犯人|han'nin} datta to iu no ga {一番|ichiban} {面白かった|omoshirokatta}.",
+    "~ と {言う|いう} = called ~ (define)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+],
+[
+    "It was a lie, that you were single? {plain}",
+    "{独身|dokushin} da to iu no wa, {嘘|uso} datta no?",
+    "~ と {言う|いう} = called ~ (define)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "\"Reboot\" means to restart the computer.",
+    "_ribuuto_ to iu no wa, _pasokon_ wo {再起動|saikidou} suru to iu koto desu.",
+    "~ と {言う|いう} = called ~ (define)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbう + こと = doing ~ (nominalize)"
+],
+[
+    "It's because you always come at times like these that (I'm) in trouble. {plain}",
+    "anata wa, itsumo kou iu {時|toki} ni {来る|kuru} n da kara, {困る|komaru} n da yo.",
+    "~ と {言う|いう} = called ~ (define)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
+],
+[
+    "Working together with that type of person is dislikeable, huh? {plain}",
+    "sou iu {人|hito} to {一緒|issho} ni {仕事|shigoto} wo suru no wa, {嫌い|kirai} da yo ne.",
+    "~ と {言う|いう} = called ~ (define)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+],
+[
+    "(I) think that (you) can become happy if (you) could marry that type of person.",
+    "aa iu {人|hito} to {結婚|kekkon} dekitara, {幸せ|shiawase} ni nareru to {思います|omoimasu}.",
+    "~ と {言う|いう} = called ~ (define)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nnoun/な adj. + に + {成る|なる} = become ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+],
+[
+    "What do (you) mean \"You're not going to go to college?\" {plain}",
+    "{大学|daigaku} ni {行かないって|ikanaitte}, dou iu {意味|imi} na no?",
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\n~ と {言う|いう} = called ~ (define)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
 ]
 ])

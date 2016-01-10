@@ -1040,3 +1040,8 @@
 奥様 okusama
 国民 kokumin
 長々 naganaga
+主人公 shujinkou
+再起動 saikidou
+独身 dokushin
+毒 doku
+毒性 dokusei

@@ -1322,3 +1322,48 @@
 265. アメリカ　に　いったら、　たくさん　ふとりました。
 265. When (I) went to America, I got very fat.
 265. reading: アメリカに行ったら、たくさん太りました。
+
+266. 地下に入って、富士山が見えなくなった。
+266. ちか　に　はいって、　ふじさん　が　みえなく　なった。
+266. After going underground, we couldn't see Mt. Fuji. (plain)
+266. reading: 地下に入って、富士山が見えなくなった。
+
+267. これは、なんという魚ですか。
+267. これ　は、　なん　と　いう　さかな　です　か。
+267. What is this fish referred to as?
+267. reading: これは、なんという魚ですか。
+
+268. 主人公が犯人だったというのが一番面白かった。
+268. しゅじんこう　が　はんにん　だった　と　いう　の　が　いちばん　おもしろかった。
+268. The most interesting thing was that the main character was the criminal. (plain)
+268. reading: 主人公が犯人だったというのが一番面白かった。
+
+269. 独身だというのは、嘘だったの?
+269. どくしん　だ　と　いう　の　は、　うそ　だった　の？
+269. It was a lie, that you were single? (plain)
+269. reading: 独身だというのは、嘘だったの?
+
+270. リブートというのは、パソコンを再起動するということです。
+270. リブート　と　いう　の　は、　パソコン　を　さいきどう　する　と　いう　こと　です。
+270. "Reboot" means to restart the computer.
+270. reading: リブートというのは、パソコンを再起動するということです。
+
+271. あなたは、いつもこういう時に来るんだから、困るんだよ。
+271. あなた　は、　いつも　こう　いう　とき　に　くる　ん　だ　から、　こまる　ん　だ　よ。
+271. It's because you always come at times like these that (I'm) in trouble. (plain)
+271. reading: あなたは、いつもこういう時に来るんだから、困るんだよ。
+
+272. そういう人と一緒に仕事をするのは、嫌いだよね。
+272. そう　いう　ひと　と　いっしょ　に　しごと　を　する　の　は、　きらい　だ　よ　ね。
+272. Working together with that type of person is dislikeable, huh? (plain)
+272. reading: そういう人と一緒に仕事をするのは、嫌いだよね。
+
+273. ああいう人と結婚できたら、幸せになれると思います。
+273. ああ　いう　ひと　と　けっこん　できたら、　しあわせ　に　なれる　と　おもいます。
+273. (I) think that (you) can become happy if (you) could marry that type of person.
+273. reading: ああいう人と結婚できたら、幸せになれると思います。
+
+274. 大学に行かないって、どういう意味なの?
+274. だいがく　に　いかないって、　どう　いう　いみ　な　の？
+274. What do (you) mean "You're not going to go to college?" (plain)
+274. reading: 大学に行かないって、どういう意味なの?

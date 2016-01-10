@@ -7,13 +7,14 @@ A や B や C など = A, B, C, etc.
 や: incomplete list
 へ = to, towards, pronounced as え
 わ at end of sentence = women make informal statement softer or emotional, men may use it after ~ます/です
-の at end of sentence = informal version of の/ん + です (の/ん: female, のだ/んだ: male)
+の at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)
 とか links representative examples of a class (A and B, and other things)
 {何で|なんで}: colloquial "why", {何|なに}で: by what, with what?
 か in casual speech = rhetorical question, sarcasm, true or not
 か at end of clause = talking about a question
 し at end of clause = multiple reasons, etc.
 「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)
+~ と {言う|いう} = called ~ (define)
 
 Question words
 ==============
