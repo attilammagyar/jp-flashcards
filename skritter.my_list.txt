@@ -1045,3 +1045,11 @@
 独身 dokushin
 毒 doku
 毒性 dokusei
+当てはまる atehamaru
+手にする te ni suru
+うんざり unzari
+意志 ishi 
+堕落 daraku
+自堕落 jidaraku
+人間 jingen 
+褒める homeru
