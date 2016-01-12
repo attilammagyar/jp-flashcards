@@ -1053,3 +1053,5 @@
 自堕落 jidaraku
 人間 jingen 
 褒める homeru
+主語 shugo
+目的語 mokutekigo
