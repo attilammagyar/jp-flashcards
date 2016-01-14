@@ -1055,3 +1055,17 @@
 褒める homeru
 主語 shugo
 目的語 mokutekigo
+一般 ippan
+一般に ippan ni
+一般論 ippanron
+省略 shouryaku
+歯切れ hagire
+嫌悪 ken'o
+自己嫌悪 jikoken'o
+陥る ochiiru
+固い katai
+硬い katai
+飽きる akiru
+適切 tekisetsu
+直感 chokkan
+最低 saitei
