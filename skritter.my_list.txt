@@ -1069,3 +1069,4 @@
 適切 tekisetsu
 直感 chokkan
 最低 saitei
+文脈 bunmyaku
