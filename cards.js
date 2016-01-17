@@ -2751,7 +2751,7 @@ Flashcards.initialize([
     ],
     [
         "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
-        "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u3068{\u8a71\u3057\u305f\u3044|\u306f\u306a\u3057\u305f\u3044}{\u5834\u5408|\u3070\u3042\u3044}\u306f\u3001\u3057\u3087\u304f\u3044\u3093\u3057\u3064\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u3002",
+        "{\u5148\u751f|\u305b\u3093\u305b\u3044}\u3068{\u8a71\u3057\u305f\u3044|\u306f\u306a\u3057\u305f\u3044}{\u5834\u5408|\u3070\u3042\u3044}\u306f\u3001{\u8077\u54e1\u5ba4|\u3057\u3087\u304f\u3044\u3093\u3057\u3064}\u306b{\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3082\u3044\u3044\u3067\u3059\u3002",
         "verb stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
     ],
     [
@@ -2906,7 +2906,7 @@ Flashcards.initialize([
     ],
     [
         "(I'm) sorry (I'm) late. From now on, let's keep the curfew.",
-        "{\u9045\u308c\u3066|\u304a\u304f\u308c\u3066}\u3059\u307f\u307e\u305b\u3093\u3002{\u6b64\u308c\u304b\u3089|\u3053\u308c\u304b\u3089}\u306f\u3082\u3093\u3052\u3093\u3092{\u5b88\u308a\u307e\u3057\u3087\u3046|\u307e\u3082\u308a\u307e\u3057\u3087\u3046}\u3002",
+        "{\u9045\u308c\u3066|\u304a\u304f\u308c\u3066}\u3059\u307f\u307e\u305b\u3093\u3002{\u6b64\u308c\u304b\u3089|\u3053\u308c\u304b\u3089}\u306f{\u9580\u9650|\u3082\u3093\u3052\u3093}\u3092{\u5b88\u308a\u307e\u3057\u3087\u3046|\u307e\u3082\u308a\u307e\u3057\u3087\u3046}\u3002",
         ""
     ],
     [
@@ -3606,7 +3606,7 @@ Flashcards.initialize([
     ],
     [
         "That blue sky, the wide ocean, the cold wind, the fresh fish...",
-        "\u3042\u306e{\u9752\u3044|\u3042\u304a\u3044}{\u7a7a|\u305d\u3089}\u3001{\u5e83\u3044|\u3072\u308d\u3044}{\u6d77|\u3046\u307f}\u3001\u3057\u3093\u305b\u3093\u306a{\u9b5a|\u3055\u304b\u306a}\u2026",
+        "\u3042\u306e{\u9752\u3044|\u3042\u304a\u3044}{\u7a7a|\u305d\u3089}\u3001{\u5e83\u3044|\u3072\u308d\u3044}{\u6d77|\u3046\u307f}\u3001{\u65b0\u9bae|\u3057\u3093\u305b\u3093}\u306a{\u9b5a|\u3055\u304b\u306a}\u2026",
         ""
     ],
     [
@@ -4926,7 +4926,7 @@ Flashcards.initialize([
     ],
     [
         "Please don't go into that meeting room.",
-        "\u3042\u306e\u304b\u3044\u304e\u3057\u3064\u306b{\u5165\u3089\u306a\u3044|\u306f\u3044\u3089\u306a\u3044}\u3067\u304f\u3060\u3055\u3044\u3002",
+        "\u3042\u306e{\u4f1a\u8b70\u5ba4|\u304b\u3044\u304e\u3057\u3064}\u306b{\u5165\u3089\u306a\u3044|\u306f\u3044\u3089\u306a\u3044}\u3067\u304f\u3060\u3055\u3044\u3002",
         "verb\u306a\u3044 + \u3067 + \u304f\u3060\u3055\u3044 = please don't ~"
     ],
     [
@@ -4976,7 +4976,7 @@ Flashcards.initialize([
     ],
     [
         "The fish must be fresh.",
-        "{\u9b5a|\u3055\u304b\u306a}\u306f\u3057\u3093\u305b\u3093\u3067\u306a\u3044\u3068\u3044\u3051\u307e\u305b\u3093\u3002",
+        "{\u9b5a|\u3055\u304b\u306a}\u306f{\u65b0\u9bae|\u3057\u3093\u305b\u3093}\u3067\u306a\u3044\u3068\u3044\u3051\u307e\u305b\u3093\u3002",
         "noun/\u306a-adj. + \u3067 + \u306a\u3044 + \u3068 + \u3044\u3051\u306a\u3044 = I must be ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to"
     ],
     [
@@ -5011,7 +5011,7 @@ Flashcards.initialize([
     ],
     [
         "(You) don't have to attend the meeting.",
-        "\u304b\u3044\u304e\u306b\u3057\u3085\u3063\u305b\u304d\u3057\u306a\u304f\u3066\u3082\u3044\u3044\u3067\u3059\u3002",
+        "{\u4f1a\u8b70|\u304b\u3044\u304e}\u306b{\u51fa\u5e2d|\u3057\u3085\u3063\u305b\u304d}\u3057\u306a\u304f\u3066\u3082\u3044\u3044\u3067\u3059\u3002",
         "verb\u306a\u3044 - \u3044 + \u304f\u3066 + \u3082 + \u3044\u3044 + \u3067\u3059 = don't have to ~"
     ],
     [
@@ -6318,5 +6318,10 @@ Flashcards.initialize([
         "What do (you) mean \"You're not going to go to college?\" {plain}",
         "{\u5927\u5b66|\u3060\u3044\u304c\u304f}\u306b{\u884c\u304b\u306a\u3044\u3063\u3066|\u3044\u304b\u306a\u3044\u3063\u3066}\u3001\u3069\u3046\u3044\u3046{\u610f\u5473|\u3044\u307f}\u306a\u306e?",
         "\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\nnoun/\u306a-adj. + \u306a + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059 (\u306e/\u3093: female/question, \u306e\u3060/\u3093\u3060: male)"
+    ],
+    [
+        "Happy New Year! {casual, short}",
+        "\u3042\u3051\u304a\u3081\u3053\u3068\u3088\u308d\u3002",
+        ""
     ]
 ])

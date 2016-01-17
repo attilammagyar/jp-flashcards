@@ -1070,3 +1070,5 @@
 直感 chokkan
 最低 saitei
 文脈 bunmyaku
+上記 jouki
+略して ryakushite

@@ -1367,3 +1367,8 @@
 274. だいがく　に　いかないって、　どう　いう　いみ　な　の？
 274. What do (you) mean "You're not going to go to college?" (plain)
 274. reading: 大学に行かないって、どういう意味なの?
+
+275. あけおめことよろ。
+275. あけおめことよろ。
+275. Happy New Year! (casual, short)
+275. reading: あけおめことよろ。

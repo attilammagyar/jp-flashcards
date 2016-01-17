@@ -2751,7 +2751,7 @@ Flashcards.initialize([
 ],
 [
     "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
-    "{先生|sensei} to {話したい|hanashitai} {場合|baai} wa, shokuinshitsu ni {入って|haitte} mo ii desu.",
+    "{先生|sensei} to {話したい|hanashitai} {場合|baai} wa, {職員室|shokuinshitsu} ni {入って|haitte} mo ii desu.",
     "verb stem + たい = want to ~ (verb --> い adj.)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
 ],
 [
@@ -2906,7 +2906,7 @@ Flashcards.initialize([
 ],
 [
     "(I'm) sorry (I'm) late. From now on, let's keep the curfew.",
-    "{遅れて|okurete} sumimasen. {此れから|korekara} wa mongen wo {守りましょう|mamorimashou}.",
+    "{遅れて|okurete} sumimasen. {此れから|korekara} wa {門限|mongen} wo {守りましょう|mamorimashou}.",
     ""
 ],
 [
@@ -3606,7 +3606,7 @@ Flashcards.initialize([
 ],
 [
     "That blue sky, the wide ocean, the cold wind, the fresh fish...",
-    "ano {青い|aoi} {空|sora}, {広い|hiroi} {海|umi}, shinsen na {魚|sakana}...",
+    "ano {青い|aoi} {空|sora}, {広い|hiroi} {海|umi}, {新鮮|shinsen} na {魚|sakana}...",
     ""
 ],
 [
@@ -4926,7 +4926,7 @@ Flashcards.initialize([
 ],
 [
     "Please don't go into that meeting room.",
-    "ano kaigishitsu ni {入らない|hairanai} de kudasai.",
+    "ano {会議室|kaigishitsu} ni {入らない|hairanai} de kudasai.",
     "verbない + で + ください = please don't ~"
 ],
 [
@@ -4973,7 +4973,7 @@ Flashcards.initialize([
     "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
 ],[
     "The fish must be fresh.",
-    "{魚|sakana} wa shinsen de nai to ikemasen.",
+    "{魚|sakana} wa {新鮮|shinsen} de nai to ikemasen.",
     "noun/な-adj. + で + ない + と + いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
 ],[
     "(I) must go (home) already. {spoken plain, spoken plain}",
@@ -5005,7 +5005,7 @@ Flashcards.initialize([
 ],
 [
     "(You) don't have to attend the meeting.",
-    "kaigi ni shusseki shinakute mo ii desu.",
+    "{会議|kaigi} ni {出席|shusseki} shinakute mo ii desu.",
     "verbない - い + くて + も + いい + です = don't have to ~"
 ],
 [
@@ -6312,5 +6312,10 @@ Flashcards.initialize([
     "What do (you) mean \"You're not going to go to college?\" {plain}",
     "{大学|daigaku} ni {行かないって|ikanaitte}, dou iu {意味|imi} na no?",
     "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\n~ と {言う|いう} = called ~ (define)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
+],
+[
+    "Happy New Year! {casual, short}",
+    "akeomekotoyoro.",
+    ""
 ]
 ])
