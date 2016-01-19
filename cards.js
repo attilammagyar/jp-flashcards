@@ -4912,7 +4912,7 @@ Flashcards.initialize([
     [
         "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
         "{\u4f8b\u3048\u3070|\u305f\u3068\u3048\u3070}\u300c{\u79c1|\u308f\u305f\u3057}\u306f{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u3067\u3059\u300d\u3068\u300c{\u79c1|\u308f\u305f\u3057}\u304c{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u3067\u3059\u300d\u306e{\u5834\u5408|\u3070\u3042\u3044}{\u4e8c\u3064\u76ee|\u3075\u305f\u3064\u3081}\u306e{\u6587\u7ae0|\u3076\u3093\u3057\u3087\u3046}\u306e{\u610f\u5473|\u3044\u307f}\u306f\u300c{\u4ed6|\u307b\u304b}\u306e{\u4eba|\u3072\u3068}\u306f{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u3058\u3083\u306a\u3044\u300d\u3067\u3059\u304c\u3001{\u4e00\u756a\u76ee|\u3044\u3061\u3070\u3093\u3081}\u306e{\u6587\u7ae0|\u3076\u3093\u3057\u3087\u3046}\u306f\u300c{\u4ed6|\u307b\u304b}\u306e{\u4eba|\u3072\u3068}\u3082{\u5b66\u751f|\u304c\u304f\u305b\u3044}\u304b\u3082\u3057\u308c\u306a\u3044\u300d\u3068\u3044\u3046{\u53ef\u80fd\u6027|\u304b\u306e\u3046\u305b\u3044}\u304c{\u542b\u307e\u308c\u307e\u3059|\u3075\u304f\u307e\u308c\u307e\u3059}\u3002",
-        "\u3068: complete list\nverb\u3046 + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might do ~, possibly (will) do ~\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)"
+        "\u3068: complete list\nverb\u3046 + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might do ~, possibly (will) do ~\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)"
     ],
     [
         "Please make (it). Please don't make (it). Please use (it). Please don't use (it).",
@@ -5302,7 +5302,7 @@ Flashcards.initialize([
     [
         "In Hungarian, (this character) is read as \"kukac\" which means \"worm\".",
         "\u30cf\u30f3\u30ac\u30ea\u30fc{\u8a9e|\u3054}\u3067\u306f\u3001\u300c{\u866b|\u3080\u3057}\u300d\u3068\u3044\u3046{\u610f\u5473|\u3044\u307f}\u306e\u300ckukac\u300d\u3068{\u8aad\u307f\u307e\u3059|\u3088\u307f\u307e\u3059}\u3002",
-        "\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)"
+        "\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)"
     ],
     [
         "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
@@ -5712,7 +5712,7 @@ Flashcards.initialize([
     [
         "There's a cute girl named Noriko at the volunteer class. {polite} There's a cute girl named Noriko at the volunteer class. {casual, spoken}",
         "\u30dc\u30e9\u30f3\u30c6\u30a3\u30a2{\u6559\u5ba4|\u304d\u3087\u3046\u3057\u3064}\u306b\u3001{\u610f\u5b50|\u306e\u308a\u3053}\u3068\u3044\u3046{\u53ef\u611b\u3044|\u304b\u308f\u3044\u3044}{\u5973|\u304a\u3093\u3042}\u306e{\u5b50|\u3053}\u304c\u3044\u307e\u3059\u3002\u30dc\u30e9\u30f3\u30c6\u30a3\u30a2{\u6559\u5ba4|\u304d\u3087\u3046\u3057\u3064}\u306b\u3001{\u610f\u5b50\u3063\u3066|\u306e\u308a\u3053\u3063\u3066}\u3044\u3046{\u53ef\u611b\u3044|\u304b\u308f\u3044\u3044}{\u5973|\u304a\u3093\u3042}\u306e{\u5b50|\u3053}\u304c\u3044\u308b\u3093\u3060\u3002",
-        "\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)"
+        "\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)"
     ],
     [
         "(I'll) drink it later so please leave the cup as it is. {\u304b\u3089}",
@@ -6282,46 +6282,76 @@ Flashcards.initialize([
     [
         "What is this fish referred to as?",
         "\u3053\u308c\u306f\u3001\u306a\u3093\u3068\u3044\u3046{\u9b5a|\u3055\u304b\u306a}\u3067\u3059\u304b\u3002",
-        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)"
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)"
     ],
     [
         "The most interesting thing was that the main character was the criminal. {plain}",
         "{\u4e3b\u4eba\u516c|\u3057\u3085\u3058\u3093\u3053\u3046}\u304c{\u72af\u4eba|\u306f\u3093\u306b\u3093}\u3060\u3063\u305f\u3068\u3044\u3046\u306e\u304c{\u4e00\u756a|\u3044\u3061\u3070\u3093}{\u9762\u767d\u304b\u3063\u305f|\u304a\u3082\u3057\u308d\u304b\u3063\u305f}\u3002",
-        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)"
     ],
     [
         "It was a lie, that you were single? {plain}",
         "{\u72ec\u8eab|\u3069\u304f\u3057\u3093}\u3060\u3068\u3044\u3046\u306e\u306f\u3001{\u5618|\u3046\u305d}\u3060\u3063\u305f\u306e?",
-        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059 (\u306e/\u3093: female/question, \u306e\u3060/\u3093\u3060: male)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059 (\u306e/\u3093: female/question, \u306e\u3060/\u3093\u3060: male)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
         "\"Reboot\" means to restart the computer.",
         "\u30ea\u30d6\u30fc\u30c8\u3068\u3044\u3046\u306e\u306f\u3001\u30d1\u30bd\u30b3\u30f3\u3092{\u518d\u8d77\u52d5|\u3055\u3044\u304d\u3069\u3046}\u3059\u308b\u3068\u3044\u3046\u3053\u3068\u3067\u3059\u3002",
-        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverb\u3046 + \u3053\u3068 = doing ~ (nominalize)"
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverb\u3046 + \u3053\u3068 = doing ~ (nominalize)"
     ],
     [
         "It's because you always come at times like these that (I'm) in trouble. {plain}",
         "\u3042\u306a\u305f\u306f\u3001\u3044\u3064\u3082\u3053\u3046\u3044\u3046{\u6642|\u3068\u304d}\u306b{\u6765\u308b|\u304f\u308b}\u3093\u3060\u304b\u3089\u3001{\u56f0\u308b|\u3053\u307e\u308b}\u3093\u3060\u3088\u3002",
-        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun/\u306a-adj. + \u306a + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059 (\u306e/\u3093: female/question, \u306e\u3060/\u3093\u3060: male)"
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun/\u306a-adj. + \u306a + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059 (\u306e/\u3093: female/question, \u306e\u3060/\u3093\u3060: male)"
     ],
     [
         "Working together with that type of person is dislikeable, huh? {plain}",
         "\u305d\u3046\u3044\u3046{\u4eba|\u3072\u3068}\u3068{\u4e00\u7dd2|\u3044\u3063\u3057\u3087}\u306b{\u4ed5\u4e8b|\u3057\u3054\u3068}\u3092\u3059\u308b\u306e\u306f\u3001{\u5acc\u3044|\u304d\u3089\u3044}\u3060\u3088\u306d\u3002",
-        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)"
     ],
     [
         "(I) think that (you) can become happy if (you) could marry that type of person.",
         "\u3042\u3042\u3044\u3046{\u4eba|\u3072\u3068}\u3068{\u7d50\u5a5a|\u3051\u3063\u3053\u3093}\u3067\u304d\u305f\u3089\u3001{\u5e78\u305b|\u3057\u3042\u308f\u305b}\u306b\u306a\u308c\u308b\u3068{\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nnoun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)"
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nnoun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)"
     ],
     [
         "What do (you) mean \"You're not going to go to college?\" {plain}",
         "{\u5927\u5b66|\u3060\u3044\u304c\u304f}\u306b{\u884c\u304b\u306a\u3044\u3063\u3066|\u3044\u304b\u306a\u3044\u3063\u3066}\u3001\u3069\u3046\u3044\u3046{\u610f\u5473|\u3044\u307f}\u306a\u306e?",
-        "\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\nnoun/\u306a-adj. + \u306a + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059 (\u306e/\u3093: female/question, \u306e\u3060/\u3093\u3060: male)"
+        "\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)\nnoun/\u306a-adj. + \u306a + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u306e at end of sentence = informal version of \u306e/\u3093 + \u3067\u3059 (\u306e/\u3093: female/question, \u306e\u3060/\u3093\u3060: male)"
     ],
     [
         "Happy New Year! {casual, short}",
         "\u3042\u3051\u304a\u3081\u3053\u3068\u3088\u308d\u3002",
         ""
+    ],
+    [
+        "The meal is not over when I'm full. The meal is over when I hate myself. {plain}",
+        "{\u50d5|\u307c\u304f}\u304c{\u98df\u4e8b|\u3057\u3087\u304f\u3058}\u3092{\u7d42\u3048\u308b|\u304a\u3048\u308b}\u306e\u306f{\u304a\u8179|\u304a\u306a\u304c}\u304c\u3044\u3063\u3071\u3044\u306b\u306a\u3063\u305f{\u6642|\u3068\u304d}\u3058\u3083\u306a\u3044\u3002{\u81ea\u5206|\u3058\u3076\u3093}\u306b\u3046\u3093\u3056\u308a\u3057\u3066\u3057\u307e\u3063\u305f{\u6642|\u3068\u304d}\u3060\u3088\u3002",
+        "verb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+    ],
+    [
+        "Miki-chan is (your) girlfriend, right? Um, (you) might say girlfriend, or friend, or something. {plain}",
+        "{\u4e09\u6728|\u307f\u304d}\u3061\u3083\u3093\u306f\u3001\u3042\u3093\u305f\u306e{\u5f7c\u5973|\u304b\u306e\u3058\u3087}\u3067\u3057\u3087\u3046?\u3046\u3046\u3093\u3001{\u5f7c\u5973|\u304b\u306e\u3058\u3087}\u3068\u3044\u3046\u304b\u3001{\u53cb\u9054|\u3068\u3082\u3060\u3061}\u3068\u3044\u3046\u304b\u3001\u306a\u3093\u3068\u3044\u3046\u304b\u2026",
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} \u304b = rephrase a conclusion / or rather ~ (often casual)"
+    ],
+    [
+        "(I) like alcohol, or rather, (I) can't live without it. {plain}",
+        "{\u304a\u9152|\u304a\u3055\u3051}\u306f{\u597d\u304d|\u3059\u304d}\u3068\u3044\u3046\u304b\u3001\u306a\u3044\u3068{\u751f\u304d\u3066|\u3044\u304d\u3066}\u3044\u3051\u306a\u3044\u3002",
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} \u304b = rephrase a conclusion / or rather ~ (often casual)"
+    ],
+    [
+        "Maybe (I) don't think (I'll) go. Or rather, (I) can't because (I) have no money. {plain}",
+        "{\u591a\u5206|\u305f\u3076\u3093}{\u884c\u304b\u306a\u3044|\u3044\u304b\u306a\u3044}\u3068{\u601d\u3046|\u304a\u3082\u3046}\u3002\u3068\u3044\u3046\u304b\u3001{\u304a\u91d1|\u304a\u304b\u306d}\u304c\u306a\u3044\u304b\u3089\u3001{\u884c\u3051\u306a\u3044|\u3044\u3051\u306a\u3044}\u3002",
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} \u304b = rephrase a conclusion / or rather ~ (often casual)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+    ],
+    [
+        "Rather than that, (I) must go home already. {plain}",
+        "\u3068\u3044\u3046\u304b\u3001\u3082\u3046{\u5e30\u3089\u306a\u3044|\u304b\u3048\u3089\u306a\u3044}\u3068\u3060\u3081\u3067\u3059\u3051\u3069\u3002",
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} \u304b = rephrase a conclusion / or rather ~ (often casual)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+    ],
+    [
+        "(I) heard that Miki-chan broke up with Yousuke. Does that mean that Miki-chan doesn't have a boyfriend now? That's right. That's what it means. {plain}",
+        "{\u4e09\u6728|\u307f\u304d}\u3061\u3083\u3093\u304c{\u6d0b\u4ecb|\u3088\u3046\u3059\u3051}\u3068{\u5225\u308c\u305f|\u308f\u304b\u308c\u305f}\u3093\u3060\u3063\u3066\u3002\u3068\u3044\u3046\u3053\u3068\u306f\u3001{\u4e09\u6728|\u307f\u304d}\u3061\u3083\u3093\u306f\u3001{\u4eca|\u3044\u307e}{\u5f7c\u6c0f|\u304b\u308c\u3057}\u304c\u306a\u3044\u3068\u3044\u3046\u3053\u3068?\u305d\u3046\u3002\u305d\u3046\u3044\u3046\u3053\u3068\u3002",
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} \u3053\u3068 = sum up something (often casual)"
     ]
 ])

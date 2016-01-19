@@ -14,7 +14,8 @@ A や B や C など = A, B, C, etc.
 か at end of clause = talking about a question
 し at end of clause = multiple reasons, etc.
 「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)
-~ と {言う|いう} = called ~ (define)
+~ と {言う|いう} = called ~ (define; casual: ~って)
+~ と {言う|いう} か = rephrase a conclusion / or rather ~ (often casual)
 
 Question words
 ==============
