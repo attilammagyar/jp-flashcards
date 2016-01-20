@@ -1372,3 +1372,28 @@
 275. あけおめことよろ。
 275. Happy New Year! (casual, short)
 275. reading: あけおめことよろ。
+
+276. 僕が食事を終えるのはお腹がいっぱいになった時じゃない。自分にうんざりしてしまった時だよ。
+276. ぼく　が　しょくじ　を　おえる　の　は　おなか　が　いっぱい　に　なった　とき　じゃない。　じぶん　に　うんざり　して　しまった　とき　だ　よ。
+276. The meal is not over when I'm full. The meal is over when I hate myself. (plain)
+276. reading: 僕が食事を終えるのは　おなか　がいっぱいになった時じゃない。自分にうんざりしてしまった時だよ。
+
+277. お酒は好きというか、ないと生きていけない。
+277. おさけ　は　すき　と　いう　か、　ない　と　いきて　いけない。
+277. (I) like alcohol, or rather, (I) can't live without it. (plain)
+277. reading: お酒は好きというか、ないと生きていけない。
+
+278. 三木ちゃんは、あんたの彼女でしょう?ううん、彼女というか、友達というか、なんというか…三木ちゃんが洋介と別れたんだって。ということは、三木ちゃんは、今彼氏がないということ?そう。そういうこと。
+278. みき　ちゃん　は、　あんた　の　かのじ　でしょう？　ううん、　かのじょ　と　いう　か、　ともだち　と　いう　か、　なん　と　いう　か…　みき　ちゃん　が　ようすけ　と　わかれた　ん　だった。　と　いう　こと　は、　みき　ちゃん　は、　いま　かれし　が　ない　と　いう　こと？　そう。　そう　いう　こと。
+278. Miki-chan is (your) girlfriend, right? Um, (you) might say girlfriend, or friend, or something. (plain) (I) heard that Miki-chan broke up with Yousuke. Does that mean that Miki-chan doesn't have a boyfriend now? That's right. That's what it means. (plain)
+278. reading: 三木ちゃんは、あんたの彼女でしょう?ううん、彼女というか、友達というか、なんというか…三木ちゃんが洋介と別れたんだって。ということは、三木ちゃんは、今彼氏がないということ?そう。そういうこと。
+
+279. 多分行かないと思う。というか、お金がないから、行けない。
+279. たぶん　いかない　と　おもう。　と　いう　か、　おかね　が　ない　から、　いけない。
+279. Maybe (I) don't think (I'll) go. Or rather, (I) can't because (I) have no money. (plain)
+279. reading: 多分行かないと思う。というか、お金がないから、行けない。
+
+280. というか、もう帰らないとだめですけど。
+280. と　いう　か、　もう　かえらない　と　だめ　です　けど。
+280. Rather than that, (I) must go home already. (plain)
+280. reading: というか、もう帰らないとだめですけど。
