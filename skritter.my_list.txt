@@ -1088,3 +1088,4 @@
 求人広告 kyuujinkoukoku
 筆記試験 hikkishiken
 人類 jinrui
+規制 kisei
