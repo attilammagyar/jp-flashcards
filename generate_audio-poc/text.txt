@@ -1383,10 +1383,10 @@
 277. (I) like alcohol, or rather, (I) can't live without it. (plain)
 277. reading: お酒は好きというか、ないと生きていけない。
 
-278. 三木ちゃんは、あんたの彼女でしょう?ううん、彼女というか、友達というか、なんというか…三木ちゃんが洋介と別れたんだって。ということは、三木ちゃんは、今彼氏がないということ?そう。そういうこと。
-278. みき　ちゃん　は、　あんた　の　かのじ　でしょう？　ううん、　かのじょ　と　いう　か、　ともだち　と　いう　か、　なん　と　いう　か…　みき　ちゃん　が　ようすけ　と　わかれた　ん　だった。　と　いう　こと　は、　みき　ちゃん　は、　いま　かれし　が　ない　と　いう　こと？　そう。　そう　いう　こと。
+278. 三木ちゃんは、あんたの彼女でしょう?ううん、彼女というか、友達というか、なんというか…三木ちゃんが洋介と別れたんだって。ということは、三木ちゃんは、今彼氏がいないということ?そう。そういうこと。
+278. みき　ちゃん　は、　あんた　の　かのじ　でしょう？　ううん、　かのじょ　と　いう　か、　ともだち　と　いう　か、　なん　と　いう　か…　みき　ちゃん　が　ようすけ　と　わかれた　ん　だった。　と　いう　こと　は、　みき　ちゃん　は、　いま　かれし　が　いない　と　いう　こと？　そう。　そう　いう　こと。
 278. Miki-chan is (your) girlfriend, right? Um, (you) might say girlfriend, or friend, or something. (plain) (I) heard that Miki-chan broke up with Yousuke. Does that mean that Miki-chan doesn't have a boyfriend now? That's right. That's what it means. (plain)
-278. reading: 三木ちゃんは、あんたの彼女でしょう?ううん、彼女というか、友達というか、なんというか…三木ちゃんが洋介と別れたんだって。ということは、三木ちゃんは、今彼氏がないということ?そう。そういうこと。
+278. reading: 三木ちゃんは、あんたの彼女でしょう?ううん、彼女というか、友達というか、なんというか…三木ちゃんが洋介と別れたんだって。ということは、三木ちゃんは、今彼氏がいないということ?そう。そういうこと。
 
 279. 多分行かないと思う。というか、お金がないから、行けない。
 279. たぶん　いかない　と　おもう。　と　いう　か、　おかね　が　ない　から、　いけない。
@@ -1397,3 +1397,53 @@
 280. と　いう　か、　もう　かえらない　と　だめ　です　けど。
 280. Rather than that, (I) must go home already. (plain)
 280. reading: というか、もう帰らないとだめですけど。
+
+281. 来年留学するというのは、智子のこと?来年留学するって、智子のこと?
+281. らいねん　りゅうがく　する　と　いう　の　は、　ともこ　の　こと?　らいねん　りゅうがく　するって、　ともこ　の　こと?
+281. The studying abroad next year thing, is that Tomoko? (casual)
+281. reading: 来年留学するというのは、智子のこと?来年留学するって、智子のこと?
+
+282. しないとだめよ。だって、時間がないからできないよ。
+282. しない　と　だめ　よ。　だって、　じかん　が　ない　から　できない　よ。
+282. (You) have to do it, you know. But (I) can't do it because (I) don't have time. (casual)
+282. reading: しないとだめよ。だって、時間がないからできないよ。
+
+283. 行かなくてもいいよ。だって、皆行くって。私も行かないと。
+283. いかなくて　も　いい　よ。　だって、　みんな　いくって。　わたし　も　いかない　と。
+283. (You) don't have to go, you know. But everybody said they're going. I have to go too. (casual)
+283. reading: 行かなくてもいいよ。だって、皆行くって。私も行かないと。
+
+284. てことは、三木ちゃんは、今彼氏がいないてこと?
+284. て　こと　は、　みき　ちゃん　は、　いま　かれし　が　いない　て　こと?
+284. Does that mean that Miki-chan doesn't have a boyfriend now? (casual, slang/short)
+284. reading: て　こと　は、　みきちゃん　は、　いま　彼氏　が　いない　て　こと?
+
+285. ていうか、もう帰らないとだめですけど。
+285. て　いう　か、　もう　かえらない　と　だめ　です　けど。
+285. Rather than that, (I) have to go home already. (casual, slang/short)
+285. reading: て　いう　か、　もう　帰らない　と　だめ　です　けど。
+
+286. そうゆうことじゃないって!
+286. そうゆうことじゃないって!
+286. (I) said it's not like that! (casual, spoken)
+286. reading: そうゆうことじゃないって!
+
+287. お好み焼きを初めて食べてみたけど、とても美味しかった!
+287. おこのみやき　を　はじめて　たべて　みた　けど、　とても　おいしかった!
+287. (I) tried eating okonomiyaki for the first time and it was very tasty! (plain)
+287. readng: おこのみやき　を　はじめて　たべて　みた　けど、　とても　おいしかった!
+
+288. 毎日、勉強を避けようとする。無理矢理に部屋に入ろうとしている。
+288. まいにち、　べんきょう　を　さけよう　と　する。　むりやり　に　へや　に　はいろう　と　して　いる。
+288. (He) attempts to avoid study every day. (plain)　(He's) attempting to force (his) way into the room. (plain)
+288. reading: 毎日、勉強を避けようとする。　むりやり　に　へや　に　はいろう　と　して　いる。
+
+289. 早く寝ようとしたけど、結局は徹夜した。
+289. 早く寝ようとしたけど、結局は徹夜した。
+289. (I) attempted to sleep early, but (I) ended up staying up all night. (plain)
+289. reading: 早く寝ようとしたけど、結局は徹夜した。
+
+290. 毎日ジムに行こうと決めた。
+290. まいにち　ジム　に　いこう　と　きめた。
+290. (I) decided to attempt to go to the gym every day. (plain)
+290. reading: 毎日ジムに行こうと決めた。

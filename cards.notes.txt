@@ -13,9 +13,14 @@ A や B や C など = A, B, C, etc.
 か in casual speech = rhetorical question, sarcasm, true or not
 か at end of clause = talking about a question
 し at end of clause = multiple reasons, etc.
-「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)
-~ と {言う|いう} = called ~ (define; casual: ~って)
+
+Quotes
+======
+「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)
+~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)
 ~ と {言う|いう} か = rephrase a conclusion / or rather ~ (often casual)
+~ て = ~って, except for things actually said/heard
+ゆう = {言う|いう} (casual)
 
 Question words
 ==============
@@ -251,7 +256,7 @@ verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leavi
 verbおう/よう = talking about/to self, I _will_, shall I?
 verbおう/よう + と + {思う|おもう} = I think I _will_ ~
 verbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~
-verbおう/よう + と + する = struggle with ~, tried ~ but failed
+verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)
 verbおう/よう + と + して + いる = to be about to do ~
 
 ~ない

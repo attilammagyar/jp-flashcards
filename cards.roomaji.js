@@ -4282,7 +4282,7 @@ Flashcards.initialize([
 [
     "(I) think (I) _will_ return to America next year.",
     "{来年|rainen} _amerika_ ni {帰ろう|kaerou} to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "I _will_ go to Kyoto next week.",
@@ -4292,12 +4292,12 @@ Flashcards.initialize([
 [
     "(I) think (I) _will_ go to Europe next year.",
     "{来年|rainen} _yooroppa_ ni {行こう|ikou} to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "(I) tried to learn Spanish but (I) wasn't very good.",
     "_supein_ {語|go} wo {習おう|naraou} to shimashita ga {余り|amari} {上手|jouzu} ja arimasen deshita.",
-    "verbおう/よう + と + する = struggle with ~, tried ~ but failed"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
 ],
 [
     "(It) will probably rain tomorrow. {plain}",
@@ -4347,27 +4347,27 @@ Flashcards.initialize([
 [
     "(I) think (I) will go to South America. Miki is thinking (she) will go to South America.",
     "{南|minami} _amerika_ ni {行こう|ikou} to {思います|omoimasu}. {三木|miki} san wa {南|minami} _amerika_ ni {行こう|ikou} to {思って|omotte} imasu.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "(I) hope to go to South America. (I) think (I) will go to South America. (I) plan to go to South America.",
     "{南|minami} _amerika_ ni {行きたい|ikitai} to {思います|omoimasu}. {南|minami} _amerika_ ni {行こう|ikou} to {思います|omoimasu}. {南|minami} _amerika_ ni {行く|iku} tsumori desu.",
-    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbう + つもり = intend to ~"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう + つもり = intend to ~"
 ],
 [
     "(I) think (I) will go to Japan next year. (My) mom thinks (she) will go to Europe next year.",
     "{来年|rainen} {日本|nihon} ni {行こう|ikou} to {思います|omoimasu}. {母|haha} wa {来年|rainen} _yooroppa_ ni {行こう|ikou} to {思って|omotte} imasu.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "(I) think (I) will send that email.",
     "sono *e*_meeru_ wo {出そう|dasou} to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "Takeshi thinks (he) will meet with Miki again.",
     "takeshi san wa {三木|miki} san ni mata {会おう|aou} to {思って|omotte} imasu.",
-    "verbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "verbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "(You're) sharp, aren't you?",
@@ -4412,7 +4412,7 @@ Flashcards.initialize([
 [
     "(I) tried to learn Spanish (but I failed). (I) had a go at learning Spanish.",
     "_supein_ {語|go} wo {習おう|naraou} to shimashita. _supein_ {語|go} wo {習って|naratte} mimashita.",
-    "verbおう/よう + と + する = struggle with ~, tried ~ but failed\nverbて + みる = try doing ~"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbて + みる = try doing ~"
 ],
 [
     "(I'm) about to eat breakfast.",
@@ -4427,7 +4427,7 @@ Flashcards.initialize([
 [
     "(My) father tried to buy a new jacket (but failed). {plain}",
     "{父|chichi} wa {新しい|atarashii} _jaketto_ wo {買おう|kaou} to shita.",
-    "verbおう/よう + と + する = struggle with ~, tried ~ but failed"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
 ],
 [
     "(It) will probably rain. (It) will possibly rain.",
@@ -4717,12 +4717,12 @@ Flashcards.initialize([
 [
     "(I) tried to find another job in Tokyo, but there weren't any.",
     "{東京|toukyou} de {他|hoka} no {仕事|shigoto} wo {見付けよう|mitsukeyou} to shimashita ga {仕事|shigoto} wa {全然|zenzen} arimasen deshita.",
-    "verbおう/よう + と + する = struggle with ~, tried ~ but failed"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
 ],
 [
     "(I) still want to work in Japan, but (I) think I'll also go to China.",
     "mada {日本|nihon} de {働きたい|hatarakitai} desu ga {私|watashi} mo {中国|chuugoku} ni {行こう|ikou} to {思います|omoimasu}.",
-    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Since how many years have (you) been living in Japan? Around 3 (I) think.",
@@ -4777,7 +4777,7 @@ Flashcards.initialize([
 [
     "Next week (I) think (I) will be surely free all week. Therefore, (I) think (I) will practice every day for about 1 hour.",
     "{来週|raishuu} wa {一週間|isshuukan} kitto {暇|hima} da to {思います|omoimasu}. dakara {毎日|mainichi} {一時間|ichijikan} gurai wa {練習|renshuu} wo shiyou to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "(I) didn't do much Japanese study this week. (I) meant to, but (I) was very busy.",
@@ -4807,12 +4807,12 @@ Flashcards.initialize([
 [
     "(I) hope to buy a new camera. (I) think (I) will go to China next year.",
     "{新しい|atarashii} _kamera_ wo {買いたい|kaitai} to {思います|omoimasu}. {来年|rainen} {中国|chuugoku} ni {行こう|ikou} to {思います|omoimasu}.",
-    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "(I) intend to meet (my) friend tomorrow. (I) tried to meet (my) friend yesterday.",
     "{明日|ashita} {友達|tomodachi} ni {会う|au} tsumori desu. {昨日|kinou} {友達|tomodachi} to {会おう|aou} to shimashita.",
-    "verbう + つもり = intend to ~\nverbおう/よう + と + する = struggle with ~, tried ~ but failed"
+    "verbう + つもり = intend to ~\nverbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
 ],
 [
     "(I) decided to learn Italian.",
@@ -4832,7 +4832,7 @@ Flashcards.initialize([
 [
     "(I) think (I) will come to play today.",
     "{今日|kyou} {遊び|asobi} ni {来よう|koyou} to {思います|omoimasu}.",
-    "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "(I) don't plan to be off work next week.",
@@ -4912,7 +4912,7 @@ Flashcards.initialize([
 [
     "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
     "{例えば|tatoeba} 「{私|watashi} wa {学生|gakusei} desu」 to 「{私|watashi} ga {学生|gakusei} desu」 no {場合|baai} {二つ目|futatsume} no {文章|bunshou} no {意味|imi} wa 「{他|hoka} no {人|hito} wa {学生|gakusei} ja nai」 desu ga, {一番目|ichibanme} no {文章|bunshou} wa 「{他|hoka} no {人|hito} mo {学生|gakusei} ka mo shirenai」 to iu {可能性|kanousei} ga {含まれます|fukumaremasu}.",
-    "と: complete list\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\n~ と {言う|いう} = called ~ (define; casual: ~って)"
+    "と: complete list\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\n~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)"
 ],
 [
     "Please make (it). Please don't make (it). Please use (it). Please don't use (it).",
@@ -5296,7 +5296,7 @@ Flashcards.initialize([
 [
     "In Hungarian, (this character) is read as \"kukac\" which means \"worm\".",
     "_hangarii_ {語|go} de wa, 「{虫|mushi}」 to iu {意味|imi} no 「*kukac*」 to {読みます|yomimasu}.",
-    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\n~ と {言う|いう} = called ~ (define; casual: ~って)"
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\n~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)"
 ],
 [
     "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
@@ -5706,7 +5706,7 @@ Flashcards.initialize([
 [
     "There's a cute girl named Noriko at the volunteer class. {polite} There's a cute girl named Noriko at the volunteer class. {casual, spoken}",
     "ボランティア {教室|kyoushitsu} ni, {意子|noriko} to iu {可愛い|kawaii} {女|onna} no {子|ko} ga imasu. ボランティア {教室|kyoushitsu} ni, {意子って|norikotte} iu {可愛い|kawaii} {女|onna} no {子|ko} ga irunda.",
-    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\n~ と {言う|いう} = called ~ (define; casual: ~って)"
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\n~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)"
 ],
 [
     "(I'll) drink it later so please leave the cup as it is. {から}",
@@ -6196,32 +6196,32 @@ Flashcards.initialize([
 [
     "It's that (I) heard from the teacher: \"There's no class today.\" {plain} (I) heard from the teacher that there is no class today. {plain}",
     "「{今日|kyou} wa {授業|jugyou} ga nai」 to {先生|sensei} kara {聞いた|kiita} n da kedo. {先生|sensei} kara {今日|kyou} wa {授業|jugyou} ga nai to {聞いた|kiita} n da kedo.",
-    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "\"Cold\", Alice said to Tanaka. {plain}",
     "「{寒い|samui}」 to _arisu_ ga {田中|tanaka} ni {言った|itta}.",
-    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "Now, (I'm) considering where to go. {plain}",
     "{今|ima}, doko ni {行こう|ikou} ka to {考えて|kangaete} iru.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbおう/よう = talking about/to self, I _will_, shall I?\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう = talking about/to self, I _will_, shall I?\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~"
 ],
 [
     "What did he say this is? What did he say?",
     "{彼|kare} wa, kore wa {何|nani} da to {言いました|iimashita} ka. {何|nani} to {言いました|iimashita} ka.",
-    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "(I) already told (you I) have no money. {casual}",
     "mou {お金|okane} ga naitte.",
-    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "About tomorrow, (I) hear that it's going to rain. {casual}",
     "{明日|ashita}, {雨|ame} ga {降る|furu} n datte.",
-    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "(I) was wondering how to represent (it) in kanji. (I) was trying to figure out how it would be if written in kanji. (I) was trying to figure out how it would be if written in kanji.",
@@ -6276,42 +6276,42 @@ Flashcards.initialize([
 [
     "What is this fish referred to as?",
     "kore wa, nan to iu {魚|sakana} desu ka.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "The most interesting thing was that the main character was the criminal. {plain}",
     "{主人公|shujinkou} ga {犯人|han'nin} datta to iu no ga {一番|ichiban} {面白かった|omoshirokatta}.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
 ],
 [
     "It was a lie, that you were single? {plain}",
     "{独身|dokushin} da to iu no wa, {嘘|uso} datta no?",
-    "~ と {言う|いう} = called ~ (define; casual: ~って)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "\"Reboot\" means to restart the computer.",
     "_ribuuto_ to iu no wa, _pasokon_ wo {再起動|saikidou} suru to iu koto desu.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbう + こと = doing ~ (nominalize)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbう + こと = doing ~ (nominalize)"
 ],
 [
     "It's because you always come at times like these that (I'm) in trouble. {plain}",
     "anata wa, itsumo kou iu {時|toki} ni {来る|kuru} n da kara, {困る|komaru} n da yo.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
 ],
 [
     "Working together with that type of person is dislikeable, huh? {plain}",
     "sou iu {人|hito} to {一緒|issho} ni {仕事|shigoto} wo suru no wa, {嫌い|kirai} da yo ne.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
 ],
 [
     "(I) think that (you) can become happy if (you) could marry that type of person.",
     "aa iu {人|hito} to {結婚|kekkon} dekitara, {幸せ|shiawase} ni nareru to {思います|omoimasu}.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nnoun/な adj. + に + {成る|なる} = become ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nnoun/な adj. + に + {成る|なる} = become ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "What do (you) mean \"You're not going to go to college?\" {plain}",
     "{大学|daigaku} ni {行かないって|ikanaitte}, dou iu {意味|imi} na no?",
-    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って)\n~ と {言う|いう} = called ~ (define; casual: ~って)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\n~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
 ],
 [
     "Happy New Year! {casual, short}",
@@ -6326,7 +6326,7 @@ Flashcards.initialize([
 [
     "Miki-chan is (your) girlfriend, right? Um, (you) might say girlfriend, or friend, or something. {plain}",
     "{三木|miki} chan wa, anta no {彼女|kanojo} deshou? uun, {彼女|kanojo} to iu ka, {友達|tomodachi} to iu ka, nan to iu ka...",
-    "~ と {言う|いう} = called ~ (define; casual: ~って)\n~ と {言う|いう} か = rephrase a conclusion / or rather ~ (often casual)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n~ と {言う|いう} か = rephrase a conclusion / or rather ~ (often casual)"
 ],
 [
     "(I) like alcohol, or rather, (I) can't live without it. {plain}",
@@ -6345,7 +6345,62 @@ Flashcards.initialize([
 ],
 [
     "(I) heard that Miki-chan broke up with Yousuke. Does that mean that Miki-chan doesn't have a boyfriend now? That's right. That's what it means. {plain}",
-    "{三木|miki} chan ga {洋介|yousuke} to {別れた|wakareta} n datte. to iu koto wa, {三木|miki} chan wa, {今|ima} {彼氏|kareshi} ga nai to iu koto? sou. sou iu koto.",
-    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\n~ と {言う|いう} = called ~ (define; casual: ~って)\n~ と {言う|いう} こと = sum up something (often casual)"
+    "{三木|miki} chan ga {洋介|yousuke} to {別れた|wakareta} n datte. to iu koto wa, {三木|miki} chan wa, {今|ima} {彼氏|kareshi} ga inai to iu koto? sou. sou iu koto.",
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\n~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n~ と {言う|いう} こと = sum up something (often casual)"
+],
+[
+    "The studying abroad next year thing, is that Tomoko? {casual}",
+    "{来年|rainen} {留学|ryuugaku} suru to iu no wa, {智子|tomoko} no koto? {来年|rainen} {留学|ryuugaku} surutte, {智子|tomoko} no koto?",
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+],
+[
+    "(You) have to do it, you know. But (I) can't do it because (I) don't have time. {casual}",
+    "shinai to dame yo. datte, {時間|jikan} ga nai kara dekinai yo.",
+    "~ だって = ~ と は いって も (even if that was the case; casual; complain, excuse)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "(You) don't have to go, you know. But everybody said they're going. I have to go too. {casual}",
+    "{行かなくて|ikanakute} mo ii yo. datte, {皆|min'na} {行くって|ikutte}. {私|watashi} mo {行かない|ikanai} to.",
+    "~ だって = ~ と は いって も (even if that was the case; casual; complain, excuse)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nと conditional: can imply {駄目|だめ}/いけない/ならない (spoken casual)"
+],
+[
+    "Does that mean that Miki-chan doesn't have a boyfriend now? {casual, slang/short}",
+    "te koto wa, {三木|miki} chan wa, {今|ima} {彼氏|kareshi} ga inai te koto?",
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n~ て = ~って, except for things actually said/heard"
+],
+[
+    "Rather than that, (I) have to go home already. {casual, slang/short}",
+    "te iu ka, mou {帰らない|kaeranai} to dame desu kedo.",
+    "~ と {言う|いう} か = rephrase a conclusion / or rather ~ (often casual)\n~ て = ~って, except for things actually said/heard\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+],
+[
+    "(I) said it's not like that! {casual, spoken}",
+    "sou yuu koto ja naitte!",
+    "ゆう = {言う|いう} (casual)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+],
+[
+    "(I) tried eating okonomiyaki for the first time and it was very tasty! {plain}",
+    "{お好み焼き|okonomiyaki} wo {初めて|hajimete} {食べて|tabete} mita kedo, totemo {美味しかった|oishikatta}!",
+    "verbて + みる = try doing ~\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+],
+[
+    "(He) attempts to avoid study every day. {plain}",
+    "{毎日|mainichi}, {勉強|benkyou} wo {避けよう|sakeyou} to suru.",
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
+],
+[
+    "(He's) attempting to force (his) way into the room. {plain}",
+    "{無理矢理|muriyari} ni {部屋|heya} ni {入ろう|hairou} to shite iru.",
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+],
+[
+    "(I) attempted to sleep early, but (I) ended up staying up all night. {plain}",
+    "{早く|hayaku} {寝よう|neyou} to shita kedo, {結局|kekkyoku} wa {徹夜|tetsuya} shita.",
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+],
+[
+    "(I) decided to attempt to go to the gym every day. {plain}",
+    "{毎日|mainichi} _jimu_ ni {行こう|ikou} to {決めた|kimeta}.",
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
 ]
 ])
