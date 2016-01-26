@@ -44,7 +44,7 @@ def to_kana(text):
 
         formatted += conversion(part).replace(" ", "")
 
-    return formatted.replace(",", "、").replace("...", "…").replace(".", "。")
+    return formatted.replace(",", "、").replace("...", "…").replace(".", "。").replace("?", "？")
 
 
 class _TestToKana(unittest.TestCase):
@@ -52,6 +52,10 @@ class _TestToKana(unittest.TestCase):
         self.assertEqual(
             "ごしゅっしんはどこですか。",
             to_kana("goshusshin wa doko desu ka.")
+        )
+        self.assertEqual(
+            "ごしゅっしんはどこ？",
+            to_kana("goshusshin wa doko?")
         )
         self.assertEqual(
             "きょうはクロード・モネのてんらんかいです。",
@@ -80,12 +84,13 @@ class _TestToKana(unittest.TestCase):
             "コンピューターでeメールをだします",
             to_kana("_konpyuutaa_ de *e*_meeru_ wo dashimasu")
         )
-        self.assertEqual("ほかには?", to_kana("hoka ni wa?"))
+        self.assertEqual("ほかには？", to_kana("hoka ni wa?"))
 
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1 and sys.argv[1] == "--test":
-        unittest.main()
-    else:
-        for line in sys.stdin:
-            print(to_kana(line))
+    unittest.main()
+#    if len(sys.argv) > 1 and sys.argv[1] == "--test":
+#        unittest.main()
+#    else:
+#        for line in sys.stdin:
+#            print(to_kana(line))

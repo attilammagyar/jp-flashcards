@@ -239,6 +239,7 @@ verbて + {置く|おく} = leave as it is, do something in advance (casual spee
 verbて {欲しがる|ほしがる} = someone else wants ~ to be done for her/him
 verbて + ある = resultant state after completed action (often を --> も/は), (in preparation for sg. else)
 verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)
+verbて + {呉れ|くれ} = masculin, commanding request
 
 た-form
 -------
@@ -261,7 +262,7 @@ verbおう/よう + と + して + いる = to be about to do ~
 
 ~ない
 ----
-verbない + で + ください = please don't ~
+verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~
 verbない + で + X = (did/happened) X without (doing) ~
 verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~
 verbない - い + くて + も + いい + です = don't have to ~

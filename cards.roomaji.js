@@ -4917,7 +4917,7 @@ Flashcards.initialize([
 [
     "Please make (it). Please don't make (it). Please use (it). Please don't use (it).",
     "{作って|tsukutte} kudasai. {作らない|tsukuranai} de kudasai. {使って|tsukatte} kudasai. {使わない|tsukawanai} de kudasai.",
-    "verbて + ください = request\nverbない + で + ください = please don't ~"
+    "verbて + ください = request\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
 ],
 [
     "(It's) not a camera. {middle polite} (It) wasn't a newspaper. {almost plain} (It) wasn't a camera. {plain}",
@@ -4927,7 +4927,7 @@ Flashcards.initialize([
 [
     "Please don't go into that meeting room.",
     "ano {会議室|kaigishitsu} ni {入らない|hairanai} de kudasai.",
-    "verbない + で + ください = please don't ~"
+    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
 ],
 [
     "(I) think that film wasn't interesting.",
@@ -5041,7 +5041,7 @@ Flashcards.initialize([
 [
     "(You) may eat. (You) are not allowed to eat. Please eat. (I) want (you) to eat. (You) should eat. (You) shouldn't eat. Please don't eat. (I) want (you) not to eat. (You) must eat. (You) don't have to eat.",
     "{食べて|tabete} mo ii desu. {食べて|tabete} wa ikemasen. {食べて|tabete} kudasai. {食べて|tabete} {欲しい|hoshii} desu. {食べた|tabeta} hou ga ii desu. {食べない|tabenai} hou ga ii desu. {食べない|tabenai} de kudasai. {食べない|tabenai} de {欲しい|hoshii} desu. {食べなければ|tabenakereba} narimasen. {食べなくて|tabenakute} mo ii desu.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて + は + いけません = doing verb is not allowed\n(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~\nverbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverbない - い + くて + も + いい + です = don't have to ~"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて + は + いけません = doing verb is not allowed\n(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverbない - い + くて + も + いい + です = don't have to ~"
 ],
 [
     "The laundry fell off the balcony. {plain}",
@@ -5196,7 +5196,7 @@ Flashcards.initialize([
 [
     "(You) should get married while the weather isn't hot, shouldn't you? But (I) think if (you) do (it) suddenly, (that's) not good. Don't make excuses.",
     "{天気|tenki} ga {暑くない|atsukunai} uchi ni {結婚|kekkon} shita hou ga ii desu ne. {然し|shikashi}, {急|kyuu} ni shitara yokunai to {思います|omoimasu}. {言い訳|iiwake} shinai de kudasai.",
-    "verbない + {内|うち} + に = before ~, while not ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbない + で + ください = please don't ~"
+    "verbない + {内|うち} + に = before ~, while not ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
 ],
 [
     "Both Roger and Robert are nice people. (We) always spend fun times. {plain, female}",
@@ -5211,7 +5211,7 @@ Flashcards.initialize([
 [
     "(You) shouldn't date two people. It's cool. Don't worry. {plain}",
     "{二人|futari} no {人|hito} to _deeto_ wo shinai hou ga ii yo. {平気|heiki} yo. {心配|shinpai} shinai de.",
-    "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + ください = please don't ~"
+    "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
 ],
 [
     "(I) wish (you) a happy New Year! Please be kind to each other this year as well.",
@@ -5556,7 +5556,7 @@ Flashcards.initialize([
 [
     "Don't eat in (your) pajamas. {plain}",
     "_pajama_ wo {着た|kita} mama, {食事|shokuji} wo shinai de.",
-    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbない + で + ください = please don't ~"
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
 ],
 [
     "(You) have fever? Why don't (you) take (some) medicine? {plain}",
@@ -5651,7 +5651,7 @@ Flashcards.initialize([
 [
     "Please leave that as it is without putting it away.",
     "sore, {片付けない|かたづけない} de, sono mama {出して|dashite} oite kudasai.",
-    "verbない + で + ください = please don't ~\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\n"
+    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\n"
 ],
 [
     "Should (I) turn off the air conditioner? It's hot, so leave it on. {plain}",
@@ -6402,5 +6402,60 @@ Flashcards.initialize([
     "(I) decided to attempt to go to the gym every day. {plain}",
     "{毎日|mainichi} _jimu_ ni {行こう|ikou} to {決めた|kimeta}.",
     "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
+],
+[
+    "Will (you) go in (my) place? (I'll) go in (your) place. {plain}",
+    "{代わり|kawari} ni {行って|itte} kureru? {代わり|kawari} ni {行って|itte} ageru.",
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nX は/が (Y を) verbて {上げる|あげる} = X(in) does ~ for Y(out) (never to superiors)"
+],
+[
+    "(I) wanted to get (my) homework checked, but there was no time and it was impossible. {plain}",
+    "{宿題|shukudai} wo _chekku_ shite moraitakatta kedo, {時間|jikan} ga nakute {無理|muri} datta.",
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverb stem + たい = want to ~ (verb --> い adj.)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+],
+[
+    "(He) received that watch from me. {plain}",
+    "sono {時計|tokei} wa {私|watashi} kara moratta no yo.",
+    "X は/が Y に/から Z を {貰う|もらう} = X receives Z from Y\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+],
+[
+    "The watch (my) father gave (me), broke. {plain}",
+    "{父|chichi} ga kureta {時計|tokei} ga {壊れた|kowareta}.",
+    "X は/が Y に Z を {呉れる|くれる} = X(out) gives Z to Y(in)"
+],
+[
+    "Father said, \"Please give (me) that.\" {plain}",
+    "「sore wo kudasai」 to {父|chichi} ga {言った|itta}.",
+    "{下さい|ください} cannot modify nouns\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+],
+[
+    "Won't (you) be a little more quiet? {plain}",
+    "chotto {静か|shizuka} ni shite kurenai?",
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates"
+],
+[
+    "Could (you) not eat it all?",
+    "{全部|zenbu} {食べない|tabenai} de kuremasu ka.",
+    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+],
+[
+    "Could (you) not buy expensive things? {plain}",
+    "{高い|takai} {物|mono} wo {買わない|kawanai} de kureru?",
+    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+],
+[
+    "Please don't go far. {masculin}",
+    "{遠い|tooi} {所|tokoro} ni {行かない|ikanai} de kure.",
+    "verbて + {呉れ|くれ} = masculin, commanding request\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+],
+[
+    "(Please) lend (me) an eraser. {plain} (Please) lend (me) an eraser. {masculin}",
+    "{消し|keshi} _gomu_ wo {貸して|kashite}. {消し|keshi} _gomu_ wo {貸して|kashite} kure.",
+    "verbて + ください = request\nverbて + {呉れ|くれ} = masculin, commanding request"
+],
+[
+    "Please don't write graffiti.",
+    "{落書き|rakugaki} wo {書かない|kakanai} de kudasai.",
+    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
 ]
 ])
