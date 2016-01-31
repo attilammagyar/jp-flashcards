@@ -188,8 +188,20 @@
             $("extend-focus").onclick = Flashcards.extendFocus;
             $("cont-input").onclick = function () { $("cont-input").select(); };
             $("rate").onsubmit = function () { return false; };
+            $("play-audio").onclick = Flashcards.playAudio;
 
             Flashcards.moveToNextState();
+        },
+
+        playAudio: function ()
+        {
+            var player = $("audio-player"),
+                audio_file = "00000" + String(Flashcards.current_card_index + 1);
+
+            player.src = "audio/" + audio_file.replace(/^.*(.....)$/, "$1") + ".mp3";
+            player.play();
+
+            return false;
         },
 
         formatCards: function (cards)
@@ -220,7 +232,7 @@
             return text.replace(
                 /\{([^|}]*)\|([^}]*)\}/g,
                 "<ruby>$1<rt>$2</rt></ruby>"
-            );
+            ).replace(/ /g, "");
         },
 
         formatNotes: function (text)

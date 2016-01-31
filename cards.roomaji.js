@@ -556,7 +556,7 @@ Flashcards.initialize([
 ],
 [
     "I'm called Natsuko. {Formal.}",
-    "{夏子|natsuko} to moushimasu.",
+    "{夏子|natsuko} to {申します|moushimasu}.",
     ""
 ],
 [

@@ -42,7 +42,7 @@ def to_kana(text):
                     .replace(" wa?", " ha?")
             )
 
-        formatted += conversion(part).replace(" ", "")
+        formatted += conversion(part)
 
     return formatted.replace(",", "、").replace("...", "…").replace(".", "。").replace("?", "？").replace("!", "！")
 
@@ -51,20 +51,20 @@ class _TestToKana(unittest.TestCase):
     def test_to_kana(self):
         self.assertEqual(
             "ごしゅっしんはどこですか。",
-            to_kana("goshusshin wa doko desu ka.")
+            self.to_kana("goshusshin wa doko desu ka.")
         )
         self.assertEqual(
             "ごしゅっしんはどこ？",
-            to_kana("goshusshin wa doko?")
+            self.to_kana("goshusshin wa doko?")
         )
         self.assertEqual(
             "きょうはクロード・モネのてんらんかいです。",
-            to_kana("kyou wa _kuroodo mone_ no tenrankai desu.")
+            self.to_kana("kyou wa _kuroodo mone_ no tenrankai desu.")
         )
         self.assertEqual(
             "わたしはコーヒーをのみます、それからわたしたちはいっしょ"
             "にロマンチックなえいがをみます。",
-            to_kana(
+            self.to_kana(
                 "watashi wa _koohii_ wo nomimasu, "
                 "sorekara watashitachi wa isshoni _romanchikku_ na "
                 "eiga wo mimasu."
@@ -72,26 +72,28 @@ class _TestToKana(unittest.TestCase):
         )
         self.assertEqual(
             "じつは、わたしはスポーツをみませんし、しません…",
-            to_kana(
+            self.to_kana(
                 "jitsu wa, watashi wa _supootsu_ wo mimasen shi, shimasen..."
             )
         )
         self.assertEqual(
             "ニュー・ジーランド",
-            to_kana("_nyuu jiirando_")
+            self.to_kana("_nyuu jiirando_")
         )
         self.assertEqual(
             "コンピューターでeメールをだします",
-            to_kana("_konpyuutaa_ de *e*_meeru_ wo dashimasu")
+            self.to_kana("_konpyuutaa_ de *e*_meeru_ wo dashimasu")
         )
-        self.assertEqual("ほかには？", to_kana("hoka ni wa?"))
-        self.assertEqual("こい！", to_kana("koi!"))
+        self.assertEqual("ほかには？", self.to_kana("hoka ni wa?"))
+        self.assertEqual("こい！", self.to_kana("koi!"))
+
+    def to_kana(self, text):
+        return to_kana(text).replace(" ", "")
 
 
 if __name__ == "__main__":
-    unittest.main()
-#    if len(sys.argv) > 1 and sys.argv[1] == "--test":
-#        unittest.main()
-#    else:
-#        for line in sys.stdin:
-#            print(to_kana(line))
+   if len(sys.argv) > 1 and sys.argv[1] == "--test":
+       unittest.main()
+   else:
+       for line in sys.stdin:
+           print(to_kana(line))

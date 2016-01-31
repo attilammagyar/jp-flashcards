@@ -84,6 +84,29 @@ div#card div#notes rt {
     font-size: 3.2vmin;
 }
 
+div#audio {
+    position: absolute;
+    z-index: 1;
+    top: 1vh;
+    left: 1vw;
+    font-size: 5vmin;
+}
+
+a#play-audio {
+    text-decoration: none;
+    display: block;
+    font-size: 3vmin;
+    font-weight: bold;
+    padding: 1vmin;
+    border-style: outset;
+    border-width: 0.5vmin;
+    border-radius: 2vmin;
+    border-color: #000080;
+    background-color: #0000b0;
+    color: #ffffff;
+    margin: 0.5vmin;
+}
+
 div#stats {
     position: absolute;
     z-index: 1;

@@ -106,21 +106,6 @@
             }
         }
 
-        // var k = 246;
-        // for (i = 0, l = cs.length; i < l; ++i, ++k) {
-        //     c = Flashcards.cards[cs[i]];
-        //     html += String(k) + ". " + c[1].replace(/<ruby>(.*?)<rt>.*?<\/rt><\/ruby>/g, "$1") + "<br/>";
-        //     html += String(k) + ". " + c[1].replace(
-        //         /<ruby>.*?<rt>(.*?)<\/rt><\/ruby>/g, "　$1　"
-        //     ).replace(/　　*/g, "　").replace(/　。/g, "。").replace(/　、/g, "、").replace(/^　/g, " ") + "<br/>";
-        //     html += String(k) + ". " + c[0] + "<br/>";
-        //     html += String(k) + ". reading: " + c[1].replace(
-        //         /<ruby>(.*?)<rt>.*?<\/rt><\/ruby>/g, "$1"
-        //     ) + "<br/><br/>";
-        // }
-        // document.getElementById("cards").innerHTML = html;
-        // return;
-
         if (Flashcards.englishOnly) {
             for (i = 0, l = cs.length; i < l; ++i) {
                 c = Flashcards.cards[cs[i]];
