@@ -201,13 +201,14 @@ verbう + か + も + しれません/しれない = might do ~, possibly (will)
 verbう + {様|よう} + に + {成る|なる} = change in habitual action
 verbう + こと + が + ある = sometimes/occasionally ~
 verbう + {様|よう} + に + する = to make an effort to ~
+verbう + な = negative command (mostly in fiction only)
 
 Stem
 ----
 verb stem + たい = want to ~
 verb stem + たい = want to ~ (verb --> い adj.)
 verb-stem + verb = compound verb (action + qualifier)
-verb-stem + なさい = imperative
+verb-stem + なさい = imperative (casual: verb-stem + な)
 verb-stem + {始める|はじめる} = start doing ~
 verb-stem + {出す|だす} = burst out doing ~, start doing ~
 verb-stem + {終わる|おわる} = finish doing ~
@@ -240,6 +241,7 @@ verbて {欲しがる|ほしがる} = someone else wants ~ to be done for her/hi
 verbて + ある = resultant state after completed action (often を --> も/は), (in preparation for sg. else)
 verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)
 verbて + {呉れ|くれ} = masculin, commanding request
+verbて + {頂戴|ちょうだい} = request, please ~ (casual, childish, feminine)
 
 た-form
 -------
@@ -274,3 +276,7 @@ verbない + こと + が + ある = sometimes/occasionally not ~
 
 verbえる: を --> は/が
 verbえる + {様|よう} + に + {成る|なる} = become able to ~
+
+~える/ろ
+-----
+verbえ/ろ = command (mostly in fiction only)

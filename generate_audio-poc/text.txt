@@ -523,10 +523,10 @@
 105. As long as you wish.
 105. reading: どうぞごゆっくり。
 
-106. 願ってもないことです!
-106. ねがって　も　ない　こと　です!
+106. 願ってもないことです！
+106. ねがって　も　ない　こと　です！
 106. You couldn't ask for a better chance.
-106. reading: 願ってもないことです!
+106. reading: 願ってもないことです！
 
 107. 私が友達に待ってもらった。
 107. わたし　が　ともだち　に　まって　もらった。
@@ -778,10 +778,10 @@
 156. (Do you think he) will really eat this type of thing? (plain) Are (you) really going to eat something like this? (plain)
 156. reading: こんなのを本当に食べるか？こんなのを本当に食べる？
 
-157. そんなのは、あるかよ!そんなのは、あるの？
-157. そんな　の　は、　ある　か　よ!　そんな　の　は、　ある　の？
+157. そんなのは、あるかよ！そんなのは、あるの？
+157. そんな　の　は、　ある　か　よ！　そんな　の　は、　ある　の？
 157. (Do I look like I'd) have something like that? (plain) Do (you) have something like that? (plain)
-157. reading: そんなのは、あるかよ!そんなのは、あるの？
+157. reading: そんなのは、あるかよ！そんなのは、あるの？
 
 158. 昨日何を食べたか忘れた。
 158. きのう　なに　を　たべた　か　わすれた。
@@ -1008,10 +1008,10 @@
 202. Entering Winter, the (number of) people wearing coat will increase.
 202. reading: 冬に入って、コートを着ている人が増えていきます。
 
-203. 一生懸命、頑張っていく!
-203. いっしょうけんめい、　がんばって　いく!
+203. 一生懸命、頑張っていく！
+203. いっしょうけんめい、　がんばって　いく！
 203. (I) will try my hardest with all my might! (plain)
-203. reading: 一生懸命、頑張っていく!
+203. reading: 一生懸命、頑張っていく！
 
 204. 色々な人と付き合ってきたけど、いい人は未だ見つからない。
 204. いろいろ　な　ひと　と　つきあって　きたけど、いい　ひと　は　まだ　みつからない。
@@ -1423,15 +1423,15 @@
 285. Rather than that, (I) have to go home already. (casual, slang/short)
 285. reading: て　いう　か、　もう　帰らない　と　だめ　です　けど。
 
-286. そうゆうことじゃないって!
-286. そうゆうことじゃないって!
+286. そうゆうことじゃないって！
+286. そうゆうことじゃないって！
 286. (I) said it's not like that! (casual, spoken)
-286. reading: そうゆうことじゃないって!
+286. reading: そうゆうことじゃないって！
 
-287. お好み焼きを初めて食べてみたけど、とても美味しかった!
-287. おこのみやき　を　はじめて　たべて　みた　けど、　とても　おいしかった!
+287. お好み焼きを初めて食べてみたけど、とても美味しかった！
+287. おこのみやき　を　はじめて　たべて　みた　けど、　とても　おいしかった！
 287. (I) tried eating okonomiyaki for the first time and it was very tasty! (plain)
-287. reading: おこのみやき　を　はじめて　たべて　みた　けど、　とても　おいしかった!
+287. reading: おこのみやき　を　はじめて　たべて　みた　けど、　とても　おいしかった！
 
 288. 毎日、勉強を避けようとする。無理矢理に部屋に入ろうとしている。
 288. まいにち、　べんきょう　を　さけよう　と　する。　むりやり　に　へや　に　はいろう　と　して　いる。
@@ -1497,3 +1497,53 @@
 300. らくがき　を　かかない　で　ください。
 300. Please don't write graffiti.
 300. reading: 落書きを書かないでください。
+
+301. スプーンをちょうだい。
+301. スプーン　を　ちょうだい。
+301. Please give (me) the spoon. (childish)
+301. reading: スプーンをちょうだい。
+
+302. ここに名前を書いてちょうだい。
+302. ここ　に　なまえ　を　かいて　ちょうだい。
+302. Please write (your) name here. (childish)
+302. reading: ここに名前を書いてちょうだい。
+
+303. よく聞きなさい。
+303. よく　きき　なさい。
+303. Listen well.
+303. reading: よく聞きなさい。
+
+304. ここに座りなさい。
+304. ここ　に　すわり　なさい。
+304. Sit here.
+304. reading: ここに座りなさい。
+
+305. まだいっぱいあるから、たくさん食べな。
+305. まだ　いっぱい　ある　から、　たくさん　たべ　な。
+305. There's still a lot, so eat a lot.
+305. reading: まだいっぱいあるから、たくさん食べな。
+
+306. それでいいと思うなら、そうしなよ。
+306. それ　で　いい　と　おもう　なら、　そう　し　な　よ。
+306. If (you) think that's fine, then do it!
+306. reading: それでいいと思うなら、そうしなよ。
+
+307. 死ね！好きにしろ！来い！あっち行け！
+307. しね！　すき　に　しろ！　こい！　あっち　いけ！
+307. Die! Do as (you) please! Come! Go away!
+307. reading: 死ね！好きにしろ！こい！あっち行け！
+
+308. 早く酒を持ってきてくれ！
+308. はやく　さけ　を　もって　きて　くれ！
+308. Hurry up and bring (me) alcohol!
+308. reading: 早く酒を持ってきてくれ！
+
+309. それを食べるな！
+309. それ　を　たべる　な！
+309. Don't eat that!
+309. reading: それを食べるな！
+
+310. 変なことを言うな！
+310. へん　な　こと　を　いう　な！
+310. Don't say weird things!
+310. reading: 変なことを言うな！

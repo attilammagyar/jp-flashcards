@@ -4771,7 +4771,7 @@ Flashcards.initialize([
 ],
 [
     "On Thursday it was unexpectedly arranged for me to take part in a judo contest.",
-    "{木曜日|mokuyoubi} ni totsuzen {私|watashi} wa juudou no {試合|shiai} ni sanka suru koto ni narimashita.",
+    "{木曜日|mokuyoubi} ni {突然|totsuzen} {私|watashi} wa juudou no {試合|shiai} ni sanka suru koto ni narimashita.",
     "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
@@ -4786,12 +4786,12 @@ Flashcards.initialize([
 ],
 [
     "On Thursday, it was unexpectedly decided for me to go on a business trip to Tokyo.",
-    "{木曜日|mokuyoubi} ni totsuzen {私|watashi} wa {東京|toukyou} ni {出張|shucchou} suru koto ni narimashita.",
+    "{木曜日|mokuyoubi} ni {突然|totsuzen} {私|watashi} wa {東京|toukyou} ni {出張|shucchou} suru koto ni narimashita.",
     "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
     "On Monday (it was arranged for me to) have a meal with the sales manager.",
-    "{月曜日|getsuyoubi} ni eigyou {部長|buchou} to {食事|shokuji} wo suru koto ni narimashita.",
+    "{月曜日|getsuyoubi} ni {営業|eigyou} {部長|buchou} to {食事|shokuji} wo suru koto ni narimashita.",
     "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
@@ -5071,7 +5071,7 @@ Flashcards.initialize([
 [
     "Leave a little space between the lines.",
     "{行|gyou} to {行|gyou} no {間|aida} {空け|ake} nasai.",
-    "nounA + と + nounB + の + {間|あいだ} + に = between A and B\nverb-stem + なさい = imperative"
+    "nounA + と + nounB + の + {間|あいだ} + に = between A and B\nverb-stem + なさい = imperative (casual: verb-stem + な)"
 ],
 [
     "Can (you) spare (me) a little time?",
@@ -5096,7 +5096,7 @@ Flashcards.initialize([
 [
     "Take one out of these five.",
     "kono {五つ|itsutsu} no uchi kara {一つ|hitotsu} {取り|tori} nasai.",
-    "{内|うち} + から = out of ~\nverb-stem + なさい = imperative"
+    "{内|うち} + から = out of ~\nverb-stem + なさい = imperative (casual: verb-stem + な)"
 ],
 [
     "If (you) come to China, please make contact.",
@@ -5350,7 +5350,7 @@ Flashcards.initialize([
 ],
 [
     "On the way home, it suddenly started to rain. The baby suddenly started crying loudly. {plain}",
-    "{帰る|kaeru} {途中|tochuu}, {急|kyuu} ni {雨|ame} ga {降り出しました|furidashimashita}. {赤ちゃん|akachan} ga totsuzen, {大きい|ookii} {声|koe} de {泣き出した|nakidashita}.",
+    "{帰る|kaeru} {途中|tochuu}, {急|kyuu} ni {雨|ame} ga {降り出しました|furidashimashita}. {赤ちゃん|akachan} ga {突然|totsuzen}, {大きい|ookii} {声|koe} de {泣き出した|nakidashita}.",
     "な adj. + に = adverb\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
 ],
 [
@@ -5395,7 +5395,7 @@ Flashcards.initialize([
 ],
 [
     "Carlos treated (me) to ramen. {plain}",
-    "_karurosu_ ni _ramen_ wo ogotte moratta.",
+    "_karurosu_ ni _ramen_ wo {奢って|ogotte} moratta.",
     "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
 ],
 [
@@ -6457,5 +6457,70 @@ Flashcards.initialize([
     "Please don't write graffiti.",
     "{落書き|rakugaki} wo {書かない|kakanai} de kudasai.",
     "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+],
+[
+    "Please give (me) the spoon. {childish}",
+    "_supuun_ wo choudai.",
+    "verbて + {頂戴|ちょうだい} = request, please ~ (casual, childish, feminine)"
+],
+[
+    "Please write (your) name here. {childish}",
+    "koko ni {名前|namae} wo {書いて|kaite} choudai.",
+    "verbて + {頂戴|ちょうだい} = request, please ~ (casual, childish, feminine)"
+],
+[
+    "Listen well.",
+    "yoku {聞き|kiki} nasai.",
+    "い adj. - い + く = adverb\nverb-stem + なさい = imperative (casual: verb-stem + な)"
+],
+[
+    "Sit here.",
+    "koko ni {座り|suwari} nasai.",
+    "verb-stem + なさい = imperative (casual: verb-stem + な)"
+],
+[
+    "There's still a lot, so eat a lot.",
+    "mada ippai aru kara, takusan {食べ|tabe} na.",
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-stem + なさい = imperative (casual: verb-stem + な)"
+],
+[
+    "If (you) think that's fine, then do it!",
+    "sore de ii to {思う|omou} nara, sou shi na yo.",
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverb-plain/noun/い-adj./な-adj. + なら = if (given that X, Y will happen - contextual condition) (ならば = more formal)"
+],
+[
+    "Die!",
+    "{死ね|shine}!",
+    "verbえ/ろ = command (mostly in fiction only)"
+],
+[
+    "Do as (you) please!",
+    "{好き|suki} ni shiro!",
+    "verbえ/ろ = command (mostly in fiction only)"
+],
+[
+    "Come!",
+    "{来い|koi}!",
+    "verbえ/ろ = command (mostly in fiction only)"
+],
+[
+    "Go away!",
+    "acchi {行け|ike}!",
+    "verbえ/ろ = command (mostly in fiction only)"
+],
+[
+    "Hurry up and bring (me) alcohol!",
+    "{早く|hayaku} {酒|sake} wo {持って|motte} kite kure!",
+    "verbえ/ろ = command (mostly in fiction only)\nverbて + {呉れ|くれ} = masculin, commanding request\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)"
+],
+[
+    "Don't eat that!",
+    "sore wo {食べる|taberu} na!",
+    "verbう + な = negative command (mostly in fiction only)"
+],
+[
+    "Don't say weird things!",
+    "{変|hen} na koto wo {言う|iu} na!",
+    "verbう + な = negative command (mostly in fiction only)"
 ]
 ])

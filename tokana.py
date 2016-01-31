@@ -44,7 +44,7 @@ def to_kana(text):
 
         formatted += conversion(part).replace(" ", "")
 
-    return formatted.replace(",", "、").replace("...", "…").replace(".", "。").replace("?", "？")
+    return formatted.replace(",", "、").replace("...", "…").replace(".", "。").replace("?", "？").replace("!", "！")
 
 
 class _TestToKana(unittest.TestCase):
@@ -85,6 +85,7 @@ class _TestToKana(unittest.TestCase):
             to_kana("_konpyuutaa_ de *e*_meeru_ wo dashimasu")
         )
         self.assertEqual("ほかには？", to_kana("hoka ni wa?"))
+        self.assertEqual("こい！", to_kana("koi!"))
 
 
 if __name__ == "__main__":

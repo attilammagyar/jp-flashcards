@@ -4771,7 +4771,7 @@ Flashcards.initialize([
     ],
     [
         "On Thursday it was unexpectedly arranged for me to take part in a judo contest.",
-        "{\u6728\u66dc\u65e5|\u3082\u304f\u3088\u3046\u3073}\u306b\u3068\u3064\u305c\u3093{\u79c1|\u308f\u305f\u3057}\u306f\u3058\u3085\u3046\u3069\u3046\u306e{\u8a66\u5408|\u3057\u3042\u3044}\u306b\u3055\u3093\u304b\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
+        "{\u6728\u66dc\u65e5|\u3082\u304f\u3088\u3046\u3073}\u306b{\u7a81\u7136|\u3068\u3064\u305c\u3093}{\u79c1|\u308f\u305f\u3057}\u306f\u3058\u3085\u3046\u3069\u3046\u306e{\u8a66\u5408|\u3057\u3042\u3044}\u306b\u3055\u3093\u304b\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
         "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
@@ -4786,12 +4786,12 @@ Flashcards.initialize([
     ],
     [
         "On Thursday, it was unexpectedly decided for me to go on a business trip to Tokyo.",
-        "{\u6728\u66dc\u65e5|\u3082\u304f\u3088\u3046\u3073}\u306b\u3068\u3064\u305c\u3093{\u79c1|\u308f\u305f\u3057}\u306f{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306b{\u51fa\u5f35|\u3057\u3085\u3063\u3061\u3087\u3046}\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
+        "{\u6728\u66dc\u65e5|\u3082\u304f\u3088\u3046\u3073}\u306b{\u7a81\u7136|\u3068\u3064\u305c\u3093}{\u79c1|\u308f\u305f\u3057}\u306f{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046}\u306b{\u51fa\u5f35|\u3057\u3085\u3063\u3061\u3087\u3046}\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
         "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
         "On Monday (it was arranged for me to) have a meal with the sales manager.",
-        "{\u6708\u66dc\u65e5|\u3052\u3064\u3088\u3046\u3073}\u306b\u3048\u3044\u304e\u3087\u3046{\u90e8\u9577|\u3076\u3061\u3087\u3046}\u3068{\u98df\u4e8b|\u3057\u3087\u304f\u3058}\u3092\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
+        "{\u6708\u66dc\u65e5|\u3052\u3064\u3088\u3046\u3073}\u306b{\u55b6\u696d|\u3048\u3044\u304e\u3087\u3046}{\u90e8\u9577|\u3076\u3061\u3087\u3046}\u3068{\u98df\u4e8b|\u3057\u3087\u304f\u3058}\u3092\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
         "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)"
     ],
     [
@@ -5077,7 +5077,7 @@ Flashcards.initialize([
     [
         "Leave a little space between the lines.",
         "{\u884c|\u304e\u3087\u3046}\u3068{\u884c|\u304e\u3087\u3046}\u306e{\u9593|\u3042\u3044\u3060}{\u7a7a\u3051|\u3042\u3051}\u306a\u3055\u3044\u3002",
-        "nounA + \u3068 + nounB + \u306e + {\u9593|\u3042\u3044\u3060} + \u306b = between A and B\nverb-stem + \u306a\u3055\u3044 = imperative"
+        "nounA + \u3068 + nounB + \u306e + {\u9593|\u3042\u3044\u3060} + \u306b = between A and B\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)"
     ],
     [
         "Can (you) spare (me) a little time?",
@@ -5102,7 +5102,7 @@ Flashcards.initialize([
     [
         "Take one out of these five.",
         "\u3053\u306e{\u4e94\u3064|\u3044\u3064\u3064}\u306e\u3046\u3061\u304b\u3089{\u4e00\u3064|\u3072\u3068\u3064}{\u53d6\u308a|\u3068\u308a}\u306a\u3055\u3044\u3002",
-        "{\u5185|\u3046\u3061} + \u304b\u3089 = out of ~\nverb-stem + \u306a\u3055\u3044 = imperative"
+        "{\u5185|\u3046\u3061} + \u304b\u3089 = out of ~\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)"
     ],
     [
         "If (you) come to China, please make contact.",
@@ -5356,7 +5356,7 @@ Flashcards.initialize([
     ],
     [
         "On the way home, it suddenly started to rain. The baby suddenly started crying loudly. {plain}",
-        "{\u5e30\u308b|\u304b\u3048\u308b}{\u9014\u4e2d|\u3068\u3061\u3085\u3046}\u3001{\u6025|\u304d\u3085\u3046}\u306b{\u96e8|\u3042\u3081}\u304c{\u964d\u308a\u51fa\u3057\u307e\u3057\u305f|\u3075\u308a\u3060\u3057\u307e\u3057\u305f}\u3002{\u8d64\u3061\u3083\u3093|\u3042\u304b\u3061\u3083\u3093}\u304c\u3068\u3064\u305c\u3093\u3001{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}{\u58f0|\u3053\u3048}\u3067{\u6ce3\u304d\u51fa\u3057\u305f|\u306a\u304d\u3060\u3057\u305f}\u3002",
+        "{\u5e30\u308b|\u304b\u3048\u308b}{\u9014\u4e2d|\u3068\u3061\u3085\u3046}\u3001{\u6025|\u304d\u3085\u3046}\u306b{\u96e8|\u3042\u3081}\u304c{\u964d\u308a\u51fa\u3057\u307e\u3057\u305f|\u3075\u308a\u3060\u3057\u307e\u3057\u305f}\u3002{\u8d64\u3061\u3083\u3093|\u3042\u304b\u3061\u3083\u3093}\u304c{\u7a81\u7136|\u3068\u3064\u305c\u3093}\u3001{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044}{\u58f0|\u3053\u3048}\u3067{\u6ce3\u304d\u51fa\u3057\u305f|\u306a\u304d\u3060\u3057\u305f}\u3002",
         "\u306a adj. + \u306b = adverb\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)"
     ],
     [
@@ -5401,7 +5401,7 @@ Flashcards.initialize([
     ],
     [
         "Carlos treated (me) to ramen. {plain}",
-        "\u30ab\u30eb\u30ed\u30b9\u306b\u30e9\u30e1\u30f3\u3092\u304a\u3054\u3063\u3066\u3082\u3089\u3063\u305f\u3002",
+        "\u30ab\u30eb\u30ed\u30b9\u306b\u30e9\u30e1\u30f3\u3092{\u5962\u3063\u3066|\u304a\u3054\u3063\u3066}\u3082\u3089\u3063\u305f\u3002",
         "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
     ],
     [
@@ -5646,7 +5646,7 @@ Flashcards.initialize([
     ],
     [
         "You couldn't ask for a better chance.",
-        "{\u9858\u3063\u3066|\u306d\u304c\u3063\u3066}\u3082\u306a\u3044\u3053\u3068\u3067\u3059!",
+        "{\u9858\u3063\u3066|\u306d\u304c\u3063\u3066}\u3082\u306a\u3044\u3053\u3068\u3067\u3059\uff01",
         ""
     ],
     [
@@ -5801,7 +5801,7 @@ Flashcards.initialize([
     ],
     [
         "(Do I look like I'd) have something like that? {plain} Do (you) have something like that? {plain}",
-        "\u305d\u3093\u306a\u306e\u306f\u3001\u3042\u308b\u304b\u3088!\u305d\u3093\u306a\u306e\u306f\u3001\u3042\u308b\u306e\uff1f",
+        "\u305d\u3093\u306a\u306e\u306f\u3001\u3042\u308b\u304b\u3088\uff01\u305d\u3093\u306a\u306e\u306f\u3001\u3042\u308b\u306e\uff1f",
         "\u304b in casual speech = rhetorical question, sarcasm, true or not\n\u306a-adj. + \u306a + \u306e = (the) ~ one/thing, (clause --> generic noun)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [
@@ -6036,7 +6036,7 @@ Flashcards.initialize([
     ],
     [
         "(I) will try my hardest with all my might! {plain}",
-        "{\u4e00\u751f\u61f8\u547d|\u3044\u3063\u3057\u3087\u3046\u3051\u3093\u3081\u3044}\u3001{\u9811\u5f35\u3063\u3066|\u304c\u3093\u3070\u3063\u3066}\u3044\u304f!",
+        "{\u4e00\u751f\u61f8\u547d|\u3044\u3063\u3057\u3087\u3046\u3051\u3093\u3081\u3044}\u3001{\u9811\u5f35\u3063\u3066|\u304c\u3093\u3070\u3063\u3066}\u3044\u304f\uff01",
         "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)"
     ],
     [
@@ -6381,12 +6381,12 @@ Flashcards.initialize([
     ],
     [
         "(I) said it's not like that! {casual, spoken}",
-        "\u305d\u3046\u3086\u3046\u3053\u3068\u3058\u3083\u306a\u3044\u3063\u3066!",
+        "\u305d\u3046\u3086\u3046\u3053\u3068\u3058\u3083\u306a\u3044\u3063\u3066\uff01",
         "\u3086\u3046 = {\u8a00\u3046|\u3044\u3046} (casual)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
     ],
     [
         "(I) tried eating okonomiyaki for the first time and it was very tasty! {plain}",
-        "{\u304a\u597d\u307f\u713c\u304d|\u304a\u3053\u306e\u307f\u3084\u304d}\u3092{\u521d\u3081\u3066|\u306f\u3058\u3081\u3066}{\u98df\u3079\u3066|\u305f\u3079\u3066}\u307f\u305f\u3051\u3069\u3001\u3068\u3066\u3082{\u7f8e\u5473\u3057\u304b\u3063\u305f|\u304a\u3044\u3057\u304b\u3063\u305f}!",
+        "{\u304a\u597d\u307f\u713c\u304d|\u304a\u3053\u306e\u307f\u3084\u304d}\u3092{\u521d\u3081\u3066|\u306f\u3058\u3081\u3066}{\u98df\u3079\u3066|\u305f\u3079\u3066}\u307f\u305f\u3051\u3069\u3001\u3068\u3066\u3082{\u7f8e\u5473\u3057\u304b\u3063\u305f|\u304a\u3044\u3057\u304b\u3063\u305f}\uff01",
         "verb\u3066 + \u307f\u308b = try doing ~\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
     ],
     [
@@ -6463,5 +6463,70 @@ Flashcards.initialize([
         "Please don't write graffiti.",
         "{\u843d\u66f8\u304d|\u3089\u304f\u304c\u304d}\u3092{\u66f8\u304b\u306a\u3044|\u304b\u304b\u306a\u3044}\u3067\u304f\u3060\u3055\u3044\u3002",
         "verb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~"
+    ],
+    [
+        "Please give (me) the spoon. {childish}",
+        "\u30b9\u30d7\u30fc\u30f3\u3092\u3061\u3087\u3046\u3060\u3044\u3002",
+        "verb\u3066 + {\u9802\u6234|\u3061\u3087\u3046\u3060\u3044} = request, please ~ (casual, childish, feminine)"
+    ],
+    [
+        "Please write (your) name here. {childish}",
+        "\u3053\u3053\u306b{\u540d\u524d|\u306a\u307e\u3048}\u3092{\u66f8\u3044\u3066|\u304b\u3044\u3066}\u3061\u3087\u3046\u3060\u3044\u3002",
+        "verb\u3066 + {\u9802\u6234|\u3061\u3087\u3046\u3060\u3044} = request, please ~ (casual, childish, feminine)"
+    ],
+    [
+        "Listen well.",
+        "\u3088\u304f{\u805e\u304d|\u304d\u304d}\u306a\u3055\u3044\u3002",
+        "\u3044 adj. - \u3044 + \u304f = adverb\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)"
+    ],
+    [
+        "Sit here.",
+        "\u3053\u3053\u306b{\u5ea7\u308a|\u3059\u308f\u308a}\u306a\u3055\u3044\u3002",
+        "verb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)"
+    ],
+    [
+        "There's still a lot, so eat a lot.",
+        "\u307e\u3060\u3044\u3063\u3071\u3044\u3042\u308b\u304b\u3089\u3001\u305f\u304f\u3055\u3093{\u98df\u3079|\u305f\u3079}\u306a\u3002",
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)"
+    ],
+    [
+        "If (you) think that's fine, then do it!",
+        "\u305d\u308c\u3067\u3044\u3044\u3068{\u601d\u3046|\u304a\u3082\u3046}\u306a\u3089\u3001\u305d\u3046\u3057\u306a\u3088\u3002",
+        "\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb-plain/noun/\u3044-adj./\u306a-adj. + \u306a\u3089 = if (given that X, Y will happen - contextual condition) (\u306a\u3089\u3070 = more formal)"
+    ],
+    [
+        "Die!",
+        "{\u6b7b\u306d|\u3057\u306d}\uff01",
+        "verb\u3048/\u308d = command (mostly in fiction only)"
+    ],
+    [
+        "Do as (you) please!",
+        "{\u597d\u304d|\u3059\u304d}\u306b\u3057\u308d\uff01",
+        "verb\u3048/\u308d = command (mostly in fiction only)"
+    ],
+    [
+        "Come!",
+        "{\u6765\u3044|\u3053\u3044}\uff01",
+        "verb\u3048/\u308d = command (mostly in fiction only)"
+    ],
+    [
+        "Go away!",
+        "\u3042\u3063\u3061{\u884c\u3051|\u3044\u3051}\uff01",
+        "verb\u3048/\u308d = command (mostly in fiction only)"
+    ],
+    [
+        "Hurry up and bring (me) alcohol!",
+        "{\u65e9\u304f|\u306f\u3084\u304f}{\u9152|\u3055\u3051}\u3092{\u6301\u3063\u3066|\u3082\u3063\u3066}\u304d\u3066\u304f\u308c\uff01",
+        "verb\u3048/\u308d = command (mostly in fiction only)\nverb\u3066 + {\u5449\u308c|\u304f\u308c} = masculin, commanding request\nverb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)"
+    ],
+    [
+        "Don't eat that!",
+        "\u305d\u308c\u3092{\u98df\u3079\u308b|\u305f\u3079\u308b}\u306a\uff01",
+        "verb\u3046 + \u306a = negative command (mostly in fiction only)"
+    ],
+    [
+        "Don't say weird things!",
+        "{\u5909|\u3078\u3093}\u306a\u3053\u3068\u3092{\u8a00\u3046|\u3044\u3046}\u306a\uff01",
+        "verb\u3046 + \u306a = negative command (mostly in fiction only)"
     ]
 ])
