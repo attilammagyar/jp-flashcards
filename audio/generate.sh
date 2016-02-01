@@ -34,17 +34,18 @@ cat text.txt \
                 -H 'Referer: http://www.bing.com/translator/' \
                 -H 'Connection: keep-alive' > "$p.wav"
         fi
-        grep "^$i[.] " text.txt | grep -v "^$i[.] line: " > "$p.txt"
         if [[ ! -e "$p.mp3" ]]
         then
             lame -b 80 -m m "$p.wav" "$p.mp3"
-            eyeD3 \
-                --to-v2.3 \
-                --set-encoding=utf16-BE \
-                -a jp-flashcards \
-                -A jp-flashcards \
-                -t "$i" --lyrics=jpn:$n:"$(cat $p.txt)  " "$p.mp3"
-            # rm "$p.wav"
+            rm "$p.wav"
         fi
+        grep "^$i[.] " text.txt | grep -v "^$i[.] line: " | cut -d" " -f2- > "lyrics.txt"
+        eyeD3 \
+            --to-v2.3 \
+            --set-encoding=utf16-BE \
+            -a jp-flashcards \
+            -A jp-flashcards \
+            -t "jp-fc $p" --lyrics=jpn:$n:"$(cat lyrics.txt)  " "$p.mp3"
+        rm lyrics.txt
         echo "------------------------- $p"
       done

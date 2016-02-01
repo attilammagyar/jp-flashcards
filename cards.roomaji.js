@@ -1591,7 +1591,7 @@ Flashcards.initialize([
 ],
 [
     "face, long/narrow, square, round",
-    "{顔|kao}, {長い|nagai}, {四角い|shikakui}, {丸い||marui}",
+    "{顔|kao}, {長い|nagai}, {四角い|shikakui}, {丸い|marui}",
     ""
 ],
 [
@@ -1641,7 +1641,7 @@ Flashcards.initialize([
 ],
 [
     "(I) hope to eat sushi in Japan and I hope to see Mount Fuji.",
-    "{日本|nihon} de {寿司|sushi} wo {食べたい|tabetai} to {思います|omoimasu}. soshite fuji san wo {見たい|mitai} to {思います|omoimasu}.",
+    "{日本|nihon} de {寿司|sushi} wo {食べたい|tabetai} to {思います|omoimasu}. soshite {富士山|fujisan} wo {見たい|mitai} to {思います|omoimasu}.",
     "verb stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
 ],
 [
@@ -2361,7 +2361,7 @@ Flashcards.initialize([
 ],
 [
     "(I) often go till Mt. Fuji, but occasionally (I) also go to Izu, you know.",
-    "yoku fujisan made {行きます|ikimasu} kedo, {偶|tama} ni wa izu ni mo {行きます|ikimasu} yo.",
+    "yoku {富士山|fujisan} made {行きます|ikimasu} kedo, {偶|tama} ni wa izu ni mo {行きます|ikimasu} yo.",
     "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
@@ -2816,7 +2816,7 @@ Flashcards.initialize([
 ],
 [
     "Please decide quickly.",
-    "{速く|hayaku} kimete kudasai.",
+    "{速く|hayaku} {決めて|kimete} kudasai.",
     "verbて + ください = request\nい adj. - い + く = adverb"
 ],
 [
@@ -2866,7 +2866,7 @@ Flashcards.initialize([
 ],
 [
     "decide",
-    "kimeru, kimemasu, kimete",
+    "{決める|kimeru}, {決めます|kimemasu}, {決めて|kimete}",
     ""
 ],
 [
@@ -3976,7 +3976,7 @@ Flashcards.initialize([
 ],
 [
     "(I) have never seen Mount Fuji.",
-    "fujisan wo {見た|mita} koto ga arimasen.",
+    "{富士山|fujisan} wo {見た|mita} koto ga arimasen.",
     "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
 ],
 [
