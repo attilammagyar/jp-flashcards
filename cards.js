@@ -3482,7 +3482,7 @@ Flashcards.initialize([
     [
         "(You) said \"definitely this week\". Did (you) forget?",
         "{\u7d76\u5bfe|\u305c\u3063\u305f\u3044} \u306b {\u4eca\u9031|\u3053\u3093\u3057\u3085\u3046} \u3068 {\u8a00\u3044\u307e\u3057\u305f|\u3044\u3044\u307e\u3057\u305f}\u3002 {\u5fd8\u308c\u307e\u3057\u305f|\u308f\u3059\u308c\u307e\u3057\u305f} \u304b\u3002",
-        ""
+        "\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
     ],
     [
         "(I) changed my mind.",
@@ -3802,7 +3802,7 @@ Flashcards.initialize([
     [
         "After returning (home, I) phoned Roger and said good night.",
         "{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066} \u304b\u3089 \u30ed\u30b8\u30e3\u30fc \u3055\u3093 \u306b {\u96fb\u8a71|\u3067\u3093\u308f} \u3057\u3066 {\u304a\u4f11\u307f\u306a\u3055\u3044|\u304a\u3084\u3059\u307f\u306a\u3055\u3044} \u3068 {\u8a00\u3044\u307e\u3057\u305f|\u3044\u3044\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
+        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
     ],
     [
         "After that, (we) went to a bar and drank a lot of beer until late.",

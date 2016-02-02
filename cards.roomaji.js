@@ -3482,7 +3482,7 @@ Flashcards.initialize([
 [
     "(You) said \"definitely this week\". Did (you) forget?",
     "{絶対|zettai} ni {今週|konshuu} to {言いました|iimashita}. {忘れました|wasuremashita} ka.",
-    ""
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "(I) changed my mind.",
@@ -3802,7 +3802,7 @@ Flashcards.initialize([
 [
     "After returning (home, I) phoned Roger and said good night.",
     "{帰って|kaette} kara _rojaa_ san ni {電話|denwa} shite {お休みなさい|oyasuminasai} to {言いました|iimashita}.",
-    "verbて + から = after doing ~, since doing ~"
+    "verbて + から = after doing ~, since doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "After that, (we) went to a bar and drank a lot of beer until late.",
