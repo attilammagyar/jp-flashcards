@@ -4126,7 +4126,7 @@ Flashcards.initialize([
 ],
 [
     "(I) paid 2 million yen for the car. {plain}",
-    "{車|kuruma} ni {二百万円|nihyakumanen} {払った|haratta}.",
+    "{車|kuruma} ni {二百万円|nihyakuman'en} {払った|haratta}.",
     ""
 ],
 [
@@ -4876,7 +4876,7 @@ Flashcards.initialize([
 ],
 [
     "Can (you) add anchovies to the toppings? Can (you) also add eggplant?",
-    "_toppingu_ ni _anchoobi_ no tsuika wa dekimasu ka. nasu mo tsuika dekimasu ka.",
+    "_toppingu_ ni _anchoobi_ no {追加|tsuika} wa dekimasu ka. nasu mo {追加|tsuika} dekimasu ka.",
     "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
@@ -4891,12 +4891,12 @@ Flashcards.initialize([
 ],
 [
     "(I'll) add new data.",
-    "{新しい|atarashii} _deeta_ wo tsuika shimasu.",
+    "{新しい|atarashii} _deeta_ wo {追加|tsuika} shimasu.",
     ""
 ],
 [
     "Please add two more bottles of beer.",
-    "_biiru_ wo ato {二本|nihon} tsuika shite kudasai.",
+    "_biiru_ wo ato {二本|nihon} {追加|tsuika} shite kudasai.",
     "verbて + ください = request"
 ],
 [
