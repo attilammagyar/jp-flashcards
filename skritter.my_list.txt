@@ -1138,3 +1138,6 @@
 宇宙開発 uchuukaihatsu
 歓迎 kangei
 大歓迎 daikangei
+接尾辞 setsubiji
+硫黄 iou
+飼う kau
