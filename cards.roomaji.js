@@ -666,7 +666,7 @@ Flashcards.initialize([
 ],
 [
     "Tonight (I'll) be in Harajuku. (It's) fun, lively and (I) love Harajuku.",
-    "{今夜|kon'ya} wa harajuku ni imasu. {楽しくて|tanoshikute}, {賑やか|nigiyaka} de, harajuku wa {大好き|daisuki} desu.",
+    "{今夜|kon'ya} wa {原宿|harajuku} ni imasu. {楽しくて|tanoshikute}, {賑やか|nigiyaka} de, {原宿|harajuku} wa {大好き|daisuki} desu.",
     ""
 ],
 [
@@ -1866,12 +1866,12 @@ Flashcards.initialize([
 ],
 [
     "Hondo does his work seriously.",
-    "hondou san wa {真面目|majime} ni {仕事|shigoto} wo shimasu.",
+    "{本藤|hondou} san wa {真面目|majime} ni {仕事|shigoto} wo shimasu.",
     "な adj. + に = adverb"
 ],
 [
     "Naoe cleans neatly.",
-    "naoe san wa {奇麗|kirei} ni {掃除|souji} wo shimasu.",
+    "{直慧|naoe} san wa {奇麗|kirei} ni {掃除|souji} wo shimasu.",
     "な adj. + に = adverb"
 ],
 [
@@ -2076,7 +2076,7 @@ Flashcards.initialize([
 ],
 [
     "(In) Sapporo, the wind will probably be strong and sometimes (it) will snow. (It) will probably be 0°C.",
-    "Sapporo wa {風|kaze} ga {強くて|tsuyokute} {時々|tokidoki} {雪|yuki} deshou. {零度|reido} deshou.",
+    "{札幌|sapporo} wa {風|kaze} ga {強くて|tsuyokute} {時々|tokidoki} {雪|yuki} deshou. {零度|reido} deshou.",
     ""
 ],
 [
@@ -2301,7 +2301,7 @@ Flashcards.initialize([
 ],
 [
     "Naoe talked to Yuki while making a meal.",
-    "naoe san wa {食事|shokuji} wo {作りながら|tsukurinagara} yuki san to {話しました|hanashimashita}.",
+    "{直慧|naoe} san wa {食事|shokuji} wo {作りながら|tsukurinagara} {侑妃|yuki} san to {話しました|hanashimashita}.",
     "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
 ],
 [
@@ -2311,12 +2311,12 @@ Flashcards.initialize([
 ],
 [
     "Mr. Hondo eats (his) lunch while working.",
-    "hondou san wa {働きながら|hatarakinagara} {昼ご飯|hirugohan} wo {食べます|tabemasu}.",
+    "{本藤|hondou} san wa {働きながら|hatarakinagara} {昼ご飯|hirugohan} wo {食べます|tabemasu}.",
     "verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
 ],
 [
     "Rie taught Roger how to make sushi.",
-    "rie san wa _rojaa_ san ni {寿司|sushi} no {作り方|tsukurikata} wo {教えました|oshiemashita}.",
+    "{莉描|rie} san wa _rojaa_ san ni {寿司|sushi} no {作り方|tsukurikata} wo {教えました|oshiemashita}.",
     "verb stem + {方|かた} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb stem + {方|かた}"
 ],
 [
@@ -2361,12 +2361,12 @@ Flashcards.initialize([
 ],
 [
     "(I) often go till Mt. Fuji, but occasionally (I) also go to Izu, you know.",
-    "yoku {富士山|fujisan} made {行きます|ikimasu} kedo, {偶|tama} ni wa izu ni mo {行きます|ikimasu} yo.",
+    "yoku {富士山|fujisan} made {行きます|ikimasu} kedo, {偶|tama} ni wa {伊豆|izu} ni mo {行きます|ikimasu} yo.",
     "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "I love Izu, and (I'm) also interested in cars.",
-    "{私|watashi} wa izu ga {大好き|daisuki} de, {車|kuruma} ni mo {興味|kyoumi} ga arimasu.",
+    "{私|watashi} wa {伊豆|izu} ga {大好き|daisuki} de, {車|kuruma} ni mo {興味|kyoumi} ga arimasu.",
     "な-adj. + で = adj. and ..."
 ],
 [
@@ -2956,7 +2956,7 @@ Flashcards.initialize([
 ],
 [
     "(I) also changed the batteries in the radio.",
-    "_rajio_ no {電池|denchi} mo koukan shimashita.",
+    "_rajio_ no {電池|denchi} mo {交換|koukan} shimashita.",
     ""
 ],
 [
@@ -2986,12 +2986,12 @@ Flashcards.initialize([
 ],
 [
     "Please exchange this card with that card.",
-    "{此の|kono} _kaado_ to {其の|sono} _kaado_ wo koukan shite kudasai.",
+    "{此の|kono} _kaado_ to {其の|sono} _kaado_ wo {交換|koukan} shite kudasai.",
     ""
 ],
 [
     "Please (give me) a charger.",
-    "juudenki wo kudasai.",
+    "{充電器|juudenki} wo kudasai.",
     ""
 ],
 [
@@ -3186,7 +3186,7 @@ Flashcards.initialize([
 ],
 [
     "(I) have already eaten breakfast. (I) no longer eat breakfast. Yuki no longer learns the piano. {discontinued habit}",
-    "mou {朝ご飯|asagohan} wo {食べました|tabemashita}. mou {朝ご飯|asagohan} wo {食べません|tabemasen}. yuki san wa mou _piano_ wo {習って|naratte} imasen.",
+    "mou {朝ご飯|asagohan} wo {食べました|tabemashita}. mou {朝ご飯|asagohan} wo {食べません|tabemasen}. {侑妃|yuki} san wa mou _piano_ wo {習って|naratte} imasen.",
     "もう + verb-past = already completed doing ~\nもう + verb-present-negative = no longer doing ~ (complete action)\nもう + verbて + いません = discontinued habitual action (no longer)\nならう -> ならって"
 ],
 [
@@ -3216,7 +3216,7 @@ Flashcards.initialize([
 ],
 [
     "Eri hasn't done (her) homework yet, but Yuki is still doing (her's).",
-    "eri san wa {未だ|mada} {宿題|shukudai} wo shite imasen ga yuki san wa {未だ|mada} shite imasu.",
+    "{絵里|eri} san wa {未だ|mada} {宿題|shukudai} wo shite imasen ga {侑妃|yuki} san wa {未だ|mada} shite imasu.",
     "{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\n{未だ|まだ} + verbて + います = still doing ~ (incomplete action)"
 ],
 [
@@ -3251,12 +3251,12 @@ Flashcards.initialize([
 ],
 [
     "After school, (I) take part in a tennis club. {habit}",
-    "{学校|gakkou} no {後|ato} de _tenisu kurabu_ ni sanka shite imasu.",
+    "{学校|gakkou} no {後|ato} de _tenisu kurabu_ ni {参加|sanka} shite imasu.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
     "Twice every week (I) go to cram school and (I) learn Maths and English (etc.). {habit}",
-    "{毎週|maishuu} {二回|nikai} juku ni {行って|itte}, {数学|suugaku} ya {英語|eigo} wo {勉強|benkyou} shite imasu.",
+    "{毎週|maishuu} {二回|nikai} {塾|juku} ni {行って|itte}, {数学|suugaku} ya {英語|eigo} wo {勉強|benkyou} shite imasu.",
     "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nや: incomplete list"
 ],
 [
@@ -3356,7 +3356,7 @@ Flashcards.initialize([
 ],
 [
     "Eri can already swim.",
-    "eri chan wa mou {泳ぐこと|oyogukoto} dekimasu.",
+    "{絵李|eri} chan wa mou {泳ぐこと|oyogukoto} dekimasu.",
     "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
@@ -3396,22 +3396,22 @@ Flashcards.initialize([
 ],
 [
     "Naoe can speak English a little.",
-    "Naoe san wa {少し|sukoshi} {英語|eigo} wo {話すこと|hanasukoto} ga dekimasu.",
+    "{直慧|naoe} san wa {少し|sukoshi} {英語|eigo} wo {話すこと|hanasukoto} ga dekimasu.",
     "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "I can't eat raw fish.",
-    "{私|watashi} wa sashimi wo {食べること|taberukoto} ga dekimasen.",
+    "{私|watashi} wa {刺身|sashimi} wo {食べること|taberukoto} ga dekimasen.",
     "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "Rie likes doing cooking.",
-    "Rie san wa {料理|ryouri} wo suru {事|koto} ga {好き|suki} desu.",
+    "{莉描|rie} san wa {料理|ryouri} wo suru {事|koto} ga {好き|suki} desu.",
     "verbう + こと = doing ~ (nominalize)"
 ],
 [
     "Yuki is good at studying Maths but bad at English.",
-    "yuki san wa {数学|suugaku} wo {勉強|benkyou} suru {事|koto} ga {得意|tokui} desu ga {英語|eigo} ga {苦手|nigate} desu.",
+    "{侑妃|yuki} san wa {数学|suugaku} wo {勉強|benkyou} suru {事|koto} ga {得意|tokui} desu ga {英語|eigo} ga {苦手|nigate} desu.",
     "verbう + こと = doing ~ (nominalize)\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
@@ -3426,7 +3426,7 @@ Flashcards.initialize([
 ],
 [
     "Recently (I'm) learning judo.",
-    "{最近|saikin} juudou wo {習って|naratte} imasu.",
+    "{最近|saikin} {柔道|juudou} wo {習って|naratte} imasu.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
@@ -3456,7 +3456,7 @@ Flashcards.initialize([
 ],
 [
     "Do (you) intend to play golf with Naoe on Sunday?",
-    "{日曜日|nichiyoubi} ni naoe san to _gorufu_ wo suru tsumori desu ka.",
+    "{日曜日|nichiyoubi} ni {直慧|naoe} san to _gorufu_ wo suru tsumori desu ka.",
     "verbう + つもり = intend to ~"
 ],
 [
@@ -3601,7 +3601,7 @@ Flashcards.initialize([
 ],
 [
     "(You're) busy, (you're) drained, (you) always make excuses, don't you?",
-    "{忙しくて|isogashikute} toka, darukute toka, {何時も|itsumo} {言い訳|iiwake} wo {言います|iimasu} ne.",
+    "{忙しくて|isogashikute} toka, {怠くて|darukute} toka, {何時も|itsumo} {言い訳|iiwake} wo {言います|iimasu} ne.",
     "とか links representative examples of a class (A and B, and other things)"
 ],
 [
@@ -3631,7 +3631,7 @@ Flashcards.initialize([
 ],
 [
     "That penguin jumped over the wall.",
-    "ano _pengin_, kabe wo {飛びこえました|tobikoemashita}.",
+    "ano _pengin_, {壁|kabe} wo {飛びこえました|tobikoemashita}.",
     "verb-stem + verb = compound verb (action + qualifier)"
 ],
 [
@@ -3666,7 +3666,7 @@ Flashcards.initialize([
 ],
 [
     "Tonight is a little... (We'll) watch a movie with Rie. Before watching (it, we) intend to eat at a restaurant.",
-    "{今晩|konban} wa chotto... rie san to {映画|eiga} wo {見ます|mimasu}. {見る|miru} {前|mae} ni _resutoran_ de {食べる|taberu} tsumori desu.",
+    "{今晩|konban} wa chotto... {莉描|rie} san to {映画|eiga} wo {見ます|mimasu}. {見る|miru} {前|mae} ni _resutoran_ de {食べる|taberu} tsumori desu.",
     "verbう + {前|まえ} に = before doing ~\nverbう + つもり = intend to ~"
 ],
 [
@@ -3726,22 +3726,22 @@ Flashcards.initialize([
 ],
 [
     "Shikoku is bigger than Okinawa.",
-    "{四国|shikoku} wa okinawa yori {大きい|ookii} desu.",
+    "{四国|shikoku} wa {沖縄|okinawa} yori {大きい|ookii} desu.",
     "A は Bより X = Bより A は X = A is X'er than B"
 ],
 [
     "Kyushu is bigger than Shikoku.",
-    "kyuushuu wa {四国|shikoku} yori {大きい|ookii} desu.",
+    "{九州|kyuushuu} wa {四国|shikoku} yori {大きい|ookii} desu.",
     "A は Bより X = Bより A は X = A is X'er than B"
 ],
 [
     "Hokkaido is larger than Kyushu.",
-    "hokkaidou wa kyuushuu yori {大きい|ookii} desu.",
+    "{北海道|hokkaidou} wa {九州|kyuushuu} yori {大きい|ookii} desu.",
     "A は Bより X = Bより A は X = A is X'er than B"
 ],
 [
     "Because Honshu is larger than Hokkaido, the answer is Honshu. {から}",
-    "honshuu wa hokkaidou yori {大きい|ookii} desu kara {答え|kotae} wa honshuu desu.",
+    "{本州|honshuu} wa {北海道|hokkaidou} yori {大きい|ookii} desu kara {答え|kotae} wa {本州|honshuu} desu.",
     "A は Bより X = Bより A は X = A is X'er than B\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -3861,7 +3861,7 @@ Flashcards.initialize([
 ],
 [
     "What is Tokyo's tallest building? (It's) the Tokyo Metropolitan Government (Building) being in Shinjuku.",
-    "{東京|toukyou} no {一番|ichiban} {高い|takai} _biru_ wa {何|nan} desu ka. {新宿|shinjuku} ni aru {東京|toukyou} tochou desu.",
+    "{東京|toukyou} no {一番|ichiban} {高い|takai} _biru_ wa {何|nan} desu ka. {新宿|shinjuku} ni aru {東京|toukyou} {都庁|tochou} desu.",
     "verbう + noun = the ~ing noun"
 ],
 [
@@ -3876,12 +3876,12 @@ Flashcards.initialize([
 ],
 [
     "(It's) even 9 meters taller than France's Eiffel Tower.",
-    "_furansu_ no _efferu_ tou yori {九|kyuu} _meetoru_ mo {高い|takai} desu.",
+    "_furansu_ no _efferu_ {塔|tou} yori {九|kyuu} _meetoru_ mo {高い|takai} desu.",
     "A は Bより X = Bより A は X = A is X'er than B"
 ],
 [
     "Furthermore, (it's) lighter than the Eiffel Tower.",
-    "sarani, _efferu_ tou yori {軽い|karui} desu.",
+    "sarani, _efferu_ {塔|tou} yori {軽い|karui} desu.",
     "A は Bより X = Bより A は X = A is X'er than B"
 ],
 [
@@ -4261,7 +4261,7 @@ Flashcards.initialize([
 ],
 [
     "After talking to Takeshi, Miki phoned to Roger.",
-    "takeshi san to {話した|hanashita} {後|ato} de, {三木|miki} san wa _rojaa_ san ni {電話|denwa} shimashita.",
+    "{剛士|takeshi} san to {話した|hanashita} {後|ato} de, {三木|miki} san wa _rojaa_ san ni {電話|denwa} shimashita.",
     "verbた + {後|あと} + で = after (finished) doing ~"
 ],
 [
@@ -4311,7 +4311,7 @@ Flashcards.initialize([
 ],
 [
     "Isn't it probable that Mr. Hondo will come to the party? (Won't Mr. Hondo probably come to the party?) {polite}",
-    "hondou san wa パーティー ni {来る|kuru} n ja nai deshou ka.",
+    "{本銅|hondou} san wa パーティー ni {来る|kuru} n ja nai deshou ka.",
     "verbう + でしょう/だろう = probably (will) do ~\nverbう + ん + じゃない + でしょう + か = politeness"
 ],
 [
@@ -4326,7 +4326,7 @@ Flashcards.initialize([
 ],
 [
     "Tomorrow (it has been arranged for me to) meet Mr. Hondo.",
-    "{明日|ashita} hondou san ni {会う|au} koto ni narimashita.",
+    "{明日|ashita} {本銅|hondou} san ni {会う|au} koto ni narimashita.",
     "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
@@ -4366,7 +4366,7 @@ Flashcards.initialize([
 ],
 [
     "Takeshi thinks (he) will meet with Miki again.",
-    "takeshi san wa {三木|miki} san ni mata {会おう|aou} to {思って|omotte} imasu.",
+    "{剛士|takeshi} san wa {三木|miki} san ni mata {会おう|aou} to {思って|omotte} imasu.",
     "verbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
@@ -4646,7 +4646,7 @@ Flashcards.initialize([
 ],
 [
     "What does Rie think about Mr. Yamada going to China? (It's) a pity, but a good opportunity.",
-    "rie san wa {山田|yamada} san ga {中国|chuugoku} ni {行く|iku} koto ni {就いて|tsuite} dou {思います|omoimasu} ka. {残念|zan'nen} desu ga ii _chansu_ desu.",
+    "{莉描|rie} san wa {山田|yamada} san ga {中国|chuugoku} ni {行く|iku} koto ni {就いて|tsuite} dou {思います|omoimasu} ka. {残念|zan'nen} desu ga ii _chansu_ desu.",
     "but: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
@@ -4666,7 +4666,7 @@ Flashcards.initialize([
 ],
 [
     "In Okinawa, (I) had an interesting experience.",
-    "Okinawa de {面白い|omoshiroi} {経験|keiken} wo shimashita.",
+    "{沖縄|okinawa} de {面白い|omoshiroi} {経験|keiken} wo shimashita.",
     ""
 ],
 [
@@ -4771,7 +4771,7 @@ Flashcards.initialize([
 ],
 [
     "On Thursday it was unexpectedly arranged for me to take part in a judo contest.",
-    "{木曜日|mokuyoubi} ni {突然|totsuzen} {私|watashi} wa juudou no {試合|shiai} ni sanka suru koto ni narimashita.",
+    "{木曜日|mokuyoubi} ni {突然|totsuzen} {私|watashi} wa {柔道|juudou} no {試合|shiai} ni {参加|sanka} suru koto ni narimashita.",
     "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)"
 ],
 [
@@ -4876,7 +4876,7 @@ Flashcards.initialize([
 ],
 [
     "Can (you) add anchovies to the toppings? Can (you) also add eggplant?",
-    "_toppingu_ ni _anchoobi_ no {追加|tsuika} wa dekimasu ka. nasu mo {追加|tsuika} dekimasu ka.",
+    "_toppingu_ ni _anchoobi_ no {追加|tsuika} wa dekimasu ka. {茄子|nasu} mo {追加|tsuika} dekimasu ka.",
     "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
@@ -4961,7 +4961,7 @@ Flashcards.initialize([
 ],
 [
     "(I) must call Mr. Hondo. {plain}",
-    "hondou san ni {電話|denwa} shinakereba naranai.",
+    "{本銅|hondou} san ni {電話|denwa} shinakereba naranai.",
     "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
 ],[
     "(I) must take the medicine.",
@@ -5035,7 +5035,7 @@ Flashcards.initialize([
 ],
 [
     "(You) shouldn't phone Mr. Hondo late.",
-    "hondou san ni {遅く|osoku} {電話|denwa} shinai hou ga ii desu.",
+    "{本藤|hondou} san ni {遅く|osoku} {電話|denwa} shinai hou ga ii desu.",
     "verbない + {方|ほう} + が + いい + です = shouldn't ~"
 ],
 [
@@ -5130,7 +5130,7 @@ Flashcards.initialize([
 ],
 [
     "If (you) like sumo, please watch tonight's tournament.",
-    "sumou ga {好き|suki} dattara, {今晩|konban} no {試合|shiai} wo {見て|mite} kudasai.",
+    "{相撲|sumou} ga {好き|suki} dattara, {今晩|konban} no {試合|shiai} wo {見て|mite} kudasai.",
     "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbて + ください = request"
 ],
 [
@@ -5225,7 +5225,7 @@ Flashcards.initialize([
 ],
 [
     "New Year's Card: Year's first greeting postcard",
-    "{年賀状|nengajou}: {年|toshi} no {最初|saisho} no aisatsu no {葉書|hagaki}",
+    "{年賀状|nengajou}: {年|toshi} no {最初|saisho} no {挨拶|aisatsu} no {葉書|hagaki}",
     ""
 ],
 [
@@ -5250,7 +5250,7 @@ Flashcards.initialize([
 ],
 [
     "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
-    "{今日|kyou} wa ケーティ to {私達|watashitachi} no tame ni kon'na ni seidai na {送別会|soubetsukai} to {結婚|kekkon} {前夜|zen'ya} {去り|sari} wo {開いて|hiraite} kudasatte arigatou gozaimasu. totemo kansha shiteimasu.",
+    "{今日|kyou} wa ケーティ to {私達|watashitachi} no tame ni kon'na ni {盛大|seidai} na {送別会|soubetsukai} to {結婚|kekkon} {前夜|zen'ya} {去り|sari} wo {開いて|hiraite} kudasatte arigatou gozaimasu. totemo {感謝|kansha} shiteimasu.",
     "な adj. + に = adverb\nと: complete list\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
 ],
 [
@@ -5310,12 +5310,12 @@ Flashcards.initialize([
 ],
 [
     "(I) got this notebook from the school. (I) received a scholarship from the Brazilian government.",
-    "kono _nooto_ wa, {学校|gakkou} kara moraimashita. _burajiru_ seifu kara, {奨学金|shougakukin} wo moraimashita.",
+    "kono _nooto_ wa, {学校|gakkou} kara moraimashita. _burajiru_ {政府|seifu} kara, {奨学金|shougakukin} wo moraimashita.",
     "X は/が Y から Z を {貰う|もらう} = X(in) receives Z from Y (school, workplace, organization, etc.)"
 ],
 [
     "(I) water the flowers twice every day. \"Have (you) fed Tama, the cat already?\" \"Oh, not yet.\" {plain}",
-    "{毎日|mainichi} {二回|nikai}, {花|hana} ni {水|mizu} wo yarimasu. 「mou {猫|neko} no _tama_ ni esa wo yatta?」 「a, mada」",
+    "{毎日|mainichi} {二回|nikai}, {花|hana} ni {水|mizu} wo yarimasu. 「mou {猫|neko} no _tama_ ni {餌|esa} wo yatta?」 「a, mada」",
     "X は/が Y に Z を {遣る|やる} = X gives Z to Y (animal, plant)"
 ],
 [
@@ -5430,7 +5430,7 @@ Flashcards.initialize([
 ],
 [
     "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
-    "nurete inai ne. {友達|tomodachi} ga {車|kuruma} de {送って|okutte} kureta kara, {助かった|tasukatta} yo.",
+    "{濡れて|nurete} inai ne. {友達|tomodachi} ga {車|kuruma} de {送って|okutte} kureta kara, {助かった|tasukatta} yo.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
@@ -5540,7 +5540,7 @@ Flashcards.initialize([
 ],
 [
     "(You'll) catch a cold if (you) stay wet. {plain}",
-    "{雨|ame} ni nureta mama da to, {風邪|kaze} wo {引く|hiku} yo.",
+    "{雨|ame} ni {濡れた|nureta} mama da to, {風邪|kaze} wo {引く|hiku} yo.",
     "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
 ],
 [
@@ -5585,7 +5585,7 @@ Flashcards.initialize([
 ],
 [
     "Even if (I'm) bad at characters, (I) write carefully. {plain}",
-    "{字|ji} ga {下手|heta} de mo, teinei ni {書く|kaku}.",
+    "{字|ji} ga {下手|heta} de mo, {丁寧|teinei} ni {書く|kaku}.",
     "な adj. + に = adverb"
 ],
 [
@@ -5755,7 +5755,7 @@ Flashcards.initialize([
 ],
 [
     "When I was a child, (my) father often took (me) to the zoo. {plain}",
-    "{私|watashi} ga {子供|kodomo} no koro, {父|chichi} wa yoku {動物園|doubutsuen} ni {連れて|tsurete} itte kureta.",
+    "{私|watashi} ga {子供|kodomo} no {頃|koro}, {父|chichi} wa yoku {動物園|doubutsuen} ni {連れて|tsurete} itte kureta.",
     "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)"
 ],
 [

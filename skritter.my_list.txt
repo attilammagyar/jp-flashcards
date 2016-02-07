@@ -1141,3 +1141,5 @@
 接尾辞 setsubiji
 硫黄 iou
 飼う kau
+一寸 chotto
+程 hodo
