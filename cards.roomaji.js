@@ -6522,5 +6522,40 @@ Flashcards.initialize([
     "Don't say weird things!",
     "{変|hen} na koto wo {言う|iu} na!",
     "verbう + な = negative command (mostly in fiction only)"
+],
+[
+    "What's that? {plain, spoken}",
+    "{何|nani} sore?",
+    "sentence order can change in spoken Japanese"
+],
+[
+    "Did you see? That guy? {plain, spoken}",
+    "{見た|mita}? ano {人|hito}?",
+    "sentence order can change in spoken Japanese"
+],
+[
+    "(You) ate it already? The ice cream (I) bought yesterday? {plain, spoken}",
+    "mou {食べた|tabeta}? {昨日|kinou} {買った|katta} _aisu_.",
+    "sentence order can change in spoken Japanese"
+],
+[
+    "See, as (I) thought, (you) have to write the report. {plain, spoken}",
+    "hora, yappari _repooto_ wo {書かない|kakanai} to dame jan.",
+    "じゃん = confirm the positive (casual, spoken)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
+],
+[
+    "Since there's nobody (here), it's probably fine to change here. {plain, spoken}",
+    "{誰|dare} mo inai kara, koko de {着替えて|kigaete} mo ii jan.",
+    "じゃん = confirm the positive (casual, spoken)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+],
+[
+    "Is Takashi here? Dunno. Ah, see, (he's) here! {plain, spoken}",
+    "{隆士|takashi} {君|kun} wa, koko ni iru? {知らない|shiranai}. あっ! yappa, iru jan!",
+    "じゃん = confirm the positive (casual, spoken)"
+],
+[
+    "There's a karaoke place near the station, right? Yep. It's right next to there. {plain, spoken}",
+    "{駅|eki} no {近く|chikaku} ni _karaoke_ ga aru jan ka. un. asoko no sugu {隣|tonari} da.",
+    "じゃん = confirm the positive (casual, spoken)"
 ]
 ])

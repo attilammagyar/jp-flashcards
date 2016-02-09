@@ -6528,5 +6528,40 @@ Flashcards.initialize([
         "Don't say weird things!",
         "{\u5909|\u3078\u3093} \u306a \u3053\u3068 \u3092 {\u8a00\u3046|\u3044\u3046} \u306a\uff01",
         "verb\u3046 + \u306a = negative command (mostly in fiction only)"
+    ],
+    [
+        "What's that? {plain, spoken}",
+        "{\u4f55|\u306a\u306b} \u305d\u308c\uff1f",
+        "sentence order can change in spoken Japanese"
+    ],
+    [
+        "Did you see? That guy? {plain, spoken}",
+        "{\u898b\u305f|\u307f\u305f}\uff1f \u3042\u306e {\u4eba|\u3072\u3068}\uff1f",
+        "sentence order can change in spoken Japanese"
+    ],
+    [
+        "(You) ate it already? The ice cream (I) bought yesterday? {plain, spoken}",
+        "\u3082\u3046 {\u98df\u3079\u305f|\u305f\u3079\u305f}\uff1f {\u6628\u65e5|\u304d\u306e\u3046} {\u8cb7\u3063\u305f|\u304b\u3063\u305f} \u30a2\u30a4\u30b9\u3002",
+        "sentence order can change in spoken Japanese"
+    ],
+    [
+        "See, as (I) thought, (you) have to write the report. {plain, spoken}",
+        "\u307b\u3089\u3001 \u3084\u3063\u3071\u308a \u30ec\u30dd\u30fc\u30c8 \u3092 {\u66f8\u304b\u306a\u3044|\u304b\u304b\u306a\u3044} \u3068 \u3060\u3081 \u3058\u3083\u3093\u3002",
+        "\u3058\u3083\u3093 = confirm the positive (casual, spoken)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)"
+    ],
+    [
+        "Since there's nobody (here), it's probably fine to change here. {plain, spoken}",
+        "{\u8ab0|\u3060\u308c} \u3082 \u3044\u306a\u3044 \u304b\u3089\u3001 \u3053\u3053 \u3067 {\u7740\u66ff\u3048\u3066|\u304d\u304c\u3048\u3066} \u3082 \u3044\u3044 \u3058\u3083\u3093\u3002",
+        "\u3058\u3083\u3093 = confirm the positive (casual, spoken)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    ],
+    [
+        "Is Takashi here? Dunno. Ah, see, (he's) here! {plain, spoken}",
+        "{\u9686\u58eb|\u305f\u304b\u3057} {\u541b|\u304f\u3093} \u306f\u3001 \u3053\u3053 \u306b \u3044\u308b\uff1f {\u77e5\u3089\u306a\u3044|\u3057\u3089\u306a\u3044}\u3002 \u3042\u3063\uff01 \u3084\u3063\u3071\u3001 \u3044\u308b \u3058\u3083\u3093\uff01",
+        "\u3058\u3083\u3093 = confirm the positive (casual, spoken)"
+    ],
+    [
+        "There's a karaoke place near the station, right? Yep. It's right next to there. {plain, spoken}",
+        "{\u99c5|\u3048\u304d} \u306e {\u8fd1\u304f|\u3061\u304b\u304f} \u306b \u30ab\u30e9\u30aa\u30b1 \u304c \u3042\u308b \u3058\u3083\u3093 \u304b\u3002 \u3046\u3093\u3002 \u3042\u305d\u3053 \u306e \u3059\u3050 {\u96a3|\u3068\u306a\u308a} \u3060\u3002",
+        "\u3058\u3083\u3093 = confirm the positive (casual, spoken)"
     ]
 ])
