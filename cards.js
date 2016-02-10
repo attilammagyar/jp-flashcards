@@ -6563,5 +6563,50 @@ Flashcards.initialize([
         "There's a karaoke place near the station, right? Yep. It's right next to there. {plain, spoken}",
         "{\u99c5|\u3048\u304d} \u306e {\u8fd1\u304f|\u3061\u304b\u304f} \u306b \u30ab\u30e9\u30aa\u30b1 \u304c \u3042\u308b \u3058\u3083\u3093 \u304b\u3002 \u3046\u3093\u3002 \u3042\u305d\u3053 \u306e \u3059\u3050 {\u96a3|\u3068\u306a\u308a} \u3060\u3002",
         "\u3058\u3083\u3093 = confirm the positive (casual, spoken)"
+    ],
+    [
+        "Or rather, why are you here?! {rough, slang}",
+        "\u3064\u3046 \u304b\u3001 \u306a\u3093 \u3067 {\u304a\u524d|\u304a\u307e\u3048} \u304c \u3053\u3053 \u306b \u3044\u3093\u306e \u3088\uff01",
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} \u304b = rephrase a conclusion / or rather ~ (often casual)\n\u3064, \u3064\u3046 = rough slang for \u3068 {\u8a00\u3046|\u3044\u3046}\n{\u4f55\u3067|\u306a\u3093\u3067}: colloquial \"why\", {\u4f55|\u306a\u306b}\u3067: by what, with what?\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "Although (he's) saying (he) doesn't have time due to homework, (I) heard (he) went on a date with Miki-chan. {rough, slang}",
+        "{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3067 {\u6642\u9593|\u3058\u304b\u3093} \u304c \u306a\u3044 \u3064\u3063\u3066 \u3093 \u306e \u306b\u3001 {\u4e09\u6728|\u307f\u304d} \u3061\u3083\u3093 \u3068 \u30c7\u30fc\u30c8 \u3057 \u306b \u3044\u3063\u305f \u3068 {\u805e\u3044\u305f|\u304d\u3044\u305f} \u3088\u3002",
+        "\u3064, \u3064\u3046 = rough slang for \u3068 {\u8a00\u3046|\u3044\u3046}\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\n\u306e \u306b = despite (verb-plain + \u306e \u306b, ~\u3044/~\u3044\u3067\u3059 + \u306e \u306b, noun/\u306a-adj. + \u306a + \u306e \u306b)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n(place + \u3078/\u306b) + verb stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+    ],
+    [
+        "Like (I) said, (you're) wrong! {rough, slag}",
+        "\u3060 \u304b\u3089\u3001 {\u9055\u3046|\u3061\u304c\u3046} \u3093 \u3060\u3063\u3064\u3046\u306e\uff01",
+        "\u3064, \u3064\u3046 = rough slang for \u3068 {\u8a00\u3046|\u3044\u3046}\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066, following particles can be dropped)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "(I) told (you I'm) going (already)! {sigh, casual}",
+        "\u3082\u3046 {\u884c\u304f\u3063\u3066\u3070|\u3044\u304f\u3063\u3066\u3070}\uff01",
+        "\u3063\u3066\u3070, \u3063\u305f\u3089 = slang (from conditional \u3068 {\u8a00\u3046|\u3044\u3046}), \"I told you a million times!\"\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+    ],
+    [
+        "You're always forgetting. {sigh, casual}",
+        "\u3042\u306a\u305f\u3063\u305f\u3089\u3001 \u3044\u3064\u3082 {\u5fd8\u308c\u308b|\u308f\u3059\u308c\u308b} \u3093 \u3060 \u304b\u3089\u3002",
+        "\u3063\u3066\u3070, \u3063\u305f\u3089 = slang (from conditional \u3068 {\u8a00\u3046|\u3044\u3046}), \"I told you a million times!\"\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+    ],
+    [
+        "(I guess he's) like busy today. {casual}",
+        "{\u4eca\u65e5|\u304d\u3087\u3046} \u306f\u3001 \u306a\u3093\u304b {\u5fd9\u3057\u3044|\u3044\u305d\u304c\u3057\u3044} \u307f\u305f\u3044 \u3088\u3002",
+        "\u306a\u3093\u304b = filler, \"like\" (casual, from {\u4f55|\u306a\u306b} \u304b)"
+    ],
+    [
+        "Like, baths feel super good, huh? {casual}",
+        "\u306a\u3093\u304b \u306d\u3002 {\u304a\u98a8\u5442\u3063\u3066|\u304a\u3075\u308d\u3063\u3066} {\u8d85|\u3061\u3087\u3046} {\u6c17\u6301\u3061|\u304d\u3082\u3061} \u3044\u3044 \u3088 \u306d\uff01",
+        "\u306a\u3093\u304b = filler, \"like\" (casual, from {\u4f55|\u306a\u306b} \u304b)\n~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066, following particles can be dropped)"
+    ],
+    [
+        "Mom said (she's) not coming back until like tomorrow. {casual}",
+        "{\u304a\u6bcd\u3055\u3093|\u304a\u304b\u3042\u3055\u3093} \u304c\u3001 \u306a\u3093\u304b {\u660e\u65e5|\u3042\u3057\u305f} \u307e\u3067 {\u623b\u3089\u306a\u3044|\u3082\u3069\u3089\u306a\u3044} \u3093 \u3060\u3063\u3066 \u3088\u3002",
+        "\u306a\u3093\u304b = filler, \"like\" (casual, from {\u4f55|\u306a\u306b} \u304b)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+    ],
+    [
+        "Hey, like, do (you) really (think that) Bob likes (somebody like) me? {casual}",
+        "\u306a\u3093\u304b \u3055\u3002 \u30dc\u30d6 \u306f\u3001 {\u79c1|\u308f\u305f\u3057} \u306e \u3053\u3068 \u306a\u3093\u304b {\u672c\u5f53|\u307b\u3093\u3068\u3046} \u306b {\u597d\u304d|\u3059\u304d} \u304b \u306a\uff1f",
+        "\u306a\u3093\u304b = filler, \"like\" (casual, from {\u4f55|\u306a\u306b} \u304b)\n\u304b at end of clause = talking about a question\n\u304b in casual speech = rhetorical question, sarcasm, true or not"
     ]
 ])

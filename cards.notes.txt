@@ -12,6 +12,7 @@ A や B や C など = A, B, C, etc.
 {何で|なんで}: colloquial "why", {何|なに}で: by what, with what?
 か in casual speech = rhetorical question, sarcasm, true or not
 か at end of clause = talking about a question
+なんか = filler, "like" (casual, from {何|なに} か)
 し at end of clause = multiple reasons, etc.
 
 Quotes
@@ -21,6 +22,8 @@ Quotes
 ~ と {言う|いう} か = rephrase a conclusion / or rather ~ (often casual)
 ~ て = ~って, except for things actually said/heard
 ゆう = {言う|いう} (casual)
+つ, つう = rough slang for と {言う|いう}
+ってば, ったら = slang (from conditional と {言う|いう}), "I told you a million times!"
 
 Question words
 ==============

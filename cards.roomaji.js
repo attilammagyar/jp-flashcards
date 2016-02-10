@@ -6557,5 +6557,50 @@ Flashcards.initialize([
     "There's a karaoke place near the station, right? Yep. It's right next to there. {plain, spoken}",
     "{駅|eki} no {近く|chikaku} ni _karaoke_ ga aru jan ka. un. asoko no sugu {隣|tonari} da.",
     "じゃん = confirm the positive (casual, spoken)"
+],
+[
+    "Or rather, why are you here?! {rough, slang}",
+    "tsuu ka, nan de {お前|omae} ga koko ni in'no yo!",
+    "~ と {言う|いう} か = rephrase a conclusion / or rather ~ (often casual)\nつ, つう = rough slang for と {言う|いう}\n{何で|なんで}: colloquial \"why\", {何|なに}で: by what, with what?\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Although (he's) saying (he) doesn't have time due to homework, (I) heard (he) went on a date with Miki-chan. {rough, slang}",
+    "{宿題|shukudai} de {時間|jikan} ga nai tsutte n no ni, {三木|miki} chan to _deeto_ shi ni itta to {聞いた|kiita} yo.",
+    "つ, つう = rough slang for と {言う|いう}\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nの に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\n(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb"
+],
+[
+    "Like (I) said, (you're) wrong! {rough, slag}",
+    "da kara, {違う|chigau} n dattsuuno!",
+    "つ, つう = rough slang for と {言う|いう}\n~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "(I) told (you I'm) going (already)! {sigh, casual}",
+    "mou {行くってば|ikutteba}!",
+    "ってば, ったら = slang (from conditional と {言う|いう}), \"I told you a million times!\"\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+],
+[
+    "You're always forgetting. {sigh, casual}",
+    "anatattara, itsumo {忘れる|wasureru} n da kara.",
+    "ってば, ったら = slang (from conditional と {言う|いう}), \"I told you a million times!\"\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "(I guess he's) like busy today. {casual}",
+    "{今日|kyou} wa, nanka {忙しい|isogashii} mitai yo.",
+    "なんか = filler, \"like\" (casual, from {何|なに} か)"
+],
+[
+    "Like, baths feel super good, huh? {casual}",
+    "nanka ne. {お風呂って|ofurotte} {超|chou} {気持ち|kimochi} ii yo ne!",
+    "なんか = filler, \"like\" (casual, from {何|なに} か)\n~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)"
+],
+[
+    "Mom said (she's) not coming back until like tomorrow. {casual}",
+    "{お母さん|okaasan} ga, nanka {明日|ashita} made {戻らない|modoranai} n datte yo.",
+    "なんか = filler, \"like\" (casual, from {何|なに} か)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+],
+[
+    "Hey, like, do (you) really (think that) Bob likes (somebody like) me? {casual}",
+    "nanka sa. _bobu_ wa, {私|watashi} no koto nanka {本当|hontou} ni {好き|suki} ka na?",
+    "なんか = filler, \"like\" (casual, from {何|なに} か)\nか at end of clause = talking about a question\nか in casual speech = rhetorical question, sarcasm, true or not"
 ]
 ])
