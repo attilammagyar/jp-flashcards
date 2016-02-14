@@ -212,7 +212,7 @@
 
             for (i = 0, l = cards.length; i < l; ++i) {
                 en = Flashcards.formatEnglish(cards[i][0]);
-                jp = Flashcards.formatFurigana(cards[i][1]);
+                jp = Flashcards.formatJapanese(cards[i][1]);
                 notes = Flashcards.formatNotes(cards[i][2]);
                 formatted.push([en, jp, notes]);
             }
@@ -228,12 +228,17 @@
             );
         },
 
+        formatJapanese: function (text)
+        {
+            return Flashcards.formatFurigana(text).replace(/ +/, "");
+        },
+
         formatFurigana: function (text)
         {
             return text.replace(
                 /\{([^|}]*)\|([^}]*)\}/g,
                 "<ruby>$1<rt>$2</rt></ruby>"
-            ).replace(/ /g, "");
+            );
         },
 
         formatNotes: function (text)
