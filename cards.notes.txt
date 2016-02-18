@@ -14,6 +14,9 @@ A や B や C など = A, B, C, etc.
 か at end of clause = talking about a question
 なんか = filler, "like" (casual, from {何|なに} か)
 し at end of clause = multiple reasons, etc.
+さ at end of sentence = casual よ, like...
+な at end of sentence = casual, masculin version of ね
+か + な at end of sentence = considering ~ (casual)
 
 Quotes
 ======
@@ -216,6 +219,7 @@ verb-stem + {始める|はじめる} = start doing ~
 verb-stem + {出す|だす} = burst out doing ~, start doing ~
 verb-stem + {終わる|おわる} = finish doing ~
 verb-stem + {続ける|つづける} = continue doing ~
+verb-stem + やがる = hatred/contempt for the person doing ~ (mostly in fiction only)
 
 ~たい
 ----

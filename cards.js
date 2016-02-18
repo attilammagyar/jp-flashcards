@@ -3631,7 +3631,7 @@ Flashcards.initialize([
     ],
     [
         "That penguin jumped over the wall.",
-        "\u3042\u306e \u30da\u30f3\u30ae\u30f3\u3001 {\u58c1|\u304b\u3079} \u3092 {\u98db\u3073\u3053\u3048\u307e\u3057\u305f|\u3068\u3073\u3053\u3048\u307e\u3057\u305f}\u3002",
+        "\u3042\u306e \u30da\u30f3\u30ae\u30f3\u3001 {\u58c1|\u304b\u3079} \u3092 {\u98db\u3073\u8d8a\u3048\u307e\u3057\u305f|\u3068\u3073\u3053\u3048\u307e\u3057\u305f}\u3002",
         "verb-stem + verb = compound verb (action + qualifier)"
     ],
     [
@@ -6608,5 +6608,40 @@ Flashcards.initialize([
         "Hey, like, do (you) really (think that) Bob likes (somebody like) me? {casual}",
         "\u306a\u3093\u304b \u3055\u3002 \u30dc\u30d6 \u306f\u3001 {\u79c1|\u308f\u305f\u3057} \u306e \u3053\u3068 \u306a\u3093\u304b {\u672c\u5f53|\u307b\u3093\u3068\u3046} \u306b {\u597d\u304d|\u3059\u304d} \u304b \u306a\uff1f",
         "\u306a\u3093\u304b = filler, \"like\" (casual, from {\u4f55|\u306a\u306b} \u304b)\n\u304b at end of clause = talking about a question\n\u304b in casual speech = rhetorical question, sarcasm, true or not"
+    ],
+    [
+        "Losing to a guy like that. Well, what are (you) going to do? {casual, contempt, slang}",
+        "\u3042\u3093\u306a {\u5974|\u3084\u3064} \u306b {\u8ca0\u3051\u3084\u304c\u3063\u3066|\u307e\u3051\u3084\u304c\u3063\u3066}\u3002 \u3058\u3083\u3001 \u3069\u3046 \u3059 \u3093 \u3060 \u3088\uff1f",
+        "verb-stem + \u3084\u304c\u308b = hatred/contempt for the person doing ~ (mostly in fiction only)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "(You) wanna fight? If so, then hurry up and come on! {casual, contempt, slang}",
+        "\u3084\u308b {\u6c17|\u304d} \u304b\uff1f \u3060\u3063\u305f\u3089 \u3055\u3063\u3055\u3068 {\u6765\u3084\u304c\u308c|\u304d\u3084\u304c\u308c}\uff01",
+        "verb\u3046 + {\u6c17|\u304d} = feel like doing ~, willing to do ~ (\u3084\u308b{\u6c17|\u304d})\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3048/\u308d = command (mostly in fiction only)"
+    ],
+    [
+        "(I) went to Disney Land, and like, it was really crowded... Couldn't do like anything you know... {casual}",
+        "\u30c7\u30a3\u30ba\u30cb\u30fc\u30e9\u30f3\u30c9 \u306b {\u884c\u3063\u305f|\u3044\u3063\u305f} \u3093 \u3060 \u3051\u3069 \u3055\u3001 \u306a\u3093 \u304b \u3055\u3001 \u3059\u3054\u3044 {\u8fbc\u3093\u3067\u3066|\u3053\u3093\u3067\u3066}\u2026 {\u4f55|\u306a\u306b} \u3082 \u3067\u304d\u306a\u304f\u3066 \u3055\u2026",
+        "\u3055 at end of sentence = casual \u3088, like...\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\n\u306a\u3093\u304b = filler, \"like\" (casual, from {\u4f55|\u306a\u306b} \u304b)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+    ],
+    [
+        "Bob: (I) studied Japanese a lot, right? But (I) still don't get it at all. Alice: No problem. Surely (you'll) become able to understand, you know. Bob: If so, it would be good. {casual}",
+        "\u30dc\u30d6: {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u306f\u3001 \u305f\u304f\u3055\u3093 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u305f \u3051\u3069 \u306a\u3002 \u307e\u3060 {\u5168\u7136|\u305c\u3093\u305c\u3093} \u308f\u304b\u3089\u306a\u3044\u3002 \u30a2\u30ea\u30b9: {\u5927\u4e08\u592b|\u3060\u3044\u3058\u3087\u3046\u3076} \u3088\u3002 \u304d\u3063\u3068 \u308f\u304b\u308b \u3088\u3046 \u306b \u306a\u308b \u304b\u3089 \u3055\u3002 \u30dc\u30d6: \u306a\u3089 \u3044\u3044 \u3051\u3069 \u306a\u3002",
+        "\u306a at end of sentence = casual, masculin version of \u306d\nverb\u3046 + {\u69d8|\u3088\u3046} + \u306b + {\u6210\u308b|\u306a\u308b} = change in habitual action\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\n\u3055 at end of sentence = casual \u3088, like...\nverb-plain/noun/\u3044-adj./\u306a-adj. + \u306a\u3089 = if (given that X, Y will happen - contextual condition) (\u306a\u3089\u3070 = more formal)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+    ],
+    [
+        "(You're) going to the library now, huh? {casual}",
+        "{\u4eca|\u3044\u307e}\u3001 {\u56f3\u66f8\u9928|\u3068\u3057\u3087\u304b\u3093} \u306b {\u884c\u304f|\u3044\u304f} \u3093 \u3060 \u3088 \u306a\u3002",
+        "\u306a at end of sentence = casual, masculin version of \u306d\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "(I) wonder if it will rain today. {casual}",
+        "{\u4eca\u65e5|\u304d\u3087\u3046} \u306f {\u96e8|\u3042\u3081} \u304c {\u964d\u308b|\u3075\u308b} \u304b \u306a\uff1f",
+        "\u304b + \u306a at end of sentence = considering ~ (casual)"
+    ],
+    [
+        "(I) wonder if (I) can go to a good college. {casual}",
+        "\u3044\u3044 {\u5927\u5b66|\u3060\u3044\u304c\u304f} \u306b {\u884c\u3051\u308b|\u3044\u3051\u308b} \u304b \u306a\uff1f",
+        "\u304b + \u306a at end of sentence = considering ~ (casual)"
     ]
 ])

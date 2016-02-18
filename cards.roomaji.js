@@ -3631,7 +3631,7 @@ Flashcards.initialize([
 ],
 [
     "That penguin jumped over the wall.",
-    "ano _pengin_, {壁|kabe} wo {飛びこえました|tobikoemashita}.",
+    "ano _pengin_, {壁|kabe} wo {飛び越えました|tobikoemashita}.",
     "verb-stem + verb = compound verb (action + qualifier)"
 ],
 [
@@ -6602,5 +6602,40 @@ Flashcards.initialize([
     "Hey, like, do (you) really (think that) Bob likes (somebody like) me? {casual}",
     "nanka sa. _bobu_ wa, {私|watashi} no koto nanka {本当|hontou} ni {好き|suki} ka na?",
     "なんか = filler, \"like\" (casual, from {何|なに} か)\nか at end of clause = talking about a question\nか in casual speech = rhetorical question, sarcasm, true or not"
+],
+[
+    "Losing to a guy like that. Well, what are (you) going to do? {casual, contempt, slang}",
+    "an'na {奴|yatsu} ni {負けやがって|makeyagatte}. ja, dou su n da yo?",
+    "verb-stem + やがる = hatred/contempt for the person doing ~ (mostly in fiction only)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "(You) wanna fight? If so, then hurry up and come on! {casual, contempt, slang}",
+    "yaru {気|ki} ka? dattara sassato {来やがれ|kiyagare}!",
+    "verbう + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbえ/ろ = command (mostly in fiction only)"
+],
+[
+    "(I) went to Disney Land, and like, it was really crowded... Couldn't do like anything you know... {casual}",
+    "ディズニーランド ni {行った|itta} n da kedo sa, nan ka sa, sugoi {込んでて|kondete}... {何|nani} mo dekinakute sa...",
+    "さ at end of sentence = casual よ, like...\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nなんか = filler, \"like\" (casual, from {何|なに} か)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+],
+[
+    "Bob: (I) studied Japanese a lot, right? But (I) still don't get it at all. Alice: No problem. Surely (you'll) become able to understand, you know. Bob: If so, it would be good. {casual}",
+    "_bobu_: {日本語|nihongo} wa, takusan {勉強|benkyou} shita kedo na. mada {全然|zenzen} wakaranai. _arisu_: {大丈夫|daijoubu} yo. kitto wakaru you ni naru kara sa. _bobu_: nara ii kedo na.",
+    "な at end of sentence = casual, masculin version of ね\nverbう + {様|よう} + に + {成る|なる} = change in habitual action\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nさ at end of sentence = casual よ, like...\nverb-plain/noun/い-adj./な-adj. + なら = if (given that X, Y will happen - contextual condition) (ならば = more formal)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+],
+[
+    "(You're) going to the library now, huh? {casual}",
+    "{今|ima}, {図書館|toshokan} ni {行く|iku} n da yo na.",
+    "な at end of sentence = casual, masculin version of ね\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "(I) wonder if it will rain today. {casual}",
+    "{今日|kyou} wa {雨|ame} ga {降る|furu} ka na?",
+    "か + な at end of sentence = considering ~ (casual)"
+],
+[
+    "(I) wonder if (I) can go to a good college. {casual}",
+    "ii {大学|daigaku} ni {行ける|ikeru} ka na?",
+    "か + な at end of sentence = considering ~ (casual)"
 ]
 ])
