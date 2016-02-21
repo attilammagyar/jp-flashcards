@@ -6617,7 +6617,7 @@ Flashcards.initialize([
     [
         "(You) wanna fight? If so, then hurry up and come on! {casual, contempt, slang}",
         "\u3084\u308b {\u6c17|\u304d} \u304b\uff1f \u3060\u3063\u305f\u3089 \u3055\u3063\u3055\u3068 {\u6765\u3084\u304c\u308c|\u304d\u3084\u304c\u308c}\uff01",
-        "verb\u3046 + {\u6c17|\u304d} = feel like doing ~, willing to do ~ (\u3084\u308b{\u6c17|\u304d})\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3048/\u308d = command (mostly in fiction only)"
+        "verb-stem + \u3084\u304c\u308b = hatred/contempt for the person doing ~ (mostly in fiction only)\nverb\u3046 + {\u6c17|\u304d} = feel like doing ~, willing to do ~ (\u3084\u308b{\u6c17|\u304d})\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3048/\u308d = command (mostly in fiction only)"
     ],
     [
         "(I) went to Disney Land, and like, it was really crowded... Couldn't do like anything you know... {casual}",

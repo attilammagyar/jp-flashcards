@@ -6611,7 +6611,7 @@ Flashcards.initialize([
 [
     "(You) wanna fight? If so, then hurry up and come on! {casual, contempt, slang}",
     "yaru {気|ki} ka? dattara sassato {来やがれ|kiyagare}!",
-    "verbう + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbえ/ろ = command (mostly in fiction only)"
+    "verb-stem + やがる = hatred/contempt for the person doing ~ (mostly in fiction only)\nverbう + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbえ/ろ = command (mostly in fiction only)"
 ],
 [
     "(I) went to Disney Land, and like, it was really crowded... Couldn't do like anything you know... {casual}",
