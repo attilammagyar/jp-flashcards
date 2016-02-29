@@ -16,7 +16,9 @@ A や B や C など = A, B, C, etc.
 し at end of clause = multiple reasons, etc.
 さ at end of sentence = casual よ, like...
 な at end of sentence = casual, masculin version of ね
-か + な at end of sentence = considering ~ (casual)
+か + な at end of sentence = considering ~ (casual, feminine: からし)
+かい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)
+ぞ/ぜ at end of sentence = "cool" version of よ
 
 Quotes
 ======
@@ -39,7 +41,7 @@ Adjectives
 な-adj. + で = adj. and ...
 な adj. + に = adverb
 い adj. - い + く = adverb
-adj. stem/verb stem + そう + です = looks/appears/seems like ~ (personal opinion)
+adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)
 stem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~
 くなかった = past negative of い adj.
 かった = past tense of い adj.
@@ -102,8 +104,8 @@ nounA + と + nounB + の + {間|あいだ} + に = between A and B
 Nominalization
 ==============
 verbう + こと = doing ~ (nominalize)
-verb stem + {方|かた} = how to do verb (verb --> noun)
-noun を verb --> noun の verb stem + {方|かた}
+verb-stem + {方|かた} = how to do verb (verb --> noun)
+noun を verb --> noun の verb-stem + {方|かた}
 verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)
 な-adj. + な + の = (the) ~ one/thing, (clause --> generic noun)
 verbうこと/noun + に + する = (I have decided I will do) ~
@@ -141,7 +143,7 @@ noun が {欲しがる|ほしがる} = someone else wants ~
 
 During/while
 ============
-verb stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same
+verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same
 (PersonA + が) (verbて +) いる + {間|あいだ} (+ PersonB + は) ... = throughout the whole time that A does/did ~, B does/did ~
 (PersonA + が) (verbて +) いる + {間|あいだ} + に (+ PersonB + は) ... = at some point during A does/did ~, B does/did ~
 Person + は + (verbて +) いる + {間|あいだ} + に = during A does/did ~, (he/she) does/did ~
@@ -191,7 +193,7 @@ intransitive verb: never has direct object (を) except for motion verbs
 Verbs + particles
 -----------------
 noun + で + verb = do verb with/using/at noun (place of action or by-means-of)
-(place + へ/に) + verb stem + に + {行く|いく} = go to place to do verb
+(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb
 
 Plain
 -----
@@ -211,8 +213,8 @@ verbう + な = negative command (mostly in fiction only)
 
 Stem
 ----
-verb stem + たい = want to ~
-verb stem + たい = want to ~ (verb --> い adj.)
+verb-stem + たい = want to ~
+verb-stem + たい = want to ~ (verb --> い adj.)
 verb-stem + verb = compound verb (action + qualifier)
 verb-stem + なさい = imperative (casual: verb-stem + な)
 verb-stem + {始める|はじめる} = start doing ~

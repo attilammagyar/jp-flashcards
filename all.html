@@ -73,11 +73,11 @@
     <!--
     Flashcards.formatJapaneseHtml = function (card_html)
     {
-        var with_furigana = card_html,
+        var with_furigana = card_html.replace(/ */g, ""),
             without_furigana = card_html.replace(
                 /<ruby>(.*?)<rt>.*?<\/rt><\/ruby>/g,
                 "$1"
-            );
+            ).replace(/ */g, "");
 
         if (without_furigana == with_furigana) {
             return "<div class=\"without_furigana\">" + without_furigana + "</div>";
