@@ -6631,12 +6631,12 @@ Flashcards.initialize([
 [
     "(I) wonder if it will rain today. {casual}",
     "{今日|kyou} wa {雨|ame} ga {降る|furu} ka na?",
-    "か + な at end of sentence = considering ~ (casual, feminine: からし)"
+    "か + な at end of sentence = considering ~ (casual, feminine: かしら)"
 ],
 [
     "(I) wonder if (I) can go to a good college. {casual}",
     "ii {大学|daigaku} ni {行ける|ikeru} ka na?",
-    "か + な at end of sentence = considering ~ (casual, feminine: からし)"
+    "か + な at end of sentence = considering ~ (casual, feminine: かしら)"
 ],
 [
     "There's no more time. {casual, feminine}",
@@ -6656,7 +6656,7 @@ Flashcards.initialize([
 [
     "(I) wonder if (I) can enter a good college. {casual, feminine}",
     "ii {大学|daigaku} ni {入れる|ireru} kashira?",
-    "か + な at end of sentence = considering ~ (casual, feminine: からし)"
+    "か + な at end of sentence = considering ~ (casual, feminine: かしら)"
 ],
 [
     "Hey, where are (you) going? {casual, masculine}",
@@ -6678,5 +6678,4 @@ Flashcards.initialize([
     "{俺|ore} wa {土曜日|doyoubi}, {映画|eiga} wo {見|mi} ni {行く|iku} kedo, {一緒|issho} ni {行く|iku} kai?",
     "かい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ]
-
 ])

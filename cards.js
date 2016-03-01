@@ -6637,12 +6637,12 @@ Flashcards.initialize([
     [
         "(I) wonder if it will rain today. {casual}",
         "{\u4eca\u65e5|\u304d\u3087\u3046} \u306f {\u96e8|\u3042\u3081} \u304c {\u964d\u308b|\u3075\u308b} \u304b \u306a\uff1f",
-        "\u304b + \u306a at end of sentence = considering ~ (casual, feminine: \u304b\u3089\u3057)"
+        "\u304b + \u306a at end of sentence = considering ~ (casual, feminine: \u304b\u3057\u3089)"
     ],
     [
         "(I) wonder if (I) can go to a good college. {casual}",
         "\u3044\u3044 {\u5927\u5b66|\u3060\u3044\u304c\u304f} \u306b {\u884c\u3051\u308b|\u3044\u3051\u308b} \u304b \u306a\uff1f",
-        "\u304b + \u306a at end of sentence = considering ~ (casual, feminine: \u304b\u3089\u3057)"
+        "\u304b + \u306a at end of sentence = considering ~ (casual, feminine: \u304b\u3057\u3089)"
     ],
     [
         "There's no more time. {casual, feminine}",
@@ -6662,7 +6662,7 @@ Flashcards.initialize([
     [
         "(I) wonder if (I) can enter a good college. {casual, feminine}",
         "\u3044\u3044 {\u5927\u5b66|\u3060\u3044\u304c\u304f} \u306b {\u5165\u308c\u308b|\u3044\u308c\u308b} \u304b\u3057\u3089\uff1f",
-        "\u304b + \u306a at end of sentence = considering ~ (casual, feminine: \u304b\u3089\u3057)"
+        "\u304b + \u306a at end of sentence = considering ~ (casual, feminine: \u304b\u3057\u3089)"
     ],
     [
         "Hey, where are (you) going? {casual, masculine}",

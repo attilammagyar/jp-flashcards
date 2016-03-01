@@ -16,7 +16,7 @@ A や B や C など = A, B, C, etc.
 し at end of clause = multiple reasons, etc.
 さ at end of sentence = casual よ, like...
 な at end of sentence = casual, masculin version of ね
-か + な at end of sentence = considering ~ (casual, feminine: からし)
+か + な at end of sentence = considering ~ (casual, feminine: かしら)
 かい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)
 ぞ/ぜ at end of sentence = "cool" version of よ
 
