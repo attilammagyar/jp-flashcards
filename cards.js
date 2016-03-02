@@ -737,12 +737,12 @@ Flashcards.initialize([
     [
         "Excuse me, do (you) sell stamps?",
         "\u3059\u307f\u307e\u305b\u3093\u3001 {\u5207\u624b|\u304d\u3063\u3066} \u3092 {\u58f2\u3063\u3066|\u3046\u3063\u3066} \u3044\u307e\u3059 \u304b\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Do (you) sell camera batteries?",
         "\u30ab\u30e1\u30e9 \u306e {\u96fb\u6c60|\u3067\u3093\u3061} \u3092 {\u58f2\u3063\u3066|\u3046\u3063\u3066} \u3044\u307e\u3059 \u304b\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "How much is this folding fan?",
@@ -752,12 +752,12 @@ Flashcards.initialize([
     [
         "May (I) see those chopsticks?",
         "{\u5176\u306e|\u305d\u306e} {\u304a\u7bb8|\u304a\u306f\u3057} \u3092 {\u898b\u305b\u3066|\u307f\u305b\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "May (I) see that doll over there?",
         "\u3042\u306e {\u4eba\u5f62|\u306b\u3093\u304e\u3087\u3046} \u3092 {\u898b\u305b\u3066|\u307f\u305b\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "May (I) have this rice wine please?",
@@ -1132,7 +1132,7 @@ Flashcards.initialize([
     [
         "Turn right at those traffic lights and go straight ahead please.",
         "\u3042\u306e {\u4fe1\u53f7|\u3057\u3093\u3054\u3046} \u3092 {\u53f3|\u307f\u304e} \u306b {\u66f2\u304c\u3063\u3066|\u307e\u304c\u3063\u3066}\u3001 {\u771f\u3063\u76f4\u3050|\u307e\u3063\u3059\u3050} {\u884c\u3063\u3066|\u3044\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "If (you) turn left at the crossroads, the bank will be on the right side.",
@@ -1157,7 +1157,7 @@ Flashcards.initialize([
     [
         "(I) want to drink a beer.",
         "\u30d3\u30fc\u30eb \u3092 {\u98f2\u307f\u305f\u3044|\u306e\u307f\u305f\u3044} \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Last night (I) didn't drink (any) beer at all.",
@@ -1242,67 +1242,67 @@ Flashcards.initialize([
     [
         "Go straight ahead please.",
         "{\u771f\u3063\u76f4\u3050|\u307e\u3063\u3059\u3050} {\u884c\u3063\u3066|\u3044\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please turn to the right.",
         "{\u53f3|\u307f\u304e} \u306b {\u66f2\u304c\u3063\u3066|\u307e\u304c\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please turn to the left.",
         "{\u5de6|\u3072\u3060\u308a} \u306b {\u66f2\u304c\u3063\u3066|\u307e\u304c\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please turn right at the traffic lights.",
         "{\u4fe1\u53f7|\u3057\u3093\u3054\u3046} \u3092 {\u53f3|\u307f\u304e} \u306b {\u66f2\u304c\u3063\u3066|\u307e\u304c\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please cross the bridge.",
         "{\u6a4b|\u306f\u3057} \u3092 {\u6e21\u3063\u3066|\u308f\u305f\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please cross the footbridge.",
         "{\u6b69\u9053\u6a4b|\u307b\u3069\u3046\u304d\u3087\u3046} \u3092 {\u6e21\u3063\u3066|\u308f\u305f\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please cross the road.",
         "{\u9053|\u307f\u3061} \u3092 {\u6e21\u3063\u3066|\u308f\u305f\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please turn left at the first traffic lights.",
         "{\u4e00\u3064\u76ee|\u3072\u3068\u3064\u3081} \u306e {\u4fe1\u53f7|\u3057\u3093\u3054\u3046} \u3092 {\u5de6|\u3072\u3060\u308a} \u306b {\u66f2\u304c\u3063\u3066|\u307e\u304c\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please turn left at the next traffic lights.",
         "{\u6b21|\u3064\u304e} \u306e {\u4fe1\u53f7|\u3057\u3093\u3054\u3046} \u3092 {\u5de6|\u3072\u3060\u308a} \u306b {\u66f2\u304c\u3063\u3066|\u307e\u304c\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Go straight ahead, (then) turn right at the second traffic lights.",
         "{\u771f\u3063\u76f4\u3050|\u307e\u3063\u3059\u3050} {\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001 {\u4e8c\u3064\u76ee|\u3075\u305f\u3064\u3081} \u306e {\u4fe1\u53f7|\u3057\u3093\u3054\u3046} \u3092 {\u53f3|\u307f\u304e} \u306b {\u66f2\u304c\u3063\u3066|\u307e\u304c\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please cross at the pedestrian crossing.",
         "{\u6a2a\u65ad\u6b69\u9053|\u304a\u3046\u3060\u3093 \u307b\u3069\u3046} \u3092 {\u6e21\u3063\u3066|\u308f\u305f\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Turn right at the second traffic lights please.",
         "{\u4e8c\u3064\u76ee|\u3075\u305f\u3064\u3081} \u306e {\u4fe1\u53f7|\u3057\u3093\u3054\u3046} \u3092 {\u53f3|\u307f\u304e} \u306b {\u66f2\u304c\u3063\u3066|\u307e\u304c\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Cross the footbridge, (then) turn left at the corner please.",
         "{\u6b69\u9053\u6a4b|\u307b\u3069\u3046\u304d\u3087\u3046} \u3092 {\u6e21\u3063\u3066|\u308f\u305f\u3063\u3066}\u3001 {\u89d2|\u304b\u3069} \u3092 {\u5de6|\u3072\u3060\u308a} \u306b {\u66f2\u304c\u3063\u3066|\u307e\u304c\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "The post office is (located) opposite the bank. The post office is opposite the bank. There is a post office opposite the bank.",
@@ -1352,12 +1352,12 @@ Flashcards.initialize([
     [
         "(I) want to eat rice with chopsticks.",
         "{\u304a\u7bb8|\u304a\u306f\u3057} \u3067 {\u3054\u98ef|\u3054\u306f\u3093} \u3092 {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044} \u3067\u3059\u3002",
-        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) want to buy a Japanese camera.",
         "{\u65e5\u672c|\u306b\u307b\u3093} \u306e \u30ab\u30e1\u30e9 \u3092 {\u8cb7\u3044\u305f\u3044|\u304b\u3044\u305f\u3044} \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "What is (your) hobby? (My) hobby is paper folding.",
@@ -1417,22 +1417,22 @@ Flashcards.initialize([
     [
         "Excuse me, where is the supermarket? Do you know? {Polite.} Yes, (I) know.",
         "\u3059\u307f\u307e\u305b\u3093\u3001 \u30b9\u30fc\u30d1\u30fc \u306f {\u4f55\u51e6|\u3069\u3053} \u306b \u3042\u308a\u307e\u3059 \u304b\u3002 {\u5fa1\u5b58\u77e5|\u3054\u305e\u3093\u3058} \u3067\u3059 \u304b\u3002 \u306f\u3044\u3001 {\u77e5\u3063\u3066|\u3057\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Go straight ahead (then) cross the pedestrian crossing please.",
         "{\u771f\u3063\u76f4\u3050|\u307e\u3063\u3059\u3050} {\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001 {\u6a2a\u65ad\u6b69\u9053|\u304a\u3046\u3060\u3093 \u307b\u3069\u3046} \u3092 {\u6e21\u3063\u3066|\u308f\u305f\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
         "{\u4e8c\u3064\u76ee|\u3075\u305f\u3064\u3081} \u306e {\u4fe1\u53f7|\u3057\u3093\u3054\u3046} \u3092 {\u5de6|\u3072\u3060\u308a} \u306b {\u66f2\u304c\u3063\u3066|\u307e\u304c\u3063\u3066} \u304f\u3060\u3055\u3044\u3002 \u30c7\u30d1\u30fc\u30c8 \u306f {\u5de6\u5074|\u3072\u3060\u308a\u304c\u308f} \u306b \u3042\u308a\u307e\u3059\u3002 {\u5287\u5834|\u3052\u304d\u3058\u3087\u3046} \u306e {\u96a3|\u3068\u306a\u308a} \u3067\u3059\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Cross (over) the footbridge (and) turn left at the corner please.",
         "{\u6b69\u9053\u6a4b|\u307b\u3069\u3046\u304d\u3087\u3046} \u3092 {\u6e21\u3063\u3066|\u308f\u305f\u3063\u3066}\u3001 {\u89d2|\u304b\u3069} \u3092 {\u5de6|\u3072\u3060\u308a} \u306b {\u66f2\u304c\u3063\u3066|\u307e\u304c\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "That person is famous you know!",
@@ -1487,12 +1487,12 @@ Flashcards.initialize([
     [
         "Do (you) want to meet again?",
         "\u307e\u305f {\u4f1a\u3044\u305f\u3044|\u3042\u3044\u305f\u3044} \u3067\u3059 \u304b\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "I hope to play tennis together next week.",
         "{\u6765\u9031|\u3089\u3044\u3057\u3085\u3046} {\u4e00\u7dd2|\u3044\u3063\u3057\u3087} \u306b \u30c6\u30cb\u30b9 \u3092 \u3057\u305f\u3044 \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "She is very kind but a bit serious.",
@@ -1522,7 +1522,7 @@ Flashcards.initialize([
     [
         "Next year I hope to go to Japan again.",
         "{\u6765\u5e74|\u3089\u3044\u306d\u3093} \u307e\u305f {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "I have a headache.",
@@ -1642,7 +1642,7 @@ Flashcards.initialize([
     [
         "(I) hope to eat sushi in Japan and I hope to see Mount Fuji.",
         "{\u65e5\u672c|\u306b\u307b\u3093} \u3067 {\u5bff\u53f8|\u3059\u3057} \u3092 {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002 \u305d\u3057\u3066 {\u5bcc\u58eb\u5c71|\u3075\u3058\u3055\u3093} \u3092 {\u898b\u305f\u3044|\u307f\u305f\u3044} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(It) isn't good.",
@@ -1677,7 +1677,7 @@ Flashcards.initialize([
     [
         "(I've) caught a cold.",
         "{\u98a8\u90aa|\u304b\u305c} \u3092 {\u5f15\u3044\u3066|\u3072\u3044\u3066} {\u4ed5\u821e\u3044\u307e\u3057\u305f|\u3057\u307e\u3044\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(My) shoulders ache.",
@@ -1687,7 +1687,7 @@ Flashcards.initialize([
     [
         "Have (you) caught a cold?",
         "{\u98a8\u90aa|\u304b\u305c} {\u5f15\u3044\u3066|\u3072\u3044\u3066} {\u4ed5\u821e\u3044\u307e\u3057\u305f|\u3057\u307e\u3044\u307e\u3057\u305f} \u304b\u3002",
-        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) have a headache. (My) stomach also hurts.",
@@ -1912,7 +1912,7 @@ Flashcards.initialize([
     [
         "Since (I) saw photos of Japan, (I) got wanting to go. {\u306e \u3067}",
         "{\u65e5\u672c|\u306b \u307b\u3093} \u306e {\u5199\u771f|\u3057\u3083\u3057\u3093} \u3092 {\u898b\u305f|\u307f\u305f} \u306e \u3067\u3001 {\u884c\u304d\u305f\u304f|\u3044\u304d\u305f\u304f} \u306a\u308a\u307e\u3057\u305f\u3002",
-        "~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)"
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I'm) full.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
     [
         "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
         "{\u5927\u962a|\u304a\u304a\u3055\u304b} \u306b {\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044} \u3067\u3059\u3002 {\u9762\u767d\u304f\u306a\u3044|\u304a\u3082\u3057\u308d\u304f\u306a\u3044} {\u6240|\u3068\u3053\u308d} \u3067\u3059 \u304b\u3002 {\u5927\u962a|\u304a\u304a\u3055\u304b} \u306f {\u7d20\u6674\u3089\u3057\u3044|\u3059\u3070\u3089\u3057\u3044} {\u6240|\u3068\u3053\u308d} \u3067\u3059 \u304c {\u4ed5\u4e8b|\u3057\u3054\u3068} \u306f {\u8a70\u307e\u3089\u306a\u304b\u3063\u305f|\u3064\u307e\u3089\u306a\u304b\u3063\u305f} \u3067\u3059\u3002",
-        "\u304f\u306a\u3044 = negative of \u3044 adj.\n\u304b\u3063\u305f = past tense of \u3044 adj.\n\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj.\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "\u304f\u306a\u3044 = negative of \u3044 adj.\n\u304b\u3063\u305f = past tense of \u3044 adj.\n\u304f\u306a\u304b\u3063\u305f = past negative of \u3044 adj.\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n{\u6240|\u3068\u3053\u308d\u3001\u3068\u3053} = physical or abstract location, part, point\n{\u5834\u6240|\u3070\u3057\u3087} = physical location\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -2132,47 +2132,47 @@ Flashcards.initialize([
     [
         "(I) want to be a doctor.",
         "{\u533b\u8005|\u3044\u3057\u3083} \u306b \u306a\u308a\u305f\u3044 \u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) want to be a writer.",
         "{\u4f5c\u5bb6|\u3055\u3063\u304b} \u306b \u306a\u308a\u305f\u3044 \u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) want to be a policeman.",
         "{\u8b66\u5bdf\u5b98|\u3051\u3044\u3055\u3064\u304b\u3093} \u306b \u306a\u308a\u305f\u3044 \u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) want to be a lawyer.",
         "{\u5f01\u8b77\u58eb|\u3079\u3093\u3054\u3057} \u306b \u306a\u308a\u305f\u3044 \u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) want to be an astronaut.",
         "{\u5b87\u5b99\u98db\u884c\u58eb|\u3046\u3061\u3085\u3046\u3072\u3053\u3046\u3057} \u306b \u306a\u308a\u305f\u3044 \u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) want to be a bank-worker.",
         "{\u9280\u884c\u54e1|\u304e\u3093\u3053\u3046\u3044\u3093} \u306b \u306a\u308a\u305f\u3044 \u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "When (I) was a child, (I) wanted to be a film star.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082} \u306e {\u9803|\u3053\u308d}\u3001 {\u6620\u753b|\u3048\u3044\u304c} \u30b9\u30bf\u30fc \u306b \u306a\u308a\u305f\u304b\u3063\u305f \u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "When (I) was a child, (I) wanted to be a firefighter.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082} \u306e {\u9803|\u3053\u308d}\u3001 {\u6d88\u9632\u58eb|\u3057\u3087\u3046\u307c\u3046\u3057} \u306b \u306a\u308a\u305f\u304b\u3063\u305f \u3067\u3059\u3002",
-        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u304b\u3063\u305f = past tense of \u3044 adj.\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) didn't want to drink alcohol.",
         "{\u304a\u9152|\u304a\u3055\u3051} \u3092 {\u98f2\u307f\u305f\u304f\u306a\u304b\u3063\u305f|\u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f} \u3067\u3059\u3002",
-        "~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Miki doesn't like beer very much.",
@@ -2182,22 +2182,22 @@ Flashcards.initialize([
     [
         "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
         "{\u6bce\u671d|\u307e\u3044\u3042\u3055} {\u590f\u5b50|\u306a\u3064\u3053} \u3055\u3093 \u306f \u30b3\u30fc\u30d2\u30fc \u3092 {\u98f2\u307f\u306a\u304c\u3089|\u306e\u307f\u306a\u304c\u3089} {\u65b0\u805e|\u3057\u3093\u3076\u3093} \u3092 {\u8aad\u307f\u307e\u3059|\u3088\u307f\u307e\u3059}\u3002",
-        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Roger taught Miki how to do bowling.",
         "\u30ed\u30b8\u30e3\u30fc \u3055\u3093 \u306f {\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u306b \u30dc\u30fc\u30ea\u30f3\u30b0 \u306e {\u4ed5\u65b9|\u3057\u304b\u305f} \u3092 {\u6559\u3048\u307e\u3057\u305f|\u304a\u3057\u3048\u307e\u3057\u305f}\u3002",
-        "verb-stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nnoun \u3092 verb --> noun \u306e verb-stem + {\u65b9|\u304b\u305f}"
+        "verb-stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nnoun \u3092 verb --> noun \u306e verb-stem + {\u65b9|\u304b\u305f}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Ms. Natsuko went to the town to meet Miki.",
         "{\u590f\u5b50|\u306a\u3064\u3053} \u3055\u3093 \u306f {\u753a|\u307e\u3061} \u3078 {\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u306b {\u4f1a\u3044|\u3042\u3044} \u306b {\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "\u3078 = to, towards, pronounced as \u3048\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+        "\u3078 = to, towards, pronounced as \u3048\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "This film looks interesting, doesn't it?",
         "{\u6b64\u306e|\u3053\u306e} {\u6620\u753b|\u3048\u3044\u304c} \u306f {\u9762\u767d\u305d\u3046|\u304a\u3082\u3057\u308d\u305d\u3046} \u3067\u3059 \u306d\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Roger likes sports the best/most.",
@@ -2207,7 +2207,7 @@ Flashcards.initialize([
     [
         "(I) want to be a doctor in the future.",
         "{\u5c06\u6765|\u3057\u3087\u3046\u3089\u3044} {\u533b\u8005|\u3044\u3057\u3083} \u306b \u306a\u308a\u305f\u3044 \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Mr. Yamada works every day until late.",
@@ -2217,17 +2217,17 @@ Flashcards.initialize([
     [
         "I don't want to eat sushi. (I) don't want to eat sushi.",
         "{\u79c1|\u308f\u305f\u3057} \u306f {\u5bff\u53f8|\u3059\u3057} \u3092 {\u98df\u3079\u305f\u304f\u306a\u3044|\u305f\u3079\u305f\u304f\u306a\u3044} \u3067\u3059\u3002 {\u5bff\u53f8|\u3059\u3057} \u306f {\u98df\u3079\u305f\u304f\u306a\u3044|\u305f\u3079\u305f\u304f\u306a\u3044} \u3067\u3059\u3002",
-        "~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Last night (I) didn't want to drink beer.",
         "{\u6628\u591c|\u3086\u3046\u3079} \u30d3\u30fc\u30eb \u306f {\u98f2\u307f\u305f\u304f\u306a\u304b\u3063\u305f|\u306e\u307f\u305f\u304f\u306a\u304b\u3063\u305f} \u3067\u3059\u3002",
-        "~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) want to eat a banana. (I) want to eat a banana.",
         "\u30d0\u30ca\u30ca \u3092 {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044} \u3067\u3059\u3002 \u30d0\u30ca\u30ca \u304c {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044} \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044: may use \u304c instead of \u3092\n~\u305f\u3044 + negative: if topic is not mentioned then \u306f can be used instead of \u304c\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(My) mom's cooking is the most delicious in the world.",
@@ -2297,47 +2297,47 @@ Flashcards.initialize([
     [
         "Ms. Natsuko drank green tea while listening to the news.",
         "{\u590f\u5b50|\u306a\u3064\u3053} \u3055\u3093 \u306f \u30cb\u30e5\u30fc\u30b9 \u3092 {\u805e\u304d\u306a\u304c\u3089|\u304d\u304d\u306a\u304c\u3089} {\u304a\u8336|\u304a\u3061\u3083} \u3092 {\u98f2\u307f\u307e\u3057\u305f|\u306e\u307f\u307e\u3057\u305f}\u3002",
-        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Naoe talked to Yuki while making a meal.",
         "{\u76f4\u6167|\u306a\u304a\u3048} \u3055\u3093 \u306f {\u98df\u4e8b|\u3057\u3087\u304f\u3058} \u3092 {\u4f5c\u308a\u306a\u304c\u3089|\u3064\u304f\u308a\u306a\u304c\u3089} {\u4f91\u5983|\u3086\u304d} \u3055\u3093 \u3068 {\u8a71\u3057\u307e\u3057\u305f|\u306f\u306a\u3057\u307e\u3057\u305f}\u3002",
-        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Robert wrote kanji while listening to music.",
         "\u30ed\u30d0\u30fc\u30c8 \u3055\u3093 \u306f {\u97f3\u697d|\u304a\u3093\u304c\u304f} \u3092 {\u805e\u304d\u306a\u304c\u3089|\u304d\u304d\u306a\u304c\u3089} {\u6f22\u5b57|\u304b\u3093\u3058} \u3092 {\u66f8\u304d\u307e\u3057\u305f|\u304b\u304d\u307e\u3057\u305f}\u3002",
-        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Mr. Hondo eats (his) lunch while working.",
         "{\u672c\u85e4|\u307b\u3093\u3069\u3046} \u3055\u3093 \u306f {\u50cd\u304d\u306a\u304c\u3089|\u306f\u305f\u3089\u304d\u306a\u304c\u3089} {\u663c\u3054\u98ef|\u3072\u308b\u3054\u306f\u3093} \u3092 {\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002",
-        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Rie taught Roger how to make sushi.",
         "{\u8389\u63cf|\u308a\u3048} \u3055\u3093 \u306f \u30ed\u30b8\u30e3\u30fc \u3055\u3093 \u306b {\u5bff\u53f8|\u3059\u3057} \u306e {\u4f5c\u308a\u65b9|\u3064\u304f\u308a\u304b\u305f} \u3092 {\u6559\u3048\u307e\u3057\u305f|\u304a\u3057\u3048\u307e\u3057\u305f}\u3002",
-        "verb-stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nnoun \u3092 verb --> noun \u306e verb-stem + {\u65b9|\u304b\u305f}"
+        "verb-stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nnoun \u3092 verb --> noun \u306e verb-stem + {\u65b9|\u304b\u305f}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
         "{\u79c1|\u308f\u305f\u3057} \u306f {\u590f\u5b50|\u306a\u3064\u3053} \u3055\u3093 \u3068 \u30ec\u30b9\u30c8\u30e9\u30f3 \u3078 {\u548c\u98df|\u308f\u3057\u3087\u304f} \u3092 {\u98df\u3079|\u305f\u3079} \u306b {\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "\u3078 = to, towards, pronounced as \u3048\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+        "\u3078 = to, towards, pronounced as \u3048\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
         "{\u6709\u540d\u305d\u3046|\u3086\u3046\u3081\u3044\u305d\u3046} \u3067\u3059\u3002 {\u6b64\u306e|\u3053\u306e} {\u6620\u753b|\u3048\u3044\u304c} \u306f {\u8a70\u307e\u3089\u306a\u305d\u3046|\u3064\u307e\u3089\u306a\u305d\u3046} \u3067\u3059\u3002 {\u982d|\u3042\u305f\u307e} \u304c {\u75db\u305d\u3046|\u3044\u305f\u305d\u3046} \u3067\u3059\u3002 {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u8a71\u3057\u305d\u3046|\u306f\u306a\u3057\u305d\u3046} \u3067\u3059\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(She) looks very beautiful, doesn't she?",
         "\u3068\u3066\u3082 {\u7f8e\u3057\u305d\u3046|\u3046\u3064\u304f\u3057\u305d\u3046} \u3067\u3059 \u306d\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(It) looks like (it) will rain.",
         "{\u96e8|\u3042\u3081} \u304c {\u964d\u308a\u305d\u3046|\u3075\u308a\u305d\u3046} \u3067\u3059\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "What do (you) do in (your) free time? For example, what are (your) hobbies?",
@@ -2447,12 +2447,12 @@ Flashcards.initialize([
     [
         "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
         "{\u50d5|\u307c\u304f} \u306e {\u8eca|\u304f\u308b\u307e} \u3067 {\u884c\u304d\u307e\u3057\u3087\u3046|\u3044\u304d\u307e\u3057\u3087\u3046}\u3002 {\u5341\u4e8c\u6642|\u3058\u3085\u3046\u306b\u3058} \u306b {\u8cb4\u65b9|\u3042\u306a\u305f} \u306e \u30a2\u30d1\u30fc\u30c8 \u3078 {\u8fce\u3048|\u3080\u304b\u3048} \u306b {\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
-        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082} \u306e {\u9803|\u3053\u308d}\u3001 {\u6d88\u9632\u58eb|\u3057\u3087\u3046\u307c\u3046\u3057} \u306b \u306a\u308a\u305f\u304b\u3063\u305f \u3067\u3059 \u304c\u3001 {\u5b9f|\u3058\u3064} \u306f\u3001 \u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8 \u306b \u306a\u308a\u307e\u3057\u305f\u3002",
-        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Every day (I) work until late in the evening, but the work is very enjoyable.",
@@ -2462,37 +2462,37 @@ Flashcards.initialize([
     [
         "(I) frequently do my work at home while having a meal, but it can't be helped.",
         "{\u5ea6\u3005|\u305f\u3073\u305f\u3073} {\u5bb6|\u3046\u3061} \u3067 {\u98df\u4e8b|\u3057\u3087\u304f\u3058} \u3092 \u3057\u306a\u304c\u3089 {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3092 \u3057\u307e\u3059 \u304c {\u4ed5\u65b9|\u3057\u304b\u305f} \u304c \u3042\u308a\u307e\u305b\u3093\u3002",
-        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I) want to work in America in the future.",
         "{\u5c06\u6765|\u3057\u3087\u3046\u3089\u3044} \u30a2\u30e1\u30ea\u30ab \u3067 {\u50cd\u304d\u305f\u3044|\u306f\u305f\u3089\u304d\u305f\u3044} \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
         "\u30a2\u30e1\u30ea\u30ab \u306e {\u751f\u6d3b|\u305b\u3044\u304b\u3064} \u306f {\u9762\u767d\u305d\u3046|\u304a\u3082\u3057\u308d\u305d\u3046} \u3067\u3059 \u304c {\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046} \u306e {\u751f\u6d3b|\u305b\u3044\u304b\u3064} \u304c {\u4e00\u756a|\u3044\u3061\u3070\u3093} {\u597d\u304d|\u3059\u304d} \u3067\u3059\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
         "{\u660e\u65e5|\u3042\u3057\u305f} {\u590f\u5b50|\u306a\u3064\u3053} \u3055\u3093 \u3068 {\u4e00\u7dd2|\u3044\u3063\u3057\u3087} \u306b {\u753a|\u307e\u3061} \u3078 {\u6620\u753b|\u3048\u3044\u304c} \u3092 {\u898b\u306b|\u307f\u306b} {\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
-        "(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+        "(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "A filmstar's lifestyle looks unpleasant, doesn't it?",
         "{\u6620\u753b|\u3048\u3044\u304c} \u30b9\u30bf\u30fc \u306e {\u751f\u6d3b|\u305b\u3044\u304b\u3064} \u306f {\u4e0d\u6109\u5feb\u305d\u3046|\u3075\u3086\u304b\u3044\u305d\u3046} \u3067\u3059 \u306d\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I) don't know how to make cakes.",
         "\u30b1\u30fc\u30ad \u306e {\u4f5c\u308a\u65b9|\u3064\u304f\u308a\u304b\u305f} \u304c {\u5206\u304b\u308a\u307e\u305b\u3093|\u308f\u304b\u308a\u307e\u305b\u3093}\u3002",
-        "verb-stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nnoun \u3092 verb --> noun \u306e verb-stem + {\u65b9|\u304b\u305f}"
+        "verb-stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nnoun \u3092 verb --> noun \u306e verb-stem + {\u65b9|\u304b\u305f}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Miki looks like (she) will eat that sushi, doesn't she?",
         "{\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u306f {\u5176\u306e|\u305d\u306e} {\u5bff\u53f8|\u3059\u3057} \u3092 {\u98df\u3079\u305d\u3046|\u305f\u3079\u305d\u3046} \u3067\u3059 \u306d\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I) liked watching movies very much.",
@@ -2507,47 +2507,47 @@ Flashcards.initialize([
     [
         "Please eat (your) breakfast.",
         "{\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please write an essay.",
         "{\u4f5c\u6587|\u3055\u304f\u3076\u3093} \u3092 {\u66f8\u3044\u3066|\u304b\u3044\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please listen to the news.",
         "\u30cb\u30e5\u30fc\u30b9 \u3092 {\u805e\u3044\u3066|\u304d\u3044\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please drink water.",
         "{\u6c34|\u307f\u305a} \u3092 {\u98f2\u3093\u3067|\u306e\u3093\u3067} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please look at the teacher.",
         "{\u5148\u751f|\u305b\u3093\u305b\u3044} \u3092 {\u898b\u3066|\u307f\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please show (me your) essay.",
         "{\u4f5c\u6587|\u3055\u304f\u3076\u3093} \u3092 {\u898b\u305b\u3066|\u307f\u305b\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please buy a digital camera.",
         "\u30c7\u30b8\u30ab\u30e1 \u3092 {\u8cb7\u3063\u3066|\u304b\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please read the essay.",
         "{\u4f5c\u6587|\u3055\u304f\u3076\u3093} \u3092 {\u8aad\u3093\u3067|\u3088\u3093\u3067} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please speak Japanese.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u8a71\u3057\u3066|\u306f\u306a\u3057\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "te-form song",
@@ -2557,27 +2557,27 @@ Flashcards.initialize([
     [
         "(I) get up at 6 o'clock, eat breakfast, then set off at 7 o'clock.",
         "{\u516d\u6642|\u308d\u304f\u3058} \u306b {\u8d77\u304d\u3066|\u304a\u304d\u3066}\u3001 {\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066}\u3001 {\u4e03\u6642|\u3057\u3061\u3058} \u306b {\u51fa\u639b\u3051\u307e\u3059|\u3067\u304b\u3051\u307e\u3059}\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "In the evening, after eating dinner, (I) send emails on (my) computer.",
         "{\u591c|\u3088\u308b} {\u6669\u3054\u98ef|\u3070\u3093\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u304b\u3089 \u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc \u3067 e\u30e1\u30fc\u30eb \u3092 {\u51fa\u3057\u307e\u3059|\u3060\u3057\u307e\u3059}\u3002",
-        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
+        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "May (I) watch the tv?",
         "\u30c6\u30ec\u30d3 \u3092 {\u898b\u3066|\u307f\u3066} \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(You) may eat here.",
         "{\u6b64\u51e6|\u3053\u3053} \u3067 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u3082 \u3044\u3044 \u3067\u3059\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(You) are not allowed to eat here.",
         "{\u6b64\u51e6|\u3053\u3053} \u3067 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u306f \u3044\u3051\u307e\u305b\u3093\u3002",
-        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
+        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "The post office is (open) from 9 o'clock until 5 o'clock.",
@@ -2587,22 +2587,22 @@ Flashcards.initialize([
     [
         "Every day (I) have lunch at 12 o'clock, then (I) go to work.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u5341\u4e8c\u6642|\u3058\u3085\u3046\u306b\u3058} \u306b {\u663c\u3054\u98ef|\u3072\u308b\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066}\u3001 {\u4ed5\u4e8b|\u3057\u3054\u3068} \u306b {\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Yesterday (I) got up late, (I) drank some coffee, then (I) went into town.",
         "{\u6628\u65e5|\u304d\u306e\u3046} {\u9045\u304f|\u304a\u305d\u304f} {\u8d77\u304d\u3066|\u304a\u304d\u3066}\u3001 \u30b3\u30fc\u30d2\u30fc \u3092 {\u98f2\u3093\u3067|\u306e\u3093\u3067}\u3001 {\u753a|\u307e\u3061} \u306b {\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Tomorrow (I) will go home at 6 o'clock, have dinner, then watch TV.",
         "{\u660e\u65e5|\u3042\u3057\u305f} {\u516d\u6642|\u308d\u304f\u3058} \u306b {\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066}\u3001 {\u6669\u3054\u98ef|\u3070\u3093\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066}\u3001 \u30c6\u30ec\u30d3 \u3092 {\u898b\u307e\u3059|\u307f\u307e\u3059}\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "On Mondays, (I) study Japanese, then (I) go to a restaurant to eat lunch.",
         "{\u6708\u66dc\u65e5|\u3052\u3064\u3088\u3046\u3073} \u306b {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u3066\u3001 \u30ec\u30b9\u30c8\u30e9\u30f3 \u3078 {\u663c\u3054\u98ef|\u3072\u308b\u3054\u306f\u3093} \u3092 {\u98df\u3079|\u305f\u3079} \u306b {\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Before long (after short), (we) will get home.",
@@ -2612,12 +2612,12 @@ Flashcards.initialize([
     [
         "Please wait a little more.",
         "\u3082\u3046 {\u5c11\u3057|\u3059\u3053\u3057} {\u5f85\u3063\u3066|\u307e\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Nowadays (I) don't want to drink coffee very much.",
         "{\u3053\u306e\u9803|\u3053\u306e\u3054\u308d} \u30b3\u30fc\u30d2\u30fc \u3092 {\u4f59\u308a|\u3042\u307e\u308a} {\u98f2\u307f\u305f\u304f\u306a\u3044|\u306e\u307f\u305f\u304f\u306a\u3044} \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~"
+        "verb-stem + \u305f\u3044 = want to ~\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(There are) too many orders, (it) takes time.",
@@ -2627,57 +2627,57 @@ Flashcards.initialize([
     [
         "After (I've) studied Japanese, (I) usually relax.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u3066 \u304b\u3089\u3001 {\u5927\u62b5|\u305f\u3044\u3066\u3044} \u30b4\u30ed\u30b4\u30ed \u3057\u307e\u3059\u3002",
-        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
+        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "After (I'd) phoned my parents, (I) went to (my) friend's house.",
         "{\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093} \u306b {\u96fb\u8a71|\u3067\u3093\u308f} \u3057\u3066 \u304b\u3089\u3001 {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u306e {\u5bb6|\u3046\u3061} \u306b {\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
+        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "After reading the newspaper, (I) cleaned the house.",
         "{\u65b0\u805e|\u3057\u3093\u3076\u3093} \u3092 {\u8aad\u3093\u3067|\u3088\u3093\u3067} \u304b\u3089\u3001 {\u5bb6|\u3046\u3061} \u3092 {\u6383\u9664|\u305d\u3046\u3058} \u3057\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
+        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "May (I) go to the toilet?",
         "\u30c8\u30a4\u30ec \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066} \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "May (I) listen to music here?",
         "{\u6b64\u51e6|\u3053\u3053} \u3067 {\u97f3\u697d|\u304a\u3093\u304c\u304f} \u3092 {\u805e\u3044\u3066|\u304d\u3044\u3066} \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "May (I) open the window? May (I) close the window?",
         "{\u7a93|\u307e\u3069} \u3092 {\u958b\u3051\u3066|\u3042\u3051\u3066} \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002 {\u7a93|\u307e\u3069} \u3092 {\u9589\u3081\u3066|\u3057\u3081\u3066} \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "May (I) enter this room?",
         "{\u6b64\u306e|\u3053\u306e} {\u90e8\u5c4b|\u3078\u3084} \u306b {\u5165\u3063\u3066|\u306f\u3044\u3063\u3066} \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "May (I) take a bath?",
         "{\u304a\u98a8\u5442|\u304a\u3075\u308d} \u306b {\u5165\u3063\u3066|\u306f\u3044\u3063\u3066} \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(You are) not allowed to open that door.",
         "{\u5176\u306e|\u305d\u306e} \u30c9\u30a2 \u3092 {\u958b\u3051\u3066|\u3042\u3051\u3066} \u306f \u3044\u3051\u307e\u305b\u3093\u3002",
-        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
+        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(You are) not allowed to enter this room.",
         "{\u6b64\u306e|\u3053\u306e} {\u90e8\u5c4b|\u3078\u3084} \u306b {\u5165\u3063\u3066|\u306f\u3044\u3063\u3066} \u306f \u3044\u3051\u307e\u305b\u3093\u3002",
-        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
+        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(You are) not allowed to take a bath.",
         "{\u304a\u98a8\u5442|\u304a\u3075\u308d} \u306b {\u5165\u3063\u3066|\u306f\u3044\u3063\u3066} \u306f \u3044\u3051\u307e\u305b\u3093\u3002",
-        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
+        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "The film is from 7:30 to 10:30.",
@@ -2702,22 +2702,22 @@ Flashcards.initialize([
     [
         "This youth hostel is open until 10 AM. Then (it's) open again from 4 PM. Daytime entry is not allowed.",
         "{\u6b64\u306e|\u3053\u306e} \u30e6\u30fc\u30b9\u30fb\u30db\u30b9\u30c6\u30eb \u306f {\u5348\u524d|\u3054\u305c\u3093} {\u5341\u6642|\u3058\u3085\u3046\u3058} \u307e\u3067 {\u958b\u3044\u3066|\u3042\u3044\u3066} \u3044\u307e\u3059\u3002 \u305d\u3057\u3066 \u307e\u305f {\u5348\u5f8c|\u3054\u3054} {\u56db\u6642|\u3088\u3058} \u304b\u3089 {\u958b\u3044\u3066|\u3042\u3044\u3066} \u3044\u307e\u3059\u3002 {\u663c\u9593|\u3072\u308b\u307e} {\u5165\u3063\u3066|\u306f\u3044\u3063\u3066} \u306f \u3044\u3051\u307e\u305b\u3093\u3002",
-        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
+        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Inside the youth hostel, wearing shoes is not allowed.",
         "\u30e6\u30fc\u30b9\u30fb\u30db\u30b9\u30c6\u30eb \u306e {\u4e2d|\u306a\u304b} \u3067 \u306f {\u9774|\u304f\u3064} \u3092 {\u5c65\u3044\u3066|\u306f\u3044\u3066} \u306f \u3044\u3051\u307e\u305b\u3093\u3002",
-        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\n\u306f\u304f -> \u306f\u3044\u3066"
+        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\n\u306f\u304f -> \u306f\u3044\u3066\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Men may take a bath from 5 o'clock until 7 o'clock, women from 7 o'clock until 9 o'clock.",
         "{\u7537\u6027|\u3060\u3093\u305b\u3044} \u306f {\u4e94\u6642|\u3054\u3058} \u304b\u3089 {\u4e03\u6642|\u3057\u3061\u3058} \u307e\u3067 {\u304a\u98a8\u5442|\u304a\u3075\u308d} \u306b {\u5165\u3063\u3066|\u306f\u3044\u3063\u3066} \u3082 \u3044\u3044 \u3067\u3059\u3002 {\u5973\u6027|\u3058\u3087\u305b\u3044} \u306f {\u4e03\u6642|\u3057\u3061\u3058} \u304b\u3089 {\u4e5d\u6642|\u304f\u3058} \u307e\u3067 \u3067\u3059\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Don't eat at the rooms. Please eat at the canteen.",
         "{\u90e8\u5c4b|\u3078\u3084} \u3067 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u306f {\u99c4\u76ee|\u3060\u3081} \u3067\u3059\u3002 {\u98df\u5802|\u3057\u3087\u304f\u3069\u3046} \u3067 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u306f + {\u99c4\u76ee|\u3060\u3081} = must not do verb\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u306f + {\u99c4\u76ee|\u3060\u3081} = must not do verb\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Rooms are separated? I can't believe it!",
@@ -2727,22 +2727,22 @@ Flashcards.initialize([
     [
         "(I) wake up at 7 o'clock and always drink coffee for breakfast.",
         "{\u4e03\u6642|\u3057\u3061\u3058} \u306b {\u8d77\u304d\u3066|\u304a\u304d\u3066}\u3001 {\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u306b {\u4f55\u6642\u3082|\u3044\u3064\u3082} \u30b3\u30fc\u30d2\u30fc \u3092 {\u98f2\u307f\u307e\u3059|\u306e\u307f\u307e\u3059}\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "In the morning (I) frequently do the shopping with a friend at a department store, and have a meal at a restaurant.",
         "{\u671d|\u3042\u3055} {\u5ea6\u3005|\u305f\u3073\u305f\u3073} {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u3068 \u30c7\u30d1\u30fc\u30c8 \u3067 {\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e} \u3092 \u3057\u3066\u3001 \u30ec\u30b9\u30c8\u30e9\u30f3 \u3067 {\u98df\u4e8b|\u3057\u3087\u304f\u3058} \u3092 \u3057\u307e\u3059\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "After returning home (I) occasionally clean up the house.",
         "{\u5bb6|\u3046\u3061} \u306b {\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066} \u304b\u3089 {\u5076|\u305f\u307e} \u306b {\u5bb6|\u3046\u3061} \u3092 {\u6383\u9664|\u305d\u3046\u3058} \u3057\u307e\u3059\u3002",
-        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
+        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) watch TV, make dinner and do work from 7 o'clock in the evening.",
         "\u30c6\u30ec\u30d3 \u3092 {\u898b\u3066|\u307f\u3066}\u3001 {\u6669\u3054\u98ef|\u3070\u3093\u3054\u306f\u3093} \u3092 {\u4f5c\u3063\u3066|\u3064\u304f\u3063\u3066}\u3001 {\u591c|\u3088\u308b} {\u4e03\u6642|\u3057\u3061\u3058} \u304b\u3089 {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3092 \u3057\u307e\u3059\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Now (I'll) explain the school's rules.",
@@ -2752,27 +2752,27 @@ Flashcards.initialize([
     [
         "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
         "{\u5148\u751f|\u305b\u3093\u305b\u3044} \u3068 {\u8a71\u3057\u305f\u3044|\u306f\u306a\u3057\u305f\u3044} {\u5834\u5408|\u3070\u3042\u3044} \u306f\u3001 {\u8077\u54e1\u5ba4|\u3057\u3087\u304f\u3044\u3093\u3057\u3064} \u306b {\u5165\u3063\u3066|\u306f\u3044\u3063\u3066} \u3082 \u3044\u3044 \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(It's) not allowed to go to the toilet during class.",
         "{\u6388\u696d|\u3058\u3085\u304e\u3087\u3046} \u306e {\u9593|\u3042\u3044\u3060} \u30c8\u30a4\u30ec \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066} \u306f \u3044\u3051\u307e\u305b\u3093\u3002",
-        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
+        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(You) may eat (your) lunch in the classroom.",
         "{\u6559\u5ba4|\u304d\u3087\u3046\u3057\u3064} \u3067 {\u663c\u3054\u98ef|\u3072\u308b\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u3082 \u3044\u3044 \u3067\u3059\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Wearing accessories, earrings, etc. is not allowed.",
         "\u30a2\u30af\u30bb\u30b5\u30ea\u30fc \u3084 \u30a4\u30e4\u30ea\u30f3\u30b0 \u306a\u3069 \u3092 \u3057\u3066 \u306f \u3044\u3051\u307e\u305b\u3093\u3002",
-        "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\n\u3084: incomplete list\nverb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\n\u3059\u308b -> \u3057\u3066"
+        "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\n\u3084: incomplete list\nverb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\n\u3059\u308b -> \u3057\u3066\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Occasionally (I) meet with a university teacher and (we) talk about studies.",
         "{\u5076|\u305f\u307e} \u306b {\u5927\u5b66|\u3060\u3044\u304c\u304f} \u306e {\u5148\u751f|\u305b\u3093\u305b\u3044} \u3068 {\u4f1a\u3063\u3066|\u3042\u3063\u3066}\u3001 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u306b {\u5c31\u3044\u3066|\u3064\u3044\u3066} {\u8a71\u3057\u307e\u3059|\u306f\u306a\u3057\u307e\u3059}\u3002",
-        "noun + \u306b + \u3064\u3044\u3066 = about noun\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "noun + \u306b + \u3064\u3044\u3066 = about noun\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Every night, together with the band members, (we) do the band's rehearsals.",
@@ -2782,47 +2782,47 @@ Flashcards.initialize([
     [
         "Please hold this camera.",
         "{\u6b64\u306e|\u3053\u306e} \u30ab\u30e1\u30e9 \u3092 {\u6301\u3063\u3066|\u3082\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "May (I) switch on the lights? Please switch off the lights.",
         "{\u96fb\u6c17|\u3067\u3093\u304d} \u3092 {\u70b9\u3051\u3066|\u3064\u3051\u3066} \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002 {\u96fb\u6c17|\u3067\u3093\u304d} \u3092 {\u6d88\u3057\u3066|\u3051\u3057\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(You are) not allowed to sing in here.",
         "{\u6b64\u51e6|\u3053\u3053} \u3067 {\u6b4c\u3063\u3066|\u3046\u305f\u3063\u3066} \u306f \u3044\u3051\u307e\u305b\u3093\u3002",
-        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
+        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please choose one.",
         "{\u4e00\u3064|\u3072\u3068\u3064} {\u9078\u3093\u3067|\u3048\u3089\u3093\u3067} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(You) may play (your) guitar in this room.",
         "{\u6b64\u306e|\u3053\u306e} {\u90e8\u5c4b|\u3078\u3084} \u3067 \u30ae\u30bf\u30fc \u3092 {\u5f3e\u3044\u3066|\u3072\u3044\u3066} \u3082 \u3044\u3044 \u3067\u3059\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "May (I) take a rest?",
         "{\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067} \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please take off (your) shoes.",
         "{\u9774|\u304f\u3064} \u3092 {\u8131\u3044\u3067|\u306c\u3044\u3067} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please decide quickly.",
         "{\u901f\u304f|\u306f\u3084\u304f} {\u6c7a\u3081\u3066|\u304d\u3081\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\n\u3044 adj. - \u3044 + \u304f = adverb"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\n\u3044 adj. - \u3044 + \u304f = adverb\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(You are) not allowed to go out in the evening.",
         "{\u591c|\u3088\u308b} {\u51fa\u3066|\u3067\u3066} \u306f \u3044\u3051\u307e\u305b\u3093\u3002",
-        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
+        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "hold/possess",
@@ -2882,22 +2882,22 @@ Flashcards.initialize([
     [
         "What (are you) doing at the moment?",
         "{\u4eca|\u3044\u307e} {\u4f55|\u306a\u306b} \u3092 \u3057\u3066 \u3044\u307e\u3059 \u304b\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I am) reading a Japanese newspaper.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u306e {\u65b0\u805e|\u3057\u3093\u3076\u3093} \u3092 {\u8aad\u3093\u3067|\u3088\u3093\u3067} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I am) writing a letter to (my) friend.",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061} \u306b {\u624b\u7d19|\u3066\u304c\u307f} \u3092 {\u66f8\u3044\u3066|\u304b\u3044\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I am) resting now.",
         "{\u4eca|\u3044\u307e} {\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Let's go in through the window quietly.",
@@ -2997,27 +2997,27 @@ Flashcards.initialize([
     [
         "(I) was reading a Japanese language newspaper.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u306e {\u65b0\u805e|\u3057\u3093\u3076\u3093} \u3092 {\u8aad\u3093\u3067|\u3088\u3093\u3067} \u3044\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
+        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) was having a meal with (my) family.",
         "{\u5bb6\u65cf|\u304b\u305e\u304f} \u3068 {\u98df\u4e8b|\u3057\u3087\u304f\u3058} \u3092 \u3057\u3066 \u3044\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
+        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) was writing a letter to (my) friend.",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061} \u306b {\u624b\u7d19|\u3066\u304c\u307f} \u3092 {\u66f8\u3044\u3066|\u304b\u3044\u3066} \u3044\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
+        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) was talking with (my) friends.",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061} \u3068 {\u8a71\u3057\u3066|\u306f\u306a\u3057\u3066} \u3044\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
+        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) was buying a camera at the department store.",
         "\u30c7\u30d1\u30fc\u30c8 \u3067 \u30ab\u30e1\u30e9 \u3092 {\u8cb7\u3063\u3066|\u304b\u3063\u3066} \u3044\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
+        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "The piano takes up (a lot of) space.",
@@ -3032,17 +3032,17 @@ Flashcards.initialize([
     [
         "(I'm) learning the guitar.",
         "\u30ae\u30bf\u30fc \u3092 {\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(My) older sister is married.",
         "{\u59c9|\u3042\u306d} \u306f {\u7d50\u5a5a|\u3051\u3063\u3053\u3093} \u3057\u3066 \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(My) dad has gone to (and is in) America at the moment.",
         "{\u7236|\u3061\u3061} \u306f {\u4eca|\u3044\u307e} \u30a2\u30e1\u30ea\u30ab \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Let's try this sushi!",
@@ -3052,117 +3052,117 @@ Flashcards.initialize([
     [
         "(I) want (you) to switch off the TV.",
         "\u30c6\u30ec\u30d3 \u3092 {\u6d88\u3057\u3066|\u3051\u3057\u3066} {\u6b32\u3057\u3044|\u307b\u3057\u3044} \u3067\u3059\u3002",
-        "(A \u306b) verb\u3066 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)"
+        "(A \u306b) verb\u3066 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Have (you) already eaten breakfast? No, (I) haven't eaten yet.",
         "\u3082\u3046 {\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u307e\u3057\u305f|\u305f\u3079\u307e\u3057\u305f} \u304b\u3002 \u3044\u3044\u3048\u3001 {\u672a\u3060|\u307e\u3060} {\u98df\u3079\u3066|\u305f\u3079\u3066} \u3044\u307e\u305b\u3093\u3002",
-        "\u3082\u3046 + verb-past = already completed doing ~\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet"
+        "\u3082\u3046 + verb-past = already completed doing ~\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) wasn't using the computer last week.",
         "{\u5148\u9031|\u305b\u3093\u3057\u3085\u3046} \u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc \u3092 {\u4f7f\u3063\u3066|\u3064\u304b\u3063\u3066} \u3044\u307e\u305b\u3093 \u3067\u3057\u305f\u3002",
-        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
+        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I'm) reading a very good book currently.",
         "{\u4eca|\u3044\u307e} \u3068\u3066\u3082 \u3044\u3044 {\u672c|\u307b\u3093} \u3092 {\u8aad\u3093\u3067|\u3088\u3093\u3067} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) eat dinner with (my) family every day. (I) eat dinner with (my) family every day. {emphasize habit}",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u5bb6\u65cf|\u304b\u305e\u304f} \u3068 {\u6669\u3054\u98ef|\u3070\u3093\u3054\u306f\u3093} \u3092 {\u98df\u3079\u307e\u3059|\u305f\u3079\u307e\u3059}\u3002 {\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u5bb6\u65cf|\u304b\u305e\u304f} \u3068 {\u6669\u3054\u98ef|\u3070\u3093\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) always eat sushi on Saturdays. {emphasize habit}",
         "{\u571f\u66dc\u65e5|\u3069\u3088\u3046\u3073} \u306b {\u4f55\u6642\u3082|\u3044\u3064\u3082} {\u5bff\u53f8|\u3059\u3057} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) commute to work by train. {emphasize habit}",
         "{\u4ed5\u4e8b|\u3057\u3054\u3068} \u306b {\u96fb\u8eca|\u3067\u3093\u3057\u3083} \u3067 {\u901a\u3063\u3066|\u304b\u3088\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u304b\u3088\u3046 -> \u304b\u3088\u3063\u3066"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u304b\u3088\u3046 -> \u304b\u3088\u3063\u3066\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Miki was teaching Japanese in America. {emphasize habit}",
         "{\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u306f \u30a2\u30e1\u30ea\u30ab \u3067 {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u6559\u3048\u3066|\u304a\u3057\u3048\u3066} \u3044\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
+        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Roger has entered the room. {and is still there}",
         "\u30ed\u30b8\u30e3\u30fc \u3055\u3093 \u306f {\u90e8\u5c4b|\u3078\u3084} \u306b {\u5165\u3063\u3066|\u306f\u3044\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(My) parents live in Tokyo.",
         "{\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093} \u306f {\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046} \u306b {\u4f4f\u3093\u3067|\u3059\u3093\u3067} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) know Tokyo well.",
         "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046} \u3092 {\u826f\u304f|\u3088\u304f} {\u77e5\u3063\u3066|\u3057\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) always return home at 6 o'clock. Mr. Yamada has gone home. {and is there now}",
         "{\u4f55\u6642\u3082|\u3044\u3064\u3082} {\u516d\u6642|\u308d\u304f\u3058} \u306b {\u5bb6|\u3046\u3061} \u306b {\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066} \u3044\u307e\u3059\u3002 {\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u306f {\u5bb6|\u3046\u3061} \u306b {\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "A friend has come. {and is still here}",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061} \u304c {\u6765\u3066|\u304d\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(My) parents have gone to Japan. {and are still there} (My) parents have returned to England. {and are staying there permanently}",
         "{\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093} \u306f {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066} \u3044\u307e\u3059\u3002 {\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093} \u306f \u30a4\u30ae\u30ea\u30b9 \u306b {\u5e30\u308a\u307e\u3057\u305f|\u304b\u3048\u308a\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Both Robert and Roger teach English in Japan.",
         "\u30ed\u30d0\u30fc\u30c8 \u3055\u3093 \u3082 \u30ed\u30b8\u30e3\u30fc \u3055\u3093 \u3082 {\u65e5\u672c|\u306b\u307b\u3093} \u3067 {\u82f1\u8a9e|\u3048\u3044\u3054} \u3092 {\u6559\u3048\u3066|\u304a\u3057\u3048\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Robert has come to Japan from England.",
         "\u30ed\u30d0\u30fc\u30c8 \u3055\u3093 \u306f \u30a4\u30ae\u30ea\u30b9 \u304b\u3089 {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u6765\u3066|\u304d\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) am currently learning flower arrangement.",
         "{\u4eca|\u3044\u307e} {\u751f\u3051\u82b1|\u3044\u3051\u3070\u306a} \u3092 {\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) want to try going to Japan by myself.",
         "{\u4e00\u4eba|\u3072\u3068\u308a} \u3067 {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066} \u307f\u305f\u3044 \u3067\u3059\u3002",
-        "verb\u3066 + \u307f\u308b = try doing ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb\u3066 + \u307f\u308b = try doing ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "If (you) try (it, it's) easy.",
         "\u3084\u3063\u3066 \u307f\u308b \u3068 {\u7c21\u5358|\u304b\u3093\u305f\u3093} \u3067\u3059\u3002",
-        "verb\u3066 + \u307f\u308b = try doing ~\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)"
+        "verb\u3066 + \u307f\u308b = try doing ~\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) want to try drinking Japanese beer.",
         "{\u65e5\u672c|\u306b\u307b\u3093} \u306e \u30d3\u30fc\u30eb \u3092 {\u98f2\u3093\u3067|\u306e\u3093\u3067} \u307f\u305f\u3044 \u3067\u3059\u3002",
-        "verb\u3066 + \u307f\u308b = try doing ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb\u3066 + \u307f\u308b = try doing ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "May (I) try phoning Mr. Yamada?",
         "{\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u306b {\u96fb\u8a71|\u3067\u3093\u308f} \u3092 \u3057\u3066 \u307f\u3066 \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002",
-        "verb\u3066 + \u307f\u308b = try doing ~\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u307f\u308b = try doing ~\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) want to try on this jacket.",
         "{\u6b64\u306e|\u3053\u306e} \u30b8\u30e3\u30b1\u30c3\u30c8 \u3092 {\u7740\u3066|\u304d\u3066} \u307f\u305f\u3044 \u3067\u3059\u3002",
-        "verb\u3066 + \u307f\u308b = try doing ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n{\u7740\u308b|\u304d\u308b} -> {\u7740\u3066|\u304d\u3066}"
+        "verb\u3066 + \u307f\u308b = try doing ~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n{\u7740\u308b|\u304d\u308b} -> {\u7740\u3066|\u304d\u3066}\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) want (you) to do (your) homework.",
         "{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3092 \u3057\u3066 {\u6b32\u3057\u3044|\u307b\u3057\u3044} \u3067\u3059\u3002",
-        "(A \u306b) verb\u3066 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)"
+        "(A \u306b) verb\u3066 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "What do (you) want?",
@@ -3172,7 +3172,7 @@ Flashcards.initialize([
     [
         "(I) want Miki to come to my house.",
         "{\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u306b {\u79c1|\u308f\u305f\u3057} \u306e {\u5bb6|\u3046\u3061} \u306b {\u6765\u3066|\u304d\u3066} {\u6b32\u3057\u3044|\u307b\u3057\u3044} \u3067\u3059\u3002",
-        "(A \u306b) verb\u3066 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)"
+        "(A \u306b) verb\u3066 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) want a big car.",
@@ -3182,27 +3182,27 @@ Flashcards.initialize([
     [
         "(I) haven't eaten breakfast yet. (I) am still eating breakfast. Mr. Yamada is still at the company.",
         "{\u672a\u3060|\u307e\u3060} {\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u3044\u307e\u305b\u3093\u3002 {\u672a\u3060|\u307e\u3060} {\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u3044\u307e\u3059\u3002 {\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u306f {\u672a\u3060|\u307e\u3060} {\u4f1a\u793e|\u304b\u3044\u3057\u3083} \u306b \u3044\u307e\u3059\u3002",
-        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u3059 = still doing ~ (incomplete action)\n{\u672a\u3060|\u307e\u3060}/\u3082\u3046 + place \u306b + \u3044\u307e\u3059/\u3042\u308a\u307e\u3059 = still/already being at ~"
+        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u3059 = still doing ~ (incomplete action)\n{\u672a\u3060|\u307e\u3060}/\u3082\u3046 + place \u306b + \u3044\u307e\u3059/\u3042\u308a\u307e\u3059 = still/already being at ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) have already eaten breakfast. (I) no longer eat breakfast. Yuki no longer learns the piano. {discontinued habit}",
         "\u3082\u3046 {\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u307e\u3057\u305f|\u305f\u3079\u307e\u3057\u305f}\u3002 \u3082\u3046 {\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u307e\u305b\u3093|\u305f\u3079\u307e\u305b\u3093}\u3002 {\u4f91\u5983|\u3086\u304d} \u3055\u3093 \u306f \u3082\u3046 \u30d4\u30a2\u30ce \u3092 {\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066} \u3044\u307e\u305b\u3093\u3002",
-        "\u3082\u3046 + verb-past = already completed doing ~\n\u3082\u3046 + verb-present-negative = no longer doing ~ (complete action)\n\u3082\u3046 + verb\u3066 + \u3044\u307e\u305b\u3093 = discontinued habitual action (no longer)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
+        "\u3082\u3046 + verb-past = already completed doing ~\n\u3082\u3046 + verb-present-negative = no longer doing ~ (complete action)\n\u3082\u3046 + verb\u3066 + \u3044\u307e\u305b\u3093 = discontinued habitual action (no longer)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Are (you) still eating breakfast? No, (I've) already eaten (it).",
         "{\u672a\u3060|\u307e\u3060} {\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u3044\u307e\u3059 \u304b\u3002 \u3044\u3044\u3048\u3001 \u3082\u3046 {\u98df\u3079\u307e\u3057\u305f|\u305f\u3079\u307e\u3057\u305f}\u3002",
-        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u3059 = still doing ~ (incomplete action)\n\u3082\u3046 + verb-past = already completed doing ~"
+        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u3059 = still doing ~ (incomplete action)\n\u3082\u3046 + verb-past = already completed doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Have (you) already drunk (your) beer? No, (I) haven't drunk (it) yet.",
         "\u3082\u3046 \u30d3\u30fc\u30eb \u3092 {\u98f2\u307f\u307e\u3057\u305f|\u306e\u307f\u307e\u3057\u305f} \u304b\u3002 \u3044\u3044\u3048\u3001 {\u672a\u3060|\u307e\u3060} {\u98f2\u3093\u3067|\u306e\u3093\u3067} \u3044\u307e\u305b\u3093\u3002",
-        "\u3082\u3046 + verb-past = already completed doing ~\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet"
+        "\u3082\u3046 + verb-past = already completed doing ~\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I'm) still listening to the news.",
         "{\u672a\u3060|\u307e\u3060} \u30cb\u30e5\u30fc\u30b9 \u3092 {\u805e\u3044\u3066|\u304d\u3044\u3066} \u3044\u307e\u3059\u3002",
-        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u3059 = still doing ~ (incomplete action)"
+        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u3059 = still doing ~ (incomplete action)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Have (you) already phoned Mr. Yamada? No, not yet.",
@@ -3212,12 +3212,12 @@ Flashcards.initialize([
     [
         "(I) haven't bought a digital camera yet, but (I've) already bought a new TV.",
         "{\u672a\u3060|\u307e\u3060} \u30c7\u30b8\u30ab\u30e1 \u3092 {\u8cb7\u3063\u3066|\u304b\u3063\u3066} \u3044\u307e\u305b\u3093 \u304c \u3082\u3046 {\u65b0\u3057\u3044|\u3042\u305f\u3089\u3057\u3044} \u30c6\u30ec\u30d3 \u3092 {\u8cb7\u3044\u307e\u3057\u305f|\u304b\u3044\u307e\u3057\u305f}\u3002",
-        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\n\u3082\u3046 + verb-past = already completed doing ~"
+        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\n\u3082\u3046 + verb-past = already completed doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Eri hasn't done (her) homework yet, but Yuki is still doing (her's).",
         "{\u7d75\u91cc|\u3048\u308a} \u3055\u3093 \u306f {\u672a\u3060|\u307e\u3060} {\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3092 \u3057\u3066 \u3044\u307e\u305b\u3093 \u304c {\u4f91\u5983|\u3086\u304d} \u3055\u3093 \u306f {\u672a\u3060|\u307e\u3060} \u3057\u3066 \u3044\u307e\u3059\u3002",
-        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u3059 = still doing ~ (incomplete action)"
+        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u3059 = still doing ~ (incomplete action)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "parents {In-group, out-group}",
@@ -3242,32 +3242,32 @@ Flashcards.initialize([
     [
         "Please tell (me) about a day of your's.",
         "{\u81ea\u5206|\u3058\u3076\u3093} \u306e {\u4e00\u65e5|\u3044\u3061\u306b\u3061} \u306b {\u5c31\u3044\u3066|\u3064\u3044\u3066} {\u6559\u3048\u3066|\u304a\u3057\u3048\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nnoun + \u306b + \u3064\u3044\u3066 = about noun"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nnoun + \u306b + \u3064\u3044\u3066 = about noun\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "I go to school every day on foot. {habit}",
         "{\u79c1|\u308f\u305f\u3057} \u306f {\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u6b69\u3044\u3066|\u3042\u308b\u3044\u3066} {\u5b66\u6821|\u304c\u3063\u3053\u3046} \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "After school, (I) take part in a tennis club. {habit}",
         "{\u5b66\u6821|\u304c\u3063\u3053\u3046} \u306e {\u5f8c|\u3042\u3068} \u3067 \u30c6\u30cb\u30b9\u30fb\u30af\u30e9\u30d6 \u306b {\u53c2\u52a0|\u3055\u3093\u304b} \u3057\u3066 \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Twice every week (I) go to cram school and (I) learn Maths and English (etc.). {habit}",
         "{\u6bce\u9031|\u307e\u3044\u3057\u3085\u3046} {\u4e8c\u56de|\u306b\u304b\u3044} {\u587e|\u3058\u3085\u304f} \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001 {\u6570\u5b66|\u3059\u3046\u304c\u304f} \u3084 {\u82f1\u8a9e|\u3048\u3044\u3054} \u3092 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u3066 \u3044\u307e\u3059\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u3084: incomplete list"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u3084: incomplete list\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Because (I'm) learning the piano now, (I) practise every day. {\u304b\u3089, habit}",
         "{\u4eca|\u3044\u307e} \u30d4\u30a2\u30ce \u3092 {\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066} \u3044\u307e\u3059 \u304b\u3089 {\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046} \u3092 \u3057\u3066 \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
         "{\u9031\u672b|\u3057\u3085\u3046\u307e\u3064} \u306b {\u5927\u62b5|\u305f\u3044\u3066\u3044} {\u4f55|\u306a\u306b} \u3092 \u3057\u3066 \u3044\u307e\u3059 \u304b\u3002 {\u6642\u3005|\u3068\u304d\u3069\u304d} {\u7956\u7236|\u305d\u3075} \u3068 {\u6563\u6b69|\u3055\u3093\u307d} \u3057\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Sunday, (I) always spend time with (my) family.",
@@ -3277,17 +3277,17 @@ Flashcards.initialize([
     [
         "When do (you) do (your) homework? (I) do a little every day, but this week, (I) haven't done (it) yet.",
         "{\u4f55\u6642|\u3044\u3064} {\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3092 \u3057\u307e\u3059 \u304b\u3002 {\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u5c11\u3057|\u3059\u3053\u3057} \u3057\u3066 \u3044\u307e\u3059 \u304c {\u4eca\u9031|\u3053\u3093\u3057\u3085\u3046} \u306f {\u672a\u3060|\u307e\u3060} \u3057\u3066 \u3044\u307e\u305b\u3093\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) want (my) older sister to do (my) homework. No way! Try to do (it) on your own please.",
         "{\u304a\u59c9\u3061\u3083\u3093|\u304a\u306d\u3048\u3061\u3083\u3093} \u306b {\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3092 \u3057\u3066 {\u6b32\u3057\u3044|\u307b\u3057\u3044} \u3067\u3059\u3002 {\u99c4\u76ee|\u3060\u3081} \u3067\u3059 \u3088\u3002 {\u81ea\u5206|\u3058\u3076\u3093} \u3067 \u3057\u3066 \u307f\u3066 \u304f\u3060\u3055\u3044\u3002",
-        "(A \u306b) verb\u3066 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)\nverb\u3066 + \u307f\u308b = try doing ~\nverb\u3066 + \u304f\u3060\u3055\u3044 = request\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)"
+        "(A \u306b) verb\u3066 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)\nverb\u3066 + \u307f\u308b = try doing ~\nverb\u3066 + \u304f\u3060\u3055\u3044 = request\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(My) husband has already set off to (his) company but grandpa is still sleeping.",
         "{\u4e3b\u4eba|\u3057\u3085\u3058\u3093} \u306f \u3082\u3046 {\u4f1a\u793e|\u304b\u3044\u3057\u3083} \u306b {\u51fa\u639b\u3051\u307e\u3057\u305f|\u3067\u304b\u3051\u307e\u3057\u305f} \u304c {\u304a\u7956\u7236\u3061\u3083\u3093|\u304a\u3058\u3044\u3061\u3083\u3093} \u306f {\u672a\u3060|\u307e\u3060} {\u5bdd\u3066|\u306d\u3066} \u3044\u307e\u3059\u3002",
-        "\u3082\u3046 + verb-past = already completed doing ~\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u3059 = still doing ~ (incomplete action)"
+        "\u3082\u3046 + verb-past = already completed doing ~\n{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u3059 = still doing ~ (incomplete action)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Mr. Yamada is not at home now. He's still at the company. He's already at the company.",
@@ -3302,22 +3302,22 @@ Flashcards.initialize([
     [
         "Mr. Yamada doesn't work yet. (My) dad no longer works. He's at home every day.",
         "{\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u306f {\u672a\u3060|\u307e\u3060} {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3092 \u3057\u3066 \u3044\u307e\u305b\u3093\u3002 {\u7236|\u3061\u3061} \u306f \u3082\u3046 {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3092 \u3057\u3066 \u3044\u307e\u305b\u3093\u3002 {\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u5bb6|\u3046\u3061} \u306b \u3044\u307e\u3059\u3002",
-        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\n\u3082\u3046 + verb\u3066 + \u3044\u307e\u305b\u3093 = discontinued habitual action (no longer)"
+        "{\u672a\u3060|\u307e\u3060} + verb\u3066 + \u3044\u307e\u305b\u3093 = not done ~ yet, not doing ~ yet\n\u3082\u3046 + verb\u3066 + \u3044\u307e\u305b\u3093 = discontinued habitual action (no longer)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "May (I) try this jacket?",
         "{\u6b64\u306e|\u3053\u306e} \u30b8\u30e3\u30b1\u30c3\u30c8 \u3092 {\u7740\u3066|\u304d\u3066} \u307f\u3066 \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002",
-        "verb\u3066 + \u307f\u308b = try doing ~\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n{\u7740\u308b|\u304d\u308b} -> {\u7740\u3066|\u304d\u3066}"
+        "verb\u3066 + \u307f\u308b = try doing ~\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n{\u7740\u308b|\u304d\u308b} -> {\u7740\u3066|\u304d\u3066}\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) no longer live in Tokyo.",
         "\u3082\u3046 {\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046} \u306b {\u4f4f\u3093\u3067|\u3059\u3093\u3067} \u3044\u307e\u305b\u3093\u3002",
-        "\u3082\u3046 + verb\u3066 + \u3044\u307e\u305b\u3093 = discontinued habitual action (no longer)"
+        "\u3082\u3046 + verb\u3066 + \u3044\u307e\u305b\u3093 = discontinued habitual action (no longer)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Last year (I) have tried learning French.",
         "{\u53bb\u5e74|\u304d\u3087\u306d\u3093} \u30d5\u30e9\u30f3\u30b9 {\u8a9e|\u3054} \u3092 {\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066} \u307f\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u307f\u308b = try doing ~\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066"
+        "verb\u3066 + \u307f\u308b = try doing ~\n\u306a\u3089\u3046 -> \u306a\u3089\u3063\u3066\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Will this work somehow get done by 5 o'clock? Let's somehow do it!",
@@ -3372,12 +3372,12 @@ Flashcards.initialize([
     [
         "(I) have an interest in South America so (I) want to go. {\u306e \u3067}",
         "{\u5357|\u307f\u306a\u307f} \u30a2\u30e1\u30ea\u30ab \u306b {\u8208\u5473|\u304d\u3087\u3046\u307f} \u304c \u3042\u308b \u306e \u3067 {\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044} \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)"
+        "verb-stem + \u305f\u3044 = want to ~\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) am learning Japanese therefore (I) have come to Japan. {\u304b\u3089}",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066} \u3044\u307e\u3059 \u304b\u3089 {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u6765\u3066|\u304d\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "What's the matter? Well, you see, (I've) got a headache.",
@@ -3427,17 +3427,17 @@ Flashcards.initialize([
     [
         "Recently (I'm) learning judo.",
         "{\u6700\u8fd1|\u3055\u3044\u304d\u3093} {\u67d4\u9053|\u3058\u3085\u3046\u3069\u3046} \u3092 {\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Every night (I) teach English at the company.",
         "{\u6bce\u6669|\u307e\u3044\u3070\u3093} {\u4f1a\u793e|\u304b\u3044\u3057\u3083} \u3067 {\u82f1\u8a9e|\u3048\u3044\u3054} \u3092 {\u6559\u3048\u3066|\u304a\u3057\u3048\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I'm) writing a letter to grandma while drinking coffee.",
         "\u30b3\u30fc\u30d2\u30fc \u3092 {\u98f2\u307f\u306a\u304c\u3089|\u306e\u307f\u306a\u304c\u3089} {\u7956\u6bcd|\u305d\u307c} \u306b {\u624b\u7d19|\u3066\u304c\u307f} \u3092 {\u66f8\u3044\u3066|\u304b\u3044\u3066} \u3044\u307e\u3059\u3002",
-        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I) looked up the meaning of that word in the dictionary.",
@@ -3532,12 +3532,12 @@ Flashcards.initialize([
     [
         "(My) parents will come to Japan tomorrow so (I) want to clean (my) apartment. {\u304b\u3089}",
         "{\u4e21\u89aa|\u308a\u3087\u3046\u3057\u3093} \u306f {\u660e\u65e5|\u3042\u3057\u305f} {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u6765\u308b|\u304f\u308b} \u304b\u3089 \u30a2\u30d1\u30fc\u30c8 \u3092 {\u6383\u9664|\u305d\u3046\u3058} \u3057\u305f\u3044 \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "verb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Why won't (you) go to see the film? Because (I'll) work until late. {\u304b\u3089}",
         "\u3069\u3046\u3057\u3066 {\u6620\u753b|\u3048\u3044\u304c} \u3092 {\u898b|\u307f} \u306b {\u884c\u304d\u307e\u305b\u3093|\u3044\u304d\u307e\u305b\u3093} \u304b\u3002 {\u9045\u304f|\u304a\u305d\u304f} \u307e\u3067 {\u50cd\u304f|\u306f\u305f\u3089\u304f} \u304b\u3089 \u3067\u3059\u3002",
-        "(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067"
+        "(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Why do (you) get up late? (I) drink beer until late every night.",
@@ -3632,12 +3632,12 @@ Flashcards.initialize([
     [
         "That penguin jumped over the wall.",
         "\u3042\u306e \u30da\u30f3\u30ae\u30f3\u3001 {\u58c1|\u304b\u3079} \u3092 {\u98db\u3073\u8d8a\u3048\u307e\u3057\u305f|\u3068\u3073\u3053\u3048\u307e\u3057\u305f}\u3002",
-        "verb-stem + verb = compound verb (action + qualifier)"
+        "verb-stem + verb = compound verb (action + qualifier)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(It) was (acting) all strange since about 10 minutes ago, (then it) suddenly took off running.",
         "{\u5341\u5206|\u3058\u3085\u3063\u3077\u3093} \u3050\u3089\u3044 {\u524d|\u307e\u3048} \u304b\u3089 \u305a\u3063\u3068 {\u53ef\u7b11\u3057\u304f\u3066|\u304a\u304b\u3057\u304f\u3066}\u3001 \u3044\u304d\u306a\u308a {\u8d70\u308a\u51fa\u3057\u307e\u3057\u305f|\u306f\u3057\u308a\u3060\u3057\u307e\u3057\u305f}\u3002",
-        "verb-stem + verb = compound verb (action + qualifier)"
+        "verb-stem + verb = compound verb (action + qualifier)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(It's) strange but I can somehow understand.",
@@ -3652,7 +3652,7 @@ Flashcards.initialize([
     [
         "Why does Miki want to watch baseball? Because (she) likes watching sports. {\u304b\u3089}",
         "{\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u306f \u3069\u3046\u3057\u3066 {\u91ce\u7403|\u3084\u304d\u3085\u3046} \u3092 {\u898b\u305f\u3044|\u307f\u305f\u3044} \u3067\u3059 \u304b\u3002 \u30b9\u30dd\u30fc\u30c4 \u3092 {\u898b\u308b\u3053\u3068|\u307f\u308b\u3053\u3068} \u304c {\u597d\u304d|\u3059\u304d} \u3060 \u304b\u3089 \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb\u3046 + \u3053\u3068 = doing ~ (nominalize)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "verb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb\u3046 + \u3053\u3068 = doing ~ (nominalize)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Why can't Roger eat meat? Because (he's) vegetarian. {\u304b\u3089}",
@@ -3672,7 +3672,7 @@ Flashcards.initialize([
     [
         "How about Saturday night? Shall (we) go to the baseball stadium to watch baseball on Saturday night?",
         "{\u571f\u66dc\u65e5|\u3069\u3088\u3046\u3073} \u306e {\u6669|\u3070\u3093} \u306f \u3069\u3046 \u3067\u3059 \u304b\u3002 {\u571f\u66dc\u65e5|\u3069\u3088\u3046\u3073} \u306e {\u6669|\u3070\u3093} {\u91ce\u7403\u5834|\u3084\u304d\u3085\u3046\u3058\u3087\u3046} \u3067 {\u91ce\u7403|\u3084\u304d\u3085\u3046} \u3092 {\u898b|\u307f} \u306b {\u884c\u304d\u307e\u3057\u3087\u3046|\u3044\u304d\u307e\u3057\u3087\u3046} \u304b\u3002",
-        "(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+        "(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "There are various restaurants near the baseball stadium.",
@@ -3687,7 +3687,7 @@ Flashcards.initialize([
     [
         "Next year (I) want to go to South America so (I'm) learning Spanish now. {\u306e \u3067}",
         "{\u6765\u5e74|\u3089\u3044\u306d\u3093} {\u5357|\u307f\u306a\u307f} \u30a2\u30e1\u30ea\u30ab \u306b {\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044} \u306e \u3067 {\u4eca|\u3044\u307e} \u30b9\u30da\u30a4\u30f3 {\u8a9e|\u3054} \u3092 {\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)"
+        "verb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I'm) not very good at speaking Spanish yet but (I) think that speaking with South American people will be very interesting.",
@@ -3802,12 +3802,12 @@ Flashcards.initialize([
     [
         "After returning (home, I) phoned Roger and said good night.",
         "{\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066} \u304b\u3089 \u30ed\u30b8\u30e3\u30fc \u3055\u3093 \u306b {\u96fb\u8a71|\u3067\u3093\u308f} \u3057\u3066 {\u304a\u4f11\u307f\u306a\u3055\u3044|\u304a\u3084\u3059\u307f\u306a\u3055\u3044} \u3068 {\u8a00\u3044\u307e\u3057\u305f|\u3044\u3044\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "After that, (we) went to a bar and drank a lot of beer until late.",
         "\u305d\u306e {\u5f8c|\u3042\u3068} \u3067 \u30d0\u30fc \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001 {\u9045\u304f|\u304a\u305d\u304f} \u307e\u3067 \u30d3\u30fc\u30eb \u3092 \u3044\u3063\u3071\u3044 {\u98f2\u307f\u307e\u3057\u305f|\u306e\u307f\u307e\u3057\u305f}\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Cold {weather}, cold {object}, hot {weather}, hot {object}",
@@ -3817,7 +3817,7 @@ Flashcards.initialize([
     [
         "(I) am off work because (I'm) sick. {\u304b\u3089, \u306e \u3067}",
         "{\u75c5\u6c17|\u3073\u3087\u3046\u304d} \u3060 \u304b\u3089 {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3092 {\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067} \u3044\u307e\u3059\u3002 {\u75c5\u6c17|\u3073\u3087\u3046\u304d} \u306a \u306e \u3067 {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3092 {\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067} \u3044\u307e\u3059\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Roger is good at playing tennis because (he) practices every day. {\u306e \u3067}",
@@ -3827,12 +3827,12 @@ Flashcards.initialize([
     [
         "(I) came to Japan because (I) want to study Japanese. {\u306e \u3067}",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u305f\u3044 \u306e \u3067 {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u6765\u307e\u3057\u305f|\u304d\u307e\u3057\u305f}\u3002",
-        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nwhen answering {\u4f55\u6545|\u306a\u305c} and \u3069\u3046\u3057\u3066, \u304b\u3089 is more common than \u306e \u3067\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Pardon. {\"Leave me alone\", \"Let's change topic\", ...}",
         "{\u52d8\u5f01|\u304b\u3093\u3079\u3093} \u3057\u3066 \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "As expected, (you) fail (the test).",
@@ -3937,22 +3937,22 @@ Flashcards.initialize([
     [
         "(I) have never been abroad.",
         "{\u5916\u56fd|\u304c\u3044\u3053\u304f} \u3078 {\u884c\u3063\u305f\u3053\u3068|\u3044\u3063\u305f\u3053\u3068} \u304c \u3042\u308a\u307e\u305b\u3093\u3002",
-        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Every day after eating dinner (I) watch TV.",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u6669\u3054\u98ef|\u3070\u3093\u3054\u306f\u3093} \u3092 {\u98df\u3079\u305f|\u305f\u3079\u305f} {\u5f8c|\u3042\u3068} \u3067 \u30c6\u30ec\u30d3 \u3092 {\u898b\u307e\u3059|\u307f\u307e\u3059}\u3002",
-        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(You) should take this medicine.",
         "\u3053\u306e {\u85ac|\u304f\u3059\u308a} \u3092 {\u98f2\u3093\u3060|\u306e\u3093\u3060} {\u65b9|\u307b\u3046} \u304c \u3044\u3044 \u3067\u3059 \u3088\u3002",
-        "verb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+        "verb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) drank wine and talked with friends at the party.",
         "\u30d1\u30fc\u30c6\u30a3\u30fc \u3067 \u30ef\u30a4\u30f3 \u3092 {\u98f2\u3093\u3060\u308a|\u306e\u3093\u3060\u308a} {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u3068 {\u8a71\u3057\u305f\u308a|\u306f\u306a\u3057\u305f\u308a} \u3057\u307e\u3057\u305f\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Tokyo is bigger than London.",
@@ -3962,62 +3962,62 @@ Flashcards.initialize([
     [
         "When (I) lived in America, (I) spoke English every day. {plain}",
         "\u30a2\u30e1\u30ea\u30ab \u306b {\u4f4f\u3093\u3067|\u3059\u3093\u3067} \u3044\u305f {\u6642|\u3068\u304d} {\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u82f1\u8a9e|\u3048\u3044\u3054} \u3092 {\u8a71\u3057\u305f|\u306f\u306a\u3057\u305f}\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) have completely forgotten all (my) kanji. {plain}",
         "{\u6f22\u5b57|\u304b\u3093\u3058} \u3092 {\u5168\u90e8|\u305c\u3093\u3076} {\u5fd8\u308c\u3066|\u308f\u3059\u308c\u3066} {\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) have lived abroad.",
         "{\u5916\u56fd|\u304c\u3044\u3053\u304f} \u306b {\u4f4f\u3093\u3067|\u3059\u3093\u3067} \u3044\u305f \u3053\u3068 \u304c \u3042\u308a\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) have never seen Mount Fuji.",
         "{\u5bcc\u58eb\u5c71|\u3075\u3058\u3055\u3093} \u3092 {\u898b\u305f|\u307f\u305f} \u3053\u3068 \u304c \u3042\u308a\u307e\u305b\u3093\u3002",
-        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) have written letters in Japanese.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3067 {\u624b\u7d19|\u3066\u304c\u307f} \u3092 {\u66f8\u3044\u305f|\u304b\u3044\u305f} \u3053\u3068 \u304c \u3042\u308a\u307e\u3059\u3002",
-        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) have never read a Japanese newspaper.",
         "{\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u306e {\u65b0\u805e|\u3057\u3093\u3076\u3093} \u3092 {\u8aad\u3093\u3060|\u3088\u3093\u3060} \u3053\u3068 \u304c \u3042\u308a\u307e\u305b\u3093\u3002",
-        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) haven't been to South America.",
         "{\u5357|\u307f\u306a\u307f} \u30a2\u30e1\u30ea\u30ab \u306b {\u884c\u3063\u305f|\u3044\u3063\u305f} \u3053\u3068 \u304c \u3042\u308a\u307e\u305b\u3093\u3002",
-        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Since (I) came to Japan, (I) have been studying Japanese. After (I) arrived to Japan, (I) wrote a letter to (my) mom.",
         "{\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u6765\u3066|\u304d\u3066} \u304b\u3089\u3001 {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u3066 \u3044\u307e\u3059\u3002 {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u7740\u3044\u305f|\u3064\u3044\u305f} {\u5f8c|\u3042\u3068} \u3067 {\u6bcd|\u306f\u306f} \u306b {\u624b\u7d19|\u3066\u304c\u307f} \u3092 {\u66f8\u304d\u307e\u3057\u305f|\u304b\u304d\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "After (I) took a shower, (I) ate breakfast.",
         "\u30b7\u30e3\u30ef\u30fc \u3092 {\u6d74\u3073\u305f|\u3042\u3073\u305f} {\u5f8c|\u3042\u3068} \u3067 {\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u307e\u3057\u305f|\u305f\u3079\u307e\u3057\u305f}",
-        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "After (I) drank a beer, (I) went to bed right away.",
         "\u30d3\u30fc\u30eb \u3092 {\u98f2\u3093\u3060|\u306e\u3093\u3060} {\u5f8c|\u3042\u3068} \u3067 {\u76f4\u3050|\u3059\u3050} {\u5bdd\u307e\u3057\u305f|\u306d\u307e\u3057\u305f}\u3002",
-        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "After doing homework, (I) went to a party.",
         "{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3092 \u3057\u305f {\u5f8c|\u3042\u3068} \u3067  \u30d1\u30fc\u30c6\u30a3\u30fc \u306b {\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "After returning home, (I) phoned to a friend.",
         "{\u5bb6|\u3046\u3061} \u306b {\u5e30\u3063\u305f|\u304b\u3048\u3063\u305f} {\u5f8c|\u3042\u3068} \u3067 {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u306b {\u96fb\u8a71|\u3067\u3093\u308f} \u3057\u307e\u3057\u305f\u3002",
-        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "After the concert, (I) went to a bar.",
@@ -4027,12 +4027,12 @@ Flashcards.initialize([
     [
         "(You'd) better do (you) homework tonight.",
         "{\u4eca\u6669|\u3053\u3093\u3070\u3093} {\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3092 \u3057\u305f {\u65b9|\u307b\u3046} \u304c \u3044\u3044 \u3067\u3059 \u3088\u3002",
-        "verb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+        "verb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(You) should probably make a phone call.",
         "{\u96fb\u8a71|\u3067\u3093\u308f} \u3057\u305f {\u65b9|\u307b\u3046} \u304c \u3044\u3044 \u3067\u3057\u3087\u3046\u3002",
-        "verb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+        "verb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "The big one is better than the small one.",
@@ -4042,37 +4042,37 @@ Flashcards.initialize([
     [
         "(You) should probably send an email.",
         "e\u30e1\u30fc\u30eb \u3092 {\u51fa\u3057\u305f|\u3060\u3057\u305f} {\u65b9|\u307b\u3046} \u304c \u3044\u3044 \u3067\u3057\u3087\u3046\u3002",
-        "verb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+        "verb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "On Saturdays, (I do things like) shopping, watch films, and eat at restaurants.",
         "{\u571f\u66dc\u65e5|\u3069\u3088\u3046\u3073} \u306b {\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e} \u3092 \u3057\u305f\u308a\u3001 {\u6620\u753b|\u3048\u3044\u304c} \u3092 {\u898b\u305f\u308a|\u307f\u305f\u308a}\u3001 \u30ec\u30b9\u30c8\u30e9\u30f3 \u3067 {\u98df\u3079\u305f\u308a|\u305f\u3079\u305f\u308a} \u3057\u307e\u3059\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Last night (I) watched TV, made phone calls and did some cleaning.",
         "{\u6628\u591c|\u3086\u3046\u3079} \u30c6\u30ec\u30d3 \u3092 {\u898b\u305f\u308a|\u307f\u305f\u308a}\u3001 {\u96fb\u8a71|\u3067\u3093\u308f} \u3092 \u3057\u305f\u308a\u3001 {\u6383\u9664|\u305d\u3046\u3058} \u3092 \u3057\u305f\u308a \u3057\u307e\u3057\u305f\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Sometimes (I) eat meat, sometimes (I) eat fish.",
         "{\u8089|\u306b\u304f} \u3092 {\u98df\u3079\u305f\u308a|\u305f\u3079\u305f\u308a}\u3001 {\u9b5a|\u3055\u304b\u306a} \u3092 {\u98df\u3079\u305f\u308a|\u305f\u3079\u305f\u308a} \u3057\u307e\u3059\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "For Christmas, (I) eat a lot, watch TV, and meet with friends.",
         "\u30af\u30ea\u30b9\u30de\u30b9 \u306b \u3044\u3063\u3071\u3044 {\u98df\u3079\u305f\u308a|\u305f\u3079\u305f\u308a}\u3001 \u30c6\u30ec\u30d3 \u3092 {\u898b\u305f\u308a|\u307f\u305f\u308a}\u3001 {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u3068 {\u4f1a\u3063\u305f\u308a|\u3042\u3063\u305f\u308a} \u3057\u307e\u3059\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Last week (I) studied Japanese, did shopping and went to Osaka.",
         "{\u5148\u9031|\u305b\u3093\u3057\u3085\u3046} {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u305f\u308a\u3001 {\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e} \u3092 \u3057\u305f\u308a\u3001 {\u5927\u962a|\u304a\u304a\u3055\u304b} \u306b {\u884c\u3063\u305f\u308a|\u3044\u3063\u305f\u308a} \u3057\u307e\u3057\u305f\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "For breakfast, (I) sometimes drink coffee, sometimes tea.",
         "{\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u306b \u30b3\u30fc\u30d2\u30fc \u3092 {\u98f2\u3093\u3060\u308a|\u306e\u3093\u3060\u308a}\u3001 {\u7d05\u8336|\u3053\u3046\u3061\u3083} \u3092 {\u98f2\u3093\u3060\u308a|\u306e\u3093\u3060\u308a} \u3057\u307e\u3059\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "The train is quicker than the bus.",
@@ -4102,27 +4102,27 @@ Flashcards.initialize([
     [
         "When (I) was in America, (I) learned English. When (I) eat breakfast, (I) always watch TV. When (I) was a student, (I) studied Spanish. When (I) was a student, (I) studied Spanish.",
         "\u30a2\u30e1\u30ea\u30ab \u306b \u3044\u305f {\u6642|\u3068\u304d} {\u82f1\u8a9e|\u3048\u3044\u3054} \u3092 {\u7fd2\u3044\u307e\u3057\u305f|\u306a\u3089\u3044\u307e\u3057\u305f}\u3002 {\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u308b|\u305f\u3079\u308b} {\u6642|\u3068\u304d} {\u4f55\u6642\u3082|\u3044\u3064\u3082} \u30c6\u30ec\u30d3 \u3092 {\u898b\u307e\u3059|\u307f\u307e\u3059}\u3002 {\u5b66\u751f|\u304c\u304f\u305b\u3044} \u306e {\u6642|\u3068\u304d} \u30b9\u30da\u30a4\u30f3 {\u8a9e|\u3054} \u3092 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u307e\u3057\u305f\u3002 {\u5b66\u751f|\u304c\u304f\u305b\u3044} \u306e {\u9803|\u3053\u308d} \u30b9\u30da\u30a4\u30f3 {\u8a9e|\u3054} \u3092 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u307e\u3057\u305f\u3002",
-        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb\u3046 + {\u6642|\u3068\u304d} = when doing ~\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~\nnoun + \u306e + {\u6642|\u3068\u304d} = when ~, as a ~"
+        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb\u3046 + {\u6642|\u3068\u304d} = when doing ~\nnoun + \u306e + {\u9803|\u3053\u308d} = when ~, as a ~\nnoun + \u306e + {\u6642|\u3068\u304d} = when ~, as a ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Pay (just before) when (you) get off the bus please. Pay when (you) have gotten off the bus please.",
         "\u30d0\u30b9 \u3092 {\u964d\u308a\u308b|\u304a\u308a\u308b} {\u6642|\u3068\u304d} {\u6255\u3063\u3066|\u306f\u3089\u3063\u3066} \u304f\u3060\u3055\u3044\u3002 \u30d0\u30b9 \u3092 {\u964d\u308a\u305f|\u304a\u308a\u305f} {\u6642|\u3068\u304d} {\u6255\u3063\u3066|\u306f\u3089\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb\u3046 + {\u6642|\u3068\u304d} = when doing ~"
+        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb\u3046 + {\u6642|\u3068\u304d} = when doing ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "The moment the door opened, (my) heart stopped. {plain} When the door opened, (my) heart stopped. {plain}",
         "\u30c9\u30a2 \u304c {\u958b\u3044\u305f|\u3042\u3044\u305f} {\u77ac\u9593|\u3057\u3085\u3093\u304b\u3093} {\u5fc3\u81d3|\u3057\u3093\u305e\u3046} \u304c {\u6b62\u307e\u3063\u305f|\u3068\u307e\u3063\u305f}\u3002 \u30c9\u30a2 \u304c {\u958b\u3044\u305f|\u3042\u3044\u305f} {\u6642|\u3068\u304d} {\u5fc3\u81d3|\u3057\u3093\u305e\u3046} \u304c {\u6b62\u307e\u3063\u305f|\u3068\u307e\u3063\u305f}\u3002",
-        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
+        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "When (I) went to the school, no one was there. {plain}",
         "{\u5b66\u6821|\u304c\u3063\u3053\u3046} \u306b {\u884c\u3063\u305f|\u3044\u3063\u305f} {\u6642|\u3068\u304d} \u306b {\u8ab0|\u3060\u308c} \u3082 \u3044\u306a\u304b\u3063\u305f\u3002",
-        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\n{\u8ab0\u3082|\u3060\u308c\u3082} = nobody (everybody), {\u4f55\u3082|\u306a\u306b\u3082} = nothing (neg.), {\u4f55\u6642\u3082|\u3044\u3064\u3082} = always, {\u4f55\u51e6\u3082|\u3069\u3053\u3082} = everywhere, \u3069\u308c\u3082 = any and all"
+        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\n{\u8ab0\u3082|\u3060\u308c\u3082} = nobody (everybody), {\u4f55\u3082|\u306a\u306b\u3082} = nothing (neg.), {\u4f55\u6642\u3082|\u3044\u3064\u3082} = always, {\u4f55\u51e6\u3082|\u3069\u3053\u3082} = everywhere, \u3069\u308c\u3082 = any and all\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "When (I) looked at the chat, (it) was already late. {plain}",
         "\u30c1\u30e3\u30c3\u30c8 \u3092 {\u898b\u305f|\u307f\u305f} {\u6642|\u3068\u304d} \u3082\u3046 {\u9045\u304b\u3063\u305f|\u304a\u305d\u304b\u3063\u305f}\u3002",
-        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
+        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) paid 2 million yen for the car. {plain}",
@@ -4132,37 +4132,37 @@ Flashcards.initialize([
     [
         "(I've) already finished (my) homework.",
         "{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u306f \u3082\u3046 \u3084\u3063\u3066 {\u4ed5\u821e\u3044\u307e\u3057\u305f|\u3057\u307e\u3044\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "The little bird went and died. {plain} The little bird went and died. {plain, spoken}",
         "{\u5c0f\u9ce5|\u3053\u3068\u308a} \u304c {\u6b7b\u3093\u3067|\u3057\u3093\u3067} {\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002 {\u5c0f\u9ce5|\u3053\u3068\u308a} \u304c {\u6b7b\u3093\u3058\u3083\u3063\u305f|\u3057\u3093\u3058\u3083\u3063\u305f}\u3002",
-        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I've) gone and broken (my) camera. {plain}",
         "\u30ab\u30e1\u30e9 \u3092 {\u58ca\u3057\u3066|\u3053\u308f\u3057\u3066} {\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Have (you) finished eating all (your) vegetables?",
         "{\u91ce\u83dc|\u3084\u3055\u3044} \u3092 {\u5168\u90e8|\u305c\u3093\u3076} {\u98df\u3079\u3066|\u305f\u3079\u3066} {\u4ed5\u821e\u3044\u307e\u3057\u305f|\u3057\u307e\u3044\u307e\u3057\u305f} \u304b\u3002",
-        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) will finish writing the letter after (I've) had (my) breakfast.",
         "{\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u305f|\u305f\u3079\u305f} {\u5f8c|\u3042\u3068} \u3067 {\u624b\u7d19|\u3066\u304c\u307f} \u3092 {\u66f8\u3044\u3066|\u304b\u3044\u3066} \u3057\u307e\u3044\u307e\u3059\u3002",
-        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I'm) totally exhausted. {plain}",
         "{\u75b2\u308c\u3066|\u3064\u304b\u308c\u3066} {\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) totally lost (my) camera. {plain}",
         "\u30ab\u30e1\u30e9 \u3092 {\u843d\u3068\u3057\u3066|\u304a\u3068\u3057\u3066} {\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Sorry, (I'm) full.",
@@ -4177,7 +4177,7 @@ Flashcards.initialize([
     [
         "I'm not a university student. (I've) graduated 3 years ago. Then for 2 years, (I) taught Japanese and travelled in America.",
         "{\u79c1|\u308f\u305f\u3057} \u306f {\u5927\u5b66\u751f|\u3060\u3044\u304c\u304f\u305b\u3044} \u3058\u3083 \u306a\u3044 \u3067\u3059\u3002 {\u4e09\u5e74|\u3055\u3093\u306d\u3093} {\u524d|\u307e\u3048} \u306b {\u5352\u696d|\u305d\u3064\u304e\u3087\u3046} \u3057\u3066 \u3044\u307e\u3057\u305f\u3002 \u305d\u3057\u3066 {\u4e8c\u5e74\u9593|\u306b \u306d\u3093 \u304b\u3093} \u30a2\u30e1\u30ea\u30ab \u3067 {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u6559\u3048\u305f\u308a|\u304a\u3057\u3048\u305f\u308a}\u3001 {\u65c5\u884c|\u308a\u3087\u3053\u3046} \u3057\u305f\u308a \u3057\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "The white (one) is cute.",
@@ -4212,7 +4212,7 @@ Flashcards.initialize([
     [
         "When (I) lived in Chicago, (I) went to various concerts.",
         "\u30b7\u30ab\u30b4 \u306b {\u4f4f\u3093\u3067|\u3059\u3093\u3067} \u3044\u305f {\u6642|\u3068\u304d} {\u8272\u3005|\u3044\u308d\u3044\u308d} \u306a \u30b3\u30f3\u30b5\u30fc\u30c8 \u306b {\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) like jazz more than pop.",
@@ -4227,7 +4227,7 @@ Flashcards.initialize([
     [
         "What's wrong? (My) throat has dried. Well, (you) should probably drink water.",
         "\u3069\u3046 \u3057\u305f \u3093 \u3067\u3059 \u304b\u3002 {\u5589|\u306e\u3069} \u304c {\u4e7e\u3044\u305f|\u304b\u308f\u3044\u305f} \u3093 \u3067\u3059\u3002 \u3058\u3083\u3042\u3001 {\u6c34|\u307f\u305a} \u3092 {\u98f2\u3093\u3060|\u306e\u3093\u3060} {\u65b9|\u307b\u3046} \u304c \u3044\u3044 \u3067\u3057\u3087\u3046\u3002",
-        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nverb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nverb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "When (I) was a student, (I) went to lots of concerts.",
@@ -4237,22 +4237,22 @@ Flashcards.initialize([
     [
         "(You) should study as hard as you can.",
         "{\u4e00\u751f\u61f8\u547d|\u3044\u3063\u3057\u3087\u3046\u3051\u3093\u3081\u3044} {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u305f {\u65b9|\u307b\u3046} \u304c \u3044\u3044 \u3067\u3059 \u3088\u3002",
-        "verb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~"
+        "verb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "When (I) lived in Australia, (I) spoke English well.",
         "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2 \u306b {\u4f4f\u3093\u3067|\u3059\u3093\u3067} \u3044\u305f {\u6642|\u3068\u304d} {\u82f1\u8a9e|\u3048\u3044\u3054} \u304c \u3088\u304f \u3067\u304d\u307e\u3057\u305f\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) went to bed late last night, so (I'm) totally exhausted. {plain}",
         "{\u5915\u3079|\u3086\u3046\u3079} {\u9045\u304f|\u304a\u305d\u304f} {\u5bdd\u305f|\u306d\u305f} \u304b\u3089 {\u75b2\u308c\u3066|\u3064\u304b\u308c\u3066} {\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) have finished all the cooking. {plain}",
         "{\u6599\u7406|\u308a\u3087\u3046\u308a} \u3092 {\u5168\u90e8|\u305c\u3093\u3076} \u3057\u3066 {\u4ed5\u821e\u3063\u305f|\u3057\u307e\u3063\u305f}\u3002",
-        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+        "verb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) think this camera is better than that camera.",
@@ -4262,47 +4262,47 @@ Flashcards.initialize([
     [
         "After talking to Takeshi, Miki phoned to Roger.",
         "{\u525b\u58eb|\u305f\u3051\u3057} \u3055\u3093 \u3068 {\u8a71\u3057\u305f|\u306f\u306a\u3057\u305f} {\u5f8c|\u3042\u3068} \u3067\u3001 {\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u306f \u30ed\u30b8\u30e3\u30fc \u3055\u3093 \u306b {\u96fb\u8a71|\u3067\u3093\u308f} \u3057\u307e\u3057\u305f\u3002",
-        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~"
+        "verb\u305f + {\u5f8c|\u3042\u3068} + \u3067 = after (finished) doing ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Shall (we) meet in front of the cinema? {plain}",
         "{\u6620\u753b\u9928|\u3048\u3044\u304c\u304b\u3093} \u306e {\u524d|\u307e\u3048} \u3067 {\u4f1a\u304a\u3046|\u3042\u304a\u3046} \u304b\u3002",
-        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "Shall (we) show (it) to the teacher? {plain}",
         "{\u5148\u751f|\u305b\u3093\u305b\u3044} \u306b {\u898b\u305b\u3088\u3046|\u307f\u305b\u3088\u3046} \u304b\u3002",
-        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "Shall (we) wait for Miki? {plain}",
         "{\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u3092 {\u5f85\u3068\u3046|\u307e\u3068\u3046} \u304b\u3002",
-        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I) think (I) _will_ return to America next year.",
         "{\u6765\u5e74|\u3089\u3044\u306d\u3093} \u30a2\u30e1\u30ea\u30ab \u306b {\u5e30\u308d\u3046|\u304b\u3048\u308d\u3046} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "I _will_ go to Kyoto next week.",
         "{\u50d5|\u307c\u304f} \u306f {\u6765\u9031|\u3089\u3044\u3057\u3085\u3046} {\u4eac\u90fd|\u304d\u3087\u3046\u3068} \u306b {\u884c\u3053\u3046|\u3044\u3053\u3046}\u3002",
-        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I) think (I) _will_ go to Europe next year.",
         "{\u6765\u5e74|\u3089\u3044\u306d\u3093} \u30e8\u30fc\u30ed\u30c3\u30d1 \u306b {\u884c\u3053\u3046|\u3044\u3053\u3046} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I) tried to learn Spanish but (I) wasn't very good.",
         "\u30b9\u30da\u30a4\u30f3 {\u8a9e|\u3054} \u3092 {\u7fd2\u304a\u3046|\u306a\u3089\u304a\u3046} \u3068 \u3057\u307e\u3057\u305f \u304c {\u4f59\u308a|\u3042\u307e\u308a} {\u4e0a\u624b|\u3058\u3087\u3046\u305a} \u3058\u3083 \u3042\u308a\u307e\u305b\u3093 \u3067\u3057\u305f\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(It) will probably rain tomorrow. {plain}",
         "{\u660e\u65e5|\u3042\u3057\u305f} \u306f {\u96e8|\u3042\u3081} \u304c {\u964d\u308b|\u3075\u308b} \u3060\u308d\u3046\u3002",
-        "verb\u305f + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably did ~"
+        "verb\u305f + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably did ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Today is fine but tomorrow (it) might rain.",
@@ -4337,37 +4337,37 @@ Flashcards.initialize([
     [
         "(I) _will_ watch the film.",
         "{\u79c1|\u308f\u305f\u3057} \u306f {\u6620\u753b|\u3048\u3044\u304c} \u3092 {\u898b\u3088\u3046|\u307f\u3088\u3046}\u3002",
-        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "Shall (I) go to bed?",
         "{\u5bdd\u3088\u3046|\u306d\u3088\u3046} \u304b\u3002",
-        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?"
+        "verb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I) think (I) will go to South America. Miki is thinking (she) will go to South America.",
         "{\u5357|\u307f\u306a\u307f} \u30a2\u30e1\u30ea\u30ab \u306b {\u884c\u3053\u3046|\u3044\u3053\u3046} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002 {\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u306f {\u5357|\u307f\u306a\u307f} \u30a2\u30e1\u30ea\u30ab \u306b {\u884c\u3053\u3046|\u3044\u3053\u3046} \u3068 {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} + \u3044\u308b = I think someone else will ~, I/someone else is thinking of doing ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} + \u3044\u308b = I think someone else will ~, I/someone else is thinking of doing ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I) hope to go to South America. (I) think (I) will go to South America. (I) plan to go to South America.",
         "{\u5357|\u307f\u306a\u307f} \u30a2\u30e1\u30ea\u30ab \u306b {\u884c\u304d\u305f\u3044|\u3044\u304d\u305f\u3044} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002 {\u5357|\u307f\u306a\u307f} \u30a2\u30e1\u30ea\u30ab \u306b {\u884c\u3053\u3046|\u3044\u3053\u3046} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002 {\u5357|\u307f\u306a\u307f} \u30a2\u30e1\u30ea\u30ab \u306b {\u884c\u304f|\u3044\u304f} \u3064\u3082\u308a \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u3046 + \u3064\u3082\u308a = intend to ~"
+        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u3046 + \u3064\u3082\u308a = intend to ~\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) think (I) will go to Japan next year. (My) mom thinks (she) will go to Europe next year.",
         "{\u6765\u5e74|\u3089\u3044\u306d\u3093} {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u884c\u3053\u3046|\u3044\u3053\u3046} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002 {\u6bcd|\u306f\u306f} \u306f {\u6765\u5e74|\u3089\u3044\u306d\u3093} \u30e8\u30fc\u30ed\u30c3\u30d1 \u306b {\u884c\u3053\u3046|\u3044\u3053\u3046} \u3068 {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} + \u3044\u308b = I think someone else will ~, I/someone else is thinking of doing ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} + \u3044\u308b = I think someone else will ~, I/someone else is thinking of doing ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I) think (I) will send that email.",
         "\u305d\u306e e\u30e1\u30fc\u30eb \u3092 {\u51fa\u305d\u3046|\u3060\u305d\u3046} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "Takeshi thinks (he) will meet with Miki again.",
         "{\u525b\u58eb|\u305f\u3051\u3057} \u3055\u3093 \u306f {\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u306b \u307e\u305f {\u4f1a\u304a\u3046|\u3042\u304a\u3046} \u3068 {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} + \u3044\u308b = I think someone else will ~, I/someone else is thinking of doing ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3063\u3066|\u304a\u3082\u3063\u3066} + \u3044\u308b = I think someone else will ~, I/someone else is thinking of doing ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(You're) sharp, aren't you?",
@@ -4402,7 +4402,7 @@ Flashcards.initialize([
     [
         "When (I) was learning English, among the practices (I) did after classes and homework, there are 3 that I think were good.",
         "{\u82f1\u8a9e|\u3048\u3044\u3054} \u3092 {\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066} \u3044\u305f {\u6642|\u3068\u304d}\u3001 {\u6388\u696d|\u3058\u3085\u304e\u3087\u3046} \u3068 {\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u306e {\u5f8c|\u3042\u3068} \u306b {\u5b9f\u8df5|\u3058\u3063\u305b\u3093} \u3057\u305f {\u4e2d|\u306a\u304b} \u3067\u3001 {\u79c1|\u308f\u305f\u3057} \u304c {\u826f\u304b\u3063\u305f|\u3088\u304b\u3063\u305f} \u3068 {\u601d\u3046|\u304a\u3082\u3046} \u3053\u3068 \u304c {\u4e09\u3064|\u307f\u3063\u3064} \u3042\u308a\u307e\u3059\u3002",
-        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb\u3046 + \u3053\u3068 = doing ~ (nominalize)"
+        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb\u3046 + \u3053\u3068 = doing ~ (nominalize)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "This time (I'll) make it up to (you).",
@@ -4412,22 +4412,22 @@ Flashcards.initialize([
     [
         "(I) tried to learn Spanish (but I failed). (I) had a go at learning Spanish.",
         "\u30b9\u30da\u30a4\u30f3 {\u8a9e|\u3054} \u3092 {\u7fd2\u304a\u3046|\u306a\u3089\u304a\u3046} \u3068 \u3057\u307e\u3057\u305f\u3002 \u30b9\u30da\u30a4\u30f3 {\u8a9e|\u3054} \u3092 {\u7fd2\u3063\u3066|\u306a\u3089\u3063\u3066} \u307f\u307e\u3057\u305f\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nverb\u3066 + \u307f\u308b = try doing ~"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nverb\u3066 + \u307f\u308b = try doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I'm) about to eat breakfast.",
         "{\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046} \u3068 \u3057\u3066 \u3044\u307e\u3059\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3057\u3066 + \u3044\u308b = to be about to do ~"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3057\u3066 + \u3044\u308b = to be about to do ~\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I'm) about to learn the piano.",
         "\u30d4\u30a2\u30ce \u3092 {\u7fd2\u304a\u3046|\u306a\u3089\u304a\u3046} \u3068 \u3057\u3066 \u3044\u307e\u3059\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3057\u3066 + \u3044\u308b = to be about to do ~"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3057\u3066 + \u3044\u308b = to be about to do ~\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(My) father tried to buy a new jacket (but failed). {plain}",
         "{\u7236|\u3061\u3061} \u306f {\u65b0\u3057\u3044|\u3042\u305f\u3089\u3057\u3044} \u30b8\u30e3\u30b1\u30c3\u30c8 \u3092 {\u8cb7\u304a\u3046|\u304b\u304a\u3046} \u3068 \u3057\u305f\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(It) will probably rain. (It) will possibly rain.",
@@ -4437,7 +4437,7 @@ Flashcards.initialize([
     [
         "(He) probably ate (it) all. (He) might have eaten (it) all. {plain}",
         "{\u5168\u90e8|\u305c\u3093\u3076} {\u98df\u3079\u305f|\u305f\u3079\u305f} \u3060\u308d\u3046\u3002 {\u5168\u90e8|\u305c\u3093\u3076} {\u98df\u3079\u305f|\u305f\u3079\u305f} \u304b \u3082 \u3057\u308c\u306a\u3044\u3002",
-        "verb\u305f + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably did ~\nverb\u305f + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might have done ~"
+        "verb\u305f + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably did ~\nverb\u305f + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might have done ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(He) may surely go to the party.",
@@ -4592,7 +4592,7 @@ Flashcards.initialize([
     [
         "Please tell the truth.",
         "{\u672c\u5f53|\u307b\u3093\u3068\u3046} \u306e \u3053\u3068 \u3092 {\u8a00\u3063\u3066|\u3044\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Cute smile, isn't it?",
@@ -4622,12 +4622,12 @@ Flashcards.initialize([
     [
         "The weather was sunny all day long and too hot, and I'd want to spend time in the fridge.",
         "{\u4e00\u65e5\u4e2d|\u3044\u3061\u306b\u3061\u3058\u3085\u3046} {\u826f\u304f|\u3088\u304f} {\u6674\u308c\u305f|\u306f\u308c\u305f} {\u5929\u6c17|\u3066\u3093\u304d} \u3067\u3001 \u3042\u307e\u308a\u306b\u3082 {\u6691\u304f|\u3042\u3064\u304f}\u3001 {\u51b7\u8535\u5eab|\u308c\u3044\u305e\u3046\u3053} \u306e {\u4e2d|\u306a\u304b} \u3067 {\u904e\u3054\u3057\u305f\u3044|\u3059\u3054\u3057\u305f\u3044} {\u6c17\u5206|\u304d\u3076\u3093} \u3067\u3059\u3002",
-        "\u306a-adj. + \u3067 = adj. and ...\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "\u306a-adj. + \u3067 = adj. and ...\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "The weather is sunny all day long, and too hot, and (I) want to sit into the fridge.",
         "{\u5929\u6c17|\u3066\u3093\u304d} \u306f {\u4e00\u65e5\u4e2d|\u3044\u3061\u306b\u3061\u3058\u3085\u3046} {\u6674\u308c|\u306f\u308c} \u3067\u3001 {\u6691\u904e\u304e\u3066|\u3042\u3064\u3059\u304e\u3066}\u3001 {\u51b7\u8535\u5eab|\u308c\u3044\u305e\u3046\u3053} \u306e {\u4e2d|\u306a\u304b} \u306b {\u5165\u308a\u305f\u3044|\u306f\u3044\u308a\u305f\u3044} \u3067\u3059\u3002",
-        "\u306a-adj. + \u3067 = adj. and ...\nstem of adj. or continuative base of verb + ~{\u904e\u304e\u308b|\u3059\u304e\u308b} = too much ~, over~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "\u306a-adj. + \u3067 = adj. and ...\nstem of adj. or continuative base of verb + ~{\u904e\u304e\u308b|\u3059\u304e\u308b} = too much ~, over~\nverb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Mr. Yamada will soon be transferred to America.",
@@ -4637,7 +4637,7 @@ Flashcards.initialize([
     [
         "Roger has been living in Japan for 2 years.",
         "\u30ed\u30b8\u30e3\u30fc \u3055\u3093 \u306f {\u4e8c\u5e74\u9593|\u306b \u306d\u3093 \u304b\u3093} {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u4f4f\u3093\u3067|\u3059\u3093\u3067} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Why is Miki going to China? Because (it's been arranged for her to) be transferred.",
@@ -4662,7 +4662,7 @@ Flashcards.initialize([
     [
         "Both of the parents are working.",
         "{\u89aa|\u304a\u3084} \u306f {\u4e21\u65b9|\u308a\u3087\u3046\u307b\u3046} \u3068 \u3082 {\u50cd\u3044\u3066|\u306f\u305f\u3089\u3044\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "In Okinawa, (I) had an interesting experience.",
@@ -4677,22 +4677,22 @@ Flashcards.initialize([
     [
         "In Japan, this year seems to become hot as well.",
         "{\u65e5\u672c|\u306b\u307b\u3093} \u306f\u3001 {\u4eca\u5e74|\u3053\u3068\u3057} \u3082 {\u6691\u304f|\u3042\u3064\u304f} \u306a\u308a\u305d\u3046 \u3067\u3059\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3067\u3059 = looks/appears/seems like ~ (personal opinion)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I've) been reading the lyrics while listening to music (I) like.",
         "{\u597d\u304d|\u3059\u304d} \u306a {\u97f3\u697d|\u304a\u3093\u304c\u304f} \u3092 {\u805e\u304d\u306a\u304c\u3089|\u304d\u304d\u306a\u304c\u3089} {\u6b4c\u8a5e|\u304b\u3057} \u3092 {\u8aad\u3093\u3067|\u3088\u3093\u3067} \u3044\u307e\u3057\u305f\u3002",
-        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
+        "verb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I'm) not very good at singing, but (I) often tried singing as well.",
         "{\u6b4c\u3046|\u3046\u305f\u3046} \u3053\u3068 \u306f \u3042\u307e\u308a {\u4e0a\u624b|\u3058\u3087\u3046\u305a} \u3058\u3083 \u3042\u308a\u307e\u305b\u3093 \u304c\u3001 \u3088\u304f {\u6b4c\u3063\u3066|\u3046\u305f\u3063\u3066} \u307f\u308b \u3053\u3068 \u3082 \u3057\u307e\u3057\u305f\u3002",
-        "verb\u3046 + \u3053\u3068 = doing ~ (nominalize)\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\nverb\u3066 + \u307f\u308b = try doing ~"
+        "verb\u3046 + \u3053\u3068 = doing ~ (nominalize)\n{\u4e0a\u624b|\u3058\u3087\u3046\u305a}/{\u4e0b\u624b|\u3078\u305f}: practical skills, crafts, sports, arts, etc.\nverb\u3066 + \u307f\u308b = try doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Since (I) became an adult, it seems that a lot of things that looked boring as a child, (I) became interested in. Probably because (I) don't have to take exams anymore, right?",
         "{\u5927\u4eba|\u304a\u3068\u306a} \u306b \u306a\u3063\u3066 \u304b\u3089\u3001 \u3069\u3046\u3084\u3089 {\u5b50\u4f9b|\u3053\u3069\u3082} \u306e {\u9803|\u3053\u308d} \u306b \u306f {\u8a70\u307e\u3089\u306a\u304f|\u3064\u307e\u3089\u306a\u304f} {\u601d\u3048\u305f|\u304a\u3082\u3048\u305f} {\u6ca2\u5c71|\u305f\u304f\u3055\u3093} \u306e \u3053\u3068 \u306b {\u8208\u5473|\u304d\u3087\u3046\u307f} \u304c {\u6301\u3066\u308b|\u3082\u3066\u308b} \u3088\u3046 \u306b \u306a\u308a\u307e\u3057\u305f\u3002 \u3082\u3046 {\u8a66\u9a13|\u3057\u3051\u3093} \u3092 {\u53d7\u3051\u306a\u304f\u3066|\u3046\u3051\u306a\u304f\u3066} \u3082 \u3044\u3044 \u304b\u3089 \u3067\u3057\u3087\u3046 \u306d\u3002",
-        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u3046 + {\u69d8|\u3088\u3046} + \u306b + {\u6210\u308b|\u306a\u308b} = change in habitual action\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u3046 + {\u69d8|\u3088\u3046} + \u306b + {\u6210\u308b|\u306a\u308b} = change in habitual action\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "The computer acts weird.",
@@ -4717,17 +4717,17 @@ Flashcards.initialize([
     [
         "(I) tried to find another job in Tokyo, but there weren't any.",
         "{\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046} \u3067 {\u4ed6|\u307b\u304b} \u306e {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3092 {\u898b\u4ed8\u3051\u3088\u3046|\u307f\u3064\u3051\u3088\u3046} \u3068 \u3057\u307e\u3057\u305f \u304c {\u4ed5\u4e8b|\u3057\u3054\u3068} \u306f {\u5168\u7136|\u305c\u3093\u305c\u3093} \u3042\u308a\u307e\u305b\u3093 \u3067\u3057\u305f\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I) still want to work in Japan, but (I) think I'll also go to China.",
         "\u307e\u3060 {\u65e5\u672c|\u306b\u307b\u3093} \u3067 {\u50cd\u304d\u305f\u3044|\u306f\u305f\u3089\u304d\u305f\u3044} \u3067\u3059 \u304c {\u79c1|\u308f\u305f\u3057} \u3082 {\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f} \u306b {\u884c\u3053\u3046|\u3044\u3053\u3046} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Since how many years have (you) been living in Japan? Around 3 (I) think.",
         "{\u4f55\u5e74\u9593|\u306a\u3093\u306d\u3093\u304b\u3093} {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u4f4f\u3093\u3067|\u3059\u3093\u3067} \u3044\u307e\u3057\u305f \u304b\u3002 {\u4e09\u5e74|\u3055\u3093\u306d\u3093} \u304f\u3089\u3044 \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action"
+        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "When will (you) transfer? (I'll) possibly go to China next month, but (I) don't know clearly yet.",
@@ -4762,7 +4762,7 @@ Flashcards.initialize([
     [
         "(I) was about to practice, but (I) had various problems.",
         "{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046} \u3092 \u3057\u3088\u3046 \u3068 \u3057\u3066 \u3044\u307e\u3057\u305f \u304c {\u8272\u3005|\u3044\u308d\u3044\u308d} \u306a {\u554f\u984c|\u3082\u3093\u3060\u3044} \u304c \u3042\u308a\u307e\u3057\u305f\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3057\u3066 + \u3044\u308b = to be about to do ~"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3057\u3066 + \u3044\u308b = to be about to do ~\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "On Tuesday and Wednesday (I) had a lot of homework.",
@@ -4777,12 +4777,12 @@ Flashcards.initialize([
     [
         "Next week (I) think (I) will be surely free all week. Therefore, (I) think (I) will practice every day for about 1 hour.",
         "{\u6765\u9031|\u3089\u3044\u3057\u3085\u3046} \u306f {\u4e00\u9031\u9593|\u3044\u3063\u3057\u3085\u3046\u304b\u3093} \u304d\u3063\u3068 {\u6687|\u3072\u307e} \u3060 \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002 \u3060\u304b\u3089 {\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u4e00\u6642\u9593|\u3044\u3061\u3058\u304b\u3093} \u3050\u3089\u3044 \u306f {\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046} \u3092 \u3057\u3088\u3046 \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I) didn't do much Japanese study this week. (I) meant to, but (I) was very busy.",
         "{\u4eca\u9031|\u3053\u3093\u3057\u3085\u3046} {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u306f \u3042\u307e\u308a {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u307e\u305b\u3093 \u3067\u3057\u305f\u3002 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3092 \u3057\u3088\u3046 \u3068 \u3057\u3066 \u3044\u307e\u3057\u305f \u304c \u3068\u3066\u3082 {\u5fd9\u3057\u304b\u3063\u305f|\u3044\u305d\u304c\u3057\u304b\u3063\u305f} \u3067\u3059\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3057\u3066 + \u3044\u308b = to be about to do ~"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3057\u3066 + \u3044\u308b = to be about to do ~\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "On Thursday, it was unexpectedly decided for me to go on a business trip to Tokyo.",
@@ -4807,12 +4807,12 @@ Flashcards.initialize([
     [
         "(I) hope to buy a new camera. (I) think (I) will go to China next year.",
         "{\u65b0\u3057\u3044|\u3042\u305f\u3089\u3057\u3044} \u30ab\u30e1\u30e9 \u3092 {\u8cb7\u3044\u305f\u3044|\u304b\u3044\u305f\u3044} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002 {\u6765\u5e74|\u3089\u3044\u306d\u3093} {\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f} \u306b {\u884c\u3053\u3046|\u3044\u3053\u3046} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) intend to meet (my) friend tomorrow. (I) tried to meet (my) friend yesterday.",
         "{\u660e\u65e5|\u3042\u3057\u305f} {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u306b {\u4f1a\u3046|\u3042\u3046} \u3064\u3082\u308a \u3067\u3059\u3002 {\u6628\u65e5|\u304d\u306e\u3046} {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u3068 {\u4f1a\u304a\u3046|\u3042\u304a\u3046} \u3068 \u3057\u307e\u3057\u305f\u3002",
-        "verb\u3046 + \u3064\u3082\u308a = intend to ~\nverb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)"
+        "verb\u3046 + \u3064\u3082\u308a = intend to ~\nverb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I) decided to learn Italian.",
@@ -4827,12 +4827,12 @@ Flashcards.initialize([
     [
         "(I) bet (he) goes to see the baseball match tomorrow.",
         "\u304d\u3063\u3068 {\u660e\u65e5|\u3042\u3057\u305f} \u306e {\u91ce\u7403|\u3084\u304d\u3085\u3046} \u306e {\u8a66\u5408|\u3057\u3042\u3044} \u3092 {\u898b|\u307f} \u306b {\u884c\u304f|\u3044\u304f} \u3067\u3057\u3087\u3046\u3002",
-        "(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb\u3046 + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably (will) do ~"
+        "(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb\u3046 + \u3067\u3057\u3087\u3046/\u3060\u308d\u3046 = probably (will) do ~\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I) think (I) will come to play today.",
         "{\u4eca\u65e5|\u304d\u3087\u3046} {\u904a\u3073|\u3042\u305d\u3073} \u306b {\u6765\u3088\u3046|\u3053\u3088\u3046} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+        "(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I) don't plan to be off work next week.",
@@ -4852,7 +4852,7 @@ Flashcards.initialize([
     [
         "Today (I've) heard the news of the earthquake. (I) hope everyone is safe.",
         "{\u4eca\u65e5|\u304d\u3087\u3046} \u306e {\u5730\u9707|\u3058\u3057\u3093} \u306e \u30cb\u30e5\u30fc\u30b9 \u3092 {\u805e\u304d\u307e\u3057\u305f|\u304d\u304d\u307e\u3057\u305f}\u3002 {\u7686\u3055\u3093|\u307f\u306a\u3055\u3093} \u306e {\u7121\u4e8b|\u3076\u3058} \u3092 {\u9858\u3063\u3066|\u306d\u304c\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) can speak Japanese better. {plain}",
@@ -4897,7 +4897,7 @@ Flashcards.initialize([
     [
         "Please add two more bottles of beer.",
         "\u30d3\u30fc\u30eb \u3092 \u3042\u3068 {\u4e8c\u672c|\u306b\u307b\u3093} {\u8ffd\u52a0|\u3064\u3044\u304b} \u3057\u3066 \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "He gave me a dictionary. {plain}",
@@ -4907,7 +4907,7 @@ Flashcards.initialize([
     [
         "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
         "{\u7247\u4eee\u540d|\u304b\u305f\u304b\u306a} \u3067 {\u8aad\u307f\u65b9|\u3088\u307f\u304b\u305f} \u3092 {\u66f8\u3044\u3066|\u304b\u3044\u3066} \u304f\u308c\u3066 \u3042\u308a\u304c\u3068\u3046\u3002 \u3069\u3046 {\u81f4\u3057\u307e\u3057\u3066|\u3044\u305f\u3057\u307e\u3057\u3066}\u3002",
-        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb-stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates\nX \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)"
+        "noun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb-stem + {\u65b9|\u304b\u305f} = how to do verb (verb --> noun)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates\nX \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
@@ -4917,7 +4917,7 @@ Flashcards.initialize([
     [
         "Please make (it). Please don't make (it). Please use (it). Please don't use (it).",
         "{\u4f5c\u3063\u3066|\u3064\u304f\u3063\u3066} \u304f\u3060\u3055\u3044\u3002 {\u4f5c\u3089\u306a\u3044|\u3064\u304f\u3089\u306a\u3044} \u3067 \u304f\u3060\u3055\u3044\u3002 {\u4f7f\u3063\u3066|\u3064\u304b\u3063\u3066} \u304f\u3060\u3055\u3044\u3002 {\u4f7f\u308f\u306a\u3044|\u3064\u304b\u308f\u306a\u3044} \u3067 \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(It's) not a camera. {middle polite} (It) wasn't a newspaper. {almost plain} (It) wasn't a camera. {plain}",
@@ -4927,7 +4927,7 @@ Flashcards.initialize([
     [
         "Please don't go into that meeting room.",
         "\u3042\u306e {\u4f1a\u8b70\u5ba4|\u304b\u3044\u304e\u3057\u3064} \u306b {\u5165\u3089\u306a\u3044|\u306f\u3044\u3089\u306a\u3044} \u3067 \u304f\u3060\u3055\u3044\u3002",
-        "verb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~"
+        "verb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(I) think that film wasn't interesting.",
@@ -4937,42 +4937,42 @@ Flashcards.initialize([
     [
         "(I) went to the company without eating breakfast.",
         "{\u671d\u3054\u98ef|\u3042\u3055\u3054\u306f\u3093} \u3092 {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044} \u3067 {\u4f1a\u793e|\u304b\u3044\u3057\u3083} \u306b {\u884c\u304d\u307e\u3057\u305f|\u3044\u304d\u307e\u3057\u305f}\u3002",
-        "verb\u306a\u3044 + \u3067 + X = (did/happened) X without (doing) ~"
+        "verb\u306a\u3044 + \u3067 + X = (did/happened) X without (doing) ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(I) played the piano without practising.",
         "{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046} \u3092 \u3057\u306a\u3044 \u3067 \u30d4\u30a2\u30ce \u3092 {\u5f3e\u304d\u307e\u3057\u305f|\u3072\u304d\u307e\u3057\u305f}\u3002",
-        "verb\u306a\u3044 + \u3067 + X = (did/happened) X without (doing) ~"
+        "verb\u306a\u3044 + \u3067 + X = (did/happened) X without (doing) ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(I) want (you) not to write that report.",
         "\u305d\u306e \u30ec\u30dd\u30fc\u30c8 \u3092 {\u66f8\u304b\u306a\u3044|\u304b\u304b\u306a\u3044} \u3067 {\u6b32\u3057\u3044|\u307b\u3057\u3044} \u3067\u3059\u3002",
-        "verb\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~"
+        "verb\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(I) want (you) not to smoke cigarettes.",
         "{\u7159\u8349|\u305f\u3070\u3053} \u3092 {\u5438\u308f\u306a\u3044|\u3059\u308f\u306a\u3044} \u3067 {\u6b32\u3057\u3044|\u307b\u3057\u3044} \u3067\u3059\u3002",
-        "verb\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~"
+        "verb\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(I) want (you) not to drink up all the beer.",
         "\u30d3\u30fc\u30eb \u3092 {\u5168\u90e8|\u305c\u3093\u3076} {\u98f2\u3093\u3067|\u306e\u3093\u3067} {\u4ed5\u821e\u308f\u306a\u3044|\u3057\u307e\u308f\u306a\u3044} \u3067 {\u6b32\u3057\u3044|\u307b\u3057\u3044} \u3067\u3059\u3002",
-        "verb\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~\nverb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+        "verb\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~\nverb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(I) must call Mr. Hondo. {plain}",
         "{\u672c\u9285|\u307b\u3093\u3069\u3046} \u3055\u3093 \u306b {\u96fb\u8a71|\u3067\u3093\u308f} \u3057\u306a\u3051\u308c\u3070 \u306a\u3089\u306a\u3044\u3002",
-        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to"
+        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(I) must take the medicine.",
         "{\u85ac|\u304f\u3059\u308a} \u3092 {\u98f2\u307e\u306a\u3051\u308c\u3070|\u306e\u307e\u306a\u3051\u308c\u3070} \u306a\u308a\u307e\u305b\u3093\u3002",
-        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to"
+        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(I) must quit smoking.",
         "{\u7159\u8349|\u305f\u3070\u3053} \u3092 {\u6b62\u3081\u306a\u3051\u308c\u3070|\u3084\u3081\u306a\u3051\u308c\u3070} \u306a\u308a\u307e\u305b\u3093\u3002",
-        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to"
+        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "The fish must be fresh.",
@@ -4982,17 +4982,17 @@ Flashcards.initialize([
     [
         "(I) must go (home) already. {spoken plain, spoken plain}",
         "\u3082\u3046 {\u5e30\u3089\u306a\u304d\u3083|\u304b\u3048\u3089\u306a\u304d\u3083}\u3002 \u3082\u3046 {\u5e30\u3089\u306a\u304f\u3061\u3083|\u304b\u3048\u3089\u306a\u304f\u3061\u3083}\u3002",
-        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nspoken: \u306a\u304f\u3066\u306f --> \u306a\u304f\u3061\u3083, \u306a\u3051\u308c\u3070 --> \u306a\u304f\u3084"
+        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nspoken: \u306a\u304f\u3066\u306f --> \u306a\u304f\u3061\u3083, \u306a\u3051\u308c\u3070 --> \u306a\u304f\u3084\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(I) must go to Tokyo tomorrow.",
         "{\u660e\u65e5|\u3042\u3057\u305f} {\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046} \u3078 {\u884c\u304b\u306a\u304f\u3066|\u3044\u304b\u306a\u304f\u3066} \u306f \u306a\u308a\u307e\u305b\u3093\u3002",
-        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)"
+        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "An English teacher must be British.",
         "{\u82f1\u8a9e|\u3048\u3044\u3054} \u306e {\u5148\u751f|\u305b\u3093\u305b\u3044} \u306f \u30a4\u30ae\u30ea\u30b9 {\u4eba|\u3058\u3093} \u3067 \u306a\u3051\u308c\u3070 \u306a\u308a\u307e\u305b\u3093\u3002",
-        "noun/\u306a-adj. + \u3067 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, noun/\u306a-adj. + \u3067 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must be ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to"
+        "noun/\u306a-adj. + \u3067 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, noun/\u306a-adj. + \u3067 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must be ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}"
     ],
     [
         "The \"Hitchhiker's Guide to the Galaxy\" has arrived safely.",
@@ -5002,7 +5002,7 @@ Flashcards.initialize([
     [
         "(I) still must learn a lot of things.",
         "\u307e\u3060 {\u5b66\u3070\u306a\u3051\u308c\u3070|\u307e\u306a\u3070\u306a\u3051\u308c\u3070} \u306a\u3089\u306a\u3044 \u3053\u3068 \u304c {\u6ca2\u5c71|\u305f\u304f\u3055\u3093} \u3042\u308a\u307e\u3059\u3002",
-        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to"
+        "verb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "Thank you for the cute and heart-warming presents as well.",
@@ -5012,42 +5012,42 @@ Flashcards.initialize([
     [
         "(You) don't have to attend the meeting.",
         "{\u4f1a\u8b70|\u304b\u3044\u304e} \u306b {\u51fa\u5e2d|\u3057\u3085\u3063\u305b\u304d} \u3057\u306a\u304f\u3066 \u3082 \u3044\u3044 \u3067\u3059\u3002",
-        "verb\u306a\u3044 - \u3044 + \u304f\u3066 + \u3082 + \u3044\u3044 + \u3067\u3059 = don't have to ~"
+        "verb\u306a\u3044 - \u3044 + \u304f\u3066 + \u3082 + \u3044\u3044 + \u3067\u3059 = don't have to ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(You) don't have to buy that expensive camera.",
         "\u305d\u306e {\u9ad8\u3044|\u305f\u304b\u3044} \u30ab\u30e1\u30e9 \u3092 {\u8cb7\u308f\u306a\u304f\u3066|\u304b\u308f\u306a\u304f\u3066} \u3082 \u3044\u3044 \u3067\u3059\u3002",
-        "verb\u306a\u3044 - \u3044 + \u304f\u3066 + \u3082 + \u3044\u3044 + \u3067\u3059 = don't have to ~"
+        "verb\u306a\u3044 - \u3044 + \u304f\u3066 + \u3082 + \u3044\u3044 + \u3067\u3059 = don't have to ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(I'm) feeling sick, so is it okay (for me) to not go to the company?",
         "{\u6c17\u5206|\u304d\u3076\u3093} \u304c {\u60aa\u3044|\u308f\u308b\u3044} \u304b\u3089 {\u4f1a\u793e|\u304b\u3044\u3057\u3083} \u306b {\u884c\u304b\u306a\u304f\u3066|\u3044\u304b\u306a\u304f\u3066} \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u306a\u3044 - \u3044 + \u304f\u3066 + \u3082 + \u3044\u3044 + \u3067\u3059 = don't have to ~"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u306a\u3044 - \u3044 + \u304f\u3066 + \u3082 + \u3044\u3044 + \u3067\u3059 = don't have to ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(You) shouldn't smoke cigarettes.",
         "{\u7159\u8349|\u305f\u3070\u3053} \u3092 {\u5438\u308f\u306a\u3044|\u3059\u308f\u306a\u3044} \u307b\u3046 \u304c \u3044\u3044 \u3067\u3059\u3002",
-        "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~"
+        "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "It's better not to go home late.",
         "{\u9045\u304f|\u304a\u305d\u304f} {\u5bb6|\u3046\u3061} \u306b {\u5e30\u3089\u306a\u3044|\u304b\u3048\u3089\u306a\u3044} \u307b\u3046 \u304c \u3044\u3044 \u3067\u3059\u3002",
-        "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~"
+        "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(You) shouldn't take a day off work today.",
         "{\u4eca\u65e5|\u304d\u3087\u3046} {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3092 {\u4f11\u307e\u306a\u3044|\u3084\u3059\u307e\u306a\u3044} \u307b\u3046 \u304c \u3044\u3044 \u3067\u3059\u3002",
-        "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~"
+        "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(You) shouldn't phone Mr. Hondo late.",
         "{\u672c\u85e4|\u307b\u3093\u3069\u3046} \u3055\u3093 \u306b {\u9045\u304f|\u304a\u305d\u304f} {\u96fb\u8a71|\u3067\u3093\u308f} \u3057\u306a\u3044 \u307b\u3046 \u304c \u3044\u3044 \u3067\u3059\u3002",
-        "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~"
+        "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(You) may eat. (You) are not allowed to eat. Please eat. (I) want (you) to eat. (You) should eat. (You) shouldn't eat. Please don't eat. (I) want (you) not to eat. (You) must eat. (You) don't have to eat.",
         "{\u98df\u3079\u3066|\u305f\u3079\u3066} \u3082 \u3044\u3044 \u3067\u3059\u3002 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u306f \u3044\u3051\u307e\u305b\u3093\u3002 {\u98df\u3079\u3066|\u305f\u3079\u3066} \u304f\u3060\u3055\u3044\u3002 {\u98df\u3079\u3066|\u305f\u3079\u3066} {\u6b32\u3057\u3044|\u307b\u3057\u3044} \u3067\u3059\u3002 {\u98df\u3079\u305f|\u305f\u3079\u305f} \u307b\u3046 \u304c \u3044\u3044 \u3067\u3059\u3002 {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044} \u307b\u3046 \u304c \u3044\u3044 \u3067\u3059\u3002 {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044} \u3067 \u304f\u3060\u3055\u3044\u3002 {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044} \u3067 {\u6b32\u3057\u3044|\u307b\u3057\u3044} \u3067\u3059\u3002 {\u98df\u3079\u306a\u3051\u308c\u3070|\u305f\u3079\u306a\u3051\u308c\u3070} \u306a\u308a\u307e\u305b\u3093\u3002 {\u98df\u3079\u306a\u304f\u3066|\u305f\u3079\u306a\u304f\u3066} \u3082 \u3044\u3044 \u3067\u3059\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\n(A \u306b) verb\u3066 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)\nverb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~\nverb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~\nverb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nverb\u306a\u3044 - \u3044 + \u304f\u3066 + \u3082 + \u3044\u3044 + \u3067\u3059 = don't have to ~"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\n(A \u306b) verb\u3066 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} = I want (A) to do verb (for me)\nverb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~\nverb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u306a\u3044 + \u3067 + {\u6b32\u3057\u3044|\u307b\u3057\u3044} + \u3067\u3059 = (I) want (you) not to ~\nverb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nverb\u306a\u3044 - \u3044 + \u304f\u3066 + \u3082 + \u3044\u3044 + \u3067\u3059 = don't have to ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "The laundry fell off the balcony. {plain}",
@@ -5072,12 +5072,12 @@ Flashcards.initialize([
     [
         "While Mr. Yamada was cooking, Ms. Natsuko was reading a book. During the time that Mr. Yamada is in China, Ms. Natsuko will (be) looking for a job. During the time Miki was in America, (she) did (some) travelling.",
         "{\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u304c {\u6599\u7406|\u308a\u3087\u3046\u308a} \u3092 \u3057\u3066 \u3044\u308b {\u9593|\u3042\u3044\u3060}\u3001 {\u590f\u5b50|\u306a\u3064\u3053} \u3055\u3093 \u306f {\u672c|\u307b\u3093} \u3092 {\u8aad\u3093\u3067|\u3088\u3093\u3067} \u3044\u307e\u3057\u305f\u3002 {\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u304c {\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f} \u306b \u3044\u308b {\u9593|\u3042\u3044\u3060} \u306b\u3001 {\u590f\u5b50|\u306a\u3064\u3053} \u3055\u3093 \u306f {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3092 {\u63a2\u3057\u307e\u3059|\u3055\u304c\u3057\u307e\u3059}\u3002 {\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u306f \u30a2\u30e1\u30ea\u30ab \u306b \u3044\u308b {\u9593|\u3042\u3044\u3060} \u306b {\u65c5\u884c|\u308a\u3087\u3053\u3046} \u3092 \u3057\u3066 \u3044\u307e\u3057\u305f\u3002",
-        "(PersonA + \u304c) (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} (+ PersonB + \u306f) ... = throughout the whole time that A does/did ~, B does/did ~\n(PersonA + \u304c) (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} + \u306b (+ PersonB + \u306f) ... = at some point during A does/did ~, B does/did ~\nPerson + \u306f + (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} + \u306b = during A does/did ~, (he/she) does/did ~"
+        "(PersonA + \u304c) (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} (+ PersonB + \u306f) ... = throughout the whole time that A does/did ~, B does/did ~\n(PersonA + \u304c) (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} + \u306b (+ PersonB + \u306f) ... = at some point during A does/did ~, B does/did ~\nPerson + \u306f + (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} + \u306b = during A does/did ~, (he/she) does/did ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Leave a little space between the lines.",
         "{\u884c|\u304e\u3087\u3046} \u3068 {\u884c|\u304e\u3087\u3046} \u306e {\u9593|\u3042\u3044\u3060} {\u7a7a\u3051|\u3042\u3051} \u306a\u3055\u3044\u3002",
-        "nounA + \u3068 + nounB + \u306e + {\u9593|\u3042\u3044\u3060} + \u306b = between A and B\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)"
+        "nounA + \u3068 + nounB + \u306e + {\u9593|\u3042\u3044\u3060} + \u306b = between A and B\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Can (you) spare (me) a little time?",
@@ -5087,57 +5087,57 @@ Flashcards.initialize([
     [
         "(I) played golf before it rained.",
         "{\u96e8|\u3042\u3081} \u304c {\u964d\u3089\u306a\u3044|\u3075\u3089\u306a\u3044} \u3046\u3061 \u306b \u30b4\u30eb\u30d5 \u3092 \u3057\u307e\u3057\u305f\u3002",
-        "verb\u306a\u3044 + {\u5185|\u3046\u3061} + \u306b = before ~, while not ~"
+        "verb\u306a\u3044 + {\u5185|\u3046\u3061} + \u306b = before ~, while not ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "Please drink the tea while (it's) warm.",
         "{\u7d05\u8336|\u3053\u3046\u3061\u3083} \u304c {\u6e29\u304b\u3044|\u3042\u305f\u305f\u304b\u3044} \u3046\u3061 \u306b {\u98f2\u3093\u3067|\u306e\u3093\u3067} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Let's go home before it gets dark.",
         "{\u6697\u304f|\u304f\u3089\u304f} \u306a\u3089\u306a\u3044 \u3046\u3061 \u306b {\u5e30\u308a\u307e\u3057\u3087\u3046|\u304b\u3048\u308a\u307e\u3057\u3087\u3046}\u3002",
-        "verb\u306a\u3044 + {\u5185|\u3046\u3061} + \u306b = before ~, while not ~"
+        "verb\u306a\u3044 + {\u5185|\u3046\u3061} + \u306b = before ~, while not ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "Take one out of these five.",
         "\u3053\u306e {\u4e94\u3064|\u3044\u3064\u3064} \u306e \u3046\u3061 \u304b\u3089 {\u4e00\u3064|\u3072\u3068\u3064} {\u53d6\u308a|\u3068\u308a} \u306a\u3055\u3044\u3002",
-        "{\u5185|\u3046\u3061} + \u304b\u3089 = out of ~\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)"
+        "{\u5185|\u3046\u3061} + \u304b\u3089 = out of ~\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "If (you) come to China, please make contact.",
         "\u3082\u3057 {\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f} \u306b {\u6765\u305f\u3089|\u304d\u305f\u3089}\u3001 {\u9023\u7d61|\u308c\u3093\u3089\u304f} \u3057\u3066 \u304f\u3060\u3055\u3044\u3002",
-        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "When (I) drank the sake, (I) got a headache.",
         "{\u9152|\u3055\u3051} \u3092 {\u98f2\u3093\u3060\u3089|\u306e\u3093\u3060\u3089}\u3001 {\u982d|\u3042\u305f\u307e} \u304c {\u75db\u304f|\u3044\u305f\u304f} \u306a\u308a\u307e\u3057\u305f\u3002",
-        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)"
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "If it's not interesting, (I) don't want to read it. {plain}",
         "{\u9762\u767d\u304f\u306a\u304b\u3063\u305f\u3089|\u304a\u3082\u3057\u308d\u304f\u306a\u304b\u3063\u305f\u3089}\u3001 {\u8aad\u307f\u305f\u304f\u306a\u3044|\u3088\u307f\u305f\u304f\u306a\u3044} \u3088\u3002",
-        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)"
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "If (she's) not beautiful, (I) don't want to date (her).",
         "{\u5947\u9e97|\u304d\u308c\u3044} \u3058\u3083\u306a\u304b\u3063\u305f\u3089\u3001 \u30c7\u30fc\u30c8 \u3092 \u3057\u305f\u304f\u306a\u3044 \u3067\u3059\u3002",
-        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)"
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "If (you) don't eat (it), it won't do.",
         "{\u98df\u3079\u306a\u304b\u3063\u305f\u3089|\u305f\u3079\u306a\u304b\u3063\u305f\u3089}\u3001 {\u826f\u304f\u306a\u3044|\u3088\u304f\u306a\u3044} \u3067\u3059\u3002",
-        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)"
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "If that film had been interesting, (I) would have watched (it) all.",
         "\u305d\u306e {\u6620\u753b|\u3048\u3044\u304c} \u306f {\u9762\u767d\u304b\u3063\u305f\u3089|\u304a\u3082\u3057\u308d\u304b\u3063\u305f\u3089}\u3001 {\u5168\u90e8|\u305c\u3093\u3076} {\u898b\u307e\u3057\u305f|\u307f\u307e\u3057\u305f}\u3002",
-        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)"
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "If (you) like sumo, please watch tonight's tournament.",
         "{\u76f8\u64b2|\u3059\u3082\u3046} \u304c {\u597d\u304d|\u3059\u304d} \u3060\u3063\u305f\u3089\u3001 {\u4eca\u6669|\u3053\u3093\u3070\u3093} \u306e {\u8a66\u5408|\u3057\u3042\u3044} \u3092 {\u898b\u3066|\u307f\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "I gave a book to Mr. Yamada. {plain} I gave flowers to my older sister. {plain} Mr. Yamada gave flowers to Ms. Natsuko. {plain} My older sister gave Mr. Yamada a book. {plain}",
@@ -5157,32 +5157,32 @@ Flashcards.initialize([
     [
         "(My) friends waited for me. {grateful, plain} Mr. Yamada helped my younger brother. {grateful, plain}",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061} \u304c {\u5f85\u3063\u3066|\u307e\u3063\u3066} \u304f\u308c\u305f\u3002 {\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u304c {\u5f1f|\u304a\u3068\u3046\u3068} \u3092 {\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066} \u304f\u308c\u305f\u3002",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Would (you) be so kind to wait (for me)? Thank (you) very much for waiting (for me).",
         "{\u5f85\u3063\u3066|\u307e\u3063\u3066} \u304f\u308c\u307e\u305b\u3093 \u304b\u3002 {\u5f85\u3063\u3066|\u307e\u3063\u3066} \u304f\u308c\u3066\u3001 \u3042\u308a\u304c\u3068\u3046 \u3054\u3056\u3044\u307e\u3057\u305f\u3002",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "My younger brother waited for (his) friends. {plain} (I) helped my younger brother.",
         "{\u5f1f|\u304a\u3068\u3046\u3068} \u304c {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u3092 {\u5f85\u3063\u3066|\u307e\u3063\u3066} \u3042\u3052\u305f\u3002 {\u5f1f|\u304a\u3068\u3046\u3068} \u3092 {\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066} \u3042\u3052\u305f\u3002",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u4e0a\u3052\u308b|\u3042\u3052\u308b} = X(in) does ~ for Y(out) (never to superiors)"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u4e0a\u3052\u308b|\u3042\u3052\u308b} = X(in) does ~ for Y(out) (never to superiors)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "I got (my) friends to wait (for me). {plain} My younger brother got Mr. Yamada for a ride. {plain} Mr. Yamada got my older sister to help (him). {plain} Mr. Yamada got Ms. Natsuko to wait (for him). {plain}",
         "{\u79c1|\u308f\u305f\u3057} \u304c {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u306b {\u5f85\u3063\u3066|\u307e\u3063\u3066} \u3082\u3089\u3063\u305f\u3002 {\u5f1f|\u304a\u3068\u3046\u3068} \u304c {\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u306b {\u9001\u3063\u3066|\u304a\u304f\u3063\u3066} \u3082\u3089\u3063\u305f\u3002 {\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u304c {\u59c9|\u3042\u306d} \u306b {\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066} \u3082\u3089\u3063\u305f\u3002 {\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u304c {\u590f\u5b50|\u306a\u3064\u3053} \u3055\u3093 \u306b {\u5f85\u3063\u3066|\u307e\u3063\u3066} \u3082\u3089\u3063\u305f\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Could (I) get (you) to wait for me?",
         "{\u5f85\u3063\u3066|\u307e\u3063\u3066} \u3082\u3089\u3048\u307e\u305b\u3093 \u304b\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "If (I) have a chance, may (I) go to China to have fun? If (you) have a chance, please surely come to China to have fun, with your family.",
         "\u30c1\u30e3\u30f3\u30b9 \u304c \u3042\u3063\u305f\u3089\u3001 {\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f} \u3078 {\u904a\u3073|\u3042\u305d\u3073} \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066} \u3082 \u3044\u3044 \u3067\u3059 \u304b\u3002 \u3082\u3057\u30c1\u30e3\u30f3\u30b9 \u304c \u3042\u3063\u305f\u3089\u3001 {\u662f\u975e|\u305c\u3072} {\u3054\u5bb6\u65cf|\u3054\u304b\u305e\u304f} \u3067 {\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f} \u3078 {\u904a\u3073|\u3042\u305d\u3073} \u306b {\u6765\u3066|\u304d\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I'm) looking forward to it.",
@@ -5192,32 +5192,32 @@ Flashcards.initialize([
     [
         "If (you) want to go to China, before that, (you) must practice the piano every day.",
         "{\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f} \u306b {\u884c\u304d\u305f\u304b\u3063\u305f\u3089|\u3044\u304d\u305f\u304b\u3063\u305f\u3089}\u3001 \u305d\u306e {\u524d|\u307e\u3048} \u306b {\u6bce\u65e5|\u307e\u3044\u306b\u3061} \u30d4\u30a2\u30ce \u3092 {\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046} \u3057\u306a\u3051\u308c\u3070 \u306a\u308a\u307e\u305b\u3093 \u3088\u3002",
-        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to"
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "When do (you) plan to get married? (We) don't know yet clearly, but (we) hope to get married before going to China if (we) can.",
         "\u3044\u3064 {\u7d50\u5a5a|\u3051\u3063\u3053\u3093} \u3092 \u3059\u308b \u3064\u3082\u308a \u3067\u3059 \u304b\u3002 \u307e\u3060 \u306f\u3063\u304d\u308a {\u5206\u304b\u308a\u307e\u305b\u3093|\u308f\u304b\u308a\u307e\u305b\u3093} \u304c\u3001 \u3067\u304d\u305f\u3089\u3001 {\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f} \u306b {\u884c\u304f|\u3044\u304f} {\u524d|\u307e\u3048} \u306b {\u7d50\u5a5a|\u3051\u3063\u3053\u3093} \u3057\u305f\u3044 \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "verb\u3046 + \u3064\u3082\u308a = intend to ~\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3046 + {\u524d|\u307e\u3048} \u306b = before doing ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person"
+        "verb\u3046 + \u3064\u3082\u308a = intend to ~\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3046 + {\u524d|\u307e\u3048} \u306b = before doing ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(You) should get married while the weather isn't hot, shouldn't you? But (I) think if (you) do (it) suddenly, (that's) not good. Don't make excuses.",
         "{\u5929\u6c17|\u3066\u3093\u304d} \u304c {\u6691\u304f\u306a\u3044|\u3042\u3064\u304f\u306a\u3044} \u3046\u3061 \u306b {\u7d50\u5a5a|\u3051\u3063\u3053\u3093} \u3057\u305f \u307b\u3046 \u304c \u3044\u3044 \u3067\u3059 \u306d\u3002 {\u7136\u3057|\u3057\u304b\u3057}\u3001 {\u6025|\u304d\u3085\u3046} \u306b \u3057\u305f\u3089 \u3088\u304f\u306a\u3044 \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002 {\u8a00\u3044\u8a33|\u3044\u3044\u308f\u3051} \u3057\u306a\u3044 \u3067 \u304f\u3060\u3055\u3044\u3002",
-        "verb\u306a\u3044 + {\u5185|\u3046\u3061} + \u306b = before ~, while not ~\nverb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~"
+        "verb\u306a\u3044 + {\u5185|\u3046\u3061} + \u306b = before ~, while not ~\nverb\u305f + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 = you'd better do ~, you should do ~\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "Both Roger and Robert are nice people. (We) always spend fun times. {plain, female}",
         "\u30ed\u30b8\u30e3\u30fc \u3055\u3093 \u3082 \u30ed\u30d0\u30fc\u30c8 \u3055\u3093 \u3082 \u3068\u3066\u3082 \u3044\u3044 {\u4eba|\u3072\u3068} \u3060 \u3068 {\u601d\u3046|\u304a\u3082\u3046}\u3002 \u3044\u3064\u3082 {\u697d\u3057\u304f|\u305f\u306e\u3057\u304f} {\u904e\u3054\u3057\u3066|\u3059\u3054\u3057\u3066} \u3044\u308b \u308f\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u308f at end of sentence = women make informal statement softer or emotional, men may use it after ~\u307e\u3059/\u3067\u3059"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u308f at end of sentence = women make informal statement softer or emotional, men may use it after ~\u307e\u3059/\u3067\u3059\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "But Roger really loves (you) Miki. (I) think (you) must tell (him) about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
         "\u3067\u3082 \u30ed\u30b8\u30e3\u30fc \u3055\u3093 \u306f {\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u304c {\u672c\u5f53|\u307b\u3093\u3068\u3046} \u306b {\u597d\u304d|\u3059\u304d} \u3088\u3002 \u30ed\u30d0\u30fc\u30c8 \u3055\u3093 \u306e \u3053\u3068 \u3092 {\u8a00\u308f\u306a\u3051\u308c\u3070|\u3044\u308f\u306a\u3051\u308c\u3070} \u306a\u3089\u306a\u3044 \u3068 {\u601d\u3046|\u304a\u3082\u3046} \u308f\u3002 {\u5927\u4e08\u592b|\u3060\u3044\u3058\u3087\u3046\u3076} \u3088\u3002 {\u6628\u591c|\u3086\u3046\u3079} {\u4e09\u4eba|\u3055\u3093\u306b\u3093} \u3067 {\u904a\u3093\u3060|\u3042\u305d\u3093\u3060} \u304b\u3089\u3002",
-        "\u306a adj. + \u306b = adverb\nverb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\n\u308f at end of sentence = women make informal statement softer or emotional, men may use it after ~\u307e\u3059/\u3067\u3059"
+        "\u306a adj. + \u306b = adverb\nverb\u306a\u3044 - \u306a\u3044 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, verb\u306a\u3044 - \u306a\u3044 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\n\u308f at end of sentence = women make informal statement softer or emotional, men may use it after ~\u307e\u3059/\u3067\u3059\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(You) shouldn't date two people. It's cool. Don't worry. {plain}",
         "{\u4e8c\u4eba|\u3075\u305f\u308a} \u306e {\u4eba|\u3072\u3068} \u3068 \u30c7\u30fc\u30c8 \u3092 \u3057\u306a\u3044 \u307b\u3046 \u304c \u3044\u3044 \u3088\u3002 {\u5e73\u6c17|\u3078\u3044\u304d} \u3088\u3002 {\u5fc3\u914d|\u3057\u3093\u3071\u3044} \u3057\u306a\u3044 \u3067\u3002",
-        "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~"
+        "verb\u306a\u3044 + {\u65b9|\u307b\u3046} + \u304c + \u3044\u3044 + \u3067\u3059 = shouldn't ~\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(I) wish (you) a happy New Year! Please be kind to each other this year as well.",
@@ -5247,27 +5247,27 @@ Flashcards.initialize([
     [
         "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. It contains things of higher price than itself.",
         "{\u798f\u888b|\u3075\u304f\u3076\u304f\u308d}: {\u304a\u6b63\u6708|\u304a\u3057\u3087\u3046\u304c\u3064} \u306b \u30c7\u30d1\u30fc\u30c8 \u3084 {\u5e97|\u307f\u305b} \u306a\u3069 \u3067 {\u58f2\u308a\u307e\u3059|\u3046\u308a\u307e\u3059}\u3002 {\u5024\u6bb5|\u306d\u3060\u3093} \u3088\u308a {\u9ad8\u3044\u7269|\u305f\u304b\u3044\u3082\u306e} \u304c {\u5165\u3063\u3066|\u306f\u3044\u3063\u3066} \u3044\u307e\u3059\u3002",
-        "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "A \u3084 B \u3084 C \u306a\u3069 = A, B, C, etc.\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nmotion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Sometimes (I) make Japanese cuisine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
         "{\u6642\u3005|\u3068\u304d\u3069\u304d} {\u65e5\u672c\u6599\u7406|\u306b\u307b\u3093 \u308a\u3087\u3046\u308a} \u3092 {\u4f5c\u308b|\u3064\u304f\u308b} \u3053\u3068 \u304c \u3042\u308a\u307e\u3059\u3002 {\u4e00\u30f6\u6708|\u3044\u3063\u304b\u3052\u3064}\u3001 {\u96e8|\u3042\u3081} \u304c {\u964d\u3089\u306a\u3044|\u3075\u3089\u306a\u3044} \u3053\u3068 \u304c \u3042\u308a\u307e\u3059\u3002 \u3044\u3064\u3082 \u30b8\u30fc\u30f3\u30ba \u3060 \u3051\u3069\u3001 {\u6642\u3005|\u3068\u304d\u3069\u304d} \u30b9\u30ab\u30fc\u30c8 \u3092 {\u5c65\u304f|\u306f\u304f} \u3053\u3068 \u304c \u3042\u308a\u307e\u3059\u3002",
-        "verb\u3046 + \u3053\u3068 + \u304c + \u3042\u308b = sometimes/occasionally ~\nverb\u306a\u3044 + \u3053\u3068 + \u304c + \u3042\u308b = sometimes/occasionally not ~\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "verb\u3046 + \u3053\u3068 + \u304c + \u3042\u308b = sometimes/occasionally ~\nverb\u306a\u3044 + \u3053\u3068 + \u304c + \u3042\u308b = sometimes/occasionally not ~\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
         "{\u4eca\u65e5|\u304d\u3087\u3046} \u306f \u30b1\u30fc\u30c6\u30a3 \u3068 {\u79c1\u9054|\u308f\u305f\u3057\u305f\u3061} \u306e \u305f\u3081 \u306b \u3053\u3093\u306a \u306b {\u76db\u5927|\u305b\u3044\u3060\u3044} \u306a {\u9001\u5225\u4f1a|\u305d\u3046\u3079\u3064\u304b\u3044} \u3068 {\u7d50\u5a5a|\u3051\u3063\u3053\u3093} {\u524d\u591c|\u305c\u3093\u3084} {\u53bb\u308a|\u3055\u308a} \u3092 {\u958b\u3044\u3066|\u3072\u3089\u3044\u3066} \u304f\u3060\u3055\u3063\u3066 \u3042\u308a\u304c\u3068\u3046 \u3054\u3056\u3044\u307e\u3059\u3002 \u3068\u3066\u3082 {\u611f\u8b1d|\u304b\u3093\u3057\u3083} \u3057\u3066\u3044\u307e\u3059\u3002",
-        "\u306a adj. + \u306b = adverb\n\u3068: complete list\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "\u306a adj. + \u306b = adverb\n\u3068: complete list\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "While (we) were in Japan, (we) met many people and learned many things. People in Japan were very kind and have really looked after us.",
         "{\u65e5\u672c|\u306b\u307b\u3093} \u306b \u3044\u308b {\u9593|\u3042\u3044\u3060}\u3001 {\u6ca2\u5c71|\u305f\u304f\u3055\u3093} \u306e {\u4eba\u9054|\u3072\u3068\u305f\u3061} \u306b {\u4f1a\u3044|\u3042\u3044}\u3001 {\u6ca2\u5c71|\u305f\u304f\u3055\u3093} \u306e \u3053\u3068 \u3092 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u307e\u3057\u305f\u3002 {\u65e5\u672c|\u306b\u307b\u3093} \u306e {\u7686\u3055\u3093|\u307f\u306a\u3055\u3093} \u306f \u3068\u3066\u3082 {\u89aa\u5207|\u3057\u3093\u305b\u3064} \u3067 {\u5927\u5909|\u305f\u3044\u3078\u3093} {\u304a\u4e16\u8a71|\u304a\u305b\u308f} \u306b \u306a\u308a\u307e\u3057\u305f\u3002",
-        "(PersonA + \u304c) (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} (+ PersonB + \u306f) ... = throughout the whole time that A does/did ~, B does/did ~\n\u306a-adj. + \u3067 = adj. and ..."
+        "(PersonA + \u304c) (verb\u3066 +) \u3044\u308b + {\u9593|\u3042\u3044\u3060} (+ PersonB + \u306f) ... = throughout the whole time that A does/did ~, B does/did ~\n\u306a-adj. + \u3067 = adj. and ...\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(We) will go to China next month, but (we) still had lots of things (we) want to do and places (we) want to see, so it's a bit of a shame. But one day (we) want to come to Japan again and see everybody.",
         "{\u6765\u6708|\u3089\u3044\u3052\u3064} {\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f} \u3078 {\u884c\u304f|\u3044\u304f} \u3053\u3068 \u306b \u306a\u308a\u307e\u3057\u305f \u304c \u307e\u3060 \u3057\u305f\u3044 \u3053\u3068 \u3084 {\u898b\u305f\u3044|\u307f\u305f\u3044} {\u6240|\u3068\u3053\u308d} \u304c \u3042\u3063\u305f \u306e \u3067\u3001 {\u5c11\u3057|\u3059\u3053\u3057} {\u6b8b\u5ff5|\u3056\u3093\u306d\u3093} \u3067\u3059\u3002 \u3067\u3082\u3001 \u307e\u305f \u3044\u3064\u304b {\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u6765\u3066|\u304d\u3066}\u3001 {\u7686\u3055\u3093|\u307f\u306a\u3055\u3093} \u3068 {\u4f1a\u3044\u305f\u3044|\u3042\u3044\u305f\u3044} \u3067\u3059\u3002",
-        "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u3084: incomplete list\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb\u3046\u3053\u3068 + \u306b + {\u6210\u308b|\u306a\u308b}/{\u6210\u3063\u305f|\u306a\u3063\u305f} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ \u3059\u308b)\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\n~\u305f\u3044 is usually used only in first person or in questions for the second person\n\u3084: incomplete list\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Thank you for everything.",
@@ -5277,22 +5277,22 @@ Flashcards.initialize([
     [
         "If (you) have a chance to come to China, please be sure to contact (us).",
         "\u3082\u3057 {\u4e2d\u56fd|\u3061\u3085\u3046\u3054\u304f} \u306b {\u6765\u308b|\u304f\u308b} \u30c1\u30e3\u30f3\u30b9 \u304c \u3042\u3063\u305f\u3089\u3001 {\u662f\u975e|\u305c\u3072} {\u9023\u7d61|\u308c\u3093\u3089\u304f} \u3057\u3066 \u304f\u3060\u3055\u3044\u3002",
-        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) start work after changing into (my) uniform.",
         "{\u5236\u670d|\u305b\u3044\u3075\u304f} \u306b {\u7740\u66ff\u3048\u3066|\u304d\u304c\u3048\u3066} \u304b\u3089 {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3092 {\u59cb\u3081\u307e\u3059|\u306f\u3058\u3081\u307e\u3059}\u3002",
-        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
+        "verb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "I went to Hiroshima long ago.",
         "{\u79c1|\u308f\u305f\u3057} \u306f {\u6614|\u3080\u304b\u3057} {\u5e83\u5cf6|\u3072\u308d\u3057\u307e} \u306b {\u884c\u3063\u305f|\u3044\u3063\u305f} \u3053\u3068 \u304c \u3042\u308a\u307e\u3059\u3002",
-        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) haven't even once climbed Mt. Fuji yet.",
         "\u307e\u3060 {\u4e00\u5ea6|\u3044\u3061\u3069} \u3082 {\u5bcc\u58eb\u5c71|\u3075\u3058\u3055\u3093} \u306b {\u767b\u3063\u305f|\u306e\u307c\u3063\u305f} \u3053\u3068 \u304c \u3042\u308a\u307e\u305b\u3093\u3002",
-        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "How did (you) come? (I) came by bus. {plain} Why did (you) come? Because (I'm) free. {plain, colloquial}",
@@ -5307,12 +5307,12 @@ Flashcards.initialize([
     [
         "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
         "{\u4e00\u751f\u61f8\u547d|\u3044\u3063\u3057\u3087\u3046\u3051\u3093\u3081\u3044} {\u4f5c\u6587|\u3055\u304f\u3076\u3093} \u3092 {\u66f8\u3044\u3066|\u304b\u3044\u3066} \u3044\u307e\u3059 \u304c\u3001 \u3084\u3063\u3071\u308a \u307e\u3060 {\u591a\u304f|\u304a\u304a\u304f} \u306e {\u8a00\u8449|\u3053\u3068\u3070} \u3092 {\u77e5\u3089\u306a\u3044|\u3057\u3089\u306a\u3044} \u3057\u3001 {\u6642\u9593|\u3058\u304b\u3093} \u3082 {\u5c11\u3057|\u3059\u3053\u3057} \u3060\u3051 \u3057\u304b \u3042\u308a\u307e\u305b\u3093\u3002 \u3042\u3042\u3001 \u3044\u3064\u3082 {\u8a00\u3044\u8a33|\u3044\u3044\u308f\u3051} \u3067\u3059 \u306d\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\n\u3057 at end of clause = multiple reasons, etc."
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\n\u3057 at end of clause = multiple reasons, etc.\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) might have gained around 2 kilos. (I've) gained even 2 kilos. (I) might have gained as much as 2 kilos. (I've) gained as much as 2 kilos. (I've) gained at least 2 kilos.",
         "2 \u30ad\u30ed \u3050\u3089\u3044 {\u592a\u3063\u305f|\u3075\u3068\u3063\u305f} \u304b \u3082 \u3057\u308c\u307e\u305b\u3093\u3002 2 \u30ad\u30ed \u3082 {\u592a\u308a\u307e\u3057\u305f|\u3075\u3068\u308a\u307e\u3057\u305f}\u3002 2 \u30ad\u30ed \u307b\u3069 {\u592a\u3063\u305f|\u3075\u3068\u3063\u305f} \u304b \u3082 \u3057\u308c\u307e\u305b\u3093\u3002 2 \u30ad\u30ed \u307b\u3069 {\u592a\u308a\u307e\u3057\u305f|\u3075\u3068\u308a\u307e\u3057\u305f}\u3002 2 \u30ad\u30ed \u306f {\u592a\u308a\u307e\u3057\u305f|\u3075\u3068\u308a\u307e\u3057\u305f}\u3002",
-        "verb\u305f + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might have done ~"
+        "verb\u305f + \u304b + \u3082 + \u3057\u308c\u307e\u305b\u3093/\u3057\u308c\u306a\u3044 = might have done ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) got this notebook from the school. (I) received a scholarship from the Brazilian government.",
@@ -5332,7 +5332,7 @@ Flashcards.initialize([
     [
         "(I) have not drawn a written fortune at a shrine yet.",
         "\u307e\u3060 {\u795e\u793e|\u3058\u3093\u3058\u3083} \u3067 \u304a\u307f\u304f\u3058 \u3092 {\u5f15\u3044\u305f|\u3072\u3044\u305f} \u3053\u3068 \u304c \u3042\u308a\u307e\u305b\u3093\u3002",
-        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences"
+        "verb\u305f + \u3053\u3068 + \u304c + \u3042\u308b = have done ~ (haven't done ~, have never done ~), past experiences\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(My) friend and (I) have decided to go to Shinjuku tomorrow. {plain}",
@@ -5347,12 +5347,12 @@ Flashcards.initialize([
     [
         "(I'll) watch the weather forecast whether it'll rain tomorrow. (I) don't know if the school is close to the station. (I'll) try to ask Natsuko if (she's) free tomorrow.",
         "{\u660e\u65e5|\u3042\u3057\u305f}\u3001 {\u96e8|\u3042\u3081} \u304c {\u964d\u308b|\u3075\u308b} \u304b \u3069\u3046 \u304b\u3001 {\u5929\u6c17\u4e88\u5831|\u3066\u3093\u304d\u3088\u307b\u3046} \u3092 {\u898b\u307e\u3059|\u307f\u307e\u3059}\u3002 {\u5b66\u6821|\u304c\u3063\u3053\u3046} \u304c {\u99c5|\u3048\u304d} \u304b\u3089 {\u8fd1\u3044|\u3061\u304b\u3044} \u304b \u3069\u3046 \u304b {\u5206\u304b\u308a\u307e\u305b\u3093|\u308f\u304b\u308a\u307e\u305b\u3093}\u3002 {\u660e\u65e5|\u3042\u3057\u305f}\u3001 {\u6687|\u3072\u307e} \u304b \u3069\u3046 \u304b\u3001 {\u590f\u5b50|\u306a\u3064\u3053} \u3055\u3093 \u306b {\u805e\u3044\u3066|\u304d\u3044\u3066} \u307f\u307e\u3059\u3002",
-        "verb\u3046/\u3044adj/\u306aadj/noun + \u304b\u3069\u3046\u304b = whether/if\nverb\u3066 + \u307f\u308b = try doing ~"
+        "verb\u3046/\u3044adj/\u306aadj/noun + \u304b\u3069\u3046\u304b = whether/if\nverb\u3066 + \u307f\u308b = try doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I've) repaired the computer, so (now it) works. {\u306e \u3067} {plain} (I) don't catch cold since taking to running every morning.",
         "\u30d1\u30bd\u30b3\u30f3 \u3092 {\u76f4\u3057\u305f|\u306a\u304a\u3057\u305f} \u306e \u3067 {\u52d5\u304f|\u3046\u3054\u304f} \u3088\u3046 \u306b \u306a\u3063\u305f\u3002 {\u6bce\u671d|\u307e\u3044\u3042\u3055}\u3001 {\u8d70\u308b|\u306f\u3057\u308b} \u3088\u3046 \u306b \u306a\u3063\u3066 \u304b\u3089\u3001 {\u98a8\u90aa|\u304b\u305c} \u3092 {\u5f15\u304d\u307e\u305b\u3093|\u3072\u304d\u307e\u305b\u3093}\u3002",
-        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nverb\u3046 + {\u69d8|\u3088\u3046} + \u306b + {\u6210\u308b|\u306a\u308b} = change in habitual action\nverb\u3066 + \u304b\u3089 = after doing ~, since doing ~"
+        "\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nverb\u3046 + {\u69d8|\u3088\u3046} + \u306b + {\u6210\u308b|\u306a\u308b} = change in habitual action\nverb\u3066 + \u304b\u3089 = after doing ~, since doing ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "On the way home, it suddenly started to rain. The baby suddenly started crying loudly. {plain}",
@@ -5362,12 +5362,12 @@ Flashcards.initialize([
     [
         "(My) younger brother, who was reading a manga, suddenly burst out laughing. {plain} The father lost his temper with the children who just wouldn't stop (playing) video games. {plain}",
         "{\u6f2b\u753b|\u307e\u3093\u304c} \u3092 {\u8aad\u3093\u3067|\u3088\u3093\u3067} \u3044\u305f {\u5f1f|\u304a\u3068\u3046\u3068} \u304c\u3001 {\u6025|\u304d\u3085\u3046} \u306b {\u7b11\u3044\u51fa\u3057\u305f|\u308f\u3089\u3044\u3060\u3057\u305f}\u3002 \u3044\u3064\u307e\u3067 \u3082 \u30c6\u30ec\u30d3\u30fb\u30b2\u30fc\u30e0 \u3092 {\u6b62\u3081\u306a\u3044|\u3084\u3081\u306a\u3044} {\u5b50\u4f9b\u9054|\u3053\u3069\u3082\u305f\u3061} \u306b {\u7236\u89aa|\u3061\u3061\u304a\u3084} \u304c {\u6012\u308a\u51fa\u3057\u305f|\u304a\u3053\u308a\u3060\u3057\u305f}\u3002",
-        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\n\u306a adj. + \u306b = adverb"
+        "verb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\n\u306a adj. + \u306b = adverb\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) want to buy this all, but (I'm) worried if (my) money is enough.",
         "\u3053\u308c \u3092 {\u5168\u90e8|\u305c\u3093\u3076} {\u8cb7\u3044\u305f\u3044|\u304b\u3044\u305f\u3044} \u3051\u308c\u3069\u3001 {\u304a\u91d1|\u304a\u304b\u306d} \u304c {\u8db3\u308a\u308b|\u305f\u308a\u308b} \u304b \u3069\u3046 \u304b {\u5fc3\u914d|\u3057\u3093\u3071\u3044} \u3067\u3059\u3002",
-        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u3046/\u3044adj/\u306aadj/noun + \u304b\u3069\u3046\u304b = whether/if\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "verb-stem + \u305f\u3044 = want to ~\n~\u305f\u3044 is usually used only in first person or in questions for the second person\nverb\u3046/\u3044adj/\u306aadj/noun + \u304b\u3069\u3046\u304b = whether/if\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(I) was surprised, because the car suddenly started moving. {\u304b\u3089}",
@@ -5387,12 +5387,12 @@ Flashcards.initialize([
     [
         "(I) was in a hurry, and (I) rushed out, and (I) fell on the stairs. {plain}",
         "{\u6025\u3044\u3067|\u3044\u305d\u3044\u3067}\u3001 {\u5bb6|\u3044\u3048} \u3092 {\u98db\u3073\u51fa\u3057\u3066|\u3068\u3073\u3060\u3057\u3066}\u3001 {\u968e\u6bb5|\u304b\u3044\u3060\u3093} \u3067 {\u8ee2\u3093\u3060|\u3053\u308d\u3093\u3060}\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Let's get (him) called at the reception!",
         "{\u53d7\u4ed8|\u3046\u3051\u3064\u3051} \u3067 {\u547c\u3073\u51fa\u3057\u3066|\u3088\u3073\u3060\u3057\u3066} \u3082\u3089\u3044\u307e\u3057\u3087\u3046\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(You're) lying, aren't (you)? {plain}",
@@ -5402,42 +5402,42 @@ Flashcards.initialize([
     [
         "Carlos treated (me) to ramen. {plain}",
         "\u30ab\u30eb\u30ed\u30b9 \u306b \u30e9\u30e1\u30f3 \u3092 {\u5962\u3063\u3066|\u304a\u3054\u3063\u3066} \u3082\u3089\u3063\u305f\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(My) husband finishes all the leftover food (for me).",
         "{\u6b8b\u3063\u305f|\u306e\u3053\u3063\u305f} {\u6599\u7406|\u308a\u3087\u3046\u308a} \u306f\u3001 {\u592b|\u304a\u3063\u3068} \u304c {\u5168\u90e8|\u305c\u3093\u3076} {\u98df\u3079\u3066|\u305f\u3079\u3066} \u304f\u308c\u307e\u3059\u3002",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I'll) have (my) friend lend (me) a CD. {plain}",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061} \u306b CD \u3092 {\u8cb8\u3057\u3066|\u304b\u3057\u3066} \u3082\u3089\u3046\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I'll) carry the children's luggage.",
         "{\u5b50\u4f9b|\u3053\u3069\u3082} \u306e {\u8377\u7269|\u306b\u3082\u3064} \u3092 {\u6301\u3063\u3066|\u3082\u3063\u3066} \u3084\u308a\u307e\u3059\u3002",
-        "X \u306f/\u304c Y \u306b verb\u3066 {\u9063\u308b|\u3084\u308b} = X does ~ for Y (animal, plant)"
+        "X \u306f/\u304c Y \u306b verb\u3066 {\u9063\u308b|\u3084\u308b} = X does ~ for Y (animal, plant)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(We) finished cooking at last. (We) started eating right away.",
         "\u3084\u3063\u3068 {\u4f5c\u308a\u7d42\u308f\u308a\u307e\u3057\u305f|\u3064\u304f\u308a\u304a\u308f\u308a\u307e\u3057\u305f}\u3002 {\u76f4\u3050|\u3059\u3050} \u306b {\u98df\u3079\u59cb\u3081\u307e\u3057\u305f|\u305f\u3079\u306f\u3058\u3081\u307e\u3057\u305f}\u3002",
-        "verb-stem + {\u59cb\u3081\u308b|\u306f\u3058\u3081\u308b} = start doing ~\nverb-stem + {\u7d42\u308f\u308b|\u304a\u308f\u308b} = finish doing ~"
+        "verb-stem + {\u59cb\u3081\u308b|\u306f\u3058\u3081\u308b} = start doing ~\nverb-stem + {\u7d42\u308f\u308b|\u304a\u308f\u308b} = finish doing ~\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I) started learning Japanese last week. {plain}",
         "{\u5148\u9031|\u305b\u3093\u3057\u3085\u3046} \u304b\u3089 {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u7fd2\u3044\u59cb\u3081\u305f|\u306a\u3089\u3044\u306f\u3058\u3081\u305f}\u3002",
-        "verb-stem + {\u59cb\u3081\u308b|\u306f\u3058\u3081\u308b} = start doing ~"
+        "verb-stem + {\u59cb\u3081\u308b|\u306f\u3058\u3081\u308b} = start doing ~\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Please wait until everyone has finished eating.",
         "{\u7686|\u307f\u3093\u306a} \u304c {\u98df\u3079\u7d42\u308f\u308b|\u305f\u3079\u304a\u308f\u308b} \u307e\u3067\u3001 {\u5f85\u3063\u3066|\u307e\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb-stem + {\u7d42\u308f\u308b|\u304a\u308f\u308b} = finish doing ~"
+        "verb-stem + {\u7d42\u308f\u308b|\u304a\u308f\u308b} = finish doing ~\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
         "{\u6fe1\u308c\u3066|\u306c\u308c\u3066} \u3044\u306a\u3044 \u306d\u3002 {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u304c {\u8eca|\u304f\u308b\u307e} \u3067 {\u9001\u3063\u3066|\u304a\u304f\u3063\u3066} \u304f\u308c\u305f \u304b\u3089\u3001 {\u52a9\u304b\u3063\u305f|\u305f\u3059\u304b\u3063\u305f} \u3088\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nX \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nX \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "I turned on the lights. The lights turned on. {plain}",
@@ -5527,57 +5527,57 @@ Flashcards.initialize([
     [
         "At the training, (we) kick the ball and run.",
         "{\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046} \u3067 \u306f\u3001 \u30dc\u30fc\u30eb \u3092 {\u8e74\u3063\u305f\u308a|\u3051\u3063\u305f\u308a}\u3001 {\u8d70\u3063\u305f\u308a|\u306f\u3057\u3063\u305f\u308a} \u3057\u307e\u3059\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) learned Japanese by listening to Japanese CDs and watching TV.",
         "{\u65e5\u672c|\u306b\u307b\u3093} \u306e CD \u3092 {\u805e\u3044\u305f\u308a|\u304d\u3044\u305f\u308a}\u3001 \u30c6\u30ec\u30d3 \u3092 {\u898b\u305f\u308a|\u307f\u305f\u308a} \u3057\u3066 {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u899a\u3048\u307e\u3057\u305f|\u304a\u307c\u3048\u307e\u3057\u305f}\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "That kid has been playing going up and down the stairs for a while now.",
         "\u3042\u306e {\u5b50\u4f9b|\u3053\u3069\u3082} \u306f\u3001 \u3055\u3063\u304d \u304b\u3089 {\u968e\u6bb5|\u304b\u3044\u3060\u3093} \u3092 {\u4e0a\u3063\u305f\u308a|\u306e\u307c\u3063\u305f\u308a} {\u4e0b\u308a\u3063\u305f\u308a|\u304a\u308a\u3063\u305f\u308a} \u3057\u3066 {\u904a\u3093\u3067|\u3042\u305d\u3093\u3067} \u3044\u307e\u3059\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Yesterday (my) father had slept leaving the TV on.",
         "{\u7236|\u3061\u3061} \u306f\u3001 {\u6628\u65e5|\u304d\u306e\u3046}\u3001 \u30c6\u30ec\u30d3 \u3092 {\u70b9\u3051\u305f|\u3064\u3051\u305f} \u307e\u307e {\u5bdd\u3066|\u306d\u3066} \u3044\u307e\u3057\u305f\u3002",
-        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(You'll) catch a cold if (you) stay wet. {plain}",
         "{\u96e8|\u3042\u3081} \u306b {\u6fe1\u308c\u305f|\u306c\u308c\u305f} \u307e\u307e \u3060 \u3068\u3001 {\u98a8\u90aa|\u304b\u305c} \u3092 {\u5f15\u304f|\u3072\u304f} \u3088\u3002",
-        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)"
+        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "That T-shirt suits (you) well. Why don't you buy it?",
         "\u305d\u306e T \u30b7\u30e3\u30c4\u3001 \u3088\u304f {\u4f3c\u5408\u3046|\u306b\u3042\u3046} \u3088\u3002 {\u8cb7\u3063\u305f\u3089|\u304b\u3063\u305f\u3089} \u3069\u3046\uff1f",
-        "\u3044 adj. - \u3044 + \u304f = adverb\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)"
+        "\u3044 adj. - \u3044 + \u304f = adverb\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(He) went shopping and has not come back yet.",
         "{\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e} \u306b {\u884c\u3063\u305f|\u3044\u3063\u305f} \u307e\u307e\u3001 \u307e\u3060 {\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066} \u304d\u307e\u305b\u3093\u3002",
-        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Don't eat in (your) pajamas. {plain}",
         "\u30d1\u30b8\u30e3\u30de \u3092 {\u7740\u305f|\u304d\u305f} \u307e\u307e\u3001 {\u98df\u4e8b|\u3057\u3087\u304f\u3058} \u3092 \u3057\u306a\u3044 \u3067\u3002",
-        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~"
+        "verb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(You) have fever? Why don't (you) take (some) medicine? {plain}",
         "{\u71b1|\u306d\u3064} \u304c \u3042\u308b \u306e\uff1f {\u85ac|\u304f\u3059\u308a} \u3092 {\u98f2\u3093\u3060\u3089|\u306e\u3093\u3060\u3089} \u3069\u3046\uff1f",
-        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Even if (I) work every day, (my) savings don't increase. {plain}",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u50cd\u3044\u3066|\u306f\u305f\u3089\u3044\u3066} \u3082\u3001 {\u8caf\u91d1|\u3061\u3087\u304d\u3093} \u304c {\u5897\u3048\u306a\u3044|\u3075\u3048\u306a\u3044}\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "In the restaurant, (they) wash and cut the vegetables.",
         "\u30ec\u30b9\u30c8\u30e9\u30f3 \u3067 {\u91ce\u83dc|\u3084\u3055\u3044} \u3092 {\u6d17\u3063\u305f\u308a|\u3042\u3089\u3063\u305f\u308a}\u3001 {\u5207\u3063\u305f\u308a|\u304d\u3063\u305f\u308a} \u3057\u3066 \u3044\u307e\u3059\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "Even if it rains, (I'll) go out by bike.",
@@ -5627,7 +5627,7 @@ Flashcards.initialize([
     [
         "A pine tree stands in front of his house. {plain}",
         "{\u5f7c|\u304b\u308c} \u306e {\u5bb6|\u3044\u3048} \u306e {\u524d|\u307e\u3048} \u306b \u306f {\u677e|\u307e\u3064} \u306e {\u6728|\u304d} \u304c {\u7acb\u3063\u3066|\u305f\u3063\u3066} \u3044\u308b\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "There's one old cherry tree in the garden.",
@@ -5637,7 +5637,7 @@ Flashcards.initialize([
     [
         "The roses are in bloom. {plain}",
         "{\u8594\u8587|\u30d0\u30e9} \u304c {\u54b2\u3044\u3066|\u3055\u3044\u3066} \u3044\u308b\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Take your time. There's no need to hurry. It's okay any time. There's no need to hurry, so please do it when (you) have the time. As long as you wish.",
@@ -5652,37 +5652,37 @@ Flashcards.initialize([
     [
         "(I'll) take a spot for Hanami.",
         "{\u304a\u82b1\u898b|\u304a\u306f\u306a\u307f} \u306e {\u5834\u6240|\u3070\u3057\u3087} \u3092 {\u53d6\u3063\u3066|\u3068\u3063\u3066} \u304a\u304d\u307e\u3059\u3002",
-        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please leave that as it is without putting it away.",
         "\u305d\u308c\u3001 {\u7247\u4ed8\u3051\u306a\u3044|\u304b\u305f\u3065\u3051\u306a\u3044} \u3067\u3001 \u305d\u306e \u307e\u307e {\u51fa\u3057\u3066|\u3060\u3057\u3066} \u304a\u3044\u3066 \u304f\u3060\u3055\u3044\u3002",
-        "verb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\n"
+        "verb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\n\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "Should (I) turn off the air conditioner? It's hot, so leave it on. {plain}",
         "\u300c\u30a8\u30a2\u30b3\u30f3\u3001 {\u6d88\u3057\u307e\u3057\u3087\u3046|\u3051\u3057\u307e\u3057\u3087\u3046} \u304b\u3002\u300d \u300c{\u6691\u3044|\u3042\u3064\u3044} \u304b\u3089\u3001 {\u70b9\u3051\u3066|\u3064\u3051\u3066} \u304a\u3044\u3066\u3002\u300d",
-        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "It's OK to be a bit loud at Hanami.",
         "{\u304a\u82b1\u898b|\u304a\u306f\u306a\u307f} \u306f\u3001 {\u5c11\u3057|\u3059\u3053\u3057} {\u9a12\u3044\u3067|\u3055\u308f\u3044\u3067} \u3082 \u3044\u3044 \u3093 \u3067\u3059\u3002",
-        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Mom, (I) have finished (my) homework, so can (I) go to play? {plain}",
         "{\u304a\u6bcd\u3055\u3093|\u304a\u304b\u3042\u3055\u3093}\u3001 {\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u306f {\u6e08\u3093\u3060|\u3059\u3093\u3060} \u304b\u3089\u3001 {\u904a\u3073|\u3042\u305d\u3073} \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066} \u3082 \u3044\u3044\uff1f",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Would it be a problem if (I) took next week's Friday off?",
         "{\u6765\u9031|\u3089\u3044\u3057\u3085\u3046} \u306e {\u91d1\u66dc\u65e5|\u304d\u3093\u3088\u3046\u3073}\u3001 {\u4f11\u3093\u3067|\u3084\u3059\u3093\u3067} \u3082 {\u69cb\u3044\u307e\u305b\u3093|\u304b\u307e\u3044\u307e\u305b\u3093} \u304b\u3002",
-        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "verb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "The room is spacious, so it's not a problem if many come.",
         "{\u90e8\u5c4b|\u3078\u3084} \u304c {\u5e83\u3044|\u3072\u308d\u3044} \u304b\u3089\u3001 {\u5927\u52e2|\u304a\u304a\u305c\u3044} {\u6765\u3066|\u304d\u3066} \u3082 {\u69cb\u3044\u307e\u305b\u3093|\u304b\u307e\u3044\u307e\u305b\u3093} \u3088\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "No heat or cold lasts beyond the equinox.",
@@ -5697,17 +5697,17 @@ Flashcards.initialize([
     [
         "(The number of) foreigners living in Japan keeps increasing steadily.",
         "{\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u4f4f\u3080|\u3059\u3080} {\u5916\u56fd\u4eba|\u304c\u3044\u3053\u304f\u3058\u3093} \u306f\u3001 \u3069\u3093\u3069\u3093 {\u5897\u3048\u7d9a\u3051\u3066|\u3075\u3048\u3064\u3065\u3051\u3066} \u3044\u307e\u3059\u3002",
-        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I've) kept calling for a while now, but no one is answering. {plain}",
         "\u3055\u3063\u304d \u304b\u3089 {\u96fb\u8a71|\u3067\u3093\u308f} \u3092 {\u639b\u3051\u7d9a\u3051\u3066|\u304b\u3051\u3064\u3065\u3051\u3066} \u3044\u308b \u3051\u3069\u3001 {\u8ab0|\u3060\u308c} \u3082 {\u51fa\u306a\u3044|\u3067\u306a\u3044}\u3002",
-        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\n{\u8ab0\u3082|\u3060\u308c\u3082} = nobody (everybody), {\u4f55\u3082|\u306a\u306b\u3082} = nothing (neg.), {\u4f55\u6642\u3082|\u3044\u3064\u3082} = always, {\u4f55\u51e6\u3082|\u3069\u3053\u3082} = everywhere, \u3069\u308c\u3082 = any and all"
+        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\n{\u8ab0\u3082|\u3060\u308c\u3082} = nobody (everybody), {\u4f55\u3082|\u306a\u306b\u3082} = nothing (neg.), {\u4f55\u6642\u3082|\u3044\u3064\u3082} = always, {\u4f55\u51e6\u3082|\u3069\u3053\u3082} = everywhere, \u3069\u308c\u3082 = any and all\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(My) feet hurt a great deal. But (I) kept walking for 2 hours. {plain}",
         "{\u8db3|\u3042\u3057} \u304c \u3068\u3066\u3082 {\u75db\u304b\u3063\u305f|\u3044\u305f\u304b\u3063\u305f}\u3002 \u3067\u3082\u3001 {\u4e8c\u6642\u9593|\u306b\u3058\u304b\u3093} {\u6b69\u304d\u7d9a\u3051\u305f|\u3042\u308b\u304d\u3064\u3065\u3051\u305f}\u3002",
-        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~"
+        "verb-stem + {\u7d9a\u3051\u308b|\u3064\u3065\u3051\u308b} = continue doing ~\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "There's a cute girl named Noriko at the volunteer class. {polite} There's a cute girl named Noriko at the volunteer class. {casual, spoken}",
@@ -5717,22 +5717,22 @@ Flashcards.initialize([
     [
         "(I'll) drink it later so please leave the cup as it is. {\u304b\u3089}",
         "{\u5f8c|\u3042\u3068} \u3067 {\u98f2\u3080|\u306e\u3080} \u304b\u3089 \u30b3\u30c3\u30d7 \u3092 \u305d\u306e \u307e\u307e \u306b \u3057\u3066 \u304a\u3044\u3066 \u304f\u3060\u3055\u3044\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u305f + {\u5118|\u307e\u307e} / {\u5118|\u307e\u307e}\u3060 / {\u5118|\u307e\u307e}\u306enoun = remain ~, leaving ~ as is\nverb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(We'll) record the football match on video, won't we. {casual speech}",
         "\u30b5\u30c3\u30ab\u30fc \u306e {\u8a66\u5408|\u3057\u3042\u3044}\u3001 \u30d3\u30c7\u30aa \u306b {\u9332\u753b|\u308d\u304f\u304c} \u3057\u3068\u304f \u306d\u3002",
-        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(Please) put the drinks into the fridge. {casual speech}",
         "{\u98f2\u307f\u7269|\u306e\u307f\u3082\u306e}\u3001 {\u51b7\u8535\u5eab|\u308c\u3044\u305e\u3046\u3053} \u306b {\u5165\u308c\u3068\u3044\u3066|\u3044\u308c\u3068\u3044\u3066}\u3002",
-        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please read the mail that came from the teacher immediately. {casual speech}",
         "{\u5148\u751f|\u305b\u3093\u305b\u3044} \u304b\u3089 {\u6765\u305f|\u304d\u305f} \u30e1\u30fc\u30eb \u3092 {\u76f4\u3050|\u3059\u3050} {\u8aad\u3093\u3069\u3044\u3066|\u3088\u3093\u3069\u3044\u3066} \u304f\u3060\u3055\u3044\u3002",
-        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request"
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "set the alarm clock",
@@ -5747,52 +5747,52 @@ Flashcards.initialize([
     [
         "Key: something to lock the door with when you leave. {plain}",
         "{\u9375|\u304b\u304e}: {\u51fa\u639b\u3051\u308b|\u3067\u304b\u3051\u308b} \u3068\u304d \u306b\u3001 \u30c9\u30a2 \u306b \u304b\u3051\u3066 \u304a\u304f \u3082\u306e\u3002",
-        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Wallet: something to always put in your bag. {plain}",
         "{\u8ca1\u5e03|\u3055\u3044\u3075}: \u3044\u3064\u3082 {\u9784|\u304b\u3070\u3093} \u306e {\u4e2d|\u306a\u304b} \u306b {\u5165\u308c\u3066|\u3044\u308c\u3066} \u304a\u304f \u3082\u306e\u3002",
-        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
+        "verb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Curtain: something to leave open in the morning and leave closed in the night. {plain}",
         "\u30ab\u30fc\u30c6\u30f3: {\u671d|\u3042\u3055}\u3001 {\u958b\u3051\u3066|\u3042\u3051\u3066}\u3001 {\u591c|\u3088\u308b}\u3001 {\u9589\u3081\u3066|\u3057\u3081\u3066} \u304a\u304f \u3082\u306e\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066 + {\u7f6e\u304f|\u304a\u304f} = leave as it is, do something in advance (casual speech: ~\u3066\u304a\u304f --> ~\u3068\u304f)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "When I was a child, (my) father often took (me) to the zoo. {plain}",
         "{\u79c1|\u308f\u305f\u3057} \u304c {\u5b50\u4f9b|\u3053\u3069\u3082} \u306e {\u9803|\u3053\u308d}\u3001 {\u7236|\u3061\u3061} \u306f \u3088\u304f {\u52d5\u7269\u5712|\u3069\u3046\u3076\u3064\u3048\u3093} \u306b {\u9023\u308c\u3066|\u3064\u308c\u3066} \u3044\u3063\u3066 \u304f\u308c\u305f\u3002",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) got the policeman at the police box to tell (me) the way.",
         "{\u4ea4\u756a|\u3053\u3046\u3070\u3093} \u3067 {\u304a\u5de1\u308a\u3055\u3093|\u304a\u307e\u308f\u308a\u3055\u3093} \u306b {\u9053|\u307f\u3061} \u3092 {\u6559\u3048\u3066|\u304a\u3057\u3048\u3066} \u3082\u3089\u3044\u307e\u3057\u305f\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Mr. Yamada wants to become pretty. {plain}",
         "{\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u306f {\u7dba\u9e97|\u304d\u308c\u3044} \u306b \u306a\u308a\u305f\u304c\u3063\u3066 \u3044\u308b\u3002",
-        "verb\u305f\u3044 -> verb\u305f\u304c\u308b = someone else wants to do ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u305f\u3044 -> verb\u305f\u304c\u308b = someone else wants to do ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "Mr. Yamada wants a camera. {plain}",
         "{\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u306f \u30ab\u30e1\u30e9 \u3092 {\u6b32\u3057\u304c\u3063\u3066|\u307b\u3057\u304c\u3063\u3066} \u3044\u308b\u3002",
-        "noun \u304c {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "noun \u304c {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Yamada wants Tanaka to deliver a letter to Natsuko. {plain}",
         "{\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u306f {\u7530\u4e2d|\u305f\u306a\u304b} \u3055\u3093 \u304b\u3089 {\u590f\u5b50|\u306a\u3064\u3053} \u3055\u3093 \u306b {\u624b\u7d19|\u3066\u304c\u307f} \u3092 {\u6e21\u3057\u3066|\u308f\u305f\u3057\u3066} {\u6b32\u3057\u304c\u3063\u3066|\u307b\u3057\u304c\u3063\u3066} \u3044\u308b\u3002",
-        "verb\u3066 {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~ to be done for her/him\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~ to be done for her/him\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Yamada wants Tanaka to ask for her phone number. {plain}",
         "{\u5c71\u7530|\u3084\u307e\u3060} \u3055\u3093 \u306f {\u7530\u4e2d|\u305f\u306a\u304b} \u3055\u3093 \u304b\u3089 {\u5f7c\u5973|\u304b\u306e\u3058\u3087} \u306e {\u96fb\u8a71\u756a\u53f7|\u3067\u3093\u308f\u3070\u3093\u3054\u3046} \u3092 {\u805e\u3044\u3066|\u304d\u3044\u3066} {\u6b32\u3057\u304c\u3063\u3066|\u307b\u3057\u304c\u3063\u3066} \u3044\u308b\u3002",
-        "verb\u3066 {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~ to be done for her/him\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~ to be done for her/him\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Tanaka wants something. {plain}",
         "{\u7530\u4e2d|\u305f\u306a\u304b} \u3055\u3093 \u306f {\u4f55|\u306a\u306b} \u304b \u3092 {\u6b32\u3057\u304c\u3063\u3066|\u307b\u3057\u304c\u3063\u3066} \u3044\u308b\u3002",
-        "noun \u304c {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n{\u8ab0\u304b|\u3060\u308c\u304b} = somebody, {\u4f55\u304b|\u306a\u306b\u304b} = something, {\u4f55\u6642\u304b|\u3044\u3064\u304b} = sometime, {\u4f55\u51e6\u304b|\u3069\u3053\u304b} = somewhere, \u3069\u308c\u304b = a certain one from many\n{\u8ab0\u304b|\u3060\u308c\u304b} = somebody, {\u4f55\u304b|\u306a\u306b\u304b} = something, {\u4f55\u6642\u304b|\u3044\u3064\u304b} = sometime, {\u4f55\u51e6\u304b|\u3069\u3053\u304b} = somewhere, \u3069\u308c\u304b = a certain one from many"
+        "noun \u304c {\u6b32\u3057\u304c\u308b|\u307b\u3057\u304c\u308b} = someone else wants ~\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n{\u8ab0\u304b|\u3060\u308c\u304b} = somebody, {\u4f55\u304b|\u306a\u306b\u304b} = something, {\u4f55\u6642\u304b|\u3044\u3064\u304b} = sometime, {\u4f55\u51e6\u304b|\u3069\u3053\u304b} = somewhere, \u3069\u308c\u304b = a certain one from many\n{\u8ab0\u304b|\u3060\u308c\u304b} = somebody, {\u4f55\u304b|\u306a\u306b\u304b} = something, {\u4f55\u6642\u304b|\u3044\u3064\u304b} = sometime, {\u4f55\u51e6\u304b|\u3069\u3053\u304b} = somewhere, \u3069\u308c\u304b = a certain one from many\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(Do you think he) will really eat this type of thing? {plain} Are (you) really going to eat something like this? {plain}",
@@ -5822,17 +5822,17 @@ Flashcards.initialize([
     [
         "(I) had time and (I) watched a movie. {plain}",
         "{\u6642\u9593|\u3058\u304b\u3093} \u304c \u3042\u308a\u307e\u3057\u3066\u3001 {\u6620\u753b|\u3048\u3044\u304c} \u3092 {\u89b3\u307e\u3057\u305f|\u307f\u307e\u3057\u305f}\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) went to cafeteria, ate lunch, and took a nap. {plain}",
         "{\u98df\u5802|\u3057\u3087\u304f\u3069\u3046} \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066}\u3001 {\u663c\u3054\u98ef|\u3072\u308b\u3054\u306f\u3093} \u3092 {\u98df\u3079\u3066|\u305f\u3079\u3066}\u3001 {\u663c\u5bdd|\u3072\u308b\u306d} \u3092 \u3057\u305f\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "If you're a student, then the entrance fee is free.",
         "{\u5b66\u751f|\u304c\u304f\u305b\u3044} \u3060\u3063\u305f\u3089\u3001 {\u5165\u5834\u6599|\u306b\u3085\u3046\u3058\u3087\u3046\u308a\u3087\u3046} \u306f {\u7121\u6599|\u3080\u308a\u3087\u3046} \u3067\u3059\u3002",
-        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)"
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "It probably depends on who you ask.",
@@ -5842,7 +5842,7 @@ Flashcards.initialize([
     [
         "We should not take advantage of the generosity of a friend. {plain}",
         "{\u79c1\u9054|\u308f\u305f\u3057\u305f\u3061} \u306f {\u53cb\u4eba|\u3086\u3046\u3058\u3093} \u306e {\u5bdb\u5927\u3055|\u304b\u3093\u3060\u3044\u3055} \u306b {\u4ed8\u3051\u8fbc\u3093\u3067|\u3064\u3051\u3053\u3093\u3067} \u306f \u3044\u3051\u306a\u3044\u3002",
-        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed"
+        "verb\u3066 + \u306f + \u3044\u3051\u307e\u305b\u3093 = doing verb is not allowed\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Because (I'm) a little busy, (I'll) be making my leave soon.",
@@ -5962,22 +5962,22 @@ Flashcards.initialize([
     [
         "Classes at this university are sometimes easy, sometimes difficult. {plain}",
         "\u3053\u306e {\u5927\u5b66|\u3060\u3044\u304c\u304f} \u306e {\u6388\u696d|\u3058\u3085\u304e\u3087\u3046} \u306f {\u7c21\u5358|\u304b\u3093\u305f\u3093} \u3060\u3063\u305f\u308a\u3001 {\u96e3\u3057\u304b\u3063\u305f\u308a|\u3080\u305a\u304b\u3057\u304b\u3063\u305f\u308a} \u3059\u308b\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "(I) didn't do things like watching movies or reading books. {plain}",
         "{\u6620\u753b|\u3048\u3044\u304c} \u3092 {\u898b\u305f\u308a|\u307f\u305f\u308a}\u3001 {\u672c|\u307b\u3093} \u3092 {\u8aad\u3093\u3060\u308a|\u3088\u3093\u3060\u308a} \u3057\u306a\u304b\u3063\u305f\u3002",
-        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+        "verb-A-\u305f + \u308a, verb-B-\u305f + \u308a, ... + \u3059\u308b= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "What are (you) reading? (I'm) reading a textbook.",
         "{\u4f55|\u306a\u306b} \u3092 {\u8aad\u3093\u3067\u308b|\u3088\u3093\u3067\u308b}\uff1f {\u6559\u79d1\u66f8|\u304d\u3087\u3046\u304b\u3057\u3087} \u3092 {\u8aad\u3093\u3067|\u3088\u3093\u3067} \u3044\u307e\u3059\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Are (you) listening to the story? No, (I'm) not listening.",
         "{\u8a71|\u306f\u306a\u3057} \u3092 {\u805e\u3044\u3066|\u304d\u3044\u3066} \u3044\u307e\u3059 \u304b\u3002 \u3046\u3046\u3093\u3001 {\u805e\u3044\u3066\u306a\u3044|\u304d\u3044\u3066\u306a\u3044}\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) found out about it today.",
@@ -5997,67 +5997,67 @@ Flashcards.initialize([
     [
         "Where is Suzuki? / (He's) already at home. {plain}",
         "{\u9234\u6728|\u3059\u305a\u304d} \u3055\u3093 \u306f \u3069\u3053 \u3067\u3059 \u304b\u3002 \u3082\u3046\u3001 {\u5bb6|\u3046\u3061} \u306b {\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066} \u3044\u308b\u3002",
-        "motion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "motion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I'll) go on ahead. {plain}",
         "{\u5148|\u3055\u304d} \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066} \u3044\u308b \u3088\u3002",
-        "motion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "motion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Mie is already here, you know. {plain}",
         "{\u7f8e\u6075|\u307f\u3048} \u3061\u3083\u3093 \u306f\u3001 \u3082\u3046 {\u6765\u3066|\u304d\u3066} \u3044\u308b \u3088\u3002",
-        "motion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "motion-verb\u3066 + \u3044\u308b = (temporarily) moved and is still there (never continuous present!) (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "How are the preparations? / The preparations are already done. {plain}",
         "{\u6e96\u5099|\u3058\u3085\u3093\u3073} \u306f \u3069\u3046 \u3067\u3059 \u304b\u3002 {\u6e96\u5099|\u3058\u3085\u3093\u3073} \u306f\u3001 \u3082\u3046 \u3057\u3066 \u3042\u308b \u3088\u3002",
-        "verb\u3066 + \u3042\u308b = resultant state after completed action (often \u3092 --> \u3082/\u306f), (in preparation for sg. else)"
+        "verb\u3066 + \u3042\u308b = resultant state after completed action (often \u3092 --> \u3082/\u306f), (in preparation for sg. else)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Are the plans for the trip complete? / A-ha, not only did I buy the tickets, I also took care of the hotel reservations. {plain}",
         "{\u65c5\u884c|\u308a\u3087\u3053\u3046} \u306e {\u8a08\u753b|\u3051\u3044\u304b\u304f} \u306f {\u7d42\u308f\u3063\u305f|\u304a\u308f\u3063\u305f}\uff1f \u3046\u3093\u3001 {\u5207\u7b26|\u304d\u3063\u3077} \u3092 {\u8cb7\u3063\u305f|\u304b\u3063\u305f} \u3057\u3001 \u30db\u30c6\u30eb \u306e {\u4e88\u7d04|\u3088\u3084\u304f} \u3082 \u3057\u3066 \u3042\u308b\u3002",
-        "\u3057 at end of clause = multiple reasons, etc.\nverb\u3066 + \u3042\u308b = resultant state after completed action (often \u3092 --> \u3082/\u306f), (in preparation for sg. else)"
+        "\u3057 at end of clause = multiple reasons, etc.\nverb\u3066 + \u3042\u308b = resultant state after completed action (often \u3092 --> \u3082/\u306f), (in preparation for sg. else)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Father came home early.",
         "{\u304a\u7236\u3055\u3093|\u304a\u3068\u3046\u3055\u3093} \u306f\u3001 {\u65e9\u304f|\u306f\u3084\u304f} {\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066} \u304d\u307e\u3057\u305f\u3002",
-        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\n\u3044 adj. - \u3044 + \u304f = adverb"
+        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\n\u3044 adj. - \u3044 + \u304f = adverb\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) went running towards the station. {plain}",
         "{\u99c5|\u3048\u304d} \u306e {\u65b9|\u307b\u3046} \u3078 {\u8d70\u3063\u3066|\u306f\u3057\u3063\u3066} \u3044\u3063\u305f\u3002",
-        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)"
+        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Entering Winter, the (number of) people wearing coat will increase.",
         "{\u51ac|\u3075\u3086} \u306b {\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3001 \u30b3\u30fc\u30c8 \u3092 {\u7740\u3066|\u304d\u3066} \u3044\u308b {\u4eba|\u3072\u3068} \u304c {\u5897\u3048\u3066|\u3075\u3048\u3066} \u3044\u304d\u307e\u3059\u3002",
-        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) will try my hardest with all my might! {plain}",
         "{\u4e00\u751f\u61f8\u547d|\u3044\u3063\u3057\u3087\u3046\u3051\u3093\u3081\u3044}\u3001 {\u9811\u5f35\u3063\u3066|\u304c\u3093\u3070\u3063\u3066} \u3044\u304f\uff01",
-        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)"
+        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) went out with various people, but a good person hasn't been found yet. {plain}",
         "{\u8272\u3005|\u3044\u308d\u3044\u308d} \u306a {\u4eba|\u3072\u3068} \u3068 {\u4ed8\u304d\u5408\u3063\u3066|\u3064\u304d\u3042\u3063\u3066} \u304d\u305f \u3051\u3069\u3001 \u3044\u3044 {\u4eba|\u3072\u3068} \u306f {\u672a\u3060|\u307e\u3060} {\u898b\u3064\u304b\u3089\u306a\u3044|\u307f\u3064\u304b\u3089\u306a\u3044}\u3002",
-        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) studied Spanish from way back before and eventually (I) quit. {plain}",
         "\u30b9\u30da\u30a4\u30f3 {\u8a9e|\u3054} \u3092 \u305a\u3063\u3068 {\u524d|\u307e\u3048} \u304b\u3089 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3057\u3066 \u304d\u3066\u3001 {\u7d50\u5c40|\u3051\u3063\u304d\u3087\u304f} \u306f {\u6b62\u3081\u305f|\u3084\u3081\u305f}\u3002",
-        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)"
+        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Are (you) taking pencils to school? {plain}",
         "{\u925b\u7b46|\u3048\u3093\u3074\u3064} \u3092 {\u5b66\u6821|\u304c\u3063\u3053\u3046} \u3078 {\u6301\u3063\u3066|\u3082\u3063\u3066} \u3044\u304f\uff1f",
-        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)"
+        "verb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Can (you) write kanji?",
         "{\u6f22\u5b57|\u304b\u3093\u3058} \u306f {\u66f8\u3051\u307e\u3059|\u304b\u3051\u307e\u3059} \u304b\u3002",
-        "verb\u3048\u308b: \u3092 --> \u306f/\u304c"
+        "verb\u3048\u308b/\u3089\u308c\u308b: \u3092 --> \u306f/\u304c\nverb\u3048\u308b/\u3089\u308c\u308b: {\u8a00\u3048\u308b|\u3044\u3048\u308b}, {\u805e\u3051\u308b|\u304d\u3051\u308b}, {\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}, \u3067\u304d\u308b, {\u6765\u3089\u308c\u308b|\u3053\u3089\u308c\u308b}"
     ],
     [
         "It's unfortunate, but (I) can't go this weekend. {plain}",
@@ -6072,22 +6072,22 @@ Flashcards.initialize([
     [
         "(I) was able to climb Mt. Fuji. {plain}",
         "{\u5bcc\u58eb\u5c71|\u3075\u3058\u3055\u3093} \u304c {\u767b\u308c\u305f|\u306e\u307c\u308c\u305f}\u3002",
-        "verb\u3048\u308b: \u3092 --> \u306f/\u304c"
+        "verb\u3048\u308b/\u3089\u308c\u308b: \u3092 --> \u306f/\u304c\nverb\u3048\u308b/\u3089\u308c\u308b: {\u8a00\u3048\u308b|\u3044\u3048\u308b}, {\u805e\u3051\u308b|\u304d\u3051\u308b}, {\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}, \u3067\u304d\u308b, {\u6765\u3089\u308c\u308b|\u3053\u3089\u308c\u308b}"
     ],
     [
         "(I) can hold heavy baggage.",
         "{\u91cd\u3044|\u304a\u3082\u3044} {\u8377\u7269|\u306b\u3082\u3064} \u306f {\u6301\u3066\u307e\u3059|\u3082\u3066\u307e\u3059}\u3002",
-        "verb\u3048\u308b: \u3092 --> \u306f/\u304c"
+        "verb\u3048\u308b/\u3089\u308c\u308b: \u3092 --> \u306f/\u304c\nverb\u3048\u308b/\u3089\u308c\u308b: {\u8a00\u3048\u308b|\u3044\u3048\u308b}, {\u805e\u3051\u308b|\u304d\u3051\u308b}, {\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}, \u3067\u304d\u308b, {\u6765\u3089\u308c\u308b|\u3053\u3089\u308c\u308b}"
     ],
     [
         "It cleared up today, and Mt. Fuji is visible. / Thanks to (my) friend, (I) could watch the movie for free. / Thanks to (my) friend, (I) could watch the movie for free. {plain}",
         "{\u4eca\u65e5|\u304d\u3087\u3046} \u306f {\u6674\u308c\u3066|\u306f\u308c\u3066}\u3001 {\u5bcc\u58eb\u5c71|\u3075\u3058\u3055\u3093} \u304c {\u898b\u3048\u308b|\u307f\u3048\u308b}\u3002 {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u306e \u304a\u304b\u3052 \u3067\u3001 {\u6620\u753b|\u3048\u3044\u304c} \u306f \u305f\u3060 {\u898b\u3089\u308c\u305f|\u307f\u3089\u308c\u305f}\u3002 {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u306e \u304a\u304b\u3052 \u3067\u3001 {\u6620\u753b|\u3048\u3044\u304c} \u3092 \u305f\u3060 {\u898b\u308b|\u307f\u308b} \u306e \u304c \u3067\u304d\u305f\u3002",
-        "verb\u3048\u308b: \u3092 --> \u306f/\u304c\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)"
+        "verb\u3048\u308b/\u3089\u308c\u308b: \u3092 --> \u306f/\u304c\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)\nverb\u3048\u308b/\u3089\u308c\u308b: {\u8a00\u3048\u308b|\u3044\u3048\u308b}, {\u805e\u3051\u308b|\u304d\u3051\u308b}, {\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}, \u3067\u304d\u308b, {\u6765\u3089\u308c\u308b|\u3053\u3089\u308c\u308b}"
     ],
     [
         "(I) could hear his voice for the first time in a long time. / The surroundings were noisy and (I) couldn't hear what he was saying very well. {plain}",
         "{\u4e45\u3057\u3076\u308a|\u3072\u3055\u3057\u3076\u308a} \u306b {\u5f7c|\u304b\u308c} \u306e {\u58f0|\u3053\u3048} \u304c {\u805e\u3051\u305f|\u304d\u3051\u305f}\u3002 {\u5468\u308a|\u307e\u308f\u308a} \u304c {\u7169\u304f\u3066|\u3046\u308b\u3055\u304f\u3066}\u3001 {\u5f7c|\u304b\u308c} \u304c {\u8a00\u3063\u3066|\u3044\u3063\u3066} \u3044\u308b \u3053\u3068 \u304c \u3042\u3093\u307e\u308a {\u805e\u3053\u3048\u306a\u304b\u3063\u305f|\u304d\u3053\u3048\u306a\u304b\u3063\u305f}\u3002",
-        "verb\u3048\u308b: \u3092 --> \u306f/\u304c"
+        "verb\u3048\u308b/\u3089\u308c\u308b: \u3092 --> \u306f/\u304c\nverb\u3048\u308b/\u3089\u308c\u308b: {\u8a00\u3048\u308b|\u3044\u3048\u308b}, {\u805e\u3051\u308b|\u304d\u3051\u308b}, {\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}, \u3067\u304d\u308b, {\u6765\u3089\u308c\u308b|\u3053\u3089\u308c\u308b}"
     ],
     [
         "It's also possible that he overslept. {plain}",
@@ -6112,12 +6112,12 @@ Flashcards.initialize([
     [
         "After coming to Japan, (I) became able to eat sushi. {plain}",
         "{\u65e5\u672c|\u306b\u307b\u3093} \u306b {\u6765\u3066|\u304d\u3066}\u3001 {\u5bff\u53f8|\u3059\u3057} \u304c {\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b} \u3088\u3046 \u306b \u306a\u3063\u305f\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3048\u308b + {\u69d8|\u3088\u3046} + \u306b + {\u6210\u308b|\u306a\u308b} = become able to ~\nverb\u3048\u308b: \u3092 --> \u306f/\u304c"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb\u3048\u308b/\u3089\u308c\u308b + {\u69d8|\u3088\u3046} + \u306b + {\u6210\u308b|\u306a\u308b} = become able to ~\nverb\u3048\u308b/\u3089\u308c\u308b: \u3092 --> \u306f/\u304c\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u3048\u308b/\u3089\u308c\u308b: {\u8a00\u3048\u308b|\u3044\u3048\u308b}, {\u805e\u3051\u308b|\u304d\u3051\u308b}, {\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}, \u3067\u304d\u308b, {\u6765\u3089\u308c\u308b|\u3053\u3089\u308c\u308b}"
     ],
     [
         "Because (I) practiced for one year, (I) became able to play the piano.",
         "{\u4e00\u5e74\u9593|\u3044\u3061\u306d\u3093\u304b\u3093} {\u7df4\u7fd2|\u308c\u3093\u3057\u3085\u3046} \u3057\u305f \u304b\u3089\u3001 \u30d4\u30a2\u30ce \u304c {\u5f3e\u3051\u308b|\u3072\u3051\u308b} \u3088\u3046 \u306b \u306a\u3063\u305f\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3048\u308b + {\u69d8|\u3088\u3046} + \u306b + {\u6210\u308b|\u306a\u308b} = become able to ~\nverb\u3048\u308b: \u3092 --> \u306f/\u304c"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3048\u308b/\u3089\u308c\u308b + {\u69d8|\u3088\u3046} + \u306b + {\u6210\u308b|\u306a\u308b} = become able to ~\nverb\u3048\u308b/\u3089\u308c\u308b: \u3092 --> \u306f/\u304c\nverb\u3048\u308b/\u3089\u308c\u308b: {\u8a00\u3048\u308b|\u3044\u3048\u308b}, {\u805e\u3051\u308b|\u304d\u3051\u308b}, {\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}, \u3067\u304d\u308b, {\u6765\u3089\u308c\u308b|\u3053\u3089\u308c\u308b}"
     ],
     [
         "If (you) drop the ball, it will fall. {plain}",
@@ -6152,22 +6152,22 @@ Flashcards.initialize([
     [
         "If (I) had money, it would be good, huh? {plain}",
         "{\u304a\u91d1|\u304a\u304b\u306d} \u304c \u3042\u308c\u3070\u3001 \u3044\u3044 \u306d\u3002",
-        "verb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)"
+        "verb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}"
     ],
     [
         "If it's fun, I'll go too. {plain}",
         "{\u697d\u3057\u3051\u308c\u3070|\u305f\u306e\u3057\u3051\u308c\u3070}\u3001 {\u79c1|\u308f\u305f\u3057} \u3082 {\u884c\u304f|\u3044\u304f}\u3002",
-        "verb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)"
+        "verb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}"
     ],
     [
         "(We'll) go shopping, _if_ (I) can meet (my) friend. If I can meet (my) friend, (we'll) go shopping.",
         "{\u53cb\u9054|\u3068\u3082\u3060\u3061} \u306b {\u4f1a\u3048\u308c\u3070|\u3042\u3048\u308c\u3070}\u3001 {\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e} \u306b {\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002 {\u53cb\u9054|\u3068\u3082\u3060\u3061} \u306b {\u4f1a\u3048\u305f\u3089|\u3042\u3048\u305f\u3089}\u3001 {\u8cb7\u3044\u7269|\u304b\u3044\u3082\u306e} \u306b {\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
-        "verb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)"
+        "verb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}"
     ],
     [
         "When (I) went home, there was no one there. {plain}",
         "{\u5bb6|\u3046\u3061} \u306b {\u5e30\u3063\u305f\u3089|\u304b\u3048\u3063\u305f\u3089}\u3001 {\u8ab0\u3082|\u3060\u308c\u3082} \u3044\u306a\u304b\u3063\u305f\u3002",
-        "verb\u305f\u3089 + past = surprise, unexpected result\n{\u8ab0\u3082|\u3060\u308c\u3082} = nobody (everybody), {\u4f55\u3082|\u306a\u306b\u3082} = nothing (neg.), {\u4f55\u6642\u3082|\u3044\u3064\u3082} = always, {\u4f55\u51e6\u3082|\u3069\u3053\u3082} = everywhere, \u3069\u308c\u3082 = any and all\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)"
+        "verb\u305f\u3089 + past = surprise, unexpected result\n{\u8ab0\u3082|\u3060\u308c\u3082} = nobody (everybody), {\u4f55\u3082|\u306a\u306b\u3082} = nothing (neg.), {\u4f55\u6642\u3082|\u3044\u3064\u3082} = always, {\u4f55\u51e6\u3082|\u3069\u3053\u3082} = everywhere, \u3069\u308c\u3082 = any and all\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "If given that there's no time, tomorrow is fine as well. {plain}",
@@ -6177,12 +6177,12 @@ Flashcards.initialize([
     [
         "(I) must go to school every day. {x3}",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u5b66\u6821|\u304c\u3063\u3053\u3046} \u306b {\u884c\u304b\u306a\u304f\u3066|\u3044\u304b\u306a\u304f\u3066} \u306f \u306a\u308a\u307e\u305b\u3093\u3002 {\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u5b66\u6821|\u304c\u3063\u3053\u3046} \u306b {\u884c\u304b\u306a\u3044|\u3044\u304b\u306a\u3044} \u3068 {\u99c4\u76ee|\u3060\u3081} \u3067\u3059\u3002 {\u6bce\u65e5|\u307e\u3044\u306b\u3061} {\u5b66\u6821|\u304c\u3063\u3053\u3046} \u306b {\u884c\u304b\u306a\u3051\u308c\u3070|\u3044\u304b\u306a\u3051\u308c\u3070} \u3044\u3051\u307e\u305b\u3093\u3002",
-        "noun/\u306a-adj. + \u3067 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, noun/\u306a-adj. + \u3067 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must be ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)"
+        "noun/\u306a-adj. + \u3067 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, noun/\u306a-adj. + \u3067 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must be ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}"
     ],
     [
         "(I) had to do (my) homework. {plain} (I) have to do (my) homework. {plain} (I) had to do (my) homework. {plain}",
         "{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3092 \u3057\u306a\u304f\u3066 \u306f \u3044\u3051\u306a\u304b\u3063\u305f\u3002 {\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3092 \u3057\u306a\u3044 \u3068 \u3044\u3051\u306a\u3044\u3002 {\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3092 \u3057\u306a\u3051\u308c\u3070 \u3060\u3081 \u3060\u3063\u305f\u3002",
-        "negative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nnoun/\u306a-adj. + \u3067 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, noun/\u306a-adj. + \u3067 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must be ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)"
+        "negative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\nnoun/\u306a-adj. + \u3067 + \u306a\u3051\u308c\u3070 + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044, noun/\u306a-adj. + \u3067 + \u306a\u304f\u3066 + \u306f + \u306a\u3089\u306a\u3044/\u3044\u3051\u306a\u3044 = I must be ~, social obligations (never advice/request) (\u306a\u3089\u306a\u3044 ~ rules, \u3044\u3051\u306a\u3044 ~ 1 person)\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}"
     ],
     [
         "Gotta go to school. {plain}",
@@ -6192,12 +6192,12 @@ Flashcards.initialize([
     [
         "(I) want to be together (with you) forever. {plain}",
         "\u305a\u3063\u3068 {\u4e00\u7dd2|\u3044\u3063\u3057\u3087} \u306b \u3044\u305f\u3044\u3002",
-        "verb-stem + \u305f\u3044 = want to ~"
+        "verb-stem + \u305f\u3044 = want to ~\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "How about talking with your parents once in a while? {plain}",
         "{\u5076|\u305f\u307e} \u306b {\u3054\u4e21\u89aa|\u3054\u308a\u3087\u3046\u3057\u3093} \u3068 {\u8a71\u305b\u3070|\u306f\u306a\u305b\u3070} \u3069\u3046\uff1f",
-        "verb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)"
+        "verb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}"
     ],
     [
         "It's that (I) heard from the teacher: \"There's no class today.\" {plain} (I) heard from the teacher that there is no class today. {plain}",
@@ -6212,7 +6212,7 @@ Flashcards.initialize([
     [
         "Now, (I'm) considering where to go. {plain}",
         "{\u4eca|\u3044\u307e}\u3001 \u3069\u3053 \u306b {\u884c\u3053\u3046|\u3044\u3053\u3046} \u304b \u3068 {\u8003\u3048\u3066|\u304b\u3093\u304c\u3048\u3066} \u3044\u308b\u3002",
-        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~"
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u304a\u3046/\u3088\u3046 = talking about/to self, I _will_, shall I?\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "What did he say this is? What did he say?",
@@ -6232,17 +6232,17 @@ Flashcards.initialize([
     [
         "(I) was wondering how to represent (it) in kanji. (I) was trying to figure out how it would be if written in kanji. (I) was trying to figure out how it would be if written in kanji.",
         "{\u6f22\u5b57|\u304b\u3093\u3058} \u3067 \u3069\u3046 {\u8868\u3059|\u3042\u3089\u308f\u3059} \u304b {\u8003\u3048\u307e\u3057\u305f|\u304b\u3093\u304c\u3048\u307e\u3057\u305f}\u3002 {\u6f22\u5b57|\u304b\u3093\u3058} \u3067 \u3069\u3046 {\u8868\u305b\u3070|\u3042\u3089\u308f\u305b\u3070} {\u826f\u3044|\u3088\u3044} \u304b {\u8003\u3048\u3066|\u304b\u3093\u304c\u3048\u3066} \u307f\u307e\u3057\u305f\u3002 {\u6f22\u5b57|\u304b\u3093\u3058} \u3067 \u3069\u3046 {\u8868\u73fe|\u3072\u3087\u3046\u3052\u3093} \u3057\u305f\u3089 {\u826f\u3044|\u3088\u3044} \u304b \u3092 {\u8003\u3048\u3066|\u304b\u3093\u304c\u3048\u3066} \u307f\u307e\u3057\u305f\u3002",
-        "\u304b at end of clause = talking about a question\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nverb\u3066 + \u307f\u308b = try doing ~\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)"
+        "\u304b at end of clause = talking about a question\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nverb\u3066 + \u307f\u308b = try doing ~\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}"
     ],
     [
         "In order to review (them) later, (I) always do so when (I) encounter unfamiliar words. To be able to review (them) later, (I) always do so if (I) encounter unfamiliar words.",
         "\u3042\u3068 \u3067 {\u78ba\u8a8d|\u304b\u304f\u306b\u3093} \u3059\u308b \u305f\u3081 \u306b\u3001 {\u99b4\u67d3\u307f|\u306a\u3058\u307f} \u306e \u306a\u3044 {\u8a00\u8449|\u3053\u3068\u3070} \u306b {\u906d\u9047|\u305d\u3046\u3050\u3046} \u3057\u305f {\u6642|\u3068\u304d} \u306f \u3044\u3064\u3082 \u305d\u3046 \u3057\u307e\u3059\u3002 {\u99b4\u67d3\u307f|\u306a\u3058\u307f} \u306e \u306a\u3044 {\u8a00\u8449|\u3053\u3068\u3070} \u306b {\u906d\u9047|\u305d\u3046\u3050\u3046} \u3059\u308b \u3068\u3001 \u3042\u3068 \u3067 {\u78ba\u8a8d|\u304b\u304f\u306b\u3093} \u3067\u304d\u308b \u3088\u3046 \u306b \u3044\u3064\u3082 \u305d\u3046 \u3057\u3066 \u3044\u307e\u3059\u3002",
-        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb A (dictionary form) + \u305f\u3081 + \u306b + verb B = do verb B in order to verb A\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)"
+        "verb\u305f + {\u6642|\u3068\u304d} = when did/have done ~\nverb A (dictionary form) + \u305f\u3081 + \u306b + verb B = do verb B in order to verb A\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "It's a little difficult for my level, but (I'm) going to try reading it several times until (I become) able to to understand it. It feels a little bit difficult for my current level, but (I'm) going to try reading it several times until (I become) able to to understand it.",
         "{\u79c1|\u308f\u305f\u3057} \u306e \u30ec\u30d9\u30eb \u3067 \u306f \u3061\u3087\u3063\u3068 {\u96e3\u3057\u3044|\u3080\u305a\u304b\u3057\u3044} \u3067\u3059 \u304c\u3001 {\u7406\u89e3|\u308a\u304b\u3044} \u3067\u304d\u308b \u307e\u3067 {\u4f55\u5ea6\u304b|\u306a\u3093\u3069\u304b} {\u8aad\u3093\u3067|\u3088\u3093\u3067} \u307f\u308b \u3064\u3082\u308a \u3067\u3059\u3002 {\u4eca|\u3044\u307e} \u306e {\u79c1|\u308f\u305f\u3057} \u306e \u30ec\u30d9\u30eb \u3067 \u306f {\u5c11\u3005|\u3057\u3087\u3046\u3057\u3087\u3046} {\u96e3\u3057\u304f|\u3080\u305a\u304b\u3057\u304f} {\u611f\u3058\u307e\u3059|\u304b\u3093\u3058\u307e\u3059} \u304c\u3001 {\u7406\u89e3|\u308a\u304b\u3044} \u3067\u304d\u308b \u3088\u3046 {\u4f55\u5ea6\u304b|\u306a\u3093\u3069\u304b} {\u8aad\u3093\u3067|\u3088\u3093\u3067} \u307f\u308b \u3064\u3082\u308a \u3067\u3059\u3002",
-        "verb\u3046 + \u3064\u3082\u308a = intend to ~\nverb\u3066 + \u307f\u308b = try doing ~\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)"
+        "verb\u3046 + \u3064\u3082\u308a = intend to ~\nverb\u3066 + \u307f\u308b = try doing ~\nnoun + \u3067\u304d\u308b = can (do) noun (or request, request permission)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "I'm going to get 30 soon, but (I) still feel like a child.",
@@ -6257,12 +6257,12 @@ Flashcards.initialize([
     [
         "The truth is, the weather was bad, cloudy and foggy, and nobody was going for a walk, but finally the JLPT N4 is over. Actually, the weather was bad, cloudy and foggy, and nobody went to take a walk and such, but finally the JLPT N4 is over. Actually, the weather was bad, cloudy and foggy, and nobody went for a walk. Anyway, finally the JLPT N4 is over. Since the actual weather was bad and cloudy and it even went foggy, nobody went for a walk. Apart from that, finally, the JLPT N4 is over.",
         "{\u672c\u5f53|\u307b\u3093\u3068\u3046} \u306f\u3001 {\u5929\u6c17|\u3066\u3093\u304d} \u304c {\u60aa\u304f\u3066|\u308f\u308b\u304f\u3066} {\u66c7\u308a|\u304f\u3082\u308a} \u3067 {\u9727|\u304d\u308a} \u3067\u3057\u305f \u3057\u3001 {\u8ab0|\u3060\u308c} \u3082 {\u6563\u6b69|\u3055\u3093\u307d} \u3057\u3066 \u3044\u307e\u305b\u3093 \u3067\u3057\u305f \u304c\u3001 \u3084\u3063\u3068 {\u65e5\u672c\u8a9e\u80fd\u529b\u8a66\u9a13|\u306b\u307b\u3093\u3054\u306e\u3046\u308a\u3087\u304f\u3057\u3051\u3093} \u306e N4 \u304c {\u7d42\u308f\u308a\u307e\u3057\u305f|\u304a\u308f\u308a\u307e\u3057\u305f}\u3002 {\u5b9f\u969b|\u3058\u3063\u3055\u3044} \u306f\u3001 {\u5929\u6c17|\u3066\u3093\u304d} \u304c {\u60aa\u304f|\u308f\u308b\u304f}\u3001 {\u66c7\u308a|\u304f\u3082\u308a} \u3067 {\u9727|\u304d\u308a} \u3067\u3057\u305f \u304c\u3001 {\u8ab0|\u3060\u308c} \u3082 {\u6563\u6b69|\u3055\u3093\u307d} \u306a\u3093\u3066 \u3057\u307e\u305b\u3093 \u3067\u3057\u305f \u304c\u3001 \u3084\u3063\u3068 {\u65e5\u672c\u8a9e\u80fd\u529b\u8a66\u9a13|\u306b\u307b\u3093\u3054\u306e\u3046\u308a\u3087\u304f\u3057\u3051\u3093} \u306e N4 \u304c {\u7d42\u308f\u308a\u307e\u3057\u305f|\u304a\u308f\u308a\u307e\u3057\u305f}\u3002 {\u5b9f\u969b|\u3058\u3063\u3055\u3044} \u306f\u3001 {\u5929\u6c17|\u3066\u3093\u304d} \u304c {\u60aa\u304f|\u308f\u308b\u304f} {\u66c7\u308a|\u304f\u3082\u308a} \u3067 {\u9727|\u304d\u308a} \u3067\u3057\u305f \u3057\u3001 {\u8ab0|\u3060\u308c} \u3082 {\u6563\u6b69|\u3055\u3093\u307d} \u3057\u3066 \u3044\u307e\u305b\u3093 \u3067\u3057\u305f\u3002 \u3068\u306b\u304b\u304f \u3084\u3063\u3068 {\u65e5\u672c\u8a9e\u80fd\u529b\u8a66\u9a13|\u306b\u307b\u3093\u3054\u306e\u3046\u308a\u3087\u304f\u3057\u3051\u3093} \u306e N4 \u304c {\u7d42\u308f\u308a\u307e\u3057\u305f|\u304a\u308f\u308a\u307e\u3057\u305f}\u3002 {\u5b9f\u969b|\u3058\u3063\u3055\u3044} \u306e {\u5929\u6c17|\u3066\u3093\u304d} \u306f {\u60aa\u304f|\u308f\u308b\u304f}\u3001 {\u66c7\u3063\u3066|\u304f\u3082\u3063\u3066} \u3044\u3066 {\u9727|\u304d\u308a} \u3082 {\u51fa\u3066|\u3067\u3066} \u3044\u305f \u306e \u3067 {\u8ab0|\u3060\u308c} \u3082 {\u6563\u6b69|\u3055\u3093\u307d} \u3057\u3066 \u3044\u307e\u305b\u3093 \u3067\u3057\u305f\u3002 \u305d\u308c \u306f \u3055\u3066 \u304a\u304d\u3001 \u3084\u3063\u3068 {\u65e5\u672c\u8a9e\u80fd\u529b\u8a66\u9a13|\u306b\u307b\u3093\u3054\u306e\u3046\u308a\u3087\u304f\u3057\u3051\u3093} \u306e N4 \u304c {\u7d42\u308f\u308a\u307e\u3057\u305f|\u304a\u308f\u308a\u307e\u3057\u305f}\u3002",
-        "{\u8ab0\u3082|\u3060\u308c\u3082} = nobody (everybody), {\u4f55\u3082|\u306a\u306b\u3082} = nothing (neg.), {\u4f55\u6642\u3082|\u3044\u3064\u3082} = always, {\u4f55\u51e6\u3082|\u3069\u3053\u3082} = everywhere, \u3069\u308c\u3082 = any and all\nverb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u3057 at end of clause = multiple reasons, etc.\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)"
+        "{\u8ab0\u3082|\u3060\u308c\u3082} = nobody (everybody), {\u4f55\u3082|\u306a\u306b\u3082} = nothing (neg.), {\u4f55\u6642\u3082|\u3044\u3064\u3082} = always, {\u4f55\u51e6\u3082|\u3069\u3053\u3082} = everywhere, \u3069\u308c\u3082 = any and all\nverb\u3066 + \u3044\u307e\u3057\u305f = was (in the state of) doing ~, emphasize regular habitual action\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n\u3057 at end of clause = multiple reasons, etc.\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Since there was not very (much) time for thinking, (I) got even simple questions messed up. Since it was not like having a lot of time for thinking, (I) could even get simple questions messed up as well. Since thinking time was short, (I) could even get simple questions messed up.",
         "{\u8003\u3048\u308b|\u304b\u3093\u304c\u3048\u308b} {\u6642\u9593|\u3058\u304b\u3093} \u304c \u3042\u307e\u308a \u306a\u304b\u3063\u305f \u304b\u3089\u3001 {\u6613\u3057\u3044|\u3084\u3055\u3057\u3044} {\u554f\u984c|\u3082\u3093\u3060\u3044} \u3082 {\u9593\u9055\u3063\u3066|\u307e\u3061\u304c\u3063\u3066} \u3057\u307e\u3044\u307e\u3057\u305f\u3002 {\u8003\u3048\u308b|\u304b\u3093\u304c\u3048\u308b} {\u6642\u9593|\u3058\u304b\u3093} {\u6ca2\u5c71|\u305f\u304f\u3055\u3093} \u3042\u3063\u305f {\u8a33|\u308f\u3051} \u3067 \u306f \u306a\u3044 \u306e \u3067\u3001 {\u7c21\u5358|\u304b\u3093\u305f\u3093} \u306a {\u554f\u984c|\u3082\u3093\u3060\u3044} \u3059\u3089 \u3082 {\u9593\u9055\u3048\u3066|\u307e\u3061\u304c\u3048\u3066} \u3057\u307e\u3044\u307e\u3057\u305f\u3002 {\u8003\u3048\u308b|\u304b\u3093\u304c\u3048\u308b} {\u6642\u9593|\u3058\u304b\u3093} \u304c {\u5c11\u306a\u304b\u3063\u305f|\u3059\u304f\u306a\u304b\u3063\u305f} \u306e \u3067\u3001 {\u6613\u3057\u3044|\u3084\u3055\u3057\u3044} {\u554f\u984c|\u3082\u3093\u3060\u3044} \u3082 {\u9593\u9055\u3048\u3066|\u307e\u3061\u304c\u3048\u3066} \u3057\u307e\u3044\u307e\u3057\u305f\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Pass or fail will be announced around February next year. Pass or fail will become clear around Feburary next year. Pass or fail will probably be announced around February next year.",
@@ -6272,12 +6272,12 @@ Flashcards.initialize([
     [
         "When (I) went to America, I got very fat.",
         "\u30a2\u30e1\u30ea\u30ab \u306b {\u884c\u3063\u305f\u3089|\u3044\u3063\u305f\u3089}\u3001 \u305f\u304f\u3055\u3093 {\u592a\u308a\u307e\u3057\u305f|\u3075\u3068\u308a\u307e\u3057\u305f}\u3002",
-        "verb\u305f\u3089 + past = surprise, unexpected result"
+        "verb\u305f\u3089 + past = surprise, unexpected result\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "After going underground, we couldn't see Mt. Fuji. {plain}",
         "{\u5730\u4e0b|\u3061\u304b} \u306b {\u5165\u3063\u3066|\u306f\u3044\u3063\u3066}\u3001 {\u5bcc\u58eb\u5c71|\u3075\u3058\u3055\u3093} \u304c {\u898b\u3048\u306a\u304f|\u307f\u3048\u306a\u304f} \u306a\u3063\u305f\u3002",
-        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~"
+        "verb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n\u3044 adj. - \u3044 + \u304f + {\u6210\u308b|\u306a\u308b} = become ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "What is this fish referred to as?",
@@ -6312,7 +6312,7 @@ Flashcards.initialize([
     [
         "(I) think that (you) can become happy if (you) could marry that type of person.",
         "\u3042\u3042 \u3044\u3046 {\u4eba|\u3072\u3068} \u3068 {\u7d50\u5a5a|\u3051\u3063\u3053\u3093} \u3067\u304d\u305f\u3089\u3001 {\u5e78\u305b|\u3057\u3042\u308f\u305b} \u306b \u306a\u308c\u308b \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002",
-        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066, following particles can be dropped)\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nnoun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)"
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066, following particles can be dropped)\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nnoun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ],
     [
         "What do (you) mean \"You're not going to go to college?\" {plain}",
@@ -6327,7 +6327,7 @@ Flashcards.initialize([
     [
         "The meal is not over when I'm full. The meal is over when I hate myself. {plain}",
         "{\u50d5|\u307c\u304f} \u304c {\u98df\u4e8b|\u3057\u3087\u304f\u3058} \u3092 {\u7d42\u3048\u308b|\u304a\u3048\u308b} \u306e \u306f {\u304a\u8179|\u304a\u306a\u304c} \u304c \u3044\u3063\u3071\u3044 \u306b \u306a\u3063\u305f {\u6642|\u3068\u304d} \u3058\u3083 \u306a\u3044\u3002 {\u81ea\u5206|\u3058\u3076\u3093} \u306b \u3046\u3093\u3056\u308a \u3057\u3066 \u3057\u307e\u3063\u305f {\u6642|\u3068\u304d} \u3060 \u3088\u3002",
-        "verb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)"
+        "verb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverb\u3066 + {\u4ed5\u821e\u3046|\u3057\u307e\u3046} = finish doing ~, go and ~ (sometimes regretful; spoken: ~\u3066{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3061\u3083\u3046, ~\u3067{\u4ed5\u821e\u3046|\u3057\u307e\u3046} --> ~\u3058\u3083\u3046)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Miki-chan is (your) girlfriend, right? Um, (you) might say girlfriend, or friend, or something. {plain}",
@@ -6367,7 +6367,7 @@ Flashcards.initialize([
     [
         "(You) don't have to go, you know. But everybody said they're going. I have to go too. {casual}",
         "{\u884c\u304b\u306a\u304f\u3066|\u3044\u304b\u306a\u304f\u3066} \u3082 \u3044\u3044 \u3088\u3002 \u3060\u3063\u3066\u3001 {\u7686|\u307f\u3093\u306a} {\u884c\u304f\u3063\u3066|\u3044\u304f\u3063\u3066}\u3002 {\u79c1|\u308f\u305f\u3057} \u3082 {\u884c\u304b\u306a\u3044|\u3044\u304b\u306a\u3044} \u3068\u3002",
-        "~ \u3060\u3063\u3066 = ~ \u3068 \u306f \u3044\u3063\u3066 \u3082 (even if that was the case; casual; complain, excuse)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\n\u3068 conditional: can imply {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 (spoken casual)"
+        "~ \u3060\u3063\u3066 = ~ \u3068 \u306f \u3044\u3063\u3066 \u3082 (even if that was the case; casual; complain, excuse)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nnegative conditional + {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 = must,  have to\n\u3068 conditional: can imply {\u99c4\u76ee|\u3060\u3081}/\u3044\u3051\u306a\u3044/\u306a\u3089\u306a\u3044 (spoken casual)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Does that mean that Miki-chan doesn't have a boyfriend now? {casual, slang/short}",
@@ -6387,37 +6387,37 @@ Flashcards.initialize([
     [
         "(I) tried eating okonomiyaki for the first time and it was very tasty! {plain}",
         "{\u304a\u597d\u307f\u713c\u304d|\u304a\u3053\u306e\u307f\u3084\u304d} \u3092 {\u521d\u3081\u3066|\u306f\u3058\u3081\u3066} {\u98df\u3079\u3066|\u305f\u3079\u3066} \u307f\u305f \u3051\u3069\u3001 \u3068\u3066\u3082 {\u7f8e\u5473\u3057\u304b\u3063\u305f|\u304a\u3044\u3057\u304b\u3063\u305f}\uff01",
-        "verb\u3066 + \u307f\u308b = try doing ~\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "verb\u3066 + \u307f\u308b = try doing ~\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(He) attempts to avoid study every day. {plain}",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061}\u3001 {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3092 {\u907f\u3051\u3088\u3046|\u3055\u3051\u3088\u3046} \u3068 \u3059\u308b\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(He's) attempting to force (his) way into the room. {plain}",
         "{\u7121\u7406\u77e2\u7406|\u3080\u308a\u3084\u308a} \u306b {\u90e8\u5c4b|\u3078\u3084} \u306b {\u5165\u308d\u3046|\u306f\u3044\u308d\u3046} \u3068 \u3057\u3066 \u3044\u308b\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I) attempted to sleep early, but (I) ended up staying up all night. {plain}",
         "{\u65e9\u304f|\u306f\u3084\u304f} {\u5bdd\u3088\u3046|\u306d\u3088\u3046} \u3068 \u3057\u305f \u3051\u3069\u3001 {\u7d50\u5c40|\u3051\u3063\u304d\u3087\u304f} \u306f {\u5fb9\u591c|\u3066\u3064\u3084} \u3057\u305f\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "(I) decided to attempt to go to the gym every day. {plain}",
         "{\u6bce\u65e5|\u307e\u3044\u306b\u3061} \u30b8\u30e0 \u306b {\u884c\u3053\u3046|\u3044\u3053\u3046} \u3068 {\u6c7a\u3081\u305f|\u304d\u3081\u305f}\u3002",
-        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)"
+        "verb\u304a\u3046/\u3088\u3046 + \u3068 + \u3059\u308b = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than \u3059\u308b)\nverb\u304a\u3046/\u3088\u3046: {\u8a00\u304a\u3046|\u3044\u304a\u3046}, {\u805e\u3053\u3046|\u304d\u3053\u3046}, {\u98df\u3079\u3088\u3046|\u305f\u3079\u3088\u3046}, \u3057\u3088\u3046, {\u6765\u3088\u3046|\u3053\u3088\u3046}"
     ],
     [
         "Will (you) go in (my) place? (I'll) go in (your) place. {plain}",
         "{\u4ee3\u308f\u308a|\u304b\u308f\u308a} \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066} \u304f\u308c\u308b\uff1f {\u4ee3\u308f\u308a|\u304b\u308f\u308a} \u306b {\u884c\u3063\u3066|\u3044\u3063\u3066} \u3042\u3052\u308b\u3002",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nX \u306f/\u304c (Y \u3092) verb\u3066 {\u4e0a\u3052\u308b|\u3042\u3052\u308b} = X(in) does ~ for Y(out) (never to superiors)"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nX \u306f/\u304c (Y \u3092) verb\u3066 {\u4e0a\u3052\u308b|\u3042\u3052\u308b} = X(in) does ~ for Y(out) (never to superiors)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I) wanted to get (my) homework checked, but there was no time and it was impossible. {plain}",
         "{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3092 \u30c1\u30a7\u30c3\u30af \u3057\u3066 \u3082\u3089\u3044\u305f\u304b\u3063\u305f \u3051\u3069\u3001 {\u6642\u9593|\u3058\u304b\u3093} \u304c \u306a\u304f\u3066 {\u7121\u7406|\u3080\u308a} \u3060\u3063\u305f\u3002",
-        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "X \u306f/\u304c Y \u306b/\u304b\u3089 verb\u3066 {\u8cb0\u3046|\u3082\u3089\u3046} = X (asked and) got Y do do ~ (Y != {\u79c1|\u308f\u305f\u3057})\nverb-stem + \u305f\u3044 = want to ~ (verb --> \u3044 adj.)\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}\nverb\u305f\u3044: {\u8a00\u3044\u305f\u3044|\u3044\u3044\u305f\u3044}, {\u805e\u304d\u305f\u3044|\u304d\u304d\u305f\u3044}, {\u98df\u3079\u305f\u3044|\u305f\u3079\u305f\u3044}, \u3057\u305f\u3044, {\u6765\u305f\u3044|\u304d\u305f\u3044}"
     ],
     [
         "(He) received that watch from me. {plain}",
@@ -6437,57 +6437,57 @@ Flashcards.initialize([
     [
         "Won't (you) be a little more quiet? {plain}",
         "\u3061\u3087\u3063\u3068 {\u9759\u304b|\u3057\u305a\u304b} \u306b \u3057\u3066 \u304f\u308c\u306a\u3044\uff1f",
-        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates"
+        "X \u306f/\u304c (Y \u3092) verb\u3066 {\u5449\u308c\u308b|\u304f\u308c\u308b} = X(out) does ~ for Y(in)\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Could (you) not eat it all?",
         "{\u5168\u90e8|\u305c\u3093\u3076} {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044} \u3067 \u304f\u308c\u307e\u3059 \u304b\u3002",
-        "verb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~"
+        "verb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "Could (you) not buy expensive things? {plain}",
         "{\u9ad8\u3044|\u305f\u304b\u3044} {\u7269|\u3082\u306e} \u3092 {\u8cb7\u308f\u306a\u3044|\u304b\u308f\u306a\u3044} \u3067 \u304f\u308c\u308b\uff1f",
-        "verb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~"
+        "verb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "Please don't go far. {masculin}",
         "{\u9060\u3044|\u3068\u304a\u3044} {\u6240|\u3068\u3053\u308d} \u306b {\u884c\u304b\u306a\u3044|\u3044\u304b\u306a\u3044} \u3067 \u304f\u308c\u3002",
-        "verb\u3066 + {\u5449\u308c|\u304f\u308c} = masculin, commanding request\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~"
+        "verb\u3066 + {\u5449\u308c|\u304f\u308c} = masculin, commanding request\nverb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(Please) lend (me) an eraser. {plain} (Please) lend (me) an eraser. {masculin}",
         "{\u6d88\u3057|\u3051\u3057} \u30b4\u30e0 \u3092 {\u8cb8\u3057\u3066|\u304b\u3057\u3066}\u3002 {\u6d88\u3057|\u3051\u3057} \u30b4\u30e0 \u3092 {\u8cb8\u3057\u3066|\u304b\u3057\u3066} \u304f\u308c\u3002",
-        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066 + {\u5449\u308c|\u304f\u308c} = masculin, commanding request"
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066 + {\u5449\u308c|\u304f\u308c} = masculin, commanding request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please don't write graffiti.",
         "{\u843d\u66f8\u304d|\u3089\u304f\u304c\u304d} \u3092 {\u66f8\u304b\u306a\u3044|\u304b\u304b\u306a\u3044} \u3067 \u304f\u3060\u3055\u3044\u3002",
-        "verb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~"
+        "verb\u306a\u3044 + \u3067 + {\u4e0b\u3055\u3044|\u304f\u3060\u3055\u3044} / {\u5449\u308c\u308b|\u304f\u308c\u308b} = please don't ~ / could (you) not ~\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "Please give (me) the spoon. {childish}",
         "\u30b9\u30d7\u30fc\u30f3 \u3092 \u3061\u3087\u3046\u3060\u3044\u3002",
-        "verb\u3066 + {\u9802\u6234|\u3061\u3087\u3046\u3060\u3044} = request, please ~ (casual, childish, feminine)"
+        "verb\u3066 + {\u9802\u6234|\u3061\u3087\u3046\u3060\u3044} = request, please ~ (casual, childish, feminine)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Please write (your) name here. {childish}",
         "\u3053\u3053 \u306b {\u540d\u524d|\u306a\u307e\u3048} \u3092 {\u66f8\u3044\u3066|\u304b\u3044\u3066} \u3061\u3087\u3046\u3060\u3044\u3002",
-        "verb\u3066 + {\u9802\u6234|\u3061\u3087\u3046\u3060\u3044} = request, please ~ (casual, childish, feminine)"
+        "verb\u3066 + {\u9802\u6234|\u3061\u3087\u3046\u3060\u3044} = request, please ~ (casual, childish, feminine)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Listen well.",
         "\u3088\u304f {\u805e\u304d|\u304d\u304d} \u306a\u3055\u3044\u3002",
-        "\u3044 adj. - \u3044 + \u304f = adverb\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)"
+        "\u3044 adj. - \u3044 + \u304f = adverb\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Sit here.",
         "\u3053\u3053 \u306b {\u5ea7\u308a|\u3059\u308f\u308a} \u306a\u3055\u3044\u3002",
-        "verb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)"
+        "verb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "There's still a lot, so eat a lot.",
         "\u307e\u3060 \u3044\u3063\u3071\u3044 \u3042\u308b \u304b\u3089\u3001 \u305f\u304f\u3055\u3093 {\u98df\u3079|\u305f\u3079} \u306a\u3002",
-        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)"
+        "\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "If (you) think that's fine, then do it!",
@@ -6497,27 +6497,27 @@ Flashcards.initialize([
     [
         "Die!",
         "{\u6b7b\u306d|\u3057\u306d}\uff01",
-        "verb\u3048/\u308d = command (mostly in fiction only)"
+        "verb\u3048/\u308d = command (mostly in fiction only)\nverb\u3048/\u308d: {\u8a00\u3048|\u3044\u3048}, {\u805e\u3051|\u304d\u3051}, {\u98df\u3079\u308d|\u305f\u3079\u308d}, \u3057\u308d, {\u6765\u3044|\u3053\u3044}, {\u5449\u308c|\u304f\u308c}"
     ],
     [
         "Do as (you) please!",
         "{\u597d\u304d|\u3059\u304d} \u306b \u3057\u308d\uff01",
-        "verb\u3048/\u308d = command (mostly in fiction only)"
+        "verb\u3048/\u308d = command (mostly in fiction only)\nverb\u3048/\u308d: {\u8a00\u3048|\u3044\u3048}, {\u805e\u3051|\u304d\u3051}, {\u98df\u3079\u308d|\u305f\u3079\u308d}, \u3057\u308d, {\u6765\u3044|\u3053\u3044}, {\u5449\u308c|\u304f\u308c}"
     ],
     [
         "Come!",
         "{\u6765\u3044|\u3053\u3044}\uff01",
-        "verb\u3048/\u308d = command (mostly in fiction only)"
+        "verb\u3048/\u308d = command (mostly in fiction only)\nverb\u3048/\u308d: {\u8a00\u3048|\u3044\u3048}, {\u805e\u3051|\u304d\u3051}, {\u98df\u3079\u308d|\u305f\u3079\u308d}, \u3057\u308d, {\u6765\u3044|\u3053\u3044}, {\u5449\u308c|\u304f\u308c}"
     ],
     [
         "Go away!",
         "\u3042\u3063\u3061 {\u884c\u3051|\u3044\u3051}\uff01",
-        "verb\u3048/\u308d = command (mostly in fiction only)"
+        "verb\u3048/\u308d = command (mostly in fiction only)\nverb\u3048/\u308d: {\u8a00\u3048|\u3044\u3048}, {\u805e\u3051|\u304d\u3051}, {\u98df\u3079\u308d|\u305f\u3079\u308d}, \u3057\u308d, {\u6765\u3044|\u3053\u3044}, {\u5449\u308c|\u304f\u308c}"
     ],
     [
         "Hurry up and bring (me) alcohol!",
         "{\u65e9\u304f|\u306f\u3084\u304f} {\u9152|\u3055\u3051} \u3092 {\u6301\u3063\u3066|\u3082\u3063\u3066} \u304d\u3066 \u304f\u308c\uff01",
-        "verb\u3048/\u308d = command (mostly in fiction only)\nverb\u3066 + {\u5449\u308c|\u304f\u308c} = masculin, commanding request\nverb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)"
+        "verb\u3048/\u308d = command (mostly in fiction only)\nverb\u3066 + {\u5449\u308c|\u304f\u308c} = masculin, commanding request\nverb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u3048/\u308d: {\u8a00\u3048|\u3044\u3048}, {\u805e\u3051|\u304d\u3051}, {\u98df\u3079\u308d|\u305f\u3079\u308d}, \u3057\u308d, {\u6765\u3044|\u3053\u3044}, {\u5449\u308c|\u304f\u308c}"
     ],
     [
         "Don't eat that!",
@@ -6552,7 +6552,7 @@ Flashcards.initialize([
     [
         "Since there's nobody (here), it's probably fine to change here. {plain, spoken}",
         "{\u8ab0|\u3060\u308c} \u3082 \u3044\u306a\u3044 \u304b\u3089\u3001 \u3053\u3053 \u3067 {\u7740\u66ff\u3048\u3066|\u304d\u304c\u3048\u3066} \u3082 \u3044\u3044 \u3058\u3083\u3093\u3002",
-        "\u3058\u3083\u3093 = confirm the positive (casual, spoken)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+        "\u3058\u3083\u3093 = confirm the positive (casual, spoken)\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Is Takashi here? Dunno. Ah, see, (he's) here! {plain, spoken}",
@@ -6572,7 +6572,7 @@ Flashcards.initialize([
     [
         "Although (he's) saying (he) doesn't have time due to homework, (I) heard (he) went on a date with Miki-chan. {rough, slang}",
         "{\u5bbf\u984c|\u3057\u3085\u304f\u3060\u3044} \u3067 {\u6642\u9593|\u3058\u304b\u3093} \u304c \u306a\u3044 \u3064\u3063\u3066 \u3093 \u306e \u306b\u3001 {\u4e09\u6728|\u307f\u304d} \u3061\u3083\u3093 \u3068 \u30c7\u30fc\u30c8 \u3057 \u306b \u3044\u3063\u305f \u3068 {\u805e\u3044\u305f|\u304d\u3044\u305f} \u3088\u3002",
-        "\u3064, \u3064\u3046 = rough slang for \u3068 {\u8a00\u3046|\u3044\u3046}\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\n\u306e \u306b = despite (verb-plain + \u306e \u306b, ~\u3044/~\u3044\u3067\u3059 + \u306e \u306b, noun/\u306a-adj. + \u306a + \u306e \u306b)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb"
+        "\u3064, \u3064\u3046 = rough slang for \u3068 {\u8a00\u3046|\u3044\u3046}\n\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\n\u306e \u306b = despite (verb-plain + \u306e \u306b, ~\u3044/~\u3044\u3067\u3059 + \u306e \u306b, noun/\u306a-adj. + \u306a + \u306e \u306b)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Like (I) said, (you're) wrong! {rough, slag}",
@@ -6612,17 +6612,17 @@ Flashcards.initialize([
     [
         "Losing to a guy like that. Well, what are (you) going to do? {casual, contempt, slang}",
         "\u3042\u3093\u306a {\u5974|\u3084\u3064} \u306b {\u8ca0\u3051\u3084\u304c\u3063\u3066|\u307e\u3051\u3084\u304c\u3063\u3066}\u3002 \u3058\u3083\u3001 \u3069\u3046 \u3059 \u3093 \u3060 \u3088\uff1f",
-        "verb-stem + \u3084\u304c\u308b = hatred/contempt for the person doing ~ (mostly in fiction only)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "verb-stem + \u3084\u304c\u308b = hatred/contempt for the person doing ~ (mostly in fiction only)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(You) wanna fight? If so, then hurry up and come on! {casual, contempt, slang}",
         "\u3084\u308b {\u6c17|\u304d} \u304b\uff1f \u3060\u3063\u305f\u3089 \u3055\u3063\u3055\u3068 {\u6765\u3084\u304c\u308c|\u304d\u3084\u304c\u308c}\uff01",
-        "verb-stem + \u3084\u304c\u308b = hatred/contempt for the person doing ~ (mostly in fiction only)\nverb\u3046 + {\u6c17|\u304d} = feel like doing ~, willing to do ~ (\u3084\u308b{\u6c17|\u304d})\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3048/\u308d = command (mostly in fiction only)"
+        "verb-stem + \u3084\u304c\u308b = hatred/contempt for the person doing ~ (mostly in fiction only)\nverb\u3046 + {\u6c17|\u304d} = feel like doing ~, willing to do ~ (\u3084\u308b{\u6c17|\u304d})\n(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3048/\u308d = command (mostly in fiction only)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb\u3048/\u308d: {\u8a00\u3048|\u3044\u3048}, {\u805e\u3051|\u304d\u3051}, {\u98df\u3079\u308d|\u305f\u3079\u308d}, \u3057\u308d, {\u6765\u3044|\u3053\u3044}, {\u5449\u308c|\u304f\u308c}\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I) went to Disney Land, and like, it was really crowded... Couldn't do like anything you know... {casual}",
         "\u30c7\u30a3\u30ba\u30cb\u30fc\u30e9\u30f3\u30c9 \u306b {\u884c\u3063\u305f|\u3044\u3063\u305f} \u3093 \u3060 \u3051\u3069 \u3055\u3001 \u306a\u3093 \u304b \u3055\u3001 \u3059\u3054\u3044 {\u8fbc\u3093\u3067\u3066|\u3053\u3093\u3067\u3066}\u2026 {\u4f55|\u306a\u306b} \u3082 \u3067\u304d\u306a\u304f\u3066 \u3055\u2026",
-        "\u3055 at end of sentence = casual \u3088, like...\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\n\u306a\u3093\u304b = filler, \"like\" (casual, from {\u4f55|\u306a\u306b} \u304b)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)"
+        "\u3055 at end of sentence = casual \u3088, like...\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\n\u306a\u3093\u304b = filler, \"like\" (casual, from {\u4f55|\u306a\u306b} \u304b)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "Bob: (I) studied Japanese a lot, right? But (I) still don't get it at all. Alice: No problem. Surely (you'll) become able to understand, you know. Bob: If so, it would be good. {casual}",
@@ -6672,16 +6672,26 @@ Flashcards.initialize([
     [
         "Can (I) call (you) Saki-chan? {casual, masculine}",
         "\u3055\u304d \u3061\u3083\u3093 \u3063\u3066 {\u547c\u3093\u3067|\u3088\u3093\u3067} \u3082 \u3044\u3044 \u304b\u3044\uff1f",
-        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066, following particles can be dropped)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n\u304b\u3044/\u3060\u3044 at end of sentence = strong/masculine question (\u304b\u3044 = yes/no, \u3060\u3044 = open ended)"
+        "~ \u3068 {\u8a00\u3046|\u3044\u3046} = called ~ (define; casual: ~\u3063\u3066, following particles can be dropped)\nverb\u3066 + \u3082 + \u3044\u3044/{\u69cb\u308f\u306a\u3044|\u304b\u307e\u308f\u306a\u3044} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n\u304b\u3044/\u3060\u3044 at end of sentence = strong/masculine question (\u304b\u3044 = yes/no, \u3060\u3044 = open ended)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "What time were (you) planning on coming home exactly? {casual, masculine}",
         "{\u4e00\u4f53|\u3044\u3063\u305f\u3044} {\u4f55\u6642|\u306a\u3093\u3058} \u306b {\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066} \u304f\u308b \u3064\u3082\u308a \u3060\u3063\u305f \u3093 \u3060\u3044\uff1f",
-        "\u304b\u3044/\u3060\u3044 at end of sentence = strong/masculine question (\u304b\u3044 = yes/no, \u3060\u3044 = open ended)\nverb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nverb\u3046 + \u3064\u3082\u308a = intend to ~\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+        "\u304b\u3044/\u3060\u3044 at end of sentence = strong/masculine question (\u304b\u3044 = yes/no, \u3060\u3044 = open ended)\nverb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\nverb\u3046 + \u3064\u3082\u308a = intend to ~\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "(I'm) going to see a movie on Saturday, (shall we) go together? {casual, masculine}",
         "{\u4ffa|\u304a\u308c} \u306f {\u571f\u66dc\u65e5|\u3069\u3088\u3046\u3073}\u3001 {\u6620\u753b|\u3048\u3044\u304c} \u3092 {\u898b|\u307f} \u306b {\u884c\u304f|\u3044\u304f} \u3051\u3069\u3001 {\u4e00\u7dd2|\u3044\u3063\u3057\u3087} \u306b {\u884c\u304f|\u3044\u304f} \u304b\u3044\uff1f",
-        "\u304b\u3044/\u3060\u3044 at end of sentence = strong/masculine question (\u304b\u3044 = yes/no, \u3060\u3044 = open ended)\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)"
+        "\u304b\u3044/\u3060\u3044 at end of sentence = strong/masculine question (\u304b\u3044 = yes/no, \u3060\u3044 = open ended)\n(place + \u3078/\u306b) + verb-stem + \u306b + {\u884c\u304f|\u3044\u304f} = go to place to do verb\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
+    ],
+    [
+        "Excuse me, is that seat occupied?",
+        "\u3059\u307f\u307e\u305b\u3093 \u304c\u3001 \u305d\u306e {\u5e2d|\u305b\u304d} \u306f {\u7a7a\u3044\u3066|\u3042\u3044\u3066} \u3044\u307e\u3059 \u304b\u3002",
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
+    ],
+    [
+        "When (you're) finished, please help (me) with this job.",
+        "{\u624b|\u3066} \u304c {\u7a7a\u3044\u305f\u3089|\u3042\u3044\u305f\u3089}\u3001 \u3053\u306e {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3092 {\u624b\u4f1d\u3063\u3066|\u3066\u3064\u3060\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
+        "(\u3082\u3057 +) verb\u305f\u3089 (\u3070) = if/when ~, (then) ~ (\u3082\u3057 = if) (focus on result, ~\u305f\u3089\u3070 = more formal)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ]
 ])

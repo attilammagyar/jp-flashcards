@@ -151,6 +151,7 @@ verbない + {内|うち} + に = before ~, while not ~
 
 If/when
 =======
+verbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}
 verb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)
 verb-plain/noun/い-adj./な-adj. + なら = if (given that X, Y will happen - contextual condition)
 verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)
@@ -213,6 +214,7 @@ verbう + な = negative command (mostly in fiction only)
 
 Stem
 ----
+verb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}
 verb-stem + たい = want to ~
 verb-stem + たい = want to ~ (verb --> い adj.)
 verb-stem + verb = compound verb (action + qualifier)
@@ -225,6 +227,7 @@ verb-stem + やがる = hatred/contempt for the person doing ~ (mostly in fictio
 
 ~たい
 ----
+verbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}
 ~たい is usually used only in first person or in questions for the second person
 ~たい: may use が instead of を
 ~たい + negative: if topic is not mentioned then は can be used instead of が
@@ -232,6 +235,7 @@ verbたい -> verbたがる = someone else wants to do ~
 
 て-form
 ------
+verbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}
 verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence
 verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)
 motion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)
@@ -254,6 +258,7 @@ verbて + {頂戴|ちょうだい} = request, please ~ (casual, childish, femini
 
 た-form
 -------
+verbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}
 verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences
 verbた + {後|あと} + で = after (finished) doing ~
 verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order
@@ -265,6 +270,7 @@ verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leavi
 
 おう/よう form
 ------------
+verbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}
 verbおう/よう = talking about/to self, I _will_, shall I?
 verbおう/よう + と + {思う|おもう} = I think I _will_ ~
 verbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~
@@ -273,6 +279,7 @@ verbおう/よう + と + して + いる = to be about to do ~
 
 ~ない
 ----
+verbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}
 verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~
 verbない + で + X = (did/happened) X without (doing) ~
 verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~
@@ -282,10 +289,16 @@ verbない + こと + が + ある = sometimes/occasionally not ~
 
 ~える/~られる
 --------
-
-verbえる: を --> は/が
-verbえる + {様|よう} + に + {成る|なる} = become able to ~
+verbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}
+verbえる/られる: を --> は/が
+verbえる/られる + {様|よう} + に + {成る|なる} = become able to ~
 
 ~える/ろ
 -----
+verbえ/ろ: {言え|いえ}, {聞け|きけ}, {食べろ|たべろ}, しろ, {来い|こい}, {呉れ|くれ}
 verbえ/ろ = command (mostly in fiction only)
+
+~わせる/させる
+--------
+verbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}
+verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)

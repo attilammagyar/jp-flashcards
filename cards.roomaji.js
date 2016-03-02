@@ -737,12 +737,12 @@ Flashcards.initialize([
 [
     "Excuse me, do (you) sell stamps?",
     "sumimasen, {切手|kitte} wo {売って|utte} imasu ka.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Do (you) sell camera batteries?",
     "_kamera_ no {電池|denchi} wo {売って|utte} imasu ka.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "How much is this folding fan?",
@@ -752,12 +752,12 @@ Flashcards.initialize([
 [
     "May (I) see those chopsticks?",
     "{其の|sono} {お箸|ohashi} wo {見せて|misete} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "May (I) see that doll over there?",
     "ano {人形|ningyou} wo {見せて|misete} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "May (I) have this rice wine please?",
@@ -1132,7 +1132,7 @@ Flashcards.initialize([
 [
     "Turn right at those traffic lights and go straight ahead please.",
     "ano {信号|shingou} wo {右|migi} ni {曲がって|magatte}, {真っ直ぐ|massugu} {行って|itte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "If (you) turn left at the crossroads, the bank will be on the right side.",
@@ -1157,7 +1157,7 @@ Flashcards.initialize([
 [
     "(I) want to drink a beer.",
     "_biiru_ wo {飲みたい|nomitai} desu.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Last night (I) didn't drink (any) beer at all.",
@@ -1242,67 +1242,67 @@ Flashcards.initialize([
 [
     "Go straight ahead please.",
     "{真っ直ぐ|massugu} {行って|itte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please turn to the right.",
     "{右|migi} ni {曲がって|magatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please turn to the left.",
     "{左|hidari} ni {曲がって|magatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please turn right at the traffic lights.",
     "{信号|shingou} wo {右|migi} ni {曲がって|magatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please cross the bridge.",
     "{橋|hashi} wo {渡って|watatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please cross the footbridge.",
     "{歩道橋|hodoukyou} wo {渡って|watatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please cross the road.",
     "{道|michi} wo {渡って|watatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please turn left at the first traffic lights.",
     "{一つ目|hitotsume} no {信号|shingou} wo {左|hidari} ni {曲がって|magatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please turn left at the next traffic lights.",
     "{次|tsugi} no {信号|shingou} wo {左|hidari} ni {曲がって|magatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Go straight ahead, (then) turn right at the second traffic lights.",
     "{真っ直ぐ|massugu} {行って|itte}, {二つ目|futatsume} no {信号|shingou} wo {右|migi} ni {曲がって|magatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please cross at the pedestrian crossing.",
     "{横断歩道|oudan hodou} wo {渡って|watatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Turn right at the second traffic lights please.",
     "{二つ目|futatsume} no {信号|shingou} wo {右|migi} ni {曲がって|magatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Cross the footbridge, (then) turn left at the corner please.",
     "{歩道橋|hodoukyou} wo {渡って|watatte}, {角|kado} wo {左|hidari} ni {曲がって|magatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "The post office is (located) opposite the bank. The post office is opposite the bank. There is a post office opposite the bank.",
@@ -1352,12 +1352,12 @@ Flashcards.initialize([
 [
     "(I) want to eat rice with chopsticks.",
     "{お箸|ohashi} de {ご飯|gohan} wo {食べたい|tabetai} desu.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) want to buy a Japanese camera.",
     "{日本|nihon} no _kamera_ wo {買いたい|kaitai} desu.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "What is (your) hobby? (My) hobby is paper folding.",
@@ -1417,22 +1417,22 @@ Flashcards.initialize([
 [
     "Excuse me, where is the supermarket? Do you know? {Polite.} Yes, (I) know.",
     "sumimasen, _suupaa_ wa {何処|doko} ni arimasu ka. {御存知|gozonji} desu ka. hai, {知って|shitte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Go straight ahead (then) cross the pedestrian crossing please.",
     "{真っ直ぐ|massugu} {行って|itte}, {横断歩道|oudan hodou} wo {渡って|watatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Turn left at the second traffic lights please. The department store will be on the left side, next door to the theatre.",
     "{二つ目|futatsume} no {信号|shingou} wo {左|hidari} ni {曲がって|magatte} kudasai. _depaato_ wa {左側|hidarigawa} ni arimasu. {劇場|gekijou} no {隣|tonari} desu.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Cross (over) the footbridge (and) turn left at the corner please.",
     "{歩道橋|hodoukyou} wo {渡って|watatte}, {角|kado} wo {左|hidari} ni {曲がって|magatte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "That person is famous you know!",
@@ -1487,12 +1487,12 @@ Flashcards.initialize([
 [
     "Do (you) want to meet again?",
     "mata {会いたい|aitai} desu ka.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "I hope to play tennis together next week.",
     "{来週|raishuu} {一緒|issho} ni _tenisu_ wo shitai to {思います|omoimasu}.",
-    "~たい is usually used only in first person or in questions for the second person"
+    "~たい is usually used only in first person or in questions for the second person\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "She is very kind but a bit serious.",
@@ -1522,7 +1522,7 @@ Flashcards.initialize([
 [
     "Next year I hope to go to Japan again.",
     "{来年|rainen} mata {日本|nihon} ni {行きたい|ikitai} to {思います|omoimasu}.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "I have a headache.",
@@ -1642,7 +1642,7 @@ Flashcards.initialize([
 [
     "(I) hope to eat sushi in Japan and I hope to see Mount Fuji.",
     "{日本|nihon} de {寿司|sushi} wo {食べたい|tabetai} to {思います|omoimasu}. soshite {富士山|fujisan} wo {見たい|mitai} to {思います|omoimasu}.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(It) isn't good.",
@@ -1677,7 +1677,7 @@ Flashcards.initialize([
 [
     "(I've) caught a cold.",
     "{風邪|kaze} wo {引いて|hiite} {仕舞いました|shimaimashita}.",
-    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(My) shoulders ache.",
@@ -1687,7 +1687,7 @@ Flashcards.initialize([
 [
     "Have (you) caught a cold?",
     "{風邪|kaze} {引いて|hiite} {仕舞いました|shimaimashita} ka.",
-    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) have a headache. (My) stomach also hurts.",
@@ -1912,7 +1912,7 @@ Flashcards.initialize([
 [
     "Since (I) saw photos of Japan, (I) got wanting to go. {の で}",
     "{日本|ni hon} no {写真|shashin} wo {見た|mita} no de, {行きたく|ikitaku} narimashita.",
-    "~たい is usually used only in first person or in questions for the second person\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
+    "~たい is usually used only in first person or in questions for the second person\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I'm) full.",
@@ -2017,7 +2017,7 @@ Flashcards.initialize([
 [
     "(I) want to go to Osaka. Isn't (it) an interesting place? Osaka is a wonderful place, but the work was boring.",
     "{大阪|oosaka} ni {行きたい|ikitai} desu. {面白くない|omoshirokunai} {所|tokoro} desu ka. {大阪|oosaka} wa {素晴らしい|subarashii} {所|tokoro} desu ga {仕事|shigoto} wa {詰まらなかった|tsumaranakatta} desu.",
-    "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\n{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "くない = negative of い adj.\nかった = past tense of い adj.\nくなかった = past negative of い adj.\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\n{所|ところ、とこ} = physical or abstract location, part, point\n{場所|ばしょ} = physical location\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) went by bullet train till Osaka. (I) bought single ticket. (I) returned in a colleague's car. That also wasn't enjoyable.",
@@ -2132,47 +2132,47 @@ Flashcards.initialize([
 [
     "(I) want to be a doctor.",
     "{医者|isha} ni naritai desu.",
-    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) want to be a writer.",
     "{作家|sakka} ni naritai desu.",
-    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) want to be a policeman.",
     "{警察官|keisatsukan} ni naritai desu.",
-    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) want to be a lawyer.",
     "{弁護士|bengoshi} ni naritai desu.",
-    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) want to be an astronaut.",
     "{宇宙飛行士|uchuuhikoushi} ni naritai desu.",
-    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) want to be a bank-worker.",
     "{銀行員|ginkouin} ni naritai desu.",
-    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "When (I) was a child, (I) wanted to be a film star.",
     "{子供|kodomo} no {頃|koro}, {映画|eiga} _sutaa_ ni naritakatta desu.",
-    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "When (I) was a child, (I) wanted to be a firefighter.",
     "{子供|kodomo} no {頃|koro}, {消防士|shouboushi} ni naritakatta desu.",
-    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~"
+    "noun/な adj. + に + {成る|なる} = become ~\nverb-stem + たい = want to ~ (verb --> い adj.)\nかった = past tense of い adj.\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) didn't want to drink alcohol.",
     "{お酒|osake} wo {飲みたくなかった|nomitakunakatta} desu.",
-    "~たい is usually used only in first person or in questions for the second person"
+    "~たい is usually used only in first person or in questions for the second person\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Miki doesn't like beer very much.",
@@ -2182,22 +2182,22 @@ Flashcards.initialize([
 [
     "Every morning Ms. Natsuko reads the newspaper while drinking coffee.",
     "{毎朝|maiasa} {夏子|natsuko} san wa _koohii_ wo {飲みながら|nominagara} {新聞|shinbun} wo {読みます|yomimasu}.",
-    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Roger taught Miki how to do bowling.",
     "_rojaa_ san wa {三木|miki} san ni _booringu_ no {仕方|shikata} wo {教えました|oshiemashita}.",
-    "verb-stem + {方|かた} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb-stem + {方|かた}"
+    "verb-stem + {方|かた} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb-stem + {方|かた}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Ms. Natsuko went to the town to meet Miki.",
     "{夏子|natsuko} san wa {町|machi} he {三木|miki} san ni {会い|ai} ni {行きました|ikimashita}.",
-    "へ = to, towards, pronounced as え\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb"
+    "へ = to, towards, pronounced as え\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "This film looks interesting, doesn't it?",
     "{此の|kono} {映画|eiga} wa {面白そう|omoshirosou} desu ne.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Roger likes sports the best/most.",
@@ -2207,7 +2207,7 @@ Flashcards.initialize([
 [
     "(I) want to be a doctor in the future.",
     "{将来|shourai} {医者|isha} ni naritai desu.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Mr. Yamada works every day until late.",
@@ -2217,17 +2217,17 @@ Flashcards.initialize([
 [
     "I don't want to eat sushi. (I) don't want to eat sushi.",
     "{私|watashi} wa {寿司|sushi} wo {食べたくない|tabetakunai} desu. {寿司|sushi} wa {食べたくない|tabetakunai} desu.",
-    "~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person"
+    "~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Last night (I) didn't want to drink beer.",
     "{昨夜|yuube} _biiru_ wa {飲みたくなかった|nomitakunakatta} desu.",
-    "~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person"
+    "~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) want to eat a banana. (I) want to eat a banana.",
     "_banana_ wo {食べたい|tabetai} desu. _banana_ ga {食べたい|tabetai} desu.",
-    "verb-stem + たい = want to ~ (verb --> い adj.)\n~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person"
+    "verb-stem + たい = want to ~ (verb --> い adj.)\n~たい: may use が instead of を\n~たい + negative: if topic is not mentioned then は can be used instead of が\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(My) mom's cooking is the most delicious in the world.",
@@ -2297,47 +2297,47 @@ Flashcards.initialize([
 [
     "Ms. Natsuko drank green tea while listening to the news.",
     "{夏子|natsuko} san wa _nyuusu_ wo {聞きながら|kikinagara} {お茶|ocha} wo {飲みました|nomimashita}.",
-    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Naoe talked to Yuki while making a meal.",
     "{直慧|naoe} san wa {食事|shokuji} wo {作りながら|tsukurinagara} {侑妃|yuki} san to {話しました|hanashimashita}.",
-    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Robert wrote kanji while listening to music.",
     "_robaato_ san wa {音楽|ongaku} wo {聞きながら|kikinagara} {漢字|kanji} wo {書きました|kakimashita}.",
-    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Mr. Hondo eats (his) lunch while working.",
     "{本藤|hondou} san wa {働きながら|hatarakinagara} {昼ご飯|hirugohan} wo {食べます|tabemasu}.",
-    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Rie taught Roger how to make sushi.",
     "{莉描|rie} san wa _rojaa_ san ni {寿司|sushi} no {作り方|tsukurikata} wo {教えました|oshiemashita}.",
-    "verb-stem + {方|かた} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb-stem + {方|かた}"
+    "verb-stem + {方|かた} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb-stem + {方|かた}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "I went with Ms. Natsuko to a restaurant to eat Japanese food.",
     "{私|watashi} wa {夏子|natsuko} san to _resutoran_ he {和食|washoku} wo {食べ|tabe} ni {行きました|ikimashita}.",
-    "へ = to, towards, pronounced as え\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb"
+    "へ = to, towards, pronounced as え\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
     "{有名そう|yuumeisou} desu. {此の|kono} {映画|eiga} wa {詰まらなそう|tsumaranasou} desu. {頭|atama} ga {痛そう|itasou} desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(She) looks very beautiful, doesn't she?",
     "totemo {美しそう|utsukushisou} desu ne.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(It) looks like (it) will rain.",
     "{雨|ame} ga {降りそう|furisou} desu.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "What do (you) do in (your) free time? For example, what are (your) hobbies?",
@@ -2447,12 +2447,12 @@ Flashcards.initialize([
 [
     "Let's go with my car! I'll go to your apartment at 12 o'clock to pick you up.",
     "{僕|boku} no {車|kuruma} de {行きましょう|ikimashou}. {十二時|juuniji} ni {貴方|anata} no _apaato_ he {迎え|mukae} ni {行きます|ikimasu}.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "When (I) was a child, (I) wanted to become a firefighter, but, in fact, (I) became a journalist.",
     "{子供|kodomo} no {頃|koro}, {消防士|shouboushi} ni naritakatta desu ga, {実|jitsu} wa, _jaanarisuto_ ni narimashita.",
-    "noun/な adj. + に + {成る|なる} = become ~\nい adj. - い + く + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "noun/な adj. + に + {成る|なる} = become ~\nい adj. - い + く + {成る|なる} = become ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nnoun + の + {頃|ころ} = when ~, as a ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Every day (I) work until late in the evening, but the work is very enjoyable.",
@@ -2462,37 +2462,37 @@ Flashcards.initialize([
 [
     "(I) frequently do my work at home while having a meal, but it can't be helped.",
     "{度々|tabitabi} {家|uchi} de {食事|shokuji} wo shinagara {仕事|shigoto} wo shimasu ga {仕方|shikata} ga arimasen.",
-    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I) want to work in America in the future.",
     "{将来|shourai} _amerika_ de {働きたい|hatarakitai} desu.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
     "_amerika_ no {生活|seikatsu} wa {面白そう|omoshirosou} desu ga {東京|toukyou} no {生活|seikatsu} ga {一番|ichiban} {好き|suki} desu.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
     "{明日|ashita} {夏子|natsuko} san to {一緒|issho} ni {町|machi} he {映画|eiga} wo {見に|mini} {行きます|ikimasu}.",
-    "(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb"
+    "(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "A filmstar's lifestyle looks unpleasant, doesn't it?",
     "{映画|eiga} _sutaa_ no {生活|seikatsu} wa {不愉快そう|fuyukaisou} desu ne.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I) don't know how to make cakes.",
     "_keeki_ no {作り方|tsukurikata} ga {分かりません|wakarimasen}.",
-    "verb-stem + {方|かた} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb-stem + {方|かた}"
+    "verb-stem + {方|かた} = how to do verb (verb --> noun)\nnoun を verb --> noun の verb-stem + {方|かた}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Miki looks like (she) will eat that sushi, doesn't she?",
     "{三木|miki} san wa {其の|sono} {寿司|sushi} wo {食べそう|tabesou} desu ne.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I) liked watching movies very much.",
@@ -2507,47 +2507,47 @@ Flashcards.initialize([
 [
     "Please eat (your) breakfast.",
     "{朝ご飯|asagohan} wo {食べて|tabete} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please write an essay.",
     "{作文|sakubun} wo {書いて|kaite} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please listen to the news.",
     "_nyuusu_ wo {聞いて|kiite} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please drink water.",
     "{水|mizu} wo {飲んで|nonde} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please look at the teacher.",
     "{先生|sensei} wo {見て|mite} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please show (me your) essay.",
     "{作文|sakubun} wo {見せて|misete} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please buy a digital camera.",
     "_dejikame_ wo {買って|katte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please read the essay.",
     "{作文|sakubun} wo {読んで|yonde} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please speak Japanese.",
     "{日本語|nihongo} wo {話して|hanashite} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "te-form song",
@@ -2557,27 +2557,27 @@ Flashcards.initialize([
 [
     "(I) get up at 6 o'clock, eat breakfast, then set off at 7 o'clock.",
     "{六時|rokuji} ni {起きて|okite}, {朝ご飯|asagohan} wo {食べて|tabete}, {七時|shichiji} ni {出掛けます|dekakemasu}.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "In the evening, after eating dinner, (I) send emails on (my) computer.",
     "{夜|yoru} {晩ご飯|bangohan} wo {食べて|tabete} kara _konpyuutaa_ de *e*_meeru_ wo {出します|dashimasu}.",
-    "verbて + から = after doing ~, since doing ~"
+    "verbて + から = after doing ~, since doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "May (I) watch the tv?",
     "_terebi_ wo {見て|mite} mo ii desu ka.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(You) may eat here.",
     "{此処|koko} de {食べて|tabete} mo ii desu.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(You) are not allowed to eat here.",
     "{此処|koko} de {食べて|tabete} wa ikemasen.",
-    "verbて + は + いけません = doing verb is not allowed"
+    "verbて + は + いけません = doing verb is not allowed\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "The post office is (open) from 9 o'clock until 5 o'clock.",
@@ -2587,22 +2587,22 @@ Flashcards.initialize([
 [
     "Every day (I) have lunch at 12 o'clock, then (I) go to work.",
     "{毎日|mainichi} {十二時|juuniji} ni {昼ご飯|hirugohan} wo {食べて|tabete}, {仕事|shigoto} ni {行きます|ikimasu}.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Yesterday (I) got up late, (I) drank some coffee, then (I) went into town.",
     "{昨日|kinou} {遅く|osoku} {起きて|okite}, _koohii_ wo {飲んで|nonde}, {町|machi} ni {行きました|ikimashita}.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Tomorrow (I) will go home at 6 o'clock, have dinner, then watch TV.",
     "{明日|ashita} {六時|rokuji} ni {帰って|kaette}, {晩ご飯|bangohan} wo {食べて|tabete}, _terebi_ wo {見ます|mimasu}.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "On Mondays, (I) study Japanese, then (I) go to a restaurant to eat lunch.",
     "{月曜日|getsuyoubi} ni {日本語|nihongo} wo {勉強|benkyou} shite, _resutoran_ he {昼ご飯|hirugohan} wo {食べ|tabe} ni {行きます|ikimasu}.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Before long (after short), (we) will get home.",
@@ -2612,12 +2612,12 @@ Flashcards.initialize([
 [
     "Please wait a little more.",
     "mou {少し|sukoshi} {待って|matte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Nowadays (I) don't want to drink coffee very much.",
     "{この頃|konogoro} _koohii_ wo {余り|amari} {飲みたくない|nomitakunai} desu.",
-    "verb-stem + たい = want to ~"
+    "verb-stem + たい = want to ~\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(There are) too many orders, (it) takes time.",
@@ -2627,57 +2627,57 @@ Flashcards.initialize([
 [
     "After (I've) studied Japanese, (I) usually relax.",
     "{日本語|nihongo} wo {勉強|benkyou} shite kara, {大抵|taitei} _gorogoro_ shimasu.",
-    "verbて + から = after doing ~, since doing ~"
+    "verbて + から = after doing ~, since doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "After (I'd) phoned my parents, (I) went to (my) friend's house.",
     "{両親|ryoushin} ni {電話|denwa} shite kara, {友達|tomodachi} no {家|uchi} ni {行きました|ikimashita}.",
-    "verbて + から = after doing ~, since doing ~"
+    "verbて + から = after doing ~, since doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "After reading the newspaper, (I) cleaned the house.",
     "{新聞|shinbun} wo {読んで|yonde} kara, {家|uchi} wo {掃除|souji} shimashita.",
-    "verbて + から = after doing ~, since doing ~"
+    "verbて + から = after doing ~, since doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "May (I) go to the toilet?",
     "_toire_ ni {行って|itte} mo ii desu ka.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "May (I) listen to music here?",
     "{此処|koko} de {音楽|ongaku} wo {聞いて|kiite} mo ii desu ka.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "May (I) open the window? May (I) close the window?",
     "{窓|mado} wo {開けて|akete} mo ii desu ka. {窓|mado} wo {閉めて|shimete} mo ii desu ka.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "May (I) enter this room?",
     "{此の|kono} {部屋|heya} ni {入って|haitte} mo ii desu ka.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "May (I) take a bath?",
     "{お風呂|ofuro} ni {入って|haitte} mo ii desu ka.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(You are) not allowed to open that door.",
     "{其の|sono} _doa_ wo {開けて|akete} wa ikemasen.",
-    "verbて + は + いけません = doing verb is not allowed"
+    "verbて + は + いけません = doing verb is not allowed\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(You are) not allowed to enter this room.",
     "{此の|kono} {部屋|heya} ni {入って|haitte} wa ikemasen.",
-    "verbて + は + いけません = doing verb is not allowed"
+    "verbて + は + いけません = doing verb is not allowed\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(You are) not allowed to take a bath.",
     "{お風呂|ofuro} ni {入って|haitte} wa ikemasen.",
-    "verbて + は + いけません = doing verb is not allowed"
+    "verbて + は + いけません = doing verb is not allowed\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "The film is from 7:30 to 10:30.",
@@ -2702,22 +2702,22 @@ Flashcards.initialize([
 [
     "This youth hostel is open until 10 AM. Then (it's) open again from 4 PM. Daytime entry is not allowed.",
     "{此の|kono} _yuusu hosuteru_ wa {午前|gozen} {十時|juuji} made {開いて|aite} imasu. soshite mata {午後|gogo} {四時|yoji} kara {開いて|aite} imasu. {昼間|hiruma} {入って|haitte} wa ikemasen.",
-    "verbて + は + いけません = doing verb is not allowed"
+    "verbて + は + いけません = doing verb is not allowed\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Inside the youth hostel, wearing shoes is not allowed.",
     "_yuusu hosuteru_ no {中|naka} de wa {靴|kutsu} wo {履いて|haite} wa ikemasen.",
-    "verbて + は + いけません = doing verb is not allowed\nはく -> はいて"
+    "verbて + は + いけません = doing verb is not allowed\nはく -> はいて\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Men may take a bath from 5 o'clock until 7 o'clock, women from 7 o'clock until 9 o'clock.",
     "{男性|dansei} wa {五時|goji} kara {七時|shichiji} made {お風呂|ofuro} ni {入って|haitte} mo ii desu. {女性|josei} wa {七時|shichiji} kara {九時|kuji} made desu.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Don't eat at the rooms. Please eat at the canteen.",
     "{部屋|heya} de {食べて|tabete} wa {駄目|dame} desu. {食堂|shokudou} de {食べて|tabete} kudasai.",
-    "verbて + は + {駄目|だめ} = must not do verb\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + は + {駄目|だめ} = must not do verb\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Rooms are separated? I can't believe it!",
@@ -2727,22 +2727,22 @@ Flashcards.initialize([
 [
     "(I) wake up at 7 o'clock and always drink coffee for breakfast.",
     "{七時|shichiji} ni {起きて|okite}, {朝ご飯|asagohan} ni {何時も|itsumo} _koohii_ wo {飲みます|nomimasu}.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "In the morning (I) frequently do the shopping with a friend at a department store, and have a meal at a restaurant.",
     "{朝|asa} {度々|tabitabi} {友達|tomodachi} to _depaato_ de {買い物|kaimono} wo shite, _resutoran_ de {食事|shokuji} wo shimasu.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "After returning home (I) occasionally clean up the house.",
     "{家|uchi} ni {帰って|kaette} kara {偶|tama} ni {家|uchi} wo {掃除|souji} shimasu.",
-    "verbて + から = after doing ~, since doing ~"
+    "verbて + から = after doing ~, since doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) watch TV, make dinner and do work from 7 o'clock in the evening.",
     "_terebi_ wo {見て|mite}, {晩ご飯|bangohan} wo {作って|tsukutte}, {夜|yoru} {七時|shichiji} kara {仕事|shigoto} wo shimasu.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Now (I'll) explain the school's rules.",
@@ -2752,27 +2752,27 @@ Flashcards.initialize([
 [
     "In case (you) want to talk with a teacher, (you) may enter the staff's room.",
     "{先生|sensei} to {話したい|hanashitai} {場合|baai} wa, {職員室|shokuinshitsu} ni {入って|haitte} mo ii desu.",
-    "verb-stem + たい = want to ~ (verb --> い adj.)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verb-stem + たい = want to ~ (verb --> い adj.)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(It's) not allowed to go to the toilet during class.",
     "{授業|jugyou} no {間|aida} _toire_ ni {行って|itte} wa ikemasen.",
-    "verbて + は + いけません = doing verb is not allowed"
+    "verbて + は + いけません = doing verb is not allowed\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(You) may eat (your) lunch in the classroom.",
     "{教室|kyoushitsu} de {昼ご飯|hirugohan} wo {食べて|tabete} mo ii desu.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Wearing accessories, earrings, etc. is not allowed.",
     "_akusesarii_ ya _iyaringu_ nado wo shite wa ikemasen.",
-    "A や B や C など = A, B, C, etc.\nや: incomplete list\nverbて + は + いけません = doing verb is not allowed\nする -> して"
+    "A や B や C など = A, B, C, etc.\nや: incomplete list\nverbて + は + いけません = doing verb is not allowed\nする -> して\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Occasionally (I) meet with a university teacher and (we) talk about studies.",
     "{偶|tama} ni {大学|daigaku} no {先生|sensei} to {会って|atte}, {勉強|benkyou} ni {就いて|tsuite} {話します|hanashimasu}.",
-    "noun + に + ついて = about noun\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "noun + に + ついて = about noun\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Every night, together with the band members, (we) do the band's rehearsals.",
@@ -2782,47 +2782,47 @@ Flashcards.initialize([
 [
     "Please hold this camera.",
     "{此の|kono} _kamera_ wo {持って|motte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "May (I) switch on the lights? Please switch off the lights.",
     "{電気|denki} wo {点けて|tsukete} mo ii desu ka. {電気|denki} wo {消して|keshite} kudasai.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて + ください = request"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(You are) not allowed to sing in here.",
     "{此処|koko} de {歌って|utatte} wa ikemasen.",
-    "verbて + は + いけません = doing verb is not allowed"
+    "verbて + は + いけません = doing verb is not allowed\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please choose one.",
     "{一つ|hitotsu} {選んで|erande} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(You) may play (your) guitar in this room.",
     "{此の|kono} {部屋|heya} de _gitaa_ wo {弾いて|hiite} mo ii desu.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "May (I) take a rest?",
     "{休んで|yasunde} mo ii desu ka.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please take off (your) shoes.",
     "{靴|kutsu} wo {脱いで|nuide} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please decide quickly.",
     "{速く|hayaku} {決めて|kimete} kudasai.",
-    "verbて + ください = request\nい adj. - い + く = adverb"
+    "verbて + ください = request\nい adj. - い + く = adverb\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(You are) not allowed to go out in the evening.",
     "{夜|yoru} {出て|dete} wa ikemasen.",
-    "verbて + は + いけません = doing verb is not allowed"
+    "verbて + は + いけません = doing verb is not allowed\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "hold/possess",
@@ -2882,22 +2882,22 @@ Flashcards.initialize([
 [
     "What (are you) doing at the moment?",
     "{今|ima} {何|nani} wo shite imasu ka.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I am) reading a Japanese newspaper.",
     "{日本語|nihongo} no {新聞|shinbun} wo {読んで|yonde} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I am) writing a letter to (my) friend.",
     "{友達|tomodachi} ni {手紙|tegami} wo {書いて|kaite} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I am) resting now.",
     "{今|ima} {休んで|yasunde} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Let's go in through the window quietly.",
@@ -2997,27 +2997,27 @@ Flashcards.initialize([
 [
     "(I) was reading a Japanese language newspaper.",
     "{日本語|nihongo} no {新聞|shinbun} wo {読んで|yonde} imashita.",
-    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action"
+    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) was having a meal with (my) family.",
     "{家族|kazoku} to {食事|shokuji} wo shite imashita.",
-    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action"
+    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) was writing a letter to (my) friend.",
     "{友達|tomodachi} ni {手紙|tegami} wo {書いて|kaite} imashita.",
-    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action"
+    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) was talking with (my) friends.",
     "{友達|tomodachi} to {話して|hanashite} imashita.",
-    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action"
+    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) was buying a camera at the department store.",
     "_depaato_ de _kamera_ wo {買って|katte} imashita.",
-    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action"
+    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "The piano takes up (a lot of) space.",
@@ -3032,17 +3032,17 @@ Flashcards.initialize([
 [
     "(I'm) learning the guitar.",
     "_gitaa_ wo {習って|naratte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nならう -> ならって"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nならう -> ならって\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(My) older sister is married.",
     "{姉|ane} wa {結婚|kekkon} shite imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(My) dad has gone to (and is in) America at the moment.",
     "{父|chichi} wa {今|ima} _amerika_ ni {行って|itte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Let's try this sushi!",
@@ -3052,117 +3052,117 @@ Flashcards.initialize([
 [
     "(I) want (you) to switch off the TV.",
     "_terebi_ wo {消して|keshite} {欲しい|hoshii} desu.",
-    "(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)"
+    "(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Have (you) already eaten breakfast? No, (I) haven't eaten yet.",
     "mou {朝ご飯|asagohan} wo {食べました|tabemashita} ka. iie, {未だ|mada} {食べて|tabete} imasen.",
-    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet"
+    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) wasn't using the computer last week.",
     "{先週|senshuu} _konpyuutaa_ wo {使って|tsukatte} imasen deshita.",
-    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action"
+    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I'm) reading a very good book currently.",
     "{今|ima} totemo ii {本|hon} wo {読んで|yonde} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) eat dinner with (my) family every day. (I) eat dinner with (my) family every day. {emphasize habit}",
     "{毎日|mainichi} {家族|kazoku} to {晩ご飯|bangohan} wo {食べます|tabemasu}. {毎日|mainichi} {家族|kazoku} to {晩ご飯|bangohan} wo {食べて|tabete} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) always eat sushi on Saturdays. {emphasize habit}",
     "{土曜日|doyoubi} ni {何時も|itsumo} {寿司|sushi} wo {食べて|tabete} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) commute to work by train. {emphasize habit}",
     "{仕事|shigoto} ni {電車|densha} de {通って|kayotte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nかよう -> かよって"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nかよう -> かよって\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Miki was teaching Japanese in America. {emphasize habit}",
     "{三木|miki} san wa _amerika_ de {日本語|nihongo} wo {教えて|oshiete} imashita.",
-    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action"
+    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Roger has entered the room. {and is still there}",
     "_rojaa_ san wa {部屋|heya} ni {入って|haitte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(My) parents live in Tokyo.",
     "{両親|ryoushin} wa {東京|toukyou} ni {住んで|sunde} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) know Tokyo well.",
     "{東京|toukyou} wo {良く|yoku} {知って|shitte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) always return home at 6 o'clock. Mr. Yamada has gone home. {and is there now}",
     "{何時も|itsumo} {六時|rokuji} ni {家|uchi} ni {帰って|kaette} imasu. {山田|yamada} san wa {家|uchi} ni {帰って|kaette} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "A friend has come. {and is still here}",
     "{友達|tomodachi} ga {来て|kite} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(My) parents have gone to Japan. {and are still there} (My) parents have returned to England. {and are staying there permanently}",
     "{両親|ryoushin} wa {日本|nihon} ni {行って|itte} imasu. {両親|ryoushin} wa _igirisu_ ni {帰りました|kaerimashita}.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Both Robert and Roger teach English in Japan.",
     "_robaato_ san mo _rojaa_ san mo {日本|nihon} de {英語|eigo} wo {教えて|oshiete} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Robert has come to Japan from England.",
     "_robaato_ san wa _igirisu_ kara {日本|nihon} ni {来て|kite} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) am currently learning flower arrangement.",
     "{今|ima} {生け花|ikebana} wo {習って|naratte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nならう -> ならって"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nならう -> ならって\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) want to try going to Japan by myself.",
     "{一人|hitori} de {日本|nihon} ni {行って|itte} mitai desu.",
-    "verbて + みる = try doing ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verbて + みる = try doing ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "If (you) try (it, it's) easy.",
     "yatte miru to {簡単|kantan} desu.",
-    "verbて + みる = try doing ~\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
+    "verbて + みる = try doing ~\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) want to try drinking Japanese beer.",
     "{日本|nihon} no _biiru_ wo {飲んで|nonde} mitai desu.",
-    "verbて + みる = try doing ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "verbて + みる = try doing ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "May (I) try phoning Mr. Yamada?",
     "{山田|yamada} san ni {電話|denwa} wo shite mite mo ii desu ka.",
-    "verbて + みる = try doing ~\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + みる = try doing ~\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) want to try on this jacket.",
     "{此の|kono} _jaketto_ wo {着て|kite} mitai desu.",
-    "verbて + みる = try doing ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\n{着る|きる} -> {着て|きて}"
+    "verbて + みる = try doing ~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\n{着る|きる} -> {着て|きて}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) want (you) to do (your) homework.",
     "{宿題|shukudai} wo shite {欲しい|hoshii} desu.",
-    "(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)"
+    "(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "What do (you) want?",
@@ -3172,7 +3172,7 @@ Flashcards.initialize([
 [
     "(I) want Miki to come to my house.",
     "{三木|miki} san ni {私|watashi} no {家|uchi} ni {来て|kite} {欲しい|hoshii} desu.",
-    "(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)"
+    "(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) want a big car.",
@@ -3182,27 +3182,27 @@ Flashcards.initialize([
 [
     "(I) haven't eaten breakfast yet. (I) am still eating breakfast. Mr. Yamada is still at the company.",
     "{未だ|mada} {朝ご飯|asagohan} wo {食べて|tabete} imasen. {未だ|mada} {朝ご飯|asagohan} wo {食べて|tabete} imasu. {山田|yamada} san wa {未だ|mada} {会社|kaisha} ni imasu.",
-    "{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\n{未だ|まだ} + verbて + います = still doing ~ (incomplete action)\n{未だ|まだ}/もう + place に + います/あります = still/already being at ~"
+    "{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\n{未だ|まだ} + verbて + います = still doing ~ (incomplete action)\n{未だ|まだ}/もう + place に + います/あります = still/already being at ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) have already eaten breakfast. (I) no longer eat breakfast. Yuki no longer learns the piano. {discontinued habit}",
     "mou {朝ご飯|asagohan} wo {食べました|tabemashita}. mou {朝ご飯|asagohan} wo {食べません|tabemasen}. {侑妃|yuki} san wa mou _piano_ wo {習って|naratte} imasen.",
-    "もう + verb-past = already completed doing ~\nもう + verb-present-negative = no longer doing ~ (complete action)\nもう + verbて + いません = discontinued habitual action (no longer)\nならう -> ならって"
+    "もう + verb-past = already completed doing ~\nもう + verb-present-negative = no longer doing ~ (complete action)\nもう + verbて + いません = discontinued habitual action (no longer)\nならう -> ならって\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Are (you) still eating breakfast? No, (I've) already eaten (it).",
     "{未だ|mada} {朝ご飯|asagohan} wo {食べて|tabete} imasu ka. iie, mou {食べました|tabemashita}.",
-    "{未だ|まだ} + verbて + います = still doing ~ (incomplete action)\nもう + verb-past = already completed doing ~"
+    "{未だ|まだ} + verbて + います = still doing ~ (incomplete action)\nもう + verb-past = already completed doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Have (you) already drunk (your) beer? No, (I) haven't drunk (it) yet.",
     "mou _biiru_ wo {飲みました|nomimashita} ka. iie, {未だ|mada} {飲んで|nonde} imasen.",
-    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet"
+    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I'm) still listening to the news.",
     "{未だ|mada} _nyuusu_ wo {聞いて|kiite} imasu.",
-    "{未だ|まだ} + verbて + います = still doing ~ (incomplete action)"
+    "{未だ|まだ} + verbて + います = still doing ~ (incomplete action)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Have (you) already phoned Mr. Yamada? No, not yet.",
@@ -3212,12 +3212,12 @@ Flashcards.initialize([
 [
     "(I) haven't bought a digital camera yet, but (I've) already bought a new TV.",
     "{未だ|mada} _dejikame_ wo {買って|katte} imasen ga mou {新しい|atarashii} _terebi_ wo {買いました|kaimashita}.",
-    "{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\nもう + verb-past = already completed doing ~"
+    "{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\nもう + verb-past = already completed doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Eri hasn't done (her) homework yet, but Yuki is still doing (her's).",
     "{絵里|eri} san wa {未だ|mada} {宿題|shukudai} wo shite imasen ga {侑妃|yuki} san wa {未だ|mada} shite imasu.",
-    "{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\n{未だ|まだ} + verbて + います = still doing ~ (incomplete action)"
+    "{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\n{未だ|まだ} + verbて + います = still doing ~ (incomplete action)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "parents {In-group, out-group}",
@@ -3242,32 +3242,32 @@ Flashcards.initialize([
 [
     "Please tell (me) about a day of your's.",
     "{自分|jibun} no {一日|ichinichi} ni {就いて|tsuite} {教えて|oshiete} kudasai.",
-    "verbて + ください = request\nnoun + に + ついて = about noun"
+    "verbて + ください = request\nnoun + に + ついて = about noun\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "I go to school every day on foot. {habit}",
     "{私|watashi} wa {毎日|mainichi} {歩いて|aruite} {学校|gakkou} ni {行って|itte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "After school, (I) take part in a tennis club. {habit}",
     "{学校|gakkou} no {後|ato} de _tenisu kurabu_ ni {参加|sanka} shite imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Twice every week (I) go to cram school and (I) learn Maths and English (etc.). {habit}",
     "{毎週|maishuu} {二回|nikai} {塾|juku} ni {行って|itte}, {数学|suugaku} ya {英語|eigo} wo {勉強|benkyou} shite imasu.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nや: incomplete list"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nや: incomplete list\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Because (I'm) learning the piano now, (I) practise every day. {から, habit}",
     "{今|ima} _piano_ wo {習って|naratte} imasu kara {毎日|mainichi} {練習|renshuu} wo shite imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nならう -> ならって\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nならう -> ならって\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "What do (you) do usually on weekends? {habit} Sometimes (I) take a walk with (my) grandpa.",
     "{週末|shuumatsu} ni {大抵|taitei} {何|nani} wo shite imasu ka. {時々|tokidoki} {祖父|sofu} to {散歩|sanpo} shimasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Sunday, (I) always spend time with (my) family.",
@@ -3277,17 +3277,17 @@ Flashcards.initialize([
 [
     "When do (you) do (your) homework? (I) do a little every day, but this week, (I) haven't done (it) yet.",
     "{何時|itsu} {宿題|shukudai} wo shimasu ka. {毎日|mainichi} {少し|sukoshi} shite imasu ga {今週|konshuu} wa {未だ|mada} shite imasen.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) want (my) older sister to do (my) homework. No way! Try to do (it) on your own please.",
     "{お姉ちゃん|oneechan} ni {宿題|shukudai} wo shite {欲しい|hoshii} desu. {駄目|dame} desu yo. {自分|jibun} de shite mite kudasai.",
-    "(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbて + みる = try doing ~\nverbて + ください = request\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
+    "(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbて + みる = try doing ~\nverbて + ください = request\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(My) husband has already set off to (his) company but grandpa is still sleeping.",
     "{主人|shujin} wa mou {会社|kaisha} ni {出掛けました|dekakemashita} ga {お祖父ちゃん|ojiichan} wa {未だ|mada} {寝て|nete} imasu.",
-    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verbて + います = still doing ~ (incomplete action)"
+    "もう + verb-past = already completed doing ~\n{未だ|まだ} + verbて + います = still doing ~ (incomplete action)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Mr. Yamada is not at home now. He's still at the company. He's already at the company.",
@@ -3302,22 +3302,22 @@ Flashcards.initialize([
 [
     "Mr. Yamada doesn't work yet. (My) dad no longer works. He's at home every day.",
     "{山田|yamada} san wa {未だ|mada} {仕事|shigoto} wo shite imasen. {父|chichi} wa mou {仕事|shigoto} wo shite imasen. {毎日|mainichi} {家|uchi} ni imasu.",
-    "{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\nもう + verbて + いません = discontinued habitual action (no longer)"
+    "{未だ|まだ} + verbて + いません = not done ~ yet, not doing ~ yet\nもう + verbて + いません = discontinued habitual action (no longer)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "May (I) try this jacket?",
     "{此の|kono} _jaketto_ wo {着て|kite} mite mo ii desu ka.",
-    "verbて + みる = try doing ~\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n{着る|きる} -> {着て|きて}"
+    "verbて + みる = try doing ~\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n{着る|きる} -> {着て|きて}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) no longer live in Tokyo.",
     "mou {東京|toukyou} ni {住んで|sunde} imasen.",
-    "もう + verbて + いません = discontinued habitual action (no longer)"
+    "もう + verbて + いません = discontinued habitual action (no longer)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Last year (I) have tried learning French.",
     "{去年|kyonen} _furansu_ {語|go} wo {習って|naratte} mimashita.",
-    "verbて + みる = try doing ~\nならう -> ならって"
+    "verbて + みる = try doing ~\nならう -> ならって\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Will this work somehow get done by 5 o'clock? Let's somehow do it!",
@@ -3372,12 +3372,12 @@ Flashcards.initialize([
 [
     "(I) have an interest in South America so (I) want to go. {の で}",
     "{南|minami} _amerika_ ni {興味|kyoumi} ga aru no de {行きたい|ikitai} desu.",
-    "verb-stem + たい = want to ~\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
+    "verb-stem + たい = want to ~\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) am learning Japanese therefore (I) have come to Japan. {から}",
     "{日本語|nihongo} wo {習って|naratte} imasu kara {日本|nihon} ni {来て|kite} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "What's the matter? Well, you see, (I've) got a headache.",
@@ -3427,17 +3427,17 @@ Flashcards.initialize([
 [
     "Recently (I'm) learning judo.",
     "{最近|saikin} {柔道|juudou} wo {習って|naratte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Every night (I) teach English at the company.",
     "{毎晩|maiban} {会社|kaisha} de {英語|eigo} wo {教えて|oshiete} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I'm) writing a letter to grandma while drinking coffee.",
     "_koohii_ wo {飲みながら|nominagara} {祖母|sobo} ni {手紙|tegami} wo {書いて|kaite} imasu.",
-    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I) looked up the meaning of that word in the dictionary.",
@@ -3532,12 +3532,12 @@ Flashcards.initialize([
 [
     "(My) parents will come to Japan tomorrow so (I) want to clean (my) apartment. {から}",
     "{両親|ryoushin} wa {明日|ashita} {日本|nihon} ni {来る|kuru} kara _apaato_ wo {掃除|souji} shitai desu.",
-    "verb-stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verb-stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Why won't (you) go to see the film? Because (I'll) work until late. {から}",
     "doushite {映画|eiga} wo {見|mi} ni {行きません|ikimasen} ka. {遅く|osoku} made {働く|hataraku} kara desu.",
-    "(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nwhen answering {何故|なぜ} and どうして, から is more common than の で"
+    "(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Why do (you) get up late? (I) drink beer until late every night.",
@@ -3632,12 +3632,12 @@ Flashcards.initialize([
 [
     "That penguin jumped over the wall.",
     "ano _pengin_, {壁|kabe} wo {飛び越えました|tobikoemashita}.",
-    "verb-stem + verb = compound verb (action + qualifier)"
+    "verb-stem + verb = compound verb (action + qualifier)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(It) was (acting) all strange since about 10 minutes ago, (then it) suddenly took off running.",
     "{十分|juppun} gurai {前|mae} kara zutto {可笑しくて|okashikute}, ikinari {走り出しました|hashiridashimashita}.",
-    "verb-stem + verb = compound verb (action + qualifier)"
+    "verb-stem + verb = compound verb (action + qualifier)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(It's) strange but I can somehow understand.",
@@ -3652,7 +3652,7 @@ Flashcards.initialize([
 [
     "Why does Miki want to watch baseball? Because (she) likes watching sports. {から}",
     "{三木|miki} san wa doushite {野球|yakyuu} wo {見たい|mitai} desu ka. _supootsu_ wo {見ること|mirukoto} ga {好き|suki} da kara desu.",
-    "verb-stem + たい = want to ~ (verb --> い adj.)\nverbう + こと = doing ~ (nominalize)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verb-stem + たい = want to ~ (verb --> い adj.)\nverbう + こと = doing ~ (nominalize)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Why can't Roger eat meat? Because (he's) vegetarian. {から}",
@@ -3672,7 +3672,7 @@ Flashcards.initialize([
 [
     "How about Saturday night? Shall (we) go to the baseball stadium to watch baseball on Saturday night?",
     "{土曜日|doyoubi} no {晩|ban} wa dou desu ka. {土曜日|doyoubi} no {晩|ban} {野球場|yakyuujou} de {野球|yakyuu} wo {見|mi} ni {行きましょう|ikimashou} ka.",
-    "(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb"
+    "(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "There are various restaurants near the baseball stadium.",
@@ -3687,7 +3687,7 @@ Flashcards.initialize([
 [
     "Next year (I) want to go to South America so (I'm) learning Spanish now. {の で}",
     "{来年|rainen} {南|minami} _amerika_ ni {行きたい|ikitai} no de {今|ima} _supein_ {語|go} wo {習って|naratte} imasu.",
-    "verb-stem + たい = want to ~ (verb --> い adj.)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
+    "verb-stem + たい = want to ~ (verb --> い adj.)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I'm) not very good at speaking Spanish yet but (I) think that speaking with South American people will be very interesting.",
@@ -3802,12 +3802,12 @@ Flashcards.initialize([
 [
     "After returning (home, I) phoned Roger and said good night.",
     "{帰って|kaette} kara _rojaa_ san ni {電話|denwa} shite {お休みなさい|oyasuminasai} to {言いました|iimashita}.",
-    "verbて + から = after doing ~, since doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbて + から = after doing ~, since doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "After that, (we) went to a bar and drank a lot of beer until late.",
     "sono {後|ato} de _baa_ ni {行って|itte}, {遅く|osoku} made _biiru_ wo ippai {飲みました|nomimashita}.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Cold {weather}, cold {object}, hot {weather}, hot {object}",
@@ -3817,7 +3817,7 @@ Flashcards.initialize([
 [
     "(I) am off work because (I'm) sick. {から, の で}",
     "{病気|byouki} da kara {仕事|shigoto} wo {休んで|yasunde} imasu. {病気|byouki} na no de {仕事|shigoto} wo {休んで|yasunde} imasu.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Roger is good at playing tennis because (he) practices every day. {の で}",
@@ -3827,12 +3827,12 @@ Flashcards.initialize([
 [
     "(I) came to Japan because (I) want to study Japanese. {の で}",
     "{日本語|nihongo} wo {勉強|benkyou} shitai no de {日本|nihon} ni {来ました|kimashita}.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n~たい is usually used only in first person or in questions for the second person"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n~たい is usually used only in first person or in questions for the second person\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Pardon. {\"Leave me alone\", \"Let's change topic\", ...}",
     "{勘弁|kanben} shite kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "As expected, (you) fail (the test).",
@@ -3937,22 +3937,22 @@ Flashcards.initialize([
 [
     "(I) have never been abroad.",
     "{外国|gaikoku} he {行ったこと|ittakoto} ga arimasen.",
-    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Every day after eating dinner (I) watch TV.",
     "{毎日|mainichi} {晩ご飯|bangohan} wo {食べた|tabeta} {後|ato} de _terebi_ wo {見ます|mimasu}.",
-    "verbた + {後|あと} + で = after (finished) doing ~"
+    "verbた + {後|あと} + で = after (finished) doing ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(You) should take this medicine.",
     "kono {薬|kusuri} wo {飲んだ|nonda} {方|hou} ga ii desu yo.",
-    "verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+    "verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) drank wine and talked with friends at the party.",
     "パーティー de _wain_ wo {飲んだり|nondari} {友達|tomodachi} to {話したり|hanashitari} shimashita.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Tokyo is bigger than London.",
@@ -3962,62 +3962,62 @@ Flashcards.initialize([
 [
     "When (I) lived in America, (I) spoke English every day. {plain}",
     "_amerika_ ni {住んで|sunde} ita {時|toki} {毎日|mainichi} {英語|eigo} wo {話した|hanashita}.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + {時|とき} = when did/have done ~"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + {時|とき} = when did/have done ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) have completely forgotten all (my) kanji. {plain}",
     "{漢字|kanji} wo {全部|zenbu} {忘れて|wasurete} {仕舞った|shimatta}.",
-    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) have lived abroad.",
     "{外国|gaikoku} ni {住んで|sunde} ita koto ga arimasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) have never seen Mount Fuji.",
     "{富士山|fujisan} wo {見た|mita} koto ga arimasen.",
-    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) have written letters in Japanese.",
     "{日本語|nihongo} de {手紙|tegami} wo {書いた|kaita} koto ga arimasu.",
-    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) have never read a Japanese newspaper.",
     "{日本語|nihongo} no {新聞|shinbun} wo {読んだ|yonda} koto ga arimasen.",
-    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) haven't been to South America.",
     "{南|minami} _amerika_ ni {行った|itta} koto ga arimasen.",
-    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Since (I) came to Japan, (I) have been studying Japanese. After (I) arrived to Japan, (I) wrote a letter to (my) mom.",
     "{日本|nihon} ni {来て|kite} kara, {日本語|nihongo} wo {勉強|benkyou} shite imasu. {日本|nihon} ni {着いた|tsuita} {後|ato} de {母|haha} ni {手紙|tegami} wo {書きました|kakimashita}.",
-    "verbて + から = after doing ~, since doing ~\nverbた + {後|あと} + で = after (finished) doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + から = after doing ~, since doing ~\nverbた + {後|あと} + で = after (finished) doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "After (I) took a shower, (I) ate breakfast.",
     "_shawaa_ wo {浴びた|abita} {後|ato} de {朝ご飯|asagohan} wo {食べました|tabemashita}",
-    "verbた + {後|あと} + で = after (finished) doing ~"
+    "verbた + {後|あと} + で = after (finished) doing ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "After (I) drank a beer, (I) went to bed right away.",
     "_biiru_ wo {飲んだ|nonda} {後|ato} de {直ぐ|sugu} {寝ました|nemashita}.",
-    "verbた + {後|あと} + で = after (finished) doing ~"
+    "verbた + {後|あと} + で = after (finished) doing ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "After doing homework, (I) went to a party.",
     "{宿題|shukudai} wo shita {後|ato} de  パーティー ni {行きました|ikimashita}.",
-    "verbた + {後|あと} + で = after (finished) doing ~"
+    "verbた + {後|あと} + で = after (finished) doing ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "After returning home, (I) phoned to a friend.",
     "{家|uchi} ni {帰った|kaetta} {後|ato} de {友達|tomodachi} ni {電話|denwa} shimashita.",
-    "verbた + {後|あと} + で = after (finished) doing ~"
+    "verbた + {後|あと} + で = after (finished) doing ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "After the concert, (I) went to a bar.",
@@ -4027,12 +4027,12 @@ Flashcards.initialize([
 [
     "(You'd) better do (you) homework tonight.",
     "{今晩|konban} {宿題|shukudai} wo shita {方|hou} ga ii desu yo.",
-    "verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+    "verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(You) should probably make a phone call.",
     "{電話|denwa} shita {方|hou} ga ii deshou.",
-    "verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+    "verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "The big one is better than the small one.",
@@ -4042,37 +4042,37 @@ Flashcards.initialize([
 [
     "(You) should probably send an email.",
     "*e*_meeru_ wo {出した|dashita} {方|hou} ga ii deshou.",
-    "verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+    "verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "On Saturdays, (I do things like) shopping, watch films, and eat at restaurants.",
     "{土曜日|doyoubi} ni {買い物|kaimono} wo shitari, {映画|eiga} wo {見たり|mitari}, _resutoran_ de {食べたり|tabetari} shimasu.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Last night (I) watched TV, made phone calls and did some cleaning.",
     "{昨夜|yuube} _terebi_ wo {見たり|mitari}, {電話|denwa} wo shitari, {掃除|souji} wo shitari shimashita.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Sometimes (I) eat meat, sometimes (I) eat fish.",
     "{肉|niku} wo {食べたり|tabetari}, {魚|sakana} wo {食べたり|tabetari} shimasu.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "For Christmas, (I) eat a lot, watch TV, and meet with friends.",
     "_kurisumasu_ ni ippai {食べたり|tabetari}, _terebi_ wo {見たり|mitari}, {友達|tomodachi} to {会ったり|attari} shimasu.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Last week (I) studied Japanese, did shopping and went to Osaka.",
     "{先週|senshuu} {日本語|nihongo} wo {勉強|benkyou} shitari, {買い物|kaimono} wo shitari, {大阪|oosaka} ni {行ったり|ittari} shimashita.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "For breakfast, (I) sometimes drink coffee, sometimes tea.",
     "{朝ご飯|asagohan} ni _koohii_ wo {飲んだり|nondari}, {紅茶|koucha} wo {飲んだり|nondari} shimasu.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "The train is quicker than the bus.",
@@ -4102,27 +4102,27 @@ Flashcards.initialize([
 [
     "When (I) was in America, (I) learned English. When (I) eat breakfast, (I) always watch TV. When (I) was a student, (I) studied Spanish. When (I) was a student, (I) studied Spanish.",
     "_amerika_ ni ita {時|toki} {英語|eigo} wo {習いました|naraimashita}. {朝ご飯|asagohan} wo {食べる|taberu} {時|toki} {何時も|itsumo} _terebi_ wo {見ます|mimasu}. {学生|gakusei} no {時|toki} _supein_ {語|go} wo {勉強|benkyou} shimashita. {学生|gakusei} no {頃|koro} _supein_ {語|go} wo {勉強|benkyou} shimashita.",
-    "verbた + {時|とき} = when did/have done ~\nverbう + {時|とき} = when doing ~\nnoun + の + {頃|ころ} = when ~, as a ~\nnoun + の + {時|とき} = when ~, as a ~"
+    "verbた + {時|とき} = when did/have done ~\nverbう + {時|とき} = when doing ~\nnoun + の + {頃|ころ} = when ~, as a ~\nnoun + の + {時|とき} = when ~, as a ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Pay (just before) when (you) get off the bus please. Pay when (you) have gotten off the bus please.",
     "_basu_ wo {降りる|oriru} {時|toki} {払って|haratte} kudasai. _basu_ wo {降りた|orita} {時|toki} {払って|haratte} kudasai.",
-    "verbた + {時|とき} = when did/have done ~\nverbう + {時|とき} = when doing ~"
+    "verbた + {時|とき} = when did/have done ~\nverbう + {時|とき} = when doing ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "The moment the door opened, (my) heart stopped. {plain} When the door opened, (my) heart stopped. {plain}",
     "_doa_ ga {開いた|aita} {瞬間|shunkan} {心臓|shinzou} ga {止まった|tomatta}. _doa_ ga {開いた|aita} {時|toki} {心臓|shinzou} ga {止まった|tomatta}.",
-    "verbた + {時|とき} = when did/have done ~"
+    "verbた + {時|とき} = when did/have done ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "When (I) went to the school, no one was there. {plain}",
     "{学校|gakkou} ni {行った|itta} {時|toki} ni {誰|dare} mo inakatta.",
-    "verbた + {時|とき} = when did/have done ~\n{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
+    "verbた + {時|とき} = when did/have done ~\n{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "When (I) looked at the chat, (it) was already late. {plain}",
     "_chatto_ wo {見た|mita} {時|toki} mou {遅かった|osokatta}.",
-    "verbた + {時|とき} = when did/have done ~"
+    "verbた + {時|とき} = when did/have done ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) paid 2 million yen for the car. {plain}",
@@ -4132,37 +4132,37 @@ Flashcards.initialize([
 [
     "(I've) already finished (my) homework.",
     "{宿題|shukudai} wa mou yatte {仕舞いました|shimaimashita}.",
-    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "The little bird went and died. {plain} The little bird went and died. {plain, spoken}",
     "{小鳥|kotori} ga {死んで|shinde} {仕舞った|shimatta}. {小鳥|kotori} ga {死んじゃった|shinjatta}.",
-    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I've) gone and broken (my) camera. {plain}",
     "_kamera_ wo {壊して|kowashite} {仕舞った|shimatta}.",
-    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Have (you) finished eating all (your) vegetables?",
     "{野菜|yasai} wo {全部|zenbu} {食べて|tabete} {仕舞いました|shimaimashita} ka.",
-    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) will finish writing the letter after (I've) had (my) breakfast.",
     "{朝ご飯|asagohan} wo {食べた|tabeta} {後|ato} de {手紙|tegami} wo {書いて|kaite} shimaimasu.",
-    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた + {後|あと} + で = after (finished) doing ~"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた + {後|あと} + で = after (finished) doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I'm) totally exhausted. {plain}",
     "{疲れて|tsukarete} {仕舞った|shimatta}.",
-    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた + {後|あと} + で = after (finished) doing ~"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた + {後|あと} + で = after (finished) doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) totally lost (my) camera. {plain}",
     "_kamera_ wo {落として|otoshite} {仕舞った|shimatta}.",
-    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた + {後|あと} + で = after (finished) doing ~"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた + {後|あと} + で = after (finished) doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Sorry, (I'm) full.",
@@ -4177,7 +4177,7 @@ Flashcards.initialize([
 [
     "I'm not a university student. (I've) graduated 3 years ago. Then for 2 years, (I) taught Japanese and travelled in America.",
     "{私|watashi} wa {大学生|daigakusei} ja nai desu. {三年|san'nen} {前|mae} ni {卒業|sotsugyou} shite imashita. soshite {二年間|ni nen kan} _amerika_ de {日本語|nihongo} wo {教えたり|oshietari}, {旅行|ryokou} shitari shimashita.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "The white (one) is cute.",
@@ -4212,7 +4212,7 @@ Flashcards.initialize([
 [
     "When (I) lived in Chicago, (I) went to various concerts.",
     "_shikago_ ni {住んで|sunde} ita {時|toki} {色々|iroiro} na _konsaato_ ni {行きました|ikimashita}.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + {時|とき} = when did/have done ~"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + {時|とき} = when did/have done ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) like jazz more than pop.",
@@ -4227,7 +4227,7 @@ Flashcards.initialize([
 [
     "What's wrong? (My) throat has dried. Well, (you) should probably drink water.",
     "dou shita n desu ka. {喉|nodo} ga {乾いた|kawaita} n desu. jaa, {水|mizu} wo {飲んだ|nonda} {方|hou} ga ii deshou.",
-    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "When (I) was a student, (I) went to lots of concerts.",
@@ -4237,22 +4237,22 @@ Flashcards.initialize([
 [
     "(You) should study as hard as you can.",
     "{一生懸命|isshoukenmei} {勉強|benkyou} shita {方|hou} ga ii desu yo.",
-    "verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~"
+    "verbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "When (I) lived in Australia, (I) spoke English well.",
     "_oosutoraria_ ni {住んで|sunde} ita {時|toki} {英語|eigo} ga yoku dekimashita.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + {時|とき} = when did/have done ~\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた + {時|とき} = when did/have done ~\nnoun + できる = can (do) noun (or request, request permission)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) went to bed late last night, so (I'm) totally exhausted. {plain}",
     "{夕べ|yuube} {遅く|osoku} {寝た|neta} kara {疲れて|tsukarete} {仕舞った|shimatta}.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) have finished all the cooking. {plain}",
     "{料理|ryouri} wo {全部|zenbu} shite {仕舞った|shimatta}.",
-    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) think this camera is better than that camera.",
@@ -4262,47 +4262,47 @@ Flashcards.initialize([
 [
     "After talking to Takeshi, Miki phoned to Roger.",
     "{剛士|takeshi} san to {話した|hanashita} {後|ato} de, {三木|miki} san wa _rojaa_ san ni {電話|denwa} shimashita.",
-    "verbた + {後|あと} + で = after (finished) doing ~"
+    "verbた + {後|あと} + で = after (finished) doing ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Shall (we) meet in front of the cinema? {plain}",
     "{映画館|eigakan} no {前|mae} de {会おう|aou} ka.",
-    "verbおう/よう = talking about/to self, I _will_, shall I?"
+    "verbおう/よう = talking about/to self, I _will_, shall I?\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "Shall (we) show (it) to the teacher? {plain}",
     "{先生|sensei} ni {見せよう|miseyou} ka.",
-    "verbおう/よう = talking about/to self, I _will_, shall I?"
+    "verbおう/よう = talking about/to self, I _will_, shall I?\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "Shall (we) wait for Miki? {plain}",
     "{三木|miki} san wo {待とう|matou} ka.",
-    "verbおう/よう = talking about/to self, I _will_, shall I?"
+    "verbおう/よう = talking about/to self, I _will_, shall I?\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) think (I) _will_ return to America next year.",
     "{来年|rainen} _amerika_ ni {帰ろう|kaerou} to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "I _will_ go to Kyoto next week.",
     "{僕|boku} wa {来週|raishuu} {京都|kyouto} ni {行こう|ikou}.",
-    "verbおう/よう = talking about/to self, I _will_, shall I?"
+    "verbおう/よう = talking about/to self, I _will_, shall I?\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) think (I) _will_ go to Europe next year.",
     "{来年|rainen} _yooroppa_ ni {行こう|ikou} to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) tried to learn Spanish but (I) wasn't very good.",
     "_supein_ {語|go} wo {習おう|naraou} to shimashita ga {余り|amari} {上手|jouzu} ja arimasen deshita.",
-    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(It) will probably rain tomorrow. {plain}",
     "{明日|ashita} wa {雨|ame} ga {降る|furu} darou.",
-    "verbた + でしょう/だろう = probably did ~"
+    "verbた + でしょう/だろう = probably did ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Today is fine but tomorrow (it) might rain.",
@@ -4337,37 +4337,37 @@ Flashcards.initialize([
 [
     "(I) _will_ watch the film.",
     "{私|watashi} wa {映画|eiga} wo {見よう|miyou}.",
-    "verbおう/よう = talking about/to self, I _will_, shall I?"
+    "verbおう/よう = talking about/to self, I _will_, shall I?\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "Shall (I) go to bed?",
     "{寝よう|neyou} ka.",
-    "verbおう/よう = talking about/to self, I _will_, shall I?"
+    "verbおう/よう = talking about/to self, I _will_, shall I?\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) think (I) will go to South America. Miki is thinking (she) will go to South America.",
     "{南|minami} _amerika_ ni {行こう|ikou} to {思います|omoimasu}. {三木|miki} san wa {南|minami} _amerika_ ni {行こう|ikou} to {思って|omotte} imasu.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) hope to go to South America. (I) think (I) will go to South America. (I) plan to go to South America.",
     "{南|minami} _amerika_ ni {行きたい|ikitai} to {思います|omoimasu}. {南|minami} _amerika_ ni {行こう|ikou} to {思います|omoimasu}. {南|minami} _amerika_ ni {行く|iku} tsumori desu.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう + つもり = intend to ~"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう + つもり = intend to ~\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) think (I) will go to Japan next year. (My) mom thinks (she) will go to Europe next year.",
     "{来年|rainen} {日本|nihon} ni {行こう|ikou} to {思います|omoimasu}. {母|haha} wa {来年|rainen} _yooroppa_ ni {行こう|ikou} to {思って|omotte} imasu.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) think (I) will send that email.",
     "sono *e*_meeru_ wo {出そう|dasou} to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "Takeshi thinks (he) will meet with Miki again.",
     "{剛士|takeshi} san wa {三木|miki} san ni mata {会おう|aou} to {思って|omotte} imasu.",
-    "verbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(You're) sharp, aren't you?",
@@ -4402,7 +4402,7 @@ Flashcards.initialize([
 [
     "When (I) was learning English, among the practices (I) did after classes and homework, there are 3 that I think were good.",
     "{英語|eigo} wo {習って|naratte} ita {時|toki}, {授業|jugyou} to {宿題|shukudai} no {後|ato} ni {実践|jissen} shita {中|naka} de, {私|watashi} ga {良かった|yokatta} to {思う|omou} koto ga {三つ|mittsu} arimasu.",
-    "verbた + {時|とき} = when did/have done ~\nverbう + こと = doing ~ (nominalize)"
+    "verbた + {時|とき} = when did/have done ~\nverbう + こと = doing ~ (nominalize)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "This time (I'll) make it up to (you).",
@@ -4412,22 +4412,22 @@ Flashcards.initialize([
 [
     "(I) tried to learn Spanish (but I failed). (I) had a go at learning Spanish.",
     "_supein_ {語|go} wo {習おう|naraou} to shimashita. _supein_ {語|go} wo {習って|naratte} mimashita.",
-    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbて + みる = try doing ~"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbて + みる = try doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I'm) about to eat breakfast.",
     "{朝ご飯|asagohan} wo {食べよう|tabeyou} to shite imasu.",
-    "verbおう/よう + と + して + いる = to be about to do ~"
+    "verbおう/よう + と + して + いる = to be about to do ~\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I'm) about to learn the piano.",
     "_piano_ wo {習おう|naraou} to shite imasu.",
-    "verbおう/よう + と + して + いる = to be about to do ~"
+    "verbおう/よう + と + して + いる = to be about to do ~\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(My) father tried to buy a new jacket (but failed). {plain}",
     "{父|chichi} wa {新しい|atarashii} _jaketto_ wo {買おう|kaou} to shita.",
-    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(It) will probably rain. (It) will possibly rain.",
@@ -4437,7 +4437,7 @@ Flashcards.initialize([
 [
     "(He) probably ate (it) all. (He) might have eaten (it) all. {plain}",
     "{全部|zenbu} {食べた|tabeta} darou. {全部|zenbu} {食べた|tabeta} ka mo shirenai.",
-    "verbた + でしょう/だろう = probably did ~\nverbた + か + も + しれません/しれない = might have done ~"
+    "verbた + でしょう/だろう = probably did ~\nverbた + か + も + しれません/しれない = might have done ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(He) may surely go to the party.",
@@ -4592,7 +4592,7 @@ Flashcards.initialize([
 [
     "Please tell the truth.",
     "{本当|hontou} no koto wo {言って|itte} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Cute smile, isn't it?",
@@ -4622,12 +4622,12 @@ Flashcards.initialize([
 [
     "The weather was sunny all day long and too hot, and I'd want to spend time in the fridge.",
     "{一日中|ichinichijuu} {良く|yoku} {晴れた|hareta} {天気|tenki} de, amarinimo {暑く|atsuku}, {冷蔵庫|reizouko} no {中|naka} de {過ごしたい|sugoshitai} {気分|kibun} desu.",
-    "な-adj. + で = adj. and ...\nverb-stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person"
+    "な-adj. + で = adj. and ...\nverb-stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "The weather is sunny all day long, and too hot, and (I) want to sit into the fridge.",
     "{天気|tenki} wa {一日中|ichinichijuu} {晴れ|hare} de, {暑過ぎて|atsusugite}, {冷蔵庫|reizouko} no {中|naka} ni {入りたい|hairitai} desu.",
-    "な-adj. + で = adj. and ...\nstem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person"
+    "な-adj. + で = adj. and ...\nstem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~\nverb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Mr. Yamada will soon be transferred to America.",
@@ -4637,7 +4637,7 @@ Flashcards.initialize([
 [
     "Roger has been living in Japan for 2 years.",
     "_rojaa_ san wa {二年間|ni nen kan} {日本|nihon} ni {住んで|sunde} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Why is Miki going to China? Because (it's been arranged for her to) be transferred.",
@@ -4662,7 +4662,7 @@ Flashcards.initialize([
 [
     "Both of the parents are working.",
     "{親|oya} wa {両方|ryouhou} to mo {働いて|hataraite} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "In Okinawa, (I) had an interesting experience.",
@@ -4677,22 +4677,22 @@ Flashcards.initialize([
 [
     "In Japan, this year seems to become hot as well.",
     "{日本|nihon} wa, {今年|kotoshi} mo {暑く|atsuku} narisou desu.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I've) been reading the lyrics while listening to music (I) like.",
     "{好き|suki} na {音楽|ongaku} wo {聞きながら|kikinagara} {歌詞|kashi} wo {読んで|yonde} imashita.",
-    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverbて + いました = was (in the state of) doing ~, emphasize regular habitual action"
+    "verb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same\nverbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I'm) not very good at singing, but (I) often tried singing as well.",
     "{歌う|utau} koto wa amari {上手|jouzu} ja arimasen ga, yoku {歌って|utatte} miru koto mo shimashita.",
-    "verbう + こと = doing ~ (nominalize)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverbて + みる = try doing ~"
+    "verbう + こと = doing ~ (nominalize)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverbて + みる = try doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Since (I) became an adult, it seems that a lot of things that looked boring as a child, (I) became interested in. Probably because (I) don't have to take exams anymore, right?",
     "{大人|otona} ni natte kara, douyara {子供|kodomo} no {頃|koro} ni wa {詰まらなく|tsumaranaku} {思えた|omoeta} {沢山|takusan} no koto ni {興味|kyoumi} ga {持てる|moteru} you ni narimashita. mou {試験|shiken} wo {受けなくて|ukenakute} mo ii kara deshou ne.",
-    "noun/な adj. + に + {成る|なる} = become ~\nverbて + から = after doing ~, since doing ~\nverbう + {様|よう} + に + {成る|なる} = change in habitual action\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "noun/な adj. + に + {成る|なる} = become ~\nverbて + から = after doing ~, since doing ~\nverbう + {様|よう} + に + {成る|なる} = change in habitual action\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "The computer acts weird.",
@@ -4717,17 +4717,17 @@ Flashcards.initialize([
 [
     "(I) tried to find another job in Tokyo, but there weren't any.",
     "{東京|toukyou} de {他|hoka} no {仕事|shigoto} wo {見付けよう|mitsukeyou} to shimashita ga {仕事|shigoto} wa {全然|zenzen} arimasen deshita.",
-    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) still want to work in Japan, but (I) think I'll also go to China.",
     "mada {日本|nihon} de {働きたい|hatarakitai} desu ga {私|watashi} mo {中国|chuugoku} ni {行こう|ikou} to {思います|omoimasu}.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Since how many years have (you) been living in Japan? Around 3 (I) think.",
     "{何年間|nan'nenkan} {日本|nihon} ni {住んで|sunde} imashita ka. {三年|san'nen} kurai to {思います|omoimasu}.",
-    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action"
+    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "When will (you) transfer? (I'll) possibly go to China next month, but (I) don't know clearly yet.",
@@ -4762,7 +4762,7 @@ Flashcards.initialize([
 [
     "(I) was about to practice, but (I) had various problems.",
     "{練習|renshuu} wo shiyou to shite imashita ga {色々|iroiro} na {問題|mondai} ga arimashita.",
-    "verbおう/よう + と + して + いる = to be about to do ~"
+    "verbおう/よう + と + して + いる = to be about to do ~\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "On Tuesday and Wednesday (I) had a lot of homework.",
@@ -4777,12 +4777,12 @@ Flashcards.initialize([
 [
     "Next week (I) think (I) will be surely free all week. Therefore, (I) think (I) will practice every day for about 1 hour.",
     "{来週|raishuu} wa {一週間|isshuukan} kitto {暇|hima} da to {思います|omoimasu}. dakara {毎日|mainichi} {一時間|ichijikan} gurai wa {練習|renshuu} wo shiyou to {思います|omoimasu}.",
-    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) didn't do much Japanese study this week. (I) meant to, but (I) was very busy.",
     "{今週|konshuu} {日本語|nihongo} wa amari {勉強|benkyou} shimasen deshita. {勉強|benkyou} wo shiyou to shite imashita ga totemo {忙しかった|isogashikatta} desu.",
-    "verbおう/よう + と + して + いる = to be about to do ~"
+    "verbおう/よう + と + して + いる = to be about to do ~\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "On Thursday, it was unexpectedly decided for me to go on a business trip to Tokyo.",
@@ -4807,12 +4807,12 @@ Flashcards.initialize([
 [
     "(I) hope to buy a new camera. (I) think (I) will go to China next year.",
     "{新しい|atarashii} _kamera_ wo {買いたい|kaitai} to {思います|omoimasu}. {来年|rainen} {中国|chuugoku} ni {行こう|ikou} to {思います|omoimasu}.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) intend to meet (my) friend tomorrow. (I) tried to meet (my) friend yesterday.",
     "{明日|ashita} {友達|tomodachi} ni {会う|au} tsumori desu. {昨日|kinou} {友達|tomodachi} to {会おう|aou} to shimashita.",
-    "verbう + つもり = intend to ~\nverbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
+    "verbう + つもり = intend to ~\nverbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) decided to learn Italian.",
@@ -4827,12 +4827,12 @@ Flashcards.initialize([
 [
     "(I) bet (he) goes to see the baseball match tomorrow.",
     "kitto {明日|ashita} no {野球|yakyuu} no {試合|shiai} wo {見|mi} ni {行く|iku} deshou.",
-    "(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverbう + でしょう/だろう = probably (will) do ~"
+    "(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverbう + でしょう/だろう = probably (will) do ~\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I) think (I) will come to play today.",
     "{今日|kyou} {遊び|asobi} ni {来よう|koyou} to {思います|omoimasu}.",
-    "(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I) don't plan to be off work next week.",
@@ -4852,7 +4852,7 @@ Flashcards.initialize([
 [
     "Today (I've) heard the news of the earthquake. (I) hope everyone is safe.",
     "{今日|kyou} no {地震|jishin} no _nyuusu_ wo {聞きました|kikimashita}. {皆さん|minasan} no {無事|buji} wo {願って|negatte} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) can speak Japanese better. {plain}",
@@ -4897,7 +4897,7 @@ Flashcards.initialize([
 [
     "Please add two more bottles of beer.",
     "_biiru_ wo ato {二本|nihon} {追加|tsuika} shite kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "He gave me a dictionary. {plain}",
@@ -4907,7 +4907,7 @@ Flashcards.initialize([
 [
     "Thank you for being so kind to write the readings in katakana (as well). You're welcome.",
     "{片仮名|katakana} de {読み方|yomikata} wo {書いて|kaite} kurete arigatou. dou {致しまして|itashimashite}.",
-    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb-stem + {方|かた} = how to do verb (verb --> noun)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)"
+    "noun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverb-stem + {方|かた} = how to do verb (verb --> noun)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "For example, in case of \"I am a student\" and \"I am the student\", the meaning of the second sentence is \"other people are not students\", but in the first sentence the possibility of \"other people may be students as well\" is included.",
@@ -4917,7 +4917,7 @@ Flashcards.initialize([
 [
     "Please make (it). Please don't make (it). Please use (it). Please don't use (it).",
     "{作って|tsukutte} kudasai. {作らない|tsukuranai} de kudasai. {使って|tsukatte} kudasai. {使わない|tsukawanai} de kudasai.",
-    "verbて + ください = request\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+    "verbて + ください = request\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(It's) not a camera. {middle polite} (It) wasn't a newspaper. {almost plain} (It) wasn't a camera. {plain}",
@@ -4927,7 +4927,7 @@ Flashcards.initialize([
 [
     "Please don't go into that meeting room.",
     "ano {会議室|kaigishitsu} ni {入らない|hairanai} de kudasai.",
-    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(I) think that film wasn't interesting.",
@@ -4937,56 +4937,62 @@ Flashcards.initialize([
 [
     "(I) went to the company without eating breakfast.",
     "{朝ご飯|asagohan} wo {食べない|tabenai} de {会社|kaisha} ni {行きました|ikimashita}.",
-    "verbない + で + X = (did/happened) X without (doing) ~"
+    "verbない + で + X = (did/happened) X without (doing) ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(I) played the piano without practising.",
     "{練習|renshuu} wo shinai de _piano_ wo {弾きました|hikimashita}.",
-    "verbない + で + X = (did/happened) X without (doing) ~"
+    "verbない + で + X = (did/happened) X without (doing) ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(I) want (you) not to write that report.",
     "sono _repooto_ wo {書かない|kakanai} de {欲しい|hoshii} desu.",
-    "verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~"
+    "verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(I) want (you) not to smoke cigarettes.",
     "{煙草|tabako} wo {吸わない|suwanai} de {欲しい|hoshii} desu.",
-    "verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~"
+    "verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(I) want (you) not to drink up all the beer.",
     "_biiru_ wo {全部|zenbu} {飲んで|nonde} {仕舞わない|shimawanai} de {欲しい|hoshii} desu.",
-    "verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
+    "verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(I) must call Mr. Hondo. {plain}",
     "{本銅|hondou} san ni {電話|denwa} shinakereba naranai.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
-],[
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
     "(I) must take the medicine.",
     "{薬|kusuri} wo {飲まなければ|nomanakereba} narimasen.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
-],[
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
     "(I) must quit smoking.",
     "{煙草|tabako} wo {止めなければ|yamenakereba} narimasen.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
-],[
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
     "The fish must be fresh.",
     "{魚|sakana} wa {新鮮|shinsen} de nai to ikemasen.",
     "noun/な-adj. + で + ない + と + いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
-],[
+],
+[
     "(I) must go (home) already. {spoken plain, spoken plain}",
     "mou {帰らなきゃ|kaeranakya}. mou {帰らなくちゃ|kaeranakucha}.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nspoken: なくては --> なくちゃ, なければ --> なくや"
-],[
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nspoken: なくては --> なくちゃ, なければ --> なくや\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
     "(I) must go to Tokyo tomorrow.",
     "{明日|ashita} {東京|toukyou} he {行かなくて|ikanakute} wa narimasen.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)"
-],[
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
     "An English teacher must be British.",
     "{英語|eigo} no {先生|sensei} wa _igirisu_ {人|jin} de nakereba narimasen.",
-    "noun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
+    "noun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
 ],
 [
     "The \"Hitchhiker's Guide to the Galaxy\" has arrived safely.",
@@ -4996,7 +5002,7 @@ Flashcards.initialize([
 [
     "(I) still must learn a lot of things.",
     "mada {学ばなければ|manabanakereba} naranai koto ga {沢山|takusan} arimasu.",
-    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
+    "verbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "Thank you for the cute and heart-warming presents as well.",
@@ -5006,42 +5012,42 @@ Flashcards.initialize([
 [
     "(You) don't have to attend the meeting.",
     "{会議|kaigi} ni {出席|shusseki} shinakute mo ii desu.",
-    "verbない - い + くて + も + いい + です = don't have to ~"
+    "verbない - い + くて + も + いい + です = don't have to ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(You) don't have to buy that expensive camera.",
     "sono {高い|takai} _kamera_ wo {買わなくて|kawanakute} mo ii desu.",
-    "verbない - い + くて + も + いい + です = don't have to ~"
+    "verbない - い + くて + も + いい + です = don't have to ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(I'm) feeling sick, so is it okay (for me) to not go to the company?",
     "{気分|kibun} ga {悪い|warui} kara {会社|kaisha} ni {行かなくて|ikanakute} mo ii desu ka.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbない - い + くて + も + いい + です = don't have to ~"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbない - い + くて + も + いい + です = don't have to ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(You) shouldn't smoke cigarettes.",
     "{煙草|tabako} wo {吸わない|suwanai} hou ga ii desu.",
-    "verbない + {方|ほう} + が + いい + です = shouldn't ~"
+    "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "It's better not to go home late.",
     "{遅く|osoku} {家|uchi} ni {帰らない|kaeranai} hou ga ii desu.",
-    "verbない + {方|ほう} + が + いい + です = shouldn't ~"
+    "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(You) shouldn't take a day off work today.",
     "{今日|kyou} {仕事|shigoto} wo {休まない|yasumanai} hou ga ii desu.",
-    "verbない + {方|ほう} + が + いい + です = shouldn't ~"
+    "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(You) shouldn't phone Mr. Hondo late.",
     "{本藤|hondou} san ni {遅く|osoku} {電話|denwa} shinai hou ga ii desu.",
-    "verbない + {方|ほう} + が + いい + です = shouldn't ~"
+    "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(You) may eat. (You) are not allowed to eat. Please eat. (I) want (you) to eat. (You) should eat. (You) shouldn't eat. Please don't eat. (I) want (you) not to eat. (You) must eat. (You) don't have to eat.",
     "{食べて|tabete} mo ii desu. {食べて|tabete} wa ikemasen. {食べて|tabete} kudasai. {食べて|tabete} {欲しい|hoshii} desu. {食べた|tabeta} hou ga ii desu. {食べない|tabenai} hou ga ii desu. {食べない|tabenai} de kudasai. {食べない|tabenai} de {欲しい|hoshii} desu. {食べなければ|tabenakereba} narimasen. {食べなくて|tabenakute} mo ii desu.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて + は + いけません = doing verb is not allowed\n(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverbない - い + くて + も + いい + です = don't have to ~"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて + は + いけません = doing verb is not allowed\n(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverbない - い + くて + も + いい + です = don't have to ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "The laundry fell off the balcony. {plain}",
@@ -5066,12 +5072,12 @@ Flashcards.initialize([
 [
     "While Mr. Yamada was cooking, Ms. Natsuko was reading a book. During the time that Mr. Yamada is in China, Ms. Natsuko will (be) looking for a job. During the time Miki was in America, (she) did (some) travelling.",
     "{山田|yamada} san ga {料理|ryouri} wo shite iru {間|aida}, {夏子|natsuko} san wa {本|hon} wo {読んで|yonde} imashita. {山田|yamada} san ga {中国|chuugoku} ni iru {間|aida} ni, {夏子|natsuko} san wa {仕事|shigoto} wo {探します|sagashimasu}. {三木|miki} san wa _amerika_ ni iru {間|aida} ni {旅行|ryokou} wo shite imashita.",
-    "(PersonA + が) (verbて +) いる + {間|あいだ} (+ PersonB + は) ... = throughout the whole time that A does/did ~, B does/did ~\n(PersonA + が) (verbて +) いる + {間|あいだ} + に (+ PersonB + は) ... = at some point during A does/did ~, B does/did ~\nPerson + は + (verbて +) いる + {間|あいだ} + に = during A does/did ~, (he/she) does/did ~"
+    "(PersonA + が) (verbて +) いる + {間|あいだ} (+ PersonB + は) ... = throughout the whole time that A does/did ~, B does/did ~\n(PersonA + が) (verbて +) いる + {間|あいだ} + に (+ PersonB + は) ... = at some point during A does/did ~, B does/did ~\nPerson + は + (verbて +) いる + {間|あいだ} + に = during A does/did ~, (he/she) does/did ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Leave a little space between the lines.",
     "{行|gyou} to {行|gyou} no {間|aida} {空け|ake} nasai.",
-    "nounA + と + nounB + の + {間|あいだ} + に = between A and B\nverb-stem + なさい = imperative (casual: verb-stem + な)"
+    "nounA + と + nounB + の + {間|あいだ} + に = between A and B\nverb-stem + なさい = imperative (casual: verb-stem + な)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Can (you) spare (me) a little time?",
@@ -5081,57 +5087,57 @@ Flashcards.initialize([
 [
     "(I) played golf before it rained.",
     "{雨|ame} ga {降らない|furanai} uchi ni _gorufu_ wo shimashita.",
-    "verbない + {内|うち} + に = before ~, while not ~"
+    "verbない + {内|うち} + に = before ~, while not ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "Please drink the tea while (it's) warm.",
     "{紅茶|koucha} ga {温かい|atatakai} uchi ni {飲んで|nonde} kudasai.",
-    "verbて + ください = request"
+    "verbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Let's go home before it gets dark.",
     "{暗く|kuraku} naranai uchi ni {帰りましょう|kaerimashou}.",
-    "verbない + {内|うち} + に = before ~, while not ~"
+    "verbない + {内|うち} + に = before ~, while not ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "Take one out of these five.",
     "kono {五つ|itsutsu} no uchi kara {一つ|hitotsu} {取り|tori} nasai.",
-    "{内|うち} + から = out of ~\nverb-stem + なさい = imperative (casual: verb-stem + な)"
+    "{内|うち} + から = out of ~\nverb-stem + なさい = imperative (casual: verb-stem + な)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "If (you) come to China, please make contact.",
     "moshi {中国|chuugoku} ni {来たら|kitara}, {連絡|renraku} shite kudasai.",
-    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbて + ください = request"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "When (I) drank the sake, (I) got a headache.",
     "{酒|sake} wo {飲んだら|nondara}, {頭|atama} ga {痛く|itaku} narimashita.",
-    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "If it's not interesting, (I) don't want to read it. {plain}",
     "{面白くなかったら|omoshirokunakattara}, {読みたくない|yomitakunai} yo.",
-    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverb-stem + たい = want to ~ (verb --> い adj.)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverb-stem + たい = want to ~ (verb --> い adj.)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "If (she's) not beautiful, (I) don't want to date (her).",
     "{奇麗|kirei} janakattara, _deeto_ wo shitakunai desu.",
-    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverb-stem + たい = want to ~ (verb --> い adj.)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverb-stem + たい = want to ~ (verb --> い adj.)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "If (you) don't eat (it), it won't do.",
     "{食べなかったら|tabenakattara}, {良くない|yokunai} desu.",
-    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "If that film had been interesting, (I) would have watched (it) all.",
     "sono {映画|eiga} wa {面白かったら|omoshirokattara}, {全部|zenbu} {見ました|mimashita}.",
-    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "If (you) like sumo, please watch tonight's tournament.",
     "{相撲|sumou} ga {好き|suki} dattara, {今晩|konban} no {試合|shiai} wo {見て|mite} kudasai.",
-    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbて + ください = request"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "I gave a book to Mr. Yamada. {plain} I gave flowers to my older sister. {plain} Mr. Yamada gave flowers to Ms. Natsuko. {plain} My older sister gave Mr. Yamada a book. {plain}",
@@ -5151,32 +5157,32 @@ Flashcards.initialize([
 [
     "(My) friends waited for me. {grateful, plain} Mr. Yamada helped my younger brother. {grateful, plain}",
     "{友達|tomodachi} ga {待って|matte} kureta. {山田|yamada} san ga {弟|otouto} wo {手伝って|tetsudatte} kureta.",
-    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates"
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Would (you) be so kind to wait (for me)? Thank (you) very much for waiting (for me).",
     "{待って|matte} kuremasen ka. {待って|matte} kurete, arigatou gozaimashita.",
-    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates"
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "My younger brother waited for (his) friends. {plain} (I) helped my younger brother.",
     "{弟|otouto} ga {友達|tomodachi} wo {待って|matte} ageta. {弟|otouto} wo {手伝って|tetsudatte} ageta.",
-    "X は/が (Y を) verbて {上げる|あげる} = X(in) does ~ for Y(out) (never to superiors)"
+    "X は/が (Y を) verbて {上げる|あげる} = X(in) does ~ for Y(out) (never to superiors)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "I got (my) friends to wait (for me). {plain} My younger brother got Mr. Yamada for a ride. {plain} Mr. Yamada got my older sister to help (him). {plain} Mr. Yamada got Ms. Natsuko to wait (for him). {plain}",
     "{私|watashi} ga {友達|tomodachi} ni {待って|matte} moratta. {弟|otouto} ga {山田|yamada} san ni {送って|okutte} moratta. {山田|yamada} san ga {姉|ane} ni {手伝って|tetsudatte} moratta. {山田|yamada} san ga {夏子|natsuko} san ni {待って|matte} moratta.",
-    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Could (I) get (you) to wait for me?",
     "{待って|matte} moraemasen ka.",
-    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "If (I) have a chance, may (I) go to China to have fun? If (you) have a chance, please surely come to China to have fun, with your family.",
     "_chansu_ ga attara, {中国|chuugoku} he {遊び|asobi} ni {行って|itte} mo ii desu ka. moshi_chansu_ ga attara, {是非|zehi} {ご家族|gokazoku} de {中国|chuugoku} he {遊び|asobi} ni {来て|kite} kudasai.",
-    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbて + ください = request"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I'm) looking forward to it.",
@@ -5186,32 +5192,32 @@ Flashcards.initialize([
 [
     "If (you) want to go to China, before that, (you) must practice the piano every day.",
     "{中国|chuugoku} ni {行きたかったら|ikitakattara}, sono {前|mae} ni {毎日|mainichi} _piano_ wo {練習|renshuu} shinakereba narimasen yo.",
-    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "When do (you) plan to get married? (We) don't know yet clearly, but (we) hope to get married before going to China if (we) can.",
     "itsu {結婚|kekkon} wo suru tsumori desu ka. mada hakkiri {分かりません|wakarimasen} ga, dekitara, {中国|chuugoku} ni {行く|iku} {前|mae} ni {結婚|kekkon} shitai to {思います|omoimasu}.",
-    "verbう + つもり = intend to ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbう + {前|まえ} に = before doing ~\n~たい is usually used only in first person or in questions for the second person"
+    "verbう + つもり = intend to ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbう + {前|まえ} に = before doing ~\n~たい is usually used only in first person or in questions for the second person\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(You) should get married while the weather isn't hot, shouldn't you? But (I) think if (you) do (it) suddenly, (that's) not good. Don't make excuses.",
     "{天気|tenki} ga {暑くない|atsukunai} uchi ni {結婚|kekkon} shita hou ga ii desu ne. {然し|shikashi}, {急|kyuu} ni shitara yokunai to {思います|omoimasu}. {言い訳|iiwake} shinai de kudasai.",
-    "verbない + {内|うち} + に = before ~, while not ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+    "verbない + {内|うち} + に = before ~, while not ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "Both Roger and Robert are nice people. (We) always spend fun times. {plain, female}",
     "_rojaa_ san mo _robaato_ san mo totemo ii {人|hito} da to {思う|omou}. itsumo {楽しく|tanoshiku} {過ごして|sugoshite} iru wa.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nわ at end of sentence = women make informal statement softer or emotional, men may use it after ~ます/です"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nわ at end of sentence = women make informal statement softer or emotional, men may use it after ~ます/です\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "But Roger really loves (you) Miki. (I) think (you) must tell (him) about Robert's. (It's) all right you know. Because last night (we) had fun the three of us. {plain, female}",
     "demo _rojaa_ san wa {三木|miki} san ga {本当|hontou} ni {好き|suki} yo. _robaato_ san no koto wo {言わなければ|iwanakereba} naranai to {思う|omou} wa. {大丈夫|daijoubu} yo. {昨夜|yuube} {三人|san'nin} de {遊んだ|asonda} kara.",
-    "な adj. + に = adverb\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nわ at end of sentence = women make informal statement softer or emotional, men may use it after ~ます/です"
+    "な adj. + に = adverb\nverbない - ない + なければ + ならない/いけない, verbない - ない + なくて + は + ならない/いけない = I must ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nわ at end of sentence = women make informal statement softer or emotional, men may use it after ~ます/です\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(You) shouldn't date two people. It's cool. Don't worry. {plain}",
     "{二人|futari} no {人|hito} to _deeto_ wo shinai hou ga ii yo. {平気|heiki} yo. {心配|shinpai} shinai de.",
-    "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+    "verbない + {方|ほう} + が + いい + です = shouldn't ~\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(I) wish (you) a happy New Year! Please be kind to each other this year as well.",
@@ -5241,27 +5247,27 @@ Flashcards.initialize([
 [
     "Lucky-dip bag: (they sell it) on New Year's Day at department stores and shops, etc. It contains things of higher price than itself.",
     "{福袋|fukubukuro}: {お正月|oshougatsu} ni _depaato_ ya {店|mise} nado de {売ります|urimasu}. {値段|nedan} yori {高い物|takaimono} ga {入って|haitte} imasu.",
-    "A や B や C など = A, B, C, etc.\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+    "A や B や C など = A, B, C, etc.\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Sometimes (I) make Japanese cuisine. (Sometimes) it doesn't rain for a month. (I) always (wear) jeans, but sometimes (I) wear a skirt.",
     "{時々|tokidoki} {日本料理|nihon ryouri} wo {作る|tsukuru} koto ga arimasu. {一ヶ月|ikkagetsu}, {雨|ame} ga {降らない|furanai} koto ga arimasu. itsumo _jiinzu_ da kedo, {時々|tokidoki} _sukaato_ wo {履く|haku} koto ga arimasu.",
-    "verbう + こと + が + ある = sometimes/occasionally ~\nverbない + こと + が + ある = sometimes/occasionally not ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verbう + こと + が + ある = sometimes/occasionally ~\nverbない + こと + が + ある = sometimes/occasionally not ~\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "Thank you for holding such a splendid farewell and pre-wedding party for us with Katie today. (We) really appreciate it.",
     "{今日|kyou} wa ケーティ to {私達|watashitachi} no tame ni kon'na ni {盛大|seidai} na {送別会|soubetsukai} to {結婚|kekkon} {前夜|zen'ya} {去り|sari} wo {開いて|hiraite} kudasatte arigatou gozaimasu. totemo {感謝|kansha} shiteimasu.",
-    "な adj. + に = adverb\nと: complete list\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "な adj. + に = adverb\nと: complete list\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "While (we) were in Japan, (we) met many people and learned many things. People in Japan were very kind and have really looked after us.",
     "{日本|nihon} ni iru {間|aida}, {沢山|takusan} no {人達|hitotachi} ni {会い|ai}, {沢山|takusan} no koto wo {勉強|benkyou} shimashita. {日本|nihon} no {皆さん|minasan} wa totemo {親切|shinsetsu} de {大変|taihen} {お世話|osewa} ni narimashita.",
-    "(PersonA + が) (verbて +) いる + {間|あいだ} (+ PersonB + は) ... = throughout the whole time that A does/did ~, B does/did ~\nな-adj. + で = adj. and ..."
+    "(PersonA + が) (verbて +) いる + {間|あいだ} (+ PersonB + は) ... = throughout the whole time that A does/did ~, B does/did ~\nな-adj. + で = adj. and ...\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(We) will go to China next month, but (we) still had lots of things (we) want to do and places (we) want to see, so it's a bit of a shame. But one day (we) want to come to Japan again and see everybody.",
     "{来月|raigetsu} {中国|chuugoku} he {行く|iku} koto ni narimashita ga mada shitai koto ya {見たい|mitai} {所|tokoro} ga atta no de, {少し|sukoshi} {残念|zan'nen} desu. demo, mata itsuka {日本|nihon} ni {来て|kite}, {皆さん|minasan} to {会いたい|aitai} desu.",
-    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)\nverb-stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nや: incomplete list\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verbうこと + に + {成る|なる}/{成った|なった} = arranged to ~, has been decided to ~ (external decision, less assertive than w/ する)\nverb-stem + たい = want to ~ (verb --> い adj.)\n~たい is usually used only in first person or in questions for the second person\nや: incomplete list\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Thank you for everything.",
@@ -5271,22 +5277,22 @@ Flashcards.initialize([
 [
     "If (you) have a chance to come to China, please be sure to contact (us).",
     "moshi {中国|chuugoku} ni {来る|kuru} _chansu_ ga attara, {是非|zehi} {連絡|renraku} shite kudasai.",
-    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbて + ください = request"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) start work after changing into (my) uniform.",
     "{制服|seifuku} ni {着替えて|kigaete} kara {仕事|shigoto} wo {始めます|hajimemasu}.",
-    "verbて + から = after doing ~, since doing ~"
+    "verbて + から = after doing ~, since doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "I went to Hiroshima long ago.",
     "{私|watashi} wa {昔|mukashi} {広島|hiroshima} ni {行った|itta} koto ga arimasu.",
-    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) haven't even once climbed Mt. Fuji yet.",
     "mada {一度|ichido} mo {富士山|fujisan} ni {登った|nobotta} koto ga arimasen.",
-    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "How did (you) come? (I) came by bus. {plain} Why did (you) come? Because (I'm) free. {plain, colloquial}",
@@ -5301,12 +5307,12 @@ Flashcards.initialize([
 [
     "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
     "{一生懸命|isshoukenmei} {作文|sakubun} wo {書いて|kaite} imasu ga, yappari mada {多く|ooku} no {言葉|kotoba} wo {知らない|shiranai} shi, {時間|jikan} mo {少し|sukoshi} dake shika arimasen. Aa, itsumo {言い訳|iiwake} desu ne.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nし at end of clause = multiple reasons, etc."
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nし at end of clause = multiple reasons, etc.\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) might have gained around 2 kilos. (I've) gained even 2 kilos. (I) might have gained as much as 2 kilos. (I've) gained as much as 2 kilos. (I've) gained at least 2 kilos.",
     "2 _kiro_ gurai {太った|futotta} ka mo shiremasen. 2 _kiro_ mo {太りました|futorimashita}. 2 _kiro_ hodo {太った|futotta} ka mo shiremasen. 2 _kiro_ hodo {太りました|futorimashita}. 2 _kiro_ wa {太りました|futorimashita}.",
-    "verbた + か + も + しれません/しれない = might have done ~"
+    "verbた + か + も + しれません/しれない = might have done ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) got this notebook from the school. (I) received a scholarship from the Brazilian government.",
@@ -5326,7 +5332,7 @@ Flashcards.initialize([
 [
     "(I) have not drawn a written fortune at a shrine yet.",
     "mada {神社|jinja} de omikuji wo {引いた|hiita} koto ga arimasen.",
-    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences"
+    "verbた + こと + が + ある = have done ~ (haven't done ~, have never done ~), past experiences\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(My) friend and (I) have decided to go to Shinjuku tomorrow. {plain}",
@@ -5341,12 +5347,12 @@ Flashcards.initialize([
 [
     "(I'll) watch the weather forecast whether it'll rain tomorrow. (I) don't know if the school is close to the station. (I'll) try to ask Natsuko if (she's) free tomorrow.",
     "{明日|ashita}, {雨|ame} ga {降る|furu} ka dou ka, {天気予報|tenkiyohou} wo {見ます|mimasu}. {学校|gakkou} ga {駅|eki} kara {近い|chikai} ka dou ka {分かりません|wakarimasen}. {明日|ashita}, {暇|hima} ka dou ka, {夏子|natsuko} san ni {聞いて|kiite} mimasu.",
-    "verbう/いadj/なadj/noun + かどうか = whether/if\nverbて + みる = try doing ~"
+    "verbう/いadj/なadj/noun + かどうか = whether/if\nverbて + みる = try doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I've) repaired the computer, so (now it) works. {の で} {plain} (I) don't catch cold since taking to running every morning.",
     "_pasokon_ wo {直した|naoshita} no de {動く|ugoku} you ni natta. {毎朝|maiasa}, {走る|hashiru} you ni natte kara, {風邪|kaze} wo {引きません|hikimasen}.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbう + {様|よう} + に + {成る|なる} = change in habitual action\nverbて + から = after doing ~, since doing ~"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbう + {様|よう} + に + {成る|なる} = change in habitual action\nverbて + から = after doing ~, since doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "On the way home, it suddenly started to rain. The baby suddenly started crying loudly. {plain}",
@@ -5356,12 +5362,12 @@ Flashcards.initialize([
 [
     "(My) younger brother, who was reading a manga, suddenly burst out laughing. {plain} The father lost his temper with the children who just wouldn't stop (playing) video games. {plain}",
     "{漫画|manga} wo {読んで|yonde} ita {弟|otouto} ga, {急|kyuu} ni {笑い出した|waraidashita}. itsumade mo _terebi geemu_ wo {止めない|yamenai} {子供達|kodomotachi} ni {父親|chichioya} ga {怒り出した|okoridashita}.",
-    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nな adj. + に = adverb"
+    "verbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nな adj. + に = adverb\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) want to buy this all, but (I'm) worried if (my) money is enough.",
     "kore wo {全部|zenbu} {買いたい|kaitai} keredo, {お金|okane} ga {足りる|tariru} ka dou ka {心配|shinpai} desu.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbう/いadj/なadj/noun + かどうか = whether/if\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbう/いadj/なadj/noun + かどうか = whether/if\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) was surprised, because the car suddenly started moving. {から}",
@@ -5381,12 +5387,12 @@ Flashcards.initialize([
 [
     "(I) was in a hurry, and (I) rushed out, and (I) fell on the stairs. {plain}",
     "{急いで|isoide}, {家|ie} wo {飛び出して|tobidashite}, {階段|kaidan} de {転んだ|koronda}.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Let's get (him) called at the reception!",
     "{受付|uketsuke} de {呼び出して|yobidashite} moraimashou.",
-    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(You're) lying, aren't (you)? {plain}",
@@ -5396,42 +5402,42 @@ Flashcards.initialize([
 [
     "Carlos treated (me) to ramen. {plain}",
     "_karurosu_ ni _ramen_ wo {奢って|ogotte} moratta.",
-    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(My) husband finishes all the leftover food (for me).",
     "{残った|nokotta} {料理|ryouri} wa, {夫|otto} ga {全部|zenbu} {食べて|tabete} kuremasu.",
-    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates"
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I'll) have (my) friend lend (me) a CD. {plain}",
     "{友達|tomodachi} ni *CD* wo {貸して|kashite} morau.",
-    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I'll) carry the children's luggage.",
     "{子供|kodomo} no {荷物|nimotsu} wo {持って|motte} yarimasu.",
-    "X は/が Y に verbて {遣る|やる} = X does ~ for Y (animal, plant)"
+    "X は/が Y に verbて {遣る|やる} = X does ~ for Y (animal, plant)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(We) finished cooking at last. (We) started eating right away.",
     "yatto {作り終わりました|tsukuriowarimashita}. {直ぐ|sugu} ni {食べ始めました|tabehajimemashita}.",
-    "verb-stem + {始める|はじめる} = start doing ~\nverb-stem + {終わる|おわる} = finish doing ~"
+    "verb-stem + {始める|はじめる} = start doing ~\nverb-stem + {終わる|おわる} = finish doing ~\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I) started learning Japanese last week. {plain}",
     "{先週|senshuu} kara {日本語|nihongo} wo {習い始めた|naraihajimeta}.",
-    "verb-stem + {始める|はじめる} = start doing ~"
+    "verb-stem + {始める|はじめる} = start doing ~\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Please wait until everyone has finished eating.",
     "{皆|min'na} ga {食べ終わる|tabeowaru} made, {待って|matte} kudasai.",
-    "verb-stem + {終わる|おわる} = finish doing ~"
+    "verb-stem + {終わる|おわる} = finish doing ~\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(You) didn't get wet, did (you)? A friend took (me) with (his) car, so (I) was saved, you know. {plain}",
     "{濡れて|nurete} inai ne. {友達|tomodachi} ga {車|kuruma} de {送って|okutte} kureta kara, {助かった|tasukatta} yo.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "I turned on the lights. The lights turned on. {plain}",
@@ -5521,57 +5527,57 @@ Flashcards.initialize([
 [
     "At the training, (we) kick the ball and run.",
     "{練習|renshuu} de wa, _booru_ wo {蹴ったり|kettari}, {走ったり|hashittari} shimasu.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) learned Japanese by listening to Japanese CDs and watching TV.",
     "{日本|nihon} no *CD* wo {聞いたり|kiitari}, _terebi_ wo {見たり|mitari} shite {日本語|nihongo} wo {覚えました|oboemashita}.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "That kid has been playing going up and down the stairs for a while now.",
     "ano {子供|kodomo} wa, sakki kara {階段|kaidan} wo {上ったり|nobottari} {下りったり|orittari} shite {遊んで|asonde} imasu.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Yesterday (my) father had slept leaving the TV on.",
     "{父|chichi} wa, {昨日|kinou}, _terebi_ wo {点けた|tsuketa} mama {寝て|nete} imashita.",
-    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(You'll) catch a cold if (you) stay wet. {plain}",
     "{雨|ame} ni {濡れた|nureta} mama da to, {風邪|kaze} wo {引く|hiku} yo.",
-    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "That T-shirt suits (you) well. Why don't you buy it?",
     "sono *T* _shatsu_, yoku {似合う|niau} yo. {買ったら|kattara} dou?",
-    "い adj. - い + く = adverb\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+    "い adj. - い + く = adverb\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(He) went shopping and has not come back yet.",
     "{買い物|kaimono} ni {行った|itta} mama, mada {帰って|kaette} kimasen.",
-    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb"
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Don't eat in (your) pajamas. {plain}",
     "_pajama_ wo {着た|kita} mama, {食事|shokuji} wo shinai de.",
-    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(You) have fever? Why don't (you) take (some) medicine? {plain}",
     "{熱|netsu} ga aru no? {薬|kusuri} wo {飲んだら|nondara} dou?",
-    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Even if (I) work every day, (my) savings don't increase. {plain}",
     "{毎日|mainichi} {働いて|hataraite} mo, {貯金|chokin} ga {増えない|fuenai}.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "In the restaurant, (they) wash and cut the vegetables.",
     "_resutoran_ de {野菜|yasai} wo {洗ったり|arattari}, {切ったり|kittari} shite imasu.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Even if it rains, (I'll) go out by bike.",
@@ -5621,7 +5627,7 @@ Flashcards.initialize([
 [
     "A pine tree stands in front of his house. {plain}",
     "{彼|kare} no {家|ie} no {前|mae} ni wa {松|matsu} no {木|ki} ga {立って|tatte} iru.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "There's one old cherry tree in the garden.",
@@ -5631,7 +5637,7 @@ Flashcards.initialize([
 [
     "The roses are in bloom. {plain}",
     "{薔薇|_bara_} ga {咲いて|saite} iru.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Take your time. There's no need to hurry. It's okay any time. There's no need to hurry, so please do it when (you) have the time. As long as you wish.",
@@ -5646,37 +5652,37 @@ Flashcards.initialize([
 [
     "(I'll) take a spot for Hanami.",
     "{お花見|ohanami} no {場所|basho} wo {取って|totte} okimasu.",
-    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please leave that as it is without putting it away.",
     "sore, {片付けない|かたづけない} de, sono mama {出して|dashite} oite kudasai.",
-    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\n"
+    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\n\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "Should (I) turn off the air conditioner? It's hot, so leave it on. {plain}",
     "「_eakon_, {消しましょう|keshimashou} ka.」 「{暑い|atsui} kara, {点けて|tsukete} oite.」",
-    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "It's OK to be a bit loud at Hanami.",
     "{お花見|ohanami} wa, {少し|sukoshi} {騒いで|sawaide} mo ii n desu.",
-    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Mom, (I) have finished (my) homework, so can (I) go to play? {plain}",
     "{お母さん|okaasan}, {宿題|shukudai} wa {済んだ|sunda} kara, {遊び|asobi} ni {行って|itte} mo ii?",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Would it be a problem if (I) took next week's Friday off?",
     "{来週|raishuu} no {金曜日|kin'youbi}, {休んで|yasunde} mo {構いません|kamaimasen} ka.",
-    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "verbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "The room is spacious, so it's not a problem if many come.",
     "{部屋|heya} ga {広い|hiroi} kara, {大勢|oozei} {来て|kite} mo {構いません|kamaimasen} yo.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "No heat or cold lasts beyond the equinox.",
@@ -5691,17 +5697,17 @@ Flashcards.initialize([
 [
     "(The number of) foreigners living in Japan keeps increasing steadily.",
     "{日本|nihon} ni {住む|sumu} {外国人|gaikokujin} wa, dondon {増え続けて|ふえつづけて} imasu.",
-    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I've) kept calling for a while now, but no one is answering. {plain}",
     "sakki kara {電話|denwa} wo {掛け続けて|かけつづけて} iru kedo, {誰|dare} mo {出ない|denai}.",
-    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\n{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all"
+    "verb-stem + {続ける|つづける} = continue doing ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\n{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(My) feet hurt a great deal. But (I) kept walking for 2 hours. {plain}",
     "{足|ashi} ga totemo {痛かった|itakatta}. demo, {二時間|nijikan} {歩き続けた|あるきつづけた}.",
-    "verb-stem + {続ける|つづける} = continue doing ~"
+    "verb-stem + {続ける|つづける} = continue doing ~\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "There's a cute girl named Noriko at the volunteer class. {polite} There's a cute girl named Noriko at the volunteer class. {casual, spoken}",
@@ -5711,22 +5717,22 @@ Flashcards.initialize([
 [
     "(I'll) drink it later so please leave the cup as it is. {から}",
     "{後|ato} de {飲む|nomu} kara _koppu_ wo sono mama ni shite oite kudasai.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(We'll) record the football match on video, won't we. {casual speech}",
     "_sakkaa_ no {試合|shiai}, _bideo_ ni {録画|rokuga} shitoku ne.",
-    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(Please) put the drinks into the fridge. {casual speech}",
     "{飲み物|nomimono}, {冷蔵庫|reizouko} ni {入れといて|iretoite}.",
-    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて + ください = request"
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please read the mail that came from the teacher immediately. {casual speech}",
     "{先生|sensei} kara {来た|kita} _meeru_ wo {直ぐ|sugu} {読んどいて|yondoite} kudasai.",
-    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて + ください = request"
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "set the alarm clock",
@@ -5741,52 +5747,52 @@ Flashcards.initialize([
 [
     "Key: something to lock the door with when you leave. {plain}",
     "{鍵|kagi}: {出掛ける|dekakeru} toki ni, _doa_ ni kakete oku mono.",
-    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Wallet: something to always put in your bag. {plain}",
     "{財布|saifu}: itsumo {鞄|kaban} no {中|naka} ni {入れて|irete} oku mono.",
-    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Curtain: something to leave open in the morning and leave closed in the night. {plain}",
     "_kaaten_: {朝|asa}, {開けて|akete}, {夜|yoru}, {閉めて|shimete} oku mono.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "When I was a child, (my) father often took (me) to the zoo. {plain}",
     "{私|watashi} ga {子供|kodomo} no {頃|koro}, {父|chichi} wa yoku {動物園|doubutsuen} ni {連れて|tsurete} itte kureta.",
-    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)"
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) got the policeman at the police box to tell (me) the way.",
     "{交番|kouban} de {お巡りさん|omawarisan} ni {道|michi} wo {教えて|oshiete} moraimashita.",
-    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Mr. Yamada wants to become pretty. {plain}",
     "{山田|yamada} san wa {綺麗|kirei} ni naritagatte iru.",
-    "verbたい -> verbたがる = someone else wants to do ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbたい -> verbたがる = someone else wants to do ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Mr. Yamada wants a camera. {plain}",
     "{山田|yamada} san wa _kamera_ wo {欲しがって|hoshigatte} iru.",
-    "noun が {欲しがる|ほしがる} = someone else wants ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "noun が {欲しがる|ほしがる} = someone else wants ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Yamada wants Tanaka to deliver a letter to Natsuko. {plain}",
     "{山田|yamada} san wa {田中|tanaka} san kara {夏子|natsuko} san ni {手紙|tegami} wo {渡して|watashite} {欲しがって|hoshigatte} iru.",
-    "verbて {欲しがる|ほしがる} = someone else wants ~ to be done for her/him\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて {欲しがる|ほしがる} = someone else wants ~ to be done for her/him\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Yamada wants Tanaka to ask for her phone number. {plain}",
     "{山田|yamada} san wa {田中|tanaka} san kara {彼女|kanojo} no {電話番号|denwabangou} wo {聞いて|kiite} {欲しがって|hoshigatte} iru.",
-    "verbて {欲しがる|ほしがる} = someone else wants ~ to be done for her/him\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて {欲しがる|ほしがる} = someone else wants ~ to be done for her/him\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Tanaka wants something. {plain}",
     "{田中|tanaka} san wa {何|nani} ka wo {欲しがって|hoshigatte} iru.",
-    "noun が {欲しがる|ほしがる} = someone else wants ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
+    "noun が {欲しがる|ほしがる} = someone else wants ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(Do you think he) will really eat this type of thing? {plain} Are (you) really going to eat something like this? {plain}",
@@ -5816,17 +5822,17 @@ Flashcards.initialize([
 [
     "(I) had time and (I) watched a movie. {plain}",
     "{時間|jikan} ga arimashite, {映画|eiga} wo {観ました|mimashita}.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) went to cafeteria, ate lunch, and took a nap. {plain}",
     "{食堂|shokudou} ni {行って|itte}, {昼ご飯|hirugohan} wo {食べて|tabete}, {昼寝|hirune} wo shita.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "If you're a student, then the entrance fee is free.",
     "{学生|gakusei} dattara, {入場料|nyuujouryou} wa {無料|muryou} desu.",
-    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+    "(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "It probably depends on who you ask.",
@@ -5836,7 +5842,7 @@ Flashcards.initialize([
 [
     "We should not take advantage of the generosity of a friend. {plain}",
     "{私達|watashitachi} wa {友人|yuujin} no {寛大さ|kandaisa} ni {付け込んで|tsukekonde} wa ikenai.",
-    "verbて + は + いけません = doing verb is not allowed"
+    "verbて + は + いけません = doing verb is not allowed\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Because (I'm) a little busy, (I'll) be making my leave soon.",
@@ -5956,22 +5962,22 @@ Flashcards.initialize([
 [
     "Classes at this university are sometimes easy, sometimes difficult. {plain}",
     "kono {大学|daigaku} no {授業|jugyou} wa {簡単|kantan} dattari, {難しかったり|muzukashikattari} suru.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) didn't do things like watching movies or reading books. {plain}",
     "{映画|eiga} wo {見たり|mitari}, {本|hon} wo {読んだり|yondari} shinakatta.",
-    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order"
+    "verb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "What are (you) reading? (I'm) reading a textbook.",
     "{何|nani} wo {読んでる|yonderu}? {教科書|kyoukasho} wo {読んで|yonde} imasu.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Are (you) listening to the story? No, (I'm) not listening.",
     "{話|hanashi} wo {聞いて|kiite} imasu ka. uun, {聞いてない|kiitenai}.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) found out about it today.",
@@ -5991,67 +5997,67 @@ Flashcards.initialize([
 [
     "Where is Suzuki? / (He's) already at home. {plain}",
     "{鈴木|suzuki} san wa doko desu ka. mou, {家|uchi} ni {帰って|kaette} iru.",
-    "motion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+    "motion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I'll) go on ahead. {plain}",
     "{先|saki} ni {行って|itte} iru yo.",
-    "motion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+    "motion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Mie is already here, you know. {plain}",
     "{美恵|mie} chan wa, mou {来て|kite} iru yo.",
-    "motion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)"
+    "motion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "How are the preparations? / The preparations are already done. {plain}",
     "{準備|junbi} wa dou desu ka. {準備|junbi} wa, mou shite aru yo.",
-    "verbて + ある = resultant state after completed action (often を --> も/は), (in preparation for sg. else)"
+    "verbて + ある = resultant state after completed action (often を --> も/は), (in preparation for sg. else)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Are the plans for the trip complete? / A-ha, not only did I buy the tickets, I also took care of the hotel reservations. {plain}",
     "{旅行|ryokou} no {計画|keikaku} wa {終わった|owatta}? un, {切符|kippu} wo {買った|katta} shi, _hoteru_ no {予約|yoyaku} mo shite aru.",
-    "し at end of clause = multiple reasons, etc.\nverbて + ある = resultant state after completed action (often を --> も/は), (in preparation for sg. else)"
+    "し at end of clause = multiple reasons, etc.\nverbて + ある = resultant state after completed action (often を --> も/は), (in preparation for sg. else)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Father came home early.",
     "{お父さん|otousan} wa, {早く|hayaku} {帰って|kaette} kimashita.",
-    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nい adj. - い + く = adverb"
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nい adj. - い + く = adverb\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) went running towards the station. {plain}",
     "{駅|eki} no {方|hou} he {走って|hashitte} itta.",
-    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)"
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Entering Winter, the (number of) people wearing coat will increase.",
     "{冬|fuyu} ni {入って|haitte}, _kooto_ wo {着て|kite} iru {人|hito} ga {増えて|fuete} ikimasu.",
-    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) will try my hardest with all my might! {plain}",
     "{一生懸命|isshoukenmei}, {頑張って|ganbatte} iku!",
-    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)"
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) went out with various people, but a good person hasn't been found yet. {plain}",
     "{色々|iroiro} na {人|hito} to {付き合って|tsukiatte} kita kedo, ii {人|hito} wa {未だ|mada} {見つからない|mitsukaranai}.",
-    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) studied Spanish from way back before and eventually (I) quit. {plain}",
     "_supein_ {語|go} wo zutto {前|mae} kara {勉強|benkyou} shite kite, {結局|kekkyoku} wa {止めた|yameta}.",
-    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)"
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Are (you) taking pencils to school? {plain}",
     "{鉛筆|enpitsu} wo {学校|gakkou} he {持って|motte} iku?",
-    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)"
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Can (you) write kanji?",
     "{漢字|kanji} wa {書けます|kakemasu} ka.",
-    "verbえる: を --> は/が"
+    "verbえる/られる: を --> は/が\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
 ],
 [
     "It's unfortunate, but (I) can't go this weekend. {plain}",
@@ -6066,22 +6072,22 @@ Flashcards.initialize([
 [
     "(I) was able to climb Mt. Fuji. {plain}",
     "{富士山|fujisan} ga {登れた|noboreta}.",
-    "verbえる: を --> は/が"
+    "verbえる/られる: を --> は/が\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
 ],
 [
     "(I) can hold heavy baggage.",
     "{重い|omoi} {荷物|nimotsu} wa {持てます|motemasu}.",
-    "verbえる: を --> は/が"
+    "verbえる/られる: を --> は/が\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
 ],
 [
     "It cleared up today, and Mt. Fuji is visible. / Thanks to (my) friend, (I) could watch the movie for free. / Thanks to (my) friend, (I) could watch the movie for free. {plain}",
     "{今日|kyou} wa {晴れて|harete}, {富士山|fujisan} ga {見える|mieru}. {友達|tomodachi} no okage de, {映画|eiga} wa tada {見られた|mirareta}. {友達|tomodachi} no okage de, {映画|eiga} wo tada {見る|miru} no ga dekita.",
-    "verbえる: を --> は/が\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbえる/られる: を --> は/が\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun + できる = can (do) noun (or request, request permission)\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
 ],
 [
     "(I) could hear his voice for the first time in a long time. / The surroundings were noisy and (I) couldn't hear what he was saying very well. {plain}",
     "{久しぶり|hisashiburi} ni {彼|kare} no {声|koe} ga {聞けた|kiketa}. {周り|mawari} ga {煩くて|urusakute}, {彼|kare} ga {言って|itte} iru koto ga anmari {聞こえなかった|kikoenakatta}.",
-    "verbえる: を --> は/が"
+    "verbえる/られる: を --> は/が\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
 ],
 [
     "It's also possible that he overslept. {plain}",
@@ -6106,12 +6112,12 @@ Flashcards.initialize([
 [
     "After coming to Japan, (I) became able to eat sushi. {plain}",
     "{日本|nihon} ni {来て|kite}, {寿司|sushi} ga {食べられる|taberareru} you ni natta.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbえる + {様|よう} + に + {成る|なる} = become able to ~\nverbえる: を --> は/が"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbえる/られる + {様|よう} + に + {成る|なる} = become able to ~\nverbえる/られる: を --> は/が\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
 ],
 [
     "Because (I) practiced for one year, (I) became able to play the piano.",
     "{一年間|ichinenkan} {練習|renshuu} shita kara, _piano_ ga {弾ける|hikeru} you ni natta.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbえる + {様|よう} + に + {成る|なる} = become able to ~\nverbえる: を --> は/が"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbえる/られる + {様|よう} + に + {成る|なる} = become able to ~\nverbえる/られる: を --> は/が\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
 ],
 [
     "If (you) drop the ball, it will fall. {plain}",
@@ -6146,22 +6152,22 @@ Flashcards.initialize([
 [
     "If (I) had money, it would be good, huh? {plain}",
     "{お金|okane} ga areba, ii ne.",
-    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
+    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
 ],
 [
     "If it's fun, I'll go too. {plain}",
     "{楽しければ|tanoshikereba}, {私|watashi} mo {行く|iku}.",
-    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
+    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
 ],
 [
     "(We'll) go shopping, _if_ (I) can meet (my) friend. If I can meet (my) friend, (we'll) go shopping.",
     "{友達|tomodachi} ni {会えれば|aereba}, {買い物|kaimono} ni {行きます|ikimasu}. {友達|tomodachi} ni {会えたら|aetara}, {買い物|kaimono} ni {行きます|ikimasu}.",
-    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
 ],
 [
     "When (I) went home, there was no one there. {plain}",
     "{家|uchi} ni {帰ったら|kaettara}, {誰も|daremo} inakatta.",
-    "verbたら + past = surprise, unexpected result\n{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+    "verbたら + past = surprise, unexpected result\n{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "If given that there's no time, tomorrow is fine as well. {plain}",
@@ -6171,12 +6177,12 @@ Flashcards.initialize([
 [
     "(I) must go to school every day. {x3}",
     "{毎日|mainichi} {学校|gakkou} ni {行かなくて|ikanakute} wa narimasen. {毎日|mainichi} {学校|gakkou} ni {行かない|ikanai} to {駄目|dame} desu. {毎日|mainichi} {学校|gakkou} ni {行かなければ|ikanakereba} ikemasen.",
-    "noun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
+    "noun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
 ],
 [
     "(I) had to do (my) homework. {plain} (I) have to do (my) homework. {plain} (I) had to do (my) homework. {plain}",
     "{宿題|shukudai} wo shinakute wa ikenakatta. {宿題|shukudai} wo shinai to ikenai. {宿題|shukudai} wo shinakereba dame datta.",
-    "negative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nnoun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
+    "negative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nnoun/な-adj. + で + なければ + ならない/いけない, noun/な-adj. + で + なくて + は + ならない/いけない = I must be ~, social obligations (never advice/request) (ならない ~ rules, いけない ~ 1 person)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
 ],
 [
     "Gotta go to school. {plain}",
@@ -6186,12 +6192,12 @@ Flashcards.initialize([
 [
     "(I) want to be together (with you) forever. {plain}",
     "zutto {一緒|issho} ni itai.",
-    "verb-stem + たい = want to ~"
+    "verb-stem + たい = want to ~\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "How about talking with your parents once in a while? {plain}",
     "{偶|tama} ni {ご両親|goryoushin} to {話せば|hanaseba} dou?",
-    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
+    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
 ],
 [
     "It's that (I) heard from the teacher: \"There's no class today.\" {plain} (I) heard from the teacher that there is no class today. {plain}",
@@ -6206,7 +6212,7 @@ Flashcards.initialize([
 [
     "Now, (I'm) considering where to go. {plain}",
     "{今|ima}, doko ni {行こう|ikou} ka to {考えて|kangaete} iru.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう = talking about/to self, I _will_, shall I?\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbおう/よう = talking about/to self, I _will_, shall I?\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "What did he say this is? What did he say?",
@@ -6226,17 +6232,17 @@ Flashcards.initialize([
 [
     "(I) was wondering how to represent (it) in kanji. (I) was trying to figure out how it would be if written in kanji. (I) was trying to figure out how it would be if written in kanji.",
     "{漢字|kanji} de dou {表す|arawasu} ka {考えました|kangaemashita}. {漢字|kanji} de dou {表せば|arawaseba} {良い|yoi} ka {考えて|kangaete} mimashita. {漢字|kanji} de dou {表現|hyougen} shitara {良い|yoi} ka wo {考えて|kangaete} mimashita.",
-    "か at end of clause = talking about a question\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nverbて + みる = try doing ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)"
+    "か at end of clause = talking about a question\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nverbて + みる = try doing ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
 ],
 [
     "In order to review (them) later, (I) always do so when (I) encounter unfamiliar words. To be able to review (them) later, (I) always do so if (I) encounter unfamiliar words.",
     "ato de {確認|kakunin} suru tame ni, {馴染み|najimi} no nai {言葉|kotoba} ni {遭遇|souguu} shita {時|toki} wa itsumo sou shimasu. {馴染み|najimi} no nai {言葉|kotoba} ni {遭遇|souguu} suru to, ato de {確認|kakunin} dekiru you ni itsumo sou shite imasu.",
-    "verbた + {時|とき} = when did/have done ~\nverb A (dictionary form) + ため + に + verb B = do verb B in order to verb A\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nnoun + できる = can (do) noun (or request, request permission)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)"
+    "verbた + {時|とき} = when did/have done ~\nverb A (dictionary form) + ため + に + verb B = do verb B in order to verb A\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nnoun + できる = can (do) noun (or request, request permission)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "It's a little difficult for my level, but (I'm) going to try reading it several times until (I become) able to to understand it. It feels a little bit difficult for my current level, but (I'm) going to try reading it several times until (I become) able to to understand it.",
     "{私|watashi} no _reberu_ de wa chotto {難しい|muzukashii} desu ga, {理解|rikai} dekiru made {何度か|nandoka} {読んで|yonde} miru tsumori desu. {今|ima} no {私|watashi} no _reberu_ de wa {少々|shoushou} {難しく|muzukashiku} {感じます|kanjimasu} ga, {理解|rikai} dekiru you {何度か|nandoka} {読んで|yonde} miru tsumori desu.",
-    "verbう + つもり = intend to ~\nverbて + みる = try doing ~\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbう + つもり = intend to ~\nverbて + みる = try doing ~\nnoun + できる = can (do) noun (or request, request permission)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "I'm going to get 30 soon, but (I) still feel like a child.",
@@ -6251,12 +6257,12 @@ Flashcards.initialize([
 [
     "The truth is, the weather was bad, cloudy and foggy, and nobody was going for a walk, but finally the JLPT N4 is over. Actually, the weather was bad, cloudy and foggy, and nobody went to take a walk and such, but finally the JLPT N4 is over. Actually, the weather was bad, cloudy and foggy, and nobody went for a walk. Anyway, finally the JLPT N4 is over. Since the actual weather was bad and cloudy and it even went foggy, nobody went for a walk. Apart from that, finally, the JLPT N4 is over.",
     "{本当|hontou} wa, {天気|tenki} ga {悪くて|warukute} {曇り|kumori} de {霧|kiri} deshita shi, {誰|dare} mo {散歩|sanpo} shite imasen deshita ga, yatto {日本語能力試験|nihongonouryokushiken} no *N4* ga {終わりました|owarimashita}. {実際|jissai} wa, {天気|tenki} ga {悪く|waruku}, {曇り|kumori} de {霧|kiri} deshita ga, {誰|dare} mo {散歩|sanpo} nante shimasen deshita ga, yatto {日本語能力試験|nihongonouryokushiken} no *N4* ga {終わりました|owarimashita}. {実際|jissai} wa, {天気|tenki} ga {悪く|waruku} {曇り|kumori} de {霧|kiri} deshita shi, {誰|dare} mo {散歩|sanpo} shite imasen deshita. tonikaku yatto {日本語能力試験|nihongonouryokushiken} no *N4* ga {終わりました|owarimashita}. {実際|jissai} no {天気|tenki} wa {悪く|waruku}, {曇って|kumotte} ite {霧|kiri} mo {出て|dete} ita no de {誰|dare} mo {散歩|sanpo} shite imasen deshita. sore wa sate oki, yatto {日本語能力試験|nihongonouryokushiken} no *N4* ga {終わりました|owarimashita}.",
-    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all\nverbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nし at end of clause = multiple reasons, etc.\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
+    "{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all\nverbて + いました = was (in the state of) doing ~, emphasize regular habitual action\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nし at end of clause = multiple reasons, etc.\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Since there was not very (much) time for thinking, (I) got even simple questions messed up. Since it was not like having a lot of time for thinking, (I) could even get simple questions messed up as well. Since thinking time was short, (I) could even get simple questions messed up.",
     "{考える|kangaeru} {時間|jikan} ga amari nakatta kara, {易しい|yasashii} {問題|mondai} mo {間違って|machigatte} shimaimashita. {考える|kangaeru} {時間|jikan} {沢山|takusan} atta {訳|wake} de wa nai no de, {簡単|kantan} na {問題|mondai} sura mo {間違えて|machigaete} shimaimashita. {考える|kangaeru} {時間|jikan} ga {少なかった|sukunakatta} no de, {易しい|yasashii} {問題|mondai} mo {間違えて|machigaete} shimaimashita.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Pass or fail will be announced around February next year. Pass or fail will become clear around Feburary next year. Pass or fail will probably be announced around February next year.",
@@ -6266,12 +6272,12 @@ Flashcards.initialize([
 [
     "When (I) went to America, I got very fat.",
     "_amerika_ ni {行ったら|ittara}, takusan {太りました|futorimashita}.",
-    "verbたら + past = surprise, unexpected result"
+    "verbたら + past = surprise, unexpected result\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "After going underground, we couldn't see Mt. Fuji. {plain}",
     "{地下|chika} ni {入って|haitte}, {富士山|fujisan} ga {見えなく|mienaku} natta.",
-    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nい adj. - い + く + {成る|なる} = become ~"
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nい adj. - い + く + {成る|なる} = become ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "What is this fish referred to as?",
@@ -6306,7 +6312,7 @@ Flashcards.initialize([
 [
     "(I) think that (you) can become happy if (you) could marry that type of person.",
     "aa iu {人|hito} to {結婚|kekkon} dekitara, {幸せ|shiawase} ni nareru to {思います|omoimasu}.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nnoun/な adj. + に + {成る|なる} = become ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nnoun/な adj. + に + {成る|なる} = become ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "What do (you) mean \"You're not going to go to college?\" {plain}",
@@ -6321,7 +6327,7 @@ Flashcards.initialize([
 [
     "The meal is not over when I'm full. The meal is over when I hate myself. {plain}",
     "{僕|boku} ga {食事|shokuji} wo {終える|oeru} no wa {お腹|onaga} ga ippai ni natta {時|toki} ja nai. {自分|jibun} ni unzari shite shimatta {時|toki} da yo.",
-    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)"
+    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Miki-chan is (your) girlfriend, right? Um, (you) might say girlfriend, or friend, or something. {plain}",
@@ -6361,7 +6367,7 @@ Flashcards.initialize([
 [
     "(You) don't have to go, you know. But everybody said they're going. I have to go too. {casual}",
     "{行かなくて|ikanakute} mo ii yo. datte, {皆|min'na} {行くって|ikutte}. {私|watashi} mo {行かない|ikanai} to.",
-    "~ だって = ~ と は いって も (even if that was the case; casual; complain, excuse)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nと conditional: can imply {駄目|だめ}/いけない/ならない (spoken casual)"
+    "~ だって = ~ と は いって も (even if that was the case; casual; complain, excuse)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nと conditional: can imply {駄目|だめ}/いけない/ならない (spoken casual)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Does that mean that Miki-chan doesn't have a boyfriend now? {casual, slang/short}",
@@ -6381,37 +6387,37 @@ Flashcards.initialize([
 [
     "(I) tried eating okonomiyaki for the first time and it was very tasty! {plain}",
     "{お好み焼き|okonomiyaki} wo {初めて|hajimete} {食べて|tabete} mita kedo, totemo {美味しかった|oishikatta}!",
-    "verbて + みる = try doing ~\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verbて + みる = try doing ~\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(He) attempts to avoid study every day. {plain}",
     "{毎日|mainichi}, {勉強|benkyou} wo {避けよう|sakeyou} to suru.",
-    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(He's) attempting to force (his) way into the room. {plain}",
     "{無理矢理|muriyari} ni {部屋|heya} ni {入ろう|hairou} to shite iru.",
-    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) attempted to sleep early, but (I) ended up staying up all night. {plain}",
     "{早く|hayaku} {寝よう|neyou} to shita kedo, {結局|kekkyoku} wa {徹夜|tetsuya} shita.",
-    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) decided to attempt to go to the gym every day. {plain}",
     "{毎日|mainichi} _jimu_ ni {行こう|ikou} to {決めた|kimeta}.",
-    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)"
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "Will (you) go in (my) place? (I'll) go in (your) place. {plain}",
     "{代わり|kawari} ni {行って|itte} kureru? {代わり|kawari} ni {行って|itte} ageru.",
-    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nX は/が (Y を) verbて {上げる|あげる} = X(in) does ~ for Y(out) (never to superiors)"
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nX は/が (Y を) verbて {上げる|あげる} = X(in) does ~ for Y(out) (never to superiors)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) wanted to get (my) homework checked, but there was no time and it was impossible. {plain}",
     "{宿題|shukudai} wo _chekku_ shite moraitakatta kedo, {時間|jikan} ga nakute {無理|muri} datta.",
-    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverb-stem + たい = want to ~ (verb --> い adj.)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverb-stem + たい = want to ~ (verb --> い adj.)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(He) received that watch from me. {plain}",
@@ -6431,57 +6437,57 @@ Flashcards.initialize([
 [
     "Won't (you) be a little more quiet? {plain}",
     "chotto {静か|shizuka} ni shite kurenai?",
-    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates"
+    "X は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて + {呉れる|くれる} = a favor done by equals/subordinates\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Could (you) not eat it all?",
     "{全部|zenbu} {食べない|tabenai} de kuremasu ka.",
-    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "Could (you) not buy expensive things? {plain}",
     "{高い|takai} {物|mono} wo {買わない|kawanai} de kureru?",
-    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "Please don't go far. {masculin}",
     "{遠い|tooi} {所|tokoro} ni {行かない|ikanai} de kure.",
-    "verbて + {呉れ|くれ} = masculin, commanding request\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+    "verbて + {呉れ|くれ} = masculin, commanding request\nverbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(Please) lend (me) an eraser. {plain} (Please) lend (me) an eraser. {masculin}",
     "{消し|keshi} _gomu_ wo {貸して|kashite}. {消し|keshi} _gomu_ wo {貸して|kashite} kure.",
-    "verbて + ください = request\nverbて + {呉れ|くれ} = masculin, commanding request"
+    "verbて + ください = request\nverbて + {呉れ|くれ} = masculin, commanding request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please don't write graffiti.",
     "{落書き|rakugaki} wo {書かない|kakanai} de kudasai.",
-    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~"
+    "verbない + で + {下さい|ください} / {呉れる|くれる} = please don't ~ / could (you) not ~\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "Please give (me) the spoon. {childish}",
     "_supuun_ wo choudai.",
-    "verbて + {頂戴|ちょうだい} = request, please ~ (casual, childish, feminine)"
+    "verbて + {頂戴|ちょうだい} = request, please ~ (casual, childish, feminine)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Please write (your) name here. {childish}",
     "koko ni {名前|namae} wo {書いて|kaite} choudai.",
-    "verbて + {頂戴|ちょうだい} = request, please ~ (casual, childish, feminine)"
+    "verbて + {頂戴|ちょうだい} = request, please ~ (casual, childish, feminine)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Listen well.",
     "yoku {聞き|kiki} nasai.",
-    "い adj. - い + く = adverb\nverb-stem + なさい = imperative (casual: verb-stem + な)"
+    "い adj. - い + く = adverb\nverb-stem + なさい = imperative (casual: verb-stem + な)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Sit here.",
     "koko ni {座り|suwari} nasai.",
-    "verb-stem + なさい = imperative (casual: verb-stem + な)"
+    "verb-stem + なさい = imperative (casual: verb-stem + な)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "There's still a lot, so eat a lot.",
     "mada ippai aru kara, takusan {食べ|tabe} na.",
-    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-stem + なさい = imperative (casual: verb-stem + な)"
+    "から = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-stem + なさい = imperative (casual: verb-stem + な)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "If (you) think that's fine, then do it!",
@@ -6491,27 +6497,27 @@ Flashcards.initialize([
 [
     "Die!",
     "{死ね|shine}!",
-    "verbえ/ろ = command (mostly in fiction only)"
+    "verbえ/ろ = command (mostly in fiction only)\nverbえ/ろ: {言え|いえ}, {聞け|きけ}, {食べろ|たべろ}, しろ, {来い|こい}, {呉れ|くれ}"
 ],
 [
     "Do as (you) please!",
     "{好き|suki} ni shiro!",
-    "verbえ/ろ = command (mostly in fiction only)"
+    "verbえ/ろ = command (mostly in fiction only)\nverbえ/ろ: {言え|いえ}, {聞け|きけ}, {食べろ|たべろ}, しろ, {来い|こい}, {呉れ|くれ}"
 ],
 [
     "Come!",
     "{来い|koi}!",
-    "verbえ/ろ = command (mostly in fiction only)"
+    "verbえ/ろ = command (mostly in fiction only)\nverbえ/ろ: {言え|いえ}, {聞け|きけ}, {食べろ|たべろ}, しろ, {来い|こい}, {呉れ|くれ}"
 ],
 [
     "Go away!",
     "acchi {行け|ike}!",
-    "verbえ/ろ = command (mostly in fiction only)"
+    "verbえ/ろ = command (mostly in fiction only)\nverbえ/ろ: {言え|いえ}, {聞け|きけ}, {食べろ|たべろ}, しろ, {来い|こい}, {呉れ|くれ}"
 ],
 [
     "Hurry up and bring (me) alcohol!",
     "{早く|hayaku} {酒|sake} wo {持って|motte} kite kure!",
-    "verbえ/ろ = command (mostly in fiction only)\nverbて + {呉れ|くれ} = masculin, commanding request\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)"
+    "verbえ/ろ = command (mostly in fiction only)\nverbて + {呉れ|くれ} = masculin, commanding request\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbえ/ろ: {言え|いえ}, {聞け|きけ}, {食べろ|たべろ}, しろ, {来い|こい}, {呉れ|くれ}"
 ],
 [
     "Don't eat that!",
@@ -6546,7 +6552,7 @@ Flashcards.initialize([
 [
     "Since there's nobody (here), it's probably fine to change here. {plain, spoken}",
     "{誰|dare} mo inai kara, koko de {着替えて|kigaete} mo ii jan.",
-    "じゃん = confirm the positive (casual, spoken)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem"
+    "じゃん = confirm the positive (casual, spoken)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Is Takashi here? Dunno. Ah, see, (he's) here! {plain, spoken}",
@@ -6566,7 +6572,7 @@ Flashcards.initialize([
 [
     "Although (he's) saying (he) doesn't have time due to homework, (I) heard (he) went on a date with Miki-chan. {rough, slang}",
     "{宿題|shukudai} de {時間|jikan} ga nai tsutte n no ni, {三木|miki} chan to _deeto_ shi ni itta to {聞いた|kiita} yo.",
-    "つ, つう = rough slang for と {言う|いう}\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nの に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb"
+    "つ, つう = rough slang for と {言う|いう}\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nの に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Like (I) said, (you're) wrong! {rough, slag}",
@@ -6606,17 +6612,17 @@ Flashcards.initialize([
 [
     "Losing to a guy like that. Well, what are (you) going to do? {casual, contempt, slang}",
     "an'na {奴|yatsu} ni {負けやがって|makeyagatte}. ja, dou su n da yo?",
-    "verb-stem + やがる = hatred/contempt for the person doing ~ (mostly in fiction only)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+    "verb-stem + やがる = hatred/contempt for the person doing ~ (mostly in fiction only)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(You) wanna fight? If so, then hurry up and come on! {casual, contempt, slang}",
     "yaru {気|ki} ka? dattara sassato {来やがれ|kiyagare}!",
-    "verb-stem + やがる = hatred/contempt for the person doing ~ (mostly in fiction only)\nverbう + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbえ/ろ = command (mostly in fiction only)"
+    "verb-stem + やがる = hatred/contempt for the person doing ~ (mostly in fiction only)\nverbう + {気|き} = feel like doing ~, willing to do ~ (やる{気|き})\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbえ/ろ = command (mostly in fiction only)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbえ/ろ: {言え|いえ}, {聞け|きけ}, {食べろ|たべろ}, しろ, {来い|こい}, {呉れ|くれ}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I) went to Disney Land, and like, it was really crowded... Couldn't do like anything you know... {casual}",
     "ディズニーランド ni {行った|itta} n da kedo sa, nan ka sa, sugoi {込んでて|kondete}... {何|nani} mo dekinakute sa...",
-    "さ at end of sentence = casual よ, like...\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nなんか = filler, \"like\" (casual, from {何|なに} か)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)"
+    "さ at end of sentence = casual よ, like...\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nなんか = filler, \"like\" (casual, from {何|なに} か)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Bob: (I) studied Japanese a lot, right? But (I) still don't get it at all. Alice: No problem. Surely (you'll) become able to understand, you know. Bob: If so, it would be good. {casual}",
@@ -6666,16 +6672,16 @@ Flashcards.initialize([
 [
     "Can (I) call (you) Saki-chan? {casual, masculine}",
     "saki chan tte {呼んで|yonde} mo ii kai?",
-    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nかい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nverbて + も + いい/{構わない|かまわない} = doing ~ is allowed, (you) may do ~, doing ~ is no problem\nかい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "What time were (you) planning on coming home exactly? {casual, masculine}",
     "{一体|ittai} {何時|nanji} ni {帰って|kaette} kuru tsumori datta n dai?",
-    "かい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbう + つもり = intend to ~\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+    "かい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbう + つもり = intend to ~\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I'm) going to see a movie on Saturday, (shall we) go together? {casual, masculine}",
     "{俺|ore} wa {土曜日|doyoubi}, {映画|eiga} wo {見|mi} ni {行く|iku} kedo, {一緒|issho} ni {行く|iku} kai?",
-    "かい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "かい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)\n(place + へ/に) + verb-stem + に + {行く|いく} = go to place to do verb\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ]
 ])
