@@ -616,7 +616,7 @@ Flashcards.initialize([
     ],
     [
         "older sister {In-group, in-group by boys, out-group.}",
-        "{\u59c9|\u3042\u306d}\u3001 {\u59c9\u304d|\u3042\u306d\u304d}\u3001 {\u304a\u59c9\u3055\u3093|\u304a\u306d\u3048\u3055\u3093}",
+        "{\u59c9|\u3042\u306d}\u3001 {\u59c9\u8cb4|\u3042\u306d\u304d}\u3001 {\u304a\u59c9\u3055\u3093|\u304a\u306d\u3048\u3055\u3093}",
         ""
     ],
     [
@@ -626,7 +626,7 @@ Flashcards.initialize([
     ],
     [
         "older brother {In-group, in-group by boys, out-group.}",
-        "{\u5144|\u3042\u306b}\u3001 {\u5144\u304d|\u3042\u306b\u304d}\u3001 {\u304a\u5144\u3055\u3093|\u304a\u306b\u3044\u3055\u3093}",
+        "{\u5144|\u3042\u306b}\u3001 {\u5144\u8cb4|\u3042\u306b\u304d}\u3001 {\u304a\u5144\u3055\u3093|\u304a\u306b\u3044\u3055\u3093}",
         ""
     ],
     [
@@ -2401,7 +2401,7 @@ Flashcards.initialize([
     ],
     [
         "I'm leaving from work before you. {And others are still hard at work.} Thanks for your hard work. {Response to ~. Not used to superiors. Also used to thank someone for their work.} Thanks for your work. {Between equals and to people 'below'.}",
-        "{\u304a\u3055\u304d|\u304a\u5148} \u306b\u3002 {\u5fa1\u82e6\u52b4|\u3054\u304f\u308d\u3046} {\u69d8|\u3055\u307e} \u3067\u3059\u3002 {\u5fa1\u82e6\u52b4|\u3054\u304f\u308d\u3046} {\u69d8|\u3055\u307e} \u3067\u3057\u305f\u3002 {\u304a\u75b2\u308c|\u304a\u3064\u304b\u308c} {\u69d8|\u3055\u307e} \u3067\u3059\u3002 {\u304a\u75b2\u308c|\u304a\u3064\u304b\u308c} {\u69d8|\u3055\u307e} \u3067\u3057\u305f\u3002",
+        "{\u304a\u5148|\u304a\u3055\u304d} \u306b\u3002 {\u5fa1\u82e6\u52b4|\u3054\u304f\u308d\u3046} {\u69d8|\u3055\u307e} \u3067\u3059\u3002 {\u5fa1\u82e6\u52b4|\u3054\u304f\u308d\u3046} {\u69d8|\u3055\u307e} \u3067\u3057\u305f\u3002 {\u304a\u75b2\u308c|\u304a\u3064\u304b\u308c} {\u69d8|\u3055\u307e} \u3067\u3059\u3002 {\u304a\u75b2\u308c|\u304a\u3064\u304b\u308c} {\u69d8|\u3055\u307e} \u3067\u3057\u305f\u3002",
         ""
     ],
     [
@@ -3471,7 +3471,7 @@ Flashcards.initialize([
     ],
     [
         "(It's) humid today and (it's) summer...",
-        "{\u4eca\u65e5|\u304d\u3087\u3046} \u306f {\u3080\u3057\u6691\u304f\u3066|\u3080\u3057\u3042\u3064\u304f\u3066} {\u590f|\u306a\u3064} \u3067\u3059 \u3057\u3002",
+        "{\u4eca\u65e5|\u304d\u3087\u3046} \u306f {\u84b8\u3057\u6691\u304f\u3066|\u3080\u3057\u3042\u3064\u304f\u3066} {\u590f|\u306a\u3064} \u3067\u3059 \u3057\u3002",
         "\u3057 at end of clause = multiple reasons, etc."
     ],
     [
@@ -6246,7 +6246,7 @@ Flashcards.initialize([
     ],
     [
         "I'm going to get 30 soon, but (I) still feel like a child.",
-        "{\u79c1|\u308f\u305f\u3057} \u306f \u3082\u3046 \u3059\u3050 30 \u306b \u306a\u308a\u307e\u3059 \u304c\u3001 \u307e\u3060\u307e\u3060 {\u5b50\u3069\u3082|\u3053\u3069\u3082} \u306e {\u6c17\u5206|\u304d\u3076\u3093} \u3067 \u3044\u307e\u3059 \u3088\u3002",
+        "{\u79c1|\u308f\u305f\u3057} \u306f \u3082\u3046 \u3059\u3050 30 \u306b \u306a\u308a\u307e\u3059 \u304c\u3001 \u307e\u3060\u307e\u3060 {\u5b50\u4f9b|\u3053\u3069\u3082} \u306e {\u6c17\u5206|\u304d\u3076\u3093} \u3067 \u3044\u307e\u3059 \u3088\u3002",
         "noun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
     [

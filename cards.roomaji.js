@@ -616,7 +616,7 @@ Flashcards.initialize([
 ],
 [
     "older sister {In-group, in-group by boys, out-group.}",
-    "{姉|ane}, {姉ki|aneki}, {お姉さん|oneesan}",
+    "{姉|ane}, {姉貴|aneki}, {お姉さん|oneesan}",
     ""
 ],
 [
@@ -626,7 +626,7 @@ Flashcards.initialize([
 ],
 [
     "older brother {In-group, in-group by boys, out-group.}",
-    "{兄|ani}, {兄き|aniki}, {お兄さん|oniisan}",
+    "{兄|ani}, {兄貴|aniki}, {お兄さん|oniisan}",
     ""
 ],
 [
@@ -2401,7 +2401,7 @@ Flashcards.initialize([
 ],
 [
     "I'm leaving from work before you. {And others are still hard at work.} Thanks for your hard work. {Response to ~. Not used to superiors. Also used to thank someone for their work.} Thanks for your work. {Between equals and to people 'below'.}",
-    "{osaki|お先} ni. {御苦労|gokurou} {様|sama} desu. {御苦労|gokurou} {様|sama} deshita. {お疲れ|otsukare} {様|sama} desu. {お疲れ|otsukare} {様|sama} deshita.",
+    "{お先|osaki} ni. {御苦労|gokurou} {様|sama} desu. {御苦労|gokurou} {様|sama} deshita. {お疲れ|otsukare} {様|sama} desu. {お疲れ|otsukare} {様|sama} deshita.",
     ""
 ],
 [
@@ -3471,7 +3471,7 @@ Flashcards.initialize([
 ],
 [
     "(It's) humid today and (it's) summer...",
-    "{今日|kyou} wa {mushi暑くて|mushiatsukute} {夏|natsu} desu shi.",
+    "{今日|kyou} wa {蒸し暑くて|mushiatsukute} {夏|natsu} desu shi.",
     "し at end of clause = multiple reasons, etc."
 ],
 [
@@ -6246,7 +6246,7 @@ Flashcards.initialize([
 ],
 [
     "I'm going to get 30 soon, but (I) still feel like a child.",
-    "{私|watashi} wa mou sugu 30 ni narimasu ga, madamada {子ども|kodomo} no {気分|kibun} de imasu yo.",
+    "{私|watashi} wa mou sugu 30 ni narimasu ga, madamada {子供|kodomo} no {気分|kibun} de imasu yo.",
     "noun/な adj. + に + {成る|なる} = become ~"
 ],
 [
