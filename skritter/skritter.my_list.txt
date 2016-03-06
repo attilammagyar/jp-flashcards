@@ -593,7 +593,7 @@
 書き写す kakiutsusu
 通り toori
 補足 hosoku
-微妙 byoumyou
+微妙 bimyou
 一まず hitomazu
 流す nagasu
 風貌 fuubou
@@ -1157,3 +1157,26 @@
 空く aku
 長時間 choujikan
 何回 nankai
+感染 kansen
+感染する kansen suru
+休日 kyuujitsu
+やりとり yaritori
+他人行儀 taningyougi
+祖父母 sofubo
+目上 meue
+物理 butsuri
+精神 seishin
+距離 kyori
+しばらく shibaraku
+すでに sude ni
+親しい shitashii
+光栄 kouei
+追伸 tsuishin
+間柄 aidagara
+語尾 gobi
+親しみ shitashimi
+ユーザ名 yuuzamei
+変更 henkou
+変更する henkou suru
+気楽 kiraku
+気遣い kidzukai
