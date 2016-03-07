@@ -6705,7 +6705,7 @@ Flashcards.initialize([
     "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
-    "Please let (me) take the day off today from work. That manager often makes people work long hours. {plain}",
+    "Please let (me) take the day off today from work. That manager often makes (people) work long hours. {plain}",
     "{今日|kyou} wa {仕事|shigoto} wo {休ませて|yasumasete} kudasai. sono {部長|buchou} wa, yoku {長時間|choujikan} {働かせる|hatarakaseru}.",
     "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbて + ください = request\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
