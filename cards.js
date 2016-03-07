@@ -6661,7 +6661,7 @@ Flashcards.initialize([
     ],
     [
         "(I) wonder if (I) can enter a good college. {casual, feminine}",
-        "\u3044\u3044 {\u5927\u5b66|\u3060\u3044\u304c\u304f} \u306b {\u5165\u308c\u308b|\u3044\u308c\u308b} \u304b\u3057\u3089\uff1f",
+        "\u3044\u3044 {\u5927\u5b66|\u3060\u3044\u304c\u304f} \u306b {\u5165\u308c\u308b|\u306f\u3044\u308c\u308b} \u304b\u3057\u3089\uff1f",
         "\u304b + \u306a at end of sentence = considering ~ (casual, feminine: \u304b\u3057\u3089)"
     ],
     [

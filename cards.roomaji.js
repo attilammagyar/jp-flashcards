@@ -6661,7 +6661,7 @@ Flashcards.initialize([
 ],
 [
     "(I) wonder if (I) can enter a good college. {casual, feminine}",
-    "ii {大学|daigaku} ni {入れる|ireru} kashira?",
+    "ii {大学|daigaku} ni {入れる|haireru} kashira?",
     "か + な at end of sentence = considering ~ (casual, feminine: かしら)"
 ],
 [
