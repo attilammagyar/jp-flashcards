@@ -1180,3 +1180,5 @@
 変更する henkou suru
 気楽 kiraku
 気遣い kidzukai
+社員 shain
+山道 yamamichi
