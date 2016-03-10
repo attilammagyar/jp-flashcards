@@ -6702,21 +6702,86 @@ Flashcards.initialize([
 [
     "The teacher made the students do lots of homework. The teacher let (me) ask lots of questions. {plain}",
     "{先生|sensei} ga {学生|gakusei} ni {宿題|shukudai} wo takusan saseta. {先生|sensei} ga {質問|shitsumon} wo takusan {聞かせて|kikasete} kureta.",
-    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nA + が + B + に + object を + transitive verbわせる/させる = A makes/lets B do ~\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Please let (me) take the day off today from work. That manager often makes (people) work long hours. {plain}",
     "{今日|kyou} wa {仕事|shigoto} wo {休ませて|yasumasete} kudasai. sono {部長|buchou} wa, yoku {長時間|choujikan} {働かせる|hatarakaseru}.",
-    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbて + ください = request\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nA + が + B + に + object を + transitive verbわせる/させる = A makes/lets B do ~\nverbて + ください = request\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Don't make (me) say the same thing again and again! {rough, casual}",
     "{同じ|onaji} koto wo {何回|nankai} mo {言わす|iwasu} na!",
-    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbう + な = negative command (mostly in fiction only)\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nA + が + B + に + object を + transitive verbわせる/させる = A makes/lets B do ~\nverbう + な = negative command (mostly in fiction only)\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
 ],
 [
     "(I'm) hungry so let (me) eat something! {rough, casual}",
     "{お腹|onaka} ga {空いて|suite} iru n da kara, nanka {食べさして|tabesashite} kure yo.",
     "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて + {呉れ|くれ} = masculin, commanding request\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "The teacher makes the students write an essay. {plain}",
+    "{先生|sensei} ga {生徒|seito} ni {作文|sakubun} wo {書かせる|kakaseru}.",
+    "verbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}\nverbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nA + が + B + に + object を + transitive verbわせる/させる = A makes/lets B do ~"
+],
+[
+    "(I) let the tomatoes rot. {plain}",
+    "_tomato_ wo {腐らせて|kusarasete} shimatta.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nX + を + intransitive verbわせる/させる = X is not a person or doing ~ causes emotion\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "(I) make her laugh. {plain}",
+    "{彼女|kanojo} wo {笑わせる|warawasaseru}.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nX + を + intransitive verbわせる/させる = X is not a person or doing ~ causes emotion\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "(I) make the children walk along the mountain path. {plain}",
+    "{子供|kodomo} ni {山道|yamamichi} wo {歩かせる|arukaseru}.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nA + に + X + を + motion verbわせる/させる = make/let A move on/through X\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "(I) make the children swim. {plain} (I) make the children swim. {plain}",
+    "{子供|kodomo} ni {泳がせる|oyogaseru}. {子供|kodomo} wo {泳がせる|oyogaseru}.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "Mr. Katou lets me drive. {plain} Mr. Katou lets me drive. {plain}",
+    "{加藤|katou} san wa {私|watashi} ni {運転|unten} sasete kureru. {私|watashi} wa {加藤|katou} san ni {運転|unten} sasete morau.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nA + が + B + に + object を + transitive verbわせる/させる = A makes/lets B do ~\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nX は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "The boss lets (him) go home. {plain} The employee is let to go home. {plain} The boss let (me) come home. {plain} (I) got the boss to let (me) come home. {plain}",
+    "{社長|shachou} wa {帰らせて|kaerasete} ageru. {社員|shain} wa {帰らせて|kaerasete} morau. {社長|shachou} ga {帰らせて|kaerasete} kureta. {社長|shachou} ni {帰らせて|kaerasete} moratta.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nX は/が (Y を) verbて {上げる|あげる} = X(in) does ~ for Y(out) (never to superiors)\nX は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "Please let me use (your) camera.",
+    "_kamera_ wo {使わせて|tsukawasete} {下さい|kudasai}.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nA + が + B + に + object を + transitive verbわせる/させる = A makes/lets B do ~\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "Could (you) let (me) take a picture of your garden?",
+    "{お庭|oniwa} no {写真|shashin} wo {撮らせて|torasete} {頂けません|itadakemasen} ka.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nA + が + B + に + object を + transitive verbわせる/させる = A makes/lets B do ~\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "(My) older sister didn't let (me) read (her) comic books. {plain}",
+    "{姉|ane} wa {漫画|manga} wo {読ませて|yomasete} kurenakatta.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nA + が + B + に + object を + transitive verbわせる/させる = A makes/lets B do ~\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "(I) asked (my) parents to let (me) learn the piano. {plain}",
+    "{親|oya} ni _piano_ wo {習わせて|narawasete} moratta.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nA + が + B + に + object を + transitive verbわせる/させる = A makes/lets B do ~\nX は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "(I'll) let (you) go to the park when (you) finish (your) homework! {plain}",
+    "{宿題|shukudai} ga {終わったら|owattara}, {公園|kouen} he {行かせて|ikasete} ageru.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nX は/が (Y を) verbて {上げる|あげる} = X(in) does ~ for Y(out) (never to superiors)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "Thank (you) for letting (me) know.",
+    "{知らせて|shirasete} kurete, arigatou gozaimashita.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
 ]
 ])

@@ -302,3 +302,6 @@ verbえ/ろ = command (mostly in fiction only)
 --------
 verbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}
 verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)
+A + が + B + に + object を + transitive verbわせる/させる = A makes/lets B do ~
+X + を + intransitive verbわせる/させる = X is not a person or doing ~ causes emotion
+A + に + X + を + motion verbわせる/させる = make/let A move on/through X
