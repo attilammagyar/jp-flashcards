@@ -6783,5 +6783,45 @@ Flashcards.initialize([
     "Thank (you) for letting (me) know.",
     "{知らせて|shirasete} kurete, arigatou gozaimashita.",
     "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nX は/が (Y を) verbて {呉れる|くれる} = X(out) does ~ for Y(in)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "The porridge was eaten by somebody! {plain}",
+    "_porijji_ ga {誰|dare} ka ni {食べられた|taberareta}!",
+    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
+],
+[
+    "(I) am told by everybody that (I'm) strange.",
+    "{皆|min'na} ni {変|hen} da to {言われます|iwaremasu}.",
+    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+],
+[
+    "Exceeding the speed of light is thought to be impossible. {plain}",
+    "{光|hikari} no {早さ|hayasa} wo {超える|koeru} no wa, {不可能|fukanou} da to {思われる|omowareru}.",
+    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nい-adj. - い + さ = ~ness\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+],
+[
+    "This textbook is read by a lot of people. {plain}",
+    "kono {教科書|kyoukasho} wa {多く|ooku} no {人|hito} ni {読まれて|yomarete} iru.",
+    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "(I) was asked a question by a foreigner but (I) couldn't answer. {plain}",
+    "{外国人|gaikokujin} ni {質問|shitsumon} wo {聞かれた|kikareta} ga, {答えられなかった|kotaerarenakatta}.",
+    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "Everything is included in this package. {plain}",
+    "kono _pakkeeji_ ni wa, arayuru mono ga {含まれて|fukumarete} iru.",
+    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "What about (your) receipt? {polite}",
+    "{領収証|ryoushuushou} wa dou saremasu ka.",
+    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
+],
+[
+    "Are (you) going to the meeting tomorrow? {polite}",
+    "{明日|ashita} no {会議|kaigi} ni {行かれる|ikareru} n desu ka.",
+    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ]
 ])

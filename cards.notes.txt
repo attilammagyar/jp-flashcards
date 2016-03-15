@@ -305,3 +305,9 @@ verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う -->
 A + が + B + に + object を + transitive verbわせる/させる = A makes/lets B do ~
 X + を + intransitive verbわせる/させる = X is not a person or doing ~ causes emotion
 A + に + X + を + motion verbわせる/させる = make/let A move on/through X
+
+~われる/られる
+--------
+verbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}
+verbわれる/られる = passive, often more polite
+
