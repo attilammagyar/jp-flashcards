@@ -6787,41 +6787,76 @@ Flashcards.initialize([
 [
     "The porridge was eaten by somebody! {plain}",
     "_porijji_ ga {誰|dare} ka ni {食べられた|taberareta}!",
-    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
+    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
 ],
 [
     "(I) am told by everybody that (I'm) strange.",
     "{皆|min'na} ni {変|hen} da to {言われます|iwaremasu}.",
-    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "Exceeding the speed of light is thought to be impossible. {plain}",
     "{光|hikari} no {早さ|hayasa} wo {超える|koeru} no wa, {不可能|fukanou} da to {思われる|omowareru}.",
-    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nい-adj. - い + さ = ~ness\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nい-adj. - い + さ = ~ness\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "This textbook is read by a lot of people. {plain}",
     "kono {教科書|kyoukasho} wa {多く|ooku} no {人|hito} ni {読まれて|yomarete} iru.",
-    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) was asked a question by a foreigner but (I) couldn't answer. {plain}",
     "{外国人|gaikokujin} ni {質問|shitsumon} wo {聞かれた|kikareta} ga, {答えられなかった|kotaerarenakatta}.",
-    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "Everything is included in this package. {plain}",
     "kono _pakkeeji_ ni wa, arayuru mono ga {含まれて|fukumarete} iru.",
-    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "What about (your) receipt? {polite}",
     "{領収証|ryoushuushou} wa dou saremasu ka.",
-    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
+    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
 ],
 [
     "Are (you) going to the meeting tomorrow? {polite}",
     "{明日|ashita} no {会議|kaigi} ni {行かれる|ikareru} n desu ka.",
-    "verbわれる/られる = passive, often more polite\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "Yoshiko was praised by the teacher.",
+    "{良子|yoshiko} wa {先生|sensei} ni {褒められました|homeraremashita}.",
+    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
+],
+[
+    "(I) got made to sing a song in front of everybody.",
+    "{皆|min'na} no {前|mae} de {歌|uta} wo {歌わせられました|utawaseraremashita}.",
+    "verbわせられる/させられる = causative-passive (get made to do ~; casual: ~わされる, NEVER ~さされる)\nverbわせられる/させられる: {言わせられる|いわせられる}, {聞かせられる|きかせられる}, {食べさせられる|たべさせられる}, させられる, {来させられる|こさせられる}\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)"
+],
+[
+    "Despite not wanting to eat breakfast, (I) was made to eat it. {plain}",
+    "{朝ご飯|asagohan} wo {食べたくなかった|tabetakunakatta} no ni {食べさせられた|tabesaserareta}.",
+    "verbわせられる/させられる = causative-passive (get made to do ~; casual: ~わされる, NEVER ~さされる)\nverbわせられる/させられる: {言わせられる|いわせられる}, {聞かせられる|きかせられる}, {食べさせられる|たべさせられる}, させられる, {来させられる|こさせられる}\nverb-stem + たい = want to ~ (verb --> い adj.)\nくなかった = past negative of い adj.\nの に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)"
+],
+[
+    "In Japan, people get made to drink a lot of times. {plain} In Japan, people get made to drink a lot of times. {casual}",
+    "{日本|nihon} de wa, {お酒|osake} wo {飲ませられる|nomaserareru} koto ga {多い|ooi}. {日本|nihon} de wa, {お酒|osake} wo {飲まされる|nomasareru} koto ga {多い|ooi}.",
+    "verbわせられる/させられる = causative-passive (get made to do ~; casual: ~わされる, NEVER ~さされる)\nverbわせられる/させられる: {言わせられる|いわせられる}, {聞かせられる|きかせられる}, {食べさせられる|たべさせられる}, させられる, {来させられる|こさせられる}\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbう + こと = doing ~ (nominalize)"
+],
+[
+    "(I) was made to wait 2 hours by that guy. {plain} (I) was made to wait 2 hours by that guy. {casual}",
+    "aitsu ni {二時間|nijikan} mo {待たせられた|mataserareta}. aitsu ni {二時間|nijikan} mo {待たされた|matasareta}.",
+    "verbわせられる/させられる = causative-passive (get made to do ~; casual: ~わされる, NEVER ~さされる)\nverbわせられる/させられる: {言わせられる|いわせられる}, {聞かせられる|きかせられる}, {食べさせられる|たべさせられる}, させられる, {来させられる|こさせられる}"
+],
+[
+    "(I'm) made to do homework every day by (my) parents. {plain}",
+    "{親|oya} ni {毎日|mainichi} {宿題|shukudai} wo saserareru.",
+    "verbわせられる/させられる = causative-passive (get made to do ~; casual: ~わされる, NEVER ~さされる)\nverbわせられる/させられる: {言わせられる|いわせられる}, {聞かせられる|きかせられる}, {食べさせられる|たべさせられる}, させられる, {来させられる|こさせられる}"
+],
+[
+    "The student was made to stand in the hall. {casual}",
+    "{学生|gakusei} ga {廊下|rouka} ni {立たされた|tatasareta}.",
+    "verbわせられる/させられる = causative-passive (get made to do ~; casual: ~わされる, NEVER ~さされる)\nverbわせられる/させられる: {言わせられる|いわせられる}, {聞かせられる|きかせられる}, {食べさせられる|たべさせられる}, させられる, {来させられる|こさせられる}"
 ]
 ])
