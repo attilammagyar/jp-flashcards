@@ -6858,5 +6858,15 @@ Flashcards.initialize([
     "The student was made to stand in the hall. {casual}",
     "{学生|gakusei} ga {廊下|rouka} ni {立たされた|tatasareta}.",
     "verbわせられる/させられる = causative-passive (get made to do ~; casual: ~わされる, NEVER ~さされる)\nverbわせられる/させられる: {言わせられる|いわせられる}, {聞かせられる|きかせられる}, {食べさせられる|たべさせられる}, させられる, {来させられる|こさせられる}"
+],
+[
+    "(I) started eating leaving my hat on. {plain}",
+    "{帽子|boushi} wo {被った|kabutta} mama {ご飯|gohan} wo {食べ始めた|tabehajimeta}.",
+    "verbた + {儘|まま} / {儘|まま}だ / {儘|まま}のnoun = remain ~, leaving ~ as is\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverb-stem + {始める|はじめる} = start doing ~\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
+],
+[
+    "Even when (I) got home, the cat was still sleeping. {plain}",
+    "{帰って|kaette} kite mo, {猫|neko} wa {寝て|nete} iru mama datta.",
+    "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ]
 ])
