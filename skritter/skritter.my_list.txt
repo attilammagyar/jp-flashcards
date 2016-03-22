@@ -1194,3 +1194,9 @@
 勝つ katsu
 個人 kojin
 彼奴 aitsu
+小説 shousetsu
+人工知能 jinkouchinou
+研究 kenkyuu
+物語 monogatari
+文学賞 bungakushou
+人工 jinkou
