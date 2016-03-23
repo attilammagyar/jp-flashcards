@@ -1200,3 +1200,9 @@
 物語 monogatari
 文学賞 bungakushou
 人工 jinkou
+爆発 bakuhatsu
+国際空港 kokusaikuukou
+亡い nai
+亡くなる naku naru
+爆弾 bakudan
+関係 kankei
