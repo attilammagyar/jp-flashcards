@@ -1206,3 +1206,15 @@
 亡くなる naku naru
 爆弾 bakudan
 関係 kankei
+原発 genhatsu
+原子力 genshiryoku
+発電所 hatsudensho
+原子力発電所 genshiryoku hatsudensho
+放射 housha
+放射性 houshasei
+物質 busshitsu
+放射性物質 houshaseibusshitsu
+放射線 houshasen
+金属 kinzoku
+幅 haba
+資料 shiryou
