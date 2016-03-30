@@ -1218,3 +1218,4 @@
 金属 kinzoku
 幅 haba
 資料 shiryou
+家庭教師 kateikyoushi
