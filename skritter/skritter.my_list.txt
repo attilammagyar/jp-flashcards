@@ -1219,3 +1219,9 @@
 幅 haba
 資料 shiryou
 家庭教師 kateikyoushi
+惑星 wakusei
+岩石 genseki
+ガス惑星 gasu wakusei
+岩石惑星 ganseki wakusei
+状 jou
+ガス状惑星 gasu jou wakusei
