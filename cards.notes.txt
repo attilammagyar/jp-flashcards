@@ -311,3 +311,7 @@ A + に + X + を + motion verbわせる/させる = make/let A move on/through 
 verbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}
 verbわれる/られる = passive, often more polite (made to do ~)
 
+~われる/られる
+--------
+verbわせられる/させられる: {言わせられる|いわせられる}, {聞かせられる|きかせられる}, {食べさせられる|たべさせられる}, させられる, {来させられる|こさせられる}
+verbわせられる/させられる = causative-passive (get made to do ~; casual: ~わされる, NEVER ~さされる)
