@@ -1226,3 +1226,4 @@
 状 jou
 ガス状惑星 gasu jou wakusei
 知り合う shiriau
+繰り返し kurikaeshi
