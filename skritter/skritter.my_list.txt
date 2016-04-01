@@ -1225,3 +1225,4 @@
 岩石惑星 ganseki wakusei
 状 jou
 ガス状惑星 gasu jou wakusei
+知り合う shiriau
