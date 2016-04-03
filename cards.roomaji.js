@@ -6868,5 +6868,20 @@ Flashcards.initialize([
     "Even when (I) got home, the cat was still sleeping. {plain}",
     "{帰って|kaette} kite mo, {猫|neko} wa {寝て|nete} iru mama datta.",
     "verbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "(I) started learning Japanese 1.5 years ago because of music.",
+    "{1年半|ichinenhan} {前|mae}, {日本語|nihongo} no {勉強|benkyou} wo, {音楽|ongaku} ga kikkake de {始めました|hajimemashita}.",
+    "noun + が + {切っ掛け|きっかけ} + で = (started doing ~) because of ~"
+],
+[
+    "Tonight (I) think (I) will keep listening Babymetal's new album over and over again.",
+    "{今夜|kon'ya} wa *Babymetal* no {新しい|atarashii} _arubamu_ wo {何度|nando} mo {繰り返し|kurikaeshi} {聞こう|kikou} to {思って|omotte} imasu.",
+    "verbおう/よう + と + {思って|おもって} + いる = I think someone else will ~, I/someone else is thinking of doing ~\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "I fell asleep at the second track. {plain}",
+    "{2曲目|nikyokumoku} kara {寝て|nete} shimatta.",
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ]
 ])
