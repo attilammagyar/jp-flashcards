@@ -1231,3 +1231,6 @@
 切っ掛け kikkake
 切っ掛けに kikkake ni
 曲目 kyokumoku
+気が進まない ki ga susumanai
+ぎりぎり girigiri
+要塞 yousai
