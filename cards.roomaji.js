@@ -6883,5 +6883,25 @@ Flashcards.initialize([
     "I fell asleep at the second track. {plain}",
     "{2曲目|nikyokumoku} kara {寝て|nete} shimatta.",
     "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "When (I) held (my) friend's baby, it cried. {plain}",
+    "{友達|tomodachi} no {赤ちゃん|akachan} wo {抱っこ|dakko} shitara, {泣かれて|nakarete} shimatta.",
+    "(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる = passive, often more polite (made to do ~)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbたら + past = surprise, unexpected result\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "(My) clothes got soaked in the rain. {plain}",
+    "{雨|ame} ni {降られて|furarete}, {服|fuku} ga {濡れて|nurete} shimatta.",
+    "(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる = passive, often more polite (made to do ~)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
+],
+[
+    "Suddenly employees were made to quit. {plain}",
+    "{急|kyuu} ni {社員|shain} ni {辞められた|yamerareta}.",
+    "(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
+],
+[
+    "Let (me) think about that story for a moment. {plain}",
+    "sono {話|hanashi} wa mou chotto {考えさせて|kangaesasete}.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
 ]
 ])
