@@ -1252,3 +1252,6 @@
 割り込む warikomu
 邪魔 jama
 邪魔する jama suru
+表面 hyoumen
+着せ替える kisekaeru
+着せ替え人形 kisekae nin'gyou
