@@ -1246,3 +1246,9 @@
 辞める yameru
 印象 in'shou
 総まとめ soumatome
+纏め matome
+纏める matomeru
+総人口 soujinkou
+割り込む warikomu
+邪魔 jama
+邪魔する jama suru
