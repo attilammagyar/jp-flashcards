@@ -1255,3 +1255,8 @@
 表面 hyoumen
 着せ替える kisekaeru
 着せ替え人形 kisekae nin'gyou
+遺産 isan
+世界遺産 sekai isan
+文化的 bunkateki
+届ける todokeru
+解凍 kaitou
