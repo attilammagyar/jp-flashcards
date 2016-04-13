@@ -1260,3 +1260,10 @@
 文化的 bunkateki
 届ける todokeru
 解凍 kaitou
+文頭 buntou
+冗長 jouchou
+伝える tsutaeru
+省く habuku
+対応 taiou
+直接 chokusetsu
+迷惑 meiwaku
