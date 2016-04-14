@@ -6895,13 +6895,55 @@ Flashcards.initialize([
     "(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる = passive, often more polite (made to do ~)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
 ],
 [
-    "Suddenly employees were made to quit. {plain}",
+    "Suddenly (my) employees quit. {plain}",
     "{急|kyuu} ni {社員|shain} ni {辞められた|yamerareta}.",
     "(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
 ],
 [
-    "Let (me) think about that story for a moment. {plain}",
+    "Let (me) think about that story for a moment. {casual}",
     "sono {話|hanashi} wa mou chotto {考えさせて|kangaesasete}.",
     "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "(We're) running out of toilet paper, so (we) must buy (some). {casual}",
+    "_toirettopeepaa_ ga mou sugu naku naru kara, {買っとかない|kattokanai} to.",
+    "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nと conditional: can imply {駄目|だめ}/いけない/ならない (spoken casual)\nい adj. - い + く + {成る|なる} = become ~\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "Oh, (I) got it dirty. (I) have to send it to the cleaner's. Just put it there. (I'll) do it tomorrow. {casual}",
+    "aa, {汚れちゃった|yogorechatta} yo. _kuriiningu_ ni {出さない|dasanai} to. koko ni {置いといて|oitoite}. {明日|ashita}, {出しとく|dashitoku} kara.",
+    "verbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nと conditional: can imply {駄目|だめ}/いけない/ならない (spoken casual)\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて + ください = request\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "(I) came leaving the bento that I'd woken up early in the morning to make, at home. {casual}",
+    "{朝|asa} {早く|hayaku} {起きて|okite} {作っといて|tsukuttoite} {お弁当|obentou} wo {家|ie} ni {置いて|oite} {来ちゃった|kichatta}.",
+    "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nい adj. - い + く = adverb\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+
+
+[
+    "There's something (I) want to ask from a private teacher lady whom (I've) met at a Japanese conversation meetup.",
+    "{日本語会話|nihongokaiwa} no _miitoappu_ de {出会った|deatta} {女性|josei} {家庭教師|kateikyoushi} ni {尋ねたい|tazunetai} koto ga arimasu.",
+    "verb-stem + たい = want to ~ (verb --> い adj.)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
+],
+[
+    "Sorry for disturbing. {while you're busy}",
+    "{お忙しい|oisogashii} tokoro {失礼|shitsurei} shimasu.",
+    ""
+],
+[
+    "Actually, (I) had a discussion with (my) friend and colleague Alice (and she mentioned that she) wants to start learning Japanese, so I told her about Ms. Natsuko's.",
+    "{実|jitsu} wa, {同僚|douryou} no _arisu_ to iu {友達|tomodachi} kara {日本語|nihongo} no {勉強|benkyou} wo {始めたい|hajimetai} to {相談|soudan} sareta no de, {私|watashi} wa {夏子|natsuko} san no koto wo _arisu_ san ni {教えました|oshiemashita}.",
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "(It's) because (when I) kept making mistakes at the meetup, (I) received very kind support from Ms. Natsuko.",
+    "_miitoappu_ de {間違い|machigai} wo {繰り返す|kurikaesu} {私|watashi} wa, {夏子|natsuko} san ni totemo {親切|shinsetsu} {丁寧|teinei} ni {対応|taiou} shite itadaita kara desu.",
+    "X は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nな adj. + に = adverb\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "If it's not too much trouble for you",
+    "{ご迷惑|gomeiwaku} de nakereba",
+    "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ]
 ])

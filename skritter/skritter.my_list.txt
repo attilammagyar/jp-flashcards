@@ -485,7 +485,7 @@
 似合う niau
 貯金 chokin
 増える fueru
-丁寧 tenei
+丁寧 teinei
 歯医者 haisha
 咳 seki
 怪我をする kega wo suru
@@ -1267,3 +1267,5 @@
 対応 taiou
 直接 chokusetsu
 迷惑 meiwaku
+汚れる yogoreru
+汚す yogosu
