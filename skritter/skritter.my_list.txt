@@ -1267,5 +1267,12 @@
 対応 taiou
 直接 chokusetsu
 迷惑 meiwaku
+映じる eijiru
+反映 han'ei
+見合う miau
+弾く hajiku
+実際に jissai ni
+逆さ sakasa
+映像 eizou
 汚れる yogoreru
 汚す yogosu
