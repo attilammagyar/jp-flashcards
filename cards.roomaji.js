@@ -6905,7 +6905,7 @@ Flashcards.initialize([
     "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
 ],
 [
-    "(We're) running out of toilet paper, so (we) must buy (some). {casual}",
+    "(We're) running out of toilet paper soon, so (we) must buy (some). {casual}",
     "_toirettopeepaa_ ga mou sugu naku naru kara, {買っとかない|kattokanai} to.",
     "verbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nnegative conditional + {駄目|だめ}/いけない/ならない = must,  have to\nと conditional: can imply {駄目|だめ}/いけない/ならない (spoken casual)\nい adj. - い + く + {成る|なる} = become ~\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
@@ -6916,7 +6916,7 @@ Flashcards.initialize([
 ],
 [
     "(I) came leaving the bento that I'd woken up early in the morning to make, at home. {casual}",
-    "{朝|asa} {早く|hayaku} {起きて|okite} {作っといて|tsukuttoite} {お弁当|obentou} wo {家|ie} ni {置いて|oite} {来ちゃった|kichatta}.",
+    "{朝|asa} {早く|hayaku} {起きて|okite} {作っといた|tsukuttoita} {お弁当|obentou} wo {家|ie} ni {置いて|oite} {来ちゃった|kichatta}.",
     "verb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nい adj. - い + く = adverb\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 
