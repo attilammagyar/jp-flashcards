@@ -1276,3 +1276,6 @@
 映像 eizou
 汚れる yogoreru
 汚す yogosu
+駄洒落 dajare
+鼠取り nezumitori
+惜しい oshii
