@@ -6945,5 +6945,20 @@ Flashcards.initialize([
     "If it's not too much trouble for you",
     "{ご迷惑|gomeiwaku} de nakereba",
     "verbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "(It's in) the basement of the 4th building from that corner.",
+    "sono {角|kado} kara {4軒|yonken} {向こう|mukou} no _biru_ no {地下|chika} desu.",
+    ""
+],
+[
+    "Walk facing towards the tower building, turn left at the 4th traffic lights.",
+    "_tawaabiru_ {方面|houmen} ni {向かって|mukatte} {歩き|aruki}, {4つ目|yottsume} no {信号|shingou} de {左折|sasetsu} shite kudasai.",
+    "verbて + ください = request\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "The drugstore and the venue are some 100 meters apart.",
+    "_doraggusutoa_ to {会場|kaijou} wa {約|yaku} {100|hyaku} _meetoru_ {離れて|hanarete} iru.",
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nA と B と C = A, B and C (and nothing else)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ]
 ])

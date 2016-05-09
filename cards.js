@@ -6943,5 +6943,20 @@ Flashcards.initialize([
         "If it's not too much trouble for you",
         "{\u3054\u8ff7\u60d1|\u3054\u3081\u3044\u308f\u304f} \u3067 \u306a\u3051\u308c\u3070",
         "verb\u3048\u3070/~\u3044-->\u3051\u308c\u3070/noun\u3067\u3042\u308c\u3070 = if (general conditional; focus on condition)\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb\u3048\u3070: {\u8a00\u3048\u3070|\u3044\u3048\u3070}, {\u805e\u3051\u3070|\u304d\u3051\u3070}, {\u98df\u3079\u308c\u3070|\u305f\u3079\u308c\u3070}, \u3059\u308c\u3070, {\u6765\u308c\u3070|\u304f\u308c\u3070}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
+    ],
+    [
+        "(It's in) the basement of the 4th building from that corner.",
+        "\u305d\u306e {\u89d2|\u304b\u3069} \u304b\u3089 {4\u8ed2|\u3088\u3093\u3051\u3093} {\u5411\u3053\u3046|\u3080\u3053\u3046} \u306e \u30d3\u30eb \u306e {\u5730\u4e0b|\u3061\u304b} \u3067\u3059\u3002",
+        ""
+    ],
+    [
+        "Walk facing towards the tower building, turn left at the 4th traffic lights.",
+        "\u30bf\u30ef\u30fc\u30d3\u30eb {\u65b9\u9762|\u307b\u3046\u3081\u3093} \u306b {\u5411\u304b\u3063\u3066|\u3080\u304b\u3063\u3066} {\u6b69\u304d|\u3042\u308b\u304d}\u3001 {4\u3064\u76ee|\u3088\u3063\u3064\u3081} \u306e {\u4fe1\u53f7|\u3057\u3093\u3054\u3046} \u3067 {\u5de6\u6298|\u3055\u305b\u3064} \u3057\u3066 \u304f\u3060\u3055\u3044\u3002",
+        "verb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb-A-\u3066 verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nnoun + \u3067 + verb = do verb with/using/at noun (place of action or by-means-of)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
+    ],
+    [
+        "The drugstore and the venue are some 100 meters apart.",
+        "\u30c9\u30e9\u30c3\u30b0\u30b9\u30c8\u30a2 \u3068 {\u4f1a\u5834|\u304b\u3044\u3058\u3087\u3046} \u306f {\u7d04|\u3084\u304f} {100|\u3072\u3083\u304f} \u30e1\u30fc\u30c8\u30eb {\u96e2\u308c\u3066|\u306f\u306a\u308c\u3066} \u3044\u308b\u3002",
+        "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nA \u3068 B \u3068 C = A, B and C (and nothing else)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ]
 ])

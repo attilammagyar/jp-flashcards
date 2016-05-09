@@ -1341,3 +1341,22 @@
 躾 shitsuke
 仕付け shitsuke
 仕付ける shitsukeru
+方向 houkou
+四つ角 yottsukado
+斜め naname
+手前 temae
+有料駐車場 yuuryouchuushajou
+突き当たり tsukiatari
+前方 zenhou
+後方 kouhou
+右折する usetsu suru
+左折する sasetsu suru
+徒歩 toho
+面する men'suru
+一方通行 ippoutsuukou
+会話文 kaiwabun
+会場 kaijou
+説明会 setsumeikai
+案内図 an'naizu
+地下 chika
+軒 ken
