@@ -1360,3 +1360,5 @@
 案内図 an'naizu
 地下 chika
 軒 ken
+本音 hon'ne
+建て前 tatemae
