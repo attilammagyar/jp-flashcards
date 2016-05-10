@@ -1362,3 +1362,15 @@
 軒 ken
 本音 hon'ne
 建て前 tatemae
+花粉 kafun
+症 shou
+苦しむ kurushimu
+鼻水 hanamizu
+嚏 kushami
+日数 nissuu
+辛い dzurai
+幸い saiwai
+花粉症 kafun'shou
+酷い　hidoi
+頭痛 zutsuu
+どうぞお大事に douzo odaiji ni
