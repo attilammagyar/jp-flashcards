@@ -1374,3 +1374,5 @@
 酷い　hidoi
 頭痛 zutsuu
 どうぞお大事に douzo odaiji ni
+時差ぼけ jisaboke
+とのこと tonokoto
