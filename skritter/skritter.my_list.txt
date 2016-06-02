@@ -1377,3 +1377,4 @@
 時差ぼけ jisaboke
 とのこと tonokoto
 制汗剤 seikanzai
+解像度 kaizoudo
