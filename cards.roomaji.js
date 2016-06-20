@@ -6960,5 +6960,10 @@ Flashcards.initialize([
     "The drugstore and the venue are some 100 meters apart.",
     "_doraggusutoa_ to {会場|kaijou} wa {約|yaku} {100|hyaku} _meetoru_ {離れて|hanarete} iru.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nA と B と C = A, B and C (and nothing else)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Thank you very much for accepting (my) friend request.",
+    "{友達|tomodachi} {申請|shinsei} wo {承認|shounin} shite itadaki arigatou gozaimasu.",
+    "verbて + {呉れる|くれる} = a favor done by equals/subordinates\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ]
 ])

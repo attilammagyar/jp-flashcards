@@ -1378,3 +1378,14 @@
 とのこと tonokoto
 制汗剤 seikanzai
 解像度 kaizoudo
+申請 shinsei
+承認 shounin
+打者 dasha
+担ぐ katsugu
+担当する tantou suru
+接する sessuru
+接続 setsuzoku
+支える sasaeru
+技 waza
+特技 tokugi
+技術力 gijutsuryoku
