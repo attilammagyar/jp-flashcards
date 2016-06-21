@@ -1389,3 +1389,7 @@
 技 waza
 特技 tokugi
 技術力 gijutsuryoku
+育てる sodateru
+育つ sodatsu
+売り切れ urikire
+大騒ぎ oosawagi
