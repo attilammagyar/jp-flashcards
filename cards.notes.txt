@@ -41,7 +41,6 @@ Adjectives
 な-adj. + で = adj. and ...
 な adj. + に = adverb
 い adj. - い + く = adverb
-adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)
 stem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~
 くなかった = past negative of い adj.
 かった = past tense of い adj.
@@ -186,6 +185,13 @@ X は/が (Y を) verbて {上げる|あげる} = X(in) does ~ for Y(out) (never
 X は/が Y に Z を {遣る|やる} = X gives Z to Y (animal, plant)
 X は/が Y に verbて {遣る|やる} = X does ~ for Y (animal, plant)
 
+Looks/seems like
+================
+adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)
+noun/adj./verb + (じゃない/じゃなかった/だった) + みたい = looks like ~ (but is not; spoken, casual)
+noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~
+noun/adj./verb + っぽい = casual らしい/みたい/よう...
+
 Verbs
 =====
 
@@ -310,7 +316,7 @@ A + に + X + を + motion verbわせる/させる = make/let A move on/through 
 ~われる/られる
 --------
 verbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}
-verbわれる/られる = passive, often more polite (made to do ~)
+verbわれる/られる = passive, often more polite (get ~ done to by ~)
 (noun + に +) verbわれる/られる = difficulty as a result of sg.
 
 ~わせられる/させられる

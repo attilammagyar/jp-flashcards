@@ -6787,47 +6787,47 @@ Flashcards.initialize([
 [
     "The porridge was eaten by somebody! {plain}",
     "_porijji_ ga {誰|dare} ka ni {食べられた|taberareta}!",
-    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
+    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\n{誰か|だれか} = somebody, {何か|なにか} = something, {何時か|いつか} = sometime, {何処か|どこか} = somewhere, どれか = a certain one from many"
 ],
 [
     "(I) am told by everybody that (I'm) strange.",
     "{皆|min'na} ni {変|hen} da to {言われます|iwaremasu}.",
-    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "Exceeding the speed of light is thought to be impossible. {plain}",
     "{光|hikari} no {早さ|hayasa} wo {超える|koeru} no wa, {不可能|fukanou} da to {思われる|omowareru}.",
-    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nい-adj. - い + さ = ~ness\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nい-adj. - い + さ = ~ness\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "This textbook is read by a lot of people. {plain}",
     "kono {教科書|kyoukasho} wa {多く|ooku} no {人|hito} ni {読まれて|yomarete} iru.",
-    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) was asked a question by a foreigner but (I) couldn't answer. {plain}",
     "{外国人|gaikokujin} ni {質問|shitsumon} wo {聞かれた|kikareta} ga, {答えられなかった|kotaerarenakatta}.",
-    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "Everything is included in this package. {plain}",
     "kono _pakkeeji_ ni wa, arayuru mono ga {含まれて|fukumarete} iru.",
-    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "What about (your) receipt? {polite}",
     "{領収証|ryoushuushou} wa dou saremasu ka.",
-    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
+    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
 ],
 [
     "Are (you) going to the meeting tomorrow? {polite}",
     "{明日|ashita} no {会議|kaigi} ni {行かれる|ikareru} n desu ka.",
-    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "Yoshiko was praised by the teacher.",
     "{良子|yoshiko} wa {先生|sensei} ni {褒められました|homeraremashita}.",
-    "verbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
+    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
 ],
 [
     "(I) got made to sing a song in front of everybody.",
@@ -6887,17 +6887,17 @@ Flashcards.initialize([
 [
     "When (I) held (my) friend's baby, it cried. {plain}",
     "{友達|tomodachi} no {赤ちゃん|akachan} wo {抱っこ|dakko} shitara, {泣かれて|nakarete} shimatta.",
-    "(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる = passive, often more polite (made to do ~)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbたら + past = surprise, unexpected result\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbたら + past = surprise, unexpected result\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(My) clothes got soaked in the rain. {plain}",
     "{雨|ame} ni {降られて|furarete}, {服|fuku} ga {濡れて|nurete} shimatta.",
-    "(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる = passive, often more polite (made to do ~)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
+    "(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる = passive, often more polite (get ~ done to by ~)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
 ],
 [
     "Suddenly (my) employees quit. {plain}",
     "{急|kyuu} ni {社員|shain} ni {辞められた|yamerareta}.",
-    "(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる = passive, often more polite (made to do ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
+    "(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
 ],
 [
     "Let (me) think about that story for a moment. {casual}",
@@ -6965,5 +6965,90 @@ Flashcards.initialize([
     "Thank you very much for accepting (my) friend request.",
     "{友達|tomodachi} {申請|shinsei} wo {承認|shounin} shite itadaki arigatou gozaimasu.",
     "verbて + {呉れる|くれる} = a favor done by equals/subordinates\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Looks like it's sold already. {plain}",
+    "mou {売り切れ|urikire} mitai.",
+    "noun/adj./verb + (じゃない/じゃなかった/だった) + みたい = looks like ~ (but is not; spoken, casual)"
+],
+[
+    "Looking at the uniform-wearing figure, (he) looks like a student.",
+    "{制服|seifuku} wo {着て|kite} iru {姿|sugata} wo miru to, {学生|gakusei} mitai desu.",
+    "noun/adj./verb + (じゃない/じゃなかった/だった) + みたい = looks like ~ (but is not; spoken, casual)\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Doesn't this pizza look like okonomiyaki? {plain}",
+    "kono _piza_ wa {お好み焼き|okonomiyaki} mitai ja nai?",
+    "noun/adj./verb + (じゃない/じゃなかった/だった) + みたい = looks like ~ (but is not; spoken, casual)"
+],
+[
+    "Though it's winter, today is warm and it looks like spring.",
+    "{冬|fuyu} na no ni {今日|kyou} wa {暖かくて|atatakakute} {春|haru} mitai desu.",
+    "noun/adj./verb + (じゃない/じゃなかった/だった) + みたい = looks like ~ (but is not; spoken, casual)\nの に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)"
+],
+[
+    "Today was a spring likely warm day.",
+    "{今日|kyou} wa, {春|haru} rashii {暖かい|atatakai} {日|hi} deshita.",
+    "noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~"
+],
+[
+    "(I) want (our) kids to grow up healthily like a child. {plain}",
+    "uchi no {子|ko} ni wa {子供|kodomo} rashiku {元気|genki} ni {育って|sodatte} hoshii.",
+    "noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~\nい adj. - い + く = adverb\nな adj. + に = adverb\n(A に) verbて + {欲しい|ほしい} = I want (A) to do verb (for me)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Tomorrow will probably be often clear, autumn-like weather.",
+    "{明日|ashita} wa yoku {晴れて|harete} {秋|aki} rashii {天気|tenki} ni naru",
+    "noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~\nverbう + でしょう/だろう = probably (will) do ~\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nnoun/な adj. + に + {成る|なる} = become ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Is Tanaka not coming today? / Seems like it. {plain}",
+    "{今日|kyou} {田中|tanaka} san wa konai no? / konai rashii.",
+    "noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "What's that person over there? / Seems to be Miyuki's friend.",
+    "ano {人|hito} wa {何|nani} na no? / {美由紀|miyuki} san no {友達|tomodachi} rashii desu yo.",
+    "noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
+],
+[
+    "That child doesn't act like a child. {plain}",
+    "ano {子|ko} wa {子供|kodomo} rashikunai.",
+    "noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~\nくない = negative of い adj."
+],
+[
+    "Despite (I) planned to act like an adult, (I) made a big ruckus. {plain}",
+    "{大人|otona} rashiku suru tsumori datta no ni, {大騒ぎ|oosawagi} shite shimatta.",
+    "noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~\nい adj. - い + く = adverb\nの に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)\nverbう + つもり = intend to ~\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "That person looks like a Korean persons, huh? {casual}",
+    "ano {人|hito} wa chotto {韓国人|kankokujin} ppoi yo ne.",
+    "noun/adj./verb + っぽい = casual らしい/みたい/よう..."
+],
+[
+    "Looks like everybody ate everything already. {casual}",
+    "min'nade, mou {全部|zenbu} {食べて|tabete} shimattappoi yo.",
+    "noun/adj./verb + っぽい = casual らしい/みたい/よう...\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Kyouko is not womanly at all, huh? {casual}",
+    "{恭子|kyouko} wa {全然|zenzen} {女|on'na} ppokunai ne.",
+    "noun/adj./verb + っぽい = casual らしい/みたい/よう...\nくない = negative of い adj."
+],
+[
+    "This dish is greasy and (I) don't like it. {casual}",
+    "kono {料理|ryouri} wa {油|abura} ppokute iya da.",
+    "noun/adj./verb + っぽい = casual らしい/みたい/よう..."
+],
+[
+    "My mom always wears childish clothes. {casual}",
+    "{母|haha} wa itsumo {子供|kodomo} ppoi {服|fuku} wo {着て|kite} iru.",
+    "noun/adj./verb + っぽい = casual らしい/みたい/よう...\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "The one that escaped was a blackish car. {casual}",
+    "{逃げた|nigeta} no wa {黒|kuro} ppoi {車|kuruma} deshita.",
+    "noun/adj./verb + っぽい = casual らしい/みたい/よう...\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ]
 ])
