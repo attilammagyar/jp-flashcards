@@ -45,7 +45,7 @@
             settings = String(window.location.href).match(/#(.*)$/),
             cs, c, i, l, n, f;
 
-        Flashcards.cards = Flashcards.formatCards(cards);
+        Flashcards.cards = cards;
         cs = Flashcards.closedRange(0, Flashcards.cards.length - 1);
 
         if (settings) {
@@ -57,7 +57,7 @@
         }
 
         for (i = 0, l = cs.length; i < l; ++i) {
-            c = Flashcards.cards[cs[i]];
+            c = Flashcards.formatCard(Flashcards.cards[cs[i]]);
             n = String(cs[i] + 1) + ". ";
             f = Flashcards.formatJapaneseWritingAndReading(c[1]);
             html = html.concat([

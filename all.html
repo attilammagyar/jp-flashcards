@@ -96,7 +96,7 @@
             settings = String(window.location.href).match(/#(.*)$/),
             cs, c, i, l;
 
-        Flashcards.cards = Flashcards.formatCards(cards);
+        Flashcards.cards = cards;
         cs = Flashcards.closedRange(0, Flashcards.cards.length - 1);
 
         if (settings) {
@@ -109,12 +109,12 @@
 
         if (Flashcards.englishOnly) {
             for (i = 0, l = cs.length; i < l; ++i) {
-                c = Flashcards.cards[cs[i]];
+                c = Flashcards.formatCard(Flashcards.cards[cs[i]]);
                 html += "<li value=\"" + String(cs[i] + 1) + "\">" + c[0] + "</li>";
             }
         } else if (Flashcards.japaneseOnly) {
             for (i = 0, l = cs.length; i < l; ++i) {
-                c = Flashcards.cards[cs[i]];
+                c = Flashcards.formatCard(Flashcards.cards[cs[i]]);
                 html += (
                     "<li value=\"" + String(cs[i] + 1) + "\">"
                     + Flashcards.formatJapaneseHtml(c[1])
@@ -123,7 +123,7 @@
             }
         } else {
             for (i = 0, l = cs.length; i < l; ++i) {
-                c = Flashcards.cards[cs[i]];
+                c = Flashcards.formatCard(Flashcards.cards[cs[i]]);
                 html += (
                     "<li value=\"" + String(cs[i] + 1) + "\">"
                     + "<dt>"

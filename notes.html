@@ -61,7 +61,7 @@
             cn,
             cs, c, i, l, j, ll, n;
 
-        Flashcards.cards = Flashcards.formatCards(cards);
+        Flashcards.cards = cards;
         cs = Flashcards.closedRange(0, Flashcards.cards.length - 1);
 
         if (settings) {
@@ -70,6 +70,10 @@
             if (Flashcards.focus.length > 0) {
                 cs = Flashcards.focus;
             }
+        }
+
+        for (i = 0, l = cs.length; i < l; ++i) {
+            Flashcards.cards[cs[i]] = Flashcards.formatCard(Flashcards.cards[cs[i]]);
         }
 
         for (i = 0, l = cs.length; i < l; ++i) {
