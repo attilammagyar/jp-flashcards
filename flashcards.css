@@ -54,7 +54,7 @@ div#card p span#index {
     font-size: 5vmin;
 }
 
-ruby {
+span.furigana {
     border: solid 0.7vmin;
     border-radius: 2vmin;
     transition: background-color 0.3s, border-color 0.3s;
@@ -62,20 +62,20 @@ ruby {
     border-color: transparent;
 }
 
-ruby.visible {
+span.furigana.visible {
     transition: background-color 0.0s, border-color 0.0s;
     background-color: #f4f8ff;
     border-color: #a8b8d0;
 }
 
-ruby rt {
+span.furigana ruby rt {
     opacity: 0.0;
     transition: opacity 0.3s;
     color: #405070;
     font-size: 4.5vmin;
 }
 
-ruby.visible rt {
+span.furigana.visible ruby rt {
     opacity: 1.0;
     transition: opacity 0.0s;
 }

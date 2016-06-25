@@ -232,8 +232,8 @@
         formatFurigana: function (text)
         {
             return text.replace(
-                /\{([^|}]*)\|([^}]*)\}/g,
-                "<ruby>$1<rt>$2</rt></ruby>"
+                /\{([^|}]*)([^|}]*?)([^|}]*?)\|\1([^}]*)\3\}/g,
+                "<span\tclass=\"furigana\">$1<ruby>$2<rt>$4</rt></ruby>$3</span>"
             );
         },
 
@@ -471,13 +471,13 @@
                 i, l;
 
             for (i = 0, l = furigana.length; i < l; ++i) {
-                furigana[i].className = "visible";
+                furigana[i].className = "furigana visible";
             }
         },
 
         findFurigana: function ()
         {
-            return document.getElementsByTagName("ruby");
+            return document.getElementsByClassName("furigana");
         },
 
         hasFurigana: function ()

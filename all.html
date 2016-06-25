@@ -5,12 +5,12 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8" />
     <style>
-    ruby {
+    span.furigana {
         border-radius: 0.2em;
         border: solid 1px #ddd;
     }
 
-    ruby rt {
+    span.furigana ruby rt {
         font-size: 57%;
         color: rgba(0, 0, 0, 0.75);
     }
@@ -76,8 +76,8 @@
     {
         var with_furigana = card_html.replace(/ */g, ""),
             without_furigana = card_html.replace(
-                /<ruby>(.*?)<rt>.*?<\/rt><\/ruby>/g,
-                "$1"
+                /<span[^>]*>(.*?)<ruby>(.*?)<rt>.*?<\/rt><\/ruby>(.*?)<\/span>/g,
+                "$1$2$3"
             ).replace(/ */g, "");
 
         if (without_furigana == with_furigana) {
