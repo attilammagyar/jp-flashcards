@@ -108,11 +108,9 @@
             japaneseQuestion: function ()
             {
                 var i = Flashcards.current_card_index,
-                    question = Flashcards.cards[i][1],
-                    answer = Flashcards.cards[i][0],
-                    notes = Flashcards.cards[i][2];
+                    card = Flashcards.formatCard(Flashcards.cards[i]);
 
-                Flashcards.showQuestion(question, answer, notes);
+                Flashcards.showQuestion(card[1], card[0], card[2]);
 
                 Flashcards.nextState(
                     Flashcards.hasFurigana()
@@ -136,11 +134,10 @@
             englishQuestion: function ()
             {
                 var i = Flashcards.current_card_index,
-                    question = Flashcards.cards[i][0],
-                    answer = Flashcards.cards[i][1],
-                    notes = Flashcards.cards[i][2];
+                    card = Flashcards.formatCard(Flashcards.cards[i]);
 
-                Flashcards.showQuestion(question, answer, notes);
+                Flashcards.showQuestion(card[0], card[1], card[2]);
+
                 Flashcards.nextState(Flashcards.states.japaneseAnswer);
             },
 
@@ -173,7 +170,7 @@
                 settings = String(window.location.href).match(/#(.*)$/),
                 matches;
 
-            Flashcards.cards = Flashcards.formatCards(cards);
+            Flashcards.cards = cards;
             Flashcards.nextState(Flashcards.states.firstQuestion);
 
             if (settings) {
@@ -207,17 +204,16 @@
 
         formatCards: function (cards)
         {
-            var formatted = [],
-                i, l, en, jp, notes;
+            return cards.map(Flashcards.formatCard);
+        },
 
-            for (i = 0, l = cards.length; i < l; ++i) {
-                en = Flashcards.formatEnglish(cards[i][0]);
-                jp = Flashcards.formatJapanese(cards[i][1]);
-                notes = Flashcards.formatNotes(cards[i][2]);
-                formatted.push([en, jp, notes]);
-            }
+        formatCard: function (card)
+        {
+            var en = Flashcards.formatEnglish(card[0]),
+                jp = Flashcards.formatJapanese(card[1]),
+                notes = Flashcards.formatNotes(card[2]);
 
-            return formatted;
+            return [en, jp, notes];
         },
 
         formatEnglish: function (text)
