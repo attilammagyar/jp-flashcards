@@ -1393,3 +1393,16 @@
 育つ sodatsu
 売り切れ urikire
 大騒ぎ oosawagi
+投手 toushu
+探る saguru
+探検 tanken
+復習 fukushuu
+値上がり neagari
+授業料 jugyouryou
+望む nozomu
+望み nozomi
+修正 shuusei
+新製品 shinseihin
+発売 hatsubai
+並べ替える narabekaeru
+曲 kyoku
