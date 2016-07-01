@@ -23,7 +23,7 @@ cat text.txt \
         then
             gender="female"
         fi
-        if [[ ! -e "$f.wav" ]] && [[ ! -e "$f.mp3" ]]
+        if [[ ! -e "$f.wav" ]] && [[ ! -e "$f.audio" ]]
         then
             url_text=$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' $text)
             # curl \
@@ -48,15 +48,15 @@ cat text.txt \
                 -H 'Cookie: mtstkn=Sy38fSIayZK2cGoWGEGUn1mNmAqbUo5BMLmpWpshyLHtIT8OVbrdM6BRmspeE4%2B6; _EDGE_S=F=1&SID=0C49EF07471769060583E7DE46E568C6; _EDGE_V=1; MUID=1128BAC3D836616A3492B21AD9C46029; MUIDB=1128BAC3D836616A3492B21AD9C46029; srcLang=-; destLang=en; smru_list=; dmru_list=en; destDia=en-US; sourceDia=ja-JP; WLS=C=&N=; SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=6E09F2A61B604B828E60ADC13690A0EE; SRCHUSR=DOB=20160315; _SS=SID=0C49EF07471769060583E7DE46E568C6' \
                 -H 'Connection: keep-alive' > "$f.wav"
         fi
-        if [[ ! -e "$f.mp3" ]]
+        if [[ ! -e "$f.audio" ]]
         then
-            lame -b 80 -m m "$f.wav" "$f.mp3"
+            lame -b 80 -m m "$f.wav" "$f.audio"
             rm "$f.wav"
         fi
         grep "^$i[.] " text.txt | grep -v "^$i[.] line: " | cut -d" " -f2- > "lyrics.txt"
         eyeD3 \
             --remove-all \
-            "$f.mp3"
+            "$f.audio"
         eyeD3 \
             --to-v2.3 \
             --set-encoding=utf16-BE \
@@ -64,9 +64,9 @@ cat text.txt \
             -a jp-fc \
             -A "jp-fc-$d" \
             -t "jp-fc-$p" --lyrics=jpn:$n:"$(cat lyrics.txt)  " \
-            "$f.mp3"
+            "$f.audio"
         rm lyrics.txt
-        echo "------------------------- ${f}.mp3"
+        echo "------------------------- ${f}.audio"
       done
 
 

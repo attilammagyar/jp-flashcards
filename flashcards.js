@@ -196,7 +196,7 @@
                 audio_file = "00000" + String(Flashcards.current_card_index + 1);
 
             audio_file = audio_file.replace(/^0*(.....)$/, "$1").replace(/^(...)/, "$1/$1");
-            player.src = "audio/" + audio_file + ".mp3";
+            player.src = "audio/" + audio_file + ".audio";
             player.play();
 
             return false;
