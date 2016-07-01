@@ -7249,7 +7249,7 @@ Flashcards.initialize([
 [
     "My son doesn't work and just plays around. {plain}",
     "{息子|musuko} wa {仕事|shigoto} shinaide {遊んで|asonde} bakari iru.",
-    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nverbない + で + X = (did/happened) X without (doing) ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbない + で + X = (did/happened) X without (doing) ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(We) had only 1 customer today.",
