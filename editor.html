@@ -123,6 +123,46 @@
                 <label for="japanese">Note #10: </label>
                 <input type="text" id="note-10" name="note-10" list="notes" />
             </div>
+            <div class="container">
+                <label for="japanese">Note #11: </label>
+                <input type="text" id="note-11" name="note-11" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #12: </label>
+                <input type="text" id="note-12" name="note-12" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #13: </label>
+                <input type="text" id="note-13" name="note-13" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #14: </label>
+                <input type="text" id="note-14" name="note-14" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #15: </label>
+                <input type="text" id="note-15" name="note-15" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #16: </label>
+                <input type="text" id="note-16" name="note-16" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #17: </label>
+                <input type="text" id="note-17" name="note-17" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #18: </label>
+                <input type="text" id="note-18" name="note-18" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #19: </label>
+                <input type="text" id="note-19" name="note-19" list="notes" />
+            </div>
+            <div class="container">
+                <label for="japanese">Note #20: </label>
+                <input type="text" id="note-20" name="note-20" list="notes" />
+            </div>
         </div>
         <div class="button container">
             <button id="add">Add</button>
@@ -172,7 +212,7 @@
             return false;
         }
 
-        for (i = 1; i < 11; ++i) {
+        for (i = 1; i < 21; ++i) {
             n = Flashcards.getTextFromInput("note-" + String(i));
 
             if (n) {
@@ -192,7 +232,7 @@
         Flashcards.clearInput("english");
         Flashcards.clearInput("japanese");
 
-        for (i = 1; i < 11; ++i) {
+        for (i = 1; i < 21; ++i) {
             Flashcards.clearInput("note-" + String(i));
         }
 
