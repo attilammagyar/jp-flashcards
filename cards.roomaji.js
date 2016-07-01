@@ -7159,7 +7159,7 @@ Flashcards.initialize([
 [
     "The cars made here are exported to many countries.",
     "koko de {作られた|tsukurareta} {車|kuruma} wa {多く|ooku} no {国|kuni} ni {輸出|yushutsu} sarete imasu.",
-    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
 ],
 [
     "That student looks cheerful now since (he) understands Japanese. {plain}",
@@ -7209,7 +7209,7 @@ Flashcards.initialize([
 [
     "If (you) just eat vitamins, (your) health will be guaranteed.",
     "_bitamin_ wo {食べ|tabe} sae sureba, {健康|kenkou} ga {保証|hoshou} saremasu yo.",
-    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nverbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nverbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
 ],
 [
     "Lately it's nothing but work. {plain}",
