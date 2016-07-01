@@ -19,6 +19,10 @@ A や B や C など = A, B, C, etc.
 か + な at end of sentence = considering ~ (casual, feminine: かしら)
 かい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)
 ぞ/ぜ at end of sentence = "cool" version of よ
+noun/から + こそ = emphasis
+noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed
+noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)
+verbた + {許り|ばかり} (+ だ) = just did ~  (casual: ばっかり/ばっか)
 
 Quotes
 ======
@@ -100,6 +104,9 @@ noun + の + {頃|ころ} = when ~, as a ~
 noun + の + {時|とき} = when ~, as a ~
 nounA + と + nounB + の + {間|あいだ} + に = between A and B
 noun + が + {切っ掛け|きっかけ} + で = (started doing ~) because of ~
+noun + に + {関|かん} + して/しては/しても/するnoun = regarding ~
+noun + に + {因ると|よると}/{因れば|よれば} = according to ~
+noun + に + {因って|よって}/{因っては|よっては}/{因り|より}/{因る|よる}noun = depending on ~; (caused/done) by ~
 
 Nominalization
 ==============
@@ -140,6 +147,12 @@ noun が {欲しがる|ほしがる} = someone else wants ~
 もう + verb-past = already completed doing ~
 もう + verb-present-negative = no longer doing ~ (complete action)
 もう + verbて + いません = discontinued habitual action (no longer)
+
+よう
+==
+nounの/verb-plain + よう + に = as ~ (introducing explanations)
+verbう/verbない + よう + に at end of sentence = request
+verbます/verbません/verbれます + よう + に at end of sentence = hope
 
 During/while
 ============
@@ -191,6 +204,7 @@ adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opi
 noun/adj./verb + (じゃない/じゃなかった/だった) + みたい = looks like ~ (but is not; spoken, casual)
 noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~
 noun/adj./verb + っぽい = casual らしい/みたい/よう...
+verbおう/よう + と + しない = doesn't seem to ~
 
 Verbs
 =====
@@ -293,6 +307,7 @@ verbない + で + {欲しい|ほしい} + です = (I) want (you) not to ~
 verbない - い + くて + も + いい + です = don't have to ~
 verbない + {方|ほう} + が + いい + です = shouldn't ~
 verbない + こと + が + ある = sometimes/occasionally not ~
+noun + だけしか + verbない = only ~ did ~
 
 ~える/~られる
 --------

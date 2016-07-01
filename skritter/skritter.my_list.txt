@@ -294,7 +294,7 @@
 損失 sonshitsu
 夫妻 fusai
 撃墜 gekitsui
-理由 ryuu
+理由 riyuu
 事故 jiko
 手短 temijika
 表現 hyougen
@@ -409,7 +409,7 @@
 消費者 shouhisha
 蛇足 dasoku
 習慣 shuukan
-理由 ryou
+理由 riyuu
 確か tashika
 確かに tashika ni
 必ず kanarazu
@@ -657,7 +657,7 @@
 具体的 gutaiteki
 失敗する shippai suru
 再起動 saikidou
-状態 joudai
+状態 joutai
 出荷 shukka
 戻す modosu
 用 you
@@ -1406,3 +1406,40 @@
 発売 hatsubai
 並べ替える narabekaeru
 曲 kyoku
+蓋 futa
+動作 dousa
+噛む kamu
+吠える hoeru
+人口 jinkou
+世話 sewa
+金魚 kingyo
+図 zu
+輸出 yushutsu
+安売り yasuuri
+努力 doryoku
+水分 subun
+愛情 aijou
+叱る shikaru
+楽ちん rakuchin
+健康 kenkou
+保証 hoshou
+解決 kaiketsu
+渋滞 juutai
+首都圏 shutoken
+状況 joukyou
+現在 genzai
+過ち ayamachi
+農業 nougyou
+論文 ronbun
+速報 sokuhou
+震度 shindo
+克服 kokufuku
+屋根 yane
+話し合う hanashiau
+話し合い hanashiai
+被害 higai
+市民 shimin
+被害者 higaisha
+一言 hitokoto
+飛ばす tobasu
+広がる hirogaru

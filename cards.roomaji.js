@@ -5307,7 +5307,7 @@ Flashcards.initialize([
 [
     "(I) do my best to write an essay, but after all (I) don't know many words yet, and also, (I) have only a little time. Oh, it's always an excuse, isn't it?",
     "{一生懸命|isshoukenmei} {作文|sakubun} wo {書いて|kaite} imasu ga, yappari mada {多く|ooku} no {言葉|kotoba} wo {知らない|shiranai} shi, {時間|jikan} mo {少し|sukoshi} dake shika arimasen. Aa, itsumo {言い訳|iiwake} desu ne.",
-    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nし at end of clause = multiple reasons, etc.\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nし at end of clause = multiple reasons, etc.\nnoun + だけしか + verbない = only ~ did ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I) might have gained around 2 kilos. (I've) gained even 2 kilos. (I) might have gained as much as 2 kilos. (I've) gained as much as 2 kilos. (I've) gained at least 2 kilos.",
@@ -7050,5 +7050,290 @@ Flashcards.initialize([
     "The one that escaped was a blackish car. {casual}",
     "{逃げた|nigeta} no wa {黒|kuro} ppoi {車|kuruma} deshita.",
     "noun/adj./verb + っぽい = casual らしい/みたい/よう...\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "As you (all) are aware, the contents of the exam will change.",
+    "{皆様|minasama} {ご存じ|gozonji} no you ni, {試験|shiken} no {内容|naiyou} ga {変わります|kawarimasu}.",
+    "nounの/verb-plain + よう + に = as ~ (introducing explanations)"
+],
+[
+    "As is written here, there will be morning classes only next Thursday.",
+    "koko ni {書いて|kaite} aru you ni, {今度|kondo} no {木曜日|mokuyoubi} {授業|jugyou} wa {午前中|gozenchuu} dake desu.",
+    "nounの/verb-plain + よう + に = as ~ (introducing explanations)\nverbて + ある = resultant state after completed action (often を --> も/は), (in preparation for sg. else)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "As (I) said earlier, the tuition fees will go up next year.",
+    "{前|mae} ni {お話し|ohanashi} shita you ni, {来年|rainen} kara {授業料|jugyouryou} ga {値上がり|neagari} shimasu.",
+    "nounの/verb-plain + よう + に = as ~ (introducing explanations)"
+],
+[
+    "Please come much earlier tomorrow.",
+    "{明日|ashita} wa motto {早く|hayaku} {来る|kuru} you ni.",
+    "verbう/verbない + よう + に at end of sentence = request\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "Please do not smoke here.",
+    "koko de {煙草|tabako} wo {吸わない|suwanai} you ni.",
+    "verbう/verbない + よう + に at end of sentence = request\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "It's snowing, so (if you) go out, be careful not to slip.",
+    "{雪|yuki} ga {降って|futte} imasu kara, {転ばない|korobanai} you ni {注意|chuui} shite {出かけて|dekakete} kudasai.",
+    "verbう/verbない + よう + に at end of sentence = request\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + ください = request\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "As (I) always say, don't strain (yourself) too much.",
+    "itsumo {言って|itte} iru you ni, {無理|muri} wo shisuginai you ni.",
+    "nounの/verb-plain + よう + に = as ~ (introducing explanations)\nverbう/verbない + よう + に at end of sentence = request\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nstem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "(I) hope (I'll) pass.",
+    "{合格|goukaku} shimasu you ni.",
+    "verbます/verbません/verbれます + よう + に at end of sentence = hope"
+],
+[
+    "(I) hope (I) woun't get the flu. {x2}",
+    "_infuruenza_ ni kakarimasen you ni. _infuruenza_ ni kakaranai koto wo {望んで|nozonde} imasu.",
+    "verbます/verbません/verbれます + よう + に at end of sentence = hope\nverbう + こと = doing ~ (nominalize)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "What's wrong with Pochi? (He) doesn't seem to eat (at all). {plain}",
+    "_pochi_, dou shita n darou? {ご飯|gohan} wo {食べよう|tabeyou} to shinai n da yo.",
+    "verbおう/よう + と + しない = doesn't seem to ~\nverbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
+],
+[
+    "He doesn't seem to talk about himself. {plain}",
+    "{彼|kare} wa {自分|jibun} no koto wa {何|nani} mo {言おう|iou} to shinai.",
+    "verbおう/よう + と + しない = doesn't seem to ~\nverbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
+],
+[
+    "No matter how (hard I) try to open the lid of this jam, it doesn't open. {plain}",
+    "kono _jamu_ no {蓋|futa} wa, ikura {開けよう|akeyou} to shite mo {開かない|akanai}.",
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "(You) didn't come yesterday to class, did you? / Yep, (I) tried to come, but (I) had a fever so (I) stayed at home.",
+    "{昨日|kinou} wa {授業|jugyou} ni {来なかった|konakatta} ne. un, {来よう|こよう} to {思って|omotte} ita n da kedo, {熱|netsu} ga {出て|dete} {休んだ|yasunda} n da.",
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "(I) thought I'd go shopping so (I) wrote a memo, but (I) left it at home.",
+    "{買おう|kaou} to {思って|omotte} {書いといた|kaitoita} _memo_ wo {忘れて|wasurete} kichatta.",
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + {置く|おく} = leave as it is, do something in advance (casual speech: ~ておく --> ~とく)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "(I) think (I'll) buy that CD to my younger brother's birthday which (he) likes.",
+    "{弟|otouto} no {好き|suki} na *CD* wo {誕生日|tan'joubi} ni {買って|katte} yarou to {思って|omotte} imasu.",
+    "verbおう/よう + と + {思う|おもう} = I think I _will_ ~\nX は/が Y に verbて {遣る|やる} = X does ~ for Y (animal, plant)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "What's your name sir? / My name is Tanaka. {keigo}",
+    "{お名前|onamae} wa {何|nan} to osshaimasu ka. / {田中|tanaka} to {申します|moushimasu}.",
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+],
+[
+    "Could you let me park my car here for just 30 minutes?",
+    "{３０分|sanjuppun} dake koko ni {車|kuruma} wo {止めさせて|tomesasete} moraemasen ka.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nX は/が Y に/から verbて {貰う|もらう} = X (asked and) got Y do do ~ (Y != {私|わたし})\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "If (you) don't take care of it properly, (your) goldfish will die. {plain}",
+    "chanto {世話|sewa} wo shinai to, {金魚|kingyo} wa {死んじゃう|shinjau}.",
+    "verb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "(I) was about to take a shower, but the water didn't come. {plain}",
+    "_shawaa_ wo {浴びよう|abiyou} to shita ga, {水|mizu} ga {出なかった|denakatta}.",
+    "verbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "Let's use the Japanese (we've) learnt immediately.",
+    "{習った|naratta} {日本語|nihongo} wa sugu ni {使う|tsukau} you ni shimashou.",
+    "verbう + {様|よう} + に + する = to make an effort to ~\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "This milk is a little bit thin and watery. {plain}",
+    "kono {牛乳|gyuunyuu} wa chotto {薄くて|usukute} {水っぽい|mizuppoi}.",
+    "noun/adj./verb + っぽい = casual らしい/みたい/よう..."
+],
+[
+    "The cars made here are exported to many countries.",
+    "koko de {作られた|tsukurareta} {車|kuruma} wa {多く|ooku} no {国|kuni} ni {輸出|yushutsu} sarete imasu.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "That student looks cheerful now since (he) understands Japanese. {plain}",
+    "ano {学生|gakusei} wa {日本語|nihongo} ga wakaru you ni natte kara {明るく|akaruku} natta mitai.",
+    "verbう + {様|よう} + に + {成る|なる} = change in habitual action\nい adj. - い + く + {成る|なる} = become ~\nverbて + から = after doing ~, since doing ~\nnoun/adj./verb + (じゃない/じゃなかった/だった) + みたい = looks like ~ (but is not; spoken, casual)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "(I) said \"please let me in\" and finally (I) could go in. When it's crowded, even if (you) try to get off, sometimes (you) can't get off, so (they) might stand close to the door. But if (you) also think about the people taking (the train), (I) think (you) should try to get in the middle as much as you can.",
+    "「{中|naka} ni {入らせて|hairasete} kudasai」 to {言って|itte}, yatto {入れました|hairemashita}. {混んで|konde} iru toki wa, {降りよう|oriyou} to shite mo nakanaka {降りられない|orirarenai} no de, _doa_ no {近く|chikaku} ni {立って|tatte} iru no ka mo shiremasen. demo, {乗る|noru} {人|hito} no koto mo {考えて|kangaete}, narubeku {中|naka} he {入る|hairu} you ni shita hou ga ii to {思いました|omoimashita}.",
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbて + ください = request\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\nverbう + {様|よう} + に + する = to make an effort to ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "(I) will definitely study tomorrow! {plain}",
+    "{明日|ashita} koso {勉強|benkyou} suru zo!",
+    "noun/から + こそ = emphasis\nぞ/ぜ at end of sentence = \"cool\" version of よ"
+],
+[
+    "(The reason I) get so angry is because (I) care so much about (you)!",
+    "{愛情|aijou} ga aru kara koso, shikaru n desu.",
+    "noun/から + こそ = emphasis\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "(I) can't even write hiragana, so of course (I) can't write kanji characters.",
+    "{平仮名|hiragana} sae {書けない|kakenai} n desu kara, {漢字|kanji} nante {書けません|kakemasen}.",
+    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
+],
+[
+    "Even children know that. {plain}",
+    "son'na koto, {子供|kodomo} de sae {知って|shitte} iru.",
+    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "There was so much homework, (I) didn't even have time to go to the bathroom. {plain}",
+    "{宿題|shukudai} ga {多すぎて|oosugite}, _toire_ ni {行く|iku} {時間|jikan} sae nakatta.",
+    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nstem of adj. or continuative base of verb + ~{過ぎる|すぎる} = too much ~, over~\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "All (you) need is money, and (you) can do anything. {plain}",
+    "{お金|okane} sae areba, {何|nan} de mo {出来る|dekiru} yo.",
+    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
+],
+[
+    "If even I can do it, it should be a breeze for you.",
+    "{私|watashi} de sae {出来れば|dekireba}, anta ni wa {楽ちん|rakuchin} deshou.",
+    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
+],
+[
+    "If (you) just eat vitamins, (your) health will be guaranteed.",
+    "_bitamin_ wo {食べ|tabe} sae sureba, {健康|kenkou} ga {保証|hoshou} saremasu yo.",
+    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nverbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+],
+[
+    "Lately it's nothing but work. {plain}",
+    "{最近|saikin} wa {仕事|shigoto} bakka da yo.",
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)"
+],
+[
+    "(You're) hanging out with Naomi-chan all the time, aren't you!",
+    "{直美|naomi} chan to {遊ぶ|asobu} bakkari deshou!",
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)\nA と B と C = A, B and C (and nothing else)"
+],
+[
+    "Sorry, but (I'm) full because (I've) just eaten.",
+    "sumimasen, {今|ima} {食べた|tabeta} bakari na no de, {お腹|onaka} ga ippai desu.",
+    "verbた + {許り|ばかり} (+ だ) = just did ~  (casual: ばっかり/ばっか)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "(I) just ran 10 kilometers and (I'm) really tired. {plain}",
+    "10 _kiro_ wo {走った|hashitta} bakari de, {凄く|sugoku} {疲れた|tsukareta}.",
+    "verbた + {許り|ばかり} (+ だ) = just did ~  (casual: ばっかり/ばっか)\nい adj. - い + く = adverb\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "No way, did (you) wake up just now? {plain}",
+    "masaka, {今|ima} {起きた|okita} bakka na no?",
+    "verbた + {許り|ばかり} (+ だ) = just did ~  (casual: ばっかり/ばっか)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "Despite having just eaten lunch, (I'm) hungry already. {plain}",
+    "{昼ご飯|hirugohan} wo {食べた|tabeta} bakka na no ni, mou {お腹|onaka} ga {空いた|suita}.",
+    "verbた + {許り|ばかり} (+ だ) = just did ~  (casual: ばっかり/ばっか)\nの に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "My brother does nothing but watching TV. {plain}",
+    "{弟|otouto} wa _terebi_ wo {見て|mite} bakari iru.",
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "My son doesn't work and just plays around. {plain}",
+    "{息子|musuko} wa {仕事|shigoto} shinaide {遊んで|asonde} bakari iru.",
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)\nmotion-verbて + いる = (temporarily) moved and is still there (never continuous present!) (casual speech: ~ている --> ~てる)\nverbない + で + X = (did/happened) X without (doing) ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "(We) had only 1 customer today.",
+    "{今日|kyou} wa {お客様|okyakusama} ga {一人|hitori} dake shika {来ません|kimasen} deshita.",
+    "noun + だけしか + verbない = only ~ did ~"
+],
+[
+    "The problem won't be solved if (you) don't even recognize (your) own mistake, you know. {plain}",
+    "{自分|jibun} no {過ち|ayamachi} wo {認め|mitome} sae shinakereba {問題|mondai} wa {解決|kaiketsu} shinai yo.",
+    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)"
+],
+[
+    "If only (I) had read the textbook more properly, (I) could have passed. {plain}",
+    "{教科書|kyoukasho} wo motto chanto {読んで|yonde} sae ireba, {合格|goukaku} dekita no ni.",
+    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "If (you) only said something, things wouldn't have turned out like this. {plain}",
+    "{一言|hitokoto} {言って|itte} sae kurereba, kon'na koto ni naranakatta.",
+    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nverbて + {呉れる|くれる} = a favor done by equals/subordinates\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nnoun/な adj. + に + {成る|なる} = become ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
+],
+[
+    "(My) friend said that it's interesting because it's a difficult work. {plain}",
+    "{難しい|muzukashii} {仕事|shigoto} da kara koso omoshiroi to {友人|yuujin} wa {言った|itta}.",
+    "noun/から + こそ = emphasis\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+],
+[
+    "There are things (I) can't tell even to my family. {plain}",
+    "{家族|kazoku} ni sae {言えない|ienai} koto mo aru.",
+    "noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
+],
+[
+    "Do (you) have any suggestions regarding this problem?",
+    "kono {問題|mondai} ni {関|kan} shite, {ご意見|goiken} arimasen ka.",
+    "noun + に + {関|かん} + して/しては/しても/するnoun = regarding ~"
+],
+[
+    "(I) read a research paper on the topic of agriculture. {plain}",
+    "{農業|nougyou} ni {関|kan} suru {論文|ronbun} wo {読む|yomu}.",
+    "noun + に + {関|かん} + して/しては/しても/するnoun = regarding ~"
+],
+[
+    "According to the weather forecast, it looks like tomorrow will be sunny. {plain}",
+    "{天気予報|tenkiyohou} ni yoreba, {明日|ashita} wa {晴れる|hareru} rashii.",
+    "noun + に + {因ると|よると}/{因れば|よれば} = according to ~\nnoun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~\nverbえば/~い-->ければ/nounであれば = if (general conditional; focus on condition)\nverbえば: {言えば|いえば}, {聞けば|きけば}, {食べれば|たべれば}, すれば, {来れば|くれば}"
+],
+[
+    "According to the news flash on TV, the earthquake just now had an intensity of 3. {plain}",
+    "sakki no {地震|jishin} wa _terebi_ no {速報|sokuhou} ni yoru to {震度|shindo} {３|san} da sou da.",
+    "noun + に + {因ると|よると}/{因れば|よれば} = according to ~\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nadj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+],
+[
+    "Through his effort, he conquered his illness. {plain}",
+    "{彼|kare} wa {努力|doryoku} ni yotte {病気|byouki} wo {克服|kokufuku} shita.",
+    "noun + に + {因って|よって}/{因っては|よっては}/{因り|より}/{因る|よる}noun = depending on ~; (caused/done) by ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "The story is different depending on the person. {plain}",
+    "{人|hito} ni yotte {話|hanashi} ga {違う|chigau}.",
+    "noun + に + {因って|よって}/{因っては|よっては}/{因り|より}/{因る|よる}noun = depending on ~; (caused/done) by ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Fruit becomes tasty or nasty depending on the season. {plain}",
+    "{季節|kisetsu} ni yotte {果物|kudamono} wa oishiku nattari, mazuku nattari suru.",
+    "noun + に + {因って|よって}/{因っては|よっては}/{因り|より}/{因る|よる}noun = depending on ~; (caused/done) by ~\nverb-A-た + り, verb-B-た + り, ... + する= (sometimes) do A, (sometimes) do B, ...; representative list of actions in random order\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "The roof was blown away by the typhoon. {plain}",
+    "{台風|taifuu} ni yotte {屋根|yane} ga {飛ばされた|tobasareta}.",
+    "noun + に + {因って|よって}/{因っては|よっては}/{因り|より}/{因る|よる}noun = depending on ~; (caused/done) by ~\nverbわれる/られる = passive, often more polite (get ~ done to by ~)\n(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Thanks to the efforts of the citizens, the town become beautiful. {plain}",
+    "{市民|shimin} no {力|chikara} ni yori, {町|machi} ga {綺麗|kirei} ni natta.",
+    "noun + に + {因って|よって}/{因っては|よっては}/{因り|より}/{因る|よる}noun = depending on ~; (caused/done) by ~\nnoun/な adj. + に + {成る|なる} = become ~"
+],
+[
+    "The damage is spreading further because of the typhoon.",
+    "{台風|taifuu} ni yoru {被害|higai} wa sara ni {広がって|hirogatte} imasu.",
+    "noun + に + {因って|よって}/{因っては|よっては}/{因り|より}/{因る|よる}noun = depending on ~; (caused/done) by ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "(I'm) looking for a book about the history of this town.",
+    "kono {町|machi} no {歴史|rekishi} ni {関|kan} suru {本|hon} wo {探して|sagashite} imasu.",
+    "noun + に + {関|かん} + して/しては/しても/するnoun = regarding ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ]
 ])
