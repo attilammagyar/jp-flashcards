@@ -40,6 +40,32 @@
         page-break-inside: avoid;
         -webkit-column-break-inside: avoid;
     }
+
+    ol li h1 a.toggle {
+        border: outset 2px #002060;
+        border-radius: 5px;
+        margin: 0 15px;
+        padding: 3px 10px;
+        background-color: #003070;
+        text-decoration: none;
+        color: #ffffff;
+    }
+    ol li.hidden h1 a.toggle {
+        border: inset 2px #002060;
+    }
+
+    ol li.hidden {
+        opacity: 0.5;
+    }
+
+    @media print {
+        ol li.hidden {
+            display: none;
+        }
+        ol li h1 a.toggle {
+            display: none;
+        }
+    }
     </style>
 </head>
 <body>
@@ -50,6 +76,17 @@
     Flashcards.noteToKey = function (note)
     {
         return "_" + String(note);
+    };
+
+    Flashcards.toggleSectionPrinting = function (id)
+    {
+        var section = document.getElementById("section" + String(id));
+
+        if (section.className == "hidden") {
+            section.className = "";
+        } else {
+            section.className = "hidden";
+        }
     };
 
     Flashcards.initialize = function (cards)
@@ -102,9 +139,10 @@
             n = notes[j];
             cs = indices_by_notes[Flashcards.noteToKey(n)];
             html = html.concat([
-                "<li>",
+                "<li id=\"section" + String(j) + "\">",
                     "<h1>",
                         n,
+                        "<a class=\"toggle\" href=\"#\" onclick=\"Flashcards.toggleSectionPrinting(" + String(j) + "); return false;\">Print ON/OFF</a>",
                     "</h1>",
                     "<ol>"
             ]);
