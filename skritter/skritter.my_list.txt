@@ -999,7 +999,7 @@
 見かける mikakeru
 乗せる noseru
 訳す yakusu
-不思議 fushiki
+不思議 fushigi
 感覚 kankaku
 性 saga
 胃腸 ichou
@@ -1443,3 +1443,19 @@
 一言 hitokoto
 飛ばす tobasu
 広がる hirogaru
+すっかり sukkari
+ぐっすり gussuri
+有料 yuuryou
+次々 tsugitsugi
+今頃 imagoro
+可愛がる kawaigaru
+短気 tanki
+に於いて ni oite
+縛る shibaru
+自由 jiyuu
+玉ねぎ tamanegi
+防ぐ fusegu
+大量 tairyou
+満 man
+不満 fuman
+申込書 moushikomisho
