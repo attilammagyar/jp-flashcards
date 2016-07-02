@@ -7092,7 +7092,7 @@ Flashcards.initialize([
     "verbます/verbません/verbれます + よう + に at end of sentence = hope"
 ],
 [
-    "(I) hope (I) woun't get the flu. {x2}",
+    "(I) hope (I) won't get the flu. {x2}",
     "_infuruenza_ ni kakarimasen you ni. _infuruenza_ ni kakaranai koto wo {望んで|nozonde} imasu.",
     "verbます/verbません/verbれます + よう + に at end of sentence = hope\nverbう + こと = doing ~ (nominalize)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
@@ -7322,7 +7322,7 @@ Flashcards.initialize([
     "noun + に + {因って|よって}/{因っては|よっては}/{因り|より}/{因る|よる}noun = depending on ~; (caused/done) by ~\nverbわれる/られる = passive, often more polite (get ~ done to by ~)\n(noun + に) + verbわれる/られる = difficulty as a result of sg.\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
-    "Thanks to the efforts of the citizens, the town become beautiful. {plain}",
+    "Thanks to the efforts of the citizens, the town became beautiful. {plain}",
     "{市民|shimin} no {力|chikara} ni yori, {町|machi} ga {綺麗|kirei} ni natta.",
     "noun + に + {因って|よって}/{因っては|よっては}/{因り|より}/{因る|よる}noun = depending on ~; (caused/done) by ~\nnoun/な adj. + に + {成る|なる} = become ~"
 ],

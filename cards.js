@@ -7090,7 +7090,7 @@ Flashcards.initialize([
         "verb\u307e\u3059/verb\u307e\u305b\u3093/verb\u308c\u307e\u3059 + \u3088\u3046 + \u306b at end of sentence = hope"
     ],
     [
-        "(I) hope (I) woun't get the flu. {x2}",
+        "(I) hope (I) won't get the flu. {x2}",
         "\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6 \u306b \u304b\u304b\u308a\u307e\u305b\u3093 \u3088\u3046 \u306b\u3002 \u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6 \u306b \u304b\u304b\u3089\u306a\u3044 \u3053\u3068 \u3092 {\u671b\u3093\u3067|\u306e\u305e\u3093\u3067} \u3044\u307e\u3059\u3002",
         "verb\u307e\u3059/verb\u307e\u305b\u3093/verb\u308c\u307e\u3059 + \u3088\u3046 + \u306b at end of sentence = hope\nverb\u3046 + \u3053\u3068 = doing ~ (nominalize)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
@@ -7320,7 +7320,7 @@ Flashcards.initialize([
         "noun + \u306b + {\u56e0\u3063\u3066|\u3088\u3063\u3066}/{\u56e0\u3063\u3066\u306f|\u3088\u3063\u3066\u306f}/{\u56e0\u308a|\u3088\u308a}/{\u56e0\u308b|\u3088\u308b}noun = depending on ~; (caused/done) by ~\nverb\u308f\u308c\u308b/\u3089\u308c\u308b = passive, often more polite (get ~ done to by ~)\n(noun + \u306b) + verb\u308f\u308c\u308b/\u3089\u308c\u308b = difficulty as a result of sg.\nverb\u308f\u308c\u308b/\u3089\u308c\u308b: {\u8a00\u308f\u308c\u308b|\u3044\u308f\u308c\u308b}, {\u805e\u304b\u308c\u308b|\u304d\u304b\u308c\u308b}, {\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}, \u3055\u308c\u308b, {\u6765\u3089\u308c\u308b|\u3053\u3089\u308c\u308b}\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
-        "Thanks to the efforts of the citizens, the town become beautiful. {plain}",
+        "Thanks to the efforts of the citizens, the town became beautiful. {plain}",
         "{\u5e02\u6c11|\u3057\u307f\u3093} \u306e {\u529b|\u3061\u304b\u3089} \u306b \u3088\u308a\u3001 {\u753a|\u307e\u3061} \u304c {\u7dba\u9e97|\u304d\u308c\u3044} \u306b \u306a\u3063\u305f\u3002",
         "noun + \u306b + {\u56e0\u3063\u3066|\u3088\u3063\u3066}/{\u56e0\u3063\u3066\u306f|\u3088\u3063\u3066\u306f}/{\u56e0\u308a|\u3088\u308a}/{\u56e0\u308b|\u3088\u308b}noun = depending on ~; (caused/done) by ~\nnoun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~"
     ],
