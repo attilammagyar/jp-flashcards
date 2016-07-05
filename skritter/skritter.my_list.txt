@@ -1459,3 +1459,6 @@
 満 man
 不満 fuman
 申込書 moushikomisho
+納車 nousha
+疎か orosoka
+部品 buhin
