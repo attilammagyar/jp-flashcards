@@ -7335,5 +7335,20 @@ Flashcards.initialize([
     "(I'm) looking for a book about the history of this town.",
     "kono {町|machi} no {歴史|rekishi} ni {関|kan} suru {本|hon} wo {探して|sagashite} imasu.",
     "noun + に + {関|かん} + して/しては/しても/するnoun = regarding ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "This document is full of errors, it cannot be used at all. {plain}",
+    "kono _dokyumento_ wa {間違い|machigai} darake de, {全然|zenzen} {役|yaku} ni {立たない|tatanai}.",
+    "noun + だらけ = full of ~"
+],
+[
+    "The phone is full of scratches after 2 years of use. {plain}",
+    "{携帯|keitai} wo {２年間|ninenkan} {使ってたら|tsukattetara}, {傷|kizu} darake ni natta.",
+    "noun + だらけ = full of ~\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nnoun/な adj. + に + {成る|なる} = become ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Could (you) wipe clean this television full of dust? {plain}",
+    "kono {埃|hokori} darake no _terebi_ wo chanto {拭いて|fuite} kurenai?",
+    "noun + だらけ = full of ~\nverbて + {呉れる|くれる} = a favor done by equals/subordinates\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ]
 ])

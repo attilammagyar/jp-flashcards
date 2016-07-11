@@ -23,6 +23,7 @@ noun/から + こそ = emphasis
 noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's needed
 noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)
 verbた + {許り|ばかり} (+ だ) = just did ~  (casual: ばっかり/ばっか)
+noun + だらけ = full of ~
 
 Quotes
 ======

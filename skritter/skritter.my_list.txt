@@ -1462,3 +1462,7 @@
 納車 nousha
 疎か orosoka
 部品 buhin
+役に立たない yaku ni tatanai
+傷 kizu
+拭く fuku
+埃 hokori
