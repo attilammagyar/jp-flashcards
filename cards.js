@@ -7348,5 +7348,30 @@ Flashcards.initialize([
         "Could (you) wipe clean this television full of dust? {plain}",
         "\u3053\u306e {\u57c3|\u307b\u3053\u308a} \u3060\u3089\u3051 \u306e \u30c6\u30ec\u30d3 \u3092 \u3061\u3083\u3093\u3068 {\u62ed\u3044\u3066|\u3075\u3044\u3066} \u304f\u308c\u306a\u3044\uff1f",
         "noun + \u3060\u3089\u3051 = full of ~\nverb\u3066 + {\u5449\u308c\u308b|\u304f\u308c\u308b} = a favor done by equals/subordinates\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
+    ],
+    [
+        "While getting covered in oil, he worked hard at repairing the car.",
+        "{\u5f7c|\u304b\u308c} \u306f {\u6cb9|\u3042\u3076\u3089} \u307e\u307f\u308c \u306b \u306a\u308a\u306a\u304c\u3089\u3001 {\u8eca|\u304f\u308b\u307e} \u306e {\u4fee\u7406|\u3057\u3085\u3046\u308a} \u306b {\u9811\u5f35\u308a\u307e\u3057\u305f|\u304c\u3093\u3070\u308a\u307e\u3057\u305f}\u3002",
+        "noun + {\u5857\u308c|\u307e\u307f\u308c} = physically covered with ~\nnoun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb-stem + \u306a\u304c\u3089 + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+    ],
+    [
+        "It's pitiful that one gets covered in sweat from running just 1 kilometer. {plain}",
+        "\u305f\u3063\u305f {1|\u3044\u3061} \u30ad\u30ed \u3092 {\u8d70\u3063\u305f|\u306f\u3057\u3063\u305f} \u3060\u3051 \u3067\u3001 {\u6c57|\u3042\u305b} \u307e\u307f\u308c \u306b \u306a\u308b \u306e \u306f {\u60c5\u3051\u306a\u3044|\u306a\u3055\u3051\u306a\u3044}\u3002",
+        "noun + {\u5857\u308c|\u307e\u307f\u308c} = physically covered with ~\nnoun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
+    ],
+    [
+        "Isn't that person dressed in black very suspicious? {plain}",
+        "\u3042\u306e {\u9ed2|\u304f\u308d} \u305a\u304f\u3081 \u306a {\u670d|\u3075\u304f} \u3092 {\u7740|\u304d\u308b} {\u4eba|\u3072\u3068} \u306f \u3068\u3066\u3082 {\u602a\u3057\u3044|\u3042\u3084\u3057\u3044} \u3093 \u3058\u3083 \u306a\u3044\uff1f",
+        "noun + {\u5c3d\u304f\u3081|\u305a\u304f\u3081} = entirely covered with ~ (e.g. color)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
+    ],
+    [
+        "This shake is tasty and filled with nutrients, it's good for (your) body so it's entirely good things.",
+        "\u3053\u306e \u30b7\u30a7\u30fc\u30af \u306f\u3001 \u304a\u3044\u3057\u3044 \u3057\u3001 {\u6804\u990a|\u3048\u3044\u3088\u3046} \u305f\u3063\u3077\u308a \u3067 {\u4f53|\u304b\u3089\u3060} \u306b \u3044\u3044 \u3067\u3059 \u304b\u3089\u3001 \u3044\u3044 \u3053\u3068 \u305a\u304f\u3081 \u3067\u3059 \u3088\u3002",
+        "noun + {\u5c3d\u304f\u3081|\u305a\u304f\u3081} = entirely covered with ~ (e.g. color)\n\u3057 at end of clause = multiple reasons, etc.\n\u304b\u3089 = because (verb-plain/~\u307e\u3059 + \u304b\u3089, ~\u3044/~\u3044\u3067\u3059 + \u304b\u3089, noun/\u306a-adj. + \u3060/\u3067\u3059 + \u304b\u3089)"
+    ],
+    [
+        "He is always bragging about himself. {plain}",
+        "{\u5f7c|\u304b\u308c} \u306f {\u81ea\u5206|\u3058\u3076\u3093} \u306e {\u81ea\u6162|\u3058\u307e\u3093} \u305a\u304f\u3081 \u306e {\u8a71\u3059|\u306f\u306a\u3059}\u3002",
+        "noun + {\u5c3d\u304f\u3081|\u305a\u304f\u3081} = entirely covered with ~ (e.g. color)"
     ]
 ])

@@ -7350,5 +7350,30 @@ Flashcards.initialize([
     "Could (you) wipe clean this television full of dust? {plain}",
     "kono {埃|hokori} darake no _terebi_ wo chanto {拭いて|fuite} kurenai?",
     "noun + だらけ = full of ~\nverbて + {呉れる|くれる} = a favor done by equals/subordinates\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "While getting covered in oil, he worked hard at repairing the car.",
+    "{彼|kare} wa {油|abura} mamire ni narinagara, {車|kuruma} no {修理|shuuri} ni {頑張りました|ganbarimashita}.",
+    "noun + {塗れ|まみれ} = physically covered with ~\nnoun/な adj. + に + {成る|なる} = become ~\nverb-stem + ながら + main verb (present/past) = do/did main verb while doing verb, subject must be the same"
+],
+[
+    "It's pitiful that one gets covered in sweat from running just 1 kilometer. {plain}",
+    "tatta {1|ichi} _kiro_ wo {走った|hashitta} dake de, {汗|ase} mamire ni naru no wa {情けない|nasakenai}.",
+    "noun + {塗れ|まみれ} = physically covered with ~\nnoun/な adj. + に + {成る|なる} = become ~\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "Isn't that person dressed in black very suspicious? {plain}",
+    "ano {黒|kuro} zukume na {服|fuku} wo {着|kiru} {人|hito} wa totemo {怪しい|ayashii} n ja nai?",
+    "noun + {尽くめ|ずくめ} = entirely covered with ~ (e.g. color)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+],
+[
+    "This shake is tasty and filled with nutrients, it's good for (your) body so it's entirely good things.",
+    "kono _sheeku_ wa, oishii shi, {栄養|eiyou} tappuri de {体|karada} ni ii desu kara, ii koto zukume desu yo.",
+    "noun + {尽くめ|ずくめ} = entirely covered with ~ (e.g. color)\nし at end of clause = multiple reasons, etc.\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+],
+[
+    "He is always bragging about himself. {plain}",
+    "{彼|kare} wa {自分|jibun} no {自慢|jiman} zukume no {話す|hanasu}.",
+    "noun + {尽くめ|ずくめ} = entirely covered with ~ (e.g. color)"
 ]
 ])

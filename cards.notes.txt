@@ -24,6 +24,8 @@ noun (+ に/で) + さえ; verb-stem/verbて + さえ = even ~; ~ is all that's 
 noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)
 verbた + {許り|ばかり} (+ だ) = just did ~  (casual: ばっかり/ばっか)
 noun + だらけ = full of ~
+noun + {塗れ|まみれ} = physically covered with ~
+noun + {尽くめ|ずくめ} = entirely covered with ~ (e.g. color)
 
 Quotes
 ======
