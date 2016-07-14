@@ -1475,3 +1475,9 @@
 栄養 eiyou
 たっぷり tappuri
 自慢 jiman
+中断 chuudan
+同梱 doukon
+嵌まる hamaru
+聴く kiku
+支持 shiji
+戦場 senjou
