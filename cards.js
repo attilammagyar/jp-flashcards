@@ -7361,7 +7361,7 @@ Flashcards.initialize([
     ],
     [
         "Isn't that person dressed in black very suspicious? {plain}",
-        "\u3042\u306e {\u9ed2|\u304f\u308d} \u305a\u304f\u3081 \u306a {\u670d|\u3075\u304f} \u3092 {\u7740|\u304d\u308b} {\u4eba|\u3072\u3068} \u306f \u3068\u3066\u3082 {\u602a\u3057\u3044|\u3042\u3084\u3057\u3044} \u3093 \u3058\u3083 \u306a\u3044\uff1f",
+        "\u3042\u306e {\u9ed2|\u304f\u308d} \u305a\u304f\u3081 \u306a {\u670d|\u3075\u304f} \u3092 {\u7740\u308b|\u304d\u308b} {\u4eba|\u3072\u3068} \u306f \u3068\u3066\u3082 {\u602a\u3057\u3044|\u3042\u3084\u3057\u3044} \u3093 \u3058\u3083 \u306a\u3044\uff1f",
         "noun + {\u5c3d\u304f\u3081|\u305a\u304f\u3081} = entirely covered with ~ (e.g. color)\nverb-plain/\u3044-adj. + \u306e/\u3093 + \u3067\u3059 = justification, explanation (softer than \u304b\u3089)"
     ],
     [

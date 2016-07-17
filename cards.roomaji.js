@@ -7363,7 +7363,7 @@ Flashcards.initialize([
 ],
 [
     "Isn't that person dressed in black very suspicious? {plain}",
-    "ano {黒|kuro} zukume na {服|fuku} wo {着|kiru} {人|hito} wa totemo {怪しい|ayashii} n ja nai?",
+    "ano {黒|kuro} zukume na {服|fuku} wo {着る|kiru} {人|hito} wa totemo {怪しい|ayashii} n ja nai?",
     "noun + {尽くめ|ずくめ} = entirely covered with ~ (e.g. color)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
