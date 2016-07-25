@@ -7212,12 +7212,12 @@ Flashcards.initialize([
     [
         "Lately it's nothing but work. {plain}",
         "{\u6700\u8fd1|\u3055\u3044\u304d\u3093} \u306f {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3070\u3063\u304b \u3060 \u3088\u3002",
-        "noun/verb\u3046/verb\u3066 + {\u8a31\u308a|\u3070\u304b\u308a} (+ \u3060) = nothing but ~ (casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)"
+        "noun/verb\u3046/verb\u3066 + {\u8a31\u308a|\u3070\u304b\u308a} (+ \u3060) = nothing but ~ (replaces \u306f, \u304c and \u3092; casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)"
     ],
     [
         "(You're) hanging out with Naomi-chan all the time, aren't you!",
         "{\u76f4\u7f8e|\u306a\u304a\u307f} \u3061\u3083\u3093 \u3068 {\u904a\u3076|\u3042\u305d\u3076} \u3070\u3063\u304b\u308a \u3067\u3057\u3087\u3046\uff01",
-        "noun/verb\u3046/verb\u3066 + {\u8a31\u308a|\u3070\u304b\u308a} (+ \u3060) = nothing but ~ (casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)\nA \u3068 B \u3068 C = A, B and C (and nothing else)"
+        "noun/verb\u3046/verb\u3066 + {\u8a31\u308a|\u3070\u304b\u308a} (+ \u3060) = nothing but ~ (replaces \u306f, \u304c and \u3092; casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)\nA \u3068 B \u3068 C = A, B and C (and nothing else)"
     ],
     [
         "Sorry, but (I'm) full because (I've) just eaten.",
@@ -7242,12 +7242,12 @@ Flashcards.initialize([
     [
         "My brother does nothing but watching TV. {plain}",
         "{\u5f1f|\u304a\u3068\u3046\u3068} \u306f \u30c6\u30ec\u30d3 \u3092 {\u898b\u3066|\u307f\u3066} \u3070\u304b\u308a \u3044\u308b\u3002",
-        "noun/verb\u3046/verb\u3066 + {\u8a31\u308a|\u3070\u304b\u308a} (+ \u3060) = nothing but ~ (casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
+        "noun/verb\u3046/verb\u3066 + {\u8a31\u308a|\u3070\u304b\u308a} (+ \u3060) = nothing but ~ (replaces \u306f, \u304c and \u3092; casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "My son doesn't work and just plays around. {plain}",
         "{\u606f\u5b50|\u3080\u3059\u3053} \u306f {\u4ed5\u4e8b|\u3057\u3054\u3068} \u3057\u306a\u3044\u3067 {\u904a\u3093\u3067|\u3042\u305d\u3093\u3067} \u3070\u304b\u308a \u3044\u308b\u3002",
-        "noun/verb\u3046/verb\u3066 + {\u8a31\u308a|\u3070\u304b\u308a} (+ \u3060) = nothing but ~ (casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u306a\u3044 + \u3067 + X = (did/happened) X without (doing) ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
+        "noun/verb\u3046/verb\u3066 + {\u8a31\u308a|\u3070\u304b\u308a} (+ \u3060) = nothing but ~ (replaces \u306f, \u304c and \u3092; casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u306a\u3044 + \u3067 + X = (did/happened) X without (doing) ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "(We) had only 1 customer today.",
@@ -7373,5 +7373,30 @@ Flashcards.initialize([
         "He is always bragging about himself. {plain}",
         "{\u5f7c|\u304b\u308c} \u306f {\u81ea\u5206|\u3058\u3076\u3093} \u306e {\u81ea\u6162|\u3058\u307e\u3093} \u305a\u304f\u3081 \u306e {\u8a71\u3059|\u306f\u306a\u3059}\u3002",
         "noun + {\u5c3d\u304f\u3081|\u305a\u304f\u3081} = entirely covered with ~ (e.g. color)"
+    ],
+    [
+        "He is big, but (he) has no strength.",
+        "{\u5f7c|\u304b\u308c} \u306f {\u4f53|\u304b\u3089\u3060} \u304c {\u5927\u304d\u3044|\u304a\u304a\u304d\u3044} \u3070\u304b\u308a \u3067\u3001 {\u529b|\u3061\u304b\u3089} \u304c \u3042\u308a\u307e\u305b\u3093\u3002",
+        "noun/verb\u3046/verb\u3066 + {\u8a31\u308a|\u3070\u304b\u308a} (+ \u3060) = nothing but ~ (replaces \u306f, \u304c and \u3092; casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)\n{\u5927\u304d\u3044|\u304a\u304a\u304d\u3044} = physically big, {\u5927\u304d\u306a|\u304a\u304a\u304d\u306a} = physical or abstract size (noun modifier, only before nouns)"
+    ],
+    [
+        "I was in Japan for about 2 years.",
+        "{\u79c1|\u308f\u305f\u3057} \u306f {\u4e8c\u5e74|\u306b\u306d\u3093} \u3070\u304b\u308a {\u65e5\u672c|\u306b\u307b\u3093} \u306b \u3044\u307e\u3057\u305f\u3002",
+        "noun/verb\u3046/verb\u3066 + {\u8a31\u308a|\u3070\u304b\u308a} (+ \u3060) = nothing but ~ (replaces \u306f, \u304c and \u3092; casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)"
+    ],
+    [
+        "Please wait about 5 minutes!",
+        "{\u4e94\u5206|\u3054\u3075\u3093} \u3070\u304b\u308a {\u5f85\u3063\u3066|\u307e\u3063\u3066} \u304f\u3060\u3055\u3044\u3002",
+        "noun/verb\u3046/verb\u3066 + {\u8a31\u308a|\u3070\u304b\u308a} (+ \u3060) = nothing but ~ (replaces \u306f, \u304c and \u3092; casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)\nverb\u3066 + \u304f\u3060\u3055\u3044 = request\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
+    ],
+    [
+        "Not just children, but also a lot of adults go to the festival.",
+        "{\u796d\u308a|\u307e\u3064\u308a} \u306f {\u5b50\u4f9b|\u3053\u3069\u3082} \u3070\u304b\u308a \u304b {\u5927\u4eba|\u304a\u3068\u306a} \u3082 {\u5927\u52e2|\u304a\u304a\u305c\u3044} {\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
+        "noun-A + {\u8a31\u308a|\u3070\u304b\u308a} + \u304b + noun-B + \u3082 (+ \u3060) = not just A, but also B (replaces \u306f, \u304c and \u3092; casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)"
+    ],
+    [
+        "There was a big fight only because (he) got home late.",
+        "{\u9045\u304f|\u304a\u305d\u304f} {\u5e30\u3063\u3066|\u304b\u3048\u3063\u3066} {\u6765\u305f|\u304d\u305f} \u3070\u304b\u308a \u306b\u3001 {\u5927\u5909|\u305f\u3044\u3078\u3093} \u306a {\u55a7\u5629|\u3051\u3093\u304b} \u306b \u306a\u308a\u307e\u3057\u305f\u3002",
+        "past + {\u8a31\u308a|\u3070\u304b\u308a} + \u306b = just/only because ~ (replaces \u306f, \u304c and \u3092; casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)\nverb\u3066 + motion ({\u884c\u304f|\u3044\u304f}, {\u6765\u308b|\u304f\u308b}) = direction/orientation of action (physical, time, etc.)\n\u3044 adj. - \u3044 + \u304f = adverb\nnoun/\u306a adj. + \u306b + {\u6210\u308b|\u306a\u308b} = become ~\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}\nverb\u305f: {\u8a00\u3063\u305f|\u3044\u3063\u305f}, {\u805e\u3044\u305f|\u304d\u3044\u305f}, {\u98df\u3079\u305f|\u305f\u3079\u305f}, \u3057\u305f, {\u6765\u305f|\u304d\u305f}, {\u884c\u3063\u305f|\u3044\u3063\u305f}"
     ]
 ])

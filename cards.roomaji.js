@@ -7214,12 +7214,12 @@ Flashcards.initialize([
 [
     "Lately it's nothing but work. {plain}",
     "{最近|saikin} wa {仕事|shigoto} bakka da yo.",
-    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)"
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (replaces は, が and を; casual: ばっかり/ばっか)"
 ],
 [
     "(You're) hanging out with Naomi-chan all the time, aren't you!",
     "{直美|naomi} chan to {遊ぶ|asobu} bakkari deshou!",
-    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)\nA と B と C = A, B and C (and nothing else)"
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (replaces は, が and を; casual: ばっかり/ばっか)\nA と B と C = A, B and C (and nothing else)"
 ],
 [
     "Sorry, but (I'm) full because (I've) just eaten.",
@@ -7244,12 +7244,12 @@ Flashcards.initialize([
 [
     "My brother does nothing but watching TV. {plain}",
     "{弟|otouto} wa _terebi_ wo {見て|mite} bakari iru.",
-    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (replaces は, が and を; casual: ばっかり/ばっか)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "My son doesn't work and just plays around. {plain}",
     "{息子|musuko} wa {仕事|shigoto} shinaide {遊んで|asonde} bakari iru.",
-    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (casual: ばっかり/ばっか)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbない + で + X = (did/happened) X without (doing) ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (replaces は, が and を; casual: ばっかり/ばっか)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbない + で + X = (did/happened) X without (doing) ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
 ],
 [
     "(We) had only 1 customer today.",
@@ -7375,5 +7375,30 @@ Flashcards.initialize([
     "He is always bragging about himself. {plain}",
     "{彼|kare} wa {自分|jibun} no {自慢|jiman} zukume no {話す|hanasu}.",
     "noun + {尽くめ|ずくめ} = entirely covered with ~ (e.g. color)"
+],
+[
+    "He is big, but (he) has no strength.",
+    "{彼|kare} wa {体|karada} ga {大きい|ookii} bakari de, {力|chikara} ga arimasen.",
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (replaces は, が and を; casual: ばっかり/ばっか)\n{大きい|おおきい} = physically big, {大きな|おおきな} = physical or abstract size (noun modifier, only before nouns)"
+],
+[
+    "I was in Japan for about 2 years.",
+    "{私|watashi} wa {二年|ninen} bakari {日本|nihon} ni imashita.",
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (replaces は, が and を; casual: ばっかり/ばっか)"
+],
+[
+    "Please wait about 5 minutes!",
+    "{五分|gohun} bakari {待って|matte} kudasai.",
+    "noun/verbう/verbて + {許り|ばかり} (+ だ) = nothing but ~ (replaces は, が and を; casual: ばっかり/ばっか)\nverbて + ください = request\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Not just children, but also a lot of adults go to the festival.",
+    "{祭り|matsuri} wa {子供|kodomo} bakari ka {大人|otona} mo {大勢|oozei} {行きます|ikimasu}.",
+    "noun-A + {許り|ばかり} + か + noun-B + も (+ だ) = not just A, but also B (replaces は, が and を; casual: ばっかり/ばっか)"
+],
+[
+    "There was a big fight only because (he) got home late.",
+    "{遅く|osoku} {帰って|kaette} {来た|kita} bakari ni, {大変|taihen} na {喧嘩|kenka} ni narimashita.",
+    "past + {許り|ばかり} + に = just/only because ~ (replaces は, が and を; casual: ばっかり/ばっか)\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nい adj. - い + く = adverb\nnoun/な adj. + に + {成る|なる} = become ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ]
 ])
