@@ -7394,7 +7394,7 @@ Flashcards.initialize([
 [
     "Not just children, but also a lot of adults go to the festival.",
     "{祭り|matsuri} wa {子供|kodomo} bakari ka {大人|otona} mo {大勢|oozei} {行きます|ikimasu}.",
-    "noun-A + {許り|ばかり} + か + noun-B + も (+ だ) = not just A, but also B (replaces は, が and を; casual: ばっかり/ばっか)"
+    "noun-A + {許り|ばかり} + か + noun-B + も = not just A, but also B (replaces は, が and を; casual: ばっかり/ばっか)"
 ],
 [
     "There was a big fight only because (he) got home late.",

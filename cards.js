@@ -7392,7 +7392,7 @@ Flashcards.initialize([
     [
         "Not just children, but also a lot of adults go to the festival.",
         "{\u796d\u308a|\u307e\u3064\u308a} \u306f {\u5b50\u4f9b|\u3053\u3069\u3082} \u3070\u304b\u308a \u304b {\u5927\u4eba|\u304a\u3068\u306a} \u3082 {\u5927\u52e2|\u304a\u304a\u305c\u3044} {\u884c\u304d\u307e\u3059|\u3044\u304d\u307e\u3059}\u3002",
-        "noun-A + {\u8a31\u308a|\u3070\u304b\u308a} + \u304b + noun-B + \u3082 (+ \u3060) = not just A, but also B (replaces \u306f, \u304c and \u3092; casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)"
+        "noun-A + {\u8a31\u308a|\u3070\u304b\u308a} + \u304b + noun-B + \u3082 = not just A, but also B (replaces \u306f, \u304c and \u3092; casual: \u3070\u3063\u304b\u308a/\u3070\u3063\u304b)"
     ],
     [
         "There was a big fight only because (he) got home late.",
