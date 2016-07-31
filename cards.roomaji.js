@@ -2197,7 +2197,7 @@ Flashcards.initialize([
 [
     "This film looks interesting, doesn't it?",
     "{此の|kono} {映画|eiga} wa {面白そう|omoshirosou} desu ne.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Roger likes sports the best/most.",
@@ -2327,17 +2327,17 @@ Flashcards.initialize([
 [
     "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
     "{有名そう|yuumeisou} desu. {此の|kono} {映画|eiga} wa {詰まらなそう|tsumaranasou} desu. {頭|atama} ga {痛そう|itasou} desu. {日本語|nihongo} wo {話しそう|hanashisou} desu.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(She) looks very beautiful, doesn't she?",
     "totemo {美しそう|utsukushisou} desu ne.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(It) looks like (it) will rain.",
     "{雨|ame} ga {降りそう|furisou} desu.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "What do (you) do in (your) free time? For example, what are (your) hobbies?",
@@ -2472,7 +2472,7 @@ Flashcards.initialize([
 [
     "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
     "_amerika_ no {生活|seikatsu} wa {面白そう|omoshirosou} desu ga {東京|toukyou} no {生活|seikatsu} ga {一番|ichiban} {好き|suki} desu.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
@@ -2482,7 +2482,7 @@ Flashcards.initialize([
 [
     "A filmstar's lifestyle looks unpleasant, doesn't it?",
     "{映画|eiga} _sutaa_ no {生活|seikatsu} wa {不愉快そう|fuyukaisou} desu ne.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I) don't know how to make cakes.",
@@ -2492,7 +2492,7 @@ Flashcards.initialize([
 [
     "Miki looks like (she) will eat that sushi, doesn't she?",
     "{三木|miki} san wa {其の|sono} {寿司|sushi} wo {食べそう|tabesou} desu ne.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I) liked watching movies very much.",
@@ -3367,7 +3367,7 @@ Flashcards.initialize([
 [
     "Next year (I) intend to go to South America.",
     "{来年|rainen} {南|minami} _amerika_ ni {行く|iku} tsumori desu.",
-    "verbう + つもり = intend to ~"
+    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~"
 ],
 [
     "(I) have an interest in South America so (I) want to go. {の で}",
@@ -3447,17 +3447,17 @@ Flashcards.initialize([
 [
     "Do (you) plan to return to America for Christmas?",
     "_kurisumasu_ ni _amerika_ ni {帰る|kaeru} tsumori desu ka.",
-    "verbう + つもり = intend to ~"
+    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~"
 ],
 [
     "Do (you) intend to write a letter to (your) mother?",
     "{お母さん|okaasan} ni {手紙|tegami} wo {書く|kaku} tsumori desu ka.",
-    "verbう + つもり = intend to ~"
+    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~"
 ],
 [
     "Do (you) intend to play golf with Naoe on Sunday?",
     "{日曜日|nichiyoubi} ni {直慧|naoe} san to _gorufu_ wo suru tsumori desu ka.",
-    "verbう + つもり = intend to ~"
+    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~"
 ],
 [
     "I still don't have a driver's license. From next year, (I'll) go to driving school.",
@@ -3667,7 +3667,7 @@ Flashcards.initialize([
 [
     "Tonight is a little... (We'll) watch a movie with Rie. Before watching (it, we) intend to eat at a restaurant.",
     "{今晩|konban} wa chotto... {莉描|rie} san to {映画|eiga} wo {見ます|mimasu}. {見る|miru} {前|mae} ni _resutoran_ de {食べる|taberu} tsumori desu.",
-    "verbう + {前|まえ} に = before doing ~\nverbう + つもり = intend to ~"
+    "verbう + {前|まえ} に = before doing ~\nverbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~"
 ],
 [
     "How about Saturday night? Shall (we) go to the baseball stadium to watch baseball on Saturday night?",
@@ -3702,7 +3702,7 @@ Flashcards.initialize([
 [
     "Tonight (I) plan to meet a friend in town and eat Spanish food in a tasty restaurant.",
     "{今晩|konban} {町|machi} de {友達|tomodachi} to {会って|atte}, {美味しい|oishii} _resutoran_ de _supein_ no {料理|ryouri} wo {食べる|taberu} tsumori desu.",
-    "verbう + つもり = intend to ~"
+    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~"
 ],
 [
     "Okay everybody, it's question time!",
@@ -4352,7 +4352,7 @@ Flashcards.initialize([
 [
     "(I) hope to go to South America. (I) think (I) will go to South America. (I) plan to go to South America.",
     "{南|minami} _amerika_ ni {行きたい|ikitai} to {思います|omoimasu}. {南|minami} _amerika_ ni {行こう|ikou} to {思います|omoimasu}. {南|minami} _amerika_ ni {行く|iku} tsumori desu.",
-    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう + つもり = intend to ~\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
+    "verb-stem + たい = want to ~\n~たい is usually used only in first person or in questions for the second person\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(I) think (I) will go to Japan next year. (My) mom thinks (she) will go to Europe next year.",
@@ -4677,7 +4677,7 @@ Flashcards.initialize([
 [
     "In Japan, this year seems to become hot as well.",
     "{日本|nihon} wa, {今年|kotoshi} mo {暑く|atsuku} narisou desu.",
-    "adj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "(I've) been reading the lyrics while listening to music (I) like.",
@@ -4812,7 +4812,7 @@ Flashcards.initialize([
 [
     "(I) intend to meet (my) friend tomorrow. (I) tried to meet (my) friend yesterday.",
     "{明日|ashita} {友達|tomodachi} ni {会う|au} tsumori desu. {昨日|kinou} {友達|tomodachi} to {会おう|aou} to shimashita.",
-    "verbう + つもり = intend to ~\nverbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
+    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~\nverbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}"
 ],
 [
     "(I) decided to learn Italian.",
@@ -4837,7 +4837,7 @@ Flashcards.initialize([
 [
     "(I) don't plan to be off work next week.",
     "{来週|raishuu} {仕事|shigoto} wo {休む|yasumu} tsumori de wa arimasen.",
-    "verbう + つもり = intend to ~"
+    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~"
 ],
 [
     "This is a writing for an exercise from (my) Japanese textbook.",
@@ -5197,7 +5197,7 @@ Flashcards.initialize([
 [
     "When do (you) plan to get married? (We) don't know yet clearly, but (we) hope to get married before going to China if (we) can.",
     "itsu {結婚|kekkon} wo suru tsumori desu ka. mada hakkiri {分かりません|wakarimasen} ga, dekitara, {中国|chuugoku} ni {行く|iku} {前|mae} ni {結婚|kekkon} shitai to {思います|omoimasu}.",
-    "verbう + つもり = intend to ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbう + {前|まえ} に = before doing ~\n~たい is usually used only in first person or in questions for the second person\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
+    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~\n(もし +) verbたら (ば) = if/when ~, (then) ~ (もし = if) (focus on result, ~たらば = more formal)\nverbう + {前|まえ} に = before doing ~\n~たい is usually used only in first person or in questions for the second person\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "(You) should get married while the weather isn't hot, shouldn't you? But (I) think if (you) do (it) suddenly, (that's) not good. Don't make excuses.",
@@ -6242,7 +6242,7 @@ Flashcards.initialize([
 [
     "It's a little difficult for my level, but (I'm) going to try reading it several times until (I become) able to to understand it. It feels a little bit difficult for my current level, but (I'm) going to try reading it several times until (I become) able to to understand it.",
     "{私|watashi} no _reberu_ de wa chotto {難しい|muzukashii} desu ga, {理解|rikai} dekiru made {何度か|nandoka} {読んで|yonde} miru tsumori desu. {今|ima} no {私|watashi} no _reberu_ de wa {少々|shoushou} {難しく|muzukashiku} {感じます|kanjimasu} ga, {理解|rikai} dekiru you {何度か|nandoka} {読んで|yonde} miru tsumori desu.",
-    "verbう + つもり = intend to ~\nverbて + みる = try doing ~\nnoun + できる = can (do) noun (or request, request permission)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~\nverbて + みる = try doing ~\nnoun + できる = can (do) noun (or request, request permission)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "I'm going to get 30 soon, but (I) still feel like a child.",
@@ -6677,7 +6677,7 @@ Flashcards.initialize([
 [
     "What time were (you) planning on coming home exactly? {casual, masculine}",
     "{一体|ittai} {何時|nanji} ni {帰って|kaette} kuru tsumori datta n dai?",
-    "かい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbう + つもり = intend to ~\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "かい/だい at end of sentence = strong/masculine question (かい = yes/no, だい = open ended)\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nverbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "(I'm) going to see a movie on Saturday, (shall we) go together? {casual, masculine}",
@@ -7019,7 +7019,7 @@ Flashcards.initialize([
 [
     "Despite (I) planned to act like an adult, (I) made a big ruckus. {plain}",
     "{大人|otona} rashiku suru tsumori datta no ni, {大騒ぎ|oosawagi} shite shimatta.",
-    "noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~\nい adj. - い + く = adverb\nの に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)\nverbう + つもり = intend to ~\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~\nい adj. - い + く = adverb\nの に = despite (verb-plain + の に, ~い/~いです + の に, noun/な-adj. + な + の に)\nverbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "That person looks like a Korean persons, huh? {casual}",
@@ -7299,7 +7299,7 @@ Flashcards.initialize([
 [
     "According to the news flash on TV, the earthquake just now had an intensity of 3. {plain}",
     "sakki no {地震|jishin} wa _terebi_ no {速報|sokuhou} ni yoru to {震度|shindo} {３|san} da sou da.",
-    "noun + に + {因ると|よると}/{因れば|よれば} = according to ~\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nadj. stem/verb-stem + そう + です = looks/appears/seems like ~ (personal opinion)"
+    "noun + に + {因ると|よると}/{因れば|よれば} = according to ~\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nadj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)"
 ],
 [
     "Through his effort, he conquered his illness. {plain}",
@@ -7400,5 +7400,75 @@ Flashcards.initialize([
     "There was a big fight only because (he) got home late.",
     "{遅く|osoku} {帰って|kaette} {来た|kita} bakari ni, {大変|taihen} na {喧嘩|kenka} ni narimashita.",
     "past + {許り|ばかり} + に = just/only because ~ (replaces は, が and を; casual: ばっかり/ばっか)\nverbて + motion ({行く|いく}, {来る|くる}) = direction/orientation of action (physical, time, etc.)\nい adj. - い + く = adverb\nnoun/な adj. + に + {成る|なる} = become ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "I agree with his opinion. {plain}",
+    "{私|watashi} wa {彼|kare} no {意見|iken} ni {賛成|sansei} suru.",
+    ""
+],
+[
+    "I'm all for it.",
+    "{大賛成|daisansei} desu.",
+    ""
+],
+[
+    "The majority was for him. {plain}",
+    "{多数|tasuu} ga {彼|kare} ni {賛成|sansei} datta.",
+    ""
+],
+[
+    "I can't agree (with you).",
+    "{賛成|sansei} wa dekimasen.",
+    "verbえる/られる: を --> は/が\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
+],
+[
+    "(I) agree on an emotional level, but on the pragmatic level (I) disagree.",
+    "{心情的|shinjouteki} ni wa {賛成|sansei} keredo {現実的|genjitsuteki} ni wa {反対|hantai} shimasu.",
+    ""
+],
+[
+    "It looks like no one is home, but the door is open. {plain}",
+    "{誰|dare} mo inasasou da kedo, _doa_ ga {開いて|aite} iru.",
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\n{誰も|だれも} = nobody (everybody), {何も|なにも} = nothing (neg.), {何時も|いつも} = always, {何処も|どこも} = everywhere, どれも = any and all\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "She's convinced that she's pretty. {plain}",
+    "{彼女|kanojo} wa {綺麗|kirei} na tsumori da.",
+    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~"
+],
+[
+    "The banana is green and it doesn't look like being sweet. {plain}",
+    "_banana_ wa {青くて|aokute}, {甘くなさそう|amakunasasou} da.",
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nくない = negative of い adj."
+],
+[
+    "Those shoes look OK. {plain}",
+    "sono {靴|kutsu} wa yosasou da.",
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)"
+],
+[
+    "It looks like even (I) can read read this book.",
+    "kono {本|hon} wa {私|watashi} ni mo {読めそう|yomesou} desu.",
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)"
+],
+[
+    "Everybody in the school looks healthy.",
+    "{学校|gakkou} no {皆|minna} wa {元気|genki} sou ni {見えます|miemasu}.",
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)"
+],
+[
+    "It looks like (he) won't come. {plain}",
+    "{来なそう|konasou} da.",
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nverbない: {言わない|いわない}, {聞かない|きかない}, {食べない|たべない}, しない, {来ない|こない}"
+],
+[
+    "It looks like it isn't cold. {plain}",
+    "{寒くなさそう|samukunasasou} da.",
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)\nくない = negative of い adj."
+],
+[
+    "It looks like it isn't quiet. {plain}",
+    "{静か|shizuka} de wa nasasou da.",
+    "adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)"
 ]
 ])

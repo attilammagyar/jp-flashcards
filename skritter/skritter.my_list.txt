@@ -1494,3 +1494,8 @@
 鳥肌が立つ torihada ga tatsu
 総毛立つ soukedatsu
 作曲家 sakkyokuka
+多数 tasuu
+心情 shinjou
+心情的 shinjouteki
+現実 genjitsu
+現実的 genjitsuteki
