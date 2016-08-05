@@ -205,7 +205,7 @@ X は/が Y に verbて {遣る|やる} = X does ~ for Y (animal, plant)
 
 Looks/seems like
 ================
-adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative: そう(に)もない)
+adj. stem/verb-stem + そう + だ/です = looks/appears/seems like ~ (personal opinion based on looking; {良い|いい} --> よさそう, adj.ない --> adj.なさそう, verbない --> verbな(さ)そう; negative for verbs: ~そう(に)もない)
 noun/adj./verb + (じゃない/じゃなかった/だった) + みたい = looks like ~ (but is not; spoken, casual)
 noun/adj./verb + らしい = (based on behaviour/hearsay) acts/looks like ~
 noun/adj./verb + っぽい = casual らしい/みたい/よう...

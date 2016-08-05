@@ -1234,7 +1234,7 @@
 気が進まない ki ga susumanai
 ぎりぎり girigiri
 要塞 yousai
-一晩中 ichibanjuu
+一晩中 hitobanjuu
 綴り方 tsudzurikata
 魂 tamashii
 贅沢 zeitaku
@@ -1499,3 +1499,4 @@
 心情的 shinjouteki
 現実 genjitsu
 現実的 genjitsuteki
+こっそり kossori

@@ -2197,7 +2197,7 @@ Flashcards.initialize([
     [
         "This film looks interesting, doesn't it?",
         "{\u6b64\u306e|\u3053\u306e} {\u6620\u753b|\u3048\u3044\u304c} \u306f {\u9762\u767d\u305d\u3046|\u304a\u3082\u3057\u308d\u305d\u3046} \u3067\u3059 \u306d\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Roger likes sports the best/most.",
@@ -2327,17 +2327,17 @@ Flashcards.initialize([
     [
         "(He) looks famous. This film looks boring. (He) looks like (he) has a headache. (He) looks like (he) speaks Japanese.",
         "{\u6709\u540d\u305d\u3046|\u3086\u3046\u3081\u3044\u305d\u3046} \u3067\u3059\u3002 {\u6b64\u306e|\u3053\u306e} {\u6620\u753b|\u3048\u3044\u304c} \u306f {\u8a70\u307e\u3089\u306a\u305d\u3046|\u3064\u307e\u3089\u306a\u305d\u3046} \u3067\u3059\u3002 {\u982d|\u3042\u305f\u307e} \u304c {\u75db\u305d\u3046|\u3044\u305f\u305d\u3046} \u3067\u3059\u3002 {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u3092 {\u8a71\u3057\u305d\u3046|\u306f\u306a\u3057\u305d\u3046} \u3067\u3059\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(She) looks very beautiful, doesn't she?",
         "\u3068\u3066\u3082 {\u7f8e\u3057\u305d\u3046|\u3046\u3064\u304f\u3057\u305d\u3046} \u3067\u3059 \u306d\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(It) looks like (it) will rain.",
         "{\u96e8|\u3042\u3081} \u304c {\u964d\u308a\u305d\u3046|\u3075\u308a\u305d\u3046} \u3067\u3059\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "What do (you) do in (your) free time? For example, what are (your) hobbies?",
@@ -2472,7 +2472,7 @@ Flashcards.initialize([
     [
         "The American lifestyle looks interesting, but (I) like the Tokyo lifestyle the best.",
         "\u30a2\u30e1\u30ea\u30ab \u306e {\u751f\u6d3b|\u305b\u3044\u304b\u3064} \u306f {\u9762\u767d\u305d\u3046|\u304a\u3082\u3057\u308d\u305d\u3046} \u3067\u3059 \u304c {\u6771\u4eac|\u3068\u3046\u304d\u3087\u3046} \u306e {\u751f\u6d3b|\u305b\u3044\u304b\u3064} \u304c {\u4e00\u756a|\u3044\u3061\u3070\u3093} {\u597d\u304d|\u3059\u304d} \u3067\u3059\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\nbut: \u3051\u308c\u3069\u3082 > \u3051\u308c\u3069 > \u3051\u3069; ~\u307e\u3059/\u3067\u3059 --> \u304c; plain --> \u3051\u3069 (not always contradiction)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Tomorrow (we) will go to town with Ms. Natsuko to watch a movie together.",
@@ -2482,7 +2482,7 @@ Flashcards.initialize([
     [
         "A filmstar's lifestyle looks unpleasant, doesn't it?",
         "{\u6620\u753b|\u3048\u3044\u304c} \u30b9\u30bf\u30fc \u306e {\u751f\u6d3b|\u305b\u3044\u304b\u3064} \u306f {\u4e0d\u6109\u5feb\u305d\u3046|\u3075\u3086\u304b\u3044\u305d\u3046} \u3067\u3059 \u306d\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I) don't know how to make cakes.",
@@ -2492,7 +2492,7 @@ Flashcards.initialize([
     [
         "Miki looks like (she) will eat that sushi, doesn't she?",
         "{\u4e09\u6728|\u307f\u304d} \u3055\u3093 \u306f {\u5176\u306e|\u305d\u306e} {\u5bff\u53f8|\u3059\u3057} \u3092 {\u98df\u3079\u305d\u3046|\u305f\u3079\u305d\u3046} \u3067\u3059 \u306d\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I) liked watching movies very much.",
@@ -4677,7 +4677,7 @@ Flashcards.initialize([
     [
         "In Japan, this year seems to become hot as well.",
         "{\u65e5\u672c|\u306b\u307b\u3093} \u306f\u3001 {\u4eca\u5e74|\u3053\u3068\u3057} \u3082 {\u6691\u304f|\u3042\u3064\u304f} \u306a\u308a\u305d\u3046 \u3067\u3059\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "(I've) been reading the lyrics while listening to music (I) like.",
@@ -7297,7 +7297,7 @@ Flashcards.initialize([
     [
         "According to the news flash on TV, the earthquake just now had an intensity of 3. {plain}",
         "\u3055\u3063\u304d \u306e {\u5730\u9707|\u3058\u3057\u3093} \u306f \u30c6\u30ec\u30d3 \u306e {\u901f\u5831|\u305d\u304f\u307b\u3046} \u306b \u3088\u308b \u3068 {\u9707\u5ea6|\u3057\u3093\u3069} {\uff13|\u3055\u3093} \u3060 \u305d\u3046 \u3060\u3002",
-        "noun + \u306b + {\u56e0\u308b\u3068|\u3088\u308b\u3068}/{\u56e0\u308c\u3070|\u3088\u308c\u3070} = according to ~\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)\nadj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)"
+        "noun + \u306b + {\u56e0\u308b\u3068|\u3088\u308b\u3068}/{\u56e0\u308c\u3070|\u3088\u308c\u3070} = according to ~\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)\nadj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)"
     ],
     [
         "Through his effort, he conquered his illness. {plain}",
@@ -7427,7 +7427,7 @@ Flashcards.initialize([
     [
         "It looks like no one is home, but the door is open. {plain}",
         "{\u8ab0|\u3060\u308c} \u3082 \u3044\u306a\u3055\u305d\u3046 \u3060 \u3051\u3069\u3001 \u30c9\u30a2 \u304c {\u958b\u3044\u3066|\u3042\u3044\u3066} \u3044\u308b\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n{\u8ab0\u3082|\u3060\u308c\u3082} = nobody (everybody), {\u4f55\u3082|\u306a\u306b\u3082} = nothing (neg.), {\u4f55\u6642\u3082|\u3044\u3064\u3082} = always, {\u4f55\u51e6\u3082|\u3069\u3053\u3082} = everywhere, \u3069\u308c\u3082 = any and all\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\n{\u8ab0\u3082|\u3060\u308c\u3082} = nobody (everybody), {\u4f55\u3082|\u306a\u306b\u3082} = nothing (neg.), {\u4f55\u6642\u3082|\u3044\u3064\u3082} = always, {\u4f55\u51e6\u3082|\u3069\u3053\u3082} = everywhere, \u3069\u308c\u3082 = any and all\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
         "She's convinced that she's pretty. {plain}",
@@ -7437,36 +7437,51 @@ Flashcards.initialize([
     [
         "The banana is green and it doesn't look like being sweet. {plain}",
         "\u30d0\u30ca\u30ca \u306f {\u9752\u304f\u3066|\u3042\u304a\u304f\u3066}\u3001 {\u7518\u304f\u306a\u3055\u305d\u3046|\u3042\u307e\u304f\u306a\u3055\u305d\u3046} \u3060\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\n\u304f\u306a\u3044 = negative of \u3044 adj."
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\n\u304f\u306a\u3044 = negative of \u3044 adj."
     ],
     [
         "Those shoes look OK. {plain}",
         "\u305d\u306e {\u9774|\u304f\u3064} \u306f \u3088\u3055\u305d\u3046 \u3060\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)"
     ],
     [
-        "It looks like even (I) can read read this book.",
+        "It looks like even I can read read this book.",
         "\u3053\u306e {\u672c|\u307b\u3093} \u306f {\u79c1|\u308f\u305f\u3057} \u306b \u3082 {\u8aad\u3081\u305d\u3046|\u3088\u3081\u305d\u3046} \u3067\u3059\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)"
     ],
     [
         "Everybody in the school looks healthy.",
         "{\u5b66\u6821|\u304c\u3063\u3053\u3046} \u306e {\u7686|\u307f\u3093\u3042} \u306f {\u5143\u6c17|\u3052\u3093\u304d} \u305d\u3046 \u306b {\u898b\u3048\u307e\u3059|\u307f\u3048\u307e\u3059}\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)"
     ],
     [
         "It looks like (he) won't come. {plain}",
         "{\u6765\u306a\u305d\u3046|\u3053\u306a\u305d\u3046} \u3060\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\nverb\u306a\u3044: {\u8a00\u308f\u306a\u3044|\u3044\u308f\u306a\u3044}, {\u805e\u304b\u306a\u3044|\u304d\u304b\u306a\u3044}, {\u98df\u3079\u306a\u3044|\u305f\u3079\u306a\u3044}, \u3057\u306a\u3044, {\u6765\u306a\u3044|\u3053\u306a\u3044}"
     ],
     [
         "It looks like it isn't cold. {plain}",
         "{\u5bd2\u304f\u306a\u3055\u305d\u3046|\u3055\u3080\u304f\u306a\u3055\u305d\u3046} \u3060\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)\n\u304f\u306a\u3044 = negative of \u3044 adj."
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)\n\u304f\u306a\u3044 = negative of \u3044 adj."
     ],
     [
         "It looks like it isn't quiet. {plain}",
         "{\u9759\u304b|\u3057\u305a\u304b} \u3067 \u306f \u306a\u3055\u305d\u3046 \u3060\u3002",
-        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative: \u305d\u3046(\u306b)\u3082\u306a\u3044)"
+        "adj. stem/verb-stem + \u305d\u3046 + \u3060/\u3067\u3059 = looks/appears/seems like ~ (personal opinion based on looking; {\u826f\u3044|\u3044\u3044} --> \u3088\u3055\u305d\u3046, adj.\u306a\u3044 --> adj.\u306a\u3055\u305d\u3046, verb\u306a\u3044 --> verb\u306a(\u3055)\u305d\u3046; negative for verbs: ~\u305d\u3046(\u306b)\u3082\u306a\u3044)"
+    ],
+    [
+        "I see, (I) didn't notice it until now! {plain}",
+        "{\u6210\u308b\u7a0b|\u306a\u308b\u307b\u3069}\u3001 {\u4eca|\u3044\u307e} \u307e\u3067 {\u6c17\u3065\u304b\u306a\u304b\u3063\u305f|\u304d\u3065\u304f\u306a\u304b\u3063\u305f}\uff01",
+        ""
+    ],
+    [
+        "I left the room not to get noticed, secretly. {plain}",
+        "{\u6c17\u3065\u304b\u308c\u306a\u3044|\u304d\u3065\u304b\u308c\u306a\u3044} \u3088\u3046 \u306b \u3053\u3063\u305d\u308a \u3068 {\u90e8\u5c4b|\u3078\u3084} \u3092 {\u51fa\u305f|\u3067\u305f}\u3002",
+        "noun\u306e/verb-plain + \u3088\u3046 + \u306b = as ~ (introducing explanations)"
+    ],
+    [
+        "I know exactly why I'm not going to sleep tonight. I think I'm going to listen Babymetal's new album over and over again all night long. One and a half years ago I started learning Japanese because of this music. I still can't understand much from the lyrics, but sometimes, when there's a line I can comprehend, I feel very happy. Also, I'm glad I could have met a lot of nice people.",
+        "{\u50d5|\u307c\u304f} \u304c \u306a\u305c {\u4eca\u591c|\u3053\u3093\u3084} {\u5bdd\u308b|\u306d\u308b} \u3064\u3082\u308a \u304c \u306a\u3044 \u306e \u304b \u304c \u30cf\u30c3\u30ad\u30ea {\u5206\u304b\u308a\u307e\u3059|\u308f\u304b\u308a\u307e\u3059} \u3088\u3002 Babymetal \u306e \u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0 \u3092 {\u4e00\u6669\u4e2d|\u3072\u3068\u3070\u3093\u3058\u3085\u3046} {\u7e70\u308a\u8fd4\u3057|\u304f\u308a\u304b\u3048\u3057} {\u805e\u3053\u3046|\u304d\u3053\u3046} \u3068 {\u601d\u3044\u307e\u3059|\u304a\u3082\u3044\u307e\u3059}\u3002 {1\u5e74\u534a|\u3044\u3061\u306d\u3093\u306f\u3093} {\u524d|\u307e\u3048} \u304b\u3089\u3001 \u3053\u306e {\u97f3\u697d|\u304a\u3093\u304c\u304f} \u306e \u304a\u304b\u3052 \u3067 {\u65e5\u672c\u8a9e|\u306b\u307b\u3093\u3054} \u306e {\u52c9\u5f37|\u3079\u3093\u304d\u3087\u3046} \u3092 {\u59cb\u3081\u307e\u3057\u305f|\u306f\u3058\u3081\u307e\u3057\u305f}\u3002 {\u6b4c\u8a5e|\u304b\u3057} \u306f \u307e\u3060 \u3042\u307e\u308a {\u5206\u304b\u308a\u307e\u305b\u3093|\u308f\u304b\u308a\u307e\u305b\u3093} \u304c\u3001 \u305f\u307e \u306b {\u7406\u89e3|\u308a\u304b\u3044} \u3067\u304d\u308b {\u884c|\u304e\u3087\u3046} \u304c {\u898b\u3064\u304b\u308b|\u307f\u3064\u304b\u308b} \u3068\u3001 \u3068\u3066\u3082 {\u5e78\u305b|\u3057\u3042\u308f\u305b} \u3092 {\u611f\u3058\u307e\u3059|\u304b\u3093\u3058\u307e\u3059}\u3002 \u305d\u3057\u3066\u3001 {\u512a\u3057\u3044|\u3084\u3055\u3057\u3044} {\u4eba|\u3072\u3068} \u3068 \u3082 {\u591a\u304f|\u304a\u304a\u304f} {\u77e5\u308a\u5408\u3048\u305f|\u3057\u308a\u3042\u3048\u305f} \u306e \u3067 {\u5b09\u3057\u3044|\u3046\u308c\u3057\u3044} \u3067\u3059\u3002",
+        "verb\u3046/\u306a-adj.\u306a/noun\u306e/\u3044-adj. + \u3064\u3082\u308a = intend to ~, convinced that ~\nverb\u3046/\u3044-adj. + \u306e = doing ~, (the) ~ one/thing, (clause --> generic noun)\n\u304b at end of clause = talking about a question\nverb\u304a\u3046/\u3088\u3046 + \u3068 + {\u601d\u3046|\u304a\u3082\u3046} = I think I _will_ ~\nverb-plain/\u3044-adj. + \u3068 / noun/\u306a-adj. + \u3060 + \u3068 = if (natural consequence)\n\u306e \u3067 = because (verb-plain + \u306e \u3067, ~\u3044/~\u3044\u3067\u3059 + \u306e \u3067, noun/\u306a-adj. + \u306a + \u306e \u3067) (\u3093 \u3067 = casual \u306e \u3067)\nverb\u3048\u308b/\u3089\u308c\u308b: {\u8a00\u3048\u308b|\u3044\u3048\u308b}, {\u805e\u3051\u308b|\u304d\u3051\u308b}, {\u98df\u3079\u3089\u308c\u308b|\u305f\u3079\u3089\u308c\u308b}, \u3067\u304d\u308b, {\u6765\u3089\u308c\u308b|\u3053\u3089\u308c\u308b}"
     ]
 ])
