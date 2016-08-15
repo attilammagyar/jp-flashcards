@@ -1601,3 +1601,4 @@
 我が家 wagaya
 鍵盤楽器 kenbangakki
 様式 youshiki
+追記 tsuiki
