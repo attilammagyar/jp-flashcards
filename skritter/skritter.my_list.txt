@@ -1602,3 +1602,16 @@
 鍵盤楽器 kenbangakki
 様式 youshiki
 追記 tsuiki
+磁石 jishaku
+月給 gekkyuu
+髪の毛 kami no ke
+乾かす kawakasu
+乾く kawaku
+雨乞い amagoi
+人数 nin'zuu
+体重 taijuu
+増やす fuyasu
+減らす herasu
+減る heru
+他動詞 tadoushi
+自動詞 jidoushi
