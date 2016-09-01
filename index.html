@@ -9,8 +9,16 @@
 </head>
 <body>
     <div id="audio">
-        <audio id="audio-player"></audio>
-        <a href="#" id="play-audio">&#x25BA; listen</a>
+        <form>
+            <audio id="audio-player"></audio>
+            <a href="#" id="play-audio">&#x25BA; listen</a>
+            <input id="autoplay" type="checkbox" />
+            <label id="autoplay-label" for="autoplay">
+                autoplay
+                <span id="autoplay-label-on">ON</span>
+                <span id="autoplay-label-off">OFF</span>
+            </label>
+        </form>
     </div>
     <div id="stats">
         <a href="#" id="stats-focus-size" target="_blank">?</a>,

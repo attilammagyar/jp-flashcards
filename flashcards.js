@@ -111,6 +111,7 @@
                     card = Flashcards.formatCard(Flashcards.cards[i]);
 
                 Flashcards.showQuestion(card[1], card[0], card[2]);
+                Flashcards.autoplay();
 
                 Flashcards.nextState(
                     Flashcards.hasFurigana()
@@ -144,6 +145,7 @@
             japaneseAnswer: function()
             {
                 Flashcards.showAnswer();
+                Flashcards.autoplay();
                 Flashcards.nextState(
                     Flashcards.hasFurigana()
                         ? Flashcards.states.japaneseAnswerFurigana
@@ -187,7 +189,14 @@
             $("rate").onsubmit = function () { return false; };
             $("play-audio").onclick = Flashcards.playAudio;
 
+            window.onfocus = Flashcards.disableAutoplay;
+
             Flashcards.moveToNextState();
+        },
+
+        disableAutoplay: function ()
+        {
+            $("autoplay").checked = false;
         },
 
         playAudio: function ()
@@ -200,6 +209,15 @@
             player.play();
 
             return false;
+        },
+
+        autoplay: function ()
+        {
+            var is_enabled = $("autoplay").checked;
+
+            if (is_enabled) {
+                Flashcards.playAudio();
+            }
         },
 
         formatCards: function (cards)

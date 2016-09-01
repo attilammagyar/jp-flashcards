@@ -92,19 +92,50 @@ div#audio {
     font-size: 5vmin;
 }
 
-a#play-audio {
+a#play-audio,
+label#autoplay-label {
     text-decoration: none;
-    display: block;
+    display: inline-block;
     font-size: 3vmin;
     font-weight: bold;
     padding: 1vmin;
     border-style: outset;
-    border-width: 0.5vmin;
+    border-width: 0.7vmin;
     border-radius: 2vmin;
-    border-color: #000080;
+    border-color: #000098;
     background-color: #0000b0;
     color: #ffffff;
     margin: 0.5vmin;
+}
+
+label#autoplay-label span#autoplay-label-on {
+    color: #ffff30;
+}
+
+label#autoplay-label span#autoplay-label-off {
+    color: #ffffff;
+}
+
+label#autoplay-label span#autoplay-label-on {
+    display: none;
+}
+
+input#autoplay:checked ~ label#autoplay-label {
+    border-style: inset;
+    color: #ffff30;
+    background-color: #000090;
+}
+
+input#autoplay:checked ~ label#autoplay-label span#autoplay-label-off {
+    display: none;
+}
+
+input#autoplay:checked ~ label#autoplay-label span#autoplay-label-on {
+    display: inline;
+}
+
+input#autoplay {
+    display: none;
 }
 
 div#stats {
@@ -158,14 +189,14 @@ form#rate.hidden {
 
 form#rate a {
     font-size: 5vmin;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 form#rate input#cont-input {
     font-size: 5vmin;
     line-height: 7vmin;
     height: 7vmin;
-    width: 25vw;
+    width: 21vw;
     border: inset 0.3vmin #808080;
     border-radius: 2vmin;
 }
