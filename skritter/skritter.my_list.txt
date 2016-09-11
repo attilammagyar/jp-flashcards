@@ -1238,7 +1238,7 @@
 綴り方 tsudzurikata
 魂 tamashii
 贅沢 zeitaku
-唯一 yuitsu
+唯一 yuiitsu
 抱っこ dakko
 抱っこする dakko suru
 紐 himo
@@ -1615,3 +1615,19 @@
 減る heru
 他動詞 tadoushi
 自動詞 jidoushi
+焼ける yakeru
+記憶 kioku
+絡む karamu
+絡み karami
+遠ざかる toozagaru
+正直 shoujiki
+何事 nanigoto
+本動詞 hondoushi
+助動詞 jodoushi
+予告編 yokokuhen
+病人 byounin
+立ち上げる tachiageru
+立ち上がる tachiagaru
+殖やす fuyasu
+離す hanasu
+離れる hanareru
