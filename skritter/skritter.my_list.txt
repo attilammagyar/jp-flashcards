@@ -1631,3 +1631,20 @@
 殖やす fuyasu
 離す hanasu
 離れる hanareru
+出産 shussan
+生物 seibutsu
+この世 kono yo
+強調 kyouchou
+シマウマ shimauma
+誕生 tanjou
+抽象 chuushou
+傑作 kessaku
+利益 rieki
+誤解 gokai
+発言 hatsugen
+産む umu
+生む umu
+生まれる umareru
+産まれる umareru
+貴重 kichou
+有意義 yuuigi
