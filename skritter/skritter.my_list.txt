@@ -1655,3 +1655,6 @@
 子音 shiin
 鍾乳洞 shounyuudou
 菊 kiku
+低音 teion
+高音 kouon
+上司 joushi
