@@ -1658,3 +1658,5 @@
 低音 teion
 高音 kouon
 上司 joushi
+休業 kyuugyou
+商品 shouhin
