@@ -1749,3 +1749,5 @@
 計画を立てる keikaku wo tateru
 割る waru
 割れる wareru
+涙腺 ruisen
+緩い yurui
