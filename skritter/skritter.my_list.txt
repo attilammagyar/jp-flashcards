@@ -1755,3 +1755,27 @@
 詳細情報 shousaijouhou
 平方 heihou
 煙 kemuri
+脱線 dassen
+両 ryou
+倒れる taoreru
+線路 senro
+逮捕する taiho suru
+原因 gen'in
+同期 douki
+道具 dougu
+跳ねる haneru
+撥ねる haneru
+平均 heikin
+国連 kokuren
+気象 kishou
+お祝い oiwai
+大臣 daijin
+総理大臣 souridaijin
+太平洋 taiheiyou
+成長 seichou
+核兵器 kakuheiki
+実験 jikken
+資料館 shiryoukan
+世界大戦 sekaitaisen
+第二次世界大戦 dai ni ji sekaitaisen
+原爆 genbaku
