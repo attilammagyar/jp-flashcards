@@ -103,7 +103,11 @@ with open(skritter_export_file) as f:
     cards = []
 
     for line in f:
-        kanji, kana, meaning = line.strip().split("\t")
+        try:
+            kanji, kana, meaning = line.strip().split("\t")
+        except Exception:
+            print("Error parsing: {!r}".format(line), file=sys.stderr)
+            raise
 
         if kanji != kana:
             cards.append((kanji, kana, meaning))
