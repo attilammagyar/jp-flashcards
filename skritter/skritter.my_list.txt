@@ -1961,3 +1961,27 @@
 社会主義 shakaishugi
 ミサイル misairu
 注目 chuumoku
+城 shiro
+防災 bousai
+高知県 kouchiken
+黒潮 kuroshio
+議長 gichou
+宣言 sengen
+確り shikkari
+容疑 yougi
+容疑者 yougisha
+覚醒剤 kakuseizai
+疑い utagai
+逮捕 taiho
+逮捕される taiho sareru
+禁止 kinshi
+尿 nyou
+飛鳥 hichou
+飛鳥 asuka
+香港 honkon
+新潟県 niigataken
+農場 noujou
+型 kata
+殺す korosu
+以内 inai
+家鴨 ahiru
