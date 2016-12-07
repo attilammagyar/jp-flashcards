@@ -2170,3 +2170,29 @@
 基地 kichi
 太平洋戦争 taiheiyousensou
 軍艦 gunkan
+上手い umai
+関係ない kankei nai
+裁判 saiban
+裁判所 saibansho
+憲法裁判所 kenpousaibansho
+固まる katamaru
+凹む hekomu
+細い hosoi
+掃除 souji
+棒 bou
+パクチー pakuchii
+独特 dokutoku
+味 aji
+匂いがする nioi ga suru
+野菜 yasai
+ベトナム betonamu
+美容 biyou
+温泉 onsen
+地図 chizu
+観光 kankou
+湯気 yuge
+両親 ryoushin
+大分県 ooitaken
+群馬県 gunmaken
+お土産 omiyage
+包む tsutsumu
