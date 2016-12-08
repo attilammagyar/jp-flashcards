@@ -2227,3 +2227,7 @@
 遭う au
 抗生物質 kouseibusshitsu
 生死 seishi
+文房具 bunbougu
+放ったらかし hottarakashi
+放ったらかしにする hottarakashi ni suru
+放ったらかす hottarakasu
