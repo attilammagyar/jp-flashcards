@@ -2196,3 +2196,34 @@
 群馬県 gunmaken
 お土産 omiyage
 包む tsutsumu
+寺 tera
+地蔵 jizou
+墓 haka
+打付ける butsukeru
+可能性が高い kanousei ga takai
+謝る ayamaru
+病気 byouki
+呼ばれる yobareru
+多く ooku
+新聞 shinbun
+読解力 dokkairyoku
+学力 gakuryoku
+科学 kagaku
+文章 bunshou
+地域 chiiki
+高校 koukou
+意見を言う iken wo iu
+しっかり shikkari
+棚 tana
+川崎 kawasaki
+倉庫 souko
+箱 hako
+歩く aruku
+速い hayai
+交通 koutsuu
+機関 kikan
+交通事故 koutsuujiko
+交通機関 koutsuukikan
+遭う au
+抗生物質 kouseibusshitsu
+生死 seishi
