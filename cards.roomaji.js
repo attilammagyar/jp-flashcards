@@ -2497,7 +2497,7 @@ Flashcards.initialize([
 [
     "(I) liked watching movies very much.",
     "{映画|eiga} wo {見ること|mirukoto} ga totemo {好き|suki} deshita.",
-    "verbう + こと = doing ~ (nominalize)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)"
 ],
 [
     "Because (I) liked shopping very much, (I) always went to shopping to the town. {の で}",
@@ -3357,7 +3357,7 @@ Flashcards.initialize([
 [
     "Eri can already swim.",
     "{絵李|eri} chan wa mou {泳ぐこと|oyogukoto} dekimasu.",
-    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "Roger likes to drink beer with (his) friends.",
@@ -3397,32 +3397,32 @@ Flashcards.initialize([
 [
     "Naoe can speak English a little.",
     "{直慧|naoe} san wa {少し|sukoshi} {英語|eigo} wo {話すこと|hanasukoto} ga dekimasu.",
-    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "I can't eat raw fish.",
     "{私|watashi} wa {刺身|sashimi} wo {食べること|taberukoto} ga dekimasen.",
-    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "Rie likes doing cooking.",
     "{莉描|rie} san wa {料理|ryouri} wo suru {事|koto} ga {好き|suki} desu.",
-    "verbう + こと = doing ~ (nominalize)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)"
 ],
 [
     "Yuki is good at studying Maths but bad at English.",
     "{侑妃|yuki} san wa {数学|suugaku} wo {勉強|benkyou} suru {事|koto} ga {得意|tokui} desu ga {英語|eigo} ga {苦手|nigate} desu.",
-    "verbう + こと = doing ~ (nominalize)\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "Speaking with Japanese people is interesting.",
     "{日本人|nihonjin} to {話すこと|hanasukoto} ga {面白い|omoshiroi} desu.",
-    "verbう + こと = doing ~ (nominalize)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)"
 ],
 [
     "Roger is good at writing kanji.",
     "_rojaa_ san wa {漢字|kanji} wo {書くこと|kakukoto} ga {得意|tokui} desu.",
-    "verbう + こと = doing ~ (nominalize)\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\n{得意|とくい}/{苦手|にがて}: talents, academic/professional skills, strong/weak points\n{得意|とくい} is more modest than {上手|じょうず}"
 ],
 [
     "Recently (I'm) learning judo.",
@@ -3652,12 +3652,12 @@ Flashcards.initialize([
 [
     "Why does Miki want to watch baseball? Because (she) likes watching sports. {から}",
     "{三木|miki} san wa doushite {野球|yakyuu} wo {見たい|mitai} desu ka. _supootsu_ wo {見ること|mirukoto} ga {好き|suki} da kara desu.",
-    "verb-stem + たい = want to ~ (verb --> い adj.)\nverbう + こと = doing ~ (nominalize)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
+    "verb-stem + たい = want to ~ (verb --> い adj.)\nverbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}"
 ],
 [
     "Why can't Roger eat meat? Because (he's) vegetarian. {から}",
     "_rojaa_ san wa doushite {肉|niku} wo {食べること|taberukoto} ga dekimasen ka. _bejitarian_ da kara desu.",
-    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nnoun + できる = can (do) noun (or request, request permission)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)"
 ],
 [
     "Erm... are (you) free tonight?",
@@ -3692,7 +3692,7 @@ Flashcards.initialize([
 [
     "(I'm) not very good at speaking Spanish yet but (I) think that speaking with South American people will be very interesting.",
     "_supein_ {語|go} wo {話すこと|hanasukoto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {南|minami} _amerika_ {人|jin} to {話すこと|hanasukoto} wa totemo {面白い|omoshiroi} to {思います|omoimasu}.",
-    "verbう + こと = doing ~ (nominalize)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc."
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc."
 ],
 [
     "(I) also like Spanish food very much but (I) can't make (it).",
@@ -3767,12 +3767,12 @@ Flashcards.initialize([
 [
     "(I'm) not very good at speaking Japanese yet, but (I'm) interested in Japanese things.",
     "{日本語|nihongo} wo {話すこと|hanasukoto} ga {未だ|mada} {余り|amari} {上手|jouzu} ja arimasen ga {日本|nihon} no {事|koto} ni {興味|kyoumi} ga arimasu.",
-    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverbう + こと = doing ~ (nominalize)"
+    "{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)"
 ],
 [
     "(I) also like Japanese food very much, but (I) can't make (it).",
     "{日本|nihon} no {料理|ryouri} mo totemo {好き|suki} desu ga {作ること|tsukurukoto} wa dekimasen.",
-    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nnoun + できる = can (do) noun (or request, request permission)\nbut: けれども > けれど > けど; ~ます/です --> が; plain --> けど (not always contradiction)"
 ],
 [
     "(I) think Roger doesn't like sushi very much. Because (he) didn't eat (it) only a little. {から}",
@@ -3822,7 +3822,7 @@ Flashcards.initialize([
 [
     "Roger is good at playing tennis because (he) practices every day. {の で}",
     "_rojaa_ san wa {毎日|mainichi} {練習|renshuu} wo suru no de _tenisu_ wo suru {事|koto} ga {上手|jouzu} desu.",
-    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverbう + こと = doing ~ (nominalize)"
+    "の で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nwhen answering {何故|なぜ} and どうして, から is more common than の で\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)"
 ],
 [
     "(I) came to Japan because (I) want to study Japanese. {の で}",
@@ -4037,7 +4037,7 @@ Flashcards.initialize([
 [
     "The big one is better than the small one.",
     "{小さい|chiisai} no yori {大きい|ookii} {方|hou} ga ii desu.",
-    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nNoun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
+    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\nNoun-A の {方|ほう} が (Noun-B より) X = Noun-A is X'er (than Noun-B, Noun-B より can be omitted when known)"
 ],
 [
     "(You) should probably send an email.",
@@ -4182,27 +4182,27 @@ Flashcards.initialize([
 [
     "The white (one) is cute.",
     "{白い|shiroi} no wa {可愛い|kawaii} desu.",
-    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)"
 ],
 [
     "(I) forgot going to class. {plain}",
     "{授業|jugyou} ni {行く|iku} no wo {忘れた|wasureta}.",
-    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)"
 ],
 [
     "Studying every day is tough.",
     "{毎日|mainichi} {勉強|benkyou} suru no wa {大変|taihen} desu.",
-    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)"
 ],
 [
     "Eating the same (thing) every day is not interesting.",
     "{毎日|mainichi} {同じ|onaji} {物|mono} wo {食べる|taberu} no wa {面白くない|omoshirokunai} desu.",
-    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)"
 ],
 [
     "The quiet (one) is Alice's room. {plain}",
     "{静かな|shizukana} no ga _arisu_ no {部屋|heya} da.",
-    "な-adj. + な + の = (the) ~ one/thing, (clause --> generic noun)"
+    "な-adj. + な + の = (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)"
 ],
 [
     "Where did (you) perform?",
@@ -4402,7 +4402,7 @@ Flashcards.initialize([
 [
     "When (I) was learning English, among the practices (I) did after classes and homework, there are 3 that I think were good.",
     "{英語|eigo} wo {習って|naratte} ita {時|toki}, {授業|jugyou} to {宿題|shukudai} no {後|ato} ni {実践|jissen} shita {中|naka} de, {私|watashi} ga {良かった|yokatta} to {思う|omou} koto ga {三つ|mittsu} arimasu.",
-    "verbた + {時|とき} = when did/have done ~\nverbう + こと = doing ~ (nominalize)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+    "verbた + {時|とき} = when did/have done ~\nverbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "This time (I'll) make it up to (you).",
@@ -4602,7 +4602,7 @@ Flashcards.initialize([
 [
     "Cute baby, isn't he? Can (he) walk? No, (he) can't. But (he) can crawl.",
     "{可愛い|kawaii} {赤ちゃん|akachan} desu ne. {歩く|aruku} koto wa dekimasu ka. iie, dekimasen. demo, _haihai_ suru koto ga dekimasu.",
-    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "He's about my size.",
@@ -4687,7 +4687,7 @@ Flashcards.initialize([
 [
     "(I'm) not very good at singing, but (I) often tried singing as well.",
     "{歌う|utau} koto wa amari {上手|jouzu} ja arimasen ga, yoku {歌って|utatte} miru koto mo shimashita.",
-    "verbう + こと = doing ~ (nominalize)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverbて + みる = try doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\n{上手|じょうず}/{下手|へた}: practical skills, crafts, sports, arts, etc.\nverbて + みる = try doing ~\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Since (I) became an adult, it seems that a lot of things that looked boring as a child, (I) became interested in. Probably because (I) don't have to take exams anymore, right?",
@@ -4702,7 +4702,7 @@ Flashcards.initialize([
 [
     "There are a lot of things (I) can't say yet.",
     "{未だ|mada} {言う|iu} koto ga {出来ない|dekinai} koto ga ippai arimasu.",
-    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "Suddenly the phone rang. {plain}",
@@ -4747,7 +4747,7 @@ Flashcards.initialize([
 [
     "(You) can do various things in the library that can't be done in the classroom. {plain}",
     "{図書館|toshokan} de wa, {教室|kyoushitsu} de dekinai {色々|iroiro} na koto ga dekiru.",
-    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "(I) like Korean food because (it's) spicy. {の で}",
@@ -4877,7 +4877,7 @@ Flashcards.initialize([
 [
     "Can (you) add anchovies to the toppings? Can (you) also add eggplant?",
     "_toppingu_ ni _anchoobi_ no {追加|tsuika} wa dekimasu ka. {茄子|nasu} mo {追加|tsuika} dekimasu ka.",
-    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "One more margarita pizza please.",
@@ -4887,7 +4887,7 @@ Flashcards.initialize([
 [
     "Can (you) eat (it) all?",
     "{全部|zenbu} {食べる|taberu} koto ga dekimasu ka.",
-    "verbう + こと = doing ~ (nominalize)\nnoun + できる = can (do) noun (or request, request permission)"
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nnoun + できる = can (do) noun (or request, request permission)"
 ],
 [
     "(I'll) add new data.",
@@ -5797,12 +5797,12 @@ Flashcards.initialize([
 [
     "(Do you think he) will really eat this type of thing? {plain} Are (you) really going to eat something like this? {plain}",
     "kon'na no wo {本当|hontou} ni {食べる|taberu} ka? kon'na no wo {本当|hontou} ni {食べる|taberu}?",
-    "か in casual speech = rhetorical question, sarcasm, true or not\nな-adj. + な + の = (the) ~ one/thing, (clause --> generic noun)"
+    "か in casual speech = rhetorical question, sarcasm, true or not\nな-adj. + な + の = (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)"
 ],
 [
     "(Do I look like I'd) have something like that? {plain} Do (you) have something like that? {plain}",
     "son'na no wa, aru ka yo! son'na no wa, aru no?",
-    "か in casual speech = rhetorical question, sarcasm, true or not\nな-adj. + な + の = (the) ~ one/thing, (clause --> generic noun)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+    "か in casual speech = rhetorical question, sarcasm, true or not\nな-adj. + な + の = (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "(I) forgot what (I) ate yesterday. {plain}",
@@ -6082,7 +6082,7 @@ Flashcards.initialize([
 [
     "It cleared up today, and Mt. Fuji is visible. / Thanks to (my) friend, (I) could watch the movie for free. / Thanks to (my) friend, (I) could watch the movie for free. {plain}",
     "{今日|kyou} wa {晴れて|harete}, {富士山|fujisan} ga {見える|mieru}. {友達|tomodachi} no okage de, {映画|eiga} wa tada {見られた|mirareta}. {友達|tomodachi} no okage de, {映画|eiga} wo tada {見る|miru} no ga dekita.",
-    "verbえる/られる: を --> は/が\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun + できる = can (do) noun (or request, request permission)\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
+    "verbえる/られる: を --> は/が\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\nnoun + できる = can (do) noun (or request, request permission)\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
 ],
 [
     "(I) could hear his voice for the first time in a long time. / The surroundings were noisy and (I) couldn't hear what he was saying very well. {plain}",
@@ -6092,7 +6092,7 @@ Flashcards.initialize([
 [
     "It's also possible that he overslept. {plain}",
     "{彼|kare} ga {寝坊|nebou} shita koto mo ariuru ne.",
-    "{有り得る|ありえる、ありうる} = can possibly exist\nverbう + こと = doing ~ (nominalize)"
+    "{有り得る|ありえる、ありうる} = can possibly exist\nverbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)"
 ],
 [
     "That's an impossible story. {plain}",
@@ -6287,27 +6287,27 @@ Flashcards.initialize([
 [
     "The most interesting thing was that the main character was the criminal. {plain}",
     "{主人公|shujinkou} ga {犯人|han'nin} datta to iu no ga {一番|ichiban} {面白かった|omoshirokatta}.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)"
 ],
 [
     "It was a lie, that you were single? {plain}",
     "{独身|dokushin} da to iu no wa, {嘘|uso} datta no?",
-    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)\nverb-plain/い-adj. + の/ん + です = justification, explanation (softer than から)"
 ],
 [
     "\"Reboot\" means to restart the computer.",
     "_ribuuto_ to iu no wa, _pasokon_ wo {再起動|saikidou} suru to iu koto desu.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbう + こと = doing ~ (nominalize)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\nverbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)"
 ],
 [
     "It's because you always come at times like these that (I'm) in trouble. {plain}",
     "anata wa, itsumo kou iu {時|toki} ni {来る|kuru} n da kara, {困る|komaru} n da yo.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nから = because (verb-plain/~ます + から, ~い/~いです + から, noun/な-adj. + だ/です + から)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\nnoun/な-adj. + な + の/ん + です = justification, explanation (softer than から)\nの at end of sentence = informal version of の/ん + です (の/ん: female/question, のだ/んだ: male)"
 ],
 [
     "Working together with that type of person is dislikeable, huh? {plain}",
     "sou iu {人|hito} to {一緒|issho} ni {仕事|shigoto} wo suru no wa, {嫌い|kirai} da yo ne.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)"
 ],
 [
     "(I) think that (you) can become happy if (you) could marry that type of person.",
@@ -6327,7 +6327,7 @@ Flashcards.initialize([
 [
     "The meal is not over when I'm full. The meal is over when I hate myself. {plain}",
     "{僕|boku} ga {食事|shokuji} wo {終える|oeru} no wa {お腹|onaga} ga ippai ni natta {時|toki} ja nai. {自分|jibun} ni unzari shite shimatta {時|toki} da yo.",
-    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "verbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\nverbて + {仕舞う|しまう} = finish doing ~, go and ~ (sometimes regretful; spoken: ~て{仕舞う|しまう} --> ~ちゃう, ~で{仕舞う|しまう} --> ~じゃう)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "Miki-chan is (your) girlfriend, right? Um, (you) might say girlfriend, or friend, or something. {plain}",
@@ -6357,7 +6357,7 @@ Flashcards.initialize([
 [
     "The studying abroad next year thing, is that Tomoko? {casual}",
     "{来年|rainen} {留学|ryuugaku} suru to iu no wa, {智子|tomoko} no koto? {来年|rainen} {留学|ryuugaku} surutte, {智子|tomoko} no koto?",
-    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)"
 ],
 [
     "(You) have to do it, you know. But (I) can't do it because (I) don't have time. {casual}",
@@ -6422,7 +6422,7 @@ Flashcards.initialize([
 [
     "(He) received that watch from me. {plain}",
     "sono {時計|tokei} wa {私|watashi} kara moratta no yo.",
-    "X は/が Y に/から Z を {貰う|もらう} = X receives Z from Y\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)"
+    "X は/が Y に/から Z を {貰う|もらう} = X receives Z from Y\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)"
 ],
 [
     "The watch (my) father gave (me), broke. {plain}",
@@ -6797,7 +6797,7 @@ Flashcards.initialize([
 [
     "Exceeding the speed of light is thought to be impossible. {plain}",
     "{光|hikari} no {早さ|hayasa} wo {超える|koeru} no wa, {不可能|fukanou} da to {思われる|omowareru}.",
-    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nい-adj. - い + さ = ~ness\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
+    "verbわれる/られる = passive, often more polite (get ~ done to by ~)\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}\nい-adj. - い + さ = ~ness\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)"
 ],
 [
     "This textbook is read by a lot of people. {plain}",
@@ -6842,7 +6842,7 @@ Flashcards.initialize([
 [
     "In Japan, people get made to drink a lot of times. {plain} In Japan, people get made to drink a lot of times. {casual}",
     "{日本|nihon} de wa, {お酒|osake} wo {飲ませられる|nomaserareru} koto ga {多い|ooi}. {日本|nihon} de wa, {お酒|osake} wo {飲まされる|nomasareru} koto ga {多い|ooi}.",
-    "verbわせられる/させられる = causative-passive (get made to do ~; casual: ~わされる, NEVER ~さされる)\nverbわせられる/させられる: {言わせられる|いわせられる}, {聞かせられる|きかせられる}, {食べさせられる|たべさせられる}, させられる, {来させられる|こさせられる}\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbう + こと = doing ~ (nominalize)"
+    "verbわせられる/させられる = causative-passive (get made to do ~; casual: ~わされる, NEVER ~さされる)\nverbわせられる/させられる: {言わせられる|いわせられる}, {聞かせられる|きかせられる}, {食べさせられる|たべさせられる}, させられる, {来させられる|こさせられる}\nnoun + で + verb = do verb with/using/at noun (place of action or by-means-of)\nverbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)"
 ],
 [
     "(I) was made to wait 2 hours by that guy. {plain} (I) was made to wait 2 hours by that guy. {casual}",
@@ -7049,7 +7049,7 @@ Flashcards.initialize([
 [
     "The one that escaped was a blackish car. {casual}",
     "{逃げた|nigeta} no wa {黒|kuro} ppoi {車|kuruma} deshita.",
-    "noun/adj./verb + っぽい = casual らしい/みたい/よう...\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+    "noun/adj./verb + っぽい = casual らしい/みたい/よう...\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "As you (all) are aware, the contents of the exam will change.",
@@ -7094,7 +7094,7 @@ Flashcards.initialize([
 [
     "(I) hope (I) won't get the flu. {x2}",
     "_infuruenza_ ni kakarimasen you ni. _infuruenza_ ni kakaranai koto wo {望んで|nozonde} imasu.",
-    "verbます/verbません/verbれます + よう + に at end of sentence = hope\nverbう + こと = doing ~ (nominalize)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+    "verbます/verbません/verbれます + よう + に at end of sentence = hope\nverbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [
     "What's wrong with Pochi? (He) doesn't seem to eat (at all). {plain}",
@@ -7169,7 +7169,7 @@ Flashcards.initialize([
 [
     "(I) said \"please let me in\" and finally (I) could go in. When it's crowded, even if (you) try to get off, sometimes (you) can't get off, so (they) might stand close to the door. But if (you) also think about the people taking (the train), (I) think (you) should try to get in the middle as much as you can.",
     "「{中|naka} ni {入らせて|hairasete} kudasai」 to {言って|itte}, yatto {入れました|hairemashita}. {混んで|konde} iru toki wa, {降りよう|oriyou} to shite mo nakanaka {降りられない|orirarenai} no de, _doa_ no {近く|chikaku} ni {立って|tatte} iru no ka mo shiremasen. demo, {乗る|noru} {人|hito} no koto mo {考えて|kangaete}, narubeku {中|naka} he {入る|hairu} you ni shita hou ga ii to {思いました|omoimashita}.",
-    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbて + ください = request\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\nverbう + {様|よう} + に + する = to make an effort to ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+    "verbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nverbて + ください = request\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbおう/よう + と + する = attempt to ~, struggle with ~, tried ~ but failed (can use other verb than する)\nverbう + か + も + しれません/しれない = might do ~, possibly (will) do ~\nverbう + {様|よう} + に + する = to make an effort to ~\nverbた + {方|ほう} + が + いい = you'd better do ~, you should do ~\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}\nverbおう/よう: {言おう|いおう}, {聞こう|きこう}, {食べよう|たべよう}, しよう, {来よう|こよう}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "(I) will definitely study tomorrow! {plain}",
@@ -7359,7 +7359,7 @@ Flashcards.initialize([
 [
     "It's pitiful that one gets covered in sweat from running just 1 kilometer. {plain}",
     "tatta {1|ichi} _kiro_ wo {走った|hashitta} dake de, {汗|ase} mamire ni naru no wa {情けない|nasakenai}.",
-    "noun + {塗れ|まみれ} = physically covered with ~\nnoun/な adj. + に + {成る|なる} = become ~\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+    "noun + {塗れ|まみれ} = physically covered with ~\nnoun/な adj. + に + {成る|なる} = become ~\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
 ],
 [
     "Isn't that person dressed in black very suspicious? {plain}",
@@ -7484,6 +7484,31 @@ Flashcards.initialize([
 [
     "I know exactly why I'm not going to sleep tonight. I think I'm going to listen Babymetal's new album over and over again all night long. One and a half years ago I started learning Japanese because of this music. I still can't understand much from the lyrics, but sometimes, when there's a line I can comprehend, I feel very happy. Also, I'm glad I could have met a lot of nice people.",
     "{僕|boku} ga naze {今夜|kon'ya} {寝る|neru} tsumori ga nai no ka ga _hakkiri_ {分かります|wakarimasu} yo. *Babymetal* no _nyuuarubamu_ wo {一晩中|hitobanjuu} {繰り返し|kurikaeshi} {聞こう|kikou} to {思います|omoimasu}. {1年半|ichinenhan} {前|mae} kara, kono {音楽|ongaku} no okage de {日本語|nihongo} no {勉強|benkyou} wo {始めました|hajimemashita}. {歌詞|kashi} wa mada amari {分かりません|wakarimasen} ga, tama ni {理解|rikai} dekiru {行|gyou} ga {見つかる|mitsukaru} to, totemo {幸せ|shiawase} wo {感じます|kanjimasu}. soshite, {優しい|yasashii} {人|hito} to mo {多く|ooku} {知り合えた|shiriaeta} no de {嬉しい|ureshii} desu.",
-    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun)\nか at end of clause = talking about a question\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
+    "verbう/な-adj.な/nounの/い-adj. + つもり = intend to ~, convinced that ~\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)\nか at end of clause = talking about a question\nverbおう/よう + と + {思う|おもう} = I think I _will_ ~\nverb-plain/い-adj. + と / noun/な-adj. + だ + と = if (natural consequence)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbえる/られる: {言える|いえる}, {聞ける|きける}, {食べられる|たべられる}, できる, {来られる|こられる}"
+],
+[
+    "This food has expired. {plain}",
+    "kono {食品|shokuhin} wa {賞味期限|shoumikigen} ga kireta.",
+    "verbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}"
+],
+[
+    "The expiration date of this milk has passed. {plain}",
+    "kono _miruku_ wa {賞味期限|} ga {過ぎて|sugite} iru.",
+    "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Since the places are close, the police is investigating considering that it is likely that the same person damaged (the temples).",
+    "{場所|basho} ga {近い|chikai} tame, {警察|keisatsu} wa, {同じ|onaji} {人|hito} ga {壊した|kowashita} {可能性|kanousei} ga {高い|takai} to {考えて|kangaete} {調べて|shirabete} imasu.",
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverb-A-て verb-B = do verb-A (and) then do verb-B, tense is implied by last verb in the sequence\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "Also, in an other department store which is in Ikebukuro, the reservations for cakes have increased by 20% (compared to) the same time last year.",
+    "{池袋|ikebukuro} ni aru {別|betsu} no _depaato_ de mo, _keeki_ no {予約|yoyaku} wa, {去年|kyonen} no {同じ|onaji} toki yori {２０％|nijippaasento} {増えて|fuete} imasu.",
+    "A は Bより X = Bより A は X = A is X'er than B\nverbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
+],
+[
+    "(My) target of this year is to pass the exam. (I) heard (my) friends talking.",
+    "{今年|kotoshi} no {目標|mokuhyou} wa, {試験|shiken} ni {合格|goukaku} suru koto desu. {友達|tomodachi} ga {話して|hanashite} iru no ga {聞こえました|kikoemashita}.",
+    "verbう + こと = doing ~ (nominalize; often in fixed expressions/routines/rules/experiences, e.g. ことがある, ことが{必要|ひつよう}だ, ことが{可能|かのう}だ, ことに{決める|きめる}, etc. and to nominalize right before です)\nverbう/い-adj. + の = doing ~, (the) ~ one/thing, (clause --> generic noun; often related to perceptions, e.g. {見る|みる}, {見える|みえる}, {聞く|きく}, {聞こえる|きこえる}, etc.)"
 ]
 ])
