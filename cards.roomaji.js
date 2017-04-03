@@ -6932,9 +6932,9 @@ Flashcards.initialize([
     ""
 ],
 [
-    "Actually, (I) had a discussion with (my) friend and colleague Alice (and she mentioned that she) wants to start learning Japanese, so I told her about Ms. Natsuko's.",
+    "Actually, I was told by my friend and colleague called Alice that (she) wants to start learning Japanese, so I told her about Ms. Natsuko.",
     "{実|jitsu} wa, {同僚|douryou} no _arisu_ to iu {友達|tomodachi} kara {日本語|nihongo} no {勉強|benkyou} wo {始めたい|hajimetai} to {相談|soudan} sareta no de, {私|watashi} wa {夏子|natsuko} san no koto wo _arisu_ san ni {教えました|oshiemashita}.",
-    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbわせる/させる: {言わせる|いわせる}, {聞かせる|きかせる}, {食べさせる|たべさせる}, させる, {来させる|こさせる}"
+    "~ と {言う|いう} = called ~ (define; casual: ~って, following particles can be dropped)\n「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverbわせる/させる = causative (make/let sb. to do ~; rough slang: ~う --> わす, ~る --> さす)\nの で = because (verb-plain + の で, ~い/~いです + の で, noun/な-adj. + な + の で) (ん で = casual の で)\nverbたい: {言いたい|いいたい}, {聞きたい|ききたい}, {食べたい|たべたい}, したい, {来たい|きたい}\nverbた: {言った|いった}, {聞いた|きいた}, {食べた|たべた}, した, {来た|きた}, {行った|いった}\nverbわれる/られる: {言われる|いわれる}, {聞かれる|きかれる}, {食べられる|たべられる}, される, {来られる|こられる}"
 ],
 [
     "(It's) because (when I) kept making mistakes at the meetup, (I) received very kind support from Ms. Natsuko.",
