@@ -6492,7 +6492,7 @@ Flashcards.initialize([
 [
     "If (you) think that's fine, then do it!",
     "sore de ii to {思う|omou} nara, sou shi na yo.",
-    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverb-plain/noun/い-adj./な-adj. + なら = if (given that X, Y will happen - contextual condition) (ならば = more formal)"
+    "「」と = direct quote, ~と/~だと = interpreted quote (casual: ~って, following particles can be dropped)\nverb-plain/noun/い-adj./な-adj. + なら = if (given that X, Y will happen - contextual condition) (ならば = more formal)\nverb-stem + なさい = imperative (casual: verb-stem + な)\nverb-stem: {言い|いい}, {聞き|きき}, {食べ|たべ}, し, {来|き}"
 ],
 [
     "Die!",

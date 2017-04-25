@@ -6492,7 +6492,7 @@ Flashcards.initialize([
     [
         "If (you) think that's fine, then do it!",
         "\u305d\u308c \u3067 \u3044\u3044 \u3068 {\u601d\u3046|\u304a\u3082\u3046} \u306a\u3089\u3001 \u305d\u3046 \u3057 \u306a \u3088\u3002",
-        "\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb-plain/noun/\u3044-adj./\u306a-adj. + \u306a\u3089 = if (given that X, Y will happen - contextual condition) (\u306a\u3089\u3070 = more formal)"
+        "\u300c\u300d\u3068 = direct quote, ~\u3068/~\u3060\u3068 = interpreted quote (casual: ~\u3063\u3066, following particles can be dropped)\nverb-plain/noun/\u3044-adj./\u306a-adj. + \u306a\u3089 = if (given that X, Y will happen - contextual condition) (\u306a\u3089\u3070 = more formal)\nverb-stem + \u306a\u3055\u3044 = imperative (casual: verb-stem + \u306a)\nverb-stem: {\u8a00\u3044|\u3044\u3044}, {\u805e\u304d|\u304d\u304d}, {\u98df\u3079|\u305f\u3079}, \u3057, {\u6765|\u304d}"
     ],
     [
         "Die!",
