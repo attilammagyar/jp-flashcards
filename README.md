@@ -20,8 +20,8 @@ Usage
    [index.html#!.3a,9,z2.149/A2,9,3][h]
  * List all cards: [all.html][l]
  * List only the focused cards: [all.html#!.3a,9,z2.149/A2,9,3][m]
- * List only the English part of focused cards: [all.html#en!.3a,9,z2.149/A2,9,3][m]
- * List only the Japanese part of focused cards: [all.html#jp!.3a,9,z2.149/A2,9,3][m]
+ * List only the English part of focused cards: [all.html#en!.3a,9,z2.149/A2,9,3][n]
+ * List only the Japanese part of focused cards: [all.html#jp!.3a,9,z2.149/A2,9,3][o]
 
   [a]: http://attilammagyar.github.io/jp-flashcards/index.html
   [f]: http://attilammagyar.github.io/jp-flashcards/index.html#15
@@ -30,6 +30,8 @@ Usage
   [h]: http://attilammagyar.github.io/jp-flashcards/index.html#!.3a,9,z2.149/A2,9,3
   [l]: http://attilammagyar.github.io/jp-flashcards/all.html
   [m]: http://attilammagyar.github.io/jp-flashcards/all.html#!.3a,9,z2.149/A2,9,3
+  [n]: http://attilammagyar.github.io/jp-flashcards/all.html#en!.3a,9,z2.149/A2,9,3
+  [o]: http://attilammagyar.github.io/jp-flashcards/all.html#jp!.3a,9,z2.149/A2,9,3
 
 Click anywhere to reveal the correct answer, the furigana, to rate your answer
 to the current card, or to jump to the next card. If you rate your answer
