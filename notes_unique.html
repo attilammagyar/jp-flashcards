@@ -34,6 +34,7 @@
     }
 
     ol li {
+        height: auto;
         margin: 0.08em;
         padding: 0.08em;
         break-inside: avoid;
@@ -56,6 +57,8 @@
 
     ol li.hidden {
         opacity: 0.5;
+        max-height: 110px;
+        overflow: hidden;
     }
 
     @media print {
@@ -163,7 +166,7 @@
                 "<li id=\"section" + String(j) + "\">",
                     "<h1>",
                         n,
-                        "<a class=\"toggle\" href=\"#\" onclick=\"Flashcards.toggleSectionPrinting(" + String(j) + "); return false;\">Print ON/OFF</a>",
+                        "<a class=\"toggle\" href=\"#\" onclick=\"Flashcards.toggleSectionPrinting(" + String(j) + "); return false;\">Toggle visibility</a>",
                     "</h1>",
                     "<ol>"
             ]);
