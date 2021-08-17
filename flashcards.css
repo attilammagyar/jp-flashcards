@@ -173,14 +173,12 @@ form#rate {
     padding: 0.7vmin;
     border-radius: 3vmin;
     opacity: 1.0;
-    transition: opacity 0.25s;
-    transition: height 0.25s;
+    transition: height 0.25s, opacity 0.25s;
 }
 
 form#rate.hidden {
     opacity: 0.0;
-    transition: opacity 0.0s;
-    transition: height 0.0s;
+    transition: height 0.0s, opacity 0.0s;
     height: 0;
     padding: 0;
     border-style: none;
