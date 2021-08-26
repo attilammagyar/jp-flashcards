@@ -7493,7 +7493,7 @@ Flashcards.initialize([
 ],
 [
     "The expiration date of this milk has passed. {plain}",
-    "kono _miruku_ wa {賞味期限|} ga {過ぎて|sugite} iru.",
+    "kono _miruku_ wa {賞味期限|shoumikigen} ga {過ぎて|sugite} iru.",
     "verbて + いる = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~ている --> ~てる)\nverbて: {言って|いって}, {聞いて|きいて}, {食べて|たべて}, して, {来て|きて}, {行って|いって}"
 ],
 [

@@ -7491,7 +7491,7 @@ Flashcards.initialize([
     ],
     [
         "The expiration date of this milk has passed. {plain}",
-        "\u3053\u306e \u30df\u30eb\u30af \u306f {\u8cde\u5473\u671f\u9650|} \u304c {\u904e\u304e\u3066|\u3059\u304e\u3066} \u3044\u308b\u3002",
+        "\u3053\u306e \u30df\u30eb\u30af \u306f {\u8cde\u5473\u671f\u9650|\u3057\u3087\u3046\u307f\u304d\u3052\u3093} \u304c {\u904e\u304e\u3066|\u3059\u304e\u3066} \u3044\u308b\u3002",
         "verb\u3066 + \u3044\u308b = be (in the state of) doing ~, emphasize regular habitual action, past action with still existing result (casual speech: ~\u3066\u3044\u308b --> ~\u3066\u308b)\nverb\u3066: {\u8a00\u3063\u3066|\u3044\u3063\u3066}, {\u805e\u3044\u3066|\u304d\u3044\u3066}, {\u98df\u3079\u3066|\u305f\u3079\u3066}, \u3057\u3066, {\u6765\u3066|\u304d\u3066}, {\u884c\u3063\u3066|\u3044\u3063\u3066}"
     ],
     [
